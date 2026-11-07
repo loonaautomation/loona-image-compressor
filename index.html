@@ -228,6 +228,24 @@ dialog::backdrop{background:rgba(4,25,31,.65)}
 <h3>Is it really free? Any limits?</h3><p>Yes — completely free, no signup, no watermark, no daily limit. The only limit is your own device's memory.</p>
 </section>
 </main>
+<section class="content">
+<h2>How it works</h2>
+<p>Your image never leaves your device. When you add a file, the browser decodes it locally — applying the orientation saved in the photo — and draws it onto a canvas at the size you allow: capped by the optional maximum width and height, with the aspect ratio always preserved. The canvas is then re-encoded in your chosen format. JPG and WebP use the quality slider (5–100%, set to 82% by default), while PNG is written losslessly, without a quality setting. If you set a target size instead, the tool first encodes at 92% quality and then runs a binary search between 5% and 92% to find the highest quality that still fits under your limit; if even the lowest quality is too large, it steps the dimensions down by 15% at a time until the file fits. For a PNG target, where there is no quality setting to adjust, it shrinks the dimensions in 20% steps instead. Because every output is a fresh re-encode, the original file&rsquo;s metadata is not carried over. Finished images can be downloaded one by one or all together as a ZIP file.</p>
+<h3>Worked example</h3>
+<p>A job portal asks for a passport photo &ldquo;no larger than 200 KB&rdquo;, but the photo on your phone is a 3.9 MB JPG (4032 &times; 3024 pixels). Add the photo, tap the <strong>200 KB</strong> chip — or type 200 in the Target Size box — and leave the output format on &ldquo;Keep original format&rdquo;. The compressor keeps the full 4032 &times; 3024 dimensions and automatically lowers the quality just enough: the downloaded photo comes out at or just under the 200 KB limit, ready to upload. The stats bar shows the original size, the new size and the percentage saved, and the compare view lets you inspect the result with the before/after slider before you download it.</p>
+<h3>Frequently asked questions</h3>
+<h3>Can I compress a whole batch of images at once?</h3>
+<p>Yes. Add as many images as you like — by dropping them in, browsing, or pasting with Ctrl+V — then press Compress All. Every image is processed with the same settings, and the Download All (ZIP) button saves them together in one loona-compressed-images.zip file, each image renamed with a &ldquo;-compressed&rdquo; suffix.</p>
+<h3>What happens to transparent backgrounds?</h3>
+<p>PNG and WebP keep transparency. JPG cannot store transparency, so transparent areas are filled with the colour you pick under &ldquo;Background for JPG&rdquo; — white by default. If a transparent logo or sticker must stay transparent, export it as PNG or WebP instead.</p>
+<h3>Does compressing remove the photo&rsquo;s metadata (EXIF)?</h3>
+<p>Yes. The image is decoded and freshly re-encoded on a canvas, so EXIF data such as the camera model, GPS location and timestamps is not copied into the new file. The photo&rsquo;s orientation is applied to the pixels themselves, so the compressed image still displays the right way up.</p>
+<h3>Why doesn&rsquo;t the quality slider change my PNG&rsquo;s size?</h3>
+<p>PNG compression is lossless, so browsers ignore the quality setting for PNG output — the slider only affects JPG and WebP. To make a PNG smaller, resize it with the Max width / Max height fields, convert it to JPG or WebP, or set a target size: the tool then reduces the PNG&rsquo;s dimensions step by step until it fits.</p>
+<h3>Does &ldquo;target size&rdquo; mean the file will be exactly that size?</h3>
+<p>It means at or under. The tool searches for the highest quality whose result fits within your target, so the finished file is usually just a few KB below the number you typed — it is never padded up to it. If even the lowest quality at full size is still too big, the dimensions are reduced step by step until the file fits.</p>
+</section>
+
 <div id="loona-embed" style="max-width:780px;margin:30px auto;padding:24px;background:#fdfaf1;border:1px solid #d9c98a;border-radius:14px;text-align:left">
 <h2 style="margin:0 0 10px;color:#062e2a;font-size:1.35rem;line-height:1.3">Embed this tool on your website — free</h2>
 <p style="margin:0 0 12px;line-height:1.6">Add this tool to your own website or blog — it is completely free, needs no sign-up, and always shows the latest version. Copy the code below and paste it into your page where you want the tool to appear. Keeping the small &ldquo;Powered by Loona Automation&rdquo; credit line under the embed helps keep this tool free &mdash; but you are free to style or remove it; the tool works either way.</p>
