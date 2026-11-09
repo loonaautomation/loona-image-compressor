@@ -1,6 +1,6 @@
 {
   "name": "Loona X (Twitter) Profile Picture Size",
-  "short_name": "X (Twitter) Profile Picture Size",
+  "short_name": "X (Twitter) Profile Picture",
   "description": "Make a X (Twitter) profile picture at exactly 400×400 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
   "id": "/loona-image-compressor/x-profile-picture-size.html",
   "start_url": "./x-profile-picture-size.html",

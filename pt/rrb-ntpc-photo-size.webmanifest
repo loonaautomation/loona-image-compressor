@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamanho de Fotografia de RRB NTPC (Railways)",
-  "short_name": "Tamanho de Fotografia de RRB NTP",
+  "name": "Loona Tamanho de Fotografia de RRB NTPC",
+  "short_name": "Tamanho de Fotografia de RRB",
   "description": "Redimensione a sua fotografia de RRB NTPC (Railways) para o tamanho do aviso oficial (320 × 240 px) e o intervalo de 30–70 KB. Grátis, no seu navegador — sem envios e sem registo.",
   "id": "/loona-image-compressor/pt/rrb-ntpc-photo-size.html",
   "start_url": "./rrb-ntpc-photo-size.html",

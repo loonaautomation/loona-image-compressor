@@ -1,6 +1,6 @@
 {
   "name": "Loona Tamanho de Capa de Álbum de Pinterest",
-  "short_name": "Tamanho de Capa de Álbum de Pint",
+  "short_name": "Tamanho de Capa de Álbum de",
   "description": "Crie um elemento capa de álbum de Pinterest com exatamente 800×450 px. Redimensionador/recortador gratuito no seu navegador, com as regras de zona segura que evitam textos e rostos cortados.",
   "id": "/loona-image-compressor/pt/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",

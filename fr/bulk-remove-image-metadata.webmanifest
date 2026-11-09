@@ -1,6 +1,6 @@
 {
   "name": "Loona Suppresseur de métadonnées en lot",
-  "short_name": "Suppresseur de métadonnées en lo",
+  "short_name": "Suppresseur de métadonnées en",
   "description": "Supprimez les métadonnées EXIF, GPS et XMP de nombreuses photos à la fois — déposez un lot de fichiers JPG, PNG et WebP, nettoyez-les tous dans votre navigateur et téléchargez tout comme un seul ZIP. Gratuit, privé, sans envois, sans réencodage.",
   "id": "/loona-image-compressor/fr/bulk-remove-image-metadata.html",
   "start_url": "./bulk-remove-image-metadata.html",

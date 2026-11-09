@@ -1,6 +1,6 @@
 {
   "name": "Loona Format Miniature de vidéo YouTube",
-  "short_name": "Format Miniature de vidéo YouTub",
+  "short_name": "Format Miniature de vidéo",
   "description": "Créez un visuel miniature de vidéo YouTube d&#x27;exactement 1280×720 px. Redimensionneur/recadreur gratuit dans votre navigateur, avec les règles de zone de sécurité qui évitent les textes et visages coupés.",
   "id": "/loona-image-compressor/fr/youtube-thumbnail-size.html",
   "start_url": "./youtube-thumbnail-size.html",

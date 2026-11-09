@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Pin estándar de Pinterest: 1000×1500 px",
-  "short_name": "Tamaño de Pin estándar de Pinter",
+  "name": "Loona Tamaño de Pin estándar de Pinterest",
+  "short_name": "Tamaño de Pin estándar de",
   "description": "Crea un elemento «pin estándar» de Pinterest exactamente de 1000×1500 px. Redimensionador/recortador gratuito en tu navegador, con las reglas de zona segura que evitan textos y rostros recortados.",
   "id": "/loona-image-compressor/es/pinterest-pin-size.html",
   "start_url": "./pinterest-pin-size.html",

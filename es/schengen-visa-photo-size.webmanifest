@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Visa Schengen: 35×45 mm (413×531 px)",
-  "short_name": "Tamaño de Visa Schengen: 35×45 m",
+  "name": "Loona Tamaño de Visa Schengen",
+  "short_name": "Tamaño de Visa Schengen",
   "description": "Crea una Visa Schengen con el tamaño oficial de 35×45 mm (413×531 px), fondo gris claro o fondo claro liso. Creador en línea gratuito: recorta, descarga e imprime la hoja, sin subir archivos.",
   "id": "/loona-image-compressor/es/schengen-visa-photo-size.html",
   "start_url": "./schengen-visa-photo-size.html",

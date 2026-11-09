@@ -1,6 +1,6 @@
 {
   "name": "Loona Redimensionner une image à 1500 × 500",
-  "short_name": "Redimensionner une image à 1500 ",
+  "short_name": "Redimensionner une image à",
   "description": "Redimensionnez n'importe quelle image à exactement 1500 × 500 pixels (en-têtes de profil X (Twitter) et bannières larges) gratuitement. Couvrir, contenir ou étirer, JPG ou PNG, téléchargement instantané — sans inscription, rien d'envoyé.",
   "id": "/loona-image-compressor/fr/resize-image-to-1500x500.html",
   "start_url": "./resize-image-to-1500x500.html",

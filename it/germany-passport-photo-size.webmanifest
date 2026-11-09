@@ -1,6 +1,6 @@
 {
-  "name": "Loona Formato Passaporto della Germania (biometrico)",
-  "short_name": "Formato Passaporto della Germani",
+  "name": "Loona Formato Passaporto della Germania",
+  "short_name": "Formato Passaporto della",
   "description": "Crea la foto Passaporto della Germania (biometrico) nel formato ufficiale di 35×45 mm (413×531 px), sfondo grigio chiaro, liso. Strumento online gratuito: ritaglia, scarica e stampa il foglio, senza caricamenti.",
   "id": "/loona-image-compressor/it/germany-passport-photo-size.html",
   "start_url": "./germany-passport-photo-size.html",

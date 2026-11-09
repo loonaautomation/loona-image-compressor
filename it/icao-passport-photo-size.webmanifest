@@ -1,6 +1,6 @@
 {
-  "name": "Loona Formato Passaporto standard ICAO (35×45 mm)",
-  "short_name": "Formato Passaporto standard ICAO",
+  "name": "Loona Formato Passaporto standard ICAO (35×45",
+  "short_name": "Formato Passaporto standard",
   "description": "Crea la foto Passaporto standard ICAO (35×45 mm) nel formato ufficiale di 35×45 mm (413×531 px), sfondo sfondo chiaro liso. Strumento online gratuito: ritaglia, scarica e stampa il foglio, senza caricamenti.",
   "id": "/loona-image-compressor/it/icao-passport-photo-size.html",
   "start_url": "./icao-passport-photo-size.html",

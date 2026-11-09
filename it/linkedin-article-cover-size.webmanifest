@@ -1,6 +1,6 @@
 {
-  "name": "Loona Formato Copertina articolo / newsletter LinkedIn",
-  "short_name": "Formato Copertina articolo / new",
+  "name": "Loona Formato Copertina articolo / newsletter",
+  "short_name": "Formato Copertina articolo /",
   "description": "Crea un copertina articolo / newsletter LinkedIn esattamente di 1200×644 px. Strumento gratuito di ridimensionamento e ritaglio nel tuo browser, con le regole della zona sicura che evitano testi e volti tagliati.",
   "id": "/loona-image-compressor/it/linkedin-article-cover-size.html",
   "start_url": "./linkedin-article-cover-size.html",

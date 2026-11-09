@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Firma de JEE Main: recuadro escaneado, proporción aprox. 7:2, 4–30 KB",
-  "short_name": "Tamaño de Firma de JEE Main: rec",
+  "name": "Loona Tamaño de Firma de JEE Main",
+  "short_name": "Tamaño de Firma de JEE Main",
   "description": "Ajusta tu firma de JEE Main al tamaño de la convocatoria (recuadro escaneado, proporción aprox. 7:2) y a la banda de 4–30 KB. Gratis, en tu navegador: sin subidas y sin registro.",
   "id": "/loona-image-compressor/es/jee-main-signature-size.html",
   "start_url": "./jee-main-signature-size.html",

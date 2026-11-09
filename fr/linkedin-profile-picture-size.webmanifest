@@ -1,6 +1,6 @@
 {
   "name": "Loona Format Photo de profil LinkedIn",
-  "short_name": "Format Photo de profil LinkedIn",
+  "short_name": "Format Photo de profil",
   "description": "Créez un visuel photo de profil LinkedIn d&#x27;exactement 400×400 px. Redimensionneur/recadreur gratuit dans votre navigateur, avec les règles de zone de sécurité qui évitent les textes et visages coupés.",
   "id": "/loona-image-compressor/fr/linkedin-profile-picture-size.html",
   "start_url": "./linkedin-profile-picture-size.html",

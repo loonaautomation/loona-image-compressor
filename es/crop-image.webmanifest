@@ -1,6 +1,6 @@
 {
   "name": "Loona Recortar imagen en línea gratis",
-  "short_name": "Recortar imagen en línea gratis",
+  "short_name": "Recortar imagen en línea",
   "description": "Recorta imágenes en línea gratis con proporciones listas —1:1, 4:3, 16:9 y pasaporte 35×45— más girar y voltear. Descarga el recorte exacto a resolución completa.",
   "id": "/loona-image-compressor/es/crop-image.html",
   "start_url": "./crop-image.html",

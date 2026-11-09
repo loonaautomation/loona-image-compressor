@@ -1,6 +1,6 @@
 {
   "name": "Loona Redimensionar imagen a 512 × 512",
-  "short_name": "Redimensionar imagen a 512 × 512",
+  "short_name": "Redimensionar imagen a 512 ×",
   "description": "Redimensiona cualquier imagen a exactamente 512 × 512 píxeles (iconos de aplicaciones, avatares y másteres de favicon) gratis. Cubrir, contener o estirar, JPG o PNG, descarga instantánea: sin registro y sin subir nada.",
   "id": "/loona-image-compressor/es/resize-image-to-512x512.html",
   "start_url": "./resize-image-to-512x512.html",

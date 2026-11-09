@@ -1,6 +1,6 @@
 {
   "name": "Loona Pinterest Long / Infographic Pin Size",
-  "short_name": "Pinterest Long / Infographic Pin",
+  "short_name": "Pinterest Long / Infographic",
   "description": "Make a Pinterest long / infographic pin at exactly 1000×2100 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
   "id": "/loona-image-compressor/pinterest-long-pin-size.html",
   "start_url": "./pinterest-long-pin-size.html",

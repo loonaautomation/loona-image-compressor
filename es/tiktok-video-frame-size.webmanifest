@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Fotograma de vídeo de TikTok: 1080×1920 px",
-  "short_name": "Tamaño de Fotograma de vídeo de ",
+  "name": "Loona Tamaño de Fotograma de vídeo de TikTok",
+  "short_name": "Tamaño de Fotograma de vídeo",
   "description": "Crea un elemento «fotograma de vídeo» de TikTok exactamente de 1080×1920 px. Redimensionador/recortador gratuito en tu navegador, con las reglas de zona segura que evitan textos y rostros recortados.",
   "id": "/loona-image-compressor/es/tiktok-video-frame-size.html",
   "start_url": "./tiktok-video-frame-size.html",

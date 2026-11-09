@@ -1,6 +1,6 @@
 {
   "name": "Loona Resize Image to 2048 × 2048 px Online",
-  "short_name": "Resize Image to 2048 × 2048 px O",
+  "short_name": "Resize Image to 2048 × 2048",
   "description": "Resize any image to exactly 2048×2048 px — High-resolution square for print and retina displays. Free in your browser with crop control; no upload, no signup.",
   "id": "/loona-image-compressor/resize-image-to-2048x2048.html",
   "start_url": "./resize-image-to-2048x2048.html",

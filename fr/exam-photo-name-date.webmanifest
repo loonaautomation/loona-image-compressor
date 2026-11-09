@@ -1,6 +1,6 @@
 {
   "name": "Loona Photo d'examen avec nom et date",
-  "short_name": "Photo d'examen avec nom et date",
+  "short_name": "Photo d'examen avec nom et",
   "description": "Créez gratuitement une photo d'examen avec votre nom et la date imprimés en bas — le format des examens de conseils utilisé au Pakistan et en Inde. Privé, aucune inscription nécessaire.",
   "id": "/loona-image-compressor/fr/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",

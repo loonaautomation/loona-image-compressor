@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Avatar de usuario de Discord: 800×800 px",
-  "short_name": "Tamaño de Avatar de usuario de D",
+  "name": "Loona Tamaño de Avatar de usuario de Discord",
+  "short_name": "Tamaño de Avatar de usuario",
   "description": "Crea un elemento «avatar de usuario» de Discord exactamente de 800×800 px. Redimensionador/recortador gratuito en tu navegador, con las reglas de zona segura que evitan textos y rostros recortados.",
   "id": "/loona-image-compressor/es/discord-avatar-size.html",
   "start_url": "./discord-avatar-size.html",

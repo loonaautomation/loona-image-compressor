@@ -1,6 +1,6 @@
 {
-  "name": "Loona Redimensionar imagen a 200 × 230 px en línea",
-  "short_name": "Redimensionar imagen a 200 × 230",
+  "name": "Loona Redimensionar imagen a 200 × 230 px en",
+  "short_name": "Redimensionar imagen a 200 ×",
   "description": "Redimensiona cualquier imagen exactamente a 200×230 px: El estándar de foto de examen SSC/IBPS/SBI en la India. Gratis en tu navegador, con control de recorte; sin subidas y sin registro.",
   "id": "/loona-image-compressor/es/resize-image-to-200x230.html",
   "start_url": "./resize-image-to-200x230.html",

@@ -1,6 +1,6 @@
 {
-  "name": "Loona Folha de Impressão de Fotografias de Passaporte",
-  "short_name": "Folha de Impressão de Fotografia",
+  "name": "Loona Folha de Impressão de Fotografias de",
+  "short_name": "Folha de Impressão de",
   "description": "Coloque 4, 6 ou 8 fotografias de passaporte numa folha de impressão A4 gratuitamente, a 300 DPI. Imprima a 100%, corte pelas guias e poupe dinheiro de estúdio. Sem registo, totalmente privado.",
   "id": "/loona-image-compressor/pt/passport-photo-print-sheet.html",
   "start_url": "./passport-photo-print-sheet.html",

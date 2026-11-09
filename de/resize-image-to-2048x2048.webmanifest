@@ -1,6 +1,6 @@
 {
   "name": "Loona Bild auf 2048 × 2048 px online skalieren",
-  "short_name": "Bild auf 2048 × 2048 px online s",
+  "short_name": "Bild auf 2048 × 2048 px",
   "description": "Skalieren Sie jedes Bild auf exakt 2048×2048 px — Hochauflösendes Quadrat für Druck und Retina-Displays. Kostenlos in Ihrem Browser mit Zuschnittsteuerung; ohne Upload, ohne Anmeldung.",
   "id": "/loona-image-compressor/de/resize-image-to-2048x2048.html",
   "start_url": "./resize-image-to-2048x2048.html",

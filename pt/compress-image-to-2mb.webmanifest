@@ -1,6 +1,6 @@
 {
   "name": "Loona Comprimir Imagem para 2 MB Online",
-  "short_name": "Comprimir Imagem para 2 MB Onlin",
+  "short_name": "Comprimir Imagem para 2 MB",
   "description": "Comprima imagens JPG, PNG e WebP para 2 MB ou menos, online e grátis. Procura automática de qualidade e tamanho no seu navegador — sem registo e sem envios.",
   "id": "/loona-image-compressor/pt/compress-image-to-2mb.html",
   "start_url": "./compress-image-to-2mb.html",

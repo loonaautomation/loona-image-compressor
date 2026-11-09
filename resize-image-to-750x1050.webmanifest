@@ -1,6 +1,6 @@
 {
   "name": "Loona Resize Image to 750 × 1050 px Online",
-  "short_name": "Resize Image to 750 × 1050 px On",
+  "short_name": "Resize Image to 750 × 1050 px",
   "description": "Resize any image to exactly 750×1050 px — Wallet size — 2.5 × 3.5 inch at 300 DPI. Free in your browser with crop control; no upload, no signup.",
   "id": "/loona-image-compressor/resize-image-to-750x1050.html",
   "start_url": "./resize-image-to-750x1050.html",

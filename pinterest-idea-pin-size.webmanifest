@@ -1,6 +1,6 @@
 {
   "name": "Loona Pinterest Idea Pin / Story Size",
-  "short_name": "Pinterest Idea Pin / Story Size",
+  "short_name": "Pinterest Idea Pin / Story",
   "description": "Make a Pinterest idea pin / story at exactly 1080×1920 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
   "id": "/loona-image-compressor/pinterest-idea-pin-size.html",
   "start_url": "./pinterest-idea-pin-size.html",

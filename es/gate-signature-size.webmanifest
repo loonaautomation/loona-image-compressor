@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Firma de GATE: recuadro escaneado, proporción aprox. 7:2, 3–100 KB",
-  "short_name": "Tamaño de Firma de GATE: recuadr",
+  "name": "Loona Tamaño de Firma de GATE",
+  "short_name": "Tamaño de Firma de GATE",
   "description": "Ajusta tu firma de GATE al tamaño de la convocatoria (recuadro escaneado, proporción aprox. 7:2) y a la banda de 3–100 KB. Gratis, en tu navegador: sin subidas y sin registro.",
   "id": "/loona-image-compressor/es/gate-signature-size.html",
   "start_url": "./gate-signature-size.html",

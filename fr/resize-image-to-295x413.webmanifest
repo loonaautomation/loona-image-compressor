@@ -1,6 +1,6 @@
 {
-  "name": "Loona Redimensionner une image à 295 × 413 px en ligne",
-  "short_name": "Redimensionner une image à 295 ×",
+  "name": "Loona Redimensionner une image à 295 × 413 px",
+  "short_name": "Redimensionner une image à",
   "description": "Redimensionnez n&#x27;importe quelle image à exactement 295×413 px — 25 × 35 mm à 300 DPI — format de carte PAN de l&#x27;Inde. Gratuit dans votre navigateur avec contrôle du recadrage ; sans envoi, sans inscription.",
   "id": "/loona-image-compressor/fr/resize-image-to-295x413.html",
   "start_url": "./resize-image-to-295x413.html",

@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Foto de perfil de LinkedIn: 400×400 px",
-  "short_name": "Tamaño de Foto de perfil de Link",
+  "name": "Loona Tamaño de Foto de perfil de LinkedIn",
+  "short_name": "Tamaño de Foto de perfil de",
   "description": "Crea un elemento «foto de perfil» de LinkedIn exactamente de 400×400 px. Redimensionador/recortador gratuito en tu navegador, con las reglas de zona segura que evitan textos y rostros recortados.",
   "id": "/loona-image-compressor/es/linkedin-profile-picture-size.html",
   "start_url": "./linkedin-profile-picture-size.html",

@@ -1,6 +1,6 @@
 {
-  "name": "Loona Redimensionar Imagem para 600 × 600 px Online",
-  "short_name": "Redimensionar Imagem para 600 × ",
+  "name": "Loona Redimensionar Imagem para 600 × 600 px",
+  "short_name": "Redimensionar Imagem para 600",
   "description": "Redimensione qualquer imagem para exatamente 600×600 px — Tamanho digital mínimo de passaporte/visto dos EUA e da Loteria DV. Grátis no seu navegador, com controlo de recorte; sem envios e sem registo.",
   "id": "/loona-image-compressor/pt/resize-image-to-600x600.html",
   "start_url": "./resize-image-to-600x600.html",

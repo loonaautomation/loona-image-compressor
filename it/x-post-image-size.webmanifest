@@ -1,6 +1,6 @@
 {
-  "name": "Loona Formato Immagine post (16:9) X (Twitter)",
-  "short_name": "Formato Immagine post (16:9) X (",
+  "name": "Loona Formato Immagine post (16",
+  "short_name": "Formato Immagine post (16",
   "description": "Crea un immagine post (16:9) X (Twitter) esattamente di 1600×900 px. Strumento gratuito di ridimensionamento e ritaglio nel tuo browser, con le regole della zona sicura che evitano testi e volti tagliati.",
   "id": "/loona-image-compressor/it/x-post-image-size.html",
   "start_url": "./x-post-image-size.html",

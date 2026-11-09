@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Firma de SBI PO: 140 × 60 px, 10–20 KB",
-  "short_name": "Tamaño de Firma de SBI PO: 140 ×",
+  "name": "Loona Tamaño de Firma de SBI PO",
+  "short_name": "Tamaño de Firma de SBI PO",
   "description": "Ajusta tu firma de SBI PO al tamaño de la convocatoria (140 × 60 px) y a la banda de 10–20 KB. Gratis, en tu navegador: sin subidas y sin registro.",
   "id": "/loona-image-compressor/es/sbi-po-signature-size.html",
   "start_url": "./sbi-po-signature-size.html",

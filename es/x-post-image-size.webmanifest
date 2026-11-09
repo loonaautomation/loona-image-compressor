@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Imagen de publicación (16:9) de X (Twitter): 1600×900 px",
-  "short_name": "Tamaño de Imagen de publicación ",
+  "name": "Loona Tamaño de Imagen de publicación (16",
+  "short_name": "Tamaño de Imagen de",
   "description": "Crea un elemento «imagen de publicación (16:9)» de X (Twitter) exactamente de 1600×900 px. Redimensionador/recortador gratuito en tu navegador, con las reglas de zona segura que evitan textos y rostros recortados.",
   "id": "/loona-image-compressor/es/x-post-image-size.html",
   "start_url": "./x-post-image-size.html",

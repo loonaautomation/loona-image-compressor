@@ -1,6 +1,6 @@
 {
   "name": "Loona Alterador de Fundo de Fotografias",
-  "short_name": "Alterador de Fundo de Fotografia",
+  "short_name": "Alterador de Fundo de",
   "description": "Altere o fundo de uma fotografia para branco, azul, cinzento-claro ou vermelho, gratuitamente online. Preenchimento por inundação mais ferramentas de pincel, privado no seu navegador, sem envio para IA.",
   "id": "/loona-image-compressor/pt/photo-background-changer.html",
   "start_url": "./photo-background-changer.html",

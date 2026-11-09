@@ -1,6 +1,6 @@
 {
   "name": "Loona Bild auf 30 KB online komprimieren",
-  "short_name": "Bild auf 30 KB online komprimier",
+  "short_name": "Bild auf 30 KB online",
   "description": "Komprimieren Sie JPG-, PNG- und WebP-Bilder online und kostenlos auf 30 KB oder weniger. Automatische Qualitäts- und Größensuche in Ihrem Browser — ohne Anmeldung, ohne Upload.",
   "id": "/loona-image-compressor/de/compress-image-to-30kb.html",
   "start_url": "./compress-image-to-30kb.html",

@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Banner del servidor de Discord: 960×540 px",
-  "short_name": "Tamaño de Banner del servidor de",
+  "name": "Loona Tamaño de Banner del servidor de Discord",
+  "short_name": "Tamaño de Banner del servidor",
   "description": "Crea un elemento «banner del servidor» de Discord exactamente de 960×540 px. Redimensionador/recortador gratuito en tu navegador, con las reglas de zona segura que evitan textos y rostros recortados.",
   "id": "/loona-image-compressor/es/discord-server-banner-size.html",
   "start_url": "./discord-server-banner-size.html",

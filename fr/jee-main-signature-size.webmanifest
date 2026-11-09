@@ -1,6 +1,6 @@
 {
   "name": "Loona Format de la Signature JEE Main",
-  "short_name": "Format de la Signature JEE Main",
+  "short_name": "Format de la Signature JEE",
   "description": "Redimensionnez votre signature JEE Main au format de l&#x27;avis officiel (zone numérisée, rapport d&#x27;environ 7:2) et dans la plage de 4–30 Ko. Gratuit, dans votre navigateur — sans envoi, sans inscription.",
   "id": "/loona-image-compressor/fr/jee-main-signature-size.html",
   "start_url": "./jee-main-signature-size.html",

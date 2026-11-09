@@ -1,6 +1,6 @@
 {
-  "name": "Loona Format Photo de couverture / Couverture de page Facebook",
-  "short_name": "Format Photo de couverture / Cou",
+  "name": "Loona Format Photo de couverture / Couverture",
+  "short_name": "Format Photo de couverture /",
   "description": "Créez un visuel photo de couverture / couverture de page Facebook d&#x27;exactement 1640×924 px. Redimensionneur/recadreur gratuit dans votre navigateur, avec les règles de zone de sécurité qui évitent les textes et visages coupés.",
   "id": "/loona-image-compressor/fr/facebook-cover-photo-size.html",
   "start_url": "./facebook-cover-photo-size.html",

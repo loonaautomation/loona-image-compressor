@@ -1,6 +1,6 @@
 {
   "name": "Loona X (Twitter) Header / Banner Size",
-  "short_name": "X (Twitter) Header / Banner Size",
+  "short_name": "X (Twitter) Header / Banner",
   "description": "Make a X (Twitter) header / banner at exactly 1500×500 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
   "id": "/loona-image-compressor/x-header-size.html",
   "start_url": "./x-header-size.html",

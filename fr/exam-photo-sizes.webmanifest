@@ -1,6 +1,6 @@
 {
-  "name": "Loona Formats de photo et de signature pour examens",
-  "short_name": "Formats de photo et de signature",
+  "name": "Loona Formats de photo et de signature pour",
+  "short_name": "Formats de photo et de",
   "description": "Formats de photo et de signature et plages en Ko pour 20 grands examens indiens — SSC, IBPS, SBI, UPSC, RRB, JEE, NEET et plus — chacun avec son générateur.",
   "id": "/loona-image-compressor/fr/exam-photo-sizes.html",
   "start_url": "./exam-photo-sizes.html",

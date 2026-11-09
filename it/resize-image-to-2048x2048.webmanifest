@@ -1,6 +1,6 @@
 {
-  "name": "Loona Ridimensiona immagine a 2048 × 2048 px online",
-  "short_name": "Ridimensiona immagine a 2048 × 2",
+  "name": "Loona Ridimensiona immagine a 2048 × 2048 px",
+  "short_name": "Ridimensiona immagine a 2048",
   "description": "Ridimensiona qualsiasi immagine esattamente a 2048×2048 px: Quadrato ad alta risoluzione per stampa e display retina. Gratis nel tuo browser, con controllo del ritaglio; senza caricamenti e senza registrazione.",
   "id": "/loona-image-compressor/it/resize-image-to-2048x2048.html",
   "start_url": "./resize-image-to-2048x2048.html",

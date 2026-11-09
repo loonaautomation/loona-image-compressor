@@ -1,6 +1,6 @@
 {
   "name": "Loona Formato Banner del canale YouTube",
-  "short_name": "Formato Banner del canale YouTub",
+  "short_name": "Formato Banner del canale",
   "description": "Crea un banner del canale YouTube esattamente di 2560×1440 px. Strumento gratuito di ridimensionamento e ritaglio nel tuo browser, con le regole della zona sicura che evitano testi e volti tagliati.",
   "id": "/loona-image-compressor/it/youtube-banner-size.html",
   "start_url": "./youtube-banner-size.html",

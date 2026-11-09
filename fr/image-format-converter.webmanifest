@@ -1,6 +1,6 @@
 {
   "name": "Loona Convertisseur de formats d'image",
-  "short_name": "Convertisseur de formats d'image",
+  "short_name": "Convertisseur de formats",
   "description": "Convertissez des images entre JPG, PNG et WebP en ligne gratuitement, par lots, avec contrôle de la qualité et aplatissement des fonds transparents. Aucune inscription nécessaire.",
   "id": "/loona-image-compressor/fr/image-format-converter.html",
   "start_url": "./image-format-converter.html",

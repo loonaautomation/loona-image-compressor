@@ -1,6 +1,6 @@
 {
   "name": "Loona Tamanho de Banner de Perfil de Discord",
-  "short_name": "Tamanho de Banner de Perfil de D",
+  "short_name": "Tamanho de Banner de Perfil",
   "description": "Crie um elemento banner de perfil de Discord com exatamente 600×180 px. Redimensionador/recortador gratuito no seu navegador, com as regras de zona segura que evitam textos e rostos cortados.",
   "id": "/loona-image-compressor/pt/discord-profile-banner-size.html",
   "start_url": "./discord-profile-banner-size.html",

@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamanho de Imagem de Publicação de LinkedIn",
-  "short_name": "Tamanho de Imagem de Publicação ",
+  "name": "Loona Tamanho de Imagem de Publicação de",
+  "short_name": "Tamanho de Imagem de",
   "description": "Crie um elemento imagem de publicação de LinkedIn com exatamente 1200×627 px. Redimensionador/recortador gratuito no seu navegador, com as regras de zona segura que evitam textos e rostos cortados.",
   "id": "/loona-image-compressor/pt/linkedin-post-image-size.html",
   "start_url": "./linkedin-post-image-size.html",

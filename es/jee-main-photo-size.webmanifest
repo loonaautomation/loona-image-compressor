@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Fotografía de JEE Main: 3,5 × 4,5 cm (aprox. 413 × 531 px a 300 DPI), 10–200 KB",
-  "short_name": "Tamaño de Fotografía de JEE Main",
+  "name": "Loona Tamaño de Fotografía de JEE Main",
+  "short_name": "Tamaño de Fotografía de JEE",
   "description": "Ajusta tu foto de JEE Main al tamaño de la convocatoria (3,5 × 4,5 cm (aprox. 413 × 531 px a 300 DPI)) y a la banda de 10–200 KB. Gratis, en tu navegador: sin subidas y sin registro.",
   "id": "/loona-image-compressor/es/jee-main-photo-size.html",
   "start_url": "./jee-main-photo-size.html",

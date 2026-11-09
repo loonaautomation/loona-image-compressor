@@ -1,6 +1,6 @@
 {
   "name": "Loona Bild online kostenlos zuschneiden",
-  "short_name": "Bild online kostenlos zuschneide",
+  "short_name": "Bild online kostenlos",
   "description": "Schneiden Sie Bilder online kostenlos mit fertigen Verhältnissen zu — 1:1, 4:3, 16:9 und Passfoto 35×45 — plus Drehen und Spiegeln. Laden Sie den exakten Zuschnitt in voller Auflösung herunter.",
   "id": "/loona-image-compressor/de/crop-image.html",
   "start_url": "./crop-image.html",

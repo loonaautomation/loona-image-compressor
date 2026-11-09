@@ -1,6 +1,6 @@
 {
   "name": "Loona Redimensionner une image à 800 × 800",
-  "short_name": "Redimensionner une image à 800 ×",
+  "short_name": "Redimensionner une image à",
   "description": "Redimensionnez n'importe quelle image à exactement 800 × 800 pixels (photos de places de marché et d'annonces de produits) gratuitement. Couvrir, contenir ou étirer, JPG ou PNG, téléchargement instantané — sans inscription, rien d'envoyé.",
   "id": "/loona-image-compressor/fr/resize-image-to-800x800.html",
   "start_url": "./resize-image-to-800x800.html",

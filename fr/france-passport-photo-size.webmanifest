@@ -1,6 +1,6 @@
 {
-  "name": "Loona Taille de la Passeport / pièce d&#x27;identité de la France",
-  "short_name": "Taille de la Passeport / pièce d",
+  "name": "Loona Taille de la Passeport / pièce",
+  "short_name": "Taille de la Passeport /",
   "description": "Créez une Passeport / pièce d&#x27;identité de la France au format officiel de 35×45 mm (413×531 px), fond gris clair uni ou bleu clair. Générateur en ligne gratuit — recadrez, téléchargez et imprimez la planche, sans envoi.",
   "id": "/loona-image-compressor/fr/france-passport-photo-size.html",
   "start_url": "./france-passport-photo-size.html",

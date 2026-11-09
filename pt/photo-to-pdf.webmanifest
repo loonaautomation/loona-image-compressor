@@ -1,6 +1,6 @@
 {
   "name": "Loona Conversor de Fotografia para PDF",
-  "short_name": "Conversor de Fotografia para PDF",
+  "short_name": "Conversor de Fotografia para",
   "description": "Transforme fotografias num PDF online gratuitamente: adicione imagens JPG, PNG ou WebP, escolha páginas A4, Letter ou ajustadas à imagem e transfira um único PDF arrumado. Sem envios.",
   "id": "/loona-image-compressor/pt/photo-to-pdf.html",
   "start_url": "./photo-to-pdf.html",

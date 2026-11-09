@@ -1,6 +1,6 @@
 {
   "name": "Loona Format de la Signature SSC CHSL",
-  "short_name": "Format de la Signature SSC CHSL",
+  "short_name": "Format de la Signature SSC",
   "description": "Redimensionnez votre signature SSC CHSL au format de l&#x27;avis officiel (140 × 60 px) et dans la plage de 10–20 Ko. Gratuit, dans votre navigateur — sans envoi, sans inscription.",
   "id": "/loona-image-compressor/fr/ssc-chsl-signature-size.html",
   "start_url": "./ssc-chsl-signature-size.html",

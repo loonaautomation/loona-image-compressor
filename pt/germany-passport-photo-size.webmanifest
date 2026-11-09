@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamanho de Passaporte da Alemanha (Biométrico)",
-  "short_name": "Tamanho de Passaporte da Alemanh",
+  "name": "Loona Tamanho de Passaporte da Alemanha",
+  "short_name": "Tamanho de Passaporte da",
   "description": "Crie uma Passaporte da Alemanha (Biométrico) com o tamanho oficial de 35×45 mm (413×531 px), fundo cinzento-claro, liso. Criador online gratuito — recorte, transfira e imprima a folha, sem envios.",
   "id": "/loona-image-compressor/pt/germany-passport-photo-size.html",
   "start_url": "./germany-passport-photo-size.html",

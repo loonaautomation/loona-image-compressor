@@ -1,6 +1,6 @@
 {
   "name": "Loona Générateur de palettes de couleurs",
-  "short_name": "Générateur de palettes de couleu",
+  "short_name": "Générateur de palettes de",
   "description": "Générez des palettes de couleurs harmonieuses depuis n'importe quelle couleur de base — schémas analogues, complémentaires, triadiques et monochromatiques avec des codes HEX copiables. Gratuit, sans inscription.",
   "id": "/loona-image-compressor/fr/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",

@@ -1,6 +1,6 @@
 {
   "name": "Loona Facebook Beitrags-/Linkbild Größe",
-  "short_name": "Facebook Beitrags-/Linkbild Größ",
+  "short_name": "Facebook Beitrags-/Linkbild",
   "description": "Erstellen Sie ein Facebook-beitrags-/linkbild mit exakt 1200×630 px. Kostenloser Größenänderer/Zuschneider in Ihrem Browser mit den Regeln für die sichere Zone, die abgeschnittenen Text und Gesichter verhindern.",
   "id": "/loona-image-compressor/de/facebook-post-image-size.html",
   "start_url": "./facebook-post-image-size.html",

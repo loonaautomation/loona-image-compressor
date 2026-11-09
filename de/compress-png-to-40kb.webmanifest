@@ -1,6 +1,6 @@
 {
   "name": "Loona PNG auf 40 KB online komprimieren",
-  "short_name": "PNG auf 40 KB online komprimiere",
+  "short_name": "PNG auf 40 KB online",
   "description": "Komprimieren Sie ein PNG-Bild kostenlos in Ihrem Browser auf 40 KB oder weniger. Die automatische Suche findet die beste Qualität, die passt — ohne Anmeldung, ohne Upload.",
   "id": "/loona-image-compressor/de/compress-png-to-40kb.html",
   "start_url": "./compress-png-to-40kb.html",

@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Publicación fotográfica (cuadrada) de TikTok: 1080×1080 px",
-  "short_name": "Tamaño de Publicación fotográfic",
+  "name": "Loona Tamaño de Publicación fotográfica",
+  "short_name": "Tamaño de Publicación",
   "description": "Crea un elemento «publicación fotográfica (cuadrada)» de TikTok exactamente de 1080×1080 px. Redimensionador/recortador gratuito en tu navegador, con las reglas de zona segura que evitan textos y rostros recortados.",
   "id": "/loona-image-compressor/es/tiktok-photo-post-square-size.html",
   "start_url": "./tiktok-photo-post-square-size.html",

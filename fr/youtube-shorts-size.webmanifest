@@ -1,6 +1,6 @@
 {
-  "name": "Loona Format Couverture / image de Shorts YouTube",
-  "short_name": "Format Couverture / image de Sho",
+  "name": "Loona Format Couverture / image de Shorts",
+  "short_name": "Format Couverture / image de",
   "description": "Créez un visuel couverture / image de shorts YouTube d&#x27;exactement 1080×1920 px. Redimensionneur/recadreur gratuit dans votre navigateur, avec les règles de zone de sécurité qui évitent les textes et visages coupés.",
   "id": "/loona-image-compressor/fr/youtube-shorts-size.html",
   "start_url": "./youtube-shorts-size.html",

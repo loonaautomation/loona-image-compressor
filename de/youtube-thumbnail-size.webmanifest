@@ -1,6 +1,6 @@
 {
   "name": "Loona YouTube Video-Miniaturansicht Größe",
-  "short_name": "YouTube Video-Miniaturansicht Gr",
+  "short_name": "YouTube Video-Miniaturansicht",
   "description": "Erstellen Sie ein YouTube-video-miniaturansicht mit exakt 1280×720 px. Kostenloser Größenänderer/Zuschneider in Ihrem Browser mit den Regeln für die sichere Zone, die abgeschnittenen Text und Gesichter verhindern.",
   "id": "/loona-image-compressor/de/youtube-thumbnail-size.html",
   "start_url": "./youtube-thumbnail-size.html",

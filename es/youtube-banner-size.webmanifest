@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Banner del canal de YouTube: 2560×1440 px",
-  "short_name": "Tamaño de Banner del canal de Yo",
+  "name": "Loona Tamaño de Banner del canal de YouTube",
+  "short_name": "Tamaño de Banner del canal de",
   "description": "Crea un elemento «banner del canal» de YouTube exactamente de 2560×1440 px. Redimensionador/recortador gratuito en tu navegador, con las reglas de zona segura que evitan textos y rostros recortados.",
   "id": "/loona-image-compressor/es/youtube-banner-size.html",
   "start_url": "./youtube-banner-size.html",

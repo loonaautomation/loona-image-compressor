@@ -1,6 +1,6 @@
 {
-  "name": "Loona X (Twitter) Post Image (16:9) Size",
-  "short_name": "X (Twitter) Post Image (16:9) Si",
+  "name": "Loona X (Twitter) Post Image (16",
+  "short_name": "X (Twitter) Post Image (16",
   "description": "Make a X (Twitter) post image (16:9) at exactly 1600×900 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
   "id": "/loona-image-compressor/x-post-image-size.html",
   "start_url": "./x-post-image-size.html",

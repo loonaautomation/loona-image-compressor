@@ -1,6 +1,6 @@
 {
   "name": "Loona Compress WebP to 1500 KB Online",
-  "short_name": "Compress WebP to 1500 KB Online",
+  "short_name": "Compress WebP to 1500 KB",
   "description": "Compress a WebP image to 1500 KB or under, free in your browser. Automatic search finds the best quality that fits — no signup, no upload.",
   "id": "/loona-image-compressor/compress-webp-to-1500kb.html",
   "start_url": "./compress-webp-to-1500kb.html",

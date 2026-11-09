@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Firma de CUET UG: recuadro escaneado, proporción aprox. 7:2, 4–30 KB",
-  "short_name": "Tamaño de Firma de CUET UG: recu",
+  "name": "Loona Tamaño de Firma de CUET UG",
+  "short_name": "Tamaño de Firma de CUET UG",
   "description": "Ajusta tu firma de CUET UG al tamaño de la convocatoria (recuadro escaneado, proporción aprox. 7:2) y a la banda de 4–30 KB. Gratis, en tu navegador: sin subidas y sin registro.",
   "id": "/loona-image-compressor/es/cuet-ug-signature-size.html",
   "start_url": "./cuet-ug-signature-size.html",

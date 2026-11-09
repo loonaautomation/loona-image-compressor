@@ -1,6 +1,6 @@
 {
   "name": "Loona Visualiseur de métadonnées d'image et EXIF",
-  "short_name": "Visualiseur de métadonnées d'ima",
+  "short_name": "Visualiseur de métadonnées",
   "description": "Visualisez gratuitement en ligne les métadonnées cachées de n'importe quelle photo JPG, PNG ou WebP — marque et modèle d'appareil photo, date de prise, exposition, ISO, distance focale, localisation GPS, bases IPTC et XMP. Rien n'est envoyé : votre photo ne quitte jamais votre ap",
   "id": "/loona-image-compressor/fr/image-metadata-viewer.html",
   "start_url": "./image-metadata-viewer.html",

@@ -1,6 +1,6 @@
 {
-  "name": "Loona ICAO Standard Passport Photo (35×45 mm) Size",
-  "short_name": "ICAO Standard Passport Photo (35",
+  "name": "Loona ICAO Standard Passport Photo (35×45 mm)",
+  "short_name": "ICAO Standard Passport Photo",
   "description": "Make a ICAO Standard Passport Photo (35×45 mm) at the official size 35×45 mm (413×531 px), plain light background background. Free online maker — crop, download and print sheet, no upload.",
   "id": "/loona-image-compressor/icao-passport-photo-size.html",
   "start_url": "./icao-passport-photo-size.html",

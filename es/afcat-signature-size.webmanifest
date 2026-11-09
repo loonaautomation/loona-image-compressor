@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Firma de AFCAT: recuadro escaneado, proporción aprox. 7:2, 10–50 KB",
-  "short_name": "Tamaño de Firma de AFCAT: recuad",
+  "name": "Loona Tamaño de Firma de AFCAT",
+  "short_name": "Tamaño de Firma de AFCAT",
   "description": "Ajusta tu firma de AFCAT al tamaño de la convocatoria (recuadro escaneado, proporción aprox. 7:2) y a la banda de 10–50 KB. Gratis, en tu navegador: sin subidas y sin registro.",
   "id": "/loona-image-compressor/es/afcat-signature-size.html",
   "start_url": "./afcat-signature-size.html",

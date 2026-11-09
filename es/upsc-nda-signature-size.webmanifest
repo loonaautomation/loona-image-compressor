@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Firma de UPSC NDA: recuadro escaneado, proporción aprox. 7:2, 20–300 KB",
-  "short_name": "Tamaño de Firma de UPSC NDA: rec",
+  "name": "Loona Tamaño de Firma de UPSC NDA",
+  "short_name": "Tamaño de Firma de UPSC NDA",
   "description": "Ajusta tu firma de UPSC NDA al tamaño de la convocatoria (recuadro escaneado, proporción aprox. 7:2) y a la banda de 20–300 KB. Gratis, en tu navegador: sin subidas y sin registro.",
   "id": "/loona-image-compressor/es/upsc-nda-signature-size.html",
   "start_url": "./upsc-nda-signature-size.html",

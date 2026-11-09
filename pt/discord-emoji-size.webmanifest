@@ -1,6 +1,6 @@
 {
   "name": "Loona Tamanho de Emoji Personalizado de Discord",
-  "short_name": "Tamanho de Emoji Personalizado d",
+  "short_name": "Tamanho de Emoji",
   "description": "Crie um elemento emoji personalizado de Discord com exatamente 128×128 px. Redimensionador/recortador gratuito no seu navegador, com as regras de zona segura que evitam textos e rostos cortados.",
   "id": "/loona-image-compressor/pt/discord-emoji-size.html",
   "start_url": "./discord-emoji-size.html",

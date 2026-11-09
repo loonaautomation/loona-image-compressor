@@ -1,6 +1,6 @@
 {
-  "name": "Loona Formato Foto di copertina / Copertina pagina Facebook",
-  "short_name": "Formato Foto di copertina / Cope",
+  "name": "Loona Formato Foto di copertina / Copertina",
+  "short_name": "Formato Foto di copertina /",
   "description": "Crea un foto di copertina / copertina pagina Facebook esattamente di 1640×924 px. Strumento gratuito di ridimensionamento e ritaglio nel tuo browser, con le regole della zona sicura che evitano testi e volti tagliati.",
   "id": "/loona-image-compressor/it/facebook-cover-photo-size.html",
   "start_url": "./facebook-cover-photo-size.html",

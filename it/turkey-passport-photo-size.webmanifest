@@ -1,6 +1,6 @@
 {
-  "name": "Loona Formato Passaporto / Visto della Turchia (biometrico)",
-  "short_name": "Formato Passaporto / Visto della",
+  "name": "Loona Formato Passaporto / Visto della Turchia",
+  "short_name": "Formato Passaporto / Visto",
   "description": "Crea la foto Passaporto / Visto della Turchia (biometrico) nel formato ufficiale di 50×60 mm (591×709 px), sfondo bianco liso. Strumento online gratuito: ritaglia, scarica e stampa il foglio, senza caricamenti.",
   "id": "/loona-image-compressor/it/turkey-passport-photo-size.html",
   "start_url": "./turkey-passport-photo-size.html",

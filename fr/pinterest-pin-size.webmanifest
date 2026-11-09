@@ -1,6 +1,6 @@
 {
   "name": "Loona Format Épingle standard Pinterest",
-  "short_name": "Format Épingle standard Pinteres",
+  "short_name": "Format Épingle standard",
   "description": "Créez un visuel épingle standard Pinterest d&#x27;exactement 1000×1500 px. Redimensionneur/recadreur gratuit dans votre navigateur, avec les règles de zone de sécurité qui évitent les textes et visages coupés.",
   "id": "/loona-image-compressor/fr/pinterest-pin-size.html",
   "start_url": "./pinterest-pin-size.html",

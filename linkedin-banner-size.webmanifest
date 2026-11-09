@@ -1,6 +1,6 @@
 {
   "name": "Loona LinkedIn Profile / Page Banner Size",
-  "short_name": "LinkedIn Profile / Page Banner S",
+  "short_name": "LinkedIn Profile / Page",
   "description": "Make a LinkedIn profile / page banner at exactly 1584×396 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
   "id": "/loona-image-compressor/linkedin-banner-size.html",
   "start_url": "./linkedin-banner-size.html",

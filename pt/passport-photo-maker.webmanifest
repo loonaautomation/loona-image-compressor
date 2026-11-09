@@ -1,6 +1,6 @@
 {
   "name": "Loona Criador de Fotografias de Passaporte",
-  "short_name": "Criador de Fotografias de Passap",
+  "short_name": "Criador de Fotografias de",
   "description": "Faça uma fotografia em tamanho de passaporte online gratuitamente: recorte qualquer fotografia para 35×45 mm ou 2×2 polegadas, a 300 DPI prontos para imprimir. Sem registo, sem marca de água, totalmente privado.",
   "id": "/loona-image-compressor/pt/passport-photo-maker.html",
   "start_url": "./passport-photo-maker.html",

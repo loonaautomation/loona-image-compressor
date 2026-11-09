@@ -1,6 +1,6 @@
 {
   "name": "Loona Tamanho de Fotografia de SBI PO",
-  "short_name": "Tamanho de Fotografia de SBI PO",
+  "short_name": "Tamanho de Fotografia de SBI",
   "description": "Redimensione a sua fotografia de SBI PO para o tamanho do aviso oficial (200 × 230 px) e o intervalo de 20–50 KB. Grátis, no seu navegador — sem envios e sem registo.",
   "id": "/loona-image-compressor/pt/sbi-po-photo-size.html",
   "start_url": "./sbi-po-photo-size.html",

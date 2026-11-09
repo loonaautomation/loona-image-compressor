@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Imagen de publicación de comunidad de YouTube: 1080×1080 px",
-  "short_name": "Tamaño de Imagen de publicación ",
+  "name": "Loona Tamaño de Imagen de publicación de",
+  "short_name": "Tamaño de Imagen de",
   "description": "Crea un elemento «imagen de publicación de comunidad» de YouTube exactamente de 1080×1080 px. Redimensionador/recortador gratuito en tu navegador, con las reglas de zona segura que evitan textos y rostros recortados.",
   "id": "/loona-image-compressor/es/youtube-community-post-size.html",
   "start_url": "./youtube-community-post-size.html",

@@ -1,6 +1,6 @@
 {
-  "name": "Loona Ridimensiona immagine a 1200 × 1800 px online",
-  "short_name": "Ridimensiona immagine a 1200 × 1",
+  "name": "Loona Ridimensiona immagine a 1200 × 1800 px",
+  "short_name": "Ridimensiona immagine a 1200",
   "description": "Ridimensiona qualsiasi immagine esattamente a 1200×1800 px: Stampa fotografica 4 × 6 pollici a 300 DPI. Gratis nel tuo browser, con controllo del ritaglio; senza caricamenti e senza registrazione.",
   "id": "/loona-image-compressor/it/resize-image-to-1200x1800.html",
   "start_url": "./resize-image-to-1200x1800.html",

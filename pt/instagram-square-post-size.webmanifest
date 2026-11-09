@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamanho de Publicação Quadrada (1:1) de Instagram",
-  "short_name": "Tamanho de Publicação Quadrada (",
+  "name": "Loona Tamanho de Publicação Quadrada (1",
+  "short_name": "Tamanho de Publicação",
   "description": "Crie um elemento publicação quadrada (1:1) de Instagram com exatamente 1080×1080 px. Redimensionador/recortador gratuito no seu navegador, com as regras de zona segura que evitam textos e rostos cortados.",
   "id": "/loona-image-compressor/pt/instagram-square-post-size.html",
   "start_url": "./instagram-square-post-size.html",

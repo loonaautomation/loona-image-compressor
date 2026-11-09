@@ -1,6 +1,6 @@
 {
   "name": "Loona Resize Image to 2400 × 3000 px Online",
-  "short_name": "Resize Image to 2400 × 3000 px O",
+  "short_name": "Resize Image to 2400 × 3000",
   "description": "Resize any image to exactly 2400×3000 px — 8 × 10 inch print at 300 DPI. Free in your browser with crop control; no upload, no signup.",
   "id": "/loona-image-compressor/resize-image-to-2400x3000.html",
   "start_url": "./resize-image-to-2400x3000.html",

@@ -1,6 +1,6 @@
 {
-  "name": "Loona Redimensionar Imagem para 1024 × 1024 px Online",
-  "short_name": "Redimensionar Imagem para 1024 ×",
+  "name": "Loona Redimensionar Imagem para 1024 × 1024 px",
+  "short_name": "Redimensionar Imagem para",
   "description": "Redimensione qualquer imagem para exatamente 1024×1024 px — Quadrado padrão de ícones de aplicações e imagens de IA. Grátis no seu navegador, com controlo de recorte; sem envios e sem registo.",
   "id": "/loona-image-compressor/pt/resize-image-to-1024x1024.html",
   "start_url": "./resize-image-to-1024x1024.html",

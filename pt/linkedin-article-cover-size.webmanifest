@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamanho de Capa de Artigo / Boletim de LinkedIn",
-  "short_name": "Tamanho de Capa de Artigo / Bole",
+  "name": "Loona Tamanho de Capa de Artigo / Boletim de",
+  "short_name": "Tamanho de Capa de Artigo /",
   "description": "Crie um elemento capa de artigo / boletim de LinkedIn com exatamente 1200×644 px. Redimensionador/recortador gratuito no seu navegador, com as regras de zona segura que evitam textos e rostos cortados.",
   "id": "/loona-image-compressor/pt/linkedin-article-cover-size.html",
   "start_url": "./linkedin-article-cover-size.html",

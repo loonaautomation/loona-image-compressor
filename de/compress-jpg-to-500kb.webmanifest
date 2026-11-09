@@ -1,6 +1,6 @@
 {
   "name": "Loona JPG auf 500 KB online komprimieren",
-  "short_name": "JPG auf 500 KB online komprimier",
+  "short_name": "JPG auf 500 KB online",
   "description": "Komprimieren Sie ein JPG-Bild kostenlos in Ihrem Browser auf 500 KB oder weniger. Die automatische Suche findet die beste Qualität, die passt — ohne Anmeldung, ohne Upload.",
   "id": "/loona-image-compressor/de/compress-jpg-to-500kb.html",
   "start_url": "./compress-jpg-to-500kb.html",

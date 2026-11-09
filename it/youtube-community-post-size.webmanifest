@@ -1,6 +1,6 @@
 {
-  "name": "Loona Formato Immagine post della community YouTube",
-  "short_name": "Formato Immagine post della comm",
+  "name": "Loona Formato Immagine post della community",
+  "short_name": "Formato Immagine post della",
   "description": "Crea un immagine post della community YouTube esattamente di 1080×1080 px. Strumento gratuito di ridimensionamento e ritaglio nel tuo browser, con le regole della zona sicura che evitano testi e volti tagliati.",
   "id": "/loona-image-compressor/it/youtube-community-post-size.html",
   "start_url": "./youtube-community-post-size.html",

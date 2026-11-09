@@ -1,6 +1,6 @@
 {
   "name": "Loona WebP auf 50 KB online komprimieren",
-  "short_name": "WebP auf 50 KB online komprimier",
+  "short_name": "WebP auf 50 KB online",
   "description": "Komprimieren Sie ein WebP-Bild kostenlos in Ihrem Browser auf 50 KB oder weniger. Die automatische Suche findet die beste Qualität, die passt — ohne Anmeldung, ohne Upload.",
   "id": "/loona-image-compressor/de/compress-webp-to-50kb.html",
   "start_url": "./compress-webp-to-50kb.html",

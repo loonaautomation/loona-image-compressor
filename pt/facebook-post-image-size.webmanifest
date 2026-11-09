@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamanho de Imagem de Publicação / Ligação de Facebook",
-  "short_name": "Tamanho de Imagem de Publicação ",
+  "name": "Loona Tamanho de Imagem de Publicação / Ligação",
+  "short_name": "Tamanho de Imagem de",
   "description": "Crie um elemento imagem de publicação / ligação de Facebook com exatamente 1200×630 px. Redimensionador/recortador gratuito no seu navegador, com as regras de zona segura que evitam textos e rostos cortados.",
   "id": "/loona-image-compressor/pt/facebook-post-image-size.html",
   "start_url": "./facebook-post-image-size.html",

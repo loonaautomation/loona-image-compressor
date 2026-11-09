@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Fotografía de SBI PO: 200 × 230 px, 20–50 KB",
-  "short_name": "Tamaño de Fotografía de SBI PO: ",
+  "name": "Loona Tamaño de Fotografía de SBI PO",
+  "short_name": "Tamaño de Fotografía de SBI PO",
   "description": "Ajusta tu foto de SBI PO al tamaño de la convocatoria (200 × 230 px) y a la banda de 20–50 KB. Gratis, en tu navegador: sin subidas y sin registro.",
   "id": "/loona-image-compressor/es/sbi-po-photo-size.html",
   "start_url": "./sbi-po-photo-size.html",

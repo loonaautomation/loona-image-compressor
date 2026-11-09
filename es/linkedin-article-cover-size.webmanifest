@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Portada de artículo / boletín de LinkedIn: 1200×644 px",
-  "short_name": "Tamaño de Portada de artículo / ",
+  "name": "Loona Tamaño de Portada de artículo / boletín",
+  "short_name": "Tamaño de Portada de artículo",
   "description": "Crea un elemento «portada de artículo / boletín» de LinkedIn exactamente de 1200×644 px. Redimensionador/recortador gratuito en tu navegador, con las reglas de zona segura que evitan textos y rostros recortados.",
   "id": "/loona-image-compressor/es/linkedin-article-cover-size.html",
   "start_url": "./linkedin-article-cover-size.html",

@@ -1,6 +1,6 @@
 {
-  "name": "Loona Redimensionar imagen a 1500 × 2100 px en línea",
-  "short_name": "Redimensionar imagen a 1500 × 21",
+  "name": "Loona Redimensionar imagen a 1500 × 2100 px en",
+  "short_name": "Redimensionar imagen a 1500 ×",
   "description": "Redimensiona cualquier imagen exactamente a 1500×2100 px: Impresión fotográfica de 5 × 7 pulgadas a 300 DPI. Gratis en tu navegador, con control de recorte; sin subidas y sin registro.",
   "id": "/loona-image-compressor/es/resize-image-to-1500x2100.html",
   "start_url": "./resize-image-to-1500x2100.html",

@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Pantalla de invitación de Discord: 1920×1080 px",
-  "short_name": "Tamaño de Pantalla de invitación",
+  "name": "Loona Tamaño de Pantalla de invitación de",
+  "short_name": "Tamaño de Pantalla de",
   "description": "Crea un elemento «pantalla de invitación» de Discord exactamente de 1920×1080 px. Redimensionador/recortador gratuito en tu navegador, con las reglas de zona segura que evitan textos y rostros recortados.",
   "id": "/loona-image-compressor/es/discord-server-splash-size.html",
   "start_url": "./discord-server-splash-size.html",

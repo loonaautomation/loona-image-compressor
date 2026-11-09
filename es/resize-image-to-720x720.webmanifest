@@ -1,6 +1,6 @@
 {
-  "name": "Loona Redimensionar imagen a 720 × 720 px en línea",
-  "short_name": "Redimensionar imagen a 720 × 720",
+  "name": "Loona Redimensionar imagen a 720 × 720 px en",
+  "short_name": "Redimensionar imagen a 720 ×",
   "description": "Redimensiona cualquier imagen exactamente a 720×720 px: Mínimo de perfil de Facebook y tamaño general de avatar. Gratis en tu navegador, con control de recorte; sin subidas y sin registro.",
   "id": "/loona-image-compressor/es/resize-image-to-720x720.html",
   "start_url": "./resize-image-to-720x720.html",

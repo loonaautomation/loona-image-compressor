@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Publicación fotográfica (vertical) de TikTok: 1080×1350 px",
-  "short_name": "Tamaño de Publicación fotográfic",
+  "name": "Loona Tamaño de Publicación fotográfica",
+  "short_name": "Tamaño de Publicación",
   "description": "Crea un elemento «publicación fotográfica (vertical)» de TikTok exactamente de 1080×1350 px. Redimensionador/recortador gratuito en tu navegador, con las reglas de zona segura que evitan textos y rostros recortados.",
   "id": "/loona-image-compressor/es/tiktok-photo-post-portrait-size.html",
   "start_url": "./tiktok-photo-post-portrait-size.html",

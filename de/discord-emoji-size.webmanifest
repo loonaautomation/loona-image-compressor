@@ -1,6 +1,6 @@
 {
   "name": "Loona Discord Benutzerdefiniertes Emoji Größe",
-  "short_name": "Discord Benutzerdefiniertes Emoj",
+  "short_name": "Discord Benutzerdefiniertes",
   "description": "Erstellen Sie ein Discord-benutzerdefiniertes emoji mit exakt 128×128 px. Kostenloser Größenänderer/Zuschneider in Ihrem Browser mit den Regeln für die sichere Zone, die abgeschnittenen Text und Gesichter verhindern.",
   "id": "/loona-image-compressor/de/discord-emoji-size.html",
   "start_url": "./discord-emoji-size.html",

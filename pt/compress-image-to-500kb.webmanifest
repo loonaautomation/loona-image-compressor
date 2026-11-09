@@ -1,6 +1,6 @@
 {
   "name": "Loona Comprimir Imagem para 500 KB Online",
-  "short_name": "Comprimir Imagem para 500 KB Onl",
+  "short_name": "Comprimir Imagem para 500 KB",
   "description": "Comprima imagens JPG, PNG e WebP para 500 KB ou menos, online e grátis. Procura automática de qualidade e tamanho no seu navegador — sem registo e sem envios.",
   "id": "/loona-image-compressor/pt/compress-image-to-500kb.html",
   "start_url": "./compress-image-to-500kb.html",

@@ -1,6 +1,6 @@
 {
   "name": "Loona Formato Foto profilo X (Twitter)",
-  "short_name": "Formato Foto profilo X (Twitter)",
+  "short_name": "Formato Foto profilo X",
   "description": "Crea un foto profilo X (Twitter) esattamente di 400×400 px. Strumento gratuito di ridimensionamento e ritaglio nel tuo browser, con le regole della zona sicura che evitano testi e volti tagliati.",
   "id": "/loona-image-compressor/it/x-profile-picture-size.html",
   "start_url": "./x-profile-picture-size.html",

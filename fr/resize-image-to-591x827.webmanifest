@@ -1,6 +1,6 @@
 {
-  "name": "Loona Redimensionner une image à 591 × 827 px en ligne",
-  "short_name": "Redimensionner une image à 591 ×",
+  "name": "Loona Redimensionner une image à 591 × 827 px",
+  "short_name": "Redimensionner une image à",
   "description": "Redimensionnez n&#x27;importe quelle image à exactement 591×827 px — 50 × 70 mm à 300 DPI — format de passeport du Canada/Brésil. Gratuit dans votre navigateur avec contrôle du recadrage ; sans envoi, sans inscription.",
   "id": "/loona-image-compressor/fr/resize-image-to-591x827.html",
   "start_url": "./resize-image-to-591x827.html",

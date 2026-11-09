@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Fotografía de RBI Assistant: 200 × 230 px, 20–50 KB",
-  "short_name": "Tamaño de Fotografía de RBI Assi",
+  "name": "Loona Tamaño de Fotografía de RBI Assistant",
+  "short_name": "Tamaño de Fotografía de RBI",
   "description": "Ajusta tu foto de RBI Assistant al tamaño de la convocatoria (200 × 230 px) y a la banda de 20–50 KB. Gratis, en tu navegador: sin subidas y sin registro.",
   "id": "/loona-image-compressor/es/rbi-assistant-photo-size.html",
   "start_url": "./rbi-assistant-photo-size.html",

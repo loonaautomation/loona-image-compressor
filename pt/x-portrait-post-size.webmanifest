@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamanho de Publicação Vertical (4:5) de X (Twitter)",
-  "short_name": "Tamanho de Publicação Vertical (",
+  "name": "Loona Tamanho de Publicação Vertical (4",
+  "short_name": "Tamanho de Publicação",
   "description": "Crie um elemento publicação vertical (4:5) de X (Twitter) com exatamente 1080×1350 px. Redimensionador/recortador gratuito no seu navegador, com as regras de zona segura que evitam textos e rostos cortados.",
   "id": "/loona-image-compressor/pt/x-portrait-post-size.html",
   "start_url": "./x-portrait-post-size.html",

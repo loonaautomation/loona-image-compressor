@@ -1,6 +1,6 @@
 {
-  "name": "Loona Redimensionner une image à 750 × 1050 px en ligne",
-  "short_name": "Redimensionner une image à 750 ×",
+  "name": "Loona Redimensionner une image à 750 × 1050 px",
+  "short_name": "Redimensionner une image à",
   "description": "Redimensionnez n&#x27;importe quelle image à exactement 750×1050 px — Format portefeuille — 2,5 × 3,5 pouces à 300 DPI. Gratuit dans votre navigateur avec contrôle du recadrage ; sans envoi, sans inscription.",
   "id": "/loona-image-compressor/fr/resize-image-to-750x1050.html",
   "start_url": "./resize-image-to-750x1050.html",

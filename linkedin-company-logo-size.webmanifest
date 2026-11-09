@@ -1,6 +1,6 @@
 {
   "name": "Loona LinkedIn Company Page Logo Size",
-  "short_name": "LinkedIn Company Page Logo Size",
+  "short_name": "LinkedIn Company Page Logo",
   "description": "Make a LinkedIn company page logo at exactly 300×300 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
   "id": "/loona-image-compressor/linkedin-company-logo-size.html",
   "start_url": "./linkedin-company-logo-size.html",

@@ -1,6 +1,6 @@
 {
   "name": "Loona Format Photo de profil Instagram",
-  "short_name": "Format Photo de profil Instagram",
+  "short_name": "Format Photo de profil",
   "description": "Créez un visuel photo de profil Instagram d&#x27;exactement 1080×1080 px. Redimensionneur/recadreur gratuit dans votre navigateur, avec les règles de zone de sécurité qui évitent les textes et visages coupés.",
   "id": "/loona-image-compressor/fr/instagram-profile-picture-size.html",
   "start_url": "./instagram-profile-picture-size.html",

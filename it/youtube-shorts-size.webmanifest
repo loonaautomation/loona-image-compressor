@@ -1,6 +1,6 @@
 {
-  "name": "Loona Formato Copertina / Fotogramma Shorts YouTube",
-  "short_name": "Formato Copertina / Fotogramma S",
+  "name": "Loona Formato Copertina / Fotogramma Shorts",
+  "short_name": "Formato Copertina /",
   "description": "Crea un copertina / fotogramma shorts YouTube esattamente di 1080×1920 px. Strumento gratuito di ridimensionamento e ritaglio nel tuo browser, con le regole della zona sicura che evitano testi e volti tagliati.",
   "id": "/loona-image-compressor/it/youtube-shorts-size.html",
   "start_url": "./youtube-shorts-size.html",

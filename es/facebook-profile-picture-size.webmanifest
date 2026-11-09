@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Foto de perfil de Facebook: 720×720 px",
-  "short_name": "Tamaño de Foto de perfil de Face",
+  "name": "Loona Tamaño de Foto de perfil de Facebook",
+  "short_name": "Tamaño de Foto de perfil de",
   "description": "Crea un elemento «foto de perfil» de Facebook exactamente de 720×720 px. Redimensionador/recortador gratuito en tu navegador, con las reglas de zona segura que evitan textos y rostros recortados.",
   "id": "/loona-image-compressor/es/facebook-profile-picture-size.html",
   "start_url": "./facebook-profile-picture-size.html",

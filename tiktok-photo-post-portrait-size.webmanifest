@@ -1,6 +1,6 @@
 {
   "name": "Loona TikTok Photo Post (Portrait) Size",
-  "short_name": "TikTok Photo Post (Portrait) Siz",
+  "short_name": "TikTok Photo Post (Portrait)",
   "description": "Make a TikTok photo post (portrait) at exactly 1080×1350 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
   "id": "/loona-image-compressor/tiktok-photo-post-portrait-size.html",
   "start_url": "./tiktok-photo-post-portrait-size.html",

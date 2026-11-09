@@ -1,6 +1,6 @@
 {
-  "name": "Loona Format Couverture d&#x27;article / de newsletter LinkedIn",
-  "short_name": "Format Couverture d&#x27;article",
+  "name": "Loona Format Couverture d&#x27;article / de",
+  "short_name": "Format Couverture",
   "description": "Créez un visuel couverture d&#x27;article / de newsletter LinkedIn d&#x27;exactement 1200×644 px. Redimensionneur/recadreur gratuit dans votre navigateur, avec les règles de zone de sécurité qui évitent les textes et visages coupés.",
   "id": "/loona-image-compressor/fr/linkedin-article-cover-size.html",
   "start_url": "./linkedin-article-cover-size.html",

@@ -1,6 +1,6 @@
 {
   "name": "Loona Redimensionar Imagem para 1920 × 1080",
-  "short_name": "Redimensionar Imagem para 1920 ×",
+  "short_name": "Redimensionar Imagem para",
   "description": "Redimensione qualquer imagem para exatamente 1920 × 1080 píxeis (ecrãs Full HD, papéis de parede de ambiente de trabalho e ecrãs finais do YouTube) gratuitamente. Cobrir, conter ou esticar, JPG ou PNG, transferência instantânea — sem registo, nada enviado.",
   "id": "/loona-image-compressor/pt/resize-image-to-1920x1080.html",
   "start_url": "./resize-image-to-1920x1080.html",

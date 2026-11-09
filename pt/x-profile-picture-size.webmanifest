@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamanho de Fotografia de Perfil de X (Twitter)",
-  "short_name": "Tamanho de Fotografia de Perfil ",
+  "name": "Loona Tamanho de Fotografia de Perfil de X",
+  "short_name": "Tamanho de Fotografia de",
   "description": "Crie um elemento fotografia de perfil de X (Twitter) com exatamente 400×400 px. Redimensionador/recortador gratuito no seu navegador, com as regras de zona segura que evitam textos e rostos cortados.",
   "id": "/loona-image-compressor/pt/x-profile-picture-size.html",
   "start_url": "./x-profile-picture-size.html",

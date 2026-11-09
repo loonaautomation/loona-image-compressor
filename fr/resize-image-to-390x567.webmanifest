@@ -1,6 +1,6 @@
 {
-  "name": "Loona Redimensionner une image à 390 × 567 px en ligne",
-  "short_name": "Redimensionner une image à 390 ×",
+  "name": "Loona Redimensionner une image à 390 × 567 px",
+  "short_name": "Redimensionner une image à",
   "description": "Redimensionnez n&#x27;importe quelle image à exactement 390×567 px — 33 × 48 mm à 300 DPI — format de visa de la Chine. Gratuit dans votre navigateur avec contrôle du recadrage ; sans envoi, sans inscription.",
   "id": "/loona-image-compressor/fr/resize-image-to-390x567.html",
   "start_url": "./resize-image-to-390x567.html",

@@ -1,6 +1,6 @@
 {
   "name": "Loona Bild-Metadaten- & EXIF-Betrachter",
-  "short_name": "Bild-Metadaten- & EXIF-Betrachte",
+  "short_name": "Bild-Metadaten- &",
   "description": "Sehen Sie die versteckten Metadaten in jedem JPG-, PNG- oder WebP-Foto online kostenlos an — Kameramarke und -modell, Aufnahmedatum, Belichtung, ISO, Brennweite, GPS-Standort, IPTC- und XMP-Grundlagen. Nichts wird hochgeladen: Ihr Foto verlässt Ihr Gerät nie.",
   "id": "/loona-image-compressor/de/image-metadata-viewer.html",
   "start_url": "./image-metadata-viewer.html",

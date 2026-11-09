@@ -1,6 +1,6 @@
 {
   "name": "Loona Tamanho de Fotografia de SSC CHSL",
-  "short_name": "Tamanho de Fotografia de SSC CHS",
+  "short_name": "Tamanho de Fotografia de SSC",
   "description": "Redimensione a sua fotografia de SSC CHSL para o tamanho do aviso oficial (200 × 230 px) e o intervalo de 20–50 KB. Grátis, no seu navegador — sem envios e sem registo.",
   "id": "/loona-image-compressor/pt/ssc-chsl-photo-size.html",
   "start_url": "./ssc-chsl-photo-size.html",

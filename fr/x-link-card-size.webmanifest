@@ -1,6 +1,6 @@
 {
   "name": "Loona Format Image de carte de lien X (Twitter)",
-  "short_name": "Format Image de carte de lien X ",
+  "short_name": "Format Image de carte de lien",
   "description": "Créez un visuel image de carte de lien X (Twitter) d&#x27;exactement 1200×628 px. Redimensionneur/recadreur gratuit dans votre navigateur, avec les règles de zone de sécurité qui évitent les textes et visages coupés.",
   "id": "/loona-image-compressor/fr/x-link-card-size.html",
   "start_url": "./x-link-card-size.html",

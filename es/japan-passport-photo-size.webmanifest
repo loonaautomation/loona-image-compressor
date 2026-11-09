@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Pasaporte de Japón: 35×45 mm (413×531 px)",
-  "short_name": "Tamaño de Pasaporte de Japón: 35",
+  "name": "Loona Tamaño de Pasaporte de Japón",
+  "short_name": "Tamaño de Pasaporte de Japón",
   "description": "Crea una Pasaporte de Japón con el tamaño oficial de 35×45 mm (413×531 px), fondo blanco liso o claro, sin motivos. Creador en línea gratuito: recorta, descarga e imprime la hoja, sin subir archivos.",
   "id": "/loona-image-compressor/es/japan-passport-photo-size.html",
   "start_url": "./japan-passport-photo-size.html",

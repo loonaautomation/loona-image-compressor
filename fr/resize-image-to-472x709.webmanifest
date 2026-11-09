@@ -1,6 +1,6 @@
 {
-  "name": "Loona Redimensionner une image à 472 × 709 px en ligne",
-  "short_name": "Redimensionner une image à 472 ×",
+  "name": "Loona Redimensionner une image à 472 × 709 px",
+  "short_name": "Redimensionner une image à",
   "description": "Redimensionnez n&#x27;importe quelle image à exactement 472×709 px — 40 × 60 mm à 300 DPI — format de photo des Émirats/Arabie/Égypte/Vietnam. Gratuit dans votre navigateur avec contrôle du recadrage ; sans envoi, sans inscription.",
   "id": "/loona-image-compressor/fr/resize-image-to-472x709.html",
   "start_url": "./resize-image-to-472x709.html",

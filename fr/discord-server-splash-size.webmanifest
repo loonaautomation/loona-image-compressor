@@ -1,6 +1,6 @@
 {
   "name": "Loona Format Écran d&#x27;invitation Discord",
-  "short_name": "Format Écran d&#x27;invitation D",
+  "short_name": "Format Écran",
   "description": "Créez un visuel écran d&#x27;invitation Discord d&#x27;exactement 1920×1080 px. Redimensionneur/recadreur gratuit dans votre navigateur, avec les règles de zone de sécurité qui évitent les textes et visages coupés.",
   "id": "/loona-image-compressor/fr/discord-server-splash-size.html",
   "start_url": "./discord-server-splash-size.html",

@@ -1,6 +1,6 @@
 {
-  "name": "Loona Formato Post verticale (4:5) X (Twitter)",
-  "short_name": "Formato Post verticale (4:5) X (",
+  "name": "Loona Formato Post verticale (4",
+  "short_name": "Formato Post verticale (4",
   "description": "Crea un post verticale (4:5) X (Twitter) esattamente di 1080×1350 px. Strumento gratuito di ridimensionamento e ritaglio nel tuo browser, con le regole della zona sicura che evitano testi e volti tagliati.",
   "id": "/loona-image-compressor/it/x-portrait-post-size.html",
   "start_url": "./x-portrait-post-size.html",

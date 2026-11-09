@@ -1,6 +1,6 @@
 {
   "name": "Loona Bild auf 1 MB online komprimieren",
-  "short_name": "Bild auf 1 MB online komprimiere",
+  "short_name": "Bild auf 1 MB online",
   "description": "Komprimieren Sie JPG-, PNG- und WebP-Bilder online und kostenlos auf 1 MB oder weniger. Automatische Qualitäts- und Größensuche in Ihrem Browser — ohne Anmeldung, ohne Upload.",
   "id": "/loona-image-compressor/de/compress-image-to-1mb.html",
   "start_url": "./compress-image-to-1mb.html",

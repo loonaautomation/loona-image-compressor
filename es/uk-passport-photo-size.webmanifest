@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Pasaporte del Reino Unido: 35×45 mm (600×750 px)",
-  "short_name": "Tamaño de Pasaporte del Reino Un",
+  "name": "Loona Tamaño de Pasaporte del Reino Unido",
+  "short_name": "Tamaño de Pasaporte del Reino",
   "description": "Crea una Pasaporte del Reino Unido con el tamaño oficial de 35×45 mm (600×750 px), fondo gris claro liso o crema. Creador en línea gratuito: recorta, descarga e imprime la hoja, sin subir archivos.",
   "id": "/loona-image-compressor/es/uk-passport-photo-size.html",
   "start_url": "./uk-passport-photo-size.html",

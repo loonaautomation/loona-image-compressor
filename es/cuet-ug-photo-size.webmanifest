@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Fotografía de CUET UG: 3,5 × 4,5 cm (aprox. 413 × 531 px a 300 DPI), 10–200 KB",
-  "short_name": "Tamaño de Fotografía de CUET UG:",
+  "name": "Loona Tamaño de Fotografía de CUET UG",
+  "short_name": "Tamaño de Fotografía de CUET",
   "description": "Ajusta tu foto de CUET UG al tamaño de la convocatoria (3,5 × 4,5 cm (aprox. 413 × 531 px a 300 DPI)) y a la banda de 10–200 KB. Gratis, en tu navegador: sin subidas y sin registro.",
   "id": "/loona-image-compressor/es/cuet-ug-photo-size.html",
   "start_url": "./cuet-ug-photo-size.html",

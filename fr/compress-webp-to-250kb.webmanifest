@@ -1,6 +1,6 @@
 {
   "name": "Loona Compresser un WebP à 250 Ko en ligne",
-  "short_name": "Compresser un WebP à 250 Ko en l",
+  "short_name": "Compresser un WebP à 250 Ko",
   "description": "Compressez une image WebP à 250 Ko ou moins, gratuitement dans votre navigateur. La recherche automatique trouve la meilleure qualité qui tient dans la limite — sans inscription, sans envoi.",
   "id": "/loona-image-compressor/fr/compress-webp-to-250kb.html",
   "start_url": "./compress-webp-to-250kb.html",

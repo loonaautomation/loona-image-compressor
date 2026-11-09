@@ -1,6 +1,6 @@
 {
   "name": "Loona Redimensionar imagen a 1080 × 1350",
-  "short_name": "Redimensionar imagen a 1080 × 13",
+  "short_name": "Redimensionar imagen a 1080 ×",
   "description": "Redimensiona cualquier imagen a exactamente 1080 × 1350 píxeles (publicaciones verticales de Instagram en la proporción 4:5) gratis. Cubrir, contener o estirar, JPG o PNG, descarga instantánea: sin registro y sin subir nada.",
   "id": "/loona-image-compressor/es/resize-image-to-1080x1350.html",
   "start_url": "./resize-image-to-1080x1350.html",

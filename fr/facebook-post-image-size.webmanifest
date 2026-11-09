@@ -1,6 +1,6 @@
 {
-  "name": "Loona Format Image de publication / de lien Facebook",
-  "short_name": "Format Image de publication / de",
+  "name": "Loona Format Image de publication / de lien",
+  "short_name": "Format Image de publication /",
   "description": "Créez un visuel image de publication / de lien Facebook d&#x27;exactement 1200×630 px. Redimensionneur/recadreur gratuit dans votre navigateur, avec les règles de zone de sécurité qui évitent les textes et visages coupés.",
   "id": "/loona-image-compressor/fr/facebook-post-image-size.html",
   "start_url": "./facebook-post-image-size.html",

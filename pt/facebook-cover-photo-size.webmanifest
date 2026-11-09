@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamanho de Fotografia de Capa / Capa de Página de Facebook",
-  "short_name": "Tamanho de Fotografia de Capa / ",
+  "name": "Loona Tamanho de Fotografia de Capa / Capa de",
+  "short_name": "Tamanho de Fotografia de Capa",
   "description": "Crie um elemento fotografia de capa / capa de página de Facebook com exatamente 1640×924 px. Redimensionador/recortador gratuito no seu navegador, com as regras de zona segura que evitam textos e rostos cortados.",
   "id": "/loona-image-compressor/pt/facebook-cover-photo-size.html",
   "start_url": "./facebook-cover-photo-size.html",

@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Fotografía de AFCAT: 3,5 × 4,5 cm (aprox. 413 × 531 px a 300 DPI), 10–50 KB",
-  "short_name": "Tamaño de Fotografía de AFCAT: 3",
+  "name": "Loona Tamaño de Fotografía de AFCAT",
+  "short_name": "Tamaño de Fotografía de AFCAT",
   "description": "Ajusta tu foto de AFCAT al tamaño de la convocatoria (3,5 × 4,5 cm (aprox. 413 × 531 px a 300 DPI)) y a la banda de 10–50 KB. Gratis, en tu navegador: sin subidas y sin registro.",
   "id": "/loona-image-compressor/es/afcat-photo-size.html",
   "start_url": "./afcat-photo-size.html",

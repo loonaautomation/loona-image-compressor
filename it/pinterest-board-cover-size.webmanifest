@@ -1,6 +1,6 @@
 {
   "name": "Loona Formato Copertina bacheca Pinterest",
-  "short_name": "Formato Copertina bacheca Pinter",
+  "short_name": "Formato Copertina bacheca",
   "description": "Crea un copertina bacheca Pinterest esattamente di 800×450 px. Strumento gratuito di ridimensionamento e ritaglio nel tuo browser, con le regole della zona sicura che evitano testi e volti tagliati.",
   "id": "/loona-image-compressor/it/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",

@@ -1,6 +1,6 @@
 {
   "name": "Loona Formato Passaporto / Visto del Brasile",
-  "short_name": "Formato Passaporto / Visto del B",
+  "short_name": "Formato Passaporto / Visto",
   "description": "Crea la foto Passaporto / Visto del Brasile nel formato ufficiale di 50×70 mm (591×827 px), sfondo bianco liso. Strumento online gratuito: ritaglia, scarica e stampa il foglio, senza caricamenti.",
   "id": "/loona-image-compressor/it/brazil-passport-photo-size.html",
   "start_url": "./brazil-passport-photo-size.html",

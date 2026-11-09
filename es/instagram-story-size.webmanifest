@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Historia de Instagram: 1080×1920 px",
-  "short_name": "Tamaño de Historia de Instagram:",
+  "name": "Loona Tamaño de Historia de Instagram",
+  "short_name": "Tamaño de Historia de",
   "description": "Crea un elemento «historia» de Instagram exactamente de 1080×1920 px. Redimensionador/recortador gratuito en tu navegador, con las reglas de zona segura que evitan textos y rostros recortados.",
   "id": "/loona-image-compressor/es/instagram-story-size.html",
   "start_url": "./instagram-story-size.html",

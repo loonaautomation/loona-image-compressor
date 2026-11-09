@@ -1,6 +1,6 @@
 {
   "name": "Loona Redimensionar imagen a 1080 × 1080",
-  "short_name": "Redimensionar imagen a 1080 × 10",
+  "short_name": "Redimensionar imagen a 1080 ×",
   "description": "Redimensiona cualquier imagen a exactamente 1080 × 1080 píxeles (publicaciones cuadradas y fotos de perfil de Instagram) gratis. Cubrir, contener o estirar, JPG o PNG, descarga instantánea: sin registro y sin subir nada.",
   "id": "/loona-image-compressor/es/resize-image-to-1080x1080.html",
   "start_url": "./resize-image-to-1080x1080.html",

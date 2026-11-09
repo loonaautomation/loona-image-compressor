@@ -1,6 +1,6 @@
 {
-  "name": "Loona Redimensionar imagen a 1200 × 1800 px en línea",
-  "short_name": "Redimensionar imagen a 1200 × 18",
+  "name": "Loona Redimensionar imagen a 1200 × 1800 px en",
+  "short_name": "Redimensionar imagen a 1200 ×",
   "description": "Redimensiona cualquier imagen exactamente a 1200×1800 px: Impresión fotográfica de 4 × 6 pulgadas a 300 DPI. Gratis en tu navegador, con control de recorte; sin subidas y sin registro.",
   "id": "/loona-image-compressor/es/resize-image-to-1200x1800.html",
   "start_url": "./resize-image-to-1200x1800.html",

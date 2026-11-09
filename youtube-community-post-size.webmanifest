@@ -1,6 +1,6 @@
 {
   "name": "Loona YouTube Community Post Image Size",
-  "short_name": "YouTube Community Post Image Siz",
+  "short_name": "YouTube Community Post Image",
   "description": "Make a YouTube community post image at exactly 1080×1080 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
   "id": "/loona-image-compressor/youtube-community-post-size.html",
   "start_url": "./youtube-community-post-size.html",

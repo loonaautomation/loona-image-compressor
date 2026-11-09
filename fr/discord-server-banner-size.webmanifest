@@ -1,6 +1,6 @@
 {
   "name": "Loona Format Bannière de serveur Discord",
-  "short_name": "Format Bannière de serveur Disco",
+  "short_name": "Format Bannière de serveur",
   "description": "Créez un visuel bannière de serveur Discord d&#x27;exactement 960×540 px. Redimensionneur/recadreur gratuit dans votre navigateur, avec les règles de zone de sécurité qui évitent les textes et visages coupés.",
   "id": "/loona-image-compressor/fr/discord-server-banner-size.html",
   "start_url": "./discord-server-banner-size.html",

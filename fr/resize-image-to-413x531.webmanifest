@@ -1,6 +1,6 @@
 {
-  "name": "Loona Redimensionner une image à 413 × 531 px en ligne",
-  "short_name": "Redimensionner une image à 413 ×",
+  "name": "Loona Redimensionner une image à 413 × 531 px",
+  "short_name": "Redimensionner une image à",
   "description": "Redimensionnez n&#x27;importe quelle image à exactement 413×531 px — 35 × 45 mm à 300 DPI — la taille d&#x27;impression OACI/Schengen en pixels. Gratuit dans votre navigateur avec contrôle du recadrage ; sans envoi, sans inscription.",
   "id": "/loona-image-compressor/fr/resize-image-to-413x531.html",
   "start_url": "./resize-image-to-413x531.html",

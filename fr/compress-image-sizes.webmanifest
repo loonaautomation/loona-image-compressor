@@ -1,6 +1,6 @@
 {
-  "name": "Loona Compresser une image à n&#x27;importe quelle taille en Ko",
-  "short_name": "Compresser une image à n&#x27;im",
+  "name": "Loona Compresser une image à n&#x27;importe",
+  "short_name": "Compresser une image à",
   "description": "Tous les outils de compression à une taille donnée : 16 tailles cibles en JPG, PNG et WebP, de 10 Ko à 2 Mo. Gratuit, dans votre navigateur.",
   "id": "/loona-image-compressor/fr/compress-image-sizes.html",
   "start_url": "./compress-image-sizes.html",

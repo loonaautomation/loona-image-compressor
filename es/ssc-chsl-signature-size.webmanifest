@@ -1,6 +1,6 @@
 {
-  "name": "Loona Tamaño de Firma de SSC CHSL: 140 × 60 px, 10–20 KB",
-  "short_name": "Tamaño de Firma de SSC CHSL: 140",
+  "name": "Loona Tamaño de Firma de SSC CHSL",
+  "short_name": "Tamaño de Firma de SSC CHSL",
   "description": "Ajusta tu firma de SSC CHSL al tamaño de la convocatoria (140 × 60 px) y a la banda de 10–20 KB. Gratis, en tu navegador: sin subidas y sin registro.",
   "id": "/loona-image-compressor/es/ssc-chsl-signature-size.html",
   "start_url": "./ssc-chsl-signature-size.html",

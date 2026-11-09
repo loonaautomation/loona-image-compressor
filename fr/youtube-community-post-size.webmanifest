@@ -1,6 +1,6 @@
 {
-  "name": "Loona Format Image de publication communautaire YouTube",
-  "short_name": "Format Image de publication comm",
+  "name": "Loona Format Image de publication communautaire",
+  "short_name": "Format Image de publication",
   "description": "Créez un visuel image de publication communautaire YouTube d&#x27;exactement 1080×1080 px. Redimensionneur/recadreur gratuit dans votre navigateur, avec les règles de zone de sécurité qui évitent les textes et visages coupés.",
   "id": "/loona-image-compressor/fr/youtube-community-post-size.html",
   "start_url": "./youtube-community-post-size.html",

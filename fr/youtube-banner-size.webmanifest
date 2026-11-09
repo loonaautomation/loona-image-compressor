@@ -1,6 +1,6 @@
 {
   "name": "Loona Format Bannière de chaîne YouTube",
-  "short_name": "Format Bannière de chaîne YouTub",
+  "short_name": "Format Bannière de chaîne",
   "description": "Créez un visuel bannière de chaîne YouTube d&#x27;exactement 2560×1440 px. Redimensionneur/recadreur gratuit dans votre navigateur, avec les règles de zone de sécurité qui évitent les textes et visages coupés.",
   "id": "/loona-image-compressor/fr/youtube-banner-size.html",
   "start_url": "./youtube-banner-size.html",

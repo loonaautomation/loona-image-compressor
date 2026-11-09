@@ -1,6 +1,6 @@
 {
   "name": "Loona Format de la Photo RRB NTPC (Railways)",
-  "short_name": "Format de la Photo RRB NTPC (Rai",
+  "short_name": "Format de la Photo RRB NTPC",
   "description": "Redimensionnez votre photo RRB NTPC (Railways) au format de l&#x27;avis officiel (320 × 240 px) et dans la plage de 30–70 Ko. Gratuit, dans votre navigateur — sans envoi, sans inscription.",
   "id": "/loona-image-compressor/fr/rrb-ntpc-photo-size.html",
   "start_url": "./rrb-ntpc-photo-size.html",

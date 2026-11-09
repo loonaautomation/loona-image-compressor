@@ -1,6 +1,6 @@
 {
   "name": "Loona Format Bannière de profil Discord",
-  "short_name": "Format Bannière de profil Discor",
+  "short_name": "Format Bannière de profil",
   "description": "Créez un visuel bannière de profil Discord d&#x27;exactement 600×180 px. Redimensionneur/recadreur gratuit dans votre navigateur, avec les règles de zone de sécurité qui évitent les textes et visages coupés.",
   "id": "/loona-image-compressor/fr/discord-profile-banner-size.html",
   "start_url": "./discord-profile-banner-size.html",

@@ -1,6 +1,6 @@
 {
-  "name": "Loona Comprimi immagine a qualsiasi dimensione in KB",
-  "short_name": "Comprimi immagine a qualsiasi di",
+  "name": "Loona Comprimi immagine a qualsiasi dimensione",
+  "short_name": "Comprimi immagine a qualsiasi",
   "description": "Tutti gli strumenti di compressione a una dimensione: 16 dimensioni obiettivo in JPG, PNG e WebP, da 10 KB a 2 MB. Gratis, nel tuo browser.",
   "id": "/loona-image-compressor/it/compress-image-sizes.html",
   "start_url": "./compress-image-sizes.html",

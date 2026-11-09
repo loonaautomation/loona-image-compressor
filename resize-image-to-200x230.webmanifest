@@ -1,6 +1,6 @@
 {
   "name": "Loona Resize Image to 200 × 230 px Online",
-  "short_name": "Resize Image to 200 × 230 px Onl",
+  "short_name": "Resize Image to 200 × 230 px",
   "description": "Resize any image to exactly 200×230 px — The SSC/IBPS/SBI exam-photo standard in India. Free in your browser with crop control; no upload, no signup.",
   "id": "/loona-image-compressor/resize-image-to-200x230.html",
   "start_url": "./resize-image-to-200x230.html",

@@ -1,6 +1,6 @@
 {
   "name": "Loona Recadrer une image en ligne gratuit",
-  "short_name": "Recadrer une image en ligne grat",
+  "short_name": "Recadrer une image en ligne",
   "description": "Recadrez des images en ligne gratuitement avec des rapports prêts à l'emploi — 1:1, 4:3, 16:9 et passeport 35×45 — plus pivoter et retourner. Téléchargez le recadrage exact en pleine résolution.",
   "id": "/loona-image-compressor/fr/crop-image.html",
   "start_url": "./crop-image.html",

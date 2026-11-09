@@ -1,6 +1,6 @@
 {
   "name": "Loona Formato Schermata di invito Discord",
-  "short_name": "Formato Schermata di invito Disc",
+  "short_name": "Formato Schermata di invito",
   "description": "Crea un schermata di invito Discord esattamente di 1920×1080 px. Strumento gratuito di ridimensionamento e ritaglio nel tuo browser, con le regole della zona sicura che evitano testi e volti tagliati.",
   "id": "/loona-image-compressor/it/discord-server-splash-size.html",
   "start_url": "./discord-server-splash-size.html",
