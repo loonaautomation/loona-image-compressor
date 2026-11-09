@@ -1,0 +1,29 @@
+{
+  "name": "Loona Conversor de WebP para JPG",
+  "short_name": "Conversor de WebP para JPG",
+  "description": "Converta WebP para JPG online gratuitamente, para que as suas imagens abram em todas as aplicações, formulários e dispositivos antigos. Baseado no navegador — sem registo, sem envios e sem marca de água.",
+  "id": "/loona-image-compressor/pt/webp-to-jpg.html",
+  "start_url": "./webp-to-jpg.html",
+  "scope": "./webp-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

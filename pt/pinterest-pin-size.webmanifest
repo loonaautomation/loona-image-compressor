@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tamanho de Pin Padrão de Pinterest",
+  "short_name": "Tamanho de Pin Padrão de Pintere",
+  "description": "Crie um elemento pin padrão de Pinterest com exatamente 1000×1500 px. Redimensionador/recortador gratuito no seu navegador, com as regras de zona segura que evitam textos e rostos cortados.",
+  "id": "/loona-image-compressor/pt/pinterest-pin-size.html",
+  "start_url": "./pinterest-pin-size.html",
+  "scope": "./pinterest-pin-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

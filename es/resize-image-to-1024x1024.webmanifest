@@ -1,0 +1,29 @@
+{
+  "name": "Loona Redimensionar imagen a 1024 × 1024 px en línea",
+  "short_name": "Redimensionar imagen a 1024 × 10",
+  "description": "Redimensiona cualquier imagen exactamente a 1024×1024 px: Cuadrado estándar de iconos de app e imágenes IA. Gratis en tu navegador, con control de recorte; sin subidas y sin registro.",
+  "id": "/loona-image-compressor/es/resize-image-to-1024x1024.html",
+  "start_url": "./resize-image-to-1024x1024.html",
+  "scope": "./resize-image-to-1024x1024.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

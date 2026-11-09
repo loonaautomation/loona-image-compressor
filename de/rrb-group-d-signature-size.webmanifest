@@ -1,0 +1,29 @@
+{
+  "name": "Loona RRB Group D (Railways) Unterschrift Größe",
+  "short_name": "RRB Group D (Railways) Unterschr",
+  "description": "Passen Sie Ihr RRB Group D (Railways)-Unterschrift auf die Größe der Bekanntmachung (140 × 60 px) und den Bereich 10–40 KB an. Kostenlos, in Ihrem Browser — ohne Upload, ohne Anmeldung.",
+  "id": "/loona-image-compressor/de/rrb-group-d-signature-size.html",
+  "start_url": "./rrb-group-d-signature-size.html",
+  "scope": "./rrb-group-d-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

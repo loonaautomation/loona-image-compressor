@@ -1,0 +1,29 @@
+{
+  "name": "Loona Format de la Signature GATE",
+  "short_name": "Format de la Signature GATE",
+  "description": "Redimensionnez votre signature GATE au format de l&#x27;avis officiel (zone numérisée, rapport d&#x27;environ 7:2) et dans la plage de 3–100 Ko. Gratuit, dans votre navigateur — sans envoi, sans inscription.",
+  "id": "/loona-image-compressor/fr/gate-signature-size.html",
+  "start_url": "./gate-signature-size.html",
+  "scope": "./gate-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

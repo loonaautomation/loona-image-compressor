@@ -1,0 +1,29 @@
+{
+  "name": "Loona Redimensionner une image à 1200 × 628",
+  "short_name": "Redimensionner une image à 1200 ",
+  "description": "Redimensionnez n'importe quelle image à exactement 1200 × 628 pixels (partages de liens et publicités Facebook et LinkedIn) gratuitement. Couvrir, contenir ou étirer, JPG ou PNG, téléchargement instantané — sans inscription, rien d'envoyé.",
+  "id": "/loona-image-compressor/fr/resize-image-to-1200x628.html",
+  "start_url": "./resize-image-to-1200x628.html",
+  "scope": "./resize-image-to-1200x628.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

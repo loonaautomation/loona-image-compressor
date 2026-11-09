@@ -1,0 +1,29 @@
+{
+  "name": "Loona Formati foto per passaporto e visto per paese",
+  "short_name": "Formati foto per passaporto e vi",
+  "description": "Formati ufficiali di foto per passaporto, visto e documenti d&#x27;identità per 40 paesi e documenti, ciascuno con uno strumento di creazione al formato esatto in millimetri e pixel.",
+  "id": "/loona-image-compressor/it/passport-photo-sizes.html",
+  "start_url": "./passport-photo-sizes.html",
+  "scope": "./passport-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

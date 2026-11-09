@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tamaño de Portada de Reels de Instagram: 1080×1920 px",
+  "short_name": "Tamaño de Portada de Reels de In",
+  "description": "Crea un elemento «portada de reels» de Instagram exactamente de 1080×1920 px. Redimensionador/recortador gratuito en tu navegador, con las reglas de zona segura que evitan textos y rostros recortados.",
+  "id": "/loona-image-compressor/es/instagram-reels-cover-size.html",
+  "start_url": "./instagram-reels-cover-size.html",
+  "scope": "./instagram-reels-cover-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

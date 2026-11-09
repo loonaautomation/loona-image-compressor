@@ -1,0 +1,29 @@
+{
+  "name": "Loona Meme Generator",
+  "short_name": "Meme Generator",
+  "description": "Turn any photo into a classic meme with bold top and bottom text — free online meme generator with live preview, plain background options and PNG download. No signup, and your image never leaves your device.",
+  "id": "/loona-image-compressor/meme-generator.html",
+  "start_url": "./meme-generator.html",
+  "scope": "./meme-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

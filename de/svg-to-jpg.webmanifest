@@ -1,0 +1,29 @@
+{
+  "name": "Loona SVG in JPG Konverter",
+  "short_name": "SVG in JPG Konverter",
+  "description": "Konvertieren Sie SVG online kostenlos in JPG — rendern Sie Vektorlogos und -illustrationen als universelle JPGs in jeder Breite. Ohne Anmeldung, ohne Upload, in Ihrem Browser.",
+  "id": "/loona-image-compressor/de/svg-to-jpg.html",
+  "start_url": "./svg-to-jpg.html",
+  "scope": "./svg-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

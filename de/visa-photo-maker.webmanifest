@@ -1,0 +1,29 @@
+{
+  "name": "Loona Visumfoto-Ersteller",
+  "short_name": "Visumfoto-Ersteller",
+  "description": "Erstellen Sie Visumfotos online kostenlos: USA 2x2 Zoll, UK und Schengen 35x45 mm, China 33x48 mm mit 300 DPI. Ohne Anmeldung, ohne Wasserzeichen, vollständig privates Tool.",
+  "id": "/loona-image-compressor/de/visa-photo-maker.html",
+  "start_url": "./visa-photo-maker.html",
+  "scope": "./visa-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Redimensionner une image à 512 × 512",
+  "short_name": "Redimensionner une image à 512 ×",
+  "description": "Redimensionnez n'importe quelle image à exactement 512 × 512 pixels (icônes d'applications, avatars et masters de favicon) gratuitement. Couvrir, contenir ou étirer, JPG ou PNG, téléchargement instantané — sans inscription, rien d'envoyé.",
+  "id": "/loona-image-compressor/fr/resize-image-to-512x512.html",
+  "start_url": "./resize-image-to-512x512.html",
+  "scope": "./resize-image-to-512x512.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tamanho de Capa de Reels de Instagram",
+  "short_name": "Tamanho de Capa de Reels de Inst",
+  "description": "Crie um elemento capa de reels de Instagram com exatamente 1080×1920 px. Redimensionador/recortador gratuito no seu navegador, com as regras de zona segura que evitam textos e rostos cortados.",
+  "id": "/loona-image-compressor/pt/instagram-reels-cover-size.html",
+  "start_url": "./instagram-reels-cover-size.html",
+  "scope": "./instagram-reels-cover-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

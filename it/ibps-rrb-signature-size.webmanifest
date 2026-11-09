@@ -1,0 +1,29 @@
+{
+  "name": "Loona Formato Firma IBPS RRB (Gramin Bank)",
+  "short_name": "Formato Firma IBPS RRB (Gramin B",
+  "description": "Ridimensiona la tua firma IBPS RRB (Gramin Bank) al formato previsto dal bando (140 × 60 px) e all&#x27;intervallo 10–20 KB. Gratis, nel tuo browser: senza caricamenti e senza registrazione.",
+  "id": "/loona-image-compressor/it/ibps-rrb-signature-size.html",
+  "start_url": "./ibps-rrb-signature-size.html",
+  "scope": "./ibps-rrb-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

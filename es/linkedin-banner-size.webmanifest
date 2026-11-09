@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tamaño de Banner de perfil / página de LinkedIn: 1584×396 px",
+  "short_name": "Tamaño de Banner de perfil / pág",
+  "description": "Crea un elemento «banner de perfil / página» de LinkedIn exactamente de 1584×396 px. Redimensionador/recortador gratuito en tu navegador, con las reglas de zona segura que evitan textos y rostros recortados.",
+  "id": "/loona-image-compressor/es/linkedin-banner-size.html",
+  "start_url": "./linkedin-banner-size.html",
+  "scope": "./linkedin-banner-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

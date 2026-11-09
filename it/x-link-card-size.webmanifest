@@ -1,0 +1,29 @@
+{
+  "name": "Loona Formato Immagine scheda link X (Twitter)",
+  "short_name": "Formato Immagine scheda link X (",
+  "description": "Crea un immagine scheda link X (Twitter) esattamente di 1200×628 px. Strumento gratuito di ridimensionamento e ritaglio nel tuo browser, con le regole della zona sicura che evitano testi e volti tagliati.",
+  "id": "/loona-image-compressor/it/x-link-card-size.html",
+  "start_url": "./x-link-card-size.html",
+  "scope": "./x-link-card-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Eliminador de metadatos en lote",
+  "short_name": "Eliminador de metadatos en lote",
+  "description": "Elimina metadatos EXIF, GPS y XMP de muchas fotos a la vez: suelta un lote de archivos JPG, PNG y WebP, límpialos todos en tu navegador y descarga todo como un único ZIP. Gratis, privado, sin subidas, sin recodificación.",
+  "id": "/loona-image-compressor/es/bulk-remove-image-metadata.html",
+  "start_url": "./bulk-remove-image-metadata.html",
+  "scope": "./bulk-remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

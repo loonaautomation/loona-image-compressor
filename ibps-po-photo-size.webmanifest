@@ -1,0 +1,29 @@
+{
+  "name": "Loona IBPS PO Photograph Size",
+  "short_name": "IBPS PO Photograph Size",
+  "description": "Resize your IBPS PO photo to the notification size (200 × 230 px) and 20–50 KB band. Free, in your browser — no upload, no signup.",
+  "id": "/loona-image-compressor/ibps-po-photo-size.html",
+  "start_url": "./ibps-po-photo-size.html",
+  "scope": "./ibps-po-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

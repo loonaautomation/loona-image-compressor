@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertisseur PNG en WebP",
+  "short_name": "Convertisseur PNG en WebP",
+  "description": "Convertissez PNG en WebP en ligne gratuitement — des fichiers bien plus petits qui conservent la transparence, parfaits pour les sites web. Sans inscription, sans envoi, fonctionne dans votre navigateur.",
+  "id": "/loona-image-compressor/fr/png-to-webp.html",
+  "start_url": "./png-to-webp.html",
+  "scope": "./png-to-webp.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

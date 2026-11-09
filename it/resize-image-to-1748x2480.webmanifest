@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ridimensiona immagine a 1748 × 2480 px online",
+  "short_name": "Ridimensiona immagine a 1748 × 2",
+  "description": "Ridimensiona qualsiasi immagine esattamente a 1748×2480 px: A5 a 300 DPI. Gratis nel tuo browser, con controllo del ritaglio; senza caricamenti e senza registrazione.",
+  "id": "/loona-image-compressor/it/resize-image-to-1748x2480.html",
+  "start_url": "./resize-image-to-1748x2480.html",
+  "scope": "./resize-image-to-1748x2480.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bild-Metadaten entfernen",
+  "short_name": "Bild-Metadaten entfernen",
+  "description": "Entfernen Sie EXIF-, GPS-Standort-, XMP- und IPTC-Metadaten aus JPG-, PNG- und WebP-Fotos online kostenlos. Entfernen auf Byte-Ebene — Pixel werden nie neu codiert, sodass die Qualität unberührt bleibt. Verifiziert durch einen erneuten Scan, 100 % privat in Ihrem Browser.",
+  "id": "/loona-image-compressor/de/remove-image-metadata.html",
+  "start_url": "./remove-image-metadata.html",
+  "scope": "./remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

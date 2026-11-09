@@ -1,0 +1,29 @@
+{
+  "name": "Loona PNG in JPG Konverter",
+  "short_name": "PNG in JPG Konverter",
+  "description": "Konvertieren Sie PNG online kostenlos in JPG. Kleinere Dateien für Formulare, E-Mail und Websites, direkt in Ihrem Browser — ohne Anmeldung, ohne Upload, ohne Wasserzeichen.",
+  "id": "/loona-image-compressor/de/png-to-jpg.html",
+  "start_url": "./png-to-jpg.html",
+  "scope": "./png-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

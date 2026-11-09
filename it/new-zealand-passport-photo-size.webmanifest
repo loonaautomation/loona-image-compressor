@@ -1,0 +1,29 @@
+{
+  "name": "Loona Formato Passaporto della Nuova Zelanda",
+  "short_name": "Formato Passaporto della Nuova Z",
+  "description": "Crea la foto Passaporto della Nuova Zelanda nel formato ufficiale di 35×45 mm (413×531 px), sfondo liscio, chiaro, sfondo neutro (la guida sconsiglia il bianco puro). Strumento online gratuito: ritaglia, scarica e stampa il foglio, senza caricamenti.",
+  "id": "/loona-image-compressor/it/new-zealand-passport-photo-size.html",
+  "start_url": "./new-zealand-passport-photo-size.html",
+  "scope": "./new-zealand-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

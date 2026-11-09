@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bild auf 200 × 230 px online skalieren",
+  "short_name": "Bild auf 200 × 230 px online ska",
+  "description": "Skalieren Sie jedes Bild auf exakt 200×230 px — Der SSC-/IBPS-/SBI-Prüfungsfoto-Standard in Indien. Kostenlos in Ihrem Browser mit Zuschnittsteuerung; ohne Upload, ohne Anmeldung.",
+  "id": "/loona-image-compressor/de/resize-image-to-200x230.html",
+  "start_url": "./resize-image-to-200x230.html",
+  "scope": "./resize-image-to-200x230.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bild auf 1748 × 2480 px online skalieren",
+  "short_name": "Bild auf 1748 × 2480 px online s",
+  "description": "Skalieren Sie jedes Bild auf exakt 1748×2480 px — A5 bei 300 DPI. Kostenlos in Ihrem Browser mit Zuschnittsteuerung; ohne Upload, ohne Anmeldung.",
+  "id": "/loona-image-compressor/de/resize-image-to-1748x2480.html",
+  "start_url": "./resize-image-to-1748x2480.html",
+  "scope": "./resize-image-to-1748x2480.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

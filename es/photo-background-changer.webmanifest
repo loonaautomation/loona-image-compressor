@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cambiador de fondo de fotos",
+  "short_name": "Cambiador de fondo de fotos",
+  "description": "Cambia el fondo de una foto a blanco, azul, gris claro o rojo gratis en línea. Relleno por inundación más herramientas de pincel, privado en tu navegador, sin subida a IA.",
+  "id": "/loona-image-compressor/es/photo-background-changer.html",
+  "start_url": "./photo-background-changer.html",
+  "scope": "./photo-background-changer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

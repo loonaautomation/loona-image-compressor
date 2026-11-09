@@ -1,0 +1,29 @@
+{
+  "name": "Loona Image Compressor",
+  "short_name": "Loona Image Compressor",
+  "description": "Compressez gratuitement en ligne des images JPG, PNG et WebP à une taille exacte — 50KB, 100KB, 200KB. Compression en lot, redimensionnement, téléchargement ZIP. Sans inscription, sans filigrane, 100 % privé.",
+  "id": "/loona-image-compressor/fr/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

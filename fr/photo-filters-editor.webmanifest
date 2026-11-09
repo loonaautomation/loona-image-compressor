@@ -1,0 +1,29 @@
+{
+  "name": "Loona Filtres et correction de photos",
+  "short_name": "Filtres et correction de photos",
+  "description": "Corrigez des photos en ligne gratuitement : ajustez la luminosité, le contraste et la saturation, affinez en un clic et utilisez des préréglages prêts comme Correction Passeport et Vif.",
+  "id": "/loona-image-compressor/fr/photo-filters-editor.html",
+  "start_url": "./photo-filters-editor.html",
+  "scope": "./photo-filters-editor.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

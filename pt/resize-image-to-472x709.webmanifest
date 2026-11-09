@@ -1,0 +1,29 @@
+{
+  "name": "Loona Redimensionar Imagem para 472 × 709 px Online",
+  "short_name": "Redimensionar Imagem para 472 × ",
+  "description": "Redimensione qualquer imagem para exatamente 472×709 px — 40 × 60 mm a 300 DPI — tamanho de fotografia dos EAU/Arábia/Egito/Vietname. Grátis no seu navegador, com controlo de recorte; sem envios e sem registo.",
+  "id": "/loona-image-compressor/pt/resize-image-to-472x709.html",
+  "start_url": "./resize-image-to-472x709.html",
+  "scope": "./resize-image-to-472x709.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

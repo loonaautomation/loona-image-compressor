@@ -1,0 +1,29 @@
+{
+  "name": "Loona Compresser un PNG à 50 Ko en ligne",
+  "short_name": "Compresser un PNG à 50 Ko en lig",
+  "description": "Compressez une image PNG à 50 Ko ou moins, gratuitement dans votre navigateur. La recherche automatique trouve la meilleure qualité qui tient dans la limite — sans inscription, sans envoi.",
+  "id": "/loona-image-compressor/fr/compress-png-to-50kb.html",
+  "start_url": "./compress-png-to-50kb.html",
+  "scope": "./compress-png-to-50kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

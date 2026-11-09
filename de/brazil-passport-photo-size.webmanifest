@@ -1,0 +1,29 @@
+{
+  "name": "Loona Brasilien-Pass-/Visumfoto Größe",
+  "short_name": "Brasilien-Pass-/Visumfoto Größe",
+  "description": "Erstellen Sie ein Brasilien-Pass-/Visumfoto in der offiziellen Größe 50×70 mm (591×827 px), Hintergrund einfarbig weiß. Kostenloser Online-Ersteller — zuschneiden, herunterladen und Druckbogen, ohne Upload.",
+  "id": "/loona-image-compressor/de/brazil-passport-photo-size.html",
+  "start_url": "./brazil-passport-photo-size.html",
+  "scope": "./brazil-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

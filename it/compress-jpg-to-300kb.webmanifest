@@ -1,0 +1,29 @@
+{
+  "name": "Loona Comprimi JPG a 300 KB online",
+  "short_name": "Comprimi JPG a 300 KB online",
+  "description": "Comprimi un&#x27;immagine JPG a 300 KB o meno, gratis nel tuo browser. La ricerca automatica trova la migliore qualità possibile: senza registrazione e senza caricamenti.",
+  "id": "/loona-image-compressor/it/compress-jpg-to-300kb.html",
+  "start_url": "./compress-jpg-to-300kb.html",
+  "scope": "./compress-jpg-to-300kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dimensioni delle immagini per i social media 2026",
+  "short_name": "Dimensioni delle immagini per i ",
+  "description": "Dimensioni esatte delle immagini per Instagram, Facebook, YouTube, X, LinkedIn, Pinterest, TikTok e Discord, con uno strumento di creazione e una guida alla zona sicura per ogni posizione.",
+  "id": "/loona-image-compressor/it/social-media-image-sizes.html",
+  "start_url": "./social-media-image-sizes.html",
+  "scope": "./social-media-image-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

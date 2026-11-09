@@ -1,0 +1,29 @@
+{
+  "name": "Loona Foto de examen con nombre y fecha",
+  "short_name": "Foto de examen con nombre y fech",
+  "description": "Crea gratis una foto de examen con tu nombre y fecha impresos en la parte inferior: el formato de exámenes de consejo usado en Pakistán y la India. Privado, sin registro.",
+  "id": "/loona-image-compressor/es/exam-photo-name-date.html",
+  "start_url": "./exam-photo-name-date.html",
+  "scope": "./exam-photo-name-date.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

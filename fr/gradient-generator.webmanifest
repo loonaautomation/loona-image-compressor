@@ -1,0 +1,29 @@
+{
+  "name": "Loona Générateur de dégradés CSS",
+  "short_name": "Générateur de dégradés CSS",
+  "description": "Créez des dégradés linéaires CSS avec deux ou trois couleurs et n'importe quel angle, prévisualisez-les en direct et copiez le code CSS prêt. Gratuit, sans inscription.",
+  "id": "/loona-image-compressor/fr/gradient-generator.html",
+  "start_url": "./gradient-generator.html",
+  "scope": "./gradient-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

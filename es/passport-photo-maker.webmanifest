@@ -1,0 +1,29 @@
+{
+  "name": "Loona Creador de fotos de pasaporte",
+  "short_name": "Creador de fotos de pasaporte",
+  "description": "Haz una foto tamaño pasaporte en línea gratis: recorta cualquier foto a 35×45 mm o 2×2 pulgadas a 300 DPI listos para imprimir. Sin registro, sin marca de agua, totalmente privado.",
+  "id": "/loona-image-compressor/es/passport-photo-maker.html",
+  "start_url": "./passport-photo-maker.html",
+  "scope": "./passport-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

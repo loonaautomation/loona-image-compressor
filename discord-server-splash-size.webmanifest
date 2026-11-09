@@ -1,0 +1,29 @@
+{
+  "name": "Loona Discord Invite Splash Size",
+  "short_name": "Discord Invite Splash Size",
+  "description": "Make a Discord invite splash at exactly 1920×1080 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
+  "id": "/loona-image-compressor/discord-server-splash-size.html",
+  "start_url": "./discord-server-splash-size.html",
+  "scope": "./discord-server-splash-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

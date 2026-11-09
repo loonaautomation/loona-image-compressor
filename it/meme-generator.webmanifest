@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generatore di meme",
+  "short_name": "Generatore di meme",
+  "description": "Trasforma qualsiasi foto in un meme classico con testo in grassetto in alto e in basso: generatore di meme online gratuito con anteprima dal vivo, opzioni di sfondo liscio e download PNG. Senza registrazione, e la tua immagine non lascia mai il tuo dispositivo.",
+  "id": "/loona-image-compressor/it/meme-generator.html",
+  "start_url": "./meme-generator.html",
+  "scope": "./meme-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

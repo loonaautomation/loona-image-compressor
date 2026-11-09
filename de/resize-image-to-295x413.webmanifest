@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bild auf 295 × 413 px online skalieren",
+  "short_name": "Bild auf 295 × 413 px online ska",
+  "description": "Skalieren Sie jedes Bild auf exakt 295×413 px — 25 × 35 mm bei 300 DPI — Indien-PAN-Card-Größe. Kostenlos in Ihrem Browser mit Zuschnittsteuerung; ohne Upload, ohne Anmeldung.",
+  "id": "/loona-image-compressor/de/resize-image-to-295x413.html",
+  "start_url": "./resize-image-to-295x413.html",
+  "scope": "./resize-image-to-295x413.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

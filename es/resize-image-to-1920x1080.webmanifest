@@ -1,0 +1,29 @@
+{
+  "name": "Loona Redimensionar imagen a 1920 × 1080",
+  "short_name": "Redimensionar imagen a 1920 × 10",
+  "description": "Redimensiona cualquier imagen a exactamente 1920 × 1080 píxeles (pantallas Full HD, fondos de escritorio y pantallas finales de YouTube) gratis. Cubrir, contener o estirar, JPG o PNG, descarga instantánea: sin registro y sin subir nada.",
+  "id": "/loona-image-compressor/es/resize-image-to-1920x1080.html",
+  "start_url": "./resize-image-to-1920x1080.html",
+  "scope": "./resize-image-to-1920x1080.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

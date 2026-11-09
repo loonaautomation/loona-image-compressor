@@ -1,0 +1,29 @@
+{
+  "name": "Loona Format de la Photo JEE Main",
+  "short_name": "Format de la Photo JEE Main",
+  "description": "Redimensionnez votre photo JEE Main au format de l&#x27;avis officiel (3,5 × 4,5 cm (environ 413 × 531 px à 300 DPI)) et dans la plage de 10–200 Ko. Gratuit, dans votre navigateur — sans envoi, sans inscription.",
+  "id": "/loona-image-compressor/fr/jee-main-photo-size.html",
+  "start_url": "./jee-main-photo-size.html",
+  "scope": "./jee-main-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

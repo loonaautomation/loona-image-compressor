@@ -1,0 +1,29 @@
+{
+  "name": "Loona Comprobador de contraste",
+  "short_name": "Comprobador de contraste",
+  "description": "Comprueba los colores de texto y fondo frente a WCAG: proporción de contraste instantánea con aprobado/suspenso AA y AAA para texto normal y grande, más una vista previa en vivo. Gratis, sin registro.",
+  "id": "/loona-image-compressor/es/contrast-checker.html",
+  "start_url": "./contrast-checker.html",
+  "scope": "./contrast-checker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

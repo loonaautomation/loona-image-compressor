@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tamanhos de Fotografia e Assinatura para Exames",
+  "short_name": "Tamanhos de Fotografia e Assinat",
+  "description": "Tamanhos de fotografia e assinatura e intervalos de KB para 20 grandes exames indianos — SSC, IBPS, SBI, UPSC, RRB, JEE, NEET e mais — cada um com uma ferramenta de criação.",
+  "id": "/loona-image-compressor/pt/exam-photo-sizes.html",
+  "start_url": "./exam-photo-sizes.html",
+  "scope": "./exam-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona PNG in BMP Konverter",
+  "short_name": "PNG in BMP Konverter",
+  "description": "Konvertieren Sie PNG online, kostenlos und in Ihrem Browser in BMP. Echte Konvertierung auf Ihrem Gerät — ohne Upload, ohne Anmeldung, ohne Wasserzeichen.",
+  "id": "/loona-image-compressor/de/png-to-bmp.html",
+  "start_url": "./png-to-bmp.html",
+  "scope": "./png-to-bmp.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

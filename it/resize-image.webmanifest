@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ridimensiona immagine",
+  "short_name": "Ridimensiona immagine",
+  "description": "Ridimensiona qualsiasi immagine per pixel, cm o pollici con un'impostazione DPI, gratis. Mantieni le proporzioni, scegli JPG, PNG o WebP e scarica all'istante: senza registrazione.",
+  "id": "/loona-image-compressor/it/resize-image.html",
+  "start_url": "./resize-image.html",
+  "scope": "./resize-image.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Changeur de fond de photos",
+  "short_name": "Changeur de fond de photos",
+  "description": "Changez le fond d'une photo en blanc, bleu, gris clair ou rouge gratuitement en ligne. Remplissage par inondation plus outils pinceau, privé dans votre navigateur, sans envoi vers une IA.",
+  "id": "/loona-image-compressor/fr/photo-background-changer.html",
+  "start_url": "./photo-background-changer.html",
+  "scope": "./photo-background-changer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

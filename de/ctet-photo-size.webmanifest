@@ -1,0 +1,29 @@
+{
+  "name": "Loona CTET Foto Größe",
+  "short_name": "CTET Foto Größe",
+  "description": "Passen Sie Ihr CTET-Foto auf die Größe der Bekanntmachung (3,5 × 4,5 cm (etwa 413 × 531 px bei 300 DPI)) und den Bereich 10–100 KB an. Kostenlos, in Ihrem Browser — ohne Upload, ohne Anmeldung.",
+  "id": "/loona-image-compressor/de/ctet-photo-size.html",
+  "start_url": "./ctet-photo-size.html",
+  "scope": "./ctet-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

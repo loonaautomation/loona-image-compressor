@@ -1,0 +1,29 @@
+{
+  "name": "Loona Redimensionar imagen a 1500 × 500",
+  "short_name": "Redimensionar imagen a 1500 × 50",
+  "description": "Redimensiona cualquier imagen a exactamente 1500 × 500 píxeles (cabeceras de perfil de X (Twitter) y banners anchos) gratis. Cubrir, contener o estirar, JPG o PNG, descarga instantánea: sin registro y sin subir nada.",
+  "id": "/loona-image-compressor/es/resize-image-to-1500x500.html",
+  "start_url": "./resize-image-to-1500x500.html",
+  "scope": "./resize-image-to-1500x500.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

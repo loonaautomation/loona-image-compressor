@@ -1,0 +1,29 @@
+{
+  "name": "Loona Format Image de publication / de lien Facebook",
+  "short_name": "Format Image de publication / de",
+  "description": "Créez un visuel image de publication / de lien Facebook d&#x27;exactement 1200×630 px. Redimensionneur/recadreur gratuit dans votre navigateur, avec les règles de zone de sécurité qui évitent les textes et visages coupés.",
+  "id": "/loona-image-compressor/fr/facebook-post-image-size.html",
+  "start_url": "./facebook-post-image-size.html",
+  "scope": "./facebook-post-image-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

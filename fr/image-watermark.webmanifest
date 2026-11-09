@@ -1,0 +1,29 @@
+{
+  "name": "Loona Filigrane d'image",
+  "short_name": "Filigrane d'image",
+  "description": "Ajoutez gratuitement un filigrane texte à n'importe quelle photo en ligne — choisissez le texte, la taille, la couleur, l'opacité et la position, ou répétez-le comme un motif en mosaïque. Aperçu en direct, sans inscription, et votre image ne quitte jamais votre appareil.",
+  "id": "/loona-image-compressor/fr/image-watermark.html",
+  "start_url": "./image-watermark.html",
+  "scope": "./image-watermark.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Formato Fotografia CUET UG",
+  "short_name": "Formato Fotografia CUET UG",
+  "description": "Ridimensiona la tua foto CUET UG al formato previsto dal bando (3,5 × 4,5 cm (circa 413 × 531 px a 300 DPI)) e all&#x27;intervallo 10–200 KB. Gratis, nel tuo browser: senza caricamenti e senza registrazione.",
+  "id": "/loona-image-compressor/it/cuet-ug-photo-size.html",
+  "start_url": "./cuet-ug-photo-size.html",
+  "scope": "./cuet-ug-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

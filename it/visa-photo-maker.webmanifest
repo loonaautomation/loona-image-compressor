@@ -1,0 +1,29 @@
+{
+  "name": "Loona Crea foto per visto",
+  "short_name": "Crea foto per visto",
+  "description": "Crea foto per visto online gratis: USA 2x2 pollici, Regno Unito e Schengen 35x45 mm, Cina 33x48 mm a 300 DPI. Senza registrazione, senza filigrana, strumento completamente privato.",
+  "id": "/loona-image-compressor/it/visa-photo-maker.html",
+  "start_url": "./visa-photo-maker.html",
+  "scope": "./visa-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

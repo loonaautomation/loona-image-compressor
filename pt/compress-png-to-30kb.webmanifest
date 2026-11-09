@@ -1,0 +1,29 @@
+{
+  "name": "Loona Comprimir PNG para 30 KB Online",
+  "short_name": "Comprimir PNG para 30 KB Online",
+  "description": "Comprima uma imagem PNG para 30 KB ou menos, grátis no navegador. A procura automática encontra a melhor qualidade que cabe — sem registo e sem envios.",
+  "id": "/loona-image-compressor/pt/compress-png-to-30kb.html",
+  "start_url": "./compress-png-to-30kb.html",
+  "scope": "./compress-png-to-30kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

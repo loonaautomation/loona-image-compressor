@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tamaño de Fotografía de SSC MTS: 200 × 230 px, 20–50 KB",
+  "short_name": "Tamaño de Fotografía de SSC MTS:",
+  "description": "Ajusta tu foto de SSC MTS al tamaño de la convocatoria (200 × 230 px) y a la banda de 20–50 KB. Gratis, en tu navegador: sin subidas y sin registro.",
+  "id": "/loona-image-compressor/es/ssc-mts-photo-size.html",
+  "start_url": "./ssc-mts-photo-size.html",
+  "scope": "./ssc-mts-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

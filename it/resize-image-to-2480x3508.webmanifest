@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ridimensiona immagine a 2480 × 3508 px online",
+  "short_name": "Ridimensiona immagine a 2480 × 3",
+  "description": "Ridimensiona qualsiasi immagine esattamente a 2480×3508 px: A4 a 300 DPI. Gratis nel tuo browser, con controllo del ritaglio; senza caricamenti e senza registrazione.",
+  "id": "/loona-image-compressor/it/resize-image-to-2480x3508.html",
+  "start_url": "./resize-image-to-2480x3508.html",
+  "scope": "./resize-image-to-2480x3508.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

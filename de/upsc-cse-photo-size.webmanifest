@@ -1,0 +1,29 @@
+{
+  "name": "Loona UPSC Civil Services (IAS) Foto Größe",
+  "short_name": "UPSC Civil Services (IAS) Foto G",
+  "description": "Passen Sie Ihr UPSC Civil Services (IAS)-Foto auf die Größe der Bekanntmachung (350 × 350 px) und den Bereich 20–300 KB an. Kostenlos, in Ihrem Browser — ohne Upload, ohne Anmeldung.",
+  "id": "/loona-image-compressor/de/upsc-cse-photo-size.html",
+  "start_url": "./upsc-cse-photo-size.html",
+  "scope": "./upsc-cse-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

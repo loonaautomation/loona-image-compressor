@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pinterest Langer Pin / Infografik-Pin Größe",
+  "short_name": "Pinterest Langer Pin / Infografi",
+  "description": "Erstellen Sie ein Pinterest-langer pin / infografik-pin mit exakt 1000×2100 px. Kostenloser Größenänderer/Zuschneider in Ihrem Browser mit den Regeln für die sichere Zone, die abgeschnittenen Text und Gesichter verhindern.",
+  "id": "/loona-image-compressor/de/pinterest-long-pin-size.html",
+  "start_url": "./pinterest-long-pin-size.html",
+  "scope": "./pinterest-long-pin-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

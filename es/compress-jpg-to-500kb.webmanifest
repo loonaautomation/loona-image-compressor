@@ -1,0 +1,29 @@
+{
+  "name": "Loona Comprimir JPG a 500 KB en línea",
+  "short_name": "Comprimir JPG a 500 KB en línea",
+  "description": "Comprime una imagen JPG a 500 KB o menos, gratis en tu navegador. La búsqueda automática encuentra la mejor calidad que cabe: sin registro y sin subir archivos.",
+  "id": "/loona-image-compressor/es/compress-jpg-to-500kb.html",
+  "start_url": "./compress-jpg-to-500kb.html",
+  "scope": "./compress-jpg-to-500kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

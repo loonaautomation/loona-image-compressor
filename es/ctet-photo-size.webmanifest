@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tamaño de Fotografía de CTET: 3,5 × 4,5 cm (aprox. 413 × 531 px a 300 DPI), 10–100 KB",
+  "short_name": "Tamaño de Fotografía de CTET: 3,",
+  "description": "Ajusta tu foto de CTET al tamaño de la convocatoria (3,5 × 4,5 cm (aprox. 413 × 531 px a 300 DPI)) y a la banda de 10–100 KB. Gratis, en tu navegador: sin subidas y sin registro.",
+  "id": "/loona-image-compressor/es/ctet-photo-size.html",
+  "start_url": "./ctet-photo-size.html",
+  "scope": "./ctet-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

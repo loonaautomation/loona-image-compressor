@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tamaños de foto de pasaporte y visa por país: los 40",
+  "short_name": "Tamaños de foto de pasaporte y v",
+  "description": "Tamaños oficiales de foto de pasaporte, visa y documento de identidad para 40 países y documentos, cada uno con su creador al tamaño exacto en milímetros y píxeles.",
+  "id": "/loona-image-compressor/es/passport-photo-sizes.html",
+  "start_url": "./passport-photo-sizes.html",
+  "scope": "./passport-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

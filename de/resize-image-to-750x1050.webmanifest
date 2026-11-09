@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bild auf 750 × 1050 px online skalieren",
+  "short_name": "Bild auf 750 × 1050 px online sk",
+  "description": "Skalieren Sie jedes Bild auf exakt 750×1050 px — Brieftaschengröße — 2,5 × 3,5 Zoll bei 300 DPI. Kostenlos in Ihrem Browser mit Zuschnittsteuerung; ohne Upload, ohne Anmeldung.",
+  "id": "/loona-image-compressor/de/resize-image-to-750x1050.html",
+  "start_url": "./resize-image-to-750x1050.html",
+  "scope": "./resize-image-to-750x1050.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

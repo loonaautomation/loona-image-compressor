@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pinterest Idea Pin / Story Größe",
+  "short_name": "Pinterest Idea Pin / Story Größe",
+  "description": "Erstellen Sie ein Pinterest-idea pin / story mit exakt 1080×1920 px. Kostenloser Größenänderer/Zuschneider in Ihrem Browser mit den Regeln für die sichere Zone, die abgeschnittenen Text und Gesichter verhindern.",
+  "id": "/loona-image-compressor/de/pinterest-idea-pin-size.html",
+  "start_url": "./pinterest-idea-pin-size.html",
+  "scope": "./pinterest-idea-pin-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

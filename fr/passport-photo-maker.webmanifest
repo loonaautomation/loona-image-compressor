@@ -1,0 +1,29 @@
+{
+  "name": "Loona Générateur de photos au format passeport",
+  "short_name": "Générateur de photos au format p",
+  "description": "Créez une photo au format passeport en ligne gratuitement : recadrez n'importe quelle photo à 35×45 mm ou 2×2 pouces à 300 DPI, prêt pour l'impression. Sans inscription, sans filigrane, entièrement privé.",
+  "id": "/loona-image-compressor/fr/passport-photo-maker.html",
+  "start_url": "./passport-photo-maker.html",
+  "scope": "./passport-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

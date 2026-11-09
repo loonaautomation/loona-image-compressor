@@ -1,0 +1,29 @@
+{
+  "name": "Loona Redimensionar Imagem para 750 × 1050 px Online",
+  "short_name": "Redimensionar Imagem para 750 × ",
+  "description": "Redimensione qualquer imagem para exatamente 750×1050 px — Tamanho de carteira — 2,5 × 3,5 polegadas a 300 DPI. Grátis no seu navegador, com controlo de recorte; sem envios e sem registo.",
+  "id": "/loona-image-compressor/pt/resize-image-to-750x1050.html",
+  "start_url": "./resize-image-to-750x1050.html",
+  "scope": "./resize-image-to-750x1050.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

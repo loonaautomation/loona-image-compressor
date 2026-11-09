@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertitore da SVG a WEBP",
+  "short_name": "Convertitore da SVG a WEBP",
+  "description": "Converti SVG in WEBP online, gratis, nel tuo browser. Conversione reale sul tuo dispositivo: senza caricamenti, senza registrazione, senza filigrane.",
+  "id": "/loona-image-compressor/it/svg-to-webp.html",
+  "start_url": "./svg-to-webp.html",
+  "scope": "./svg-to-webp.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

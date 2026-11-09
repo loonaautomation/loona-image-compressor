@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tamaño de Pasaporte / visa de Tailandia: 35×45 mm (413×531 px)",
+  "short_name": "Tamaño de Pasaporte / visa de Ta",
+  "description": "Crea una Pasaporte / visa de Tailandia con el tamaño oficial de 35×45 mm (413×531 px), fondo blanco liso. Creador en línea gratuito: recorta, descarga e imprime la hoja, sin subir archivos.",
+  "id": "/loona-image-compressor/es/thailand-passport-photo-size.html",
+  "start_url": "./thailand-passport-photo-size.html",
+  "scope": "./thailand-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

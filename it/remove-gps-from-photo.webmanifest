@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rimuovi GPS dalla foto",
+  "short_name": "Rimuovi GPS dalla foto",
+  "description": "Rimuovi solo la posizione GPS da una foto JPG, PNG o WebP e mantieni i dati di fotocamera, data ed esposizione. Byte per byte, nessuna ricodifica, verificato da una nuova scansione — 100% nel tuo browser, nulla caricato.",
+  "id": "/loona-image-compressor/it/remove-gps-from-photo.html",
+  "start_url": "./remove-gps-from-photo.html",
+  "scope": "./remove-gps-from-photo.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

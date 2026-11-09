@@ -1,0 +1,29 @@
+{
+  "name": "Loona EXIF-Editor",
+  "short_name": "EXIF-Editor",
+  "description": "Bearbeiten Sie die EXIF-Daten eines JPG-Fotos online kostenlos — korrigieren Sie das Aufnahmedatum, fügen Sie Ihren Namen als Künstler hinzu, legen Sie Copyright und Kameramarke und -modell fest oder erstellen Sie EXIF auf einem Foto, das keins hat. Pixel werden nie neu codiert u",
+  "id": "/loona-image-compressor/de/edit-image-metadata.html",
+  "start_url": "./edit-image-metadata.html",
+  "scope": "./edit-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

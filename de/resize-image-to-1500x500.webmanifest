@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bild auf 1500 × 500 skalieren",
+  "short_name": "Bild auf 1500 × 500 skalieren",
+  "description": "Skalieren Sie jedes Bild kostenlos auf exakt 1500 × 500 Pixel (X-(Twitter-)Profil-Kopfzeilen und breite Banner). Abdecken, enthalten oder strecken, JPG oder PNG, sofort herunterladen — ohne Anmeldung, nichts hochgeladen.",
+  "id": "/loona-image-compressor/de/resize-image-to-1500x500.html",
+  "start_url": "./resize-image-to-1500x500.html",
+  "scope": "./resize-image-to-1500x500.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

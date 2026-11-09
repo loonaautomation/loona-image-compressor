@@ -1,0 +1,29 @@
+{
+  "name": "Loona Formato Fotografia GATE",
+  "short_name": "Formato Fotografia GATE",
+  "description": "Ridimensiona la tua foto GATE al formato previsto dal bando (480 × 640 px) e all&#x27;intervallo 5–200 KB. Gratis, nel tuo browser: senza caricamenti e senza registrazione.",
+  "id": "/loona-image-compressor/it/gate-photo-size.html",
+  "start_url": "./gate-photo-size.html",
+  "scope": "./gate-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

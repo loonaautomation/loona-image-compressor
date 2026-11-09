@@ -1,0 +1,29 @@
+{
+  "name": "Loona GIF to WEBP Converter",
+  "short_name": "GIF to WEBP Converter",
+  "description": "Convert GIF to WEBP online, free, in your browser. Real conversion on your device — no upload, no signup, no watermarks.",
+  "id": "/loona-image-compressor/gif-to-webp.html",
+  "start_url": "./gif-to-webp.html",
+  "scope": "./gif-to-webp.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

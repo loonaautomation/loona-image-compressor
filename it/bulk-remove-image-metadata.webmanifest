@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rimozione metadati in blocco",
+  "short_name": "Rimozione metadati in blocco",
+  "description": "Rimuovi i metadati EXIF, GPS e XMP da molte foto contemporaneamente: trascina un lotto di file JPG, PNG e WebP, puliscili tutti nel tuo browser e scarica tutto come un unico ZIP. Gratis, privato, senza caricamenti, senza ricodifica.",
+  "id": "/loona-image-compressor/it/bulk-remove-image-metadata.html",
+  "start_url": "./bulk-remove-image-metadata.html",
+  "scope": "./bulk-remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

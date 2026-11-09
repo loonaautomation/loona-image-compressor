@@ -1,0 +1,29 @@
+{
+  "name": "Loona TikTok Fotobeitrag (Hochformat) Größe",
+  "short_name": "TikTok Fotobeitrag (Hochformat) ",
+  "description": "Erstellen Sie ein TikTok-fotobeitrag (hochformat) mit exakt 1080×1350 px. Kostenloser Größenänderer/Zuschneider in Ihrem Browser mit den Regeln für die sichere Zone, die abgeschnittenen Text und Gesichter verhindern.",
+  "id": "/loona-image-compressor/de/tiktok-photo-post-portrait-size.html",
+  "start_url": "./tiktok-photo-post-portrait-size.html",
+  "scope": "./tiktok-photo-post-portrait-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Formato Foto profilo Pinterest",
+  "short_name": "Formato Foto profilo Pinterest",
+  "description": "Crea un foto profilo Pinterest esattamente di 800×800 px. Strumento gratuito di ridimensionamento e ritaglio nel tuo browser, con le regole della zona sicura che evitano testi e volti tagliati.",
+  "id": "/loona-image-compressor/it/pinterest-profile-picture-size.html",
+  "start_url": "./pinterest-profile-picture-size.html",
+  "scope": "./pinterest-profile-picture-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

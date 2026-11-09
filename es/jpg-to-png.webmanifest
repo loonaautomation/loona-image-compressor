@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertidor de JPG a PNG",
+  "short_name": "Convertidor de JPG a PNG",
+  "description": "Convierte JPG a PNG en línea gratis: salida sin pérdidas para editores, herramientas de diseño y documentos. Funciona en tu navegador, sin registro y sin subir nada.",
+  "id": "/loona-image-compressor/es/jpg-to-png.html",
+  "start_url": "./jpg-to-png.html",
+  "scope": "./jpg-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

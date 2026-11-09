@@ -1,0 +1,29 @@
+{
+  "name": "Loona Taille de la Passeport des Pays-Bas",
+  "short_name": "Taille de la Passeport des Pays-",
+  "description": "Créez une Passeport des Pays-Bas au format officiel de 35×45 mm (413×531 px), fond gris clair uni ou blanc, éclairé uniformément. Générateur en ligne gratuit — recadrez, téléchargez et imprimez la planche, sans envoi.",
+  "id": "/loona-image-compressor/fr/netherlands-passport-photo-size.html",
+  "start_url": "./netherlands-passport-photo-size.html",
+  "scope": "./netherlands-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Instagram Quadratischer Beitrag (1:1) Größe",
+  "short_name": "Instagram Quadratischer Beitrag ",
+  "description": "Erstellen Sie ein Instagram-quadratischer beitrag (1:1) mit exakt 1080×1080 px. Kostenloser Größenänderer/Zuschneider in Ihrem Browser mit den Regeln für die sichere Zone, die abgeschnittenen Text und Gesichter verhindern.",
+  "id": "/loona-image-compressor/de/instagram-square-post-size.html",
+  "start_url": "./instagram-square-post-size.html",
+  "scope": "./instagram-square-post-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

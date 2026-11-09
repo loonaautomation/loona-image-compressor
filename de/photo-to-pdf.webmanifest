@@ -1,0 +1,29 @@
+{
+  "name": "Loona Foto in PDF Konverter",
+  "short_name": "Foto in PDF Konverter",
+  "description": "Verwandeln Sie Fotos online kostenlos in ein PDF: Fügen Sie JPG-, PNG- oder WebP-Bilder hinzu, wählen Sie A4-, Letter- oder An-Bild-anpassen-Seiten und laden Sie ein ordentliches PDF herunter. Keine Uploads.",
+  "id": "/loona-image-compressor/de/photo-to-pdf.html",
+  "start_url": "./photo-to-pdf.html",
+  "scope": "./photo-to-pdf.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

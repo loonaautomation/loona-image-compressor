@@ -1,0 +1,29 @@
+{
+  "name": "Loona Format Logo de page d&#x27;entreprise LinkedIn",
+  "short_name": "Format Logo de page d&#x27;entre",
+  "description": "Créez un visuel logo de page d&#x27;entreprise LinkedIn d&#x27;exactement 300×300 px. Redimensionneur/recadreur gratuit dans votre navigateur, avec les règles de zone de sécurité qui évitent les textes et visages coupés.",
+  "id": "/loona-image-compressor/fr/linkedin-company-logo-size.html",
+  "start_url": "./linkedin-company-logo-size.html",
+  "scope": "./linkedin-company-logo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

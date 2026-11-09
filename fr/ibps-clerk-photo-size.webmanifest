@@ -1,0 +1,29 @@
+{
+  "name": "Loona Format de la Photo IBPS Clerk (CSA)",
+  "short_name": "Format de la Photo IBPS Clerk (C",
+  "description": "Redimensionnez votre photo IBPS Clerk (CSA) au format de l&#x27;avis officiel (200 × 230 px) et dans la plage de 20–50 Ko. Gratuit, dans votre navigateur — sans envoi, sans inscription.",
+  "id": "/loona-image-compressor/fr/ibps-clerk-photo-size.html",
+  "start_url": "./ibps-clerk-photo-size.html",
+  "scope": "./ibps-clerk-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

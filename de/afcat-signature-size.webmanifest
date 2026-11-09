@@ -1,0 +1,29 @@
+{
+  "name": "Loona AFCAT Unterschrift Größe",
+  "short_name": "AFCAT Unterschrift Größe",
+  "description": "Passen Sie Ihr AFCAT-Unterschrift auf die Größe der Bekanntmachung (gescanntes Feld, Verhältnis etwa 7:2) und den Bereich 10–50 KB an. Kostenlos, in Ihrem Browser — ohne Upload, ohne Anmeldung.",
+  "id": "/loona-image-compressor/de/afcat-signature-size.html",
+  "start_url": "./afcat-signature-size.html",
+  "scope": "./afcat-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

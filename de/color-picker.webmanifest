@@ -1,0 +1,29 @@
+{
+  "name": "Loona Farbwähler",
+  "short_name": "Farbwähler",
+  "description": "Wählen Sie eine beliebige Farbe und kopieren Sie sofort ihre HEX-, RGB-, HSL- und HSV-Werte. Enthält einen Streifen für Tönungen und Schattierungen — kostenlos, ohne Anmeldung, funktioniert in Ihrem Browser.",
+  "id": "/loona-image-compressor/de/color-picker.html",
+  "start_url": "./color-picker.html",
+  "scope": "./color-picker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
