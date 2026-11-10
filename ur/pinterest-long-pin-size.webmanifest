@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pinterest لمبا / انفوگرافک پن کا سائز",
+  "short_name": "Pinterest لمبا / انفوگرافک پن",
+  "description": "Pinterest لمبا / انفوگرافک پن بالکل 1000×2100 px پر بنائیں۔ آپ کے براؤزر میں مفت ری سائزر/کراپر، محفوظ زون کے قواعد کے ساتھ جو کراپ شدہ متن اور چہروں کو روکتے ہیں۔",
+  "id": "/loona-image-compressor/ur/pinterest-long-pin-size.html",
+  "start_url": "./pinterest-long-pin-size.html",
+  "scope": "./pinterest-long-pin-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

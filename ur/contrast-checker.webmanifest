@@ -1,0 +1,29 @@
+{
+  "name": "Loona تضاد جانچ کار",
+  "short_name": "تضاد جانچ کار",
+  "description": "متن اور پس منظر رنگوں کو WCAG کے خلاف جانچیں: AA اور AAA پاس/ناکام کے ساتھ فوری تضاد تناسب عام اور بڑے متن کے لیے، علاوہ لائیو پیش نظارہ۔ مفت، نہ سائن اپ۔",
+  "id": "/loona-image-compressor/ur/contrast-checker.html",
+  "start_url": "./contrast-checker.html",
+  "scope": "./contrast-checker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

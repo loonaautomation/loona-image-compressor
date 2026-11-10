@@ -1,0 +1,29 @@
+{
+  "name": "Loona ملائیشیا پاسپورٹ تصویر کی تصویر کا سائز",
+  "short_name": "ملائیشیا پاسپورٹ تصویر کی",
+  "description": "سرکاری سائز 35×50 mm (413×591 px) پر ملائیشیا پاسپورٹ تصویر بنائیں، سادہ سفید پس منظر کے ساتھ۔ مفت آن لائن میکر — کراپ، ڈاؤن لوڈ اور پرنٹ شیٹ، بغیر اپ لوڈ۔",
+  "id": "/loona-image-compressor/ur/malaysia-passport-photo-size.html",
+  "start_url": "./malaysia-passport-photo-size.html",
+  "scope": "./malaysia-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Image Compressor",
+  "short_name": "Loona Image Compressor",
+  "description": "JPG، PNG اور WebP تصاویر آن لائن مفت بالکل درست سائز پر کمپریس کریں — 50KB، 100KB، 200KB۔ بیچ کمپریس، ری سائز، ZIP ڈاؤن لوڈ۔ نہ سائن اپ، نہ واٹر مارک، 100% نجی۔",
+  "id": "/loona-image-compressor/ur/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

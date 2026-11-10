@@ -1,0 +1,29 @@
+{
+  "name": "Loona پاسپورٹ تصویر پرنٹ شیٹ",
+  "short_name": "پاسپورٹ تصویر پرنٹ شیٹ",
+  "description": "4، 6 یا 8 پاسپورٹ تصاویر ایک A4 پرنٹ شیٹ پر 300 DPI پر مفت رکھیں۔ 100% پر پرنٹ کریں، گائیڈز پر کاٹیں اور اسٹوڈیو کے پیسے بچائیں۔ نہ سائن اپ، مکمل نجی۔",
+  "id": "/loona-image-compressor/ur/passport-photo-print-sheet.html",
+  "start_url": "./passport-photo-print-sheet.html",
+  "scope": "./passport-photo-print-sheet.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

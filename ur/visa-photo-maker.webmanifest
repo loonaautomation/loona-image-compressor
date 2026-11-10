@@ -1,0 +1,29 @@
+{
+  "name": "Loona ویزا تصویر میکر",
+  "short_name": "ویزا تصویر میکر",
+  "description": "ویزا تصاویر آن لائن مفت بنائیں: امریکی 2x2 انچ، برطانوی اور شینگن 35x45 mm، چین 33x48 mm، 300 DPI پر۔ نہ سائن اپ، نہ واٹر مارک، مکمل نجی ٹول۔",
+  "id": "/loona-image-compressor/ur/visa-photo-maker.html",
+  "start_url": "./visa-photo-maker.html",
+  "scope": "./visa-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

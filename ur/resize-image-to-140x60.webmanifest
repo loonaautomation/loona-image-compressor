@@ -1,0 +1,29 @@
+{
+  "name": "Loona تصویر کو 140 × 60 px پر آن لائن ری سائز کریں",
+  "short_name": "تصویر کو 140 × 60 px پر آن",
+  "description": "کسی بھی تصویر کو بالکل 140×60 px پر ری سائز کریں — بھارتی امتحانی دستخط معیار (SSC، IBPS، SBI)۔ آپ کے براؤزر میں کراپ کنٹرول کے ساتھ مفت؛ نہ اپ لوڈ، نہ سائن اپ۔",
+  "id": "/loona-image-compressor/ur/resize-image-to-140x60.html",
+  "start_url": "./resize-image-to-140x60.html",
+  "scope": "./resize-image-to-140x60.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

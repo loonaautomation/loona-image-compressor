@@ -1,0 +1,29 @@
+{
+  "name": "Loona WebP تا JPG کنورٹر",
+  "short_name": "WebP تا JPG کنورٹر",
+  "description": "WebP کو JPG میں آن لائن مفت تبدیل کریں تاکہ آپ کی تصاویر ہر ایپ، فارم اور پرانے ڈیوائس میں کھلیں۔ براؤزر پر مبنی — نہ سائن اپ، نہ اپ لوڈ، نہ واٹر مارک۔",
+  "id": "/loona-image-compressor/ur/webp-to-jpg.html",
+  "start_url": "./webp-to-jpg.html",
+  "scope": "./webp-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona چہرہ دھندلائیں",
+  "short_name": "چہرہ دھندلائیں",
+  "description": "کسی بھی تصویر میں چہرے، نمبر پلیٹس اور نجی تفصیلات دھندلائیں یا پکسل بنائیں۔ آپ خود حصے منتخب کرتے ہیں، طاقت منتخب کرتے ہیں، پیش نظارہ دیکھتے ہیں اور ڈاؤن لوڈ کرتے ہیں — مفت، نہ سائن اپ، اور آپ کی تصویر کبھی آپ کے ڈیوائس سے باہر نہیں جاتی۔",
+  "id": "/loona-image-compressor/ur/face-blur.html",
+  "start_url": "./face-blur.html",
+  "scope": "./face-blur.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

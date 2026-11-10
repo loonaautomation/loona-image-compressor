@@ -1,0 +1,29 @@
+{
+  "name": "Loona SSC GD Constable تصویر کا سائز",
+  "short_name": "SSC GD Constable تصویر کا سائز",
+  "description": "اپنی SSC GD Constable تصویر کو نوٹیفکیشن سائز (200 × 230 px) اور 20–50 KB بینڈ کے مطابق بنائیں۔ مفت، آپ کے براؤزر میں — نہ اپ لوڈ، نہ سائن اپ۔",
+  "id": "/loona-image-compressor/ur/ssc-gd-photo-size.html",
+  "start_url": "./ssc-gd-photo-size.html",
+  "scope": "./ssc-gd-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

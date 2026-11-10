@@ -1,0 +1,29 @@
+{
+  "name": "Loona بلک میٹا ڈیٹا ہٹانے والا",
+  "short_name": "بلک میٹا ڈیٹا ہٹانے والا",
+  "description": "بہت سی تصاویر سے EXIF، GPS اور XMP میٹا ڈیٹا ایک ساتھ ہٹائیں — JPG، PNG اور WebP فائلوں کا بیچ چھوڑیں، انہیں اپنے براؤزر میں اتاریں اور سب کچھ ایک ZIP کے طور پر ڈاؤن لوڈ کریں۔ مفت، نجی، کوئی اپ لوڈ نہیں، کوئی دوبارہ انکوڈنگ نہیں۔",
+  "id": "/loona-image-compressor/ur/bulk-remove-image-metadata.html",
+  "start_url": "./bulk-remove-image-metadata.html",
+  "scope": "./bulk-remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona تصویر میٹا ڈیٹا ہٹائیں",
+  "short_name": "تصویر میٹا ڈیٹا ہٹائیں",
+  "description": "EXIF، GPS مقام، XMP اور IPTC میٹا ڈیٹا JPG، PNG اور WebP تصاویر سے آن لائن مفت ہٹائیں۔ بائٹ سطح اتارنا — پکسلز کبھی دوبارہ انکوڈ نہیں ہوتے، اس لیے کوالٹی اچھوتی۔ دوبارہ اسکین سے تصدیق شدہ، 100% آپ کے براؤزر میں نجی۔",
+  "id": "/loona-image-compressor/ur/remove-image-metadata.html",
+  "start_url": "./remove-image-metadata.html",
+  "scope": "./remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

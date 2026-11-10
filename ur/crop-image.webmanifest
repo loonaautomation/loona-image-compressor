@@ -1,0 +1,29 @@
+{
+  "name": "Loona تصویر آن لائن مفت کراپ کریں",
+  "short_name": "تصویر آن لائن مفت کراپ کریں",
+  "description": "تصاویر کو تیار تناسب کے ساتھ آن لائن مفت کراپ کریں — 1:1، 4:3، 16:9 اور پاسپورٹ 35×45 — نیز گھمائیں اور پلٹیں۔ بالکل درست کراپ پوری ریزولوشن پر ڈاؤن لوڈ کریں۔",
+  "id": "/loona-image-compressor/ur/crop-image.html",
+  "start_url": "./crop-image.html",
+  "scope": "./crop-image.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

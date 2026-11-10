@@ -1,0 +1,29 @@
+{
+  "name": "Loona تصویر میٹا ڈیٹا اور EXIF ناظر",
+  "short_name": "تصویر میٹا ڈیٹا اور EXIF ناظر",
+  "description": "کسی بھی JPG، PNG یا WebP تصویر میں چھپا میٹا ڈیٹا آن لائن مفت دیکھیں — کیمرہ بنانے والا اور ماڈل، تاریخ لی گئی، ایکسپوژر، ISO، فوکل لمبائی، GPS مقام، IPTC اور XMP بنیادی باتیں۔ کچھ اپ لوڈ نہیں ہوتا: آپ کی تصویر کبھی آپ کے ڈیوائس سے باہر نہیں جاتی۔",
+  "id": "/loona-image-compressor/ur/image-metadata-viewer.html",
+  "start_url": "./image-metadata-viewer.html",
+  "scope": "./image-metadata-viewer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

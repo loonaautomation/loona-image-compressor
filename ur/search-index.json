@@ -1,0 +1,335 @@
+[
+ {
+  "n": "تصویر کمپریسر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/",
+  "s": "Loona Image Compressor",
+  "d": "JPG، PNG اور WebP تصاویر آن لائن مفت بالکل درست سائز پر کمپریس کریں — 50KB، 100KB، 200KB۔ بیچ کمپریس، ری سائز، ZIP ڈاؤن لوڈ۔ نہ سائن اپ، نہ واٹر مارک، 100% نجی۔",
+  "k": "تصویر کمپریسر jpg png اور webp تصاویر آن لائن مفت بالکل درست سائز پر کمپریس کریں 50kb 100kb 200kb بیچ کمپریس ری سائز zip ڈاؤن لوڈ نہ سائن اپ نہ واٹر مارک 100 نجی",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "پاسپورٹ سائز تصویر میکر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/passport-photo-maker.html",
+  "s": "Loona Image Compressor",
+  "d": "کسی بھی تصویر کو 35×45 mm یا 2×2 انچ پر کراپ کریں، پرنٹ کے لیے تیار 300 DPI پر۔",
+  "k": "پاسپورٹ سائز تصویر میکر کسی بھی تصویر کو 35 45 mm یا 2 2 انچ پر کراپ کریں پرنٹ کے لیے تیار 300 dpi پر",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "NADRA / CNIC تصویر میکر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/nadra-cnic-photo-maker.html",
+  "s": "Loona Image Compressor",
+  "d": "Pak-ID آن لائن درخواستوں کے لیے بالکل 350 × 467 px تصویر۔",
+  "k": "nadra cnic تصویر میکر pak id آن لائن درخواستوں کے لیے بالکل 350 467 px تصویر",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "ویزا تصویر میکر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/visa-photo-maker.html",
+  "s": "Loona Image Compressor",
+  "d": "امریکی، برطانوی، شینگن اور چین ویزا تصویر سائزز ایک جگہ۔",
+  "k": "ویزا تصویر میکر امریکی برطانوی شینگن اور چین ویزا تصویر سائزز ایک جگہ",
+  "p": 103,
+  "c": "Tool"
+ },
+ {
+  "n": "تصویر پس منظر تبدیل کار",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/photo-background-changer.html",
+  "s": "Loona Image Compressor",
+  "d": "تصویر کا پس منظر سفید، نیلا یا ہلکا سرمئی کریں۔",
+  "k": "تصویر پس منظر تبدیل کار تصویر کا پس منظر سفید نیلا یا ہلکا سرمئی کریں",
+  "p": 104,
+  "c": "Tool"
+ },
+ {
+  "n": "نام اور تاریخ والی امتحان تصویر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/exam-photo-name-date.html",
+  "s": "Loona Image Compressor",
+  "d": "بورڈ امتحانات کے لیے اپنی تصویر کے نیچے نام اور تاریخ کی پٹی شامل کریں۔",
+  "k": "نام اور تاریخ والی امتحان تصویر بورڈ امتحانات کے لیے اپنی تصویر کے نیچے نام اور تاریخ کی پٹی شامل کریں",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "پاسپورٹ تصویر پرنٹ شیٹ",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/passport-photo-print-sheet.html",
+  "s": "Loona Image Compressor",
+  "d": "4، 6 یا 8 پاسپورٹ تصاویر ایک A4 شیٹ پر رکھیں اور گھر پر پرنٹ کریں۔",
+  "k": "پاسپورٹ تصویر پرنٹ شیٹ 4 6 یا 8 پاسپورٹ تصاویر ایک a4 شیٹ پر رکھیں اور گھر پر پرنٹ کریں",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "تصویر ری سائز کریں",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/resize-image.html",
+  "s": "Loona Image Compressor",
+  "d": "پکسلز، cm یا انچ سے ری سائز کریں، پرنٹ DPI سیٹنگ کے ساتھ۔",
+  "k": "تصویر ری سائز کریں پکسلز cm یا انچ سے ری سائز کریں پرنٹ dpi سیٹنگ کے ساتھ",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "تصویر کراپ کریں",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/crop-image.html",
+  "s": "Loona Image Compressor",
+  "d": "مفت کراپ کے علاوہ تیار تناسب — 1:1، 4:3، پاسپورٹ اور مزید۔",
+  "k": "تصویر کراپ کریں مفت کراپ کے علاوہ تیار تناسب 1 1 4 3 پاسپورٹ اور مزید",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "فوٹو تا PDF",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/photo-to-pdf.html",
+  "s": "Loona Image Compressor",
+  "d": "ایک یا زیادہ تصاویر کو ایک واحد PDF فائل میں بدلیں۔",
+  "k": "فوٹو تا pdf ایک یا زیادہ تصاویر کو ایک واحد pdf فائل میں بدلیں",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "تصویر فارمیٹ کنورٹر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/image-format-converter.html",
+  "s": "Loona Image Compressor",
+  "d": "JPG، PNG اور WebP دونوں طرف بدلیں، کوالٹی کنٹرول کے ساتھ۔",
+  "k": "تصویر فارمیٹ کنورٹر jpg png اور webp دونوں طرف بدلیں کوالٹی کنٹرول کے ساتھ",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "فوٹو فلٹرز اور درست",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/photo-filters-editor.html",
+  "s": "Loona Image Compressor",
+  "d": "روشنائی، تضاد اور تیزی سیکنڈوں میں درست کریں۔",
+  "k": "فوٹو فلٹرز اور درست روشنائی تضاد اور تیزی سیکنڈوں میں درست کریں",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "فوٹو انہانسر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/image-enhancer.html",
+  "s": "Loona Image Compressor",
+  "d": "تصاویر خودکار بہتر بنائیں، تیز کریں اور 4x تک بڑا کریں۔",
+  "k": "فوٹو انہانسر تصاویر خودکار بہتر بنائیں تیز کریں اور 4x تک بڑا کریں",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "تصویر واٹر مارک",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/image-watermark.html",
+  "s": "Loona Image Compressor",
+  "d": "متنی واٹر مارک شامل کریں — سائز، رنگ، غیر شفافیت، مقام مقرر کریں یا اسے ٹائل کریں۔",
+  "k": "تصویر واٹر مارک متنی واٹر مارک شامل کریں سائز رنگ غیر شفافیت مقام مقرر کریں یا اسے ٹائل کریں",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "میم جنریٹر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/meme-generator.html",
+  "s": "Loona Image Compressor",
+  "d": "کسی بھی تصویر پر کلاسک اوپر اور نیچے میم متن، سیکنڈوں میں۔",
+  "k": "میم جنریٹر کسی بھی تصویر پر کلاسک اوپر اور نیچے میم متن سیکنڈوں میں",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "چہرہ دھندلائیں",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/face-blur.html",
+  "s": "Loona Image Compressor",
+  "d": "شیئر کرنے سے پہلے چہرے، پلیٹس اور نجی تفصیلات دھندلائیں یا پکسل بنائیں۔",
+  "k": "چہرہ دھندلائیں شیئر کرنے سے پہلے چہرے پلیٹس اور نجی تفصیلات دھندلائیں یا پکسل بنائیں",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "رنگ منتخب کار",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/color-picker.html",
+  "s": "Loona Image Compressor",
+  "d": "کوئی بھی رنگ منتخب کریں اور اس کی HEX، RGB، HSL اور HSV قدریں کاپی کریں۔",
+  "k": "رنگ منتخب کار کوئی بھی رنگ منتخب کریں اور اس کی hex rgb hsl اور hsv قدریں کاپی کریں",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "رنگ پیلیٹ جنریٹر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/color-palette-generator.html",
+  "s": "Loona Image Compressor",
+  "d": "کسی بھی بنیادی رنگ سے ہم آہنگ پیلیٹ، ایک کلک میں۔",
+  "k": "رنگ پیلیٹ جنریٹر کسی بھی بنیادی رنگ سے ہم آہنگ پیلیٹ ایک کلک میں",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "تضاد جانچ کار",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/contrast-checker.html",
+  "s": "Loona Image Compressor",
+  "d": "متن رنگوں کو WCAG AA اور AAA تضاد قواعد کے خلاف جانچیں۔",
+  "k": "تضاد جانچ کار متن رنگوں کو wcag aa اور aaa تضاد قواعد کے خلاف جانچیں",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS گریڈینٹ جنریٹر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/gradient-generator.html",
+  "s": "Loona Image Compressor",
+  "d": "لکیری گریڈینٹ بنائیں اور CSS کوڈ فوراً کاپی کریں۔",
+  "k": "css گریڈینٹ جنریٹر لکیری گریڈینٹ بنائیں اور css کوڈ فوراً کاپی کریں",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "تصویر میٹا ڈیٹا اور EXIF ناظر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/image-metadata-viewer.html",
+  "s": "Loona Image Compressor",
+  "d": "کسی بھی تصویر کے اندر چھپا EXIF، GPS، کیمرہ اور تاریخ ڈیٹا دیکھیں۔",
+  "k": "تصویر میٹا ڈیٹا اور exif ناظر کسی بھی تصویر کے اندر چھپا exif gps کیمرہ اور تاریخ ڈیٹا دیکھیں",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "تصویر میٹا ڈیٹا ہٹائیں",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/remove-image-metadata.html",
+  "s": "Loona Image Compressor",
+  "d": "تصویر سے EXIF، GPS اور XMP اتاریں — پکسلز اچھوتے۔",
+  "k": "تصویر میٹا ڈیٹا ہٹائیں تصویر سے exif gps اور xmp اتاریں پکسلز اچھوتے",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "EXIF ایڈیٹر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/edit-image-metadata.html",
+  "s": "Loona Image Compressor",
+  "d": "JPG کی تاریخ لی گئی، فنکار، کاپی رائٹ، بنانے والا اور ماڈل ترمیم کریں۔",
+  "k": "exif ایڈیٹر jpg کی تاریخ لی گئی فنکار کاپی رائٹ بنانے والا اور ماڈل ترمیم کریں",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "تصویر سے GPS ہٹائیں",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/remove-gps-from-photo.html",
+  "s": "Loona Image Compressor",
+  "d": "صرف مقام ڈیٹا حذف کریں اور باقی EXIF رکھیں۔",
+  "k": "تصویر سے gps ہٹائیں صرف مقام ڈیٹا حذف کریں اور باقی exif رکھیں",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "بلک میٹا ڈیٹا ہٹانے والا",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/bulk-remove-image-metadata.html",
+  "s": "Loona Image Compressor",
+  "d": "بہت سی تصاویر سے ایک ساتھ میٹا ڈیٹا اتاریں اور ZIP ڈاؤن لوڈ کریں۔",
+  "k": "بلک میٹا ڈیٹا ہٹانے والا بہت سی تصاویر سے ایک ساتھ میٹا ڈیٹا اتاریں اور zip ڈاؤن لوڈ کریں",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "PNG تا JPG کنورٹر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/png-to-jpg.html",
+  "s": "Loona Image Compressor",
+  "d": "PNG تصاویر اور اسکرین شاٹس کو بہت چھوٹے JPG میں بدلیں۔",
+  "k": "png تا jpg کنورٹر png تصاویر اور اسکرین شاٹس کو بہت چھوٹے jpg میں بدلیں",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "JPG تا PNG کنورٹر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/jpg-to-png.html",
+  "s": "Loona Image Compressor",
+  "d": "ایڈیٹرز اور ڈیزائن ٹولز کے لیے آپ کے JPG کی بلا نقصان PNG کاپیاں۔",
+  "k": "jpg تا png کنورٹر ایڈیٹرز اور ڈیزائن ٹولز کے لیے آپ کے jpg کی بلا نقصان png کاپیاں",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "JPG تا WebP کنورٹر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/jpg-to-webp.html",
+  "s": "Loona Image Compressor",
+  "d": "تیز تر ویب سائٹس کے لیے JPG کو 25–40% سکڑیں۔",
+  "k": "jpg تا webp کنورٹر تیز تر ویب سائٹس کے لیے jpg کو 25 40 سکڑیں",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "WebP تا JPG کنورٹر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/webp-to-jpg.html",
+  "s": "Loona Image Compressor",
+  "d": "WebP تصاویر کو JPG کے طور پر ہر جگہ کھولنے کے قابل بنائیں۔",
+  "k": "webp تا jpg کنورٹر webp تصاویر کو jpg کے طور پر ہر جگہ کھولنے کے قابل بنائیں",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "PNG تا WebP کنورٹر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/png-to-webp.html",
+  "s": "Loona Image Compressor",
+  "d": "چھوٹے ویب گرافکس جو شفافیت برقرار رکھیں۔",
+  "k": "png تا webp کنورٹر چھوٹے ویب گرافکس جو شفافیت برقرار رکھیں",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "WebP تا PNG کنورٹر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/webp-to-png.html",
+  "s": "Loona Image Compressor",
+  "d": "ایڈیٹرز اور پرنٹ کے لیے WebP سے بلا نقصان PNG۔",
+  "k": "webp تا png کنورٹر ایڈیٹرز اور پرنٹ کے لیے webp سے بلا نقصان png",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "GIF تا PNG کنورٹر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/gif-to-png.html",
+  "s": "Loona Image Compressor",
+  "d": "کسی بھی GIF سے صاف بلا نقصان ساکت تصویر۔",
+  "k": "gif تا png کنورٹر کسی بھی gif سے صاف بلا نقصان ساکت تصویر",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "GIF تا JPG کنورٹر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/gif-to-jpg.html",
+  "s": "Loona Image Compressor",
+  "d": "GIF سے چھوٹی عالمگیر JPG ساکت تصویر۔",
+  "k": "gif تا jpg کنورٹر gif سے چھوٹی عالمگیر jpg ساکت تصویر",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "BMP تا JPG کنورٹر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/bmp-to-jpg.html",
+  "s": "Loona Image Compressor",
+  "d": "بڑی BMP فائلوں کو 90% یا زیادہ سکڑیں۔",
+  "k": "bmp تا jpg کنورٹر بڑی bmp فائلوں کو 90 یا زیادہ سکڑیں",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "BMP تا PNG کنورٹر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/bmp-to-png.html",
+  "s": "Loona Image Compressor",
+  "d": "بلا نقصان PNG — BMP سے جدید اپ گریڈ۔",
+  "k": "bmp تا png کنورٹر بلا نقصان png bmp سے جدید اپ گریڈ",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "SVG تا PNG کنورٹر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/svg-to-png.html",
+  "s": "Loona Image Compressor",
+  "d": "ویکٹر لوگو کو کسی بھی سائز پر کرکرے PNG کے طور پر رینڈر کریں۔",
+  "k": "svg تا png کنورٹر ویکٹر لوگو کو کسی بھی سائز پر کرکرے png کے طور پر رینڈر کریں",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "SVG تا JPG کنورٹر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ur/svg-to-jpg.html",
+  "s": "Loona Image Compressor",
+  "d": "SVG ویکٹرز کو عالمگیر JPG کے طور پر رینڈر کریں۔",
+  "k": "svg تا jpg کنورٹر svg ویکٹرز کو عالمگیر jpg کے طور پر رینڈر کریں",
+  "p": 136,
+  "c": "Tool"
+ }
+]

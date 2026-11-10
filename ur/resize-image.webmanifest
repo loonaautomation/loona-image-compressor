@@ -1,0 +1,29 @@
+{
+  "name": "Loona تصویر ری سائز کریں",
+  "short_name": "تصویر ری سائز کریں",
+  "description": "کسی بھی تصویر کو پکسلز، cm یا انچ کے حساب سے DPI سیٹنگ کے ساتھ مفت ری سائز کریں۔ پہلو تناسب برقرار رکھیں، JPG، PNG یا WebP منتخب کریں اور فوراً ڈاؤن لوڈ کریں — سائن اپ کی ضرورت نہیں۔",
+  "id": "/loona-image-compressor/ur/resize-image.html",
+  "start_url": "./resize-image.html",
+  "scope": "./resize-image.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
