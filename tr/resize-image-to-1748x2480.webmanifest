@@ -1,0 +1,29 @@
+{
+  "name": "Loona Görüntüyü 1748 × 2480 px Boyutuna Çevrimiçi Getir — Ücretsiz",
+  "short_name": "Görüntüyü 1748 × 2480 px Boyutuna Çevrimiçi Getir — Ücretsiz",
+  "description": "Herhangi bir görüntüyü tam olarak 1748×2480 px boyutuna getirin — A5, 300 DPI&#x27;da. Kırpma kontrolüyle tarayıcınızda ücretsiz; yükleme yok, kayıt yok.",
+  "id": "/loona-image-compressor/tr/resize-image-to-1748x2480.html",
+  "start_url": "./resize-image-to-1748x2480.html",
+  "scope": "./resize-image-to-1748x2480.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

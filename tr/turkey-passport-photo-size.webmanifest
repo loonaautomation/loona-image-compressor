@@ -1,0 +1,29 @@
+{
+  "name": "Loona Türkiye Pasaport / Vize Fotoğrafı (Biyometrik) Boyutu — 50×60mm (591×709px) Oluşturucu",
+  "short_name": "Türkiye Pasaport / Vize Fotoğrafı (Biyometrik) Boyutu — 50×60mm (591×709px) Oluşturucu",
+  "description": "Resmi boyut olan 50×60 mm (591×709 px) ölçüsünde, düz beyaz arka planlı bir Türkiye Pasaport / Vize Fotoğrafı (Biyometrik) oluşturun. Ücretsiz çevrimiçi oluşturucu — kırpın, indirin ve baskı sayfası alın, yükleme yok.",
+  "id": "/loona-image-compressor/tr/turkey-passport-photo-size.html",
+  "start_url": "./turkey-passport-photo-size.html",
+  "scope": "./turkey-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

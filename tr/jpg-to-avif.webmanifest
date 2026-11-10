@@ -1,0 +1,29 @@
+{
+  "name": "Loona JPG → AVIF Dönüştürücü – Ücretsiz, Yüklemesiz",
+  "short_name": "JPG → AVIF Dönüştürücü – Ücretsiz, Yüklemesiz",
+  "description": "JPG formatını AVIF formatına çevrimiçi, ücretsiz, tarayıcınızda dönüştürün. Cihazınızda gerçek dönüştürme — yükleme yok, kayıt yok, filigran yok.",
+  "id": "/loona-image-compressor/tr/jpg-to-avif.html",
+  "start_url": "./jpg-to-avif.html",
+  "scope": "./jpg-to-avif.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

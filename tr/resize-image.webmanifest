@@ -1,0 +1,29 @@
+{
+  "name": "Loona Görüntüyü Yeniden Boyutlandır – Piksel, cm veya İnç ile Çevrimiçi Ücretsiz Yeniden Boyutlandırın",
+  "short_name": "Görüntüyü Yeniden Boyutlandır – Piksel, cm veya İnç ile Çevrimiçi Ücretsiz Yeniden Boyutlandırın",
+  "description": "Herhangi bir görüntüyü piksel, cm veya inç ile bir DPI ayarıyla ücretsiz yeniden boyutlandırın. En-boy oranını koruyun, JPG, PNG veya WebP seçin ve anında indirin — kayıt gerekmez.",
+  "id": "/loona-image-compressor/tr/resize-image.html",
+  "start_url": "./resize-image.html",
+  "scope": "./resize-image.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona BAE Vize / Emirates Kimlik Fotoğrafı Boyutu — 40×60mm (472×709px) Oluşturucu",
+  "short_name": "BAE Vize / Emirates Kimlik Fotoğrafı Boyutu — 40×60mm (472×709px) Oluşturucu",
+  "description": "Resmi boyut olan 40×60 mm (472×709 px) ölçüsünde, düz beyaz arka planlı bir BAE Vize / Emirates Kimlik Fotoğrafı oluşturun. Ücretsiz çevrimiçi oluşturucu — kırpın, indirin ve baskı sayfası alın, yükleme yok.",
+  "id": "/loona-image-compressor/tr/uae-visa-photo-size.html",
+  "start_url": "./uae-visa-photo-size.html",
+  "scope": "./uae-visa-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

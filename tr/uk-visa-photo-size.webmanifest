@@ -1,0 +1,29 @@
+{
+  "name": "Loona Birleşik Krallık Vize Fotoğrafı Boyutu — 35×45mm (600×750px) Oluşturucu",
+  "short_name": "Birleşik Krallık Vize Fotoğrafı Boyutu — 35×45mm (600×750px) Oluşturucu",
+  "description": "Resmi boyut olan 35×45 mm (600×750 px) ölçüsünde, düz açık gri arka planlı bir Birleşik Krallık Vize Fotoğrafı oluşturun. Ücretsiz çevrimiçi oluşturucu — kırpın, indirin ve baskı sayfası alın, yükleme yok.",
+  "id": "/loona-image-compressor/tr/uk-visa-photo-size.html",
+  "start_url": "./uk-visa-photo-size.html",
+  "scope": "./uk-visa-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

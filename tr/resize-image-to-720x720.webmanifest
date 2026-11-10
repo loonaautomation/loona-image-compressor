@@ -1,0 +1,29 @@
+{
+  "name": "Loona Görüntüyü 720 × 720 px Boyutuna Çevrimiçi Getir — Ücretsiz",
+  "short_name": "Görüntüyü 720 × 720 px Boyutuna Çevrimiçi Getir — Ücretsiz",
+  "description": "Herhangi bir görüntüyü tam olarak 720×720 px boyutuna getirin — Facebook profil minimumu ve genel avatar boyutu. Kırpma kontrolüyle tarayıcınızda ücretsiz; yükleme yok, kayıt yok.",
+  "id": "/loona-image-compressor/tr/resize-image-to-720x720.html",
+  "start_url": "./resize-image-to-720x720.html",
+  "scope": "./resize-image-to-720x720.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

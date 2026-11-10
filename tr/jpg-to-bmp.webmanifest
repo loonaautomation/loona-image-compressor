@@ -1,0 +1,29 @@
+{
+  "name": "Loona JPG → BMP Dönüştürücü – Ücretsiz, Yüklemesiz",
+  "short_name": "JPG → BMP Dönüştürücü – Ücretsiz, Yüklemesiz",
+  "description": "JPG formatını BMP formatına çevrimiçi, ücretsiz, tarayıcınızda dönüştürün. Cihazınızda gerçek dönüştürme — yükleme yok, kayıt yok, filigran yok.",
+  "id": "/loona-image-compressor/tr/jpg-to-bmp.html",
+  "start_url": "./jpg-to-bmp.html",
+  "scope": "./jpg-to-bmp.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

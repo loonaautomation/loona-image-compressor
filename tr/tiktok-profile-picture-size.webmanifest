@@ -1,0 +1,29 @@
+{
+  "name": "Loona TikTok Profil Resmi Boyutu — 720×720 px",
+  "short_name": "TikTok Profil Resmi Boyutu — 720×720 px",
+  "description": "Tam olarak 720×720 px ölçüsünde bir TikTok profil resmi oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
+  "id": "/loona-image-compressor/tr/tiktok-profile-picture-size.html",
+  "start_url": "./tiktok-profile-picture-size.html",
+  "scope": "./tiktok-profile-picture-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

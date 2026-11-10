@@ -1,0 +1,29 @@
+{
+  "name": "Loona Vize Fotoğrafı Oluşturucu – ABD, Birleşik Krallık, Schengen &amp; Çin Boyutları, Çevrimiçi Ücretsiz",
+  "short_name": "Vize Fotoğrafı Oluşturucu – ABD, Birleşik Krallık, Schengen &amp; Çin Boyutları, Çevrimiçi Ücretsiz",
+  "description": "Vize fotoğraflarını çevrimiçi ücretsiz yapın: ABD 2x2 inç, Birleşik Krallık ve Schengen 35x45 mm, Çin 33x48 mm, 300 DPI'da. Kayıt yok, filigran yok, tamamen gizli araç.",
+  "id": "/loona-image-compressor/tr/visa-photo-maker.html",
+  "start_url": "./visa-photo-maker.html",
+  "scope": "./visa-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

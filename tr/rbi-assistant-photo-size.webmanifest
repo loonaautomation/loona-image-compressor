@@ -1,0 +1,29 @@
+{
+  "name": "Loona RBI Assistant Fotoğraf Boyutu — 200 × 230 px, 20–50 KB",
+  "short_name": "RBI Assistant Fotoğraf Boyutu — 200 × 230 px, 20–50 KB",
+  "description": "RBI Assistant fotoğraf belgenizi duyuru boyutuna (200 × 230 px) ve 20–50 KB bandına getirin. Ücretsiz, tarayıcınızda — yükleme yok, kayıt yok.",
+  "id": "/loona-image-compressor/tr/rbi-assistant-photo-size.html",
+  "start_url": "./rbi-assistant-photo-size.html",
+  "scope": "./rbi-assistant-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Görüntüyü 1200 × 628'e Yeniden Boyutlandır – Bağlantı Paylaşım Boyutu Çevrimiçi Ücretsiz",
+  "short_name": "Görüntüyü 1200 × 628'e Yeniden Boyutlandır – Bağlantı Paylaşım Boyutu Çevrimiçi Ücretsiz",
+  "description": "Herhangi bir görüntüyü tam olarak 1200 × 628 piksele (Facebook ve LinkedIn bağlantı paylaşımları ve reklamları) ücretsiz yeniden boyutlandırın. Kapla, içer veya esnet, JPG veya PNG, anında indirin — kayıt yok, hiçbir şey yüklenmez.",
+  "id": "/loona-image-compressor/tr/resize-image-to-1200x628.html",
+  "start_url": "./resize-image-to-1200x628.html",
+  "scope": "./resize-image-to-1200x628.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Görüntü İyileştirici – Fotoğrafları Keskinleştirin, Temizleyin &amp; Büyütün",
+  "short_name": "Görüntü İyileştirici – Fotoğrafları Keskinleştirin, Temizleyin &amp; Büyütün",
+  "description": "Bir fotoğrafı çevrimiçi ücretsiz iyileştirin: tek tıklamayla otomatik iyileştirme, yumuşak fotoğrafları keskinleştirme, gürültüyü nazikçe temizleme ve 2x veya 4x büyütme. Dürüst sonuçlar, kayıt yok ve fotoğrafınız cihazınızdan asla ayrılmaz.",
+  "id": "/loona-image-compressor/tr/image-enhancer.html",
+  "start_url": "./image-enhancer.html",
+  "scope": "./image-enhancer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

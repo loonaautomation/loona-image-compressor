@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kolombiya Vize Fotoğrafı Boyutu — 30×40mm (354×472px) Oluşturucu",
+  "short_name": "Kolombiya Vize Fotoğrafı Boyutu — 30×40mm (354×472px) Oluşturucu",
+  "description": "Resmi boyut olan 30×40 mm (354×472 px) ölçüsünde, düz beyaz arka planlı bir Kolombiya Vize Fotoğrafı oluşturun. Ücretsiz çevrimiçi oluşturucu — kırpın, indirin ve baskı sayfası alın, yükleme yok.",
+  "id": "/loona-image-compressor/tr/colombia-visa-photo-size.html",
+  "start_url": "./colombia-visa-photo-size.html",
+  "scope": "./colombia-visa-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

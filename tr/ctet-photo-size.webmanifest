@@ -1,0 +1,29 @@
+{
+  "name": "Loona CTET Fotoğraf Boyutu — 3.5 × 4.5 cm (300 DPI&#x27;da yaklaşık 413 × 531 px), 10–100 KB",
+  "short_name": "CTET Fotoğraf Boyutu — 3.5 × 4.5 cm (300 DPI&#x27;da yaklaşık 413 × 531 px), 10–100 KB",
+  "description": "CTET fotoğraf belgenizi duyuru boyutuna (3.5 × 4.5 cm (300 DPI&#x27;da yaklaşık 413 × 531 px)) ve 10–100 KB bandına getirin. Ücretsiz, tarayıcınızda — yükleme yok, kayıt yok.",
+  "id": "/loona-image-compressor/tr/ctet-photo-size.html",
+  "start_url": "./ctet-photo-size.html",
+  "scope": "./ctet-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

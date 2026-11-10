@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pasaport Fotoğrafı Baskı Sayfası – A4 Üzerinde 4, 6 veya 8 Kopya, Çevrimiçi Ücretsiz",
+  "short_name": "Pasaport Fotoğrafı Baskı Sayfası – A4 Üzerinde 4, 6 veya 8 Kopya, Çevrimiçi Ücretsiz",
+  "description": "4, 6 veya 8 pasaport fotoğrafını, 300 DPI'da ücretsiz olarak tek bir A4 baskı sayfasına koyun. %100'de yazdırın, kılavuzlardan kesin ve stüdyo parasından tasarruf edin. Kayıt yok, tamamen gizli.",
+  "id": "/loona-image-compressor/tr/passport-photo-print-sheet.html",
+  "start_url": "./passport-photo-print-sheet.html",
+  "scope": "./passport-photo-print-sheet.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

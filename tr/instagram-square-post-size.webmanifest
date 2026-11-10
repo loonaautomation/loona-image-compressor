@@ -1,0 +1,29 @@
+{
+  "name": "Loona Instagram Kare Gönderi (1",
+  "short_name": "Instagram Kare Gönderi (1",
+  "description": "Tam olarak 1080×1080 px ölçüsünde bir Instagram kare gönderi (1:1) oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
+  "id": "/loona-image-compressor/tr/instagram-square-post-size.html",
+  "start_url": "./instagram-square-post-size.html",
+  "scope": "./instagram-square-post-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

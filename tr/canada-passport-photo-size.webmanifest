@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kanada Pasaport Fotoğrafı Boyutu — 50×70mm (591×827px) Oluşturucu",
+  "short_name": "Kanada Pasaport Fotoğrafı Boyutu — 50×70mm (591×827px) Oluşturucu",
+  "description": "Resmi boyut olan 50×70 mm (591×827 px) ölçüsünde, düz beyaz veya açık renkli arka planlı bir Kanada Pasaport Fotoğrafı oluşturun. Ücretsiz çevrimiçi oluşturucu — kırpın, indirin ve baskı sayfası alın, yükleme yok.",
+  "id": "/loona-image-compressor/tr/canada-passport-photo-size.html",
+  "start_url": "./canada-passport-photo-size.html",
+  "scope": "./canada-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

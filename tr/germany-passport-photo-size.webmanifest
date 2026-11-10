@@ -1,0 +1,29 @@
+{
+  "name": "Loona Almanya Pasaport Fotoğrafı (Biyometrik) Boyutu — 35×45mm (413×531px) Oluşturucu",
+  "short_name": "Almanya Pasaport Fotoğrafı (Biyometrik) Boyutu — 35×45mm (413×531px) Oluşturucu",
+  "description": "Resmi boyut olan 35×45 mm (413×531 px) ölçüsünde, açık gri, düz arka planlı bir Almanya Pasaport Fotoğrafı (Biyometrik) oluşturun. Ücretsiz çevrimiçi oluşturucu — kırpın, indirin ve baskı sayfası alın, yükleme yok.",
+  "id": "/loona-image-compressor/tr/germany-passport-photo-size.html",
+  "start_url": "./germany-passport-photo-size.html",
+  "scope": "./germany-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

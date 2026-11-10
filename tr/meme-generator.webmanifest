@@ -1,0 +1,29 @@
+{
+  "name": "Loona Meme Oluşturucu – Görüntülere Çevrimiçi Ücretsiz Üst &amp; Alt Metin Ekleyin",
+  "short_name": "Meme Oluşturucu – Görüntülere Çevrimiçi Ücretsiz Üst &amp; Alt Metin Ekleyin",
+  "description": "Herhangi bir fotoğrafı, kalın üst ve alt metinle klasik bir meme'ye çevirin — canlı önizleme, düz arka plan seçenekleri ve PNG indirme ile ücretsiz çevrimiçi meme oluşturucu. Kayıt yok ve görüntünüz cihazınızdan asla ayrılmaz.",
+  "id": "/loona-image-compressor/tr/meme-generator.html",
+  "start_url": "./meme-generator.html",
+  "scope": "./meme-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

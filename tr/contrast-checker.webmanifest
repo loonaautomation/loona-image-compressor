@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kontrast Denetleyicisi – WCAG AA ve AAA Renk Kontrast Oranı",
+  "short_name": "Kontrast Denetleyicisi – WCAG AA ve AAA Renk Kontrast Oranı",
+  "description": "Metin ve arka plan renklerini WCAG'a karşı kontrol edin: normal ve büyük metin için AA ve AAA geçti/kaldı ile anında kontrast oranı, artı canlı bir önizleme. Ücretsiz, kayıt yok.",
+  "id": "/loona-image-compressor/tr/contrast-checker.html",
+  "start_url": "./contrast-checker.html",
+  "scope": "./contrast-checker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

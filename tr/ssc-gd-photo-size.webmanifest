@@ -1,0 +1,29 @@
+{
+  "name": "Loona SSC GD Constable Fotoğraf Boyutu — 200 × 230 px, 20–50 KB",
+  "short_name": "SSC GD Constable Fotoğraf Boyutu — 200 × 230 px, 20–50 KB",
+  "description": "SSC GD Constable fotoğraf belgenizi duyuru boyutuna (200 × 230 px) ve 20–50 KB bandına getirin. Ücretsiz, tarayıcınızda — yükleme yok, kayıt yok.",
+  "id": "/loona-image-compressor/tr/ssc-gd-photo-size.html",
+  "start_url": "./ssc-gd-photo-size.html",
+  "scope": "./ssc-gd-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

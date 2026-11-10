@@ -1,0 +1,335 @@
+[
+  {
+    "n": "Ücretsiz Görüntü Sıkıştırıcı",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/",
+    "s": "Loona Image Compressor",
+    "d": "JPG, PNG ve WebP görüntülerini ücretsiz çevrimiçi olarak tam boyuta sıkıştırın — 50KB, 100KB, 200KB. Toplu sıkıştırma, yeniden boyutlandırma, ZIP indirme. Kayıt yok, filigran yok, %100 gizli.",
+    "k": "ucretsiz goruntu sikistirici jpg png ve webp goruntulerini ucretsiz cevrimici olarak tam boyuta sikistirin 50kb 100kb 200kb toplu sikistirma yeniden boyutlandirma zip indirme kayit yok filigran yok 100 gizli",
+    "p": 0,
+    "c": "Tool"
+  },
+  {
+    "n": "Pasaport Boyutu Fotoğraf Oluşturucu",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/passport-photo-maker.html",
+    "s": "Loona Image Compressor",
+    "d": "Herhangi bir fotoğrafı, baskıya hazır 300 DPI'da 35×45 mm veya 2×2 inçe kırpın.",
+    "k": "passport size photo maker passport photo maker herhangi bir fotografi baskiya hazir 300 dpi da 35 45 mm veya 2 2 ince kirpin",
+    "p": 1,
+    "c": "Tool"
+  },
+  {
+    "n": "NADRA / CNIC Fotoğraf Oluşturucu",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/nadra-cnic-photo-maker.html",
+    "s": "Loona Image Compressor",
+    "d": "Pak-ID çevrimiçi başvuruları için tam 350 × 467 px fotoğraf.",
+    "k": "nadra cnic photo maker nadra cnic photo maker pak id cevrimici basvurulari icin tam 350 467 px fotograf",
+    "p": 102,
+    "c": "Tool"
+  },
+  {
+    "n": "Vize Fotoğrafı Oluşturucu",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/visa-photo-maker.html",
+    "s": "Loona Image Compressor",
+    "d": "ABD, Birleşik Krallık, Schengen ve Çin vize fotoğrafı boyutları tek bir yerde.",
+    "k": "visa photo maker visa photo maker abd birlesik krallik schengen ve cin vize fotografi boyutlari tek bir yerde",
+    "p": 103,
+    "c": "Tool"
+  },
+  {
+    "n": "Fotoğraf Arka Plan Değiştirici",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/photo-background-changer.html",
+    "s": "Loona Image Compressor",
+    "d": "Bir fotoğraf arka planını beyaz, mavi veya açık gri yapın.",
+    "k": "photo background changer photo background changer bir fotograf arka planini beyaz mavi veya acik gri yapin",
+    "p": 104,
+    "c": "Tool"
+  },
+  {
+    "n": "Ad &amp; Tarihli Sınav Fotoğrafı",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/exam-photo-name-date.html",
+    "s": "Loona Image Compressor",
+    "d": "Kurul sınavları için fotoğrafınızın altına bir ad ve tarih şeridi ekleyin.",
+    "k": "exam photo with name date exam photo name date kurul sinavlari icin fotografinizin altina bir ad ve tarih seridi ekleyin",
+    "p": 105,
+    "c": "Tool"
+  },
+  {
+    "n": "Pasaport Fotoğrafı Baskı Sayfası",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/passport-photo-print-sheet.html",
+    "s": "Loona Image Compressor",
+    "d": "4, 6 veya 8 pasaport fotoğrafını tek bir A4 sayfasına koyun ve evde yazdırın.",
+    "k": "passport photo print sheet passport photo print sheet 4 6 veya 8 pasaport fotografini tek bir a4 sayfasina koyun ve evde yazdirin",
+    "p": 106,
+    "c": "Tool"
+  },
+  {
+    "n": "Görüntüyü Yeniden Boyutlandır",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/resize-image.html",
+    "s": "Loona Image Compressor",
+    "d": "Piksel, cm veya inç ile, bir baskı DPI ayarıyla yeniden boyutlandırın.",
+    "k": "resize image resize image piksel cm veya inc ile bir baski dpi ayariyla yeniden boyutlandirin",
+    "p": 2,
+    "c": "Tool"
+  },
+  {
+    "n": "Görüntüyü Kırp",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/crop-image.html",
+    "s": "Loona Image Compressor",
+    "d": "Serbest kırpma artı hazır oranlar — 1:1, 4:3, pasaport ve daha fazlası.",
+    "k": "crop image crop image serbest kirpma arti hazir oranlar 1 1 4 3 pasaport ve daha fazlasi",
+    "p": 3,
+    "c": "Tool"
+  },
+  {
+    "n": "Fotoğraftan PDF'ye",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/photo-to-pdf.html",
+    "s": "Loona Image Compressor",
+    "d": "Bir veya daha fazla fotoğrafı tek bir PDF dosyasına çevirin.",
+    "k": "photo to pdf photo to pdf bir veya daha fazla fotografi tek bir pdf dosyasina cevirin",
+    "p": 4,
+    "c": "Tool"
+  },
+  {
+    "n": "Görüntü Formatı Dönüştürücü",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/image-format-converter.html",
+    "s": "Loona Image Compressor",
+    "d": "JPG, PNG ve WebP'yi her iki yönde, kalite kontrolüyle dönüştürün.",
+    "k": "image format converter image format converter jpg png ve webp yi her iki yonde kalite kontroluyle donusturun",
+    "p": 5,
+    "c": "Tool"
+  },
+  {
+    "n": "Fotoğraf Filtreleri ve Düzeltme",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/photo-filters-editor.html",
+    "s": "Loona Image Compressor",
+    "d": "Parlaklığı, kontrastı ve keskinliği saniyeler içinde düzeltin.",
+    "k": "photo filters fix photo filters editor parlakligi kontrasti ve keskinligi saniyeler icinde duzeltin",
+    "p": 111,
+    "c": "Tool"
+  },
+  {
+    "n": "Görüntü İyileştirici",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/image-enhancer.html",
+    "s": "Loona Image Compressor",
+    "d": "Fotoğrafları 4x'e kadar otomatik iyileştirin, keskinleştirin ve büyütün.",
+    "k": "image enhancer image enhancer fotograflari 4x e kadar otomatik iyilestirin keskinlestirin ve buyutun",
+    "p": 112,
+    "c": "Tool"
+  },
+  {
+    "n": "Görüntü Filigranı",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/image-watermark.html",
+    "s": "Loona Image Compressor",
+    "d": "Bir metin filigranı ekleyin — boyutu, rengi, opaklığı, konumu ayarlayın veya döşeyin.",
+    "k": "image watermark image watermark bir metin filigrani ekleyin boyutu rengi opakligi konumu ayarlayin veya doseyin",
+    "p": 113,
+    "c": "Tool"
+  },
+  {
+    "n": "Meme Oluşturucu",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/meme-generator.html",
+    "s": "Loona Image Compressor",
+    "d": "Herhangi bir fotoğrafta klasik üst ve alt meme metni, saniyeler içinde.",
+    "k": "meme generator meme generator herhangi bir fotografta klasik ust ve alt meme metni saniyeler icinde",
+    "p": 114,
+    "c": "Tool"
+  },
+  {
+    "n": "Yüz Bulanıklaştırma",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/face-blur.html",
+    "s": "Loona Image Compressor",
+    "d": "Paylaşmadan önce yüzleri, plakaları ve özel ayrıntıları bulanıklaştırın veya pikselleştirin.",
+    "k": "face blur face blur paylasmadan once yuzleri plakalari ve ozel ayrintilari bulaniklastirin veya piksellestirin",
+    "p": 115,
+    "c": "Tool"
+  },
+  {
+    "n": "Renk Seçici",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/color-picker.html",
+    "s": "Loona Image Compressor",
+    "d": "Herhangi bir rengi seçin ve HEX, RGB, HSL ve HSV değerlerini kopyalayın.",
+    "k": "color picker color picker herhangi bir rengi secin ve hex rgb hsl ve hsv degerlerini kopyalayin",
+    "p": 116,
+    "c": "Tool"
+  },
+  {
+    "n": "Renk Paleti Oluşturucu",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/color-palette-generator.html",
+    "s": "Loona Image Compressor",
+    "d": "Herhangi bir temel renkten uyumlu paletler, tek tıklamayla.",
+    "k": "color palette generator color palette generator herhangi bir temel renkten uyumlu paletler tek tiklamayla",
+    "p": 117,
+    "c": "Tool"
+  },
+  {
+    "n": "Kontrast Denetleyicisi",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/contrast-checker.html",
+    "s": "Loona Image Compressor",
+    "d": "Metin renklerini WCAG AA ve AAA kontrast kurallarına karşı kontrol edin.",
+    "k": "contrast checker contrast checker metin renklerini wcag aa ve aaa kontrast kurallarina karsi kontrol edin",
+    "p": 118,
+    "c": "Tool"
+  },
+  {
+    "n": "CSS Degrade Oluşturucu",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/gradient-generator.html",
+    "s": "Loona Image Compressor",
+    "d": "Doğrusal degradeler oluşturun ve CSS kodunu anında kopyalayın.",
+    "k": "css gradient generator gradient generator dogrusal degradeler olusturun ve css kodunu aninda kopyalayin",
+    "p": 119,
+    "c": "Tool"
+  },
+  {
+    "n": "Görüntü Meta Verileri ve EXIF Görüntüleyici",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/image-metadata-viewer.html",
+    "s": "Loona Image Compressor",
+    "d": "Herhangi bir fotoğrafın içinde gizli EXIF, GPS, kamera ve tarih verisini görün.",
+    "k": "image metadata exif viewer image metadata viewer herhangi bir fotografin icinde gizli exif gps kamera ve tarih verisini gorun",
+    "p": 120,
+    "c": "Tool"
+  },
+  {
+    "n": "Görüntü Meta Verilerini Kaldırın",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/remove-image-metadata.html",
+    "s": "Loona Image Compressor",
+    "d": "Bir fotoğraftan EXIF, GPS ve XMP soyun — pikseller dokunulmamış.",
+    "k": "remove image metadata remove image metadata bir fotograftan exif gps ve xmp soyun pikseller dokunulmamis",
+    "p": 121,
+    "c": "Tool"
+  },
+  {
+    "n": "EXIF Düzenleyici",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/edit-image-metadata.html",
+    "s": "Loona Image Compressor",
+    "d": "Bir JPG'nin çekilme tarihini, sanatçısını, telif hakkını, markasını ve modelini düzenleyin.",
+    "k": "exif editor edit image metadata bir jpg nin cekilme tarihini sanatcisini telif hakkini markasini ve modelini duzenleyin",
+    "p": 122,
+    "c": "Tool"
+  },
+  {
+    "n": "Fotoğraftan GPS Kaldırın",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/remove-gps-from-photo.html",
+    "s": "Loona Image Compressor",
+    "d": "Yalnızca konum verisini silin ve EXIF'in geri kalanını koruyun.",
+    "k": "remove gps from photo remove gps from photo yalnizca konum verisini silin ve exif in geri kalanini koruyun",
+    "p": 123,
+    "c": "Tool"
+  },
+  {
+    "n": "Toplu Meta Veri Kaldırıcı",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/bulk-remove-image-metadata.html",
+    "s": "Loona Image Compressor",
+    "d": "Birçok fotoğraftan aynı anda meta verileri soyun ve bir ZIP indirin.",
+    "k": "bulk metadata remover bulk remove image metadata bircok fotograftan ayni anda meta verileri soyun ve bir zip indirin",
+    "p": 124,
+    "c": "Tool"
+  },
+  {
+    "n": "PNG'den JPG'ye Dönüştürücü",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/png-to-jpg.html",
+    "s": "Loona Image Compressor",
+    "d": "PNG fotoğraflarını ve ekran görüntülerini çok daha küçük JPG'lere çevirin.",
+    "k": "png to jpg converter png to jpg png fotograflarini ve ekran goruntulerini cok daha kucuk jpg lere cevirin",
+    "p": 125,
+    "c": "Tool"
+  },
+  {
+    "n": "JPG'den PNG'ye Dönüştürücü",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/jpg-to-png.html",
+    "s": "Loona Image Compressor",
+    "d": "Düzenleyiciler ve tasarım araçları için JPG'lerinizin kayıpsız PNG kopyaları.",
+    "k": "jpg to png converter jpg to png duzenleyiciler ve tasarim araclari icin jpg lerinizin kayipsiz png kopyalari",
+    "p": 126,
+    "c": "Tool"
+  },
+  {
+    "n": "JPG'den WebP'ye Dönüştürücü",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/jpg-to-webp.html",
+    "s": "Loona Image Compressor",
+    "d": "Daha hızlı web siteleri için JPG'leri %25–40 küçültün.",
+    "k": "jpg to webp converter jpg to webp daha hizli web siteleri icin jpg leri 25 40 kucultun",
+    "p": 127,
+    "c": "Tool"
+  },
+  {
+    "n": "WebP'den JPG'ye Dönüştürücü",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/webp-to-jpg.html",
+    "s": "Loona Image Compressor",
+    "d": "WebP görüntülerinin her yerde JPG olarak açılmasını sağlayın.",
+    "k": "webp to jpg converter webp to jpg webp goruntulerinin her yerde jpg olarak acilmasini saglayin",
+    "p": 128,
+    "c": "Tool"
+  },
+  {
+    "n": "PNG'den WebP'ye Dönüştürücü",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/png-to-webp.html",
+    "s": "Loona Image Compressor",
+    "d": "Şeffaflığı koruyan daha küçük web grafikleri.",
+    "k": "png to webp converter png to webp seffafligi koruyan daha kucuk web grafikleri",
+    "p": 129,
+    "c": "Tool"
+  },
+  {
+    "n": "WebP'den PNG'ye Dönüştürücü",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/webp-to-png.html",
+    "s": "Loona Image Compressor",
+    "d": "Düzenleyiciler ve baskı için WebP'den kayıpsız PNG.",
+    "k": "webp to png converter webp to png duzenleyiciler ve baski icin webp den kayipsiz png",
+    "p": 130,
+    "c": "Tool"
+  },
+  {
+    "n": "GIF'den PNG'ye Dönüştürücü",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/gif-to-png.html",
+    "s": "Loona Image Compressor",
+    "d": "Herhangi bir GIF'den temiz, kayıpsız hareketsiz bir görüntü.",
+    "k": "gif to png converter gif to png herhangi bir gif den temiz kayipsiz hareketsiz bir goruntu",
+    "p": 131,
+    "c": "Tool"
+  },
+  {
+    "n": "GIF'den JPG'ye Dönüştürücü",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/gif-to-jpg.html",
+    "s": "Loona Image Compressor",
+    "d": "Bir GIF'den küçük, evrensel bir JPG hareketsiz görüntüsü.",
+    "k": "gif to jpg converter gif to jpg bir gif den kucuk evrensel bir jpg hareketsiz goruntusu",
+    "p": 132,
+    "c": "Tool"
+  },
+  {
+    "n": "BMP'den JPG'ye Dönüştürücü",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/bmp-to-jpg.html",
+    "s": "Loona Image Compressor",
+    "d": "Devasa BMP dosyalarını %90 veya daha fazla küçültün.",
+    "k": "bmp to jpg converter bmp to jpg devasa bmp dosyalarini 90 veya daha fazla kucultun",
+    "p": 133,
+    "c": "Tool"
+  },
+  {
+    "n": "BMP'den PNG'ye Dönüştürücü",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/bmp-to-png.html",
+    "s": "Loona Image Compressor",
+    "d": "Kayıpsız PNG — BMP'den modern yükseltme.",
+    "k": "bmp to png converter bmp to png kayipsiz png bmp den modern yukseltme",
+    "p": 134,
+    "c": "Tool"
+  },
+  {
+    "n": "SVG'den PNG'ye Dönüştürücü",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/svg-to-png.html",
+    "s": "Loona Image Compressor",
+    "d": "Vektör logolarını herhangi bir boyutta net PNG'ler olarak işleyin.",
+    "k": "svg to png converter svg to png vektor logolarini herhangi bir boyutta net png ler olarak isleyin",
+    "p": 135,
+    "c": "Tool"
+  },
+  {
+    "n": "SVG'den JPG'ye Dönüştürücü",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/svg-to-jpg.html",
+    "s": "Loona Image Compressor",
+    "d": "SVG vektörlerini evrensel JPG'ler olarak işleyin.",
+    "k": "svg to jpg converter svg to jpg svg vektorlerini evrensel jpg ler olarak isleyin",
+    "p": 136,
+    "c": "Tool"
+  }
+]

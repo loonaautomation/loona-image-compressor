@@ -1,0 +1,29 @@
+{
+  "name": "Loona Görüntü Meta Verilerini Kaldırın – JPG, PNG, WebP'den EXIF ve GPS Soyun Ücretsiz",
+  "short_name": "Görüntü Meta Verilerini Kaldırın – JPG, PNG, WebP'den EXIF ve GPS Soyun Ücretsiz",
+  "description": "EXIF, GPS konumu, XMP ve IPTC meta verilerini JPG, PNG ve WebP fotoğraflarından çevrimiçi ücretsiz kaldırın. Bayt düzeyinde soyma — pikseller asla yeniden kodlanmaz, bu yüzden kalite dokunulmamıştır. Yeniden taramayla doğrulanmıştır, tarayıcınızda %100 gizli.",
+  "id": "/loona-image-compressor/tr/remove-image-metadata.html",
+  "start_url": "./remove-image-metadata.html",
+  "scope": "./remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona CTET İmza Boyutu — taranmış kutu, oran yaklaşık 7",
+  "short_name": "CTET İmza Boyutu — taranmış kutu, oran yaklaşık 7",
+  "description": "CTET imza belgenizi duyuru boyutuna (taranmış kutu, oran yaklaşık 7:2) ve 3–30 KB bandına getirin. Ücretsiz, tarayıcınızda — yükleme yok, kayıt yok.",
+  "id": "/loona-image-compressor/tr/ctet-signature-size.html",
+  "start_url": "./ctet-signature-size.html",
+  "scope": "./ctet-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

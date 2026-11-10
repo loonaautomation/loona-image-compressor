@@ -1,0 +1,29 @@
+{
+  "name": "Loona CUET UG Fotoğraf Boyutu — 3.5 × 4.5 cm (300 DPI&#x27;da yaklaşık 413 × 531 px), 10–200 KB",
+  "short_name": "CUET UG Fotoğraf Boyutu — 3.5 × 4.5 cm (300 DPI&#x27;da yaklaşık 413 × 531 px), 10–200 KB",
+  "description": "CUET UG fotoğraf belgenizi duyuru boyutuna (3.5 × 4.5 cm (300 DPI&#x27;da yaklaşık 413 × 531 px)) ve 10–200 KB bandına getirin. Ücretsiz, tarayıcınızda — yükleme yok, kayıt yok.",
+  "id": "/loona-image-compressor/tr/cuet-ug-photo-size.html",
+  "start_url": "./cuet-ug-photo-size.html",
+  "scope": "./cuet-ug-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

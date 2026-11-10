@@ -1,0 +1,29 @@
+{
+  "name": "Loona Renk Seçici – HEX, RGB, HSL ve HSV Dönüştürücü Çevrimiçi Ücretsiz",
+  "short_name": "Renk Seçici – HEX, RGB, HSL ve HSV Dönüştürücü Çevrimiçi Ücretsiz",
+  "description": "Herhangi bir rengi seçin ve HEX, RGB, HSL ve HSV değerlerini anında kopyalayın. Bir tonlar ve gölgeler şeridi içerir — ücretsiz, kayıt yok, tarayıcınızda çalışır.",
+  "id": "/loona-image-compressor/tr/color-picker.html",
+  "start_url": "./color-picker.html",
+  "scope": "./color-picker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

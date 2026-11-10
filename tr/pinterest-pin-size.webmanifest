@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pinterest Standart Pin Boyutu — 1000×1500 px",
+  "short_name": "Pinterest Standart Pin Boyutu — 1000×1500 px",
+  "description": "Tam olarak 1000×1500 px ölçüsünde bir Pinterest standart pin oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
+  "id": "/loona-image-compressor/tr/pinterest-pin-size.html",
+  "start_url": "./pinterest-pin-size.html",
+  "scope": "./pinterest-pin-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

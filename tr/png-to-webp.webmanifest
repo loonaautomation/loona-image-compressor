@@ -1,0 +1,29 @@
+{
+  "name": "Loona PNG'den WebP'ye Dönüştürücü – Ücretsiz Çevrimiçi, Şeffaflığı Korur",
+  "short_name": "PNG'den WebP'ye Dönüştürücü – Ücretsiz Çevrimiçi, Şeffaflığı Korur",
+  "description": "PNG'yi çevrimiçi ücretsiz olarak WebP'ye dönüştürün — şeffaflığı koruyan çok daha küçük dosyalar, web siteleri için mükemmel. Kayıt yok, yükleme yok, tarayıcınızda çalışır.",
+  "id": "/loona-image-compressor/tr/png-to-webp.html",
+  "start_url": "./png-to-webp.html",
+  "scope": "./png-to-webp.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

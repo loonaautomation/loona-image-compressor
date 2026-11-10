@@ -1,0 +1,29 @@
+{
+  "name": "Loona PNG'den JPG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Yüklemesiz",
+  "short_name": "PNG'den JPG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Yüklemesiz",
+  "description": "PNG'yi çevrimiçi ücretsiz olarak JPG'ye dönüştürün. Formlar, e-posta ve web siteleri için daha küçük dosyalar, doğrudan tarayıcınızda — kayıt yok, yükleme yok, filigran yok.",
+  "id": "/loona-image-compressor/tr/png-to-jpg.html",
+  "start_url": "./png-to-jpg.html",
+  "scope": "./png-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

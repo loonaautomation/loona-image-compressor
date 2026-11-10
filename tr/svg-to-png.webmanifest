@@ -1,0 +1,29 @@
+{
+  "name": "Loona SVG'den PNG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Herhangi Bir Boyut",
+  "short_name": "SVG'den PNG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Herhangi Bir Boyut",
+  "description": "SVG'yi çevrimiçi ücretsiz olarak herhangi bir genişlikte PNG'ye dönüştürün — vektör logoları ve simgelerinden net raster görüntüler. Kayıt yok, yükleme yok, tarayıcınızda çalışır.",
+  "id": "/loona-image-compressor/tr/svg-to-png.html",
+  "start_url": "./svg-to-png.html",
+  "scope": "./svg-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

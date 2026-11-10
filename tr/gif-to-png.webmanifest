@@ -1,0 +1,29 @@
+{
+  "name": "Loona GIF'den PNG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Hareketsiz Görüntü",
+  "short_name": "GIF'den PNG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Hareketsiz Görüntü",
+  "description": "GIF'i çevrimiçi ücretsiz olarak PNG'ye dönüştürün — GIF'inizden temiz, kayıpsız bir hareketsiz görüntü. Tarayıcı tabanlı, kayıt yok, yükleme yok, filigran yok.",
+  "id": "/loona-image-compressor/tr/gif-to-png.html",
+  "start_url": "./gif-to-png.html",
+  "scope": "./gif-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

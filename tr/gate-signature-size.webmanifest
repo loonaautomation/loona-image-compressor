@@ -1,0 +1,29 @@
+{
+  "name": "Loona GATE İmza Boyutu — taranmış kutu, oran yaklaşık 7",
+  "short_name": "GATE İmza Boyutu — taranmış kutu, oran yaklaşık 7",
+  "description": "GATE imza belgenizi duyuru boyutuna (taranmış kutu, oran yaklaşık 7:2) ve 3–100 KB bandına getirin. Ücretsiz, tarayıcınızda — yükleme yok, kayıt yok.",
+  "id": "/loona-image-compressor/tr/gate-signature-size.html",
+  "start_url": "./gate-signature-size.html",
+  "scope": "./gate-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

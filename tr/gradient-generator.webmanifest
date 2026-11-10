@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSS Degrade Oluşturucu – Kopyalanabilir Kodla Doğrusal Degradeler",
+  "short_name": "CSS Degrade Oluşturucu – Kopyalanabilir Kodla Doğrusal Degradeler",
+  "description": "İki veya üç renkle ve herhangi bir açıyla CSS doğrusal degradeler oluşturun, onları canlı önizleyin ve hazır CSS kodunu kopyalayın. Ücretsiz, kayıt yok.",
+  "id": "/loona-image-compressor/tr/gradient-generator.html",
+  "start_url": "./gradient-generator.html",
+  "scope": "./gradient-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

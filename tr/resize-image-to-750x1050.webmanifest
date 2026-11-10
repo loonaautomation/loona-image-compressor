@@ -1,0 +1,29 @@
+{
+  "name": "Loona Görüntüyü 750 × 1050 px Boyutuna Çevrimiçi Getir — Ücretsiz",
+  "short_name": "Görüntüyü 750 × 1050 px Boyutuna Çevrimiçi Getir — Ücretsiz",
+  "description": "Herhangi bir görüntüyü tam olarak 750×1050 px boyutuna getirin — Cüzdan boyutu — 2.5 × 3.5 inç, 300 DPI&#x27;da. Kırpma kontrolüyle tarayıcınızda ücretsiz; yükleme yok, kayıt yok.",
+  "id": "/loona-image-compressor/tr/resize-image-to-750x1050.html",
+  "start_url": "./resize-image-to-750x1050.html",
+  "scope": "./resize-image-to-750x1050.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

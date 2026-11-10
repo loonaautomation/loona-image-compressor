@@ -1,0 +1,29 @@
+{
+  "name": "Loona YouTube Kanal Bannerı Boyutu — 2560×1440 px",
+  "short_name": "YouTube Kanal Bannerı Boyutu — 2560×1440 px",
+  "description": "Tam olarak 2560×1440 px ölçüsünde bir YouTube kanal bannerı oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
+  "id": "/loona-image-compressor/tr/youtube-banner-size.html",
+  "start_url": "./youtube-banner-size.html",
+  "scope": "./youtube-banner-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

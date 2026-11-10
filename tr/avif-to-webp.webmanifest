@@ -1,0 +1,29 @@
+{
+  "name": "Loona AVIF → WEBP Dönüştürücü – Ücretsiz, Yüklemesiz",
+  "short_name": "AVIF → WEBP Dönüştürücü – Ücretsiz, Yüklemesiz",
+  "description": "AVIF formatını WEBP formatına çevrimiçi, ücretsiz, tarayıcınızda dönüştürün. Cihazınızda gerçek dönüştürme — yükleme yok, kayıt yok, filigran yok.",
+  "id": "/loona-image-compressor/tr/avif-to-webp.html",
+  "start_url": "./avif-to-webp.html",
+  "scope": "./avif-to-webp.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

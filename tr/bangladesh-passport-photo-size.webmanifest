@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bangladeş Pasaport Fotoğrafı Boyutu — 40×50mm (472×591px) Oluşturucu",
+  "short_name": "Bangladeş Pasaport Fotoğrafı Boyutu — 40×50mm (472×591px) Oluşturucu",
+  "description": "Resmi boyut olan 40×50 mm (472×591 px) ölçüsünde, düz beyaz arka planlı bir Bangladeş Pasaport Fotoğrafı oluşturun. Ücretsiz çevrimiçi oluşturucu — kırpın, indirin ve baskı sayfası alın, yükleme yok.",
+  "id": "/loona-image-compressor/tr/bangladesh-passport-photo-size.html",
+  "start_url": "./bangladesh-passport-photo-size.html",
+  "scope": "./bangladesh-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

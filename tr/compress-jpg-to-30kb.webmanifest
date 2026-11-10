@@ -1,0 +1,29 @@
+{
+  "name": "Loona JPG Görüntüsünü 30 KB&#x27;ye Çevrimiçi Sıkıştır – Ücretsiz, Yüklemesiz",
+  "short_name": "JPG Görüntüsünü 30 KB&#x27;ye Çevrimiçi Sıkıştır – Ücretsiz, Yüklemesiz",
+  "description": "Bir JPG görüntüsünü 30 KB veya altına, tarayıcınızda ücretsiz sıkıştırın. Otomatik arama, sığan en iyi kaliteyi bulur — kayıt yok, yükleme yok.",
+  "id": "/loona-image-compressor/tr/compress-jpg-to-30kb.html",
+  "start_url": "./compress-jpg-to-30kb.html",
+  "scope": "./compress-jpg-to-30kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
