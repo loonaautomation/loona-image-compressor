@@ -1,0 +1,29 @@
+{
+  "name": "Loona Melhorador de Imagens",
+  "short_name": "Melhorador de Imagens",
+  "description": "Melhore uma fotografia online gratuitamente: melhoria automática com um clique, nitidez para fotografias suaves, limpeza suave do ruído e ampliação 2x ou 4x. Resultados honestos, sem registo, e a sua fotografia nunca sai do seu dispositivo.",
+  "id": "/loona-image-compressor/pt/image-enhancer.html",
+  "start_url": "./image-enhancer.html",
+  "scope": "./image-enhancer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

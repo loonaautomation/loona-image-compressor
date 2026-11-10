@@ -1,0 +1,29 @@
+{
+  "name": "Loona Image Enhancer",
+  "short_name": "Image Enhancer",
+  "description": "Enhance a photo online for free: one-click auto enhance, sharpen soft photos, gently clean noise and upscale 2x or 4x. Honest results, no signup, and your photo never leaves your device.",
+  "id": "/loona-image-compressor/image-enhancer.html",
+  "start_url": "./image-enhancer.html",
+  "scope": "./image-enhancer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
