@@ -1,0 +1,29 @@
+{
+ "name": "Loona Размер Логотип страницы компании для LinkedIn",
+ "short_name": "Размер Логотип страницы компании для LinkedIn",
+ "description": "Make a LinkedIn company page logo at exactly 300×300 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
+ "id": "/loona-image-compressor/linkedin-company-logo-size.html",
+ "start_url": "./linkedin-company-logo-size.html",
+ "scope": "./linkedin-company-logo-size.html",
+ "display": "standalone",
+ "background_color": "#062e2a",
+ "theme_color": "#062e2a",
+ "icons": [
+  {
+   "src": "/loona-image-compressor/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/loona-image-compressor/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "/loona-image-compressor/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

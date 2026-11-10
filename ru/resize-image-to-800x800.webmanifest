@@ -1,0 +1,29 @@
+{
+ "name": "Loona Изменить размер изображения до 800 × 800",
+ "short_name": "Изменить размер изображения до 800 × 800",
+ "description": "Resize any image to exactly 800 × 800 pixels (marketplace and product listing photos) for free. Cover, contain or stretch, JPG or PNG, download instantly — no signup, nothing uploaded.",
+ "id": "/loona-image-compressor/resize-image-to-800x800.html",
+ "start_url": "./resize-image-to-800x800.html",
+ "scope": "./resize-image-to-800x800.html",
+ "display": "standalone",
+ "background_color": "#062e2a",
+ "theme_color": "#062e2a",
+ "icons": [
+  {
+   "src": "/loona-image-compressor/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/loona-image-compressor/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "/loona-image-compressor/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

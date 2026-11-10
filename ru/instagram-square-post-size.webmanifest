@@ -1,0 +1,29 @@
+{
+ "name": "Loona Квадратная публикация для Instagram (1",
+ "short_name": "Квадратная публикация для Instagram (1",
+ "description": "Make a Instagram square post (1:1) at exactly 1080×1080 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
+ "id": "/loona-image-compressor/instagram-square-post-size.html",
+ "start_url": "./instagram-square-post-size.html",
+ "scope": "./instagram-square-post-size.html",
+ "display": "standalone",
+ "background_color": "#062e2a",
+ "theme_color": "#062e2a",
+ "icons": [
+  {
+   "src": "/loona-image-compressor/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/loona-image-compressor/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "/loona-image-compressor/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

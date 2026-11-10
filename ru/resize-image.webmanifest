@@ -1,0 +1,29 @@
+{
+ "name": "Loona Изменить размер изображения",
+ "short_name": "Изменить размер изображения",
+ "description": "Resize any image by pixels, cm or inches with a DPI setting for free. Keep aspect ratio, pick JPG, PNG or WebP and download instantly — no signup needed.",
+ "id": "/loona-image-compressor/resize-image.html",
+ "start_url": "./resize-image.html",
+ "scope": "./resize-image.html",
+ "display": "standalone",
+ "background_color": "#062e2a",
+ "theme_color": "#062e2a",
+ "icons": [
+  {
+   "src": "/loona-image-compressor/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/loona-image-compressor/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "/loona-image-compressor/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

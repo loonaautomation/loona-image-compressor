@@ -1,0 +1,29 @@
+{
+ "name": "Loona Размер фото Фото на паспорт ЮАР",
+ "short_name": "Размер фото Фото на паспорт ЮАР",
+ "description": "Make a South Africa Passport Photo at the official size 35×45 mm (413×531 px), plain white or light grey background. Free online maker — crop, download and print sheet, no upload.",
+ "id": "/loona-image-compressor/south-africa-passport-photo-size.html",
+ "start_url": "./south-africa-passport-photo-size.html",
+ "scope": "./south-africa-passport-photo-size.html",
+ "display": "standalone",
+ "background_color": "#062e2a",
+ "theme_color": "#062e2a",
+ "icons": [
+  {
+   "src": "/loona-image-compressor/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/loona-image-compressor/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "/loona-image-compressor/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
