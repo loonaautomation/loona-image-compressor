@@ -1,0 +1,29 @@
+{
+  "name": "Loona Afbeelding verkleinen/vergroten naar 1024 × 1024 px online",
+  "short_name": "Afbeelding",
+  "description": "Pas elke afbeelding aan naar precies 1024×1024 px — Standaardvierkant voor app-iconen en AI-afbeeldingen. Gratis in je browser met bijsnijdcontrole; geen upload, geen aanmelding.",
+  "id": "/loona-image-compressor/nl/resize-image-to-1024x1024.html",
+  "start_url": "./resize-image-to-1024x1024.html",
+  "scope": "./resize-image-to-1024x1024.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Verwijder GPS van foto",
+  "short_name": "Verwijder GPS van foto",
+  "description": "Verwijder alleen de GPS-locatie van een JPG-, PNG- of WebP-foto en behoud de camera-, datum- en belichtingsgegevens. Byte voor byte, geen hercodering, geverifieerd door een herscan — 100% in je browser, niets geüpload.",
+  "id": "/loona-image-compressor/nl/remove-gps-from-photo.html",
+  "start_url": "./remove-gps-from-photo.html",
+  "scope": "./remove-gps-from-photo.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

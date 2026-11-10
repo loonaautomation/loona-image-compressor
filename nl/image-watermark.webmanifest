@@ -1,0 +1,29 @@
+{
+  "name": "Loona Afbeeldingswatermerk",
+  "short_name": "Afbeeldingswatermerk",
+  "description": "Voeg gratis online een tekstwatermerk toe aan elke foto — kies de tekst, grootte, kleur, dekking en positie, of herhaal het als een betegeld patroon. Live voorbeeld, geen aanmelding, en je afbeelding verlaat je apparaat nooit.",
+  "id": "/loona-image-compressor/nl/image-watermark.html",
+  "start_url": "./image-watermark.html",
+  "scope": "./image-watermark.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

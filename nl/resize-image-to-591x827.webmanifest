@@ -1,0 +1,29 @@
+{
+  "name": "Loona Afbeelding verkleinen/vergroten naar 591 × 827 px online",
+  "short_name": "Afbeelding",
+  "description": "Pas elke afbeelding aan naar precies 591×827 px — 50 × 70 mm bij 300 DPI — paspoortformaat Canada/Brazilië. Gratis in je browser met bijsnijdcontrole; geen upload, geen aanmelding.",
+  "id": "/loona-image-compressor/nl/resize-image-to-591x827.html",
+  "start_url": "./resize-image-to-591x827.html",
+  "scope": "./resize-image-to-591x827.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

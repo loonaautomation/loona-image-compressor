@@ -1,0 +1,29 @@
+{
+  "name": "Loona Memegenerator",
+  "short_name": "Memegenerator",
+  "description": "Verander elke foto in een klassieke meme met vette tekst boven- en onderaan — gratis online memegenerator met live voorbeeld, opties voor effen achtergronden en PNG-download. Geen aanmelding, en je afbeelding verlaat je apparaat nooit.",
+  "id": "/loona-image-compressor/nl/meme-generator.html",
+  "start_url": "./meme-generator.html",
+  "scope": "./meme-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

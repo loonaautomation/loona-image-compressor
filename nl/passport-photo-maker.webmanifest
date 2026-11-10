@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pasfotomaker op paspoortformaat",
+  "short_name": "Pasfotomaker op",
+  "description": "Maak gratis online een pasfoto op paspoortformaat: snijd elke foto bij tot 35×45 mm of 2×2 inch op printklare 300 DPI. Geen aanmelding, geen watermerk, volledig privé.",
+  "id": "/loona-image-compressor/nl/passport-photo-maker.html",
+  "start_url": "./passport-photo-maker.html",
+  "scope": "./passport-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

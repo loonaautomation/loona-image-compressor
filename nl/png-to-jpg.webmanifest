@@ -1,0 +1,29 @@
+{
+  "name": "Loona PNG naar JPG Converter",
+  "short_name": "PNG naar JPG Converter",
+  "description": "Converteer PNG gratis online naar JPG. Kleinere bestanden voor formulieren, e-mail en websites, direct in je browser — geen aanmelding, geen upload, geen watermerk.",
+  "id": "/loona-image-compressor/nl/png-to-jpg.html",
+  "start_url": "./png-to-jpg.html",
+  "scope": "./png-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Formaat IBPS RRB (Gramin Bank) Handtekening",
+  "short_name": "Formaat IBPS RRB (Gramin",
+  "description": "Pas je IBPS RRB (Gramin Bank)-handtekening aan naar het formaat uit de aankondiging (140 × 60 px) en de band van 10–20 KB. Gratis, in je browser — geen upload, geen aanmelding.",
+  "id": "/loona-image-compressor/nl/ibps-rrb-signature-size.html",
+  "start_url": "./ibps-rrb-signature-size.html",
+  "scope": "./ibps-rrb-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

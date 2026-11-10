@@ -1,0 +1,29 @@
+{
+  "name": "Loona Formaat Instagram Vierkante post (1",
+  "short_name": "Formaat Instagram Vierkante",
+  "description": "Maak een Instagram vierkante post (1:1) op precies 1080×1080 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
+  "id": "/loona-image-compressor/nl/instagram-square-post-size.html",
+  "start_url": "./instagram-square-post-size.html",
+  "scope": "./instagram-square-post-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

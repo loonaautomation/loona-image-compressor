@@ -1,0 +1,29 @@
+{
+  "name": "Loona Examenfoto met naam &amp; datum",
+  "short_name": "Examenfoto met naam &amp;",
+  "description": "Maak gratis een examenfoto met je naam en datum onderaan geprint — het examenformaat dat in Pakistan en India wordt gebruikt. Privé, geen aanmelding nodig.",
+  "id": "/loona-image-compressor/nl/exam-photo-name-date.html",
+  "start_url": "./exam-photo-name-date.html",
+  "scope": "./exam-photo-name-date.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

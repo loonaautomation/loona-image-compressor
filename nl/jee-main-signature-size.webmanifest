@@ -1,0 +1,29 @@
+{
+  "name": "Loona Formaat JEE Main Handtekening",
+  "short_name": "Formaat JEE Main Handtekening",
+  "description": "Pas je JEE Main-handtekening aan naar het formaat uit de aankondiging (gescand vak, verhouding ongeveer 7:2) en de band van 4–30 KB. Gratis, in je browser — geen upload, geen aanmelding.",
+  "id": "/loona-image-compressor/nl/jee-main-signature-size.html",
+  "start_url": "./jee-main-signature-size.html",
+  "scope": "./jee-main-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

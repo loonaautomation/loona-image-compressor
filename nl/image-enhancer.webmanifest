@@ -1,0 +1,29 @@
+{
+  "name": "Loona Afbeeldingsverbeteraar",
+  "short_name": "Afbeeldingsverbeteraar",
+  "description": "Verbeter een foto gratis online: automatisch verbeteren met één klik, zachte foto's verscherpen, ruis voorzichtig opschonen en 2x of 4x opschalen. Eerlijke resultaten, geen aanmelding, en je foto verlaat je apparaat nooit.",
+  "id": "/loona-image-compressor/nl/image-enhancer.html",
+  "start_url": "./image-enhancer.html",
+  "scope": "./image-enhancer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

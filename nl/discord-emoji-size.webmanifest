@@ -1,0 +1,29 @@
+{
+  "name": "Loona Formaat Discord Aangepaste emoji",
+  "short_name": "Formaat Discord Aangepaste",
+  "description": "Maak een Discord aangepaste emoji op precies 128×128 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
+  "id": "/loona-image-compressor/nl/discord-emoji-size.html",
+  "start_url": "./discord-emoji-size.html",
+  "scope": "./discord-emoji-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

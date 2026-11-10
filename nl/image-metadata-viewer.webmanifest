@@ -1,0 +1,29 @@
+{
+  "name": "Loona Viewer voor afbeeldingsmetadata & EXIF",
+  "short_name": "Viewer voor",
+  "description": "Bekijk gratis online de verborgen metadata in elke JPG-, PNG- of WebP-foto — cameramerk en -model, datum van opname, belichting, ISO, brandpuntsafstand, GPS-locatie, IPTC- en XMP-basis. Er wordt niets geüpload: je foto verlaat je apparaat nooit.",
+  "id": "/loona-image-compressor/nl/image-metadata-viewer.html",
+  "start_url": "./image-metadata-viewer.html",
+  "scope": "./image-metadata-viewer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
