@@ -1,0 +1,29 @@
+{
+  "name": "Loona حجم الصورة المصغرة للفيديو YouTube",
+  "short_name": "حجم الصورة المصغرة للفيديو",
+  "description": "اصنع الصورة المصغرة للفيديو YouTube بمقاس 1280×720 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
+  "id": "/loona-image-compressor/ar/youtube-thumbnail-size.html",
+  "start_url": "./youtube-thumbnail-size.html",
+  "scope": "./youtube-thumbnail-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

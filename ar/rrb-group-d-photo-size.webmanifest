@@ -1,0 +1,29 @@
+{
+  "name": "Loona حجم الصورة الفوتوغرافية RRB Group D",
+  "short_name": "حجم الصورة الفوتوغرافية RRB",
+  "description": "غيّر حجم الصورة الخاص بك لامتحان RRB Group D (Railways) إلى حجم الإشعار (320 × 240 px) ونطاق 30–70 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
+  "id": "/loona-image-compressor/ar/rrb-group-d-photo-size.html",
+  "start_url": "./rrb-group-d-photo-size.html",
+  "scope": "./rrb-group-d-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

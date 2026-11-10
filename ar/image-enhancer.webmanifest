@@ -1,0 +1,29 @@
+{
+  "name": "Loona محسّن الصور",
+  "short_name": "محسّن الصور",
+  "description": "حسّن صورة عبر الإنترنت مجانًا: تحسين تلقائي بنقرة واحدة، اشحذ الصور الناعمة، نظّف الضوضاء بلطف وكبّر 2x أو 4x. نتائج صادقة، بلا تسجيل، وصورتك لا تغادر جهازك أبدًا.",
+  "id": "/loona-image-compressor/ar/image-enhancer.html",
+  "start_url": "./image-enhancer.html",
+  "scope": "./image-enhancer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

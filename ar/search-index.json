@@ -1,0 +1,335 @@
+[
+ {
+  "n": "ضاغط الصور",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/",
+  "s": "Loona Image Compressor",
+  "d": "اضغط صور JPG وPNG & WebP مجانًا عبر الإنترنت إلى حجم دقيق — 50KB، 100KB، 200KB. ضغط جماعي، تغيير حجم، تنزيل ZIP. بلا تسجيل، بلا علامة مائية، خصوصية 100%.",
+  "k": "ضاغط الصور اضغط صور jpg وpng webp مجانا عبر الانترنت الى حجم دقيق 50kb 100kb 200kb ضغط جماعي تغيير حجم تنزيل zip بلا تسجيل بلا علامة مائية خصوصية 100",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "صانع صور حجم جواز السفر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/passport-photo-maker.html",
+  "s": "Loona Image Compressor",
+  "d": "اقص أي صورة إلى 35×45 mm أو 2×2 بوصة عند 300 DPI الجاهز للطباعة.",
+  "k": "passport size photo maker passport photo maker اقص اي صورة الى 35 45 mm او 2 2 بوصة عند 300 dpi الجاهز للطباعة",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "صانع صور NADRA / CNIC",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/nadra-cnic-photo-maker.html",
+  "s": "Loona Image Compressor",
+  "d": "صورة دقيقة 350 × 467 px لطلبات Pak-ID عبر الإنترنت.",
+  "k": "nadra cnic photo maker nadra cnic photo maker صورة دقيقة 350 467 px لطلبات pak id عبر الانترنت",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "صانع صور التأشيرة",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/visa-photo-maker.html",
+  "s": "Loona Image Compressor",
+  "d": "أحجام صور تأشيرات الولايات المتحدة والمملكة المتحدة وشنغن والصين في مكان واحد.",
+  "k": "visa photo maker visa photo maker احجام صور تاشيرات الولايات المتحدة والمملكة المتحدة وشنغن والصين في مكان واحد",
+  "p": 103,
+  "c": "Tool"
+ },
+ {
+  "n": "مغيّر خلفية الصور",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/photo-background-changer.html",
+  "s": "Loona Image Compressor",
+  "d": "حوّل خلفية صورة إلى الأبيض أو الأزرق أو الرمادي الفاتح.",
+  "k": "photo background changer photo background changer حول خلفية صورة الى الابيض او الازرق او الرمادي الفاتح",
+  "p": 104,
+  "c": "Tool"
+ },
+ {
+  "n": "صورة امتحان مع الاسم والتاريخ",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/exam-photo-name-date.html",
+  "s": "Loona Image Compressor",
+  "d": "أضف شريط اسم وتاريخ تحت صورتك لامتحانات المجالس.",
+  "k": "exam photo with name date exam photo name date اضف شريط اسم وتاريخ تحت صورتك لامتحانات المجالس",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "ورقة طباعة صور جواز السفر",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/passport-photo-print-sheet.html",
+  "s": "Loona Image Compressor",
+  "d": "ضع 4 أو 6 أو 8 صور جواز سفر على ورقة A4 واحدة واطبع في المنزل.",
+  "k": "passport photo print sheet passport photo print sheet ضع 4 او 6 او 8 صور جواز سفر على ورقة a4 واحدة واطبع في المنزل",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "تغيير حجم الصورة",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/resize-image.html",
+  "s": "Loona Image Compressor",
+  "d": "غيّر الحجم بالبكسل أو cm أو البوصة، مع إعداد DPI للطباعة.",
+  "k": "resize image resize image غير الحجم بالبكسل او cm او البوصة مع اعداد dpi للطباعة",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "قص الصورة",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/crop-image.html",
+  "s": "Loona Image Compressor",
+  "d": "قص مجاني بالإضافة إلى نسب جاهزة — 1:1، 4:3، جواز سفر وأكثر.",
+  "k": "crop image crop image قص مجاني بالاضافة الى نسب جاهزة 1 1 4 3 جواز سفر واكثر",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "صورة إلى PDF",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/photo-to-pdf.html",
+  "s": "Loona Image Compressor",
+  "d": "حوّل صورة واحدة أو أكثر إلى ملف PDF واحد.",
+  "k": "photo to pdf photo to pdf حول صورة واحدة او اكثر الى ملف pdf واحد",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "محوّل صيغ الصور",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/image-format-converter.html",
+  "s": "Loona Image Compressor",
+  "d": "حوّل JPG وPNG وWebP في كلا الاتجاهين، مع تحكم في الجودة.",
+  "k": "image format converter image format converter حول jpg وpng وwebp في كلا الاتجاهين مع تحكم في الجودة",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "فلاتر الصور & إصلاح",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/photo-filters-editor.html",
+  "s": "Loona Image Compressor",
+  "d": "أصلح السطوع والتباين والحدة في ثوانٍ.",
+  "k": "photo filters fix photo filters editor اصلح السطوع والتباين والحدة في ثوان",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "محسّن الصور",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/image-enhancer.html",
+  "s": "Loona Image Compressor",
+  "d": "حسّن واشحذ وكبّر الصور تلقائيًا حتى 4x.",
+  "k": "image enhancer image enhancer حسن واشحذ وكبر الصور تلقائيا حتى 4x تكبير مكبر شحذ ضبابية ضبابي hd جودة تحسين محرر اصلاح",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "علامة مائية للصور",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/image-watermark.html",
+  "s": "Loona Image Compressor",
+  "d": "أضف علامة مائية نصية — اضبط الحجم واللون والشفافية والموضع أو بلّطها.",
+  "k": "image watermark image watermark اضف علامة مائية نصية اضبط الحجم واللون والشفافية والموضع او بلطها",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "مولّد الميمات",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/meme-generator.html",
+  "s": "Loona Image Compressor",
+  "d": "نص ميم علوي وسفلي كلاسيكي على أي صورة، في ثوانٍ.",
+  "k": "meme generator meme generator نص ميم علوي وسفلي كلاسيكي على اي صورة في ثوان",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "تعتيم الوجه",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/face-blur.html",
+  "s": "Loona Image Compressor",
+  "d": "عتّم أو بكسّل الوجوه واللوحات والتفاصيل الخاصة قبل المشاركة.",
+  "k": "face blur face blur عتم او بكسل الوجوه واللوحات والتفاصيل الخاصة قبل المشاركة",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "منتقي الألوان",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/color-picker.html",
+  "s": "Loona Image Compressor",
+  "d": "اختر أي لون وانسخ قيم HEX وRGB وHSL وHSV الخاصة به.",
+  "k": "color picker color picker اختر اي لون وانسخ قيم hex وrgb وhsl وhsv الخاصة به",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "مولّد لوحات الألوان",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/color-palette-generator.html",
+  "s": "Loona Image Compressor",
+  "d": "لوحات متناغمة من أي لون أساسي، بنقرة واحدة.",
+  "k": "color palette generator color palette generator لوحات متناغمة من اي لون اساسي بنقرة واحدة",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "فاحص التباين",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/contrast-checker.html",
+  "s": "Loona Image Compressor",
+  "d": "تحقق من ألوان النص مقابل قواعد تباين WCAG AA وAAA.",
+  "k": "contrast checker contrast checker تحقق من الوان النص مقابل قواعد تباين wcag aa وaaa",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "مولّد تدرج CSS",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/gradient-generator.html",
+  "s": "Loona Image Compressor",
+  "d": "ابنِ تدرجات خطية وانسخ كود CSS فورًا.",
+  "k": "css gradient generator gradient generator ابن تدرجات خطية وانسخ كود css فورا",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "عارض بيانات الصور الوصفية & EXIF",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/image-metadata-viewer.html",
+  "s": "Loona Image Compressor",
+  "d": "انظر EXIF وGPS وبيانات الكاميرا والتاريخ مخبأة داخل أي صورة.",
+  "k": "image metadata exif viewer image metadata viewer انظر exif وgps وبيانات الكاميرا والتاريخ مخباة داخل اي صورة",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "إزالة بيانات الصور الوصفية",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/remove-image-metadata.html",
+  "s": "Loona Image Compressor",
+  "d": "جرّد EXIF وGPS وXMP من صورة — البكسلات لم تُمس.",
+  "k": "remove image metadata remove image metadata جرد exif وgps وxmp من صورة البكسلات لم تمس",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "محرر EXIF",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/edit-image-metadata.html",
+  "s": "Loona Image Compressor",
+  "d": "حرّر تاريخ التقاط JPG وفنانه وحقوق النشر والصانع والطراز.",
+  "k": "exif editor edit image metadata حرر تاريخ التقاط jpg وفنانه وحقوق النشر والصانع والطراز",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "إزالة GPS من الصورة",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/remove-gps-from-photo.html",
+  "s": "Loona Image Compressor",
+  "d": "احذف بيانات الموقع فقط وأبقِ بقية EXIF.",
+  "k": "remove gps from photo remove gps from photo احذف بيانات الموقع فقط وابق بقية exif",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "مزيل بيانات وصفية جماعي",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/bulk-remove-image-metadata.html",
+  "s": "Loona Image Compressor",
+  "d": "جرّد البيانات الوصفية من صور كثيرة دفعة واحدة ونزّل ZIP.",
+  "k": "bulk metadata remover bulk remove image metadata جرد البيانات الوصفية من صور كثيرة دفعة واحدة ونزل zip",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "محوّل PNG إلى JPG",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/png-to-jpg.html",
+  "s": "Loona Image Compressor",
+  "d": "حوّل صور ولقطات PNG إلى ملفات JPG أصغر بكثير.",
+  "k": "png to jpg converter png to jpg حول صور ولقطات png الى ملفات jpg اصغر بكثير",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "محوّل JPG إلى PNG",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/jpg-to-png.html",
+  "s": "Loona Image Compressor",
+  "d": "نسخ PNG بلا فقدان من ملفات JPG الخاصة بك للمحررات وأدوات التصميم.",
+  "k": "jpg to png converter jpg to png نسخ png بلا فقدان من ملفات jpg الخاصة بك للمحررات وادوات التصميم",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "محوّل JPG إلى WebP",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/jpg-to-webp.html",
+  "s": "Loona Image Compressor",
+  "d": "قلّص ملفات JPG بنسبة 25–40% لمواقع أسرع.",
+  "k": "jpg to webp converter jpg to webp قلص ملفات jpg بنسبة 25 40 لمواقع اسرع",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "محوّل WebP إلى JPG",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/webp-to-jpg.html",
+  "s": "Loona Image Compressor",
+  "d": "اجعل صور WebP تفتح في كل مكان بصيغة JPG.",
+  "k": "webp to jpg converter webp to jpg اجعل صور webp تفتح في كل مكان بصيغة jpg",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "محوّل PNG إلى WebP",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/png-to-webp.html",
+  "s": "Loona Image Compressor",
+  "d": "رسوم ويب أصغر تحتفظ بالشفافية.",
+  "k": "png to webp converter png to webp رسوم ويب اصغر تحتفظ بالشفافية",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "محوّل WebP إلى PNG",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/webp-to-png.html",
+  "s": "Loona Image Compressor",
+  "d": "PNG بلا فقدان من WebP للمحررات والطباعة.",
+  "k": "webp to png converter webp to png png بلا فقدان من webp للمحررات والطباعة",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "محوّل GIF إلى PNG",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/gif-to-png.html",
+  "s": "Loona Image Compressor",
+  "d": "صورة ثابتة نظيفة بلا فقدان من أي GIF.",
+  "k": "gif to png converter gif to png صورة ثابتة نظيفة بلا فقدان من اي gif",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "محوّل GIF إلى JPG",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/gif-to-jpg.html",
+  "s": "Loona Image Compressor",
+  "d": "صورة JPG ثابتة عالمية صغيرة من GIF.",
+  "k": "gif to jpg converter gif to jpg صورة jpg ثابتة عالمية صغيرة من gif",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "محوّل BMP إلى JPG",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/bmp-to-jpg.html",
+  "s": "Loona Image Compressor",
+  "d": "قلّص ملفات BMP الضخمة بنسبة 90% أو أكثر.",
+  "k": "bmp to jpg converter bmp to jpg قلص ملفات bmp الضخمة بنسبة 90 او اكثر",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "محوّل BMP إلى PNG",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/bmp-to-png.html",
+  "s": "Loona Image Compressor",
+  "d": "PNG بلا فقدان — الترقية الحديثة من BMP.",
+  "k": "bmp to png converter bmp to png png بلا فقدان الترقية الحديثة من bmp",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "محوّل SVG إلى PNG",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/svg-to-png.html",
+  "s": "Loona Image Compressor",
+  "d": "عرّض شعارات المتجهات كملفات PNG حادة بأي حجم.",
+  "k": "svg to png converter svg to png عرض شعارات المتجهات كملفات png حادة باي حجم",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "محوّل SVG إلى JPG",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/svg-to-jpg.html",
+  "s": "Loona Image Compressor",
+  "d": "عرّض متجهات SVG كملفات JPG عالمية.",
+  "k": "svg to jpg converter svg to jpg عرض متجهات svg كملفات jpg عالمية",
+  "p": 136,
+  "c": "Tool"
+ }
+]

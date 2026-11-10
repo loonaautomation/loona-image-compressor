@@ -1,0 +1,29 @@
+{
+  "name": "Loona حجم صورة جواز السفر السنغافوري",
+  "short_name": "حجم صورة جواز السفر السنغافوري",
+  "description": "اصنع صورة جواز السفر السنغافوري بالحجم الرسمي 35×45 mm (413×531 px)، خلفية بيضاء سادة. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
+  "id": "/loona-image-compressor/ar/singapore-passport-photo-size.html",
+  "start_url": "./singapore-passport-photo-size.html",
+  "scope": "./singapore-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

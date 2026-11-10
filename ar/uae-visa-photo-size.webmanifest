@@ -1,0 +1,29 @@
+{
+  "name": "Loona حجم صورة تأشيرة الإمارات / الهوية",
+  "short_name": "حجم صورة تأشيرة الإمارات /",
+  "description": "اصنع صورة تأشيرة الإمارات / الهوية الإماراتية بالحجم الرسمي 40×60 mm (472×709 px)، خلفية بيضاء سادة. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
+  "id": "/loona-image-compressor/ar/uae-visa-photo-size.html",
+  "start_url": "./uae-visa-photo-size.html",
+  "scope": "./uae-visa-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

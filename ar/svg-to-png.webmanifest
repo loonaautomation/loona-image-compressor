@@ -1,0 +1,29 @@
+{
+  "name": "Loona محوّل SVG إلى PNG",
+  "short_name": "محوّل SVG إلى PNG",
+  "description": "حوّل SVG إلى PNG عبر الإنترنت مجانًا بأي عرض — صور نقطية حادة من شعارات ورسوم المتجهات. بلا تسجيل، بلا رفع، يعمل في متصفحك.",
+  "id": "/loona-image-compressor/ar/svg-to-png.html",
+  "start_url": "./svg-to-png.html",
+  "scope": "./svg-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona حجم صورة قرعة تأشيرة التنوع الأمريكية",
+  "short_name": "حجم صورة قرعة تأشيرة التنوع",
+  "description": "اصنع صورة قرعة تأشيرة التنوع الأمريكية (قرعة البطاقة الخضراء) بالحجم الرسمي 51×51 mm (600×600 px)، خلفية بيضاء سادة أو مائلة للبياض. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
+  "id": "/loona-image-compressor/ar/us-dv-lottery-photo-size.html",
+  "start_url": "./us-dv-lottery-photo-size.html",
+  "scope": "./us-dv-lottery-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona حجم صورة جواز السفر الهولندي",
+  "short_name": "حجم صورة جواز السفر الهولندي",
+  "description": "اصنع صورة جواز السفر الهولندي بالحجم الرسمي 35×45 mm (413×531 px)، خلفية رمادية فاتحة سادة أو بيضاء، مضاءة بالتساوي. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
+  "id": "/loona-image-compressor/ar/netherlands-passport-photo-size.html",
+  "start_url": "./netherlands-passport-photo-size.html",
+  "scope": "./netherlands-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

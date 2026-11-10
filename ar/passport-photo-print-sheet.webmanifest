@@ -1,0 +1,29 @@
+{
+  "name": "Loona ورقة طباعة صور جواز السفر",
+  "short_name": "ورقة طباعة صور جواز السفر",
+  "description": "ضع 4 أو 6 أو 8 صور جواز سفر على ورقة طباعة A4 واحدة مجانًا عند 300 DPI. اطبع عند 100%، اقص على الأدلة ووفّر مال الاستوديو. بلا تسجيل، خصوصية كاملة.",
+  "id": "/loona-image-compressor/ar/passport-photo-print-sheet.html",
+  "start_url": "./passport-photo-print-sheet.html",
+  "scope": "./passport-photo-print-sheet.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

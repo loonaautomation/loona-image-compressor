@@ -1,0 +1,29 @@
+{
+  "name": "Loona حجم الصورة الفوتوغرافية CUET UG",
+  "short_name": "حجم الصورة الفوتوغرافية CUET",
+  "description": "غيّر حجم الصورة الخاص بك لامتحان CUET UG إلى حجم الإشعار (3.5 × 4.5 cm (نحو 413 × 531 px عند 300 DPI)) ونطاق 10–200 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
+  "id": "/loona-image-compressor/ar/cuet-ug-photo-size.html",
+  "start_url": "./cuet-ug-photo-size.html",
+  "scope": "./cuet-ug-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

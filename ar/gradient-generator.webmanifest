@@ -1,0 +1,29 @@
+{
+  "name": "Loona مولّد تدرج CSS",
+  "short_name": "مولّد تدرج CSS",
+  "description": "ابنِ تدرجات خطية CSS بلونين أو ثلاثة ألوان وأي زاوية، عاينها مباشرة وانسخ كود CSS الجاهز. مجانًا، بلا تسجيل.",
+  "id": "/loona-image-compressor/ar/gradient-generator.html",
+  "start_url": "./gradient-generator.html",
+  "scope": "./gradient-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

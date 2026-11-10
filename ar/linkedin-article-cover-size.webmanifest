@@ -1,0 +1,29 @@
+{
+  "name": "Loona حجم غلاف المقال / النشرة LinkedIn",
+  "short_name": "حجم غلاف المقال / النشرة",
+  "description": "اصنع غلاف المقال / النشرة LinkedIn بمقاس 1200×644 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
+  "id": "/loona-image-compressor/ar/linkedin-article-cover-size.html",
+  "start_url": "./linkedin-article-cover-size.html",
+  "scope": "./linkedin-article-cover-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

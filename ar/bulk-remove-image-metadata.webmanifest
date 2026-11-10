@@ -1,0 +1,29 @@
+{
+  "name": "Loona مزيل البيانات الوصفية الجماعي",
+  "short_name": "مزيل البيانات الوصفية الجماعي",
+  "description": "أزل بيانات EXIF وGPS وXMP الوصفية من صور كثيرة دفعة واحدة — أسقط دفعة ملفات JPG وPNG وWebP، جرّدها كلها في متصفحك ونزّل كل شيء كملف ZIP واحد. مجانًا، خاص، بلا رفع، بلا إعادة ترميز.",
+  "id": "/loona-image-compressor/ar/bulk-remove-image-metadata.html",
+  "start_url": "./bulk-remove-image-metadata.html",
+  "scope": "./bulk-remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

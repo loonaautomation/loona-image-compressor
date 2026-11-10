@@ -1,0 +1,29 @@
+{
+  "name": "Loona ضغط WebP إلى 2000 KB عبر الإنترنت",
+  "short_name": "ضغط WebP إلى 2000 KB عبر",
+  "description": "اضغط صورة WebP إلى 2000 KB أو أقل، مجاناً في متصفحك. بحث تلقائي يجد أفضل جودة مناسبة — بلا تسجيل، بلا رفع.",
+  "id": "/loona-image-compressor/ar/compress-webp-to-2000kb.html",
+  "start_url": "./compress-webp-to-2000kb.html",
+  "scope": "./compress-webp-to-2000kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

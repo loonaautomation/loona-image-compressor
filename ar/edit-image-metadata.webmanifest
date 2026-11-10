@@ -1,0 +1,29 @@
+{
+  "name": "Loona محرر EXIF",
+  "short_name": "محرر EXIF",
+  "description": "حرّر بيانات EXIF لصورة JPG عبر الإنترنت مجانًا — أصلح تاريخ الالتقاط، أضف اسمك كفنان، اضبط حقوق النشر وصانع الكاميرا وطرازها، أو أنشئ EXIF على صورة ليس فيها أي. البكسلات لا تُعاد ترميزها أبدًا ولا شيء يُرفع.",
+  "id": "/loona-image-compressor/ar/edit-image-metadata.html",
+  "start_url": "./edit-image-metadata.html",
+  "scope": "./edit-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

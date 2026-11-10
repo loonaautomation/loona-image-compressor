@@ -1,0 +1,29 @@
+{
+  "name": "Loona فاحص التباين",
+  "short_name": "فاحص التباين",
+  "description": "تحقق من ألوان النص والخلفية مقابل WCAG: نسبة تباين فورية مع نجاح/فشل AA وAAA للنص العادي والكبير، بالإضافة إلى معاينة حية. مجانًا، بلا تسجيل.",
+  "id": "/loona-image-compressor/ar/contrast-checker.html",
+  "start_url": "./contrast-checker.html",
+  "scope": "./contrast-checker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

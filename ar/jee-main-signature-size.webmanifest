@@ -1,0 +1,29 @@
+{
+  "name": "Loona حجم التوقيع JEE Main",
+  "short_name": "حجم التوقيع JEE Main",
+  "description": "غيّر حجم التوقيع الخاص بك لامتحان JEE Main إلى حجم الإشعار (مربع ممسوح ضوئياً، نسبة نحو 7:2) ونطاق 4–30 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
+  "id": "/loona-image-compressor/ar/jee-main-signature-size.html",
+  "start_url": "./jee-main-signature-size.html",
+  "scope": "./jee-main-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona تعتيم الوجه",
+  "short_name": "تعتيم الوجه",
+  "description": "عتّم أو بكسّل الوجوه ولوحات الأرقام والتفاصيل الخاصة في أي صورة. أنت تختار المناطق بنفسك، تختار القوة، تعاين وتنزّل — مجانًا، بلا تسجيل، وصورتك لا تغادر جهازك أبدًا.",
+  "id": "/loona-image-compressor/ar/face-blur.html",
+  "start_url": "./face-blur.html",
+  "scope": "./face-blur.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
