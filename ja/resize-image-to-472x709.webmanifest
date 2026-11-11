@@ -1,0 +1,29 @@
+{
+  "name": "Loona 画像を472 × 709 pxにリサイズ",
+  "short_name": "画像を472 × 709 pxにリサイズ",
+  "description": "あらゆる画像を正確に472×709 pxにリサイズできます — 300 DPIでの40 × 60 mm — UAE／サウジ／エジプト／ベトナムの写真サイズ。ブラウザで無料で使え、切り取り調整も可能。アップロードも登録も不要です。",
+  "id": "/loona-image-compressor/ja/resize-image-to-472x709.html",
+  "start_url": "./resize-image-to-472x709.html",
+  "scope": "./resize-image-to-472x709.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

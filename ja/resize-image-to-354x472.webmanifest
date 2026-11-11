@@ -1,0 +1,29 @@
+{
+  "name": "Loona 画像を354 × 472 pxにリサイズ",
+  "short_name": "画像を354 × 472 pxにリサイズ",
+  "description": "あらゆる画像を正確に354×472 pxにリサイズできます — 300 DPIでの30 × 40 mm — イラン／コロンビアの書類サイズ。ブラウザで無料で使え、切り取り調整も可能。アップロードも登録も不要です。",
+  "id": "/loona-image-compressor/ja/resize-image-to-354x472.html",
+  "start_url": "./resize-image-to-354x472.html",
+  "scope": "./resize-image-to-354x472.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona RRB NTPC (Railways)の署名サイズ",
+  "short_name": "RRB NTPC (Railways)の署名サイズ",
+  "description": "RRB NTPC (Railways)の署名を告知サイズ（140 × 60 px）と10–40 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
+  "id": "/loona-image-compressor/ja/rrb-ntpc-signature-size.html",
+  "start_url": "./rrb-ntpc-signature-size.html",
+  "scope": "./rrb-ntpc-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

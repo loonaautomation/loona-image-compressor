@@ -1,0 +1,29 @@
+{
+  "name": "Loona JEE Mainの署名サイズ",
+  "short_name": "JEE Mainの署名サイズ",
+  "description": "JEE Mainの署名を告知サイズ（スキャンしたボックス、比率は約7:2）と4–30 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
+  "id": "/loona-image-compressor/ja/jee-main-signature-size.html",
+  "start_url": "./jee-main-signature-size.html",
+  "scope": "./jee-main-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

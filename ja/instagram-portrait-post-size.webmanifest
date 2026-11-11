@@ -1,0 +1,29 @@
+{
+  "name": "Loona Instagramの縦向き投稿（4",
+  "short_name": "Instagramの縦向き投稿（4",
+  "description": "Instagramの縦向き投稿（4:5）を正確に1080×1350 pxで作成できます。ブラウザで使える無料のリサイズ・切り取りツールで、切り取られた文字や顔を防ぐセーフゾーンのルールも備えています。",
+  "id": "/loona-image-compressor/ja/instagram-portrait-post-size.html",
+  "start_url": "./instagram-portrait-post-size.html",
+  "scope": "./instagram-portrait-post-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

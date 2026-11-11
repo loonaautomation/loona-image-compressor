@@ -1,0 +1,29 @@
+{
+  "name": "Loona PNGからBMPへの変換ツール",
+  "short_name": "PNGからBMPへの変換ツール",
+  "description": "PNGをBMPにオンラインで変換できます。無料で、ブラウザ内で処理されます。お使いのデバイス上での実際の変換です — アップロード不要、登録不要、透かしなし。",
+  "id": "/loona-image-compressor/ja/png-to-bmp.html",
+  "start_url": "./png-to-bmp.html",
+  "scope": "./png-to-bmp.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 画像を500 KBに圧縮、オンライン",
+  "short_name": "画像を500 KBに圧縮、オンライン",
+  "description": "JPG、PNG、WebP画像を500 KB以下に圧縮、オンラインで無料。ブラウザで画質とサイズを自動検索 — 登録不要、アップロード不要。",
+  "id": "/loona-image-compressor/ja/compress-image-to-500kb.html",
+  "start_url": "./compress-image-to-500kb.html",
+  "scope": "./compress-image-to-500kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

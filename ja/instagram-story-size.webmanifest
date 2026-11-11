@@ -1,0 +1,29 @@
+{
+  "name": "Loona Instagramのストーリーサイズ",
+  "short_name": "Instagramのストーリーサイズ",
+  "description": "Instagramのストーリーを正確に1080×1920 pxで作成できます。ブラウザで使える無料のリサイズ・切り取りツールで、切り取られた文字や顔を防ぐセーフゾーンのルールも備えています。",
+  "id": "/loona-image-compressor/ja/instagram-story-size.html",
+  "start_url": "./instagram-story-size.html",
+  "scope": "./instagram-story-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

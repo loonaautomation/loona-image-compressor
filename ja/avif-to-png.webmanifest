@@ -1,0 +1,29 @@
+{
+  "name": "Loona AVIFからPNGへの変換ツール",
+  "short_name": "AVIFからPNGへの変換ツール",
+  "description": "AVIFをPNGにオンラインで変換できます。無料で、ブラウザ内で処理されます。お使いのデバイス上での実際の変換です — アップロード不要、登録不要、透かしなし。",
+  "id": "/loona-image-compressor/ja/avif-to-png.html",
+  "start_url": "./avif-to-png.html",
+  "scope": "./avif-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

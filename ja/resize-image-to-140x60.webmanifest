@@ -1,0 +1,29 @@
+{
+  "name": "Loona 画像を140 × 60 pxにリサイズ",
+  "short_name": "画像を140 × 60 pxにリサイズ",
+  "description": "あらゆる画像を正確に140×60 pxにリサイズできます — インドの試験署名標準（SSC、IBPS、SBI）。ブラウザで無料で使え、切り取り調整も可能。アップロードも登録も不要です。",
+  "id": "/loona-image-compressor/ja/resize-image-to-140x60.html",
+  "start_url": "./resize-image-to-140x60.html",
+  "scope": "./resize-image-to-140x60.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

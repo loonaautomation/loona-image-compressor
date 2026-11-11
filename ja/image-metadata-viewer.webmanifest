@@ -1,0 +1,29 @@
+{
+  "name": "Loona 画像メタデータ & EXIFビューア",
+  "short_name": "画像メタデータ & EXIFビューア",
+  "description": "あらゆるJPG、PNG、WebP写真の隠れたメタデータをオンラインで無料で見ます — カメラのメーカーとモデル、撮影日、露出、ISO、焦点距離、GPS位置情報、IPTCとXMPの基本。何もアップロードされません: 写真がデバイスの外に出ることは決してありません。",
+  "id": "/loona-image-compressor/ja/image-metadata-viewer.html",
+  "start_url": "./image-metadata-viewer.html",
+  "scope": "./image-metadata-viewer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

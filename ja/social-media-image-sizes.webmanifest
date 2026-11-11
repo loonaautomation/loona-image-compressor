@@ -1,0 +1,29 @@
+{
+  "name": "Loona SNS画像サイズ 2026",
+  "short_name": "SNS画像サイズ 2026",
+  "description": "Instagram、Facebook、YouTube、X、LinkedIn、Pinterest、TikTok、Discordの正確な画像サイズ — すべての枠に作成ツールとセーフゾーンガイド付き。",
+  "id": "/loona-image-compressor/ja/social-media-image-sizes.html",
+  "start_url": "./social-media-image-sizes.html",
+  "scope": "./social-media-image-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

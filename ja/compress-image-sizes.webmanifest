@@ -1,0 +1,29 @@
+{
+  "name": "Loona 画像を任意のKBサイズに圧縮",
+  "short_name": "画像を任意のKBサイズに圧縮",
+  "description": "サイズ指定で圧縮するすべてのツール: 10 KBから2 MBまで、16の目標サイズをJPG、PNG、WebPで。無料で、ブラウザ内で処理されます。",
+  "id": "/loona-image-compressor/ja/compress-image-sizes.html",
+  "start_url": "./compress-image-sizes.html",
+  "scope": "./compress-image-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

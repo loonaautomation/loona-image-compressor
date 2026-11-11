@@ -1,0 +1,29 @@
+{
+  "name": "Loona 画像をリサイズ",
+  "short_name": "画像をリサイズ",
+  "description": "ピクセル、cm、インチで任意の画像を無料でリサイズできます。アスペクト比を保持し、JPG、PNG、WebPを選び、即座にダウンロード — 登録は不要です。",
+  "id": "/loona-image-compressor/ja/resize-image.html",
+  "start_url": "./resize-image.html",
+  "scope": "./resize-image.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

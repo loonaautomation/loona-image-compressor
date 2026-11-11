@@ -1,0 +1,29 @@
+{
+  "name": "Loona 画像を切り抜く、オンライン無料",
+  "short_name": "画像を切り抜く、オンライン無料",
+  "description": "既製の比率で画像をオンラインで無料で切り抜けます — 1:1、4:3、16:9、パスポート35×45 — さらに回転と反転。正確な切り抜きをフル解像度でダウンロードできます。",
+  "id": "/loona-image-compressor/ja/crop-image.html",
+  "start_url": "./crop-image.html",
+  "scope": "./crop-image.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona JEE Mainの写真サイズ",
+  "short_name": "JEE Mainの写真サイズ",
+  "description": "JEE Mainの写真を告知サイズ（3.5 × 4.5 cm（300 DPIで約413 × 531 px））と10–200 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
+  "id": "/loona-image-compressor/ja/jee-main-photo-size.html",
+  "start_url": "./jee-main-photo-size.html",
+  "scope": "./jee-main-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

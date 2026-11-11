@@ -1,0 +1,29 @@
+{
+  "name": "Loona 画像を1500 × 500にリサイズ",
+  "short_name": "画像を1500 × 500にリサイズ",
+  "description": "あらゆる画像を正確に1500 × 500ピクセル（X（Twitter）プロフィールヘッダーと幅広バナー）に無料でリサイズできます。Cover、contain、stretch、JPGまたはPNG、即座にダウンロード — 登録不要、何もアップロードされません。",
+  "id": "/loona-image-compressor/ja/resize-image-to-1500x500.html",
+  "start_url": "./resize-image-to-1500x500.html",
+  "scope": "./resize-image-to-1500x500.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

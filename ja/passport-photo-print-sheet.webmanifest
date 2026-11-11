@@ -1,0 +1,29 @@
+{
+  "name": "Loona パスポート写真の印刷シート",
+  "short_name": "パスポート写真の印刷シート",
+  "description": "4、6、または8枚のパスポート写真を一つのA4印刷シートに無料で、300 DPIで配置してください。100%で印刷し、ガイドに沿って切り、スタジオのお金を節約してください。登録不要、完全にプライベート。",
+  "id": "/loona-image-compressor/ja/passport-photo-print-sheet.html",
+  "start_url": "./passport-photo-print-sheet.html",
+  "scope": "./passport-photo-print-sheet.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 画像の透かし",
+  "short_name": "画像の透かし",
+  "description": "あらゆる写真にオンラインで無料で文字の透かしを追加できます — 文字、サイズ、色、不透明度、位置を選ぶか、タイルパターンとして繰り返します。ライブプレビュー、登録不要で、画像がデバイスの外に出ることはありません。",
+  "id": "/loona-image-compressor/ja/image-watermark.html",
+  "start_url": "./image-watermark.html",
+  "scope": "./image-watermark.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

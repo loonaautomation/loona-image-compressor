@@ -1,0 +1,29 @@
+{
+  "name": "Loona コントラストチェッカー",
+  "short_name": "コントラストチェッカー",
+  "description": "文字と背景の色をWCAGに対して確認します: AAとAAAの合否を通常の文字と大きな文字について即座にコントラスト比で示し、ライブプレビューも備えています。無料、登録不要です。",
+  "id": "/loona-image-compressor/ja/contrast-checker.html",
+  "start_url": "./contrast-checker.html",
+  "scope": "./contrast-checker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

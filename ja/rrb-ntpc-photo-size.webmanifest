@@ -1,0 +1,29 @@
+{
+  "name": "Loona RRB NTPC (Railways)の写真サイズ",
+  "short_name": "RRB NTPC (Railways)の写真サイズ",
+  "description": "RRB NTPC (Railways)の写真を告知サイズ（320 × 240 px）と30–70 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
+  "id": "/loona-image-compressor/ja/rrb-ntpc-photo-size.html",
+  "start_url": "./rrb-ntpc-photo-size.html",
+  "scope": "./rrb-ntpc-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

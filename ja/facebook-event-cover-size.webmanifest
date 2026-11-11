@@ -1,0 +1,29 @@
+{
+  "name": "Loona Facebookのイベントカバーサイズ",
+  "short_name": "Facebookのイベントカバーサイズ",
+  "description": "Facebookのイベントカバーを正確に1920×1005 pxで作成できます。ブラウザで使える無料のリサイズ・切り取りツールで、切り取られた文字や顔を防ぐセーフゾーンのルールも備えています。",
+  "id": "/loona-image-compressor/ja/facebook-event-cover-size.html",
+  "start_url": "./facebook-event-cover-size.html",
+  "scope": "./facebook-event-cover-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

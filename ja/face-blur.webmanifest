@@ -1,0 +1,29 @@
+{
+  "name": "Loona 顔ぼかし",
+  "short_name": "顔ぼかし",
+  "description": "あらゆる写真の顔、ナンバープレート、個人的な細部をぼかしたりピクセル化したりできます。自分で領域を選び、強さを選び、プレビューしてダウンロードしてください — 無料、登録不要で、写真がデバイスの外に出ることはありません。",
+  "id": "/loona-image-compressor/ja/face-blur.html",
+  "start_url": "./face-blur.html",
+  "scope": "./face-blur.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
