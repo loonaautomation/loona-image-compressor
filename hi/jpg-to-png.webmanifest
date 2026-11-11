@@ -1,0 +1,29 @@
+{
+  "name": "Loona JPG से PNG कन्वर्टर",
+  "short_name": "JPG से PNG कन्वर्टर",
+  "description": "JPG को PNG में मुफ़्त ऑनलाइन बदलें — एडिटर, डिज़ाइन टूल और दस्तावेज़ों के लिए लॉसलेस आउटपुट। आपके ब्राउज़र में चलता है, कोई साइनअप नहीं, कोई अपलोड नहीं।",
+  "id": "/loona-image-compressor/hi/jpg-to-png.html",
+  "start_url": "./jpg-to-png.html",
+  "scope": "./jpg-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

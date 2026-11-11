@@ -1,0 +1,29 @@
+{
+  "name": "Loona GATE फ़ोटो साइज़",
+  "short_name": "GATE फ़ोटो साइज़",
+  "description": "अपनी GATE फ़ोटो को अधिसूचना साइज़ (480 × 640 px) और 5–200 KB बैंड में बदलें. मुफ़्त, आपके ब्राउज़र में — न अपलोड, न साइन-अप.",
+  "id": "/loona-image-compressor/hi/gate-photo-size.html",
+  "start_url": "./gate-photo-size.html",
+  "scope": "./gate-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

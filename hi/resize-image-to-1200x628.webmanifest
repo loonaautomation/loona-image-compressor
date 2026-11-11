@@ -1,0 +1,29 @@
+{
+  "name": "Loona इमेज को 1200 × 628",
+  "short_name": "इमेज को 1200 × 628",
+  "description": "किसी भी इमेज को ठीक 1200 × 628 पिक्सेल (Facebook and LinkedIn link shares and ads) पर मुफ़्त में रीसाइज़ करें. कवर, कन्टेन या स्ट्रेच, JPG या PNG, तुरंत डाउनलोड — न साइन-अप, कुछ भी अपलोड नहीं.",
+  "id": "/loona-image-compressor/hi/resize-image-to-1200x628.html",
+  "start_url": "./resize-image-to-1200x628.html",
+  "scope": "./resize-image-to-1200x628.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

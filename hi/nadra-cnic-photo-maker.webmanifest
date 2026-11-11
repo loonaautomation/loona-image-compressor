@@ -1,0 +1,29 @@
+{
+  "name": "Loona NADRA / CNIC फ़ोटो मेकर",
+  "short_name": "NADRA / CNIC फ़ोटो मेकर",
+  "description": "NADRA CNIC फ़ोटो मुफ़्त ऑनलाइन बनाएँ: Pak-ID अपलोड के लिए ठीक 350×467 px और 35×45 mm प्रिंट साइज़। सफ़ेद बैकग्राउंड, कोई साइनअप नहीं, पूरी तरह निजी।",
+  "id": "/loona-image-compressor/hi/nadra-cnic-photo-maker.html",
+  "start_url": "./nadra-cnic-photo-maker.html",
+  "scope": "./nadra-cnic-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

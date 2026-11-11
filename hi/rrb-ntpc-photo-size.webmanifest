@@ -1,0 +1,29 @@
+{
+  "name": "Loona RRB NTPC (Railways) फ़ोटो साइज़",
+  "short_name": "RRB NTPC (Railways) फ़ोटो",
+  "description": "अपनी RRB NTPC (Railways) फ़ोटो को अधिसूचना साइज़ (320 × 240 px) और 30–70 KB बैंड में बदलें. मुफ़्त, आपके ब्राउज़र में — न अपलोड, न साइन-अप.",
+  "id": "/loona-image-compressor/hi/rrb-ntpc-photo-size.html",
+  "start_url": "./rrb-ntpc-photo-size.html",
+  "scope": "./rrb-ntpc-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

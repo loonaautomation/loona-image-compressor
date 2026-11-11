@@ -1,0 +1,29 @@
+{
+  "name": "Loona X (Twitter) पोस्ट इमेज (16",
+  "short_name": "X (Twitter) पोस्ट इमेज (16",
+  "description": "X (Twitter) पोस्ट इमेज (16:9) ठीक 1600×900 px पर बनाएँ. आपके ब्राउज़र में मुफ़्त रीसाइज़र/क्रॉपर, उन सेफ़-ज़ोन नियमों के साथ जो क्रॉप हुए टेक्स्ट और चेहरों को रोकते हैं.",
+  "id": "/loona-image-compressor/hi/x-post-image-size.html",
+  "start_url": "./x-post-image-size.html",
+  "scope": "./x-post-image-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

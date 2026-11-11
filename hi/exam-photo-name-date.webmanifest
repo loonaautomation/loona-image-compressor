@@ -1,0 +1,29 @@
+{
+  "name": "Loona नाम &amp; तारीख़ के साथ परीक्षा फ़ोटो",
+  "short_name": "नाम &amp; तारीख़ के साथ",
+  "description": "अपना नाम और तारीख़ नीचे छपी हुई परीक्षा फ़ोटो मुफ़्त बनाएँ — पाकिस्तान और भारत में उपयोग होने वाला बोर्ड-परीक्षा फ़ॉर्मेट। निजी, साइनअप की ज़रूरत नहीं।",
+  "id": "/loona-image-compressor/hi/exam-photo-name-date.html",
+  "start_url": "./exam-photo-name-date.html",
+  "scope": "./exam-photo-name-date.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

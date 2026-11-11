@@ -1,0 +1,29 @@
+{
+  "name": "Loona फ़ोटो से PDF कन्वर्टर",
+  "short_name": "फ़ोटो से PDF कन्वर्टर",
+  "description": "फ़ोटो को PDF में मुफ़्त ऑनलाइन बदलें: JPG, PNG या WebP इमेज जोड़ें, A4, Letter या फ़िट-टू-इमेज पेज चुनें और एक साफ़-सुथरी PDF डाउनलोड करें। कोई अपलोड नहीं।",
+  "id": "/loona-image-compressor/hi/photo-to-pdf.html",
+  "start_url": "./photo-to-pdf.html",
+  "scope": "./photo-to-pdf.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

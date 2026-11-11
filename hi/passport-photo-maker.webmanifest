@@ -1,0 +1,29 @@
+{
+  "name": "Loona पासपोर्ट साइज़ फ़ोटो मेकर",
+  "short_name": "पासपोर्ट साइज़ फ़ोटो मेकर",
+  "description": "पासपोर्ट साइज़ फ़ोटो मुफ़्त ऑनलाइन बनाएँ: किसी भी फ़ोटो को 35×45 mm या 2×2 इंच में, प्रिंट-तैयार 300 DPI पर, क्रॉप करें। कोई साइनअप नहीं, कोई वॉटरमार्क नहीं, पूरी तरह निजी।",
+  "id": "/loona-image-compressor/hi/passport-photo-maker.html",
+  "start_url": "./passport-photo-maker.html",
+  "scope": "./passport-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

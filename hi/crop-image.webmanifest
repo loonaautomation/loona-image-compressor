@@ -1,0 +1,29 @@
+{
+  "name": "Loona इमेज ऑनलाइन मुफ़्त क्रॉप करें",
+  "short_name": "इमेज ऑनलाइन मुफ़्त क्रॉप करें",
+  "description": "तैयार अनुपातों के साथ इमेज मुफ़्त ऑनलाइन क्रॉप करें — 1:1, 4:3, 16:9 और पासपोर्ट 35×45 — साथ में घुमाना और पलटना। ठीक क्रॉप पूरे रिज़ॉल्यूशन पर डाउनलोड करें।",
+  "id": "/loona-image-compressor/hi/crop-image.html",
+  "start_url": "./crop-image.html",
+  "scope": "./crop-image.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

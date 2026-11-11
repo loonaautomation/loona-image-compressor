@@ -1,0 +1,29 @@
+{
+  "name": "Loona EXIF एडिटर",
+  "short_name": "EXIF एडिटर",
+  "description": "JPG फ़ोटो के EXIF डेटा को मुफ़्त ऑनलाइन एडिट करें — खींचे जाने की तारीख़ ठीक करें, कलाकार के रूप में अपना नाम जोड़ें, कॉपीराइट, कैमरा मेक और मॉडल सेट करें, या ऐसी फ़ोटो पर EXIF बनाएँ जिसमें कोई न हो। पिक्सेल कभी दोबारा एन्कोड नहीं होते और कुछ अपलोड नहीं होता।",
+  "id": "/loona-image-compressor/hi/edit-image-metadata.html",
+  "start_url": "./edit-image-metadata.html",
+  "scope": "./edit-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

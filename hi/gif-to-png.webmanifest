@@ -1,0 +1,29 @@
+{
+  "name": "Loona GIF से PNG कन्वर्टर",
+  "short_name": "GIF से PNG कन्वर्टर",
+  "description": "GIF को PNG में मुफ़्त ऑनलाइन बदलें — अपने GIF से साफ़, लॉसलेस स्टिल इमेज। ब्राउज़र-आधारित, कोई साइनअप नहीं, कोई अपलोड नहीं, कोई वॉटरमार्क नहीं।",
+  "id": "/loona-image-compressor/hi/gif-to-png.html",
+  "start_url": "./gif-to-png.html",
+  "scope": "./gif-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona PNG से WebP कन्वर्टर",
+  "short_name": "PNG से WebP कन्वर्टर",
+  "description": "PNG को WebP में मुफ़्त ऑनलाइन बदलें — बहुत छोटी फ़ाइलें जो पारदर्शिता बनाए रखती हैं, वेबसाइट के लिए बिल्कुल सही। कोई साइनअप नहीं, कोई अपलोड नहीं, आपके ब्राउज़र में चलता है।",
+  "id": "/loona-image-compressor/hi/png-to-webp.html",
+  "start_url": "./png-to-webp.html",
+  "scope": "./png-to-webp.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

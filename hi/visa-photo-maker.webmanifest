@@ -1,0 +1,29 @@
+{
+  "name": "Loona वीज़ा फ़ोटो मेकर",
+  "short_name": "वीज़ा फ़ोटो मेकर",
+  "description": "वीज़ा फ़ोटो मुफ़्त ऑनलाइन बनाएँ: US 2x2 इंच, UK और शेंगेन 35x45 mm, चीन 33x48 mm, 300 DPI पर। कोई साइनअप नहीं, कोई वॉटरमार्क नहीं, पूरी तरह निजी टूल।",
+  "id": "/loona-image-compressor/hi/visa-photo-maker.html",
+  "start_url": "./visa-photo-maker.html",
+  "scope": "./visa-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona SVG से PNG कन्वर्टर",
+  "short_name": "SVG से PNG कन्वर्टर",
+  "description": "SVG को PNG में किसी भी चौड़ाई पर मुफ़्त ऑनलाइन बदलें — वेक्टर लोगो और आइकन से साफ़ रास्टर इमेज। कोई साइनअप नहीं, कोई अपलोड नहीं, आपके ब्राउज़र में चलता है।",
+  "id": "/loona-image-compressor/hi/svg-to-png.html",
+  "start_url": "./svg-to-png.html",
+  "scope": "./svg-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

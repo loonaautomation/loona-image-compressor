@@ -1,0 +1,29 @@
+{
+  "name": "Loona इमेज को किसी भी KB साइज़ तक कंप्रेस करें",
+  "short_name": "इमेज को किसी भी KB साइज़ तक",
+  "description": "हर कंप्रेस-टू-साइज़ टूल: JPG, PNG और WebP में 16 लक्ष्य साइज़, 10 KB से 2 MB तक. मुफ़्त, आपके ब्राउज़र में.",
+  "id": "/loona-image-compressor/hi/compress-image-sizes.html",
+  "start_url": "./compress-image-sizes.html",
+  "scope": "./compress-image-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

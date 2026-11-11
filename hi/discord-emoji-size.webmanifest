@@ -1,0 +1,29 @@
+{
+  "name": "Loona Discord कस्टम इमोजी साइज़",
+  "short_name": "Discord कस्टम इमोजी साइज़",
+  "description": "Discord कस्टम इमोजी ठीक 128×128 px पर बनाएँ. आपके ब्राउज़र में मुफ़्त रीसाइज़र/क्रॉपर, उन सेफ़-ज़ोन नियमों के साथ जो क्रॉप हुए टेक्स्ट और चेहरों को रोकते हैं.",
+  "id": "/loona-image-compressor/hi/discord-emoji-size.html",
+  "start_url": "./discord-emoji-size.html",
+  "scope": "./discord-emoji-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

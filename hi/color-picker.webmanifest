@@ -1,0 +1,29 @@
+{
+  "name": "Loona कलर पिकर",
+  "short_name": "कलर पिकर",
+  "description": "कोई भी रंग चुनें और उसके HEX, RGB, HSL और HSV मान तुरंत कॉपी करें। टिंट और शेड की स्ट्रिप शामिल है — मुफ़्त, कोई साइनअप नहीं, आपके ब्राउज़र में काम करता है।",
+  "id": "/loona-image-compressor/hi/color-picker.html",
+  "start_url": "./color-picker.html",
+  "scope": "./color-picker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

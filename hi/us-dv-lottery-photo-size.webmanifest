@@ -1,0 +1,29 @@
+{
+  "name": "Loona US Diversity Visa (Green Card Lottery) फ़ोटो साइज़",
+  "short_name": "US Diversity Visa (Green Card",
+  "description": "आधिकारिक साइज़ 51×51 mm (600×600 px) पर US Diversity Visa (Green Card Lottery) फ़ोटो बनाएँ, सादा सफ़ेद या हल्का सफ़ेद बैकग्राउंड. मुफ़्त ऑनलाइन मेकर — क्रॉप, डाउनलोड और प्रिंट शीट, बिना अपलोड.",
+  "id": "/loona-image-compressor/hi/us-dv-lottery-photo-size.html",
+  "start_url": "./us-dv-lottery-photo-size.html",
+  "scope": "./us-dv-lottery-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

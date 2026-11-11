@@ -1,0 +1,29 @@
+{
+  "name": "Loona इमेज को 600 × 600 px पर ऑनलाइन रीसाइज़ करें",
+  "short_name": "इमेज को 600 × 600 px पर",
+  "description": "किसी भी इमेज को ठीक 600×600 px पर रीसाइज़ करें — US पासपोर्ट/वीज़ा और DV Lottery न्यूनतम डिजिटल साइज़. क्रॉप नियंत्रण के साथ आपके ब्राउज़र में मुफ़्त; न अपलोड, न साइन-अप.",
+  "id": "/loona-image-compressor/hi/resize-image-to-600x600.html",
+  "start_url": "./resize-image-to-600x600.html",
+  "scope": "./resize-image-to-600x600.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

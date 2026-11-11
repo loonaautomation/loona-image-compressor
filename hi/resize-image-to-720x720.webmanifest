@@ -1,0 +1,29 @@
+{
+  "name": "Loona इमेज को 720 × 720 px पर ऑनलाइन रीसाइज़ करें",
+  "short_name": "इमेज को 720 × 720 px पर",
+  "description": "किसी भी इमेज को ठीक 720×720 px पर रीसाइज़ करें — Facebook प्रोफ़ाइल न्यूनतम और सामान्य अवतार साइज़. क्रॉप नियंत्रण के साथ आपके ब्राउज़र में मुफ़्त; न अपलोड, न साइन-अप.",
+  "id": "/loona-image-compressor/hi/resize-image-to-720x720.html",
+  "start_url": "./resize-image-to-720x720.html",
+  "scope": "./resize-image-to-720x720.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

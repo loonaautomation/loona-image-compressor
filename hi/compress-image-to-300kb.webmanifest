@@ -1,0 +1,29 @@
+{
+  "name": "Loona इमेज को 300 KB तक ऑनलाइन कंप्रेस करें",
+  "short_name": "इमेज को 300 KB तक ऑनलाइन",
+  "description": "JPG, PNG और WebP इमेज को 300 KB या उससे कम तक कंप्रेस करें, ऑनलाइन और मुफ़्त. आपके ब्राउज़र में स्वचालित गुणवत्ता और साइज़ खोज — न साइन-अप, न अपलोड.",
+  "id": "/loona-image-compressor/hi/compress-image-to-300kb.html",
+  "start_url": "./compress-image-to-300kb.html",
+  "scope": "./compress-image-to-300kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

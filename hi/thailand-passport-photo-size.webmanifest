@@ -1,0 +1,29 @@
+{
+  "name": "Loona थाईलैंड पासपोर्ट / वीज़ा फ़ोटो साइज़",
+  "short_name": "थाईलैंड पासपोर्ट / वीज़ा",
+  "description": "आधिकारिक साइज़ 35×45 mm (413×531 px) पर थाईलैंड पासपोर्ट / वीज़ा फ़ोटो बनाएँ, सादा सफ़ेद बैकग्राउंड. मुफ़्त ऑनलाइन मेकर — क्रॉप, डाउनलोड और प्रिंट शीट, बिना अपलोड.",
+  "id": "/loona-image-compressor/hi/thailand-passport-photo-size.html",
+  "start_url": "./thailand-passport-photo-size.html",
+  "scope": "./thailand-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

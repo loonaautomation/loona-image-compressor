@@ -1,0 +1,29 @@
+{
+  "name": "Loona इमेज रीसाइज़ करें",
+  "short_name": "इमेज रीसाइज़ करें",
+  "description": "किसी भी इमेज को पिक्सेल, cm या इंच में DPI सेटिंग के साथ मुफ़्त रीसाइज़ करें। आस्पेक्ट रेशियो बनाए रखें, JPG, PNG या WebP चुनें और तुरंत डाउनलोड करें — साइनअप की ज़रूरत नहीं।",
+  "id": "/loona-image-compressor/hi/resize-image.html",
+  "start_url": "./resize-image.html",
+  "scope": "./resize-image.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

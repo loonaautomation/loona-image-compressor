@@ -1,0 +1,29 @@
+{
+  "name": "Loona देश के अनुसार पासपोर्ट और वीज़ा फ़ोटो साइज़",
+  "short_name": "देश के अनुसार पासपोर्ट और",
+  "description": "40 देशों और दस्तावेज़ों के आधिकारिक पासपोर्ट, वीज़ा और ID फ़ोटो साइज़, प्रत्येक के साथ ठीक मिलीमीटर और पिक्सेल साइज़ पर एक मेकर टूल.",
+  "id": "/loona-image-compressor/hi/passport-photo-sizes.html",
+  "start_url": "./passport-photo-sizes.html",
+  "scope": "./passport-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

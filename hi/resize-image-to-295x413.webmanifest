@@ -1,0 +1,29 @@
+{
+  "name": "Loona इमेज को 295 × 413 px पर ऑनलाइन रीसाइज़ करें",
+  "short_name": "इमेज को 295 × 413 px पर",
+  "description": "किसी भी इमेज को ठीक 295×413 px पर रीसाइज़ करें — 25 × 35 mm, 300 DPI पर — भारत PAN कार्ड साइज़. क्रॉप नियंत्रण के साथ आपके ब्राउज़र में मुफ़्त; न अपलोड, न साइन-अप.",
+  "id": "/loona-image-compressor/hi/resize-image-to-295x413.html",
+  "start_url": "./resize-image-to-295x413.html",
+  "scope": "./resize-image-to-295x413.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

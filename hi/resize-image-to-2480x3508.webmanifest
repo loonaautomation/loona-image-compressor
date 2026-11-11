@@ -1,0 +1,29 @@
+{
+  "name": "Loona इमेज को 2480 × 3508 px पर ऑनलाइन रीसाइज़ करें",
+  "short_name": "इमेज को 2480 × 3508 px पर",
+  "description": "किसी भी इमेज को ठीक 2480×3508 px पर रीसाइज़ करें — A4, 300 DPI पर. क्रॉप नियंत्रण के साथ आपके ब्राउज़र में मुफ़्त; न अपलोड, न साइन-अप.",
+  "id": "/loona-image-compressor/hi/resize-image-to-2480x3508.html",
+  "start_url": "./resize-image-to-2480x3508.html",
+  "scope": "./resize-image-to-2480x3508.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
