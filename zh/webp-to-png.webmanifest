@@ -1,0 +1,29 @@
+{
+  "name": "Loona WebP 转 PNG 转换器",
+  "short_name": "WebP 转 PNG 转换器",
+  "description": "免费在线将 WebP 转换为 PNG — 带透明度的无损 PNG，用于编辑器和设计工具。在您的浏览器中运行，无需注册，无需上传。",
+  "id": "/loona-image-compressor/zh/webp-to-png.html",
+  "start_url": "./webp-to-png.html",
+  "scope": "./webp-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

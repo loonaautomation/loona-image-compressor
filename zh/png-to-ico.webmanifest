@@ -1,0 +1,29 @@
+{
+  "name": "Loona PNG 转 ICO 转换器",
+  "short_name": "PNG 转 ICO 转换器",
+  "description": "在线将 PNG 转换为 ICO，免费，在您的浏览器中完成。在您的设备上进行真实转换 — 无需上传，无需注册，无水印。",
+  "id": "/loona-image-compressor/zh/png-to-ico.html",
+  "start_url": "./png-to-ico.html",
+  "scope": "./png-to-ico.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

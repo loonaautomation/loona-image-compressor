@@ -1,0 +1,29 @@
+{
+  "name": "Loona 对比度检查器",
+  "short_name": "对比度检查器",
+  "description": "根据 WCAG 检查文本和背景颜色：即时对比度，普通和大文本的 AA 和 AAA 通过/失败，外加实时预览。免费，无需注册。",
+  "id": "/loona-image-compressor/zh/contrast-checker.html",
+  "start_url": "./contrast-checker.html",
+  "scope": "./contrast-checker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

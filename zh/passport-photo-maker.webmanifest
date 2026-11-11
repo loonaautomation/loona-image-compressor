@@ -1,0 +1,29 @@
+{
+  "name": "Loona 护照尺寸照片制作工具",
+  "short_name": "护照尺寸照片制作工具",
+  "description": "免费在线制作护照尺寸照片：以可打印的 300 DPI 将任何照片裁剪到 35×45 mm 或 2×2 英寸。无需注册，无水印，完全私密。",
+  "id": "/loona-image-compressor/zh/passport-photo-maker.html",
+  "start_url": "./passport-photo-maker.html",
+  "scope": "./passport-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

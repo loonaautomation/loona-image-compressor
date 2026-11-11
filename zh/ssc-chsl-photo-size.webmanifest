@@ -1,0 +1,29 @@
+{
+  "name": "Loona SSC CHSL 照片尺寸",
+  "short_name": "SSC CHSL 照片尺寸",
+  "description": "将您的 SSC CHSL 照片调整为通知规定的尺寸（200 × 230 px）和 20–50 KB 范围。免费，在您的浏览器中完成 — 无需上传，无需注册。",
+  "id": "/loona-image-compressor/zh/ssc-chsl-photo-size.html",
+  "start_url": "./ssc-chsl-photo-size.html",
+  "scope": "./ssc-chsl-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

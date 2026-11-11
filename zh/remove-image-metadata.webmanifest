@@ -1,0 +1,29 @@
+{
+  "name": "Loona 移除图片元数据",
+  "short_name": "移除图片元数据",
+  "description": "免费在线从 JPG、PNG 和 WebP 照片中移除 EXIF、GPS 位置、XMP 和 IPTC 元数据。字节级剥离 — 像素从不被重新编码，因此质量不受影响。通过重新扫描验证，在您的浏览器中 100% 私密。",
+  "id": "/loona-image-compressor/zh/remove-image-metadata.html",
+  "start_url": "./remove-image-metadata.html",
+  "scope": "./remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

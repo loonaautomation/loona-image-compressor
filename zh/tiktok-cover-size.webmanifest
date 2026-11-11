@@ -1,0 +1,29 @@
+{
+  "name": "Loona TikTok 视频封面 尺寸",
+  "short_name": "TikTok 视频封面 尺寸",
+  "description": "按精确的 1080×1920 px 制作 TikTok 视频封面。在浏览器中免费调整大小/裁剪，附有安全区规则，防止文字和面部被裁掉。",
+  "id": "/loona-image-compressor/zh/tiktok-cover-size.html",
+  "start_url": "./tiktok-cover-size.html",
+  "scope": "./tiktok-cover-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSS 渐变生成器",
+  "short_name": "CSS 渐变生成器",
+  "description": "用两种或三种颜色和任意角度构建 CSS 线性渐变，实时预览并复制现成的 CSS 代码。免费，无需注册。",
+  "id": "/loona-image-compressor/zh/gradient-generator.html",
+  "start_url": "./gradient-generator.html",
+  "scope": "./gradient-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

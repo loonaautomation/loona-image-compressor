@@ -1,0 +1,335 @@
+[
+ {
+  "n": "图片压缩器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/",
+  "s": "Loona Image Compressor",
+  "d": "免费在线将 JPG、PNG 和 WebP 图片压缩到确切大小 — 50KB、100KB、200KB。批量压缩、调整大小、ZIP 下载。无需注册，无水印，100% 私密。",
+  "k": "图片压缩器 免费在线将 jpg png 和 webp 图片压缩到确切大小 50kb 100kb 200kb 批量压缩 调整大小 zip 下载 无需注册 无水印 100 私密",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "护照尺寸照片制作工具",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/passport-photo-maker.html",
+  "s": "Loona Image Compressor",
+  "d": "以可打印的 300 DPI 将任何照片裁剪到 35×45 mm 或 2×2 英寸。",
+  "k": "护照尺寸照片制作工具 以可打印的 300 dpi 将任何照片裁剪到 35 45 mm 或 2 2 英寸",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "NADRA / CNIC 照片制作工具",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/nadra-cnic-photo-maker.html",
+  "s": "Loona Image Compressor",
+  "d": "用于 Pak-ID 在线申请的精确 350 × 467 px 照片。",
+  "k": "nadra cnic 照片制作工具 用于 pak id 在线申请的精确 350 467 px 照片",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "签证照片制作工具",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/visa-photo-maker.html",
+  "s": "Loona Image Compressor",
+  "d": "美国、英国、申根和中国签证照片尺寸集中在一处。",
+  "k": "签证照片制作工具 美国 英国 申根和中国签证照片尺寸集中在一处",
+  "p": 103,
+  "c": "Tool"
+ },
+ {
+  "n": "照片背景更换器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/photo-background-changer.html",
+  "s": "Loona Image Compressor",
+  "d": "将照片背景变成白色、蓝色或浅灰色。",
+  "k": "照片背景更换器 将照片背景变成白色 蓝色或浅灰色",
+  "p": 104,
+  "c": "Tool"
+ },
+ {
+  "n": "带姓名和日期的考试照片",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/exam-photo-name-date.html",
+  "s": "Loona Image Compressor",
+  "d": "在您的照片下方为委员会考试添加姓名和日期条。",
+  "k": "带姓名和日期的考试照片 在您的照片下方为委员会考试添加姓名和日期条",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "护照照片打印页",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/passport-photo-print-sheet.html",
+  "s": "Loona Image Compressor",
+  "d": "将 4、6 或 8 张护照照片放在一张 A4 纸上并在家打印。",
+  "k": "护照照片打印页 将 4 6 或 8 张护照照片放在一张 a4 纸上并在家打印",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "调整图片大小",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/resize-image.html",
+  "s": "Loona Image Compressor",
+  "d": "按像素、厘米或英寸调整大小，带打印 DPI 设置。",
+  "k": "调整图片大小 按像素 厘米或英寸调整大小 带打印 dpi 设置",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "裁剪图片",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/crop-image.html",
+  "s": "Loona Image Compressor",
+  "d": "免费裁剪加上现成的比例 — 1:1、4:3、护照等。",
+  "k": "裁剪图片 免费裁剪加上现成的比例 1 1 4 3 护照等",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "照片转 PDF",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/photo-to-pdf.html",
+  "s": "Loona Image Compressor",
+  "d": "将一张或多张照片变成单个 PDF 文件。",
+  "k": "照片转 pdf 将一张或多张照片变成单个 pdf 文件",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "图片格式转换器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/image-format-converter.html",
+  "s": "Loona Image Compressor",
+  "d": "双向转换 JPG、PNG 和 WebP，带质量控制。",
+  "k": "图片格式转换器 双向转换 jpg png 和 webp 带质量控制",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "照片滤镜和修复",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/photo-filters-editor.html",
+  "s": "Loona Image Compressor",
+  "d": "在几秒钟内修复亮度、对比度和锐度。",
+  "k": "照片滤镜和修复 在几秒钟内修复亮度 对比度和锐度",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "图片增强器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/image-enhancer.html",
+  "s": "Loona Image Compressor",
+  "d": "自动增强、锐化照片并将其放大高达 4 倍。",
+  "k": "图片增强器 自动增强 锐化照片并将其放大高达 4 倍",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "图片水印",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/image-watermark.html",
+  "s": "Loona Image Compressor",
+  "d": "添加文本水印 — 设置大小、颜色、不透明度、位置或将其平铺。",
+  "k": "图片水印 添加文本水印 设置大小 颜色 不透明度 位置或将其平铺",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "表情包生成器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/meme-generator.html",
+  "s": "Loona Image Compressor",
+  "d": "在几秒钟内为任何照片添加经典的顶部和底部表情包文字。",
+  "k": "表情包生成器 在几秒钟内为任何照片添加经典的顶部和底部表情包文字",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "面部模糊",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/face-blur.html",
+  "s": "Loona Image Compressor",
+  "d": "在分享前模糊或像素化面部、车牌和私人细节。",
+  "k": "面部模糊 在分享前模糊或像素化面部 车牌和私人细节",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "颜色选择器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/color-picker.html",
+  "s": "Loona Image Compressor",
+  "d": "选择任何颜色并复制其 HEX、RGB、HSL 和 HSV 值。",
+  "k": "颜色选择器 选择任何颜色并复制其 hex rgb hsl 和 hsv 值",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "调色板生成器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/color-palette-generator.html",
+  "s": "Loona Image Compressor",
+  "d": "一键从任何基础颜色生成和谐的调色板。",
+  "k": "调色板生成器 一键从任何基础颜色生成和谐的调色板",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "对比度检查器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/contrast-checker.html",
+  "s": "Loona Image Compressor",
+  "d": "根据 WCAG AA 和 AAA 对比度规则检查文本颜色。",
+  "k": "对比度检查器 根据 wcag aa 和 aaa 对比度规则检查文本颜色",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS 渐变生成器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/gradient-generator.html",
+  "s": "Loona Image Compressor",
+  "d": "构建线性渐变并即时复制 CSS 代码。",
+  "k": "css 渐变生成器 构建线性渐变并即时复制 css 代码",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "图片元数据和 EXIF 查看器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/image-metadata-viewer.html",
+  "s": "Loona Image Compressor",
+  "d": "查看隐藏在任何照片内的 EXIF、GPS、相机和日期数据。",
+  "k": "图片元数据和 exif 查看器 查看隐藏在任何照片内的 exif gps 相机和日期数据",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "移除图片元数据",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/remove-image-metadata.html",
+  "s": "Loona Image Compressor",
+  "d": "从照片中剥离 EXIF、GPS 和 XMP — 像素不受影响。",
+  "k": "移除图片元数据 从照片中剥离 exif gps 和 xmp 像素不受影响",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "EXIF 编辑器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/edit-image-metadata.html",
+  "s": "Loona Image Compressor",
+  "d": "编辑 JPG 的拍摄日期、艺术家、版权、品牌和型号。",
+  "k": "exif 编辑器 编辑 jpg 的拍摄日期 艺术家 版权 品牌和型号",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "从照片中移除 GPS",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/remove-gps-from-photo.html",
+  "s": "Loona Image Compressor",
+  "d": "仅删除位置数据并保留 EXIF 的其余部分。",
+  "k": "从照片中移除 gps 仅删除位置数据并保留 exif 的其余部分",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "批量元数据移除工具",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/bulk-remove-image-metadata.html",
+  "s": "Loona Image Compressor",
+  "d": "一次从许多照片中剥离元数据并下载 ZIP。",
+  "k": "批量元数据移除工具 一次从许多照片中剥离元数据并下载 zip",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "PNG 转 JPG 转换器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/png-to-jpg.html",
+  "s": "Loona Image Compressor",
+  "d": "将 PNG 照片和截图变成小得多的 JPG。",
+  "k": "png 转 jpg 转换器 将 png 照片和截图变成小得多的 jpg",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "JPG 转 PNG 转换器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/jpg-to-png.html",
+  "s": "Loona Image Compressor",
+  "d": "为您 JPG 的无损 PNG 副本，用于编辑器和设计工具。",
+  "k": "jpg 转 png 转换器 为您 jpg 的无损 png 副本 用于编辑器和设计工具",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "JPG 转 WebP 转换器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/jpg-to-webp.html",
+  "s": "Loona Image Compressor",
+  "d": "将 JPG 缩小 25–40%，以获得更快的网站。",
+  "k": "jpg 转 webp 转换器 将 jpg 缩小 25 40 以获得更快的网站",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "WebP 转 JPG 转换器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/webp-to-jpg.html",
+  "s": "Loona Image Compressor",
+  "d": "使 WebP 图片作为 JPG 随处打开。",
+  "k": "webp 转 jpg 转换器 使 webp 图片作为 jpg 随处打开",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "PNG 转 WebP 转换器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/png-to-webp.html",
+  "s": "Loona Image Compressor",
+  "d": "保留透明度的较小网页图形。",
+  "k": "png 转 webp 转换器 保留透明度的较小网页图形",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "WebP 转 PNG 转换器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/webp-to-png.html",
+  "s": "Loona Image Compressor",
+  "d": "来自 WebP 的无损 PNG，用于编辑器和打印。",
+  "k": "webp 转 png 转换器 来自 webp 的无损 png 用于编辑器和打印",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "GIF 转 PNG 转换器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/gif-to-png.html",
+  "s": "Loona Image Compressor",
+  "d": "来自任何 GIF 的干净无损静止图片。",
+  "k": "gif 转 png 转换器 来自任何 gif 的干净无损静止图片",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "GIF 转 JPG 转换器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/gif-to-jpg.html",
+  "s": "Loona Image Compressor",
+  "d": "来自 GIF 的小型通用 JPG 静止图片。",
+  "k": "gif 转 jpg 转换器 来自 gif 的小型通用 jpg 静止图片",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "BMP 转 JPG 转换器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/bmp-to-jpg.html",
+  "s": "Loona Image Compressor",
+  "d": "将庞大的 BMP 文件缩小 90% 或更多。",
+  "k": "bmp 转 jpg 转换器 将庞大的 bmp 文件缩小 90 或更多",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "BMP 转 PNG 转换器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/bmp-to-png.html",
+  "s": "Loona Image Compressor",
+  "d": "无损 PNG — 从 BMP 的现代升级。",
+  "k": "bmp 转 png 转换器 无损 png 从 bmp 的现代升级",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "SVG 转 PNG 转换器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/svg-to-png.html",
+  "s": "Loona Image Compressor",
+  "d": "以任何大小将矢量徽标渲染为清晰的 PNG。",
+  "k": "svg 转 png 转换器 以任何大小将矢量徽标渲染为清晰的 png",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "SVG 转 JPG 转换器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh/svg-to-jpg.html",
+  "s": "Loona Image Compressor",
+  "d": "将 SVG 矢量渲染为通用的 JPG。",
+  "k": "svg 转 jpg 转换器 将 svg 矢量渲染为通用的 jpg",
+  "p": 136,
+  "c": "Tool"
+ }
+]

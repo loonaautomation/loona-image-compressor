@@ -1,0 +1,29 @@
+{
+  "name": "Loona 图片水印",
+  "short_name": "图片水印",
+  "description": "免费在线为任何照片添加文本水印 — 选择文本、大小、颜色、不透明度和位置，或将其重复为平铺图案。实时预览，无需注册，您的图片绝不会离开您的设备。",
+  "id": "/loona-image-compressor/zh/image-watermark.html",
+  "start_url": "./image-watermark.html",
+  "scope": "./image-watermark.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

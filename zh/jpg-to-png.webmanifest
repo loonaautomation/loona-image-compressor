@@ -1,0 +1,29 @@
+{
+  "name": "Loona JPG 转 PNG 转换器",
+  "short_name": "JPG 转 PNG 转换器",
+  "description": "免费在线将 JPG 转换为 PNG — 为编辑器、设计工具和文档提供无损输出。在您的浏览器中运行，无需注册，无需上传。",
+  "id": "/loona-image-compressor/zh/jpg-to-png.html",
+  "start_url": "./jpg-to-png.html",
+  "scope": "./jpg-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

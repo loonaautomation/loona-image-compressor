@@ -1,0 +1,29 @@
+{
+  "name": "Loona 颜色选择器",
+  "short_name": "颜色选择器",
+  "description": "选择任何颜色并即时复制其 HEX、RGB、HSL 和 HSV 值。包括色调和阴影条 — 免费，无需注册，在您的浏览器中工作。",
+  "id": "/loona-image-compressor/zh/color-picker.html",
+  "start_url": "./color-picker.html",
+  "scope": "./color-picker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

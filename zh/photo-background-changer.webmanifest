@@ -1,0 +1,29 @@
+{
+  "name": "Loona 照片背景更换器",
+  "short_name": "照片背景更换器",
+  "description": "免费在线将照片背景更改为白色、蓝色、浅灰色或红色。洪水填充加画笔工具，在您的浏览器中私密进行，无 AI 上传。",
+  "id": "/loona-image-compressor/zh/photo-background-changer.html",
+  "start_url": "./photo-background-changer.html",
+  "scope": "./photo-background-changer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

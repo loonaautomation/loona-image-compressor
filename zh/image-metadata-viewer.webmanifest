@@ -1,0 +1,29 @@
+{
+  "name": "Loona 图片元数据和 EXIF 查看器",
+  "short_name": "图片元数据和 EXIF 查看器",
+  "description": "免费在线查看任何 JPG、PNG 或 WebP 照片中隐藏的元数据 — 相机品牌和型号、拍摄日期、曝光、ISO、焦距、GPS 位置、IPTC 和 XMP 基础知识。什么都不会上传：您的照片绝不会离开您的设备。",
+  "id": "/loona-image-compressor/zh/image-metadata-viewer.html",
+  "start_url": "./image-metadata-viewer.html",
+  "scope": "./image-metadata-viewer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

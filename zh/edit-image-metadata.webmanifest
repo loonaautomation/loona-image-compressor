@@ -1,0 +1,29 @@
+{
+  "name": "Loona EXIF 编辑器",
+  "short_name": "EXIF 编辑器",
+  "description": "免费在线编辑 JPG 照片的 EXIF 数据 — 修正拍摄日期、添加您的姓名作为艺术家、设置版权、相机品牌和型号，或在一张没有 EXIF 的照片上创建 EXIF。像素从不被重新编码，什么都不会上传。",
+  "id": "/loona-image-compressor/zh/edit-image-metadata.html",
+  "start_url": "./edit-image-metadata.html",
+  "scope": "./edit-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

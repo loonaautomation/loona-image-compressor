@@ -1,0 +1,29 @@
+{
+  "name": "Loona GIF 转 JPG 转换器",
+  "short_name": "GIF 转 JPG 转换器",
+  "description": "免费在线将 GIF 转换为 JPG — 将 GIF 变成小巧、通用的 JPG 静止图片。在您的浏览器中：无需注册，无需上传，无水印。",
+  "id": "/loona-image-compressor/zh/gif-to-jpg.html",
+  "start_url": "./gif-to-jpg.html",
+  "scope": "./gif-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
