@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dimensiune Semnătură IBPS PO",
+  "short_name": "Dimensiune Semnătură IBPS PO",
+  "description": "Redimensionează semnătură pentru IBPS PO la dimensiunea din notificare (140 × 60 px) și intervalul 10–20 KB. Gratuit, în browserul tău — fără încărcare, fără înregistrare.",
+  "id": "/loona-image-compressor/ro/ibps-po-signature-size.html",
+  "start_url": "./ibps-po-signature-size.html",
+  "scope": "./ibps-po-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dimensiune Fotografie SBI PO",
+  "short_name": "Dimensiune Fotografie SBI PO",
+  "description": "Redimensionează fotografie pentru SBI PO la dimensiunea din notificare (200 × 230 px) și intervalul 20–50 KB. Gratuit, în browserul tău — fără încărcare, fără înregistrare.",
+  "id": "/loona-image-compressor/ro/sbi-po-photo-size.html",
+  "start_url": "./sbi-po-photo-size.html",
+  "scope": "./sbi-po-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

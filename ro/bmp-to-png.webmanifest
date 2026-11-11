@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertor BMP în PNG",
+  "short_name": "Convertor BMP în PNG",
+  "description": "Convertește BMP în PNG online gratuit — fără pierderi, mult mai mic decât BMP și acceptat peste tot. Rulează în browserul tău, fără înregistrare, fără încărcare.",
+  "id": "/loona-image-compressor/ro/bmp-to-png.html",
+  "start_url": "./bmp-to-png.html",
+  "scope": "./bmp-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

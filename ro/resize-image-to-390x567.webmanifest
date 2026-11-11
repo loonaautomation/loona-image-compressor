@@ -1,0 +1,29 @@
+{
+  "name": "Loona Redimensionează imaginea la 390 × 567 px online",
+  "short_name": "Redimensionează imaginea la",
+  "description": "Redimensionează orice imagine la exact 390×567 px — 33 × 48 mm la 300 DPI — dimensiunea vizei Chinei. Gratuit în browserul tău, cu control al decupării; fără încărcare, fără înregistrare.",
+  "id": "/loona-image-compressor/ro/resize-image-to-390x567.html",
+  "start_url": "./resize-image-to-390x567.html",
+  "scope": "./resize-image-to-390x567.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

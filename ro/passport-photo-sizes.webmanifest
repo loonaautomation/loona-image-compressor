@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dimensiuni pentru fotografii de pașaport și viză pe țări",
+  "short_name": "Dimensiuni pentru fotografii",
+  "description": "Dimensiuni oficiale pentru fotografii de pașaport, viză și acte de identitate pentru 40 de țări și documente, fiecare cu un instrument de creare la dimensiunea exactă în milimetri și pixeli.",
+  "id": "/loona-image-compressor/ro/passport-photo-sizes.html",
+  "start_url": "./passport-photo-sizes.html",
+  "scope": "./passport-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

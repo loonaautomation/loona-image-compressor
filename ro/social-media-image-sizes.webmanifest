@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dimensiuni de imagini pentru rețelele sociale 2026",
+  "short_name": "Dimensiuni de imagini pentru",
+  "description": "Dimensiuni exacte de imagini pentru Instagram, Facebook, YouTube, X, LinkedIn, Pinterest, TikTok și Discord — cu un instrument de creare și un ghid al zonei sigure pentru fiecare slot.",
+  "id": "/loona-image-compressor/ro/social-media-image-sizes.html",
+  "start_url": "./social-media-image-sizes.html",
+  "scope": "./social-media-image-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Vizualizator de metadate de imagine și EXIF",
+  "short_name": "Vizualizator de metadate de",
+  "description": "Vizualizează metadatele ascunse din orice fotografie JPG, PNG sau WebP online gratuit — marca și modelul camerei, data realizării, expunerea, ISO, distanța focală, locația GPS, noțiuni de bază IPTC și XMP. Nimic nu este încărcat: fotografia ta nu părăsește niciodată dispozitivul.",
+  "id": "/loona-image-compressor/ro/image-metadata-viewer.html",
+  "start_url": "./image-metadata-viewer.html",
+  "scope": "./image-metadata-viewer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

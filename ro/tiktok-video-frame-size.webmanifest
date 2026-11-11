@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dimensiune Cadru video TikTok",
+  "short_name": "Dimensiune Cadru video TikTok",
+  "description": "Creează un cadru video TikTok la exact 1080×1920 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
+  "id": "/loona-image-compressor/ro/tiktok-video-frame-size.html",
+  "start_url": "./tiktok-video-frame-size.html",
+  "scope": "./tiktok-video-frame-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

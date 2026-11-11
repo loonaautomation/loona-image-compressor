@@ -1,0 +1,29 @@
+{
+  "name": "Loona Redimensionează imaginea la 413 × 531 px online",
+  "short_name": "Redimensionează imaginea la",
+  "description": "Redimensionează orice imagine la exact 413×531 px — 35 × 45 mm la 300 DPI — dimensiunea de imprimare ICAO/Schengen în pixeli. Gratuit în browserul tău, cu control al decupării; fără încărcare, fără înregistrare.",
+  "id": "/loona-image-compressor/ro/resize-image-to-413x531.html",
+  "start_url": "./resize-image-to-413x531.html",
+  "scope": "./resize-image-to-413x531.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

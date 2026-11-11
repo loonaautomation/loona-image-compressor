@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator de gradiente CSS",
+  "short_name": "Generator de gradiente CSS",
+  "description": "Construiește gradiente liniare CSS cu două sau trei culori și orice unghi, previzualizează-le live și copiază codul CSS gata făcut. Gratuit, fără înregistrare.",
+  "id": "/loona-image-compressor/ro/gradient-generator.html",
+  "start_url": "./gradient-generator.html",
+  "scope": "./gradient-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

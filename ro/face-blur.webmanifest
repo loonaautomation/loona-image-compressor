@@ -1,0 +1,29 @@
+{
+  "name": "Loona Estompare a feței",
+  "short_name": "Estompare a feței",
+  "description": "Estompează sau pixelează fețe, numere de înmatriculare și detalii private în orice fotografie. Tu selectezi zonele, alegi puterea, previzualizezi și descarci — gratuit, fără înregistrare, iar fotografia ta nu părăsește niciodată dispozitivul.",
+  "id": "/loona-image-compressor/ro/face-blur.html",
+  "start_url": "./face-blur.html",
+  "scope": "./face-blur.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

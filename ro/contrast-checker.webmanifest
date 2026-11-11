@@ -1,0 +1,29 @@
+{
+  "name": "Loona Verificator de contrast",
+  "short_name": "Verificator de contrast",
+  "description": "Verifică culorile textului și fundalului în raport cu WCAG: raport de contrast instantaneu, cu trecut/picat AA și AAA pentru text normal și mare, plus o previzualizare live. Gratuit, fără înregistrare.",
+  "id": "/loona-image-compressor/ro/contrast-checker.html",
+  "start_url": "./contrast-checker.html",
+  "scope": "./contrast-checker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Comprimă PNG la 25 KB online",
+  "short_name": "Comprimă PNG la 25 KB online",
+  "description": "Comprimă o imagine PNG la 25 KB sau mai puțin, gratuit în browserul tău. Căutarea automată găsește cea mai bună calitate care încape — fără înregistrare, fără încărcare.",
+  "id": "/loona-image-compressor/ro/compress-png-to-25kb.html",
+  "start_url": "./compress-png-to-25kb.html",
+  "scope": "./compress-png-to-25kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

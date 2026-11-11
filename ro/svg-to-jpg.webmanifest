@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertor SVG în JPG",
+  "short_name": "Convertor SVG în JPG",
+  "description": "Convertește SVG în JPG online gratuit — redă logo-uri vectoriale și ilustrații ca JPG-uri universale la orice lățime. Fără înregistrare, fără încărcare, în browserul tău.",
+  "id": "/loona-image-compressor/ro/svg-to-jpg.html",
+  "start_url": "./svg-to-jpg.html",
+  "scope": "./svg-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

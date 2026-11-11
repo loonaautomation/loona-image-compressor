@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertor WebP în PNG",
+  "short_name": "Convertor WebP în PNG",
+  "description": "Convertește WebP în PNG online gratuit — PNG fără pierderi, cu transparență, pentru editoare și instrumente de design. Rulează în browserul tău, fără înregistrare, fără încărcare.",
+  "id": "/loona-image-compressor/ro/webp-to-png.html",
+  "start_url": "./webp-to-png.html",
+  "scope": "./webp-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

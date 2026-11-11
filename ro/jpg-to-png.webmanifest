@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertor JPG în PNG",
+  "short_name": "Convertor JPG în PNG",
+  "description": "Convertește JPG în PNG online gratuit — ieșire fără pierderi pentru editoare, instrumente de design și documente. Rulează în browserul tău, fără înregistrare, fără încărcare.",
+  "id": "/loona-image-compressor/ro/jpg-to-png.html",
+  "start_url": "./jpg-to-png.html",
+  "scope": "./jpg-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

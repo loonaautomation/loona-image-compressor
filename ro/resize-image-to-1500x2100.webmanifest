@@ -1,0 +1,29 @@
+{
+  "name": "Loona Redimensionează imaginea la 1500 × 2100 px online",
+  "short_name": "Redimensionează imaginea la",
+  "description": "Redimensionează orice imagine la exact 1500×2100 px — Imprimat foto de 5 × 7 inch la 300 DPI. Gratuit în browserul tău, cu control al decupării; fără încărcare, fără înregistrare.",
+  "id": "/loona-image-compressor/ro/resize-image-to-1500x2100.html",
+  "start_url": "./resize-image-to-1500x2100.html",
+  "scope": "./resize-image-to-1500x2100.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

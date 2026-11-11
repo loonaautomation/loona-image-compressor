@@ -1,0 +1,29 @@
+{
+  "name": "Loona Schimbător de fundaluri foto",
+  "short_name": "Schimbător de fundaluri foto",
+  "description": "Schimbă fundalul unei fotografii în alb, albastru, gri deschis sau roșu, gratuit online. Umplere prin inundare plus instrumente pensulă, privat în browserul tău, fără încărcare AI.",
+  "id": "/loona-image-compressor/ro/photo-background-changer.html",
+  "start_url": "./photo-background-changer.html",
+  "scope": "./photo-background-changer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dimensiune Semnătură UPSC Civil Services (IAS)",
+  "short_name": "Dimensiune Semnătură UPSC",
+  "description": "Redimensionează semnătură pentru UPSC Civil Services (IAS) la dimensiunea din notificare (casetă scanată, raport aproximativ 7:2) și intervalul 20–300 KB. Gratuit, în browserul tău — fără încărcare, fără înregistrare.",
+  "id": "/loona-image-compressor/ro/upsc-cse-signature-size.html",
+  "start_url": "./upsc-cse-signature-size.html",
+  "scope": "./upsc-cse-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

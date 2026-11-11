@@ -1,0 +1,29 @@
+{
+  "name": "Loona Decupare imagine online gratuită",
+  "short_name": "Decupare imagine online",
+  "description": "Decupează imagini online gratuit cu raporturi gata făcute — 1:1, 4:3, 16:9 și pașaport 35×45 — plus rotație și întoarcere. Descarcă decuparea exactă la rezoluție completă.",
+  "id": "/loona-image-compressor/ro/crop-image.html",
+  "start_url": "./crop-image.html",
+  "scope": "./crop-image.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

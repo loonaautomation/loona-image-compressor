@@ -1,0 +1,29 @@
+{
+  "name": "Loona Comprimă imaginea la orice dimensiune KB",
+  "short_name": "Comprimă imaginea la orice",
+  "description": "Fiecare instrument de comprimare la dimensiune: 16 dimensiuni țintă în JPG, PNG și WebP, de la 10 KB la 2 MB. Gratuit, în browserul tău.",
+  "id": "/loona-image-compressor/ro/compress-image-sizes.html",
+  "start_url": "./compress-image-sizes.html",
+  "scope": "./compress-image-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

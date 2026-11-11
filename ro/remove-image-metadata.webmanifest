@@ -1,0 +1,29 @@
+{
+  "name": "Loona Elimină metadatele imaginii",
+  "short_name": "Elimină metadatele imaginii",
+  "description": "Elimină metadatele EXIF, locația GPS, XMP și IPTC din fotografiile JPG, PNG și WebP online gratuit. Eliminare la nivel de octet — pixelii nu sunt niciodată recodificați, așa că calitatea rămâne neatinsă. Verificat printr-o reverificare, 100% privat în browserul tău.",
+  "id": "/loona-image-compressor/ro/remove-image-metadata.html",
+  "start_url": "./remove-image-metadata.html",
+  "scope": "./remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

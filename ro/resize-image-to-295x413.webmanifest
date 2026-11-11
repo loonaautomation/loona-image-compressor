@@ -1,0 +1,29 @@
+{
+  "name": "Loona Redimensionează imaginea la 295 × 413 px online",
+  "short_name": "Redimensionează imaginea la",
+  "description": "Redimensionează orice imagine la exact 295×413 px — 25 × 35 mm la 300 DPI — dimensiunea cardului PAN al Indiei. Gratuit în browserul tău, cu control al decupării; fără încărcare, fără înregistrare.",
+  "id": "/loona-image-compressor/ro/resize-image-to-295x413.html",
+  "start_url": "./resize-image-to-295x413.html",
+  "scope": "./resize-image-to-295x413.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

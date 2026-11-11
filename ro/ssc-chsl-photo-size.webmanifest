@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dimensiune Fotografie SSC CHSL",
+  "short_name": "Dimensiune Fotografie SSC CHSL",
+  "description": "Redimensionează fotografie pentru SSC CHSL la dimensiunea din notificare (200 × 230 px) și intervalul 20–50 KB. Gratuit, în browserul tău — fără încărcare, fără înregistrare.",
+  "id": "/loona-image-compressor/ro/ssc-chsl-photo-size.html",
+  "start_url": "./ssc-chsl-photo-size.html",
+  "scope": "./ssc-chsl-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dimensiune Fotografie pentru Loteria Vizelor SUA pentru Diversitate (Green Card)",
+  "short_name": "Dimensiune Fotografie pentru",
+  "description": "Creează un Fotografie pentru Loteria Vizelor SUA pentru Diversitate (Green Card) la dimensiunea oficială 51×51 mm (600×600 px), fundal alb simplu sau alb murdar. Creator online gratuit — decupează, descarcă și imprimă foaia, fără încărcare.",
+  "id": "/loona-image-compressor/ro/us-dv-lottery-photo-size.html",
+  "start_url": "./us-dv-lottery-photo-size.html",
+  "scope": "./us-dv-lottery-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

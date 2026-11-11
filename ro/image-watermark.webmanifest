@@ -1,0 +1,29 @@
+{
+  "name": "Loona Filigran de imagine",
+  "short_name": "Filigran de imagine",
+  "description": "Adaugă un filigran text pe orice fotografie online, gratuit — alege textul, dimensiunea, culoarea, opacitatea și poziția sau repetă-l ca model de plăci. Previzualizare live, fără înregistrare, iar imaginea ta nu părăsește niciodată dispozitivul.",
+  "id": "/loona-image-compressor/ro/image-watermark.html",
+  "start_url": "./image-watermark.html",
+  "scope": "./image-watermark.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
