@@ -1,0 +1,29 @@
+{
+  "name": "Loona Massborttagare av metadata",
+  "short_name": "Massborttagare av metadata",
+  "description": "Ta bort EXIF-, GPS- och XMP-metadata från många foton samtidigt — släpp en batch JPG-, PNG- och WebP-filer, rensa dem alla i din webbläsare och ladda ner allt som en ZIP. Gratis, privat, inga uppladdningar, ingen omkodning.",
+  "id": "/loona-image-compressor/sv/bulk-remove-image-metadata.html",
+  "start_url": "./bulk-remove-image-metadata.html",
+  "scope": "./bulk-remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

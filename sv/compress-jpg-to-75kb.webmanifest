@@ -1,0 +1,29 @@
+{
+  "name": "Loona Komprimera JPG till 75 KB online",
+  "short_name": "Komprimera JPG till 75 KB",
+  "description": "Komprimera en JPG-bild till 75 KB eller mindre, gratis i din webbläsare. Automatisk sökning hittar den bästa kvaliteten som ryms — ingen registrering, ingen uppladdning.",
+  "id": "/loona-image-compressor/sv/compress-jpg-to-75kb.html",
+  "start_url": "./compress-jpg-to-75kb.html",
+  "scope": "./compress-jpg-to-75kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

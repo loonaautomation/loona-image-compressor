@@ -1,0 +1,29 @@
+{
+  "name": "Loona Memegenerator",
+  "short_name": "Memegenerator",
+  "description": "Gör valfritt foto till ett klassiskt meme med fet topp- och bottext — gratis onlinememegenerator med liveförhandsvisning, alternativ för slät bakgrund och PNG-nedladdning. Ingen registrering, och din bild lämnar aldrig din enhet.",
+  "id": "/loona-image-compressor/sv/meme-generator.html",
+  "start_url": "./meme-generator.html",
+  "scope": "./meme-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

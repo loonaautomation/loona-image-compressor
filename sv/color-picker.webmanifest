@@ -1,0 +1,29 @@
+{
+  "name": "Loona Färgväljare",
+  "short_name": "Färgväljare",
+  "description": "Välj valfri färg och kopiera direkt dess HEX-, RGB-, HSL- och HSV-värden. Inkluderar en remsa med nyanser och skuggor — gratis, ingen registrering, fungerar i din webbläsare.",
+  "id": "/loona-image-compressor/sv/color-picker.html",
+  "start_url": "./color-picker.html",
+  "scope": "./color-picker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

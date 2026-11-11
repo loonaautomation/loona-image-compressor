@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kinesiskt visumfoto storlek",
+  "short_name": "Kinesiskt visumfoto storlek",
+  "description": "Skapa ett Kinesiskt visumfoto i den officiella storleken 33×48 mm (390×567 px), helvit bakgrund. Gratis onlineskapare — beskär, ladda ner och skriv ut ark, ingen uppladdning.",
+  "id": "/loona-image-compressor/sv/china-visa-photo-size.html",
+  "start_url": "./china-visa-photo-size.html",
+  "scope": "./china-visa-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

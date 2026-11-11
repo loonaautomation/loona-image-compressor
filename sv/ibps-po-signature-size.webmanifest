@@ -1,0 +1,29 @@
+{
+  "name": "Loona IBPS PO Signatur Storlek",
+  "short_name": "IBPS PO Signatur Storlek",
+  "description": "Ändra storlek på ditt IBPS PO signatur till anmälningsstorleken (140 × 60 px) och bandet 10–20 KB. Gratis, i din webbläsare — ingen uppladdning, ingen registrering.",
+  "id": "/loona-image-compressor/sv/ibps-po-signature-size.html",
+  "start_url": "./ibps-po-signature-size.html",
+  "scope": "./ibps-po-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

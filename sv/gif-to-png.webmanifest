@@ -1,0 +1,29 @@
+{
+  "name": "Loona GIF till PNG Konverterare",
+  "short_name": "GIF till PNG Konverterare",
+  "description": "Konvertera GIF till PNG online gratis — en ren, förlustfri stillbild från din GIF. Webbläsarbaserad, ingen registrering, ingen uppladdning, ingen vattenstämpel.",
+  "id": "/loona-image-compressor/sv/gif-to-png.html",
+  "start_url": "./gif-to-png.html",
+  "scope": "./gif-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona SVG till PNG Konverterare",
+  "short_name": "SVG till PNG Konverterare",
+  "description": "Konvertera SVG till PNG online gratis i valfri bredd — skarpa rasterbilder från vektorlogotyper och ikoner. Ingen registrering, ingen uppladdning, körs i din webbläsare.",
+  "id": "/loona-image-compressor/sv/svg-to-png.html",
+  "start_url": "./svg-to-png.html",
+  "scope": "./svg-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

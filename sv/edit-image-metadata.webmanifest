@@ -1,0 +1,29 @@
+{
+  "name": "Loona EXIF-redigerare",
+  "short_name": "EXIF-redigerare",
+  "description": "Redigera EXIF-data för ett JPG-foto online gratis — fixa fotograferingsdatumet, lägg till ditt namn som konstnär, ställ in upphovsrätt, kameratillverkare och modell, eller skapa EXIF på ett foto som saknar det. Pixlar kodas aldrig om och ingenting laddas upp.",
+  "id": "/loona-image-compressor/sv/edit-image-metadata.html",
+  "start_url": "./edit-image-metadata.html",
+  "scope": "./edit-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

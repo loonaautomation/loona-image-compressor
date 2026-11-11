@@ -1,0 +1,29 @@
+{
+  "name": "Loona Beskär bild online gratis",
+  "short_name": "Beskär bild online gratis",
+  "description": "Beskär bilder online gratis med färdiga förhållanden — 1:1, 4:3, 16:9 och pass 35×45 — plus rotera och vänd. Ladda ner den exakta beskärningen i full upplösning.",
+  "id": "/loona-image-compressor/sv/crop-image.html",
+  "start_url": "./crop-image.html",
+  "scope": "./crop-image.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

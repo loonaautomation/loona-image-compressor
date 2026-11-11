@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bildförbättrare",
+  "short_name": "Bildförbättrare",
+  "description": "Förbättra ett foto online gratis: autoförbättring med ett klick, skärp mjuka foton, rensa varsamt brus och skala upp 2x eller 4x. Ärliga resultat, ingen registrering, och ditt foto lämnar aldrig din enhet.",
+  "id": "/loona-image-compressor/sv/image-enhancer.html",
+  "start_url": "./image-enhancer.html",
+  "scope": "./image-enhancer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

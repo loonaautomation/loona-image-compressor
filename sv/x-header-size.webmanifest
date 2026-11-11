@@ -1,0 +1,29 @@
+{
+  "name": "Loona X (Twitter) Rubrik / Banner Storlek",
+  "short_name": "X (Twitter) Rubrik / Banner",
+  "description": "Skapa en X (Twitter) rubrik / banner på exakt 1500×500 px. Gratis storleksändrare/beskärare i din webbläsare med säker-zon-reglerna som stoppar beskuren text och ansikten.",
+  "id": "/loona-image-compressor/sv/x-header-size.html",
+  "start_url": "./x-header-size.html",
+  "scope": "./x-header-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

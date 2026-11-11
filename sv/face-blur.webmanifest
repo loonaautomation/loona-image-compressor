@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ansiktssuddighet",
+  "short_name": "Ansiktssuddighet",
+  "description": "Sudda eller pixla ansikten, registreringsskyltar och privata detaljer i valfritt foto. Du väljer områdena själv, väljer styrkan, förhandsvisar och laddar ner — gratis, ingen registrering, och ditt foto lämnar aldrig din enhet.",
+  "id": "/loona-image-compressor/sv/face-blur.html",
+  "start_url": "./face-blur.html",
+  "scope": "./face-blur.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

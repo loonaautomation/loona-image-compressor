@@ -1,0 +1,29 @@
+{
+  "name": "Loona Komprimera WebP till 20 KB online",
+  "short_name": "Komprimera WebP till 20 KB",
+  "description": "Komprimera en WebP-bild till 20 KB eller mindre, gratis i din webbläsare. Automatisk sökning hittar den bästa kvaliteten som ryms — ingen registrering, ingen uppladdning.",
+  "id": "/loona-image-compressor/sv/compress-webp-to-20kb.html",
+  "start_url": "./compress-webp-to-20kb.html",
+  "scope": "./compress-webp-to-20kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

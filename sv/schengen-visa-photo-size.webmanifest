@@ -1,0 +1,29 @@
+{
+  "name": "Loona Schengenvisumfoto storlek",
+  "short_name": "Schengenvisumfoto storlek",
+  "description": "Skapa ett Schengenvisumfoto i den officiella storleken 35×45 mm (413×531 px), ljusgrå eller slät ljus bakgrund bakgrund. Gratis onlineskapare — beskär, ladda ner och skriv ut ark, ingen uppladdning.",
+  "id": "/loona-image-compressor/sv/schengen-visa-photo-size.html",
+  "start_url": "./schengen-visa-photo-size.html",
+  "scope": "./schengen-visa-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

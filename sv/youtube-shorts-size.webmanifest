@@ -1,0 +1,29 @@
+{
+  "name": "Loona YouTube Shorts-omslag / Bildruta Storlek",
+  "short_name": "YouTube Shorts-omslag /",
+  "description": "Skapa en YouTube shorts-omslag / bildruta på exakt 1080×1920 px. Gratis storleksändrare/beskärare i din webbläsare med säker-zon-reglerna som stoppar beskuren text och ansikten.",
+  "id": "/loona-image-compressor/sv/youtube-shorts-size.html",
+  "start_url": "./youtube-shorts-size.html",
+  "scope": "./youtube-shorts-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

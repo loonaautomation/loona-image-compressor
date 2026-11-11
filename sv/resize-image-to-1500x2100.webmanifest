@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ändra bildstorlek till 1500 × 2100 px online",
+  "short_name": "Ändra bildstorlek till 1500 ×",
+  "description": "Ändra storlek på valfri bild till exakt 1500×2100 px — Fotoutskrift på 5 × 7 tum vid 300 DPI. Gratis i din webbläsare med beskärningskontroll; ingen uppladdning, ingen registrering.",
+  "id": "/loona-image-compressor/sv/resize-image-to-1500x2100.html",
+  "start_url": "./resize-image-to-1500x2100.html",
+  "scope": "./resize-image-to-1500x2100.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
