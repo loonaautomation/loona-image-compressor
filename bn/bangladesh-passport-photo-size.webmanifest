@@ -1,0 +1,29 @@
+{
+  "name": "Loona বাংলাদেশ পাসপোর্ট ছবি আকার",
+  "short_name": "বাংলাদেশ পাসপোর্ট ছবি আকার",
+  "description": "সরকারি আকার 40×50 mm (472×591 px)-এ একটি বাংলাদেশ পাসপোর্ট ছবি তৈরি করুন, সাধারণ সাদা পটভূমিসহ। বিনামূল্যে অনলাইন মেকার — ক্রপ করুন, ডাউনলোড করুন ও শিট প্রিন্ট করুন, আপলোড ছাড়া।",
+  "id": "/loona-image-compressor/bn/bangladesh-passport-photo-size.html",
+  "start_url": "./bangladesh-passport-photo-size.html",
+  "scope": "./bangladesh-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

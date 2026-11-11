@@ -1,0 +1,29 @@
+{
+  "name": "Loona রঙ পিকার",
+  "short_name": "রঙ পিকার",
+  "description": "যেকোনো রঙ বেছে নিন এবং তাৎক্ষণিকভাবে এর HEX, RGB, HSL ও HSV মান কপি করুন। একটি টিন্ট ও শেড স্ট্রিপ অন্তর্ভুক্ত — বিনামূল্যে, কোনো সাইনআপ নয়, আপনার ব্রাউজারে কাজ করে।",
+  "id": "/loona-image-compressor/bn/color-picker.html",
+  "start_url": "./color-picker.html",
+  "scope": "./color-picker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

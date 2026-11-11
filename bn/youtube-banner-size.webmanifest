@@ -1,0 +1,29 @@
+{
+  "name": "Loona YouTube চ্যানেল ব্যানার আকার",
+  "short_name": "YouTube চ্যানেল ব্যানার আকার",
+  "description": "ঠিক 2560×1440 px-এ একটি YouTube চ্যানেল ব্যানার তৈরি করুন। আপনার ব্রাউজারে বিনামূল্যে রিসাইজার/ক্রপার, ক্রপ করা লেখা ও মুখ আটকায় এমন নিরাপদ-অঞ্চলের নিয়মসহ।",
+  "id": "/loona-image-compressor/bn/youtube-banner-size.html",
+  "start_url": "./youtube-banner-size.html",
+  "scope": "./youtube-banner-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

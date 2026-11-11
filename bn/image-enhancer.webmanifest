@@ -1,0 +1,29 @@
+{
+  "name": "Loona ছবি উন্নতকারী",
+  "short_name": "ছবি উন্নতকারী",
+  "description": "একটি ছবি অনলাইনে বিনামূল্যে উন্নত করুন: এক-ক্লিক স্বয়ংক্রিয় উন্নত, নরম ছবি শার্পেন করুন, মৃদুভাবে নয়েজ পরিষ্কার করুন এবং 2x বা 4x আপস্কেল করুন। সৎ ফলাফল, কোনো সাইনআপ নয়, এবং আপনার ছবি কখনো আপনার ডিভাইস ছেড়ে যায় না।",
+  "id": "/loona-image-compressor/bn/image-enhancer.html",
+  "start_url": "./image-enhancer.html",
+  "scope": "./image-enhancer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

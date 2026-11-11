@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSS গ্রেডিয়েন্ট জেনারেটর",
+  "short_name": "CSS গ্রেডিয়েন্ট জেনারেটর",
+  "description": "দুই বা তিনটি রঙ ও যেকোনো কোণ দিয়ে CSS রৈখিক গ্রেডিয়েন্ট তৈরি করুন, সেগুলো লাইভ প্রিভিউ দেখুন এবং প্রস্তুত CSS কোড কপি করুন। বিনামূল্যে, কোনো সাইনআপ নয়।",
+  "id": "/loona-image-compressor/bn/gradient-generator.html",
+  "start_url": "./gradient-generator.html",
+  "scope": "./gradient-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

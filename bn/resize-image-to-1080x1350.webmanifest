@@ -1,0 +1,29 @@
+{
+  "name": "Loona ছবিকে 1080 × 1350",
+  "short_name": "ছবিকে 1080 × 1350",
+  "description": "যেকোনো ছবিকে ঠিক 1080 × 1350 পিক্সেলে (Instagram portrait posts in the 4:5 ratio) বিনামূল্যে রিসাইজ করুন। Cover, contain বা stretch, JPG বা PNG, তাৎক্ষণিকভাবে ডাউনলোড করুন — কোনো সাইনআপ নয়, কিছুই আপলোড হয় না।",
+  "id": "/loona-image-compressor/bn/resize-image-to-1080x1350.html",
+  "start_url": "./resize-image-to-1080x1350.html",
+  "scope": "./resize-image-to-1080x1350.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

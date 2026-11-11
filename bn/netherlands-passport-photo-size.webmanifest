@@ -1,0 +1,29 @@
+{
+  "name": "Loona নেদারল্যান্ডস পাসপোর্ট ছবি আকার",
+  "short_name": "নেদারল্যান্ডস পাসপোর্ট ছবি",
+  "description": "সরকারি আকার 35×45 mm (413×531 px)-এ একটি নেদারল্যান্ডস পাসপোর্ট ছবি তৈরি করুন, সাধারণ হালকা ধূসর বা সাদা, সমানভাবে আলোকিত পটভূমিসহ। বিনামূল্যে অনলাইন মেকার — ক্রপ করুন, ডাউনলোড করুন ও শিট প্রিন্ট করুন, আপলোড ছাড়া।",
+  "id": "/loona-image-compressor/bn/netherlands-passport-photo-size.html",
+  "start_url": "./netherlands-passport-photo-size.html",
+  "scope": "./netherlands-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

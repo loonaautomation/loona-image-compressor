@@ -1,0 +1,29 @@
+{
+  "name": "Loona মিম জেনারেটর",
+  "short_name": "মিম জেনারেটর",
+  "description": "যেকোনো ছবিকে বোল্ড উপরে ও নিচে লেখাসহ একটি ধ্রুপদি মিমে পরিণত করুন — লাইভ প্রিভিউ, সাধারণ পটভূমি বিকল্প ও PNG ডাউনলোডসহ বিনামূল্যে অনলাইন মিম জেনারেটর। কোনো সাইনআপ নয়, এবং আপনার ছবি কখনো আপনার ডিভাইস ছেড়ে যায় না।",
+  "id": "/loona-image-compressor/bn/meme-generator.html",
+  "start_url": "./meme-generator.html",
+  "scope": "./meme-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

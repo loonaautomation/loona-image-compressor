@@ -1,0 +1,29 @@
+{
+  "name": "Loona ছবি রিসাইজ করে 3840 × 2160 px করুন অনলাইনে",
+  "short_name": "ছবি রিসাইজ করে 3840 × 2160 px",
+  "description": "যেকোনো ছবি ঠিক 3840×2160 px-এ রিসাইজ করুন — 4K UHD ওয়ালপেপার / ভিডিও ফ্রেম। ক্রপ নিয়ন্ত্রণসহ আপনার ব্রাউজারে বিনামূল্যে; আপলোড নেই, সাইনআপ নেই।",
+  "id": "/loona-image-compressor/bn/resize-image-to-3840x2160.html",
+  "start_url": "./resize-image-to-3840x2160.html",
+  "scope": "./resize-image-to-3840x2160.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

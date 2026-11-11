@@ -1,0 +1,29 @@
+{
+  "name": "Loona ছবি ফরম্যাট রূপান্তরকারী",
+  "short_name": "ছবি ফরম্যাট রূপান্তরকারী",
+  "description": "JPG, PNG ও WebP-এর মধ্যে অনলাইনে বিনামূল্যে ছবি রূপান্তর করুন, ব্যাচে, মান নিয়ন্ত্রণ ও স্বচ্ছ-পটভূমি সমতলকরণসহ। কোনো সাইনআপ প্রয়োজন নেই।",
+  "id": "/loona-image-compressor/bn/image-format-converter.html",
+  "start_url": "./image-format-converter.html",
+  "scope": "./image-format-converter.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

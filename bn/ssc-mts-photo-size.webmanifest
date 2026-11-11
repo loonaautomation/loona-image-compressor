@@ -1,0 +1,29 @@
+{
+  "name": "Loona SSC MTS ছবি আকার",
+  "short_name": "SSC MTS ছবি আকার",
+  "description": "আপনার SSC MTS ছবি বিজ্ঞপ্তির আকারে (200 × 230 px) এবং 20–50 KB ব্যান্ডে রিসাইজ করুন। বিনামূল্যে, আপনার ব্রাউজারে — আপলোড নেই, সাইনআপ নেই।",
+  "id": "/loona-image-compressor/bn/ssc-mts-photo-size.html",
+  "start_url": "./ssc-mts-photo-size.html",
+  "scope": "./ssc-mts-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

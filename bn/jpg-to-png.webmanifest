@@ -1,0 +1,29 @@
+{
+  "name": "Loona JPG থেকে PNG রূপান্তরকারী",
+  "short_name": "JPG থেকে PNG রূপান্তরকারী",
+  "description": "JPG-কে অনলাইনে বিনামূল্যে PNG-তে রূপান্তর করুন — এডিটর, ডিজাইন টুল ও নথির জন্য লসলেস আউটপুট। আপনার ব্রাউজারে চলে, কোনো সাইনআপ নয়, কোনো আপলোড নয়।",
+  "id": "/loona-image-compressor/bn/jpg-to-png.html",
+  "start_url": "./jpg-to-png.html",
+  "scope": "./jpg-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Facebook স্টোরি আকার",
+  "short_name": "Facebook স্টোরি আকার",
+  "description": "ঠিক 1080×1920 px-এ একটি Facebook স্টোরি তৈরি করুন। আপনার ব্রাউজারে বিনামূল্যে রিসাইজার/ক্রপার, ক্রপ করা লেখা ও মুখ আটকায় এমন নিরাপদ-অঞ্চলের নিয়মসহ।",
+  "id": "/loona-image-compressor/bn/facebook-story-size.html",
+  "start_url": "./facebook-story-size.html",
+  "scope": "./facebook-story-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

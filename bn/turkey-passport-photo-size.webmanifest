@@ -1,0 +1,29 @@
+{
+  "name": "Loona তুর্কিয়ে পাসপোর্ট / ভিসা ছবি (বায়োমেট্রিক) আকার",
+  "short_name": "তুর্কিয়ে পাসপোর্ট / ভিসা ছবি",
+  "description": "সরকারি আকার 50×60 mm (591×709 px)-এ একটি তুর্কিয়ে পাসপোর্ট / ভিসা ছবি (বায়োমেট্রিক) তৈরি করুন, সাধারণ সাদা পটভূমিসহ। বিনামূল্যে অনলাইন মেকার — ক্রপ করুন, ডাউনলোড করুন ও শিট প্রিন্ট করুন, আপলোড ছাড়া।",
+  "id": "/loona-image-compressor/bn/turkey-passport-photo-size.html",
+  "start_url": "./turkey-passport-photo-size.html",
+  "scope": "./turkey-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

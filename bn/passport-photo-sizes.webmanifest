@@ -1,0 +1,29 @@
+{
+  "name": "Loona দেশ অনুযায়ী পাসপোর্ট ও ভিসা ছবির আকার",
+  "short_name": "দেশ অনুযায়ী পাসপোর্ট ও ভিসা",
+  "description": "40টি দেশ ও নথির জন্য সরকারি পাসপোর্ট, ভিসা ও ID ছবির আকার, প্রতিটির সাথে ঠিক মিলিমিটার ও পিক্সেল আকারে একটি মেকার টুল।",
+  "id": "/loona-image-compressor/bn/passport-photo-sizes.html",
+  "start_url": "./passport-photo-sizes.html",
+  "scope": "./passport-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

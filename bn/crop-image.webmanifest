@@ -1,0 +1,29 @@
+{
+  "name": "Loona ছবি ক্রপ করুন অনলাইনে বিনামূল্যে",
+  "short_name": "ছবি ক্রপ করুন অনলাইনে",
+  "description": "প্রস্তুত অনুপাত দিয়ে অনলাইনে বিনামূল্যে ছবি ক্রপ করুন — 1:1, 4:3, 16:9 ও পাসপোর্ট 35×45 — পাশাপাশি ঘোরান ও উল্টান। পূর্ণ রেজোলিউশনে সঠিক ক্রপ ডাউনলোড করুন।",
+  "id": "/loona-image-compressor/bn/crop-image.html",
+  "start_url": "./crop-image.html",
+  "scope": "./crop-image.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

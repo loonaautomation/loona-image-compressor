@@ -1,0 +1,29 @@
+{
+  "name": "Loona নাম ও তারিখসহ পরীক্ষার ছবি",
+  "short_name": "নাম ও তারিখসহ পরীক্ষার ছবি",
+  "description": "বিনামূল্যে নিচে আপনার নাম ও তারিখ মুদ্রিত একটি পরীক্ষার ছবি তৈরি করুন — পাকিস্তান ও ভারতে ব্যবহৃত বোর্ড-পরীক্ষার ফরম্যাট। গোপনীয়, কোনো সাইনআপ প্রয়োজন নেই।",
+  "id": "/loona-image-compressor/bn/exam-photo-name-date.html",
+  "start_url": "./exam-photo-name-date.html",
+  "scope": "./exam-photo-name-date.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

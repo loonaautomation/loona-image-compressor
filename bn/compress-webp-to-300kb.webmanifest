@@ -1,0 +1,29 @@
+{
+  "name": "Loona WebP কমপ্রেস করে 300 KB করুন অনলাইনে",
+  "short_name": "WebP কমপ্রেস করে 300 KB করুন",
+  "description": "একটি WebP ছবিকে 300 KB বা তার কমে কমপ্রেস করুন, বিনামূল্যে আপনার ব্রাউজারে। স্বয়ংক্রিয় অনুসন্ধান মানানসই সেরা মান খুঁজে বের করে — সাইনআপ নেই, আপলোড নেই।",
+  "id": "/loona-image-compressor/bn/compress-webp-to-300kb.html",
+  "start_url": "./compress-webp-to-300kb.html",
+  "scope": "./compress-webp-to-300kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

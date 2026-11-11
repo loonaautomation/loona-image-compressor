@@ -1,0 +1,29 @@
+{
+  "name": "Loona ছবি থেকে GPS সরান",
+  "short_name": "ছবি থেকে GPS সরান",
+  "description": "শুধু একটি JPG, PNG বা WebP ছবি থেকে GPS অবস্থান সরান এবং ক্যামেরা, তারিখ ও এক্সপোজার ডেটা রাখুন। বাইট-বাই-বাইট, কোনো পুনরায় এনকোডিং নয়, পুনঃস্ক্যান দ্বারা যাচাই করা — আপনার ব্রাউজারে 100%, কিছুই আপলোড হয় না।",
+  "id": "/loona-image-compressor/bn/remove-gps-from-photo.html",
+  "start_url": "./remove-gps-from-photo.html",
+  "scope": "./remove-gps-from-photo.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona পাসপোর্ট ছবি প্রিন্ট শিট",
+  "short_name": "পাসপোর্ট ছবি প্রিন্ট শিট",
+  "description": "4, 6 বা 8টি পাসপোর্ট ছবি একটি A4 প্রিন্ট শিটে বিনামূল্যে রাখুন, 300 DPI-তে। 100%-এ প্রিন্ট করুন, গাইড অনুযায়ী কাটুন এবং স্টুডিওর টাকা বাঁচান। কোনো সাইনআপ নয়, সম্পূর্ণ গোপনীয়।",
+  "id": "/loona-image-compressor/bn/passport-photo-print-sheet.html",
+  "start_url": "./passport-photo-print-sheet.html",
+  "scope": "./passport-photo-print-sheet.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

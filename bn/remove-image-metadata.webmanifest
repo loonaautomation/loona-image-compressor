@@ -1,0 +1,29 @@
+{
+  "name": "Loona ছবির মেটাডেটা সরান",
+  "short_name": "ছবির মেটাডেটা সরান",
+  "description": "JPG, PNG ও WebP ছবি থেকে EXIF, GPS অবস্থান, XMP ও IPTC মেটাডেটা অনলাইনে বিনামূল্যে সরান। বাইট-স্তরের অপসারণ — পিক্সেল কখনো পুনরায় এনকোড করা হয় না, তাই মান অস্পৃশ্য থাকে। পুনঃস্ক্যান দ্বারা যাচাই করা, আপনার ব্রাউজারে 100% গোপনীয়।",
+  "id": "/loona-image-compressor/bn/remove-image-metadata.html",
+  "start_url": "./remove-image-metadata.html",
+  "scope": "./remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

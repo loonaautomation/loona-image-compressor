@@ -1,0 +1,29 @@
+{
+  "name": "Loona পরীক্ষার ছবি ও স্বাক্ষরের আকার",
+  "short_name": "পরীক্ষার ছবি ও স্বাক্ষরের আকার",
+  "description": "20টি প্রধান ভারতীয় পরীক্ষার জন্য ছবি ও স্বাক্ষরের আকার এবং KB ব্যান্ড — SSC, IBPS, SBI, UPSC, RRB, JEE, NEET ও আরও, প্রতিটির সাথে একটি মেকার টুল।",
+  "id": "/loona-image-compressor/bn/exam-photo-sizes.html",
+  "start_url": "./exam-photo-sizes.html",
+  "scope": "./exam-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

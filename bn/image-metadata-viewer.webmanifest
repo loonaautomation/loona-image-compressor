@@ -1,0 +1,29 @@
+{
+  "name": "Loona ছবি মেটাডেটা ও EXIF দর্শক",
+  "short_name": "ছবি মেটাডেটা ও EXIF দর্শক",
+  "description": "যেকোনো JPG, PNG বা WebP ছবির ভিতরে লুকানো মেটাডেটা অনলাইনে বিনামূল্যে দেখুন — ক্যামেরার নির্মাতা ও মডেল, তোলার তারিখ, এক্সপোজার, ISO, ফোকাল দৈর্ঘ্য, GPS অবস্থান, IPTC ও XMP প্রাথমিক। কিছুই আপলোড হয় না: আপনার ছবি কখনো আপনার ডিভাইস ছেড়ে যায় না।",
+  "id": "/loona-image-compressor/bn/image-metadata-viewer.html",
+  "start_url": "./image-metadata-viewer.html",
+  "scope": "./image-metadata-viewer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
