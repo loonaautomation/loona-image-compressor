@@ -1,0 +1,29 @@
+{
+  "name": "Loona Compress PNG to 1000 KB",
+  "short_name": "Compress PNG to 1000 KB",
+  "description": "Compress a PNG image to 1000 KB or under, free in your browser. Automatic search finds the best quality that fits — no signup, no upload.",
+  "id": "/loona-image-compressor/en-us/compress-png-to-1000kb.html",
+  "start_url": "./compress-png-to-1000kb.html",
+  "scope": "./compress-png-to-1000kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

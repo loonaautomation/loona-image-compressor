@@ -1,0 +1,29 @@
+{
+  "name": "Loona Passport & Visa Photo Sizes by Country",
+  "short_name": "Passport & Visa Photo Sizes by Country",
+  "description": "Official passport, visa and ID photo sizes for 40 countries and documents, each with a maker tool at the exact millimeter and pixel size.",
+  "id": "/loona-image-compressor/en-us/passport-photo-sizes.html",
+  "start_url": "./passport-photo-sizes.html",
+  "scope": "./passport-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

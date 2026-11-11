@@ -1,0 +1,29 @@
+{
+  "name": "Loona CUET UG Photograph Size",
+  "short_name": "CUET UG Photograph Size",
+  "description": "Resize your CUET UG photo to the notification size (3.5 × 4.5 cm (about 413 × 531 px at 300 DPI)) and 10–200 KB band. Free, in your browser — no upload, no signup.",
+  "id": "/loona-image-compressor/en-us/cuet-ug-photo-size.html",
+  "start_url": "./cuet-ug-photo-size.html",
+  "scope": "./cuet-ug-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

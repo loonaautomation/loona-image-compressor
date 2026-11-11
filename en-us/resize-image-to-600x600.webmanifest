@@ -1,0 +1,29 @@
+{
+  "name": "Loona Resize Image to 600 × 600 px",
+  "short_name": "Resize Image to 600 × 600 px",
+  "description": "Resize any image to exactly 600×600 px — US passport/visa and DV Lottery minimum digital size. Free in your browser with crop control; no upload, no signup.",
+  "id": "/loona-image-compressor/en-us/resize-image-to-600x600.html",
+  "start_url": "./resize-image-to-600x600.html",
+  "scope": "./resize-image-to-600x600.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Free Passport Size Photo Maker",
+  "short_name": "Free Passport Size Photo Maker",
+  "description": "Make a passport size photo online for free: crop any photo to 35×45 mm or 2×2 inch at print-ready 300 DPI. No signup, no watermark, fully private.",
+  "id": "/loona-image-compressor/en-us/passport-photo-maker.html",
+  "start_url": "./passport-photo-maker.html",
+  "scope": "./passport-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

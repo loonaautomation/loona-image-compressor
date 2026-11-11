@@ -1,0 +1,29 @@
+{
+  "name": "Loona Resize Image to 1200 × 628",
+  "short_name": "Resize Image to 1200 × 628",
+  "description": "Resize any image to exactly 1200 × 628 pixels (Facebook and LinkedIn link shares and ads) for free. Cover, contain or stretch, JPG or PNG, download instantly — no signup, nothing uploaded.",
+  "id": "/loona-image-compressor/en-us/resize-image-to-1200x628.html",
+  "start_url": "./resize-image-to-1200x628.html",
+  "scope": "./resize-image-to-1200x628.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Netherlands Passport Photo Photo Size — 35 × 45 mm",
+  "short_name": "Netherlands Passport Photo Photo Size — 35 × 45 mm",
+  "description": "Make a Netherlands Passport Photo at the official size 35×45 mm (413×531 px), plain light gray or white, evenly lit background. Free online maker — crop, download and print sheet, no upload.",
+  "id": "/loona-image-compressor/en-us/netherlands-passport-photo-size.html",
+  "start_url": "./netherlands-passport-photo-size.html",
+  "scope": "./netherlands-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

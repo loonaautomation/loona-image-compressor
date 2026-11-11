@@ -1,0 +1,29 @@
+{
+  "name": "Loona Remove Image Metadata",
+  "short_name": "Remove Image Metadata",
+  "description": "Remove EXIF, GPS location, XMP and IPTC metadata from JPG, PNG and WebP photos online for free. Byte-level stripping — pixels are never re-encoded, so quality is untouched. Verified by a re-scan, 100% private in your browser.",
+  "id": "/loona-image-compressor/en-us/remove-image-metadata.html",
+  "start_url": "./remove-image-metadata.html",
+  "scope": "./remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Resize Image to 354 × 472 px",
+  "short_name": "Resize Image to 354 × 472 px",
+  "description": "Resize any image to exactly 354×472 px — 30 × 40 mm at 300 DPI — Iran/Colombia document size. Free in your browser with crop control; no upload, no signup.",
+  "id": "/loona-image-compressor/en-us/resize-image-to-354x472.html",
+  "start_url": "./resize-image-to-354x472.html",
+  "scope": "./resize-image-to-354x472.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

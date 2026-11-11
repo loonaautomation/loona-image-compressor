@@ -1,0 +1,29 @@
+{
+  "name": "Loona X (Twitter) Profile Picture Size — 400 × 400 px",
+  "short_name": "X (Twitter) Profile Picture Size — 400 × 400 px",
+  "description": "Make a X (Twitter) profile picture at exactly 400×400 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
+  "id": "/loona-image-compressor/en-us/x-profile-picture-size.html",
+  "start_url": "./x-profile-picture-size.html",
+  "scope": "./x-profile-picture-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

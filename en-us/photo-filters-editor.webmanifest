@@ -1,0 +1,29 @@
+{
+  "name": "Loona Photo Filters & Fix — Brightness, Contrast & Sharpen",
+  "short_name": "Photo Filters & Fix — Brightness, Contrast & Sharpen",
+  "description": "Fix photos online for free: adjust brightness, contrast and saturation, sharpen with one click and use ready presets like Passport Fix and Vivid.",
+  "id": "/loona-image-compressor/en-us/photo-filters-editor.html",
+  "start_url": "./photo-filters-editor.html",
+  "scope": "./photo-filters-editor.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
