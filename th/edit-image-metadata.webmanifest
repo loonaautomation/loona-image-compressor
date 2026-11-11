@@ -1,0 +1,29 @@
+{
+  "name": "Loona โปรแกรมแก้ไข EXIF",
+  "short_name": "โปรแกรมแก้ไข EXIF",
+  "description": "แก้ไขข้อมูล EXIF ของรูปถ่าย JPG ออนไลน์ฟรี — แก้ไขวันที่ถ่าย เพิ่มชื่อของคุณเป็นศิลปิน ตั้งลิขสิทธิ์ ยี่ห้อและรุ่นกล้อง หรือสร้าง EXIF บนรูปถ่ายที่ไม่มี พิกเซลไม่เคยถูกเข้ารหัสใหม่และไม่มีอะไรถูกอัปโหลด",
+  "id": "/loona-image-compressor/th/edit-image-metadata.html",
+  "start_url": "./edit-image-metadata.html",
+  "scope": "./edit-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

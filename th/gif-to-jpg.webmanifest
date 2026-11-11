@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวแปลง GIF เป็น JPG",
+  "short_name": "ตัวแปลง GIF เป็น JPG",
+  "description": "แปลง GIF เป็น JPG ออนไลน์ฟรี — เปลี่ยน GIF ให้เป็นภาพนิ่ง JPG สากลขนาดเล็ก ในเบราว์เซอร์ของคุณ: ไม่ต้องสมัครสมาชิก ไม่ต้องอัปโหลด ไม่มีลายน้ำ",
+  "id": "/loona-image-compressor/th/gif-to-jpg.html",
+  "start_url": "./gif-to-jpg.html",
+  "scope": "./gif-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

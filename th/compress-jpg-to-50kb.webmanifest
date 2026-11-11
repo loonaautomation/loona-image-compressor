@@ -1,0 +1,29 @@
+{
+  "name": "Loona บีบอัด JPG ให้เหลือ 50 KB ออนไลน์",
+  "short_name": "บีบอัด JPG ให้เหลือ 50 KB",
+  "description": "บีบอัดรูปภาพ JPG ให้เหลือ 50 KB หรือต่ำกว่า ฟรีในเบราว์เซอร์ของคุณ การค้นหาอัตโนมัติจะหาคุณภาพที่ดีที่สุดที่พอดี — ไม่ต้องสมัครสมาชิก ไม่มีการอัปโหลด",
+  "id": "/loona-image-compressor/th/compress-jpg-to-50kb.html",
+  "start_url": "./compress-jpg-to-50kb.html",
+  "scope": "./compress-jpg-to-50kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

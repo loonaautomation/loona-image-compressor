@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวแสดงเมทาดาทา &amp; EXIF รูปภาพ",
+  "short_name": "ตัวแสดงเมทาดาทา &amp; EXIF",
+  "description": "ดูเมทาดาทาที่ซ่อนอยู่ในรูปถ่าย JPG, PNG หรือ WebP ใดก็ได้ออนไลน์ฟรี — ยี่ห้อและรุ่นกล้อง วันที่ถ่าย ค่าแสง ISO ความยาวโฟกัส ตำแหน่ง GPS และพื้นฐาน IPTC และ XMP ไม่มีอะไรถูกอัปโหลด: รูปถ่ายของคุณไม่เคยออกจากอุปกรณ์ของคุณ",
+  "id": "/loona-image-compressor/th/image-metadata-viewer.html",
+  "start_url": "./image-metadata-viewer.html",
+  "scope": "./image-metadata-viewer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

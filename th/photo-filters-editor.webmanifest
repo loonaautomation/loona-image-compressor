@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวกรองรูปถ่าย &amp; การแก้ไข",
+  "short_name": "ตัวกรองรูปถ่าย &amp; การแก้ไข",
+  "description": "แก้ไขรูปถ่ายออนไลน์ฟรี: ปรับความสว่าง ความเปรียบต่าง และความอิ่มสี เพิ่มความคมชัดด้วยคลิกเดียว และใช้ค่าตั้งล่วงพร้อมเช่น Passport Fix และ Vivid",
+  "id": "/loona-image-compressor/th/photo-filters-editor.html",
+  "start_url": "./photo-filters-editor.html",
+  "scope": "./photo-filters-editor.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

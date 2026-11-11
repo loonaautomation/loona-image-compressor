@@ -1,0 +1,29 @@
+{
+  "name": "Loona ปรับขนาดรูปภาพเป็น 295 × 413 px ออนไลน์",
+  "short_name": "ปรับขนาดรูปภาพเป็น 295 × 413",
+  "description": "ปรับขนาดรูปภาพใดก็ได้ให้เป็น 295×413 px พอดี — 25 × 35 mm ที่ 300 DPI — ขนาดบัตร PAN อินเดีย ฟรีในเบราว์เซอร์ของคุณพร้อมการควบคุมการครอบตัด ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
+  "id": "/loona-image-compressor/th/resize-image-to-295x413.html",
+  "start_url": "./resize-image-to-295x413.html",
+  "scope": "./resize-image-to-295x413.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

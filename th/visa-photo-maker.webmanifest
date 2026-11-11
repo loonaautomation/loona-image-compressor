@@ -1,0 +1,29 @@
+{
+  "name": "Loona เครื่องทำรูปถ่ายวีซ่า",
+  "short_name": "เครื่องทำรูปถ่ายวีซ่า",
+  "description": "ทำรูปถ่ายวีซ่าออนไลน์ฟรี: สหรัฐ 2x2 นิ้ว สหราชอาณาจักรและเชงเก้น 35x45 mm จีน 33x48 mm ที่ 300 DPI ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ เครื่องมือเป็นส่วนตัวเต็มที่",
+  "id": "/loona-image-compressor/th/visa-photo-maker.html",
+  "start_url": "./visa-photo-maker.html",
+  "scope": "./visa-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

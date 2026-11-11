@@ -1,0 +1,29 @@
+{
+  "name": "Loona แผ่นพิมพ์รูปถ่ายหนังสือเดินทาง",
+  "short_name": "แผ่นพิมพ์รูปถ่ายหนังสือเดินทาง",
+  "description": "ใส่รูปถ่ายหนังสือเดินทาง 4, 6 หรือ 8 รูปบนแผ่นพิมพ์ A4 หนึ่งแผ่นฟรีที่ 300 DPI พิมพ์ที่ 100% ตัดตามเส้นนำ และประหยัดเงินสตูดิโอ ไม่ต้องสมัครสมาชิก เป็นส่วนตัวเต็มที่",
+  "id": "/loona-image-compressor/th/passport-photo-print-sheet.html",
+  "start_url": "./passport-photo-print-sheet.html",
+  "scope": "./passport-photo-print-sheet.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

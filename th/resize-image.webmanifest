@@ -1,0 +1,29 @@
+{
+  "name": "Loona ปรับขนาดรูปภาพ",
+  "short_name": "ปรับขนาดรูปภาพ",
+  "description": "ปรับขนาดรูปภาพใดก็ได้ตามพิกเซล เซนติเมตร หรือนิ้วพร้อมการตั้งค่า DPI ฟรี รักษาอัตราส่วน เลือก JPG, PNG หรือ WebP และดาวน์โหลดทันที — ไม่ต้องสมัครสมาชิก",
+  "id": "/loona-image-compressor/th/resize-image.html",
+  "start_url": "./resize-image.html",
+  "scope": "./resize-image.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

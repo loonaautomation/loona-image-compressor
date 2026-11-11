@@ -1,0 +1,29 @@
+{
+  "name": "Loona เครื่องสร้างการไล่ระดับ CSS",
+  "short_name": "เครื่องสร้างการไล่ระดับ CSS",
+  "description": "สร้างการไล่ระดับเชิงเส้น CSS ด้วยสองหรือสามสีและทุกมุม ดูตัวอย่างแบบเรียลไทม์และคัดลอกโค้ด CSS พร้อม ฟรี ไม่ต้องสมัครสมาชิก",
+  "id": "/loona-image-compressor/th/gradient-generator.html",
+  "start_url": "./gradient-generator.html",
+  "scope": "./gradient-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

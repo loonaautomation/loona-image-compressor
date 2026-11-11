@@ -1,0 +1,29 @@
+{
+  "name": "Loona บีบอัด PNG ให้เหลือ 30 KB ออนไลน์",
+  "short_name": "บีบอัด PNG ให้เหลือ 30 KB",
+  "description": "บีบอัดรูปภาพ PNG ให้เหลือ 30 KB หรือต่ำกว่า ฟรีในเบราว์เซอร์ของคุณ การค้นหาอัตโนมัติจะหาคุณภาพที่ดีที่สุดที่พอดี — ไม่ต้องสมัครสมาชิก ไม่มีการอัปโหลด",
+  "id": "/loona-image-compressor/th/compress-png-to-30kb.html",
+  "start_url": "./compress-png-to-30kb.html",
+  "scope": "./compress-png-to-30kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

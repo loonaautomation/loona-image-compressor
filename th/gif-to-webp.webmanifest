@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวแปลง GIF เป็น WEBP",
+  "short_name": "ตัวแปลง GIF เป็น WEBP",
+  "description": "แปลง GIF เป็น WEBP ออนไลน์ ฟรี ในเบราว์เซอร์ของคุณ การแปลงจริงบนอุปกรณ์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ",
+  "id": "/loona-image-compressor/th/gif-to-webp.html",
+  "start_url": "./gif-to-webp.html",
+  "scope": "./gif-to-webp.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

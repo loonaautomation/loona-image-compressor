@@ -1,0 +1,29 @@
+{
+  "name": "Loona ลบ GPS ออกจากรูปถ่าย",
+  "short_name": "ลบ GPS ออกจากรูปถ่าย",
+  "description": "ลบเฉพาะตำแหน่ง GPS ออกจากรูปถ่าย JPG, PNG หรือ WebP และเก็บข้อมูลกล้อง วันที่ และค่าแสง ทีละไบต์ ไม่มีการเข้ารหัสใหม่ ตรวจสอบโดยการสแกนซ้ำ — 100% ในเบราว์เซอร์ของคุณ ไม่มีอะไรถูกอัปโหลด",
+  "id": "/loona-image-compressor/th/remove-gps-from-photo.html",
+  "start_url": "./remove-gps-from-photo.html",
+  "scope": "./remove-gps-from-photo.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

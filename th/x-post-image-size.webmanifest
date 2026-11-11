@@ -1,0 +1,29 @@
+{
+  "name": "Loona ขนาดรูปโพสต์ (16",
+  "short_name": "ขนาดรูปโพสต์ (16",
+  "description": "ทำรูปโพสต์ (16:9) X (Twitter) ที่ขนาด 1600×900 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
+  "id": "/loona-image-compressor/th/x-post-image-size.html",
+  "start_url": "./x-post-image-size.html",
+  "scope": "./x-post-image-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

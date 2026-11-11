@@ -1,0 +1,29 @@
+{
+  "name": "Loona เครื่องทำรูปถ่ายขนาดหนังสือเดินทาง",
+  "short_name": "เครื่องทำรูปถ่ายขนาดหนังสือเดิ",
+  "description": "ทำรูปถ่ายขนาดหนังสือเดินทางออนไลน์ฟรี: ครอบตัดรูปถ่ายใดก็ได้เป็น 35×45 mm หรือ 2×2 นิ้วที่ 300 DPI พร้อมพิมพ์ ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ เป็นส่วนตัวเต็มที่",
+  "id": "/loona-image-compressor/th/passport-photo-maker.html",
+  "start_url": "./passport-photo-maker.html",
+  "scope": "./passport-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

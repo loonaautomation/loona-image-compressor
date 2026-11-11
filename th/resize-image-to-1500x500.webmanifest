@@ -1,0 +1,29 @@
+{
+  "name": "Loona ปรับขนาดรูปภาพเป็น 1500 × 500",
+  "short_name": "ปรับขนาดรูปภาพเป็น 1500 × 500",
+  "description": "ปรับขนาดรูปภาพใดก็ได้ให้เป็น 1500 × 500 พิกเซลพอดี (X (Twitter) profile headers and wide banners) ฟรี แบบครอบเต็ม แบบใส่ด้านใน หรือแบบยืด JPG หรือ PNG ดาวน์โหลดทันที — ไม่ต้องสมัครสมาชิก ไม่มีการอัปโหลด",
+  "id": "/loona-image-compressor/th/resize-image-to-1500x500.html",
+  "start_url": "./resize-image-to-1500x500.html",
+  "scope": "./resize-image-to-1500x500.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
