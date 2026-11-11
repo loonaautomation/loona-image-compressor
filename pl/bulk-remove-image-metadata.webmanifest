@@ -1,0 +1,29 @@
+{
+  "name": "Loona Wsadowe usuwanie metadanych",
+  "short_name": "Wsadowe usuwanie metadanych",
+  "description": "Usuwaj metadane EXIF, GPS i XMP z wielu zdjęć naraz — upuść wsad plików JPG, PNG i WebP, wyczyść je wszystkie w przeglądarce i pobierz wszystko jako jeden ZIP. Za darmo, prywatnie, bez przesyłania, bez ponownego kodowania.",
+  "id": "/loona-image-compressor/pl/bulk-remove-image-metadata.html",
+  "start_url": "./bulk-remove-image-metadata.html",
+  "scope": "./bulk-remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

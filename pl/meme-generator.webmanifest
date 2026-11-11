@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator memów",
+  "short_name": "Generator memów",
+  "description": "Zamień dowolne zdjęcie w klasycznego mema z pogrubionym tekstem na górze i dole — darmowy generator memów online z podglądem na żywo, opcjami gładkiego tła i pobieraniem PNG. Bez rejestracji, a Twój obraz nigdy nie opuszcza urządzenia.",
+  "id": "/loona-image-compressor/pl/meme-generator.html",
+  "start_url": "./meme-generator.html",
+  "scope": "./meme-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

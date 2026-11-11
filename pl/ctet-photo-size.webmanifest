@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rozmiar",
+  "short_name": "Rozmiar",
+  "description": "Zmień rozmiar: CTET zdjęcie, do rozmiaru z ogłoszenia (3,5 × 4,5 cm (około 413 × 531 px przy 300 DPI)) i przedziału 10–100 KB. Za darmo, w przeglądarce — bez przesyłania, bez rejestracji.",
+  "id": "/loona-image-compressor/pl/ctet-photo-size.html",
+  "start_url": "./ctet-photo-size.html",
+  "scope": "./ctet-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

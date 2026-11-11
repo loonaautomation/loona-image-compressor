@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator palety kolorów",
+  "short_name": "Generator palety kolorów",
+  "description": "Generuj harmonijne palety kolorów z dowolnego koloru bazowego — schematy analogiczne, komplementarne, triadyczne i monochromatyczne z kopiowalnymi kodami HEX. Za darmo, bez rejestracji.",
+  "id": "/loona-image-compressor/pl/color-palette-generator.html",
+  "start_url": "./color-palette-generator.html",
+  "scope": "./color-palette-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

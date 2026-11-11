@@ -1,0 +1,29 @@
+{
+  "name": "Loona Usuń metadane obrazu",
+  "short_name": "Usuń metadane obrazu",
+  "description": "Usuwaj metadane EXIF, lokalizację GPS, XMP i IPTC ze zdjęć JPG, PNG i WebP online za darmo. Czyszczenie na poziomie bajtów — piksele nigdy nie są ponownie kodowane, więc jakość jest nienaruszona. Zweryfikowane ponownym skanowaniem, w 100% prywatnie w Twojej przeglądarce.",
+  "id": "/loona-image-compressor/pl/remove-image-metadata.html",
+  "start_url": "./remove-image-metadata.html",
+  "scope": "./remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

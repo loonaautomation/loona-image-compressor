@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konwerter JPG do ICO",
+  "short_name": "Konwerter JPG do ICO",
+  "description": "Konwertuj JPG do ICO online, za darmo, w przeglądarce. Prawdziwa konwersja na Twoim urządzeniu — bez przesyłania, bez rejestracji, bez znaków wodnych.",
+  "id": "/loona-image-compressor/pl/jpg-to-ico.html",
+  "start_url": "./jpg-to-ico.html",
+  "scope": "./jpg-to-ico.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konwerter BMP do WEBP",
+  "short_name": "Konwerter BMP do WEBP",
+  "description": "Konwertuj BMP do WEBP online, za darmo, w przeglądarce. Prawdziwa konwersja na Twoim urządzeniu — bez przesyłania, bez rejestracji, bez znaków wodnych.",
+  "id": "/loona-image-compressor/pl/bmp-to-webp.html",
+  "start_url": "./bmp-to-webp.html",
+  "scope": "./bmp-to-webp.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

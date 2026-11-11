@@ -1,0 +1,29 @@
+{
+  "name": "Loona Zmień rozmiar obrazu",
+  "short_name": "Zmień rozmiar obrazu",
+  "description": "Zmień rozmiar dowolnego obrazu w pikselach, cm lub calach z ustawieniem DPI za darmo. Zachowaj proporcje, wybierz JPG, PNG lub WebP i pobierz natychmiast — rejestracja nie jest potrzebna.",
+  "id": "/loona-image-compressor/pl/resize-image.html",
+  "start_url": "./resize-image.html",
+  "scope": "./resize-image.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

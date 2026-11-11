@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konwerter JPG do AVIF",
+  "short_name": "Konwerter JPG do AVIF",
+  "description": "Konwertuj JPG do AVIF online, za darmo, w przeglądarce. Prawdziwa konwersja na Twoim urządzeniu — bez przesyłania, bez rejestracji, bez znaków wodnych.",
+  "id": "/loona-image-compressor/pl/jpg-to-avif.html",
+  "start_url": "./jpg-to-avif.html",
+  "scope": "./jpg-to-avif.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

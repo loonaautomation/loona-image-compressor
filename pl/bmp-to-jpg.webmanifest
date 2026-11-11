@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konwerter BMP na JPG",
+  "short_name": "Konwerter BMP na JPG",
+  "description": "Konwertuj BMP do JPG online za darmo i zmniejszaj ogromne nieskompresowane bitmapy o 90% lub więcej. W Twojej przeglądarce — bez rejestracji, bez przesyłania, bez znaku wodnego.",
+  "id": "/loona-image-compressor/pl/bmp-to-jpg.html",
+  "start_url": "./bmp-to-jpg.html",
+  "scope": "./bmp-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

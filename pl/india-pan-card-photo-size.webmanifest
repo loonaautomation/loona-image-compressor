@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rozmiar Zdjęcie do karty PAN Indii",
+  "short_name": "Rozmiar Zdjęcie do karty PAN",
+  "description": "Utwórz Zdjęcie do karty PAN Indii w oficjalnym rozmiarze 25×35 mm (295×413 px), tło: gładkie białe. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
+  "id": "/loona-image-compressor/pl/india-pan-card-photo-size.html",
+  "start_url": "./india-pan-card-photo-size.html",
+  "scope": "./india-pan-card-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

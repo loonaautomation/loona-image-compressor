@@ -1,0 +1,29 @@
+{
+  "name": "Loona Narzędzie do poprawy obrazów",
+  "short_name": "Narzędzie do poprawy obrazów",
+  "description": "Ulepsz zdjęcie online za darmo: automatyczne ulepszanie jednym kliknięciem, wyostrzanie miękkich zdjęć, delikatne czyszczenie szumu i powiększanie 2x lub 4x. Uczciwe wyniki, bez rejestracji, a Twoje zdjęcie nigdy nie opuszcza urządzenia.",
+  "id": "/loona-image-compressor/pl/image-enhancer.html",
+  "start_url": "./image-enhancer.html",
+  "scope": "./image-enhancer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

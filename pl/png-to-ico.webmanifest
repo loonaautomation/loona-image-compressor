@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konwerter PNG do ICO",
+  "short_name": "Konwerter PNG do ICO",
+  "description": "Konwertuj PNG do ICO online, za darmo, w przeglądarce. Prawdziwa konwersja na Twoim urządzeniu — bez przesyłania, bez rejestracji, bez znaków wodnych.",
+  "id": "/loona-image-compressor/pl/png-to-ico.html",
+  "start_url": "./png-to-ico.html",
+  "scope": "./png-to-ico.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

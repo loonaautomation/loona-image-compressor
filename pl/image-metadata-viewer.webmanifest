@@ -1,0 +1,29 @@
+{
+  "name": "Loona Przeglądarka metadanych obrazów i EXIF",
+  "short_name": "Przeglądarka metadanych",
+  "description": "Zobacz ukryte metadane w dowolnym zdjęciu JPG, PNG lub WebP online za darmo — markę i model aparatu, datę wykonania, ekspozycję, ISO, ogniskową, lokalizację GPS, podstawy IPTC i XMP. Nic nie jest przesyłane: Twoje zdjęcie nigdy nie opuszcza urządzenia.",
+  "id": "/loona-image-compressor/pl/image-metadata-viewer.html",
+  "start_url": "./image-metadata-viewer.html",
+  "scope": "./image-metadata-viewer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

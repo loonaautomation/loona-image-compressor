@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konwerter GIF na PNG",
+  "short_name": "Konwerter GIF na PNG",
+  "description": "Konwertuj GIF do PNG online za darmo — czysty, bezstratny obraz statyczny z Twojego GIF. W przeglądarce, bez rejestracji, bez przesyłania, bez znaku wodnego.",
+  "id": "/loona-image-compressor/pl/gif-to-png.html",
+  "start_url": "./gif-to-png.html",
+  "scope": "./gif-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

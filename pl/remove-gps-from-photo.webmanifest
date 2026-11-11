@@ -1,0 +1,29 @@
+{
+  "name": "Loona Usuń GPS ze zdjęcia",
+  "short_name": "Usuń GPS ze zdjęcia",
+  "description": "Usuń tylko lokalizację GPS ze zdjęcia JPG, PNG lub WebP i zachowaj dane aparatu, daty i ekspozycji. Bajt po bajcie, bez ponownego kodowania, zweryfikowane ponownym skanowaniem — w 100% w Twojej przeglądarce, nic nie jest przesyłane.",
+  "id": "/loona-image-compressor/pl/remove-gps-from-photo.html",
+  "start_url": "./remove-gps-from-photo.html",
+  "scope": "./remove-gps-from-photo.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

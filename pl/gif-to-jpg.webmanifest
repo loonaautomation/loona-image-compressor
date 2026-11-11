@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konwerter GIF na JPG",
+  "short_name": "Konwerter GIF na JPG",
+  "description": "Konwertuj GIF do JPG online za darmo — zamień GIF w mały, uniwersalny statyczny JPG. W Twojej przeglądarce: bez rejestracji, bez przesyłania, bez znaku wodnego.",
+  "id": "/loona-image-compressor/pl/gif-to-jpg.html",
+  "start_url": "./gif-to-jpg.html",
+  "scope": "./gif-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
