@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kabur Wajah",
+  "short_name": "Kabur Wajah",
+  "description": "Kaburkan atau pikselkan wajah, pelat nomor, dan detail privat dalam foto mana pun. Anda memilih area sendiri, memilih kekuatan, mempratinjau, dan mengunduh — gratis, tanpa pendaftaran, dan foto Anda tidak pernah meninggalkan perangkat Anda.",
+  "id": "/loona-image-compressor/id/face-blur.html",
+  "start_url": "./face-blur.html",
+  "scope": "./face-blur.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

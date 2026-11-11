@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kompres Gambar ke Ukuran KB Berapa Pun",
+  "short_name": "Kompres Gambar ke Ukuran KB",
+  "description": "Setiap alat kompres ke ukuran: 16 ukuran target dalam JPG, PNG, dan WebP, dari 10 KB hingga 2 MB. Gratis, di browser Anda.",
+  "id": "/loona-image-compressor/id/compress-image-sizes.html",
+  "start_url": "./compress-image-sizes.html",
+  "scope": "./compress-image-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

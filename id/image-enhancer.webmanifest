@@ -1,0 +1,29 @@
+{
+  "name": "Loona Peningkat Gambar",
+  "short_name": "Peningkat Gambar",
+  "description": "Tingkatkan foto online gratis: peningkatan otomatis satu klik, pertajam foto lembut, bersihkan noise dengan lembut, dan naikkan skala 2x atau 4x. Hasil yang jujur, tanpa pendaftaran, dan foto Anda tidak pernah meninggalkan perangkat Anda.",
+  "id": "/loona-image-compressor/id/image-enhancer.html",
+  "start_url": "./image-enhancer.html",
+  "scope": "./image-enhancer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

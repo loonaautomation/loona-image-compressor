@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ubah Ukuran Gambar ke 1240 × 1754 px Online",
+  "short_name": "Ubah Ukuran Gambar ke 1240 ×",
+  "description": "Ubah ukuran gambar apa pun tepat ke 1240×1754 px — A4 pada 150 DPI. Gratis di browser Anda dengan kontrol potong; tanpa unggah, tanpa pendaftaran.",
+  "id": "/loona-image-compressor/id/resize-image-to-1240x1754.html",
+  "start_url": "./resize-image-to-1240x1754.html",
+  "scope": "./resize-image-to-1240x1754.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

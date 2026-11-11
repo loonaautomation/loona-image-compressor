@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ukuran Tanda Tangan GATE",
+  "short_name": "Ukuran Tanda Tangan GATE",
+  "description": "Ubah ukuran tanda tangan GATE Anda ke ukuran pemberitahuan (kotak pindaian, rasio sekitar 7:2) dan rentang 3–100 KB. Gratis, di browser Anda — tanpa unggah, tanpa pendaftaran.",
+  "id": "/loona-image-compressor/id/gate-signature-size.html",
+  "start_url": "./gate-signature-size.html",
+  "scope": "./gate-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

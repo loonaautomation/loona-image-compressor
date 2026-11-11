@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penghapus Metadata Massal",
+  "short_name": "Penghapus Metadata Massal",
+  "description": "Hapus metadata EXIF, GPS, dan XMP dari banyak foto sekaligus — jatuhkan batch file JPG, PNG, dan WebP, kupas semuanya di browser Anda, dan unduh semuanya sebagai satu ZIP. Gratis, privat, tanpa unggahan, tanpa pengodean ulang.",
+  "id": "/loona-image-compressor/id/bulk-remove-image-metadata.html",
+  "start_url": "./bulk-remove-image-metadata.html",
+  "scope": "./bulk-remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

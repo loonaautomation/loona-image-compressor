@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ukuran Foto Visa Inggris",
+  "short_name": "Ukuran Foto Visa Inggris",
+  "description": "Buat Foto Visa Inggris pada ukuran resmi 35×45 mm (600×750 px), latar belakang abu-abu muda polos. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
+  "id": "/loona-image-compressor/id/uk-visa-photo-size.html",
+  "start_url": "./uk-visa-photo-size.html",
+  "scope": "./uk-visa-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

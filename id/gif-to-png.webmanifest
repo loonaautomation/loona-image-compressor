@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konverter GIF ke PNG",
+  "short_name": "Konverter GIF ke PNG",
+  "description": "Konversi GIF ke PNG online gratis — gambar diam lossless yang bersih dari GIF Anda. Berbasis browser, tanpa pendaftaran, tanpa unggahan, tanpa tanda air.",
+  "id": "/loona-image-compressor/id/gif-to-png.html",
+  "start_url": "./gif-to-png.html",
+  "scope": "./gif-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

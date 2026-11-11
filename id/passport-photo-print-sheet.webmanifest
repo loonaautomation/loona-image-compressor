@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lembar Cetak Foto Paspor",
+  "short_name": "Lembar Cetak Foto Paspor",
+  "description": "Taruh 4, 6, atau 8 foto paspor pada satu lembar cetak A4 secara gratis pada 300 DPI. Cetak pada 100%, potong pada panduan, dan hemat uang studio. Tanpa pendaftaran, sepenuhnya privat.",
+  "id": "/loona-image-compressor/id/passport-photo-print-sheet.html",
+  "start_url": "./passport-photo-print-sheet.html",
+  "scope": "./passport-photo-print-sheet.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ubah Ukuran Gambar menjadi 1080 × 1350",
+  "short_name": "Ubah Ukuran Gambar menjadi",
+  "description": "Ubah ukuran gambar apa pun menjadi tepat 1080 × 1350 piksel (Instagram portrait posts in the 4:5 ratio) secara gratis. Sampul, muat, atau regang, JPG atau PNG, unduh seketika — tanpa pendaftaran, tidak ada yang diunggah.",
+  "id": "/loona-image-compressor/id/resize-image-to-1080x1350.html",
+  "start_url": "./resize-image-to-1080x1350.html",
+  "scope": "./resize-image-to-1080x1350.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

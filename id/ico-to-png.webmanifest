@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konverter ICO ke PNG",
+  "short_name": "Konverter ICO ke PNG",
+  "description": "Konversi ICO ke PNG online, gratis, di browser Anda. Konversi nyata di perangkat Anda — tanpa unggah, tanpa pendaftaran, tanpa tanda air.",
+  "id": "/loona-image-compressor/id/ico-to-png.html",
+  "start_url": "./ico-to-png.html",
+  "scope": "./ico-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

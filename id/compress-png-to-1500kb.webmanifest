@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kompres PNG ke 1500 KB Online",
+  "short_name": "Kompres PNG ke 1500 KB Online",
+  "description": "Kompres gambar PNG ke 1500 KB atau kurang, gratis di browser Anda. Pencarian otomatis menemukan kualitas terbaik yang muat — tanpa pendaftaran, tanpa unggah.",
+  "id": "/loona-image-compressor/id/compress-png-to-1500kb.html",
+  "start_url": "./compress-png-to-1500kb.html",
+  "scope": "./compress-png-to-1500kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

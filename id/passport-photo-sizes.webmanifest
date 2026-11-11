@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ukuran Foto Paspor &amp; Visa berdasarkan Negara",
+  "short_name": "Ukuran Foto Paspor &amp; Visa",
+  "description": "Ukuran foto paspor, visa, dan ID resmi untuk 40 negara dan dokumen, masing-masing dengan alat pembuat pada ukuran milimeter dan piksel yang tepat.",
+  "id": "/loona-image-compressor/id/passport-photo-sizes.html",
+  "start_url": "./passport-photo-sizes.html",
+  "scope": "./passport-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

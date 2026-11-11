@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ukuran Foto Paspor / Visa Türkiye (Biometrik)",
+  "short_name": "Ukuran Foto Paspor / Visa",
+  "description": "Buat Foto Paspor / Visa Türkiye (Biometrik) pada ukuran resmi 50×60 mm (591×709 px), latar belakang putih polos. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
+  "id": "/loona-image-compressor/id/turkey-passport-photo-size.html",
+  "start_url": "./turkey-passport-photo-size.html",
+  "scope": "./turkey-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ukuran Pin Panjang / Infografis Pinterest",
+  "short_name": "Ukuran Pin Panjang /",
+  "description": "Buat pin panjang / infografis Pinterest tepat berukuran 1000×2100 px. Pengubah ukuran/pemotong gratis di browser Anda dengan aturan zona aman yang mencegah teks dan wajah terpotong.",
+  "id": "/loona-image-compressor/id/pinterest-long-pin-size.html",
+  "start_url": "./pinterest-long-pin-size.html",
+  "scope": "./pinterest-long-pin-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

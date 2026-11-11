@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konverter JPG ke PNG",
+  "short_name": "Konverter JPG ke PNG",
+  "description": "Konversi JPG ke PNG online gratis — keluaran lossless untuk editor, alat desain, dan dokumen. Berjalan di browser Anda, tanpa pendaftaran, tanpa unggahan.",
+  "id": "/loona-image-compressor/id/jpg-to-png.html",
+  "start_url": "./jpg-to-png.html",
+  "scope": "./jpg-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

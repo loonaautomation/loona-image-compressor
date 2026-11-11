@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ukuran Gambar Kartu Tautan X (Twitter)",
+  "short_name": "Ukuran Gambar Kartu Tautan X",
+  "description": "Buat gambar kartu tautan X (Twitter) tepat berukuran 1200×628 px. Pengubah ukuran/pemotong gratis di browser Anda dengan aturan zona aman yang mencegah teks dan wajah terpotong.",
+  "id": "/loona-image-compressor/id/x-link-card-size.html",
+  "start_url": "./x-link-card-size.html",
+  "scope": "./x-link-card-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kompres JPG ke 50 KB Online",
+  "short_name": "Kompres JPG ke 50 KB Online",
+  "description": "Kompres gambar JPG ke 50 KB atau kurang, gratis di browser Anda. Pencarian otomatis menemukan kualitas terbaik yang muat — tanpa pendaftaran, tanpa unggah.",
+  "id": "/loona-image-compressor/id/compress-jpg-to-50kb.html",
+  "start_url": "./compress-jpg-to-50kb.html",
+  "scope": "./compress-jpg-to-50kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
