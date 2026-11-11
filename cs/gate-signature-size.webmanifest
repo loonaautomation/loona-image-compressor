@@ -1,0 +1,29 @@
+{
+  "name": "Loona Velikost GATE Podpis",
+  "short_name": "Velikost GATE Podpis",
+  "description": "Změňte velikost souboru GATE podpis na velikost podle oznámení (naskenované pole, poměr asi 7:2) a pásmo 3–100 KB. Zdarma, ve vašem prohlížeči — bez nahrávání a bez registrace.",
+  "id": "/loona-image-compressor/cs/gate-signature-size.html",
+  "start_url": "./gate-signature-size.html",
+  "scope": "./gate-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

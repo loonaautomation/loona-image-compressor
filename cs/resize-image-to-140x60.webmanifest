@@ -1,0 +1,29 @@
+{
+  "name": "Loona Změnit velikost obrázku na 140 × 60 px online",
+  "short_name": "Změnit velikost obrázku na",
+  "description": "Změňte velikost libovolného obrázku přesně na 140×60 px — Indický standard podpisu ke zkouškám (SSC, IBPS, SBI). Zdarma ve vašem prohlížeči s ovládáním ořezu; bez nahrávání a bez registrace.",
+  "id": "/loona-image-compressor/cs/resize-image-to-140x60.html",
+  "start_url": "./resize-image-to-140x60.html",
+  "scope": "./resize-image-to-140x60.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

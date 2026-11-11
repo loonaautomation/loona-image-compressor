@@ -1,0 +1,29 @@
+{
+  "name": "Loona Velikosti pasových a vízových fotografií podle země",
+  "short_name": "Velikosti pasových a vízových",
+  "description": "Oficiální velikosti fotografií na pasy, víza a průkazy pro 40 zemí a dokumentů, každá s nástrojem pro tvorbu v přesných milimetrech a pixelech.",
+  "id": "/loona-image-compressor/cs/passport-photo-sizes.html",
+  "start_url": "./passport-photo-sizes.html",
+  "scope": "./passport-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generátor memů",
+  "short_name": "Generátor memů",
+  "description": "Proměňte libovolnou fotografii v klasický mem s tučným horním a dolním textem — bezplatný online generátor memů s živým náhledem, možnostmi jednobarevného pozadí a stahováním PNG. Bez registrace a váš obrázek nikdy neopustí vaše zařízení.",
+  "id": "/loona-image-compressor/cs/meme-generator.html",
+  "start_url": "./meme-generator.html",
+  "scope": "./meme-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

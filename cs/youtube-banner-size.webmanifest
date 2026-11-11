@@ -1,0 +1,29 @@
+{
+  "name": "Loona Velikost YouTube Banner kanálu",
+  "short_name": "Velikost YouTube Banner kanálu",
+  "description": "Vytvořte YouTube banner kanálu přesně 2560×1440 px. Bezplatný nástroj na změnu velikosti/ořez ve vašem prohlížeči s pravidly bezpečné zóny, která zabrání oříznutí textu a obličejů.",
+  "id": "/loona-image-compressor/cs/youtube-banner-size.html",
+  "start_url": "./youtube-banner-size.html",
+  "scope": "./youtube-banner-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

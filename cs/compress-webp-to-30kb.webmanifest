@@ -1,0 +1,29 @@
+{
+  "name": "Loona Komprimovat WebP na 30 KB online",
+  "short_name": "Komprimovat WebP na 30 KB",
+  "description": "Komprimujte obrázek WebP na 30 KB nebo méně, zdarma ve svém prohlížeči. Automatické hledání najde nejlepší kvalitu, která se do limitu vejde — bez registrace a bez nahrávání.",
+  "id": "/loona-image-compressor/cs/compress-webp-to-30kb.html",
+  "start_url": "./compress-webp-to-30kb.html",
+  "scope": "./compress-webp-to-30kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

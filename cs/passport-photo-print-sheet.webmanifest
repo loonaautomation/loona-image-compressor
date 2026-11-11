@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tiskový arch pasových fotografií",
+  "short_name": "Tiskový arch pasových",
+  "description": "Dejte 4, 6 nebo 8 pasových fotografií na jeden tiskový arch A4 zdarma při 300 DPI. Tiskněte na 100 %, stříhejte podle vodicích čar a ušetřete peníze za studio. Bez registrace, zcela soukromé.",
+  "id": "/loona-image-compressor/cs/passport-photo-print-sheet.html",
+  "start_url": "./passport-photo-print-sheet.html",
+  "scope": "./passport-photo-print-sheet.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

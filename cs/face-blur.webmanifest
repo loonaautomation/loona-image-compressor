@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rozostření obličeje",
+  "short_name": "Rozostření obličeje",
+  "description": "Rozostřete nebo pixelujte obličeje, registrační značky a soukromé detaily na libovolné fotografii. Oblasti si vyberete sami, zvolíte sílu, zobrazíte náhled a stáhnete — zdarma, bez registrace a vaše fotografie nikdy neopustí vaše zařízení.",
+  "id": "/loona-image-compressor/cs/face-blur.html",
+  "start_url": "./face-blur.html",
+  "scope": "./face-blur.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

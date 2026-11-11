@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kontrola kontrastu",
+  "short_name": "Kontrola kontrastu",
+  "description": "Zkontrolujte barvy textu a pozadí vůči WCAG: okamžitý poměr kontrastu s hodnocením AA a AAA pro běžný a velký text plus živý náhled. Zdarma, bez registrace.",
+  "id": "/loona-image-compressor/cs/contrast-checker.html",
+  "start_url": "./contrast-checker.html",
+  "scope": "./contrast-checker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

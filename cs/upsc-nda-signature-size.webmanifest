@@ -1,0 +1,29 @@
+{
+  "name": "Loona Velikost UPSC NDA Podpis",
+  "short_name": "Velikost UPSC NDA Podpis",
+  "description": "Změňte velikost souboru UPSC NDA podpis na velikost podle oznámení (naskenované pole, poměr asi 7:2) a pásmo 20–300 KB. Zdarma, ve vašem prohlížeči — bez nahrávání a bez registrace.",
+  "id": "/loona-image-compressor/cs/upsc-nda-signature-size.html",
+  "start_url": "./upsc-nda-signature-size.html",
+  "scope": "./upsc-nda-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

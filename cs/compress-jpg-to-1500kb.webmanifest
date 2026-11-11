@@ -1,0 +1,29 @@
+{
+  "name": "Loona Komprimovat JPG na 1500 KB online",
+  "short_name": "Komprimovat JPG na 1500 KB",
+  "description": "Komprimujte obrázek JPG na 1500 KB nebo méně, zdarma ve svém prohlížeči. Automatické hledání najde nejlepší kvalitu, která se do limitu vejde — bez registrace a bez nahrávání.",
+  "id": "/loona-image-compressor/cs/compress-jpg-to-1500kb.html",
+  "start_url": "./compress-jpg-to-1500kb.html",
+  "scope": "./compress-jpg-to-1500kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

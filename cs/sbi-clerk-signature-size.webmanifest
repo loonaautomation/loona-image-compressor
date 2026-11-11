@@ -1,0 +1,29 @@
+{
+  "name": "Loona Velikost SBI Clerk (Junior Associates) Podpis",
+  "short_name": "Velikost SBI Clerk (Junior",
+  "description": "Změňte velikost souboru SBI Clerk (Junior Associates) podpis na velikost podle oznámení (140 × 60 px) a pásmo 10–20 KB. Zdarma, ve vašem prohlížeči — bez nahrávání a bez registrace.",
+  "id": "/loona-image-compressor/cs/sbi-clerk-signature-size.html",
+  "start_url": "./sbi-clerk-signature-size.html",
+  "scope": "./sbi-clerk-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
