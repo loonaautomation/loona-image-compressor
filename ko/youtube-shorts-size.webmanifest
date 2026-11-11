@@ -1,0 +1,29 @@
+{
+  "name": "Loona YouTube Shorts 커버 / 프레임 크기",
+  "short_name": "YouTube Shorts 커버 / 프레임 크기",
+  "description": "YouTube shorts 커버 / 프레임을 정확히 1080×1920 px로 만드세요. 잘린 텍스트와 얼굴을 막는 안전 영역 규칙과 함께, 브라우저에서 무료로 크기를 조정하고 자를 수 있어요.",
+  "id": "/loona-image-compressor/ko/youtube-shorts-size.html",
+  "start_url": "./youtube-shorts-size.html",
+  "scope": "./youtube-shorts-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona JPG를 WebP로 변환하는 변환기",
+  "short_name": "JPG를 WebP로 변환하는 변환기",
+  "description": "JPG를 온라인에서 무료로 WebP로 변환하고 같은 품질로 웹사이트 이미지를 25–40% 줄이세요. 브라우저에서 — 회원가입 없음, 업로드 없음, 워터마크 없음.",
+  "id": "/loona-image-compressor/ko/jpg-to-webp.html",
+  "start_url": "./jpg-to-webp.html",
+  "scope": "./jpg-to-webp.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

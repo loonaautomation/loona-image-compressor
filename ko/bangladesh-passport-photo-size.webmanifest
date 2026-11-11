@@ -1,0 +1,29 @@
+{
+  "name": "Loona 방글라데시 여권 사진 크기",
+  "short_name": "방글라데시 여권 사진 크기",
+  "description": "공식 크기 40×50 mm (472×591 px), 단색 흰색 배경으로 만드는 방글라데시 여권 사진. 무료 온라인 메이커 — 자르기, 다운로드, 인쇄 시트 제공, 업로드 없음.",
+  "id": "/loona-image-compressor/ko/bangladesh-passport-photo-size.html",
+  "start_url": "./bangladesh-passport-photo-size.html",
+  "scope": "./bangladesh-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

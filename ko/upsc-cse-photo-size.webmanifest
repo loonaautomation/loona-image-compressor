@@ -1,0 +1,29 @@
+{
+  "name": "Loona UPSC Civil Services (IAS) 사진 크기",
+  "short_name": "UPSC Civil Services (IAS) 사진",
+  "description": "UPSC Civil Services (IAS) 사진을 공고 크기(350 × 350 px)와 20–300 KB 범위에 맞게 조정하세요. 브라우저에서 무료로 — 업로드도, 회원가입도 없어요.",
+  "id": "/loona-image-compressor/ko/upsc-cse-photo-size.html",
+  "start_url": "./upsc-cse-photo-size.html",
+  "scope": "./upsc-cse-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

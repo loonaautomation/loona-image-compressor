@@ -1,0 +1,29 @@
+{
+  "name": "Loona 이미지를 1200 × 628",
+  "short_name": "이미지를 1200 × 628",
+  "description": "모든 이미지를 정확히 1200 × 628픽셀(Facebook and LinkedIn link shares and ads)로 무료로 조정하세요. 채우기, 맞추기 또는 늘이기, JPG나 PNG, 즉시 다운로드 — 회원가입 없음, 업로드 없음.",
+  "id": "/loona-image-compressor/ko/resize-image-to-1200x628.html",
+  "start_url": "./resize-image-to-1200x628.html",
+  "scope": "./resize-image-to-1200x628.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

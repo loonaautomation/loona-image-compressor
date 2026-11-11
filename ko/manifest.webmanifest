@@ -1,0 +1,29 @@
+{
+  "name": "Loona Image Compressor",
+  "short_name": "Loona Image Compressor",
+  "description": "JPG, PNG, WebP 이미지를 정확한 크기로 온라인에서 무료로 압축하세요 — 50KB, 100KB, 200KB. 일괄 압축, 크기 조정, ZIP 다운로드. 회원가입 없음, 워터마크 없음, 100% 비공개.",
+  "id": "/loona-image-compressor/ko/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

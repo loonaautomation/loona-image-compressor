@@ -1,0 +1,29 @@
+{
+  "name": "Loona 사진 배경 변경 도구",
+  "short_name": "사진 배경 변경 도구",
+  "description": "사진 배경을 흰색, 파란색, 밝은 회색, 빨간색으로 온라인에서 무료로 바꾸세요. 플러드 필과 브러시 도구, 브라우저에서 비공개, AI 업로드 없음.",
+  "id": "/loona-image-compressor/ko/photo-background-changer.html",
+  "start_url": "./photo-background-changer.html",
+  "scope": "./photo-background-changer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

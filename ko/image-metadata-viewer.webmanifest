@@ -1,0 +1,29 @@
+{
+  "name": "Loona 이미지 메타데이터 및 EXIF 뷰어",
+  "short_name": "이미지 메타데이터 및 EXIF 뷰어",
+  "description": "모든 JPG, PNG 또는 WebP 사진의 숨은 메타데이터를 온라인에서 무료로 보세요 — 카메라 제조사와 모델, 촬영 날짜, 노출, ISO, 초점 거리, GPS 위치, IPTC와 XMP 기본 사항. 아무것도 업로드되지 않아요: 사진은 기기를 절대 벗어나지 않아요.",
+  "id": "/loona-image-compressor/ko/image-metadata-viewer.html",
+  "start_url": "./image-metadata-viewer.html",
+  "scope": "./image-metadata-viewer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

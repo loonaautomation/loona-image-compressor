@@ -1,0 +1,29 @@
+{
+  "name": "Loona 이미지 보정 도구",
+  "short_name": "이미지 보정 도구",
+  "description": "사진을 온라인에서 무료로 보정하세요: 원클릭 자동 보정, 부드러운 사진 선명화, 부드러운 노이즈 정리, 2x나 4x 업스케일링. 솔직한 결과, 회원가입 없음, 사진은 기기를 절대 벗어나지 않아요.",
+  "id": "/loona-image-compressor/ko/image-enhancer.html",
+  "start_url": "./image-enhancer.html",
+  "scope": "./image-enhancer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

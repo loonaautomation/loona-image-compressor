@@ -1,0 +1,29 @@
+{
+  "name": "Loona JPG 이미지를 75 KB로 압축하기 온라인",
+  "short_name": "JPG 이미지를 75 KB로 압축하기 온라인",
+  "description": "JPG 이미지를 75 KB 이하로 압축하세요. 브라우저에서 무료로 이용할 수 있어요. 자동 탐색으로 제한 안에 드는 최상의 품질을 찾아요 — 회원가입도, 업로드도 없어요.",
+  "id": "/loona-image-compressor/ko/compress-jpg-to-75kb.html",
+  "start_url": "./compress-jpg-to-75kb.html",
+  "scope": "./compress-jpg-to-75kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 소셜 미디어 이미지 크기 2026",
+  "short_name": "소셜 미디어 이미지 크기 2026",
+  "description": "Instagram, Facebook, YouTube, X, LinkedIn, Pinterest, TikTok, Discord의 정확한 이미지 크기 — 모든 슬롯에 메이커 도구와 안전 영역 안내가 있어요.",
+  "id": "/loona-image-compressor/ko/social-media-image-sizes.html",
+  "start_url": "./social-media-image-sizes.html",
+  "scope": "./social-media-image-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

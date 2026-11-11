@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSS 그라데이션 생성기",
+  "short_name": "CSS 그라데이션 생성기",
+  "description": "두세 가지 색상과 모든 각도로 CSS 선형 그라데이션을 만들고, 실시간으로 미리 보고, 준비된 CSS 코드를 복사하세요. 무료, 회원가입 없음.",
+  "id": "/loona-image-compressor/ko/gradient-generator.html",
+  "start_url": "./gradient-generator.html",
+  "scope": "./gradient-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

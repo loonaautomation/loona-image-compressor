@@ -1,0 +1,29 @@
+{
+  "name": "Loona X (Twitter) 게시물 이미지 (16",
+  "short_name": "X (Twitter) 게시물 이미지 (16",
+  "description": "X (Twitter) 게시물 이미지 (16:9)을 정확히 1600×900 px로 만드세요. 잘린 텍스트와 얼굴을 막는 안전 영역 규칙과 함께, 브라우저에서 무료로 크기를 조정하고 자를 수 있어요.",
+  "id": "/loona-image-compressor/ko/x-post-image-size.html",
+  "start_url": "./x-post-image-size.html",
+  "scope": "./x-post-image-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

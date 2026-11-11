@@ -1,0 +1,29 @@
+{
+  "name": "Loona JPG를 PNG로 변환하는 변환기",
+  "short_name": "JPG를 PNG로 변환하는 변환기",
+  "description": "JPG를 온라인에서 무료로 PNG로 변환하세요 — 편집기, 디자인 도구, 문서를 위한 무손실 출력. 브라우저에서 실행돼요, 회원가입 없음, 업로드 없음.",
+  "id": "/loona-image-compressor/ko/jpg-to-png.html",
+  "start_url": "./jpg-to-png.html",
+  "scope": "./jpg-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

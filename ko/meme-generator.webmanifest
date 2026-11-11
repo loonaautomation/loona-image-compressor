@@ -1,0 +1,29 @@
+{
+  "name": "Loona 밈 생성기",
+  "short_name": "밈 생성기",
+  "description": "굵은 위쪽과 아래쪽 텍스트로 모든 사진을 고전적인 밈으로 바꾸세요 — 실시간 미리보기, 단색 배경 옵션, PNG 다운로드가 있는 온라인 무료 밈 생성기. 회원가입 없음, 이미지는 기기를 절대 벗어나지 않아요.",
+  "id": "/loona-image-compressor/ko/meme-generator.html",
+  "start_url": "./meme-generator.html",
+  "scope": "./meme-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

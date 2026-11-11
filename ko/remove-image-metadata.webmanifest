@@ -1,0 +1,29 @@
+{
+  "name": "Loona 이미지 메타데이터 제거",
+  "short_name": "이미지 메타데이터 제거",
+  "description": "JPG, PNG, WebP 사진에서 EXIF, GPS 위치, XMP, IPTC 메타데이터를 온라인에서 무료로 제거하세요. 바이트 수준 제거 — 픽셀은 절대 다시 인코딩되지 않으므로, 품질은 건드려지지 않아요. 다시 스캔으로 검증됐어요, 브라우저에서 100% 비공개.",
+  "id": "/loona-image-compressor/ko/remove-image-metadata.html",
+  "start_url": "./remove-image-metadata.html",
+  "scope": "./remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

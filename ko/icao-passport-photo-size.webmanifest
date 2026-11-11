@@ -1,0 +1,29 @@
+{
+  "name": "Loona ICAO 표준 여권 사진 (35×45 mm) 크기",
+  "short_name": "ICAO 표준 여권 사진 (35×45 mm) 크기",
+  "description": "공식 크기 35×45 mm (413×531 px), 단색 밝은 배경 배경으로 만드는 ICAO 표준 여권 사진 (35×45 mm). 무료 온라인 메이커 — 자르기, 다운로드, 인쇄 시트 제공, 업로드 없음.",
+  "id": "/loona-image-compressor/ko/icao-passport-photo-size.html",
+  "start_url": "./icao-passport-photo-size.html",
+  "scope": "./icao-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

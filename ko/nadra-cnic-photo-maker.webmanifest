@@ -1,0 +1,29 @@
+{
+  "name": "Loona NADRA / CNIC 사진 제작기",
+  "short_name": "NADRA / CNIC 사진 제작기",
+  "description": "NADRA CNIC 사진을 온라인에서 무료로 만드세요: Pak-ID 업로드를 위한 정확한 350×467 px와 35×45 mm 인쇄 크기. 흰색 배경, 회원가입 없음, 완전히 비공개.",
+  "id": "/loona-image-compressor/ko/nadra-cnic-photo-maker.html",
+  "start_url": "./nadra-cnic-photo-maker.html",
+  "scope": "./nadra-cnic-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

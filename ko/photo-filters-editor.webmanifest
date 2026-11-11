@@ -1,0 +1,29 @@
+{
+  "name": "Loona 사진 필터 및 수정",
+  "short_name": "사진 필터 및 수정",
+  "description": "사진을 온라인에서 무료로 수정하세요: 밝기, 대비, 채도를 조정하고, 원클릭으로 선명화하고, Passport Fix와 Vivid 같은 준비된 프리셋을 사용하세요.",
+  "id": "/loona-image-compressor/ko/photo-filters-editor.html",
+  "start_url": "./photo-filters-editor.html",
+  "scope": "./photo-filters-editor.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

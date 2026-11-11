@@ -1,0 +1,29 @@
+{
+  "name": "Loona 여권 사진 인쇄 시트",
+  "short_name": "여권 사진 인쇄 시트",
+  "description": "여권 사진 4, 6장 또는 8장을 하나의 A4 인쇄 시트에 300 DPI로 무료로 넣으세요. 100%로 인쇄하고, 가이드를 따라 자르고, 스튜디오 비용을 아끼세요. 회원가입 없음, 완전히 비공개.",
+  "id": "/loona-image-compressor/ko/passport-photo-print-sheet.html",
+  "start_url": "./passport-photo-print-sheet.html",
+  "scope": "./passport-photo-print-sheet.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona SVG에서 JPG로 변환기",
+  "short_name": "SVG에서 JPG로 변환기",
+  "description": "SVG를 온라인에서 무료로 JPG로 변환하세요 — 벡터 로고와 일러스트를 모든 너비의 범용 JPG로 렌더링하세요. 회원가입 없음, 업로드 없음, 브라우저에서.",
+  "id": "/loona-image-compressor/ko/svg-to-jpg.html",
+  "start_url": "./svg-to-jpg.html",
+  "scope": "./svg-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

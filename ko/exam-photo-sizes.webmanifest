@@ -1,0 +1,29 @@
+{
+  "name": "Loona 시험 사진 및 서명 크기",
+  "short_name": "시험 사진 및 서명 크기",
+  "description": "20개 주요 인도 시험의 사진과 서명 크기와 KB 범위 — SSC, IBPS, SBI, UPSC, RRB, JEE, NEET 등. 각각 메이커 도구가 있어요.",
+  "id": "/loona-image-compressor/ko/exam-photo-sizes.html",
+  "start_url": "./exam-photo-sizes.html",
+  "scope": "./exam-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

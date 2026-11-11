@@ -1,0 +1,29 @@
+{
+  "name": "Loona 색상 선택기",
+  "short_name": "색상 선택기",
+  "description": "모든 색상을 고르고 HEX, RGB, HSL, HSV 값을 즉시 복사하세요. 틴트와 셰이드 띠를 포함해요 — 무료, 회원가입 없음, 브라우저에서 작동해요.",
+  "id": "/loona-image-compressor/ko/color-picker.html",
+  "start_url": "./color-picker.html",
+  "scope": "./color-picker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

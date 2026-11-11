@@ -1,0 +1,29 @@
+{
+  "name": "Loona 비자 사진 제작기",
+  "short_name": "비자 사진 제작기",
+  "description": "비자 사진을 온라인에서 무료로 만드세요: 미국 2x2인치, 영국과 솅겐 35x45 mm, 중국 33x48 mm, 300 DPI에서. 회원가입 없음, 워터마크 없음, 완전히 비공개 도구.",
+  "id": "/loona-image-compressor/ko/visa-photo-maker.html",
+  "start_url": "./visa-photo-maker.html",
+  "scope": "./visa-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

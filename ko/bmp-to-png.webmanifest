@@ -1,0 +1,29 @@
+{
+  "name": "Loona BMP를 PNG로 변환하는 변환기",
+  "short_name": "BMP를 PNG로 변환하는 변환기",
+  "description": "BMP를 온라인에서 무료로 PNG로 변환하세요 — 무손실, BMP보다 훨씬 작고, 어디서나 지원돼요. 브라우저에서 실행돼요, 회원가입 없음, 업로드 없음.",
+  "id": "/loona-image-compressor/ko/bmp-to-png.html",
+  "start_url": "./bmp-to-png.html",
+  "scope": "./bmp-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

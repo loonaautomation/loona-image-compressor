@@ -1,0 +1,29 @@
+{
+  "name": "Loona 대비 검사 도구",
+  "short_name": "대비 검사 도구",
+  "description": "텍스트와 배경 색상을 WCAG와 비교해 확인하세요: 일반 텍스트와 큰 텍스트의 AA와 AAA 통과/실패와 함께 즉각적인 대비 비율, 그리고 실시간 미리보기. 무료, 회원가입 없음.",
+  "id": "/loona-image-compressor/ko/contrast-checker.html",
+  "start_url": "./contrast-checker.html",
+  "scope": "./contrast-checker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

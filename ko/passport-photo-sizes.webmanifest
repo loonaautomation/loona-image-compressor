@@ -1,0 +1,29 @@
+{
+  "name": "Loona 국가별 여권 및 비자 사진 크기",
+  "short_name": "국가별 여권 및 비자 사진 크기",
+  "description": "40개 국가와 문서의 공식 여권, 비자, 신분증 사진 크기. 각각 정확한 밀리미터와 픽셀 크기의 메이커 도구가 있어요.",
+  "id": "/loona-image-compressor/ko/passport-photo-sizes.html",
+  "start_url": "./passport-photo-sizes.html",
+  "scope": "./passport-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
