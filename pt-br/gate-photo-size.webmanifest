@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tamanho de Fotografia de GATE",
+  "short_name": "Tamanho de Fotografia de GATE",
+  "description": "Redimensione a sua fotografia de GATE para o tamanho do aviso oficial (480 × 640 px) e o intervalo de 5–200 KB. Grátis, no seu navegador — sem envios e sem registro.",
+  "id": "/loona-image-compressor/pt-br/gate-photo-size.html",
+  "start_url": "./gate-photo-size.html",
+  "scope": "./gate-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

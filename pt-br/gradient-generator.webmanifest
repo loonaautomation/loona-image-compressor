@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gerador de Gradientes CSS",
+  "short_name": "Gerador de Gradientes CSS",
+  "description": "Construa gradientes lineares CSS com duas ou três cores e qualquer ângulo, pré-visualize-os ao vivo e copie o código CSS pronto. Gratuito, sem registro.",
+  "id": "/loona-image-compressor/pt-br/gradient-generator.html",
+  "start_url": "./gradient-generator.html",
+  "scope": "./gradient-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

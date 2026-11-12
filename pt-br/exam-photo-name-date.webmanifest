@@ -1,0 +1,29 @@
+{
+  "name": "Loona Fotografia de Exame com Nome e Data",
+  "short_name": "Fotografia de Exame com Nome",
+  "description": "Crie gratuitamente uma fotografia de exame com o seu nome e a data impressos na parte inferior — o formato de exames de conselhos escolares usado no Paquistão e na Índia. Privado, sem necessidade de registro.",
+  "id": "/loona-image-compressor/pt-br/exam-photo-name-date.html",
+  "start_url": "./exam-photo-name-date.html",
+  "scope": "./exam-photo-name-date.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

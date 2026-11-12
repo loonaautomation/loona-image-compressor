@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tamanho de Assinatura de UPSC NDA",
+  "short_name": "Tamanho de Assinatura de UPSC",
+  "description": "Redimensione a sua assinatura de UPSC NDA para o tamanho do aviso oficial (caixa digitalizada, proporção de cerca de 7:2) e o intervalo de 20–300 KB. Grátis, no seu navegador — sem envios e sem registro.",
+  "id": "/loona-image-compressor/pt-br/upsc-nda-signature-size.html",
+  "start_url": "./upsc-nda-signature-size.html",
+  "scope": "./upsc-nda-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tamanho de Passaporte do Canadá",
+  "short_name": "Tamanho de Passaporte do",
+  "description": "Crie uma Passaporte do Canadá com o tamanho oficial de 50×70 mm (591×827 px), fundo branco liso ou de cor clara. Criador online gratuito — recorte, transfira e imprima a folha, sem envios.",
+  "id": "/loona-image-compressor/pt-br/canada-passport-photo-size.html",
+  "start_url": "./canada-passport-photo-size.html",
+  "scope": "./canada-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gerador de Paletas de Cores",
+  "short_name": "Gerador de Paletas de Cores",
+  "description": "Gere paletas de cores harmoniosas a partir de qualquer cor base — esquemas análogos, complementares, triádicos e monocromáticos com códigos HEX copiáveis. Gratuito, sem registro.",
+  "id": "/loona-image-compressor/pt-br/color-palette-generator.html",
+  "start_url": "./color-palette-generator.html",
+  "scope": "./color-palette-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

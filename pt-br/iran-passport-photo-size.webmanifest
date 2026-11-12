@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tamanho de Passaporte do Irão",
+  "short_name": "Tamanho de Passaporte do Irão",
+  "description": "Crie uma Passaporte do Irão com o tamanho oficial de 30×40 mm (354×472 px), fundo branco liso ou claro. Criador online gratuito — recorte, transfira e imprima a folha, sem envios.",
+  "id": "/loona-image-compressor/pt-br/iran-passport-photo-size.html",
+  "start_url": "./iran-passport-photo-size.html",
+  "scope": "./iran-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

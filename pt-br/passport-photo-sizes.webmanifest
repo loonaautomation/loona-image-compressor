@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tamanhos de Fotografia de Passaporte e",
+  "short_name": "Tamanhos de Fotografia de",
+  "description": "Tamanhos oficiais de fotografia de passaporte, visto e documento de identificação para 40 países e documentos, cada um com uma ferramenta de criação com o tamanho exato em milímetros e píxeis.",
+  "id": "/loona-image-compressor/pt-br/passport-photo-sizes.html",
+  "start_url": "./passport-photo-sizes.html",
+  "scope": "./passport-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
