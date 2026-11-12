@@ -1,0 +1,29 @@
+{
+  "name": "Loona Fargevelger",
+  "short_name": "Fargevelger",
+  "description": "Velg en hvilken som helst farge og kopier umiddelbart HEX-, RGB-, HSL- og HSV-verdiene. Inkluderer en stripe med nyanser og skygger — gratis, ingen registrering, fungerer i nettleseren din.",
+  "id": "/loona-image-compressor/nb/color-picker.html",
+  "start_url": "./color-picker.html",
+  "scope": "./color-picker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

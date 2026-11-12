@@ -1,0 +1,29 @@
+{
+  "name": "Loona Utskriftsark for passbilder",
+  "short_name": "Utskriftsark for passbilder",
+  "description": "Legg 4, 6 eller 8 passbilder på ett A4-utskriftsark gratis ved 300 DPI. Skriv ut med 100 %, klipp langs guidene og spar studiopenger. Ingen registrering, helt privat.",
+  "id": "/loona-image-compressor/nb/passport-photo-print-sheet.html",
+  "start_url": "./passport-photo-print-sheet.html",
+  "scope": "./passport-photo-print-sheet.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

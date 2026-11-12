@@ -1,0 +1,29 @@
+{
+  "name": "Loona Endre bildestørrelse til 2480 × 3508 px på nett",
+  "short_name": "Endre bildestørrelse til 2480",
+  "description": "Endre størrelsen på et hvilket som helst bilde til nøyaktig 2480×3508 px — A4 ved 300 DPI. Gratis i nettleseren din med beskjæringskontroll; ingen opplasting, ingen registrering.",
+  "id": "/loona-image-compressor/nb/resize-image-to-2480x3508.html",
+  "start_url": "./resize-image-to-2480x3508.html",
+  "scope": "./resize-image-to-2480x3508.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Türkiye Passport / Visa Photo (Biometric)-størrelse",
+  "short_name": "Türkiye Passport / Visa Photo",
+  "description": "Lag et Türkiye Passport / Visa Photo (Biometric) i den offisielle størrelsen 50×60 mm (591×709 px), ensfarget hvit bakgrunn. Gratis verktøy på nett — beskjær, last ned og skriv ut ark, ingen opplasting.",
+  "id": "/loona-image-compressor/nb/turkey-passport-photo-size.html",
+  "start_url": "./turkey-passport-photo-size.html",
+  "scope": "./turkey-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

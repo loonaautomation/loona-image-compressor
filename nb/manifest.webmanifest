@@ -1,0 +1,29 @@
+{
+  "name": "Loona Image Compressor",
+  "short_name": "Loona Image Compressor",
+  "description": "Komprimer JPG-, PNG- og WebP-bilder gratis på nett til en nøyaktig størrelse — 50 KB, 100 KB, 200 KB. Batchkomprimering, størrelsesendring, ZIP-nedlasting. Ingen registrering, ingen vannmerke, 100 % privat.",
+  "id": "/loona-image-compressor/nb/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

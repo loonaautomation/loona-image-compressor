@@ -1,0 +1,29 @@
+{
+  "name": "Loona Endre bildestørrelse til 1080 × 1080",
+  "short_name": "Endre bildestørrelse til 1080",
+  "description": "Endre størrelsen på et hvilket som helst bilde til nøyaktig 1080 × 1080 piksler (Instagram square posts and profile pictures) gratis. Fyll, tilpass eller strekk, JPG eller PNG, last ned umiddelbart — ingen registrering, ingenting lastes opp.",
+  "id": "/loona-image-compressor/nb/resize-image-to-1080x1080.html",
+  "start_url": "./resize-image-to-1080x1080.html",
+  "scope": "./resize-image-to-1080x1080.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Endre bildestørrelse til 354 × 472 px på nett",
+  "short_name": "Endre bildestørrelse til 354",
+  "description": "Endre størrelsen på et hvilket som helst bilde til nøyaktig 354×472 px — 30 × 40 mm ved 300 DPI — dokumentstørrelse for Iran/Colombia. Gratis i nettleseren din med beskjæringskontroll; ingen opplasting, ingen registrering.",
+  "id": "/loona-image-compressor/nb/resize-image-to-354x472.html",
+  "start_url": "./resize-image-to-354x472.html",
+  "scope": "./resize-image-to-354x472.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

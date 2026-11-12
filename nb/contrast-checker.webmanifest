@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kontrastsjekker",
+  "short_name": "Kontrastsjekker",
+  "description": "Sjekk tekst- og bakgrunnsfarger mot WCAG: umiddelbart kontrastforhold med AA- og AAA-bestått/ikke bestått for normal og stor tekst, pluss en direkte forhåndsvisning. Gratis, ingen registrering.",
+  "id": "/loona-image-compressor/nb/contrast-checker.html",
+  "start_url": "./contrast-checker.html",
+  "scope": "./contrast-checker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

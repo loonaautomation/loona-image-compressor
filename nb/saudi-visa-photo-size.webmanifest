@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saudi Arabia Visa Photo-størrelse",
+  "short_name": "Saudi Arabia Visa",
+  "description": "Lag et Saudi Arabia Visa Photo i den offisielle størrelsen 40×60 mm (472×709 px), ensfarget hvit bakgrunn. Gratis verktøy på nett — beskjær, last ned og skriv ut ark, ingen opplasting.",
+  "id": "/loona-image-compressor/nb/saudi-visa-photo-size.html",
+  "start_url": "./saudi-visa-photo-size.html",
+  "scope": "./saudi-visa-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

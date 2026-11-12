@@ -1,0 +1,29 @@
+{
+  "name": "Loona Indonesia Passport Photo-størrelse",
+  "short_name": "Indonesia Passport",
+  "description": "Lag et Indonesia Passport Photo i den offisielle størrelsen 40×60 mm (472×709 px), rød (for pass) — hvit for mange andre ID-er bakgrunn. Gratis verktøy på nett — beskjær, last ned og skriv ut ark, ingen opplasting.",
+  "id": "/loona-image-compressor/nb/indonesia-passport-photo-size.html",
+  "start_url": "./indonesia-passport-photo-size.html",
+  "scope": "./indonesia-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

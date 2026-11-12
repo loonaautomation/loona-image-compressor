@@ -1,0 +1,29 @@
+{
+  "name": "Loona Massefjerner for metadata",
+  "short_name": "Massefjerner for metadata",
+  "description": "Fjern EXIF-, GPS- og XMP-metadata fra mange bilder samtidig — slipp en bunke JPG-, PNG- og WebP-filer, fjern alt i nettleseren din og last ned alt som én ZIP. Gratis, privat, ingen opplastinger, ingen ny koding.",
+  "id": "/loona-image-compressor/nb/bulk-remove-image-metadata.html",
+  "start_url": "./bulk-remove-image-metadata.html",
+  "scope": "./bulk-remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Endre bildestørrelse",
+  "short_name": "Endre bildestørrelse",
+  "description": "Endre størrelsen på et hvilket som helst bilde med piksler, cm eller tommer med en DPI-innstilling gratis. Behold sideforholdet, velg JPG, PNG eller WebP og last ned umiddelbart — ingen registrering nødvendig.",
+  "id": "/loona-image-compressor/nb/resize-image.html",
+  "start_url": "./resize-image.html",
+  "scope": "./resize-image.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSS-gradientgenerator",
+  "short_name": "CSS-gradientgenerator",
+  "description": "Bygg lineære CSS-gradienter med to eller tre farger og en hvilken som helst vinkel, forhåndsvis dem direkte og kopier den ferdige CSS-koden. Gratis, ingen registrering.",
+  "id": "/loona-image-compressor/nb/gradient-generator.html",
+  "start_url": "./gradient-generator.html",
+  "scope": "./gradient-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

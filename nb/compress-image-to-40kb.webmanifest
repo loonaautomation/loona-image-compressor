@@ -1,0 +1,29 @@
+{
+  "name": "Loona Komprimer bilde til 40 KB på nett",
+  "short_name": "Komprimer bilde til 40 KB på",
+  "description": "Komprimer JPG-, PNG- og WebP-bilder til 40 KB eller mindre, på nett og gratis. Automatisk søk etter kvalitet og størrelse i nettleseren din — ingen registrering, ingen opplasting.",
+  "id": "/loona-image-compressor/nb/compress-image-to-40kb.html",
+  "start_url": "./compress-image-to-40kb.html",
+  "scope": "./compress-image-to-40kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

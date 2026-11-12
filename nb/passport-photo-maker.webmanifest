@@ -1,0 +1,29 @@
+{
+  "name": "Loona Verktøy for bilder i passstørrelse",
+  "short_name": "Verktøy for bilder i",
+  "description": "Lag et bilde i passstørrelse gratis på nett: beskjær et hvilket som helst bilde til 35×45 mm eller 2×2 tommer med utskriftskvalitet på 300 DPI. Ingen registrering, ingen vannmerke, helt privat.",
+  "id": "/loona-image-compressor/nb/passport-photo-maker.html",
+  "start_url": "./passport-photo-maker.html",
+  "scope": "./passport-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

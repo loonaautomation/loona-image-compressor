@@ -1,0 +1,29 @@
+{
+  "name": "Loona UPSC NDA Signatur-størrelse",
+  "short_name": "UPSC NDA Signatur-størrelse",
+  "description": "Endre størrelsen på UPSC NDA signatur til varslingsstørrelsen (skannet boks, forhold omtrent 7:2) og båndet på 20–300 KB. Gratis, i nettleseren din — ingen opplasting, ingen registrering.",
+  "id": "/loona-image-compressor/nb/upsc-nda-signature-size.html",
+  "start_url": "./upsc-nda-signature-size.html",
+  "scope": "./upsc-nda-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

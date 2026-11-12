@@ -1,0 +1,29 @@
+{
+  "name": "Loona Memegenerator",
+  "short_name": "Memegenerator",
+  "description": "Gjør et hvilket som helst bilde om til et klassisk meme med fet topp- og bunntekst — gratis memegenerator på nett med direkte forhåndsvisning, alternativer for ensfarget bakgrunn og PNG-nedlasting. Ingen registrering, og bildet ditt forlater aldri enheten din.",
+  "id": "/loona-image-compressor/nb/meme-generator.html",
+  "start_url": "./meme-generator.html",
+  "scope": "./meme-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

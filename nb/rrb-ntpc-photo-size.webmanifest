@@ -1,0 +1,29 @@
+{
+  "name": "Loona RRB NTPC (Railways) Fotografi-størrelse",
+  "short_name": "RRB NTPC (Railways)",
+  "description": "Endre størrelsen på RRB NTPC (Railways) bilde til varslingsstørrelsen (320 × 240 px) og båndet på 30–70 KB. Gratis, i nettleseren din — ingen opplasting, ingen registrering.",
+  "id": "/loona-image-compressor/nb/rrb-ntpc-photo-size.html",
+  "start_url": "./rrb-ntpc-photo-size.html",
+  "scope": "./rrb-ntpc-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
