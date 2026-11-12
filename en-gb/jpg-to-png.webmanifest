@@ -1,0 +1,29 @@
+{
+  "name": "Loona JPG to PNG Converter",
+  "short_name": "JPG to PNG Converter",
+  "description": "Convert JPG to PNG online for free — lossless output for editors, design tools and documents. Runs in your browser, no signup, no upload.",
+  "id": "/loona-image-compressor/en-gb/jpg-to-png.html",
+  "start_url": "./jpg-to-png.html",
+  "scope": "./jpg-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

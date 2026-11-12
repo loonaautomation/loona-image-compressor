@@ -1,0 +1,29 @@
+{
+  "name": "Loona Free Photo Background Changer",
+  "short_name": "Free Photo Background Changer",
+  "description": "Change a photo background to white, blue, light grey or red for free online. Flood-fill plus brush tools, private in your browser, no AI upload.",
+  "id": "/loona-image-compressor/en-gb/photo-background-changer.html",
+  "start_url": "./photo-background-changer.html",
+  "scope": "./photo-background-changer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

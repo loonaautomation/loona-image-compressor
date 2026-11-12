@@ -1,0 +1,29 @@
+{
+  "name": "Loona Free NADRA / CNIC Photo Maker",
+  "short_name": "Free NADRA / CNIC Photo Maker",
+  "description": "Make a NADRA CNIC photo online for free: exact 350×467 px for Pak-ID upload and 35×45 mm print size. White background, no signup, fully private.",
+  "id": "/loona-image-compressor/en-gb/nadra-cnic-photo-maker.html",
+  "start_url": "./nadra-cnic-photo-maker.html",
+  "scope": "./nadra-cnic-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona UK Passport Photo Photo Size — 35 × 45 mm",
+  "short_name": "UK Passport Photo Photo Size — 35 × 45 mm",
+  "description": "Make a UK Passport Photo at the official size 35×45 mm (600×750 px), plain light grey or cream background. Free online maker — crop, download and print sheet, no upload.",
+  "id": "/loona-image-compressor/en-gb/uk-passport-photo-size.html",
+  "start_url": "./uk-passport-photo-size.html",
+  "scope": "./uk-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
