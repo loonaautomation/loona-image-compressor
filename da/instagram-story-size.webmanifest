@@ -1,0 +1,29 @@
+{
+  "name": "Loona Instagram Historie størrelse",
+  "short_name": "Instagram Historie størrelse",
+  "description": "Lav en Instagram historie på præcis 1080×1920 px. Gratis størrelses- og beskæringsværktøj i din browser med sikkerhedszonereglerne, der forhindrer beskåret tekst og ansigter.",
+  "id": "/loona-image-compressor/da/instagram-story-size.html",
+  "start_url": "./instagram-story-size.html",
+  "scope": "./instagram-story-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona BMP til PNG-konverter",
+  "short_name": "BMP til PNG-konverter",
+  "description": "Konvertér BMP til PNG online gratis — tabsfri, meget mindre end BMP, og understøttet overalt. Kører i din browser, ingen tilmelding, ingen upload.",
+  "id": "/loona-image-compressor/da/bmp-to-png.html",
+  "start_url": "./bmp-to-png.html",
+  "scope": "./bmp-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

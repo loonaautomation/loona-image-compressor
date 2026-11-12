@@ -1,0 +1,29 @@
+{
+  "name": "Loona Farvepalettegenerator",
+  "short_name": "Farvepalettegenerator",
+  "description": "Generér harmoniske farvepaletter fra enhver basisfarve — analoge, komplementære, triadiske og monokromatiske skemaer med kopierbare HEX-koder. Gratis, ingen tilmelding.",
+  "id": "/loona-image-compressor/da/color-palette-generator.html",
+  "start_url": "./color-palette-generator.html",
+  "scope": "./color-palette-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

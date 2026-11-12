@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tilpas billedstørrelse til 591 × 827 px online",
+  "short_name": "Tilpas billedstørrelse til",
+  "description": "Tilpas ethvert billede til præcis 591×827 px — 50 × 70 mm ved 300 DPI — Canada/Brasilien passtørrelse. Gratis i din browser med beskæringskontrol; ingen upload, ingen tilmelding.",
+  "id": "/loona-image-compressor/da/resize-image-to-591x827.html",
+  "start_url": "./resize-image-to-591x827.html",
+  "scope": "./resize-image-to-591x827.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pas- og visumfotostørrelser efter land",
+  "short_name": "Pas- og visumfotostørrelser",
+  "description": "Officielle pas-, visum- og ID-fotostørrelser for 40 lande og dokumenter, hver med et værktøj i den nøjagtige millimeter- og pixelstørrelse.",
+  "id": "/loona-image-compressor/da/passport-photo-sizes.html",
+  "start_url": "./passport-photo-sizes.html",
+  "scope": "./passport-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

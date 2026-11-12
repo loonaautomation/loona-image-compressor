@@ -1,0 +1,29 @@
+{
+  "name": "Loona Fjern billedmetadata",
+  "short_name": "Fjern billedmetadata",
+  "description": "Fjern EXIF, GPS-placering, XMP og IPTC-metadata fra JPG-, PNG- og WebP-fotos online gratis. Afrensning på byte-niveau — pixels genkodes aldrig, så kvaliteten er urørt. Verificeret af en genscanning, 100% privat i din browser.",
+  "id": "/loona-image-compressor/da/remove-image-metadata.html",
+  "start_url": "./remove-image-metadata.html",
+  "scope": "./remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

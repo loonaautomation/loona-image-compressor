@@ -1,0 +1,29 @@
+{
+  "name": "Loona Britisk pasfoto størrelse",
+  "short_name": "Britisk pasfoto størrelse",
+  "description": "Lav et Britisk pasfoto i den officielle størrelse 35×45 mm (600×750 px), ensfarvet lysegrå eller creme baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
+  "id": "/loona-image-compressor/da/uk-passport-photo-size.html",
+  "start_url": "./uk-passport-photo-size.html",
+  "scope": "./uk-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

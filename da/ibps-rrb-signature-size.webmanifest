@@ -1,0 +1,29 @@
+{
+  "name": "Loona IBPS RRB (Gramin Bank) Underskrift størrelse",
+  "short_name": "IBPS RRB (Gramin Bank)",
+  "description": "Tilpas størrelsen på dit IBPS RRB (Gramin Bank) underskrift til meddelelsens størrelse (140 × 60 px) og båndet 10–20 KB. Gratis, i din browser — ingen upload, ingen tilmelding.",
+  "id": "/loona-image-compressor/da/ibps-rrb-signature-size.html",
+  "start_url": "./ibps-rrb-signature-size.html",
+  "scope": "./ibps-rrb-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

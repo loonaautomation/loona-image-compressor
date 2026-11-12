@@ -1,0 +1,29 @@
+{
+  "name": "Loona Argentinsk pas- / DNI-foto størrelse",
+  "short_name": "Argentinsk pas- / DNI-foto",
+  "description": "Lav et Argentinsk pas- / DNI-foto i den officielle størrelse 40×40 mm (472×472 px), ensfarvet hvid eller lyseblå baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
+  "id": "/loona-image-compressor/da/argentina-passport-photo-size.html",
+  "start_url": "./argentina-passport-photo-size.html",
+  "scope": "./argentina-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

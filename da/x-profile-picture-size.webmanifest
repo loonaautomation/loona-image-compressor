@@ -1,0 +1,29 @@
+{
+  "name": "Loona X (Twitter) Profilbillede størrelse",
+  "short_name": "X (Twitter) Profilbillede",
+  "description": "Lav en X (Twitter) profilbillede på præcis 400×400 px. Gratis størrelses- og beskæringsværktøj i din browser med sikkerhedszonereglerne, der forhindrer beskåret tekst og ansigter.",
+  "id": "/loona-image-compressor/da/x-profile-picture-size.html",
+  "start_url": "./x-profile-picture-size.html",
+  "scope": "./x-profile-picture-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

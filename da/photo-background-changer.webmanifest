@@ -1,0 +1,29 @@
+{
+  "name": "Loona Fotobaggrundsskifter",
+  "short_name": "Fotobaggrundsskifter",
+  "description": "Skift en fotobaggrund til hvid, blå, lysegrå eller rød gratis online. Flood-fill plus penselværktøjer, privat i din browser, ingen AI-upload.",
+  "id": "/loona-image-compressor/da/photo-background-changer.html",
+  "start_url": "./photo-background-changer.html",
+  "scope": "./photo-background-changer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona RRB Group D (Railways) Underskrift størrelse",
+  "short_name": "RRB Group D (Railways)",
+  "description": "Tilpas størrelsen på dit RRB Group D (Railways) underskrift til meddelelsens størrelse (140 × 60 px) og båndet 10–40 KB. Gratis, i din browser — ingen upload, ingen tilmelding.",
+  "id": "/loona-image-compressor/da/rrb-group-d-signature-size.html",
+  "start_url": "./rrb-group-d-signature-size.html",
+  "scope": "./rrb-group-d-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
