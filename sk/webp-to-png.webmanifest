@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prevodník WebP na PNG",
+  "short_name": "Prevodník WebP na PNG",
+  "description": "Preveďte WebP na PNG online zadarmo — bezstratové PNG s priehľadnosťou pre editory a návrhárske nástroje. Beží vo vašom prehliadači, bez registrácie, bez nahrávania.",
+  "id": "/loona-image-compressor/sk/webp-to-png.html",
+  "start_url": "./webp-to-png.html",
+  "scope": "./webp-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

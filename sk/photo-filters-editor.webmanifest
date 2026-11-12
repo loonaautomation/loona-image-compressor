@@ -1,0 +1,29 @@
+{
+  "name": "Loona Filtre a opravy fotografií",
+  "short_name": "Filtre a opravy fotografií",
+  "description": "Opravujte fotografie online zadarmo: upravte jas, kontrast a sýtosť, doostrite jedným kliknutím a použite hotové predvoľby, ako je Oprava pasovej fotografie a Živá.",
+  "id": "/loona-image-compressor/sk/photo-filters-editor.html",
+  "start_url": "./photo-filters-editor.html",
+  "scope": "./photo-filters-editor.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

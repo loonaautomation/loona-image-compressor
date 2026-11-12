@@ -1,0 +1,29 @@
+{
+  "name": "Loona Veľkosť TikTok Fotopríspevok (štvorcový)",
+  "short_name": "Veľkosť TikTok Fotopríspevok",
+  "description": "Vytvorte TikTok fotopríspevok (štvorcový) presne 1080×1080 px. Bezplatný nástroj na zmenu veľkosti/orezanie vo vašom prehliadači s pravidlami bezpečnej zóny, ktoré zabránia orezaniu textu a tvárí.",
+  "id": "/loona-image-compressor/sk/tiktok-photo-post-square-size.html",
+  "start_url": "./tiktok-photo-post-square-size.html",
+  "scope": "./tiktok-photo-post-square-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

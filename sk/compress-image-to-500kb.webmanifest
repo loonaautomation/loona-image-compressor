@@ -1,0 +1,29 @@
+{
+  "name": "Loona Komprimovať obrázok na 500 KB online",
+  "short_name": "Komprimovať obrázok na 500 KB",
+  "description": "Komprimujte obrázky JPG, PNG a WebP na 500 KB alebo menej, online a zadarmo. Automatické vyhľadávanie kvality a veľkosti vo vašom prehliadači — bez registrácie, bez nahrávania.",
+  "id": "/loona-image-compressor/sk/compress-image-to-500kb.html",
+  "start_url": "./compress-image-to-500kb.html",
+  "scope": "./compress-image-to-500kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prevodník JPG na WebP",
+  "short_name": "Prevodník JPG na WebP",
+  "description": "Preveďte JPG na WebP online zadarmo a zmenšite obrázky pre web o 25–40 % pri rovnakej kvalite. Vo vašom prehliadači — bez registrácie, bez nahrávania, bez vodoznaku.",
+  "id": "/loona-image-compressor/sk/jpg-to-webp.html",
+  "start_url": "./jpg-to-webp.html",
+  "scope": "./jpg-to-webp.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

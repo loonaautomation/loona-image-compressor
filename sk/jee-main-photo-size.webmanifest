@@ -1,0 +1,29 @@
+{
+  "name": "Loona Veľkosť JEE Main Fotografia",
+  "short_name": "Veľkosť JEE Main Fotografia",
+  "description": "Zmeňte veľkosť súboru JEE Main fotografia na veľkosť podľa oznámenia (3,5 × 4,5 cm (asi 413 × 531 px pri 300 DPI)) a pásmo 10–200 KB. Zadarmo, vo vašom prehliadači — bez nahrávania a bez registrácie.",
+  "id": "/loona-image-compressor/sk/jee-main-photo-size.html",
+  "start_url": "./jee-main-photo-size.html",
+  "scope": "./jee-main-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

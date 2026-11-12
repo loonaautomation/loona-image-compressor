@@ -1,0 +1,29 @@
+{
+  "name": "Loona Veľkosť LinkedIn Obrázok príspevku",
+  "short_name": "Veľkosť LinkedIn Obrázok",
+  "description": "Vytvorte LinkedIn obrázok príspevku presne 1200×627 px. Bezplatný nástroj na zmenu veľkosti/orezanie vo vašom prehliadači s pravidlami bezpečnej zóny, ktoré zabránia orezaniu textu a tvárí.",
+  "id": "/loona-image-compressor/sk/linkedin-post-image-size.html",
+  "start_url": "./linkedin-post-image-size.html",
+  "scope": "./linkedin-post-image-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

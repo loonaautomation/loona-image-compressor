@@ -1,0 +1,29 @@
+{
+  "name": "Loona Veľkosť RRB Group D (Railways) Podpis",
+  "short_name": "Veľkosť RRB Group D",
+  "description": "Zmeňte veľkosť súboru RRB Group D (Railways) podpis na veľkosť podľa oznámenia (140 × 60 px) a pásmo 10–40 KB. Zadarmo, vo vašom prehliadači — bez nahrávania a bez registrácie.",
+  "id": "/loona-image-compressor/sk/rrb-group-d-signature-size.html",
+  "start_url": "./rrb-group-d-signature-size.html",
+  "scope": "./rrb-group-d-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Vodoznak obrázka",
+  "short_name": "Vodoznak obrázka",
+  "description": "Pridajte textový vodoznak na akúkoľvek fotografiu online zadarmo — zvoľte text, veľkosť, farbu, krytie a pozíciu, alebo ho opakujte ako dláždený vzor. Živý náhľad, bez registrácie a váš obrázok nikdy neopustí vaše zariadenie.",
+  "id": "/loona-image-compressor/sk/image-watermark.html",
+  "start_url": "./image-watermark.html",
+  "scope": "./image-watermark.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

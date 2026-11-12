@@ -1,0 +1,29 @@
+{
+  "name": "Loona Zmeniť veľkosť obrázka",
+  "short_name": "Zmeniť veľkosť obrázka",
+  "description": "Zmeňte veľkosť akéhokoľvek obrázka podľa pixelov, cm alebo palcov s nastavením DPI zadarmo. Zachovajte pomer strán, vyberte JPG, PNG alebo WebP a sťahujte okamžite — registrácia nie je potrebná.",
+  "id": "/loona-image-compressor/sk/resize-image.html",
+  "start_url": "./resize-image.html",
+  "scope": "./resize-image.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

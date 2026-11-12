@@ -1,0 +1,29 @@
+{
+  "name": "Loona Vylepšovač obrázkov",
+  "short_name": "Vylepšovač obrázkov",
+  "description": "Vylepšite fotografiu online zadarmo: automatické vylepšenie jedným kliknutím, doostrenie mäkkých fotografií, jemné odstránenie šumu a zväčšenie 2x alebo 4x. Poctivé výsledky, bez registrácie a vaša fotografia nikdy neopustí vaše zariadenie.",
+  "id": "/loona-image-compressor/sk/image-enhancer.html",
+  "start_url": "./image-enhancer.html",
+  "scope": "./image-enhancer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Veľkosť GATE Fotografia",
+  "short_name": "Veľkosť GATE Fotografia",
+  "description": "Zmeňte veľkosť súboru GATE fotografia na veľkosť podľa oznámenia (480 × 640 px) a pásmo 5–200 KB. Zadarmo, vo vašom prehliadači — bez nahrávania a bez registrácie.",
+  "id": "/loona-image-compressor/sk/gate-photo-size.html",
+  "start_url": "./gate-photo-size.html",
+  "scope": "./gate-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

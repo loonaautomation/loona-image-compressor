@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prevodník WebP na JPG",
+  "short_name": "Prevodník WebP na JPG",
+  "description": "Preveďte WebP na JPG online zadarmo, aby sa vaše obrázky otvorili v každej aplikácii, formulári aj staršom zariadení. Založené na prehliadači — bez registrácie, bez nahrávania, bez vodoznaku.",
+  "id": "/loona-image-compressor/sk/webp-to-jpg.html",
+  "start_url": "./webp-to-jpg.html",
+  "scope": "./webp-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

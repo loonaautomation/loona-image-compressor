@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rozostrenie tváre",
+  "short_name": "Rozostrenie tváre",
+  "description": "Rozostrite alebo pixelujte tváre, evidenčné čísla a súkromné detaily na akejkoľvek fotografii. Oblasti si vyberiete sami, zvolíte silu, zobrazíte náhľad a stiahnete — zadarmo, bez registrácie a vaša fotografia nikdy neopustí vaše zariadenie.",
+  "id": "/loona-image-compressor/sk/face-blur.html",
+  "start_url": "./face-blur.html",
+  "scope": "./face-blur.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

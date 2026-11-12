@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generátor memov",
+  "short_name": "Generátor memov",
+  "description": "Premeníte ľubovoľnú fotografiu na klasický meme s tučným horným a dolným textom — bezplatný online generátor meme s živým náhľadom, možnosťami jednofarebného pozadia a sťahovaním PNG. Bez registrácie a váš obrázok nikdy neopustí vaše zariadenie.",
+  "id": "/loona-image-compressor/sk/meme-generator.html",
+  "start_url": "./meme-generator.html",
+  "scope": "./meme-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

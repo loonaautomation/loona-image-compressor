@@ -1,0 +1,29 @@
+{
+  "name": "Loona Odstrániť metadáta obrázka",
+  "short_name": "Odstrániť metadáta obrázka",
+  "description": "Odstráňte metadáta EXIF, polohu GPS, XMP a IPTC z fotografií JPG, PNG a WebP online zadarmo. Odstraňovanie na úrovni bajtov — pixely sa nikdy znova nekódujú, takže kvalita zostáva nedotknutá. Overené opätovným skenovaním, 100 % súkromné vo vašom prehliadači.",
+  "id": "/loona-image-compressor/sk/remove-image-metadata.html",
+  "start_url": "./remove-image-metadata.html",
+  "scope": "./remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
