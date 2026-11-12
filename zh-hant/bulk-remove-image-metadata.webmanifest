@@ -1,0 +1,29 @@
+{
+  "name": "Loona 批次後設資料移除工具",
+  "short_name": "批次後設資料移除工具",
+  "description": "一次從許多照片中移除 EXIF、GPS 和 XMP 後設資料 — 拖放一批 JPG、PNG 和 WebP 檔案，在您的瀏覽器中剝離它們全部，並將一切作為一個 ZIP 下載。免費、私密、無上傳、無重新編碼。",
+  "id": "/loona-image-compressor/zh-hant/bulk-remove-image-metadata.html",
+  "start_url": "./bulk-remove-image-metadata.html",
+  "scope": "./bulk-remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

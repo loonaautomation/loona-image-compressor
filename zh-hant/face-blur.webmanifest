@@ -1,0 +1,29 @@
+{
+  "name": "Loona 面部模糊",
+  "short_name": "面部模糊",
+  "description": "模糊或畫素化任何照片中的面部、車牌和私人細節。您自己選擇區域、選擇強度、預覽並下載 — 免費，無需註冊，您的照片絕不會離開您的裝置。",
+  "id": "/loona-image-compressor/zh-hant/face-blur.html",
+  "start_url": "./face-blur.html",
+  "scope": "./face-blur.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

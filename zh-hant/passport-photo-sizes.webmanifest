@@ -1,0 +1,29 @@
+{
+  "name": "Loona 各國護照和簽證照片尺寸",
+  "short_name": "各國護照和簽證照片尺寸",
+  "description": "40 個國家和證件的官方護照、簽證和身份證照片尺寸，每個都附有按精確毫米和畫素尺寸製作的工具。",
+  "id": "/loona-image-compressor/zh-hant/passport-photo-sizes.html",
+  "start_url": "./passport-photo-sizes.html",
+  "scope": "./passport-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

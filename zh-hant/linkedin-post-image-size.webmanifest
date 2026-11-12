@@ -1,0 +1,29 @@
+{
+  "name": "Loona LinkedIn 帖子圖片 尺寸",
+  "short_name": "LinkedIn 帖子圖片 尺寸",
+  "description": "按精確的 1200×627 px 製作 LinkedIn 帖子圖片。在瀏覽器中免費調整大小/裁剪，附有安全區規則，防止文字和麵部被裁掉。",
+  "id": "/loona-image-compressor/zh-hant/linkedin-post-image-size.html",
+  "start_url": "./linkedin-post-image-size.html",
+  "scope": "./linkedin-post-image-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Facebook 個人頭像 尺寸",
+  "short_name": "Facebook 個人頭像 尺寸",
+  "description": "按精確的 720×720 px 製作 Facebook 個人頭像。在瀏覽器中免費調整大小/裁剪，附有安全區規則，防止文字和麵部被裁掉。",
+  "id": "/loona-image-compressor/zh-hant/facebook-profile-picture-size.html",
+  "start_url": "./facebook-profile-picture-size.html",
+  "scope": "./facebook-profile-picture-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

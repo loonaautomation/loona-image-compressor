@@ -1,0 +1,29 @@
+{
+  "name": "Loona IBPS RRB (Gramin Bank) 簽名尺寸",
+  "short_name": "IBPS RRB (Gramin Bank) 簽名尺寸",
+  "description": "將您的 IBPS RRB (Gramin Bank) 簽名調整為通知規定的尺寸（140 × 60 px）和 10–20 KB 範圍。免費，在您的瀏覽器中完成 — 無需上傳，無需註冊。",
+  "id": "/loona-image-compressor/zh-hant/ibps-rrb-signature-size.html",
+  "start_url": "./ibps-rrb-signature-size.html",
+  "scope": "./ibps-rrb-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

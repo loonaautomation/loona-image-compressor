@@ -1,0 +1,29 @@
+{
+  "name": "Loona 線上將圖片調整為 200 × 230 px",
+  "short_name": "線上將圖片調整為 200 × 230 px",
+  "description": "將任何圖片調整為精確的 200×230 px — 印度的 SSC/IBPS/SBI 考試照片標準。在瀏覽器中免費使用，帶裁剪控制；無需上傳，無需註冊。",
+  "id": "/loona-image-compressor/zh-hant/resize-image-to-200x230.html",
+  "start_url": "./resize-image-to-200x230.html",
+  "scope": "./resize-image-to-200x230.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

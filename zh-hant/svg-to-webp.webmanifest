@@ -1,0 +1,29 @@
+{
+  "name": "Loona SVG 轉 WEBP 轉換器",
+  "short_name": "SVG 轉 WEBP 轉換器",
+  "description": "線上將 SVG 轉換為 WEBP，免費，在您的瀏覽器中完成。在您的裝置上進行真實轉換 — 無需上傳，無需註冊，無水印。",
+  "id": "/loona-image-compressor/zh-hant/svg-to-webp.html",
+  "start_url": "./svg-to-webp.html",
+  "scope": "./svg-to-webp.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

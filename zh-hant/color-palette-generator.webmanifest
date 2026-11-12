@@ -1,0 +1,29 @@
+{
+  "name": "Loona 調色盤生成器",
+  "short_name": "調色盤生成器",
+  "description": "從任何基礎顏色生成和諧的調色盤 — 類似色、互補色、三色和單色方案，帶可複製的 HEX 程式碼。免費，無需註冊。",
+  "id": "/loona-image-compressor/zh-hant/color-palette-generator.html",
+  "start_url": "./color-palette-generator.html",
+  "scope": "./color-palette-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

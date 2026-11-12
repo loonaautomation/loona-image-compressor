@@ -1,0 +1,29 @@
+{
+  "name": "Loona 線上將 JPG 壓縮到 50 KB",
+  "short_name": "線上將 JPG 壓縮到 50 KB",
+  "description": "在瀏覽器中免費將 JPG 圖片壓縮到 50 KB 或更小。自動搜尋可在限制內達到的最佳質量 — 無需註冊，無需上傳。",
+  "id": "/loona-image-compressor/zh-hant/compress-jpg-to-50kb.html",
+  "start_url": "./compress-jpg-to-50kb.html",
+  "scope": "./compress-jpg-to-50kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

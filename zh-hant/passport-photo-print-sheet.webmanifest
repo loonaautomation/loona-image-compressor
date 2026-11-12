@@ -1,0 +1,29 @@
+{
+  "name": "Loona 護照照片列印頁",
+  "short_name": "護照照片列印頁",
+  "description": "免費以 300 DPI 將 4、6 或 8 張護照照片放在一張 A4 列印頁上。以 100% 列印，沿導線切割，節省工作室的錢。無需註冊，完全私密。",
+  "id": "/loona-image-compressor/zh-hant/passport-photo-print-sheet.html",
+  "start_url": "./passport-photo-print-sheet.html",
+  "scope": "./passport-photo-print-sheet.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

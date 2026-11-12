@@ -1,0 +1,29 @@
+{
+  "name": "Loona 表情包生成器",
+  "short_name": "表情包生成器",
+  "description": "將任何照片變成帶粗體頂部和底部文字的經典表情包 — 免費線上表情包生成器，帶實時預覽、素色背景選項和 PNG 下載。無需註冊，您的圖片絕不會離開您的裝置。",
+  "id": "/loona-image-compressor/zh-hant/meme-generator.html",
+  "start_url": "./meme-generator.html",
+  "scope": "./meme-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

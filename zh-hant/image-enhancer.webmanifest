@@ -1,0 +1,29 @@
+{
+  "name": "Loona 圖片增強器",
+  "short_name": "圖片增強器",
+  "description": "免費線上增強照片：一鍵自動增強、銳化柔和的照片、溫和地清理噪點並放大 2 倍或 4 倍。誠實的結果，無需註冊，您的照片絕不會離開您的裝置。",
+  "id": "/loona-image-compressor/zh-hant/image-enhancer.html",
+  "start_url": "./image-enhancer.html",
+  "scope": "./image-enhancer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona EXIF 編輯器",
+  "short_name": "EXIF 編輯器",
+  "description": "免費線上編輯 JPG 照片的 EXIF 資料 — 修正拍攝日期、新增您的姓名作為藝術家、設定版權、相機品牌和型號，或在一張沒有 EXIF 的照片上建立 EXIF。畫素從不被重新編碼，什麼都不會上傳。",
+  "id": "/loona-image-compressor/zh-hant/edit-image-metadata.html",
+  "start_url": "./edit-image-metadata.html",
+  "scope": "./edit-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Discord 邀請閃屏 尺寸",
+  "short_name": "Discord 邀請閃屏 尺寸",
+  "description": "按精確的 1920×1080 px 製作 Discord 邀請閃屏。在瀏覽器中免費調整大小/裁剪，附有安全區規則，防止文字和麵部被裁掉。",
+  "id": "/loona-image-compressor/zh-hant/discord-server-splash-size.html",
+  "start_url": "./discord-server-splash-size.html",
+  "scope": "./discord-server-splash-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

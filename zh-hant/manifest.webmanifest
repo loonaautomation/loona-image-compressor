@@ -1,0 +1,29 @@
+{
+  "name": "Loona Image Compressor",
+  "short_name": "Loona Image Compressor",
+  "description": "免費線上將 JPG、PNG 和 WebP 圖片壓縮到確切大小 — 50KB、100KB、200KB。批次壓縮、調整大小、ZIP 下載。無需註冊，無水印，100% 私密。",
+  "id": "/loona-image-compressor/zh-hant/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

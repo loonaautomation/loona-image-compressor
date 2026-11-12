@@ -1,0 +1,29 @@
+{
+  "name": "Loona 從照片中移除 GPS",
+  "short_name": "從照片中移除 GPS",
+  "description": "僅從 JPG、PNG 或 WebP 照片中移除 GPS 位置，並保留相機、日期和曝光資料。逐位元組，無重新編碼，透過重新掃描驗證 — 100% 在您的瀏覽器中，什麼都不上傳。",
+  "id": "/loona-image-compressor/zh-hant/remove-gps-from-photo.html",
+  "start_url": "./remove-gps-from-photo.html",
+  "scope": "./remove-gps-from-photo.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

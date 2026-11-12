@@ -1,0 +1,29 @@
+{
+  "name": "Loona BMP 轉 JPG 轉換器",
+  "short_name": "BMP 轉 JPG 轉換器",
+  "description": "免費線上將 BMP 轉換為 JPG，將龐大的未壓縮點陣圖縮小 90% 或更多。在您的瀏覽器中 — 無需註冊，無需上傳，無水印。",
+  "id": "/loona-image-compressor/zh-hant/bmp-to-jpg.html",
+  "start_url": "./bmp-to-jpg.html",
+  "scope": "./bmp-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 將圖片調整為 1200 × 628",
+  "short_name": "將圖片調整為 1200 × 628",
+  "description": "免費將任何圖片調整為精確的 1200 × 628 畫素（Facebook 和 LinkedIn 連結分享和廣告）。Cover、contain 或 stretch，JPG 或 PNG，即時下載 — 無需註冊，什麼都不上傳。",
+  "id": "/loona-image-compressor/zh-hant/resize-image-to-1200x628.html",
+  "start_url": "./resize-image-to-1200x628.html",
+  "scope": "./resize-image-to-1200x628.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

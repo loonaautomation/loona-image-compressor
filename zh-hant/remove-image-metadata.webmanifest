@@ -1,0 +1,29 @@
+{
+  "name": "Loona 移除圖片後設資料",
+  "short_name": "移除圖片後設資料",
+  "description": "免費線上從 JPG、PNG 和 WebP 照片中移除 EXIF、GPS 位置、XMP 和 IPTC 後設資料。位元組級剝離 — 畫素從不被重新編碼，因此質量不受影響。透過重新掃描驗證，在您的瀏覽器中 100% 私密。",
+  "id": "/loona-image-compressor/zh-hant/remove-image-metadata.html",
+  "start_url": "./remove-image-metadata.html",
+  "scope": "./remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
