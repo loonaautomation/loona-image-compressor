@@ -1,0 +1,29 @@
+{
+  "name": "Loona Izrezivanje slike na mreži besplatno",
+  "short_name": "Izrezivanje slike na mreži",
+  "description": "Izrezujte slike na mreži besplatno s gotovim omjerima — 1:1, 4:3, 16:9 i putovnica 35×45 — plus rotiranje i zrcaljenje. Preuzmite točan izrezak u punoj razlučivosti.",
+  "id": "/loona-image-compressor/hr/crop-image.html",
+  "start_url": "./crop-image.html",
+  "scope": "./crop-image.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

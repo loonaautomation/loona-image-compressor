@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mjenjač pozadine fotografija",
+  "short_name": "Mjenjač pozadine fotografija",
+  "description": "Promijenite pozadinu fotografije u bijelu, plavu, svijetlosivu ili crvenu besplatno na mreži. Ispuna preplavljivanjem plus alati kista, privatno u vašem pregledniku, bez AI prijenosa.",
+  "id": "/loona-image-compressor/hr/photo-background-changer.html",
+  "start_url": "./photo-background-changer.html",
+  "scope": "./photo-background-changer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

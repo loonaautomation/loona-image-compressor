@@ -1,0 +1,29 @@
+{
+  "name": "Loona Provjera kontrasta",
+  "short_name": "Provjera kontrasta",
+  "description": "Provjerite boje teksta i pozadine prema WCAG-u: trenutni omjer kontrasta s prolaz/pad AA i AAA za običan i veliki tekst, plus pregled uživo. Besplatno, bez registracije.",
+  "id": "/loona-image-compressor/hr/contrast-checker.html",
+  "start_url": "./contrast-checker.html",
+  "scope": "./contrast-checker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

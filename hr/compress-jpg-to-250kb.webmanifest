@@ -1,0 +1,29 @@
+{
+  "name": "Loona Komprimirajte JPG na 250 KB na mreži",
+  "short_name": "Komprimirajte JPG na 250 KB",
+  "description": "Komprimirajte sliku JPG na 250 KB ili manje, besplatno u svom pregledniku. Automatsko pretraživanje pronalazi najbolju kvalitetu koja stane — bez registracije, bez prijenosa.",
+  "id": "/loona-image-compressor/hr/compress-jpg-to-250kb.html",
+  "start_url": "./compress-jpg-to-250kb.html",
+  "scope": "./compress-jpg-to-250kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

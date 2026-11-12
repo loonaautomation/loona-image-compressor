@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator memova",
+  "short_name": "Generator memova",
+  "description": "Pretvorite bilo koju fotografiju u klasični meme s masnim gornjim i donjim tekstom — besplatni mrežni generator memova s pregledom uživo, opcijama jednobojne pozadine i PNG preuzimanjem. Bez registracije, a vaša slika nikada ne napušta vaš uređaj.",
+  "id": "/loona-image-compressor/hr/meme-generator.html",
+  "start_url": "./meme-generator.html",
+  "scope": "./meme-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

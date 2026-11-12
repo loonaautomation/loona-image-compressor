@@ -1,0 +1,29 @@
+{
+  "name": "Loona Veličina LinkedIn Logotip stranice tvrtke",
+  "short_name": "Veličina LinkedIn Logotip",
+  "description": "Izradite LinkedIn logotip stranice tvrtke na točno 300×300 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
+  "id": "/loona-image-compressor/hr/linkedin-company-logo-size.html",
+  "start_url": "./linkedin-company-logo-size.html",
+  "scope": "./linkedin-company-logo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

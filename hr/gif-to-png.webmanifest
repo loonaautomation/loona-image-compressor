@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pretvarač GIF u PNG",
+  "short_name": "Pretvarač GIF u PNG",
+  "description": "Pretvorite GIF u PNG na mreži besplatno — čista nepokretna slika bez gubitaka iz vašeg GIF-a. Temeljeno na pregledniku, bez registracije, bez prijenosa, bez vodenog žiga.",
+  "id": "/loona-image-compressor/hr/gif-to-png.html",
+  "start_url": "./gif-to-png.html",
+  "scope": "./gif-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

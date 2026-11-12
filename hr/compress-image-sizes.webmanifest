@@ -1,0 +1,29 @@
+{
+  "name": "Loona Komprimirajte sliku na bilo koju veličinu u KB",
+  "short_name": "Komprimirajte sliku na bilo",
+  "description": "Svaki alat za komprimiranje na veličinu: 16 ciljnih veličina u JPG, PNG i WebP, od 10 KB do 2 MB. Besplatno, u vašem pregledniku.",
+  "id": "/loona-image-compressor/hr/compress-image-sizes.html",
+  "start_url": "./compress-image-sizes.html",
+  "scope": "./compress-image-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Promijeni veličinu slike na 1500 × 2100 px na mreži",
+  "short_name": "Promijeni veličinu slike na",
+  "description": "Promijenite veličinu bilo koje slike na točno 1500×2100 px — Ispis fotografije 5 × 7 inča pri 300 DPI. Besplatno u vašem pregledniku uz kontrolu izrezivanja; bez prijenosa, bez registracije.",
+  "id": "/loona-image-compressor/hr/resize-image-to-1500x2100.html",
+  "start_url": "./resize-image-to-1500x2100.html",
+  "scope": "./resize-image-to-1500x2100.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Veličina Instagram Portretna objava (4",
+  "short_name": "Veličina Instagram Portretna",
+  "description": "Izradite Instagram portretna objava (4:5) na točno 1080×1350 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
+  "id": "/loona-image-compressor/hr/instagram-portrait-post-size.html",
+  "start_url": "./instagram-portrait-post-size.html",
+  "scope": "./instagram-portrait-post-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

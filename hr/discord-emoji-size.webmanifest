@@ -1,0 +1,29 @@
+{
+  "name": "Loona Veličina Discord Prilagođeni emoji",
+  "short_name": "Veličina Discord Prilagođeni",
+  "description": "Izradite Discord prilagođeni emoji na točno 128×128 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
+  "id": "/loona-image-compressor/hr/discord-emoji-size.html",
+  "start_url": "./discord-emoji-size.html",
+  "scope": "./discord-emoji-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

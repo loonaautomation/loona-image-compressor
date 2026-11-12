@@ -1,0 +1,29 @@
+{
+  "name": "Loona Preglednik metapodataka slike i EXIF-a",
+  "short_name": "Preglednik metapodataka slike",
+  "description": "Pregledajte skrivene metapodatke na bilo kojoj JPG, PNG ili WebP fotografiji na mreži besplatno — proizvođač i model kamere, datum snimanja, ekspozicija, ISO, žarišna duljina, GPS lokacija, osnove IPTC-a i XMP-a. Ništa se ne prenosi: vaša fotografija nikada ne napušta vaš uređaj.",
+  "id": "/loona-image-compressor/hr/image-metadata-viewer.html",
+  "start_url": "./image-metadata-viewer.html",
+  "scope": "./image-metadata-viewer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

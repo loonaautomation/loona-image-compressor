@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pretvarač SVG u WEBP",
+  "short_name": "Pretvarač SVG u WEBP",
+  "description": "Pretvorite SVG u WEBP na mreži, besplatno, u svom pregledniku. Pravo pretvaranje na vašem uređaju — bez prijenosa, bez registracije, bez vodenih žigova.",
+  "id": "/loona-image-compressor/hr/svg-to-webp.html",
+  "start_url": "./svg-to-webp.html",
+  "scope": "./svg-to-webp.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

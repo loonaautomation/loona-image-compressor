@@ -1,0 +1,29 @@
+{
+  "name": "Loona Zamućenje lica",
+  "short_name": "Zamućenje lica",
+  "description": "Zamutite ili pikselizirajte lica, registarske tablice i privatne detalje na bilo kojoj fotografiji. Sami odabirete područja, birate jačinu, pregledavate i preuzimate — besplatno, bez registracije, a vaša fotografija nikada ne napušta vaš uređaj.",
+  "id": "/loona-image-compressor/hr/face-blur.html",
+  "start_url": "./face-blur.html",
+  "scope": "./face-blur.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

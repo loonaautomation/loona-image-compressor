@@ -1,0 +1,29 @@
+{
+  "name": "Loona Komprimirajte sliku na 150 KB na mreži",
+  "short_name": "Komprimirajte sliku na 150 KB",
+  "description": "Komprimirajte slike JPG, PNG i WebP na 150 KB ili manje, na mreži i besplatno. Automatsko pretraživanje kvalitete i veličine u vašem pregledniku — bez registracije, bez prijenosa.",
+  "id": "/loona-image-compressor/hr/compress-image-to-150kb.html",
+  "start_url": "./compress-image-to-150kb.html",
+  "scope": "./compress-image-to-150kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

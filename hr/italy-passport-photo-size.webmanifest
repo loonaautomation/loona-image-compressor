@@ -1,0 +1,29 @@
+{
+  "name": "Loona Veličina Fotografija za putovnicu Italije",
+  "short_name": "Veličina Fotografija za",
+  "description": "Izradite Fotografija za putovnicu Italije u službenoj veličini 35×40 mm (413×472 px), pozadina jednobojna bijela ili svijetla. Besplatni mrežni izrađivač — izrežite, preuzmite i ispišite list, bez prijenosa.",
+  "id": "/loona-image-compressor/hr/italy-passport-photo-size.html",
+  "start_url": "./italy-passport-photo-size.html",
+  "scope": "./italy-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

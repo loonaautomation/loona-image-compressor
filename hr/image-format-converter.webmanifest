@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pretvarač formata slika",
+  "short_name": "Pretvarač formata slika",
+  "description": "Pretvarajte slike između JPG, PNG i WebP na mreži besplatno, u skupinama, uz kontrolu kvalitete i spljoštavanje prozirne pozadine. Registracija nije potrebna.",
+  "id": "/loona-image-compressor/hr/image-format-converter.html",
+  "start_url": "./image-format-converter.html",
+  "scope": "./image-format-converter.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

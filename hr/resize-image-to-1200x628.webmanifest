@@ -1,0 +1,29 @@
+{
+  "name": "Loona Promijeni veličinu slike na 1200 × 628",
+  "short_name": "Promijeni veličinu slike na",
+  "description": "Promijenite veličinu bilo koje slike točno na 1200 × 628 piksela (dijeljenja poveznica i oglase na Facebooku i LinkedInu) besplatno. Pokrij, sadrži ili rastegni, JPG ili PNG, trenutno preuzimanje — bez registracije, ništa se ne prenosi.",
+  "id": "/loona-image-compressor/hr/resize-image-to-1200x628.html",
+  "start_url": "./resize-image-to-1200x628.html",
+  "scope": "./resize-image-to-1200x628.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

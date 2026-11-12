@@ -1,0 +1,29 @@
+{
+  "name": "Loona Promjena veličine slike",
+  "short_name": "Promjena veličine slike",
+  "description": "Promijenite veličinu bilo koje slike po pikselima, cm ili inčima s postavkom DPI besplatno. Zadržite omjer stranica, odaberite JPG, PNG ili WebP i preuzmite odmah — registracija nije potrebna.",
+  "id": "/loona-image-compressor/hr/resize-image.html",
+  "start_url": "./resize-image.html",
+  "scope": "./resize-image.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

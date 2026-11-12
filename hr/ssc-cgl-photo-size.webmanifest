@@ -1,0 +1,29 @@
+{
+  "name": "Loona Veličina SSC CGL Fotografija",
+  "short_name": "Veličina SSC CGL Fotografija",
+  "description": "Promijenite veličinu svoje SSC CGL fotografiju na veličinu iz obavijesti (200 × 230 px) i pojas 20–50 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
+  "id": "/loona-image-compressor/hr/ssc-cgl-photo-size.html",
+  "start_url": "./ssc-cgl-photo-size.html",
+  "scope": "./ssc-cgl-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Uklonite GPS s fotografije",
+  "short_name": "Uklonite GPS s fotografije",
+  "description": "Uklonite samo GPS lokaciju s JPG, PNG ili WebP fotografije i zadržite podatke o kameri, datumu i ekspoziciji. Bajt po bajt, bez ponovnog kodiranja, potvrđeno ponovnim skeniranjem — 100% u vašem pregledniku, ništa se ne prenosi.",
+  "id": "/loona-image-compressor/hr/remove-gps-from-photo.html",
+  "start_url": "./remove-gps-from-photo.html",
+  "scope": "./remove-gps-from-photo.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Uklonite metapodatke slike",
+  "short_name": "Uklonite metapodatke slike",
+  "description": "Uklonite EXIF, GPS lokaciju, XMP i IPTC metapodatke s JPG, PNG i WebP fotografija na mreži besplatno. Uklanjanje na razini bajtova — pikseli se nikada ne kodiraju ponovno, pa je kvaliteta netaknuta. Potvrđeno ponovnim skeniranjem, 100% privatno u vašem pregledniku.",
+  "id": "/loona-image-compressor/hr/remove-image-metadata.html",
+  "start_url": "./remove-image-metadata.html",
+  "scope": "./remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Veličina AFCAT Potpis",
+  "short_name": "Veličina AFCAT Potpis",
+  "description": "Promijenite veličinu svoje AFCAT potpis na veličinu iz obavijesti (skenirani okvir, omjer oko 7:2) i pojas 10–50 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
+  "id": "/loona-image-compressor/hr/afcat-signature-size.html",
+  "start_url": "./afcat-signature-size.html",
+  "scope": "./afcat-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

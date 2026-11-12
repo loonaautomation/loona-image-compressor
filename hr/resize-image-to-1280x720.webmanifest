@@ -1,0 +1,29 @@
+{
+  "name": "Loona Promijeni veličinu slike na 1280 × 720",
+  "short_name": "Promijeni veličinu slike na",
+  "description": "Promijenite veličinu bilo koje slike točno na 1280 × 720 piksela (minijature na YouTubeu i HD video) besplatno. Pokrij, sadrži ili rastegni, JPG ili PNG, trenutno preuzimanje — bez registracije, ništa se ne prenosi.",
+  "id": "/loona-image-compressor/hr/resize-image-to-1280x720.html",
+  "start_url": "./resize-image-to-1280x720.html",
+  "scope": "./resize-image-to-1280x720.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

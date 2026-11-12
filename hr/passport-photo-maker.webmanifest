@@ -1,0 +1,29 @@
+{
+  "name": "Loona Izrađivač fotografija veličine za putovnicu",
+  "short_name": "Izrađivač fotografija",
+  "description": "Izradite fotografiju veličine za putovnicu na mreži besplatno: izrežite bilo koju fotografiju na 35×45 mm ili 2×2 inča pri 300 DPI spremnom za ispis. Bez registracije, bez vodenog žiga, potpuno privatno.",
+  "id": "/loona-image-compressor/hr/passport-photo-maker.html",
+  "start_url": "./passport-photo-maker.html",
+  "scope": "./passport-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

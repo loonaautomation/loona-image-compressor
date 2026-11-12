@@ -1,0 +1,29 @@
+{
+  "name": "Loona Veličina UPSC Civil Services (IAS) Fotografija",
+  "short_name": "Veličina UPSC Civil Services",
+  "description": "Promijenite veličinu svoje UPSC Civil Services (IAS) fotografiju na veličinu iz obavijesti (350 × 350 px) i pojas 20–300 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
+  "id": "/loona-image-compressor/hr/upsc-cse-photo-size.html",
+  "start_url": "./upsc-cse-photo-size.html",
+  "scope": "./upsc-cse-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Veličina Discord Pozadina pozivnice",
+  "short_name": "Veličina Discord Pozadina",
+  "description": "Izradite Discord pozadina pozivnice na točno 1920×1080 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
+  "id": "/loona-image-compressor/hr/discord-server-splash-size.html",
+  "start_url": "./discord-server-splash-size.html",
+  "scope": "./discord-server-splash-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

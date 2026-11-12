@@ -1,0 +1,29 @@
+{
+  "name": "Loona Veličina Instagram Kvadratna objava (1",
+  "short_name": "Veličina Instagram Kvadratna",
+  "description": "Izradite Instagram kvadratna objava (1:1) na točno 1080×1080 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
+  "id": "/loona-image-compressor/hr/instagram-square-post-size.html",
+  "start_url": "./instagram-square-post-size.html",
+  "scope": "./instagram-square-post-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
