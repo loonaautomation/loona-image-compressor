@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gerador de Memes",
+  "short_name": "Gerador de Memes",
+  "description": "Transforme qualquer fotografia num meme clássico com texto forte no topo e na base — gerador de memes online gratuito, com pré-visualização ao vivo, opções de fundo liso e transferência em PNG. Sem registo, e a sua imagem nunca sai do dispositivo.",
+  "id": "/loona-image-compressor/pt-pt/meme-generator.html",
+  "start_url": "./meme-generator.html",
+  "scope": "./meme-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

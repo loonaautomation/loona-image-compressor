@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tamanho de Assinatura de IBPS RRB (Gramin",
+  "short_name": "Tamanho de Assinatura de IBPS",
+  "description": "Redimensione a sua assinatura de IBPS RRB (Gramin Bank) para o tamanho do aviso oficial (140 × 60 px) e o intervalo de 10–20 KB. Grátis, no seu navegador — sem envios e sem registo.",
+  "id": "/loona-image-compressor/pt-pt/ibps-rrb-signature-size.html",
+  "start_url": "./ibps-rrb-signature-size.html",
+  "scope": "./ibps-rrb-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

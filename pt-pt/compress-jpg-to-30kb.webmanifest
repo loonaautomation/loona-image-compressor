@@ -1,0 +1,29 @@
+{
+  "name": "Loona Comprimir JPG para 30 KB Online",
+  "short_name": "Comprimir JPG para 30 KB",
+  "description": "Comprima uma imagem JPG para 30 KB ou menos, grátis no navegador. A procura automática encontra a melhor qualidade que cabe — sem registo e sem envios.",
+  "id": "/loona-image-compressor/pt-pt/compress-jpg-to-30kb.html",
+  "start_url": "./compress-jpg-to-30kb.html",
+  "scope": "./compress-jpg-to-30kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
