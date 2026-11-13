@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo ảnh thị thực",
+  "short_name": "Trình tạo ảnh thị thực",
+  "description": "Tạo ảnh thị thực trực tuyến miễn phí: Mỹ 2x2 inch, Anh và Schengen 35x45 mm, Trung Quốc 33x48 mm ở 300 DPI. Không cần đăng ký, không hình mờ, công cụ hoàn toàn riêng tư.",
+  "id": "/loona-image-compressor/vi/visa-photo-maker.html",
+  "start_url": "./visa-photo-maker.html",
+  "scope": "./visa-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

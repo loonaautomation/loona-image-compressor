@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nén JPG xuống 500 KB trực tuyến",
+  "short_name": "Nén JPG xuống 500 KB trực",
+  "description": "Nén ảnh JPG xuống 500 KB hoặc nhỏ hơn, miễn phí trong trình duyệt của bạn. Tính năng tìm kiếm tự động sẽ chọn chất lượng tốt nhất vừa với giới hạn — không cần đăng ký, không tải lên.",
+  "id": "/loona-image-compressor/vi/compress-jpg-to-500kb.html",
+  "start_url": "./compress-jpg-to-500kb.html",
+  "scope": "./compress-jpg-to-500kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

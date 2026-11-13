@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình chuyển đổi BMP sang JPG",
+  "short_name": "Trình chuyển đổi BMP sang JPG",
+  "description": "Chuyển đổi BMP sang JPG trực tuyến miễn phí và thu nhỏ các bitmap khổng lồ không nén xuống 90% hoặc hơn. Trong trình duyệt của bạn — không cần đăng ký, không tải lên, không hình mờ.",
+  "id": "/loona-image-compressor/vi/bmp-to-jpg.html",
+  "start_url": "./bmp-to-jpg.html",
+  "scope": "./bmp-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

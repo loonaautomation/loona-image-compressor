@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kích thước ảnh hộ chiếu &amp; thị thực theo quốc gia",
+  "short_name": "Kích thước ảnh hộ chiếu &amp;",
+  "description": "Kích thước ảnh hộ chiếu, thị thực và giấy tờ tùy thân chính thức cho 40 quốc gia và tài liệu, mỗi loại kèm một công cụ tạo ảnh ở kích thước milimet và pixel chính xác.",
+  "id": "/loona-image-compressor/vi/passport-photo-sizes.html",
+  "start_url": "./passport-photo-sizes.html",
+  "scope": "./passport-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

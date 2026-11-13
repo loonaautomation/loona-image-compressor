@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo ảnh cỡ hộ chiếu",
+  "short_name": "Trình tạo ảnh cỡ hộ chiếu",
+  "description": "Tạo ảnh cỡ hộ chiếu trực tuyến miễn phí: cắt bất kỳ bức ảnh nào thành 35×45 mm hoặc 2×2 inch ở mức 300 DPI sẵn sàng để in. Không cần đăng ký, không hình mờ, hoàn toàn riêng tư.",
+  "id": "/loona-image-compressor/vi/passport-photo-maker.html",
+  "start_url": "./passport-photo-maker.html",
+  "scope": "./passport-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

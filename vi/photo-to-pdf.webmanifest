@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình chuyển đổi ảnh sang PDF",
+  "short_name": "Trình chuyển đổi ảnh sang PDF",
+  "description": "Biến ảnh thành PDF trực tuyến miễn phí: thêm hình ảnh JPG, PNG hoặc WebP, chọn trang A4, Letter hoặc vừa với hình ảnh và tải xuống một PDF gọn gàng. Không tải lên.",
+  "id": "/loona-image-compressor/vi/photo-to-pdf.html",
+  "start_url": "./photo-to-pdf.html",
+  "scope": "./photo-to-pdf.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

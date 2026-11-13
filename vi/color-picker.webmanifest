@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bộ chọn màu",
+  "short_name": "Bộ chọn màu",
+  "description": "Chọn bất kỳ màu nào và sao chép ngay lập tức các giá trị HEX, RGB, HSL và HSV của nó. Bao gồm một dải sắc thái sáng và tối — miễn phí, không cần đăng ký, hoạt động trong trình duyệt của bạn.",
+  "id": "/loona-image-compressor/vi/color-picker.html",
+  "start_url": "./color-picker.html",
+  "scope": "./color-picker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

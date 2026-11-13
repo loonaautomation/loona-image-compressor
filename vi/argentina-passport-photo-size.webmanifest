@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kích thước Ảnh hộ chiếu / DNI Argentina",
+  "short_name": "Kích thước Ảnh hộ chiếu / DNI",
+  "description": "Tạo Ảnh hộ chiếu / DNI Argentina ở kích thước chính thức 40×40 mm (472×472 px), nền trắng trơn hoặc xanh dương nhạt. Công cụ tạo ảnh trực tuyến miễn phí — cắt, tải xuống và in tờ in, không tải lên.",
+  "id": "/loona-image-compressor/vi/argentina-passport-photo-size.html",
+  "start_url": "./argentina-passport-photo-size.html",
+  "scope": "./argentina-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

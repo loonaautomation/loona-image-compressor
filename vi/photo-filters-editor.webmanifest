@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bộ lọc ảnh &amp; Sửa ảnh",
+  "short_name": "Bộ lọc ảnh &amp; Sửa ảnh",
+  "description": "Sửa ảnh trực tuyến miễn phí: điều chỉnh độ sáng, độ tương phản và độ bão hòa, làm nét bằng một cú nhấp và dùng các cài đặt sẵn như Sửa ảnh hộ chiếu và Rực rỡ.",
+  "id": "/loona-image-compressor/vi/photo-filters-editor.html",
+  "start_url": "./photo-filters-editor.html",
+  "scope": "./photo-filters-editor.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

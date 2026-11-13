@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kích thước Ảnh IBPS Clerk (CSA)",
+  "short_name": "Kích thước Ảnh IBPS Clerk",
+  "description": "Thay đổi kích thước ảnh IBPS Clerk (CSA) của bạn theo kích thước trong thông báo (200 × 230 px) và dải 20–50 KB. Miễn phí, ngay trong trình duyệt của bạn — không tải lên, không đăng ký.",
+  "id": "/loona-image-compressor/vi/ibps-clerk-photo-size.html",
+  "start_url": "./ibps-clerk-photo-size.html",
+  "scope": "./ibps-clerk-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

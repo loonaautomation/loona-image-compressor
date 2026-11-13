@@ -1,0 +1,29 @@
+{
+  "name": "Loona Xóa siêu dữ liệu hình ảnh",
+  "short_name": "Xóa siêu dữ liệu hình ảnh",
+  "description": "Xóa siêu dữ liệu EXIF, vị trí GPS, XMP và IPTC khỏi ảnh JPG, PNG và WebP trực tuyến miễn phí. Loại bỏ ở cấp byte — pixel không bao giờ bị mã hóa lại, nên chất lượng không bị đụng tới. Được xác minh bằng lần quét lại, riêng tư 100% trong trình duyệt của bạn.",
+  "id": "/loona-image-compressor/vi/remove-image-metadata.html",
+  "start_url": "./remove-image-metadata.html",
+  "scope": "./remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kích thước Ảnh hộ chiếu / thị thực Thổ Nhĩ Kỳ (Sinh trắc học)",
+  "short_name": "Kích thước Ảnh hộ chiếu / thị",
+  "description": "Tạo Ảnh hộ chiếu / thị thực Thổ Nhĩ Kỳ (Sinh trắc học) ở kích thước chính thức 50×60 mm (591×709 px), nền trắng trơn. Công cụ tạo ảnh trực tuyến miễn phí — cắt, tải xuống và in tờ in, không tải lên.",
+  "id": "/loona-image-compressor/vi/turkey-passport-photo-size.html",
+  "start_url": "./turkey-passport-photo-size.html",
+  "scope": "./turkey-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

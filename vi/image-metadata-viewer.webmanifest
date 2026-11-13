@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình xem siêu dữ liệu hình ảnh & EXIF",
+  "short_name": "Trình xem siêu dữ liệu hình",
+  "description": "Xem siêu dữ liệu ẩn trong bất kỳ ảnh JPG, PNG hoặc WebP nào trực tuyến miễn phí — hãng và kiểu máy ảnh, ngày chụp, phơi sáng, ISO, tiêu cự, vị trí GPS, kiến thức cơ bản IPTC và XMP. Không có gì bị tải lên: ảnh của bạn không bao giờ rời khỏi thiết bị.",
+  "id": "/loona-image-compressor/vi/image-metadata-viewer.html",
+  "start_url": "./image-metadata-viewer.html",
+  "scope": "./image-metadata-viewer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

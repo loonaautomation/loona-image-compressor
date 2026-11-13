@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo dải chuyển màu CSS",
+  "short_name": "Trình tạo dải chuyển màu CSS",
+  "description": "Tạo dải chuyển màu tuyến tính CSS với hai hoặc ba màu và mọi góc độ, xem trước trực tiếp và sao chép mã CSS sẵn sàng. Miễn phí, không cần đăng ký.",
+  "id": "/loona-image-compressor/vi/gradient-generator.html",
+  "start_url": "./gradient-generator.html",
+  "scope": "./gradient-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

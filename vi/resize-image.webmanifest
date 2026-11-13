@@ -1,0 +1,29 @@
+{
+  "name": "Loona Thay đổi kích thước ảnh",
+  "short_name": "Thay đổi kích thước ảnh",
+  "description": "Thay đổi kích thước mọi hình ảnh theo pixel, cm hoặc inch với cài đặt DPI miễn phí. Giữ tỷ lệ khung hình, chọn JPG, PNG hoặc WebP và tải xuống ngay lập tức — không cần đăng ký.",
+  "id": "/loona-image-compressor/vi/resize-image.html",
+  "start_url": "./resize-image.html",
+  "scope": "./resize-image.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

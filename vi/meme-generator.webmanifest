@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo Meme",
+  "short_name": "Trình tạo Meme",
+  "description": "Biến bất kỳ bức ảnh nào thành meme kinh điển với văn bản trên và dưới đậm — trình tạo meme trực tuyến miễn phí với xem trước trực tiếp, các tùy chọn nền trơn và tải xuống PNG. Không cần đăng ký, và hình ảnh của bạn không bao giờ rời khỏi thiết bị.",
+  "id": "/loona-image-compressor/vi/meme-generator.html",
+  "start_url": "./meme-generator.html",
+  "scope": "./meme-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

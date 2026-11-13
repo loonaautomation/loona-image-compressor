@@ -1,0 +1,29 @@
+{
+  "name": "Loona Thay đổi kích thước ảnh thành 390 × 567 px trực tuyến",
+  "short_name": "Thay đổi kích thước ảnh thành",
+  "description": "Thay đổi kích thước mọi hình ảnh thành chính xác 390×567 px — 33 × 48 mm ở 300 DPI — kích thước thị thực Trung Quốc. Miễn phí trong trình duyệt của bạn với điều khiển cắt ảnh; không tải lên, không đăng ký.",
+  "id": "/loona-image-compressor/vi/resize-image-to-390x567.html",
+  "start_url": "./resize-image-to-390x567.html",
+  "scope": "./resize-image-to-390x567.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

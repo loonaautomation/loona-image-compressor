@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kích thước Ảnh hồ sơ Facebook",
+  "short_name": "Kích thước Ảnh hồ sơ Facebook",
+  "description": "Tạo ảnh hồ sơ Facebook chính xác 720×720 px. Công cụ thay đổi kích thước/cắt ảnh miễn phí trong trình duyệt của bạn, kèm các quy tắc vùng an toàn giúp văn bản và khuôn mặt không bị cắt mất.",
+  "id": "/loona-image-compressor/vi/facebook-profile-picture-size.html",
+  "start_url": "./facebook-profile-picture-size.html",
+  "scope": "./facebook-profile-picture-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

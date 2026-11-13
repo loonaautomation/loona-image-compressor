@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình chuyển đổi BMP sang PNG",
+  "short_name": "Trình chuyển đổi BMP sang PNG",
+  "description": "Chuyển đổi BMP sang PNG trực tuyến miễn phí — không mất dữ liệu, nhỏ hơn BMP nhiều, và được hỗ trợ ở mọi nơi. Chạy trong trình duyệt của bạn, không cần đăng ký, không tải lên.",
+  "id": "/loona-image-compressor/vi/bmp-to-png.html",
+  "start_url": "./bmp-to-png.html",
+  "scope": "./bmp-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

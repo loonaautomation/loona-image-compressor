@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình chỉnh sửa EXIF",
+  "short_name": "Trình chỉnh sửa EXIF",
+  "description": "Chỉnh sửa dữ liệu EXIF của ảnh JPG trực tuyến miễn phí — sửa ngày chụp, thêm tên của bạn với vai trò tác giả, đặt bản quyền, hãng và kiểu máy ảnh, hoặc tạo EXIF trên một bức ảnh chưa có. Pixel không bao giờ bị mã hóa lại và không có gì bị tải lên.",
+  "id": "/loona-image-compressor/vi/edit-image-metadata.html",
+  "start_url": "./edit-image-metadata.html",
+  "scope": "./edit-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

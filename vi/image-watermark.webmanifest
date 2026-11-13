@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hình mờ hình ảnh",
+  "short_name": "Hình mờ hình ảnh",
+  "description": "Thêm hình mờ dạng văn bản vào bất kỳ bức ảnh nào trực tuyến miễn phí — chọn văn bản, kích thước, màu sắc, độ mờ và vị trí, hoặc lặp lại nó thành họa tiết lát. Xem trước trực tiếp, không cần đăng ký, và hình ảnh của bạn không bao giờ rời khỏi thiết bị.",
+  "id": "/loona-image-compressor/vi/image-watermark.html",
+  "start_url": "./image-watermark.html",
+  "scope": "./image-watermark.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

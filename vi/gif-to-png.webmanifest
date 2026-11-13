@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình chuyển đổi GIF sang PNG",
+  "short_name": "Trình chuyển đổi GIF sang PNG",
+  "description": "Chuyển đổi GIF sang PNG trực tuyến miễn phí — một hình tĩnh sạch, không mất dữ liệu từ GIF của bạn. Dựa trên trình duyệt, không cần đăng ký, không tải lên, không hình mờ.",
+  "id": "/loona-image-compressor/vi/gif-to-png.html",
+  "start_url": "./gif-to-png.html",
+  "scope": "./gif-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

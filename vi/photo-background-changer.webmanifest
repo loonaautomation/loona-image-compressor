@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình đổi nền ảnh",
+  "short_name": "Trình đổi nền ảnh",
+  "description": "Đổi nền ảnh thành trắng, xanh lam, xám nhạt hoặc đỏ miễn phí trực tuyến. Tô lan cộng với công cụ cọ, riêng tư trong trình duyệt của bạn, không tải lên AI.",
+  "id": "/loona-image-compressor/vi/photo-background-changer.html",
+  "start_url": "./photo-background-changer.html",
+  "scope": "./photo-background-changer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kích thước Ảnh thị thực Schengen",
+  "short_name": "Kích thước Ảnh thị thực",
+  "description": "Tạo Ảnh thị thực Schengen ở kích thước chính thức 35×45 mm (413×531 px), nền xám nhạt hoặc nền sáng trơn. Công cụ tạo ảnh trực tuyến miễn phí — cắt, tải xuống và in tờ in, không tải lên.",
+  "id": "/loona-image-compressor/vi/schengen-visa-photo-size.html",
+  "start_url": "./schengen-visa-photo-size.html",
+  "scope": "./schengen-visa-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

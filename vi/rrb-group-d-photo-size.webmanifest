@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kích thước Ảnh RRB Group D (Railways)",
+  "short_name": "Kích thước Ảnh RRB Group D",
+  "description": "Thay đổi kích thước ảnh RRB Group D (Railways) của bạn theo kích thước trong thông báo (320 × 240 px) và dải 30–70 KB. Miễn phí, ngay trong trình duyệt của bạn — không tải lên, không đăng ký.",
+  "id": "/loona-image-compressor/vi/rrb-group-d-photo-size.html",
+  "start_url": "./rrb-group-d-photo-size.html",
+  "scope": "./rrb-group-d-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

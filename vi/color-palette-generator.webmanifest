@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo bảng màu",
+  "short_name": "Trình tạo bảng màu",
+  "description": "Tạo các bảng màu hài hòa từ bất kỳ màu cơ sở nào — các phối tương tự, bổ túc, bộ ba và đơn sắc với mã HEX có thể sao chép. Miễn phí, không cần đăng ký.",
+  "id": "/loona-image-compressor/vi/color-palette-generator.html",
+  "start_url": "./color-palette-generator.html",
+  "scope": "./color-palette-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kích thước Ảnh hộ chiếu Bangladesh",
+  "short_name": "Kích thước Ảnh hộ chiếu",
+  "description": "Tạo Ảnh hộ chiếu Bangladesh ở kích thước chính thức 40×50 mm (472×591 px), nền trắng trơn. Công cụ tạo ảnh trực tuyến miễn phí — cắt, tải xuống và in tờ in, không tải lên.",
+  "id": "/loona-image-compressor/vi/bangladesh-passport-photo-size.html",
+  "start_url": "./bangladesh-passport-photo-size.html",
+  "scope": "./bangladesh-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

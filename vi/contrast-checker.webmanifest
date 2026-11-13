@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình kiểm tra độ tương phản",
+  "short_name": "Trình kiểm tra độ tương phản",
+  "description": "Kiểm tra màu văn bản và nền theo WCAG: tỷ lệ tương phản ngay lập tức với kết quả đạt/không đạt AA và AAA cho văn bản thường và lớn, cộng thêm bản xem trước trực tiếp. Miễn phí, không cần đăng ký.",
+  "id": "/loona-image-compressor/vi/contrast-checker.html",
+  "start_url": "./contrast-checker.html",
+  "scope": "./contrast-checker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

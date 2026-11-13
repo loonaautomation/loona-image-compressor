@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình chuyển đổi SVG sang PNG",
+  "short_name": "Trình chuyển đổi SVG sang PNG",
+  "description": "Chuyển đổi SVG sang PNG trực tuyến miễn phí ở mọi chiều rộng — hình ảnh raster sắc nét từ logo và biểu tượng vector. Không cần đăng ký, không tải lên, chạy trong trình duyệt của bạn.",
+  "id": "/loona-image-compressor/vi/svg-to-png.html",
+  "start_url": "./svg-to-png.html",
+  "scope": "./svg-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
