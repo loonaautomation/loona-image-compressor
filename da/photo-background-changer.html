@@ -114,7 +114,7 @@ canvas.out{max-width:100%;border:1px solid var(--line);border-radius:8px}
 </div>
 <div class="row" style="margin-top:10px">
 <div><label for="toolMode">Penselværktøj</label>
-<select id="toolMode"><option value="erase" selected>Slet til farve (mal valgt farve)</option><option value="restore">Gendan (mal originalen tilbage)</option><option value="none">Ingen — brug kun flood fill</option></select></div>
+<select id="toolMode"><option value="erase" selected>Slet til farve (mal valgt farve)</option><option value="restore">Gendan (mal originalen tilbage)</option><option value="none">Ingen — brug kun oversvømmelsesfyld</option></select></div>
 </div>
 <p style="margin-top:14px">
 <button class="btn" id="applyBtn" type="button" disabled>Vælg baggrundsfarve — erstat baggrund</button>
@@ -124,7 +124,7 @@ canvas.out{max-width:100%;border:1px solid var(--line);border-radius:8px}
 </p>
 <p class="small" id="outInfo">Indlæs et foto for at begynde.</p>
 <div style="margin-top:12px;text-align:center"><canvas id="editCanvas" width="640" height="400"></canvas></div>
-<p class="small">Sådan bruger du penslerne: vælg Erase eller Restore ovenfor, og træk derefter på fotoet. Erase maler den valgte farve over oversete pletter; Restore maler de originale pixels tilbage, hvis du gik for vidt. Fortryd omgør din sidste fyldning eller dit sidste penselstrøg.</p>
+<p class="small">Sådan bruger du penslerne: vælg Slet eller Gendan ovenfor, og træk derefter på fotoet. Slet maler den valgte farve over oversete pletter; Gendan maler de originale pixels tilbage, hvis du gik for vidt. Fortryd omgør din sidste fyldning eller dit sidste penselstrøg.</p>
 </div>
 <section class="content">
 <h2>Sådan ændrer du en fotobaggrund i 3 trin</h2>
@@ -137,16 +137,16 @@ canvas.out{max-width:100%;border:1px solid var(--line);border-radius:8px}
 <h2>Sådan virker det</h2>
 <p>Værktøjet indlæser dit foto på et lærred i dets naturlige størrelse (visningen skaleres til at passe til din skærm). Erstat-knappen kører en iterativ, stakbaseret oversvømmelsesfyld sået fra hver kantpixel: hver poppet pixel sammenlignes med hjørnefarven ved hjælp af en euklidisk farveafstandsfunktion, og kun pixels, hvis afstand er inden for tolerancetærsklen, omfarves og udvides til deres naboer. Penselværktøjerne maler direkte — Slet maler den valgte farve, Gendan kopierer pixels tilbage fra en gemt kopi af dit originale foto — og Fortryd beholder det sidste lærredsbillede, så én fejl aldrig ødelægger redigeringen.</p>
 <h3>Gennemregnet eksempel</h3>
-<p>Et portræt taget op ad en lyseblå væg (hjørnefarve cirka RGB 170, 195, 220) med tolerance 32 giver en afstandstærskel på 32 ÷ 100 × 441.67 ≈ <strong>141</strong>. Vægpixels inden for den afstand af hjørnefarven erstattes med hvid #ffffff, mens ansigtet og skjorten — meget længere væk i farve — stopper fyldet. To oversete pletter nær håret males derefter med Erase-penslen, og resultatet downloades som et foto med ren hvid baggrund.</p>
+<p>Et portræt taget op ad en lyseblå væg (hjørnefarve cirka RGB 170, 195, 220) med tolerance 32 giver en afstandstærskel på 32 ÷ 100 × 441.67 ≈ <strong>141</strong>. Vægpixels inden for den afstand af hjørnefarven erstattes med hvid #ffffff, mens ansigtet og skjorten — meget længere væk i farve — stopper fyldet. To oversete pletter nær håret males derefter med Slet-penslen, og resultatet downloades som et foto med ren hvid baggrund.</p>
 <h3>Ofte stillede spørgsmål</h3>
 <h4>Er denne fotobaggrundsskifter gratis?</h4>
 <p>Ja — helt gratis, uden tilmelding, intet vandmærke og ingen grænse for, hvor mange fotos du redigerer.</p>
 <h4>Er dette en AI-baggrundsfjerner?</h4>
-<p>Nej. Det er en farvebaseret flood fill plus manuelle pensler. Det fungerer bedst på ensfarvede, jævne baggrunde; det kan ikke intelligent adskille en person fra en travl scene, som AI-værktøjer påstår.</p>
+<p>Nej. Det er en farvebaseret oversvømmelsesfyld plus manuelle pensler. Det fungerer bedst på ensfarvede, jævne baggrunde; det kan ikke intelligent adskille en person fra en travl scene, som AI-værktøjer påstår.</p>
 <h4>Hvorfor ændrede fyldet en del af mit ansigt eller tøj?</h4>
-<p>Tolerancen er for høj, eller det område har en farve meget tæt på baggrunden. Sænk tolerancen, tryk på Fortryd, og prøv igen — brug derefter Restore-penslen til at male ethvert område tilbage, der blev ændret ved en fejl.</p>
+<p>Tolerancen er for høj, eller det område har en farve meget tæt på baggrunden. Sænk tolerancen, tryk på Fortryd, og prøv igen — brug derefter Gendan-penslen til at male ethvert område tilbage, der blev ændret ved en fejl.</p>
 <h4>Hvorfor er der ru kanter omkring håret?</h4>
-<p>Hårkanter blander hår- og baggrundsfarver til mellempixels, så enhver farvefyld efterlader en frynse. Zoom ind med en lille Erase-pensel for at male frynsen til den nye farve, eller Gendan den, hvis du fjernede for meget.</p>
+<p>Hårkanter blander hår- og baggrundsfarver til mellempixels, så enhver farvefyld efterlader en frynse. Zoom ind med en lille Slet-pensel for at male frynsen til den nye farve, eller Gendan den, hvis du fjernede for meget.</p>
 <h4>Hvilken baggrundsfarve har jeg brug for?</h4>
 <p>Hvid er det mest almindelige krav (pas, NADRA, de fleste visa). Nogle systemer beder om blå, lysegrå eller rød — tjek altid instruktionerne for den formular, du indsender til, og vælg den nøjagtige farve her.</p>
 <h4>Uploades mit foto nogen steder?</h4>
