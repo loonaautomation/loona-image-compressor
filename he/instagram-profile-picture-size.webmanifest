@@ -1,0 +1,29 @@
+{
+  "name": "Loona גודל תמונת פרופיל Instagram",
+  "short_name": "גודל תמונת פרופיל Instagram",
+  "description": "צרו תמונת פרופיל של Instagram בדיוק ב־1080×1080 px. משנה גודל/חיתוך בחינם בדפדפן שלכם, עם כללי אזור הבטיחות שמונעים חיתוך של טקסט ופנים.",
+  "id": "/loona-image-compressor/he/instagram-profile-picture-size.html",
+  "start_url": "./instagram-profile-picture-size.html",
+  "scope": "./instagram-profile-picture-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

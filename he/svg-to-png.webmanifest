@@ -1,0 +1,29 @@
+{
+  "name": "Loona ממיר SVG ל־PNG",
+  "short_name": "ממיר SVG ל־PNG",
+  "description": "המירו SVG ל־PNG באינטרנט בחינם בכל רוחב — תמונות רסטר חדות מלוגואים וסמלים וקטוריים. ללא הרשמה, ללא העלאה, רץ בדפדפן שלכם.",
+  "id": "/loona-image-compressor/he/svg-to-png.html",
+  "start_url": "./svg-to-png.html",
+  "scope": "./svg-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona משפר תמונות",
+  "short_name": "משפר תמונות",
+  "description": "שפרו תמונה באינטרנט בחינם: שיפור אוטומטי בלחיצה אחת, חידוד תמונות רכות, ניקוי רעשים עדין והגדלה פי 2 או פי 4. תוצאות כנות, ללא הרשמה, והתמונה שלכם לעולם לא עוזבת את המכשיר.",
+  "id": "/loona-image-compressor/he/image-enhancer.html",
+  "start_url": "./image-enhancer.html",
+  "scope": "./image-enhancer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

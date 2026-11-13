@@ -1,0 +1,29 @@
+{
+  "name": "Loona ממיר JPG ל־BMP",
+  "short_name": "ממיר JPG ל־BMP",
+  "description": "המירו JPG ל־BMP באינטרנט, בחינם, בדפדפן שלכם. המרה אמיתית במכשיר שלכם — ללא העלאה, ללא הרשמה, ללא סימני מים.",
+  "id": "/loona-image-compressor/he/jpg-to-bmp.html",
+  "start_url": "./jpg-to-bmp.html",
+  "scope": "./jpg-to-bmp.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

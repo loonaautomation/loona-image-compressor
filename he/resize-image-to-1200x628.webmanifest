@@ -1,0 +1,29 @@
+{
+  "name": "Loona שינוי גודל תמונה ל־1200 × 628",
+  "short_name": "שינוי גודל תמונה ל־1200 × 628",
+  "description": "שנו גודל של כל תמונה בדיוק ל־1200 × 628 פיקסלים (שיתופי קישורים ומודעות ב־Facebook וב־LinkedIn) בחינם. כיסוי, הכלה או מתיחה, JPG או PNG, הורדה מיידית — ללא הרשמה, שום דבר לא מועלה.",
+  "id": "/loona-image-compressor/he/resize-image-to-1200x628.html",
+  "start_url": "./resize-image-to-1200x628.html",
+  "scope": "./resize-image-to-1200x628.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

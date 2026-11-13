@@ -1,0 +1,29 @@
+{
+  "name": "Loona גודל תמונת פוסט / קישור Facebook",
+  "short_name": "גודל תמונת פוסט / קישור",
+  "description": "צרו תמונת פוסט / קישור של Facebook בדיוק ב־1200×630 px. משנה גודל/חיתוך בחינם בדפדפן שלכם, עם כללי אזור הבטיחות שמונעים חיתוך של טקסט ופנים.",
+  "id": "/loona-image-compressor/he/facebook-post-image-size.html",
+  "start_url": "./facebook-post-image-size.html",
+  "scope": "./facebook-post-image-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

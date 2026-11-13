@@ -1,0 +1,29 @@
+{
+  "name": "Loona ממיר GIF ל־PNG",
+  "short_name": "ממיר GIF ל־PNG",
+  "description": "המירו GIF ל־PNG באינטרנט בחינם — תמונת סטילס נקייה וללא אובדן מה־GIF שלכם. מבוסס דפדפן, ללא הרשמה, ללא העלאה, ללא סימן מים.",
+  "id": "/loona-image-compressor/he/gif-to-png.html",
+  "start_url": "./gif-to-png.html",
+  "scope": "./gif-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona גודל תמונת פספורט הולנד",
+  "short_name": "גודל תמונת פספורט הולנד",
+  "description": "צרו תמונת פספורט הולנד בגודל הרשמי 35×45 מ&quot;מ (413×531 px), רקע אפור בהיר חלק או לבן, מואר באופן אחיד. כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
+  "id": "/loona-image-compressor/he/netherlands-passport-photo-size.html",
+  "start_url": "./netherlands-passport-photo-size.html",
+  "scope": "./netherlands-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

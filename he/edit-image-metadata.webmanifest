@@ -1,0 +1,29 @@
+{
+  "name": "Loona עורך EXIF",
+  "short_name": "עורך EXIF",
+  "description": "ערכו את נתוני ה־EXIF של תמונת JPG באינטרנט בחינם — תקנו את תאריך הצילום, הוסיפו את שמכם כיוצר, הגדירו זכויות יוצרים, יצרן ודגם מצלמה, או צרו EXIF על תמונה שאין לה. פיקסלים לעולם לא מקודדים מחדש ושום דבר לא מועלה.",
+  "id": "/loona-image-compressor/he/edit-image-metadata.html",
+  "start_url": "./edit-image-metadata.html",
+  "scope": "./edit-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

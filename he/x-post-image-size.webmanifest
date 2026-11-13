@@ -1,0 +1,29 @@
+{
+  "name": "Loona גודל תמונת פוסט (16",
+  "short_name": "גודל תמונת פוסט (16",
+  "description": "צרו תמונת פוסט (16:9) של X (Twitter) בדיוק ב־1600×900 px. משנה גודל/חיתוך בחינם בדפדפן שלכם, עם כללי אזור הבטיחות שמונעים חיתוך של טקסט ופנים.",
+  "id": "/loona-image-compressor/he/x-post-image-size.html",
+  "start_url": "./x-post-image-size.html",
+  "scope": "./x-post-image-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

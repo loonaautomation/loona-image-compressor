@@ -1,0 +1,29 @@
+{
+  "name": "Loona גודל תמונה NEET UG",
+  "short_name": "גודל תמונה NEET UG",
+  "description": "שנו את גודל ה־תמונה של NEET UG לגודל ההודעה הרשמית (3.5 × 4.5 ס&quot;מ (כ־413 × 531 px ב־300 DPI)) ולרצועת 10–200 KB. בחינם, בדפדפן שלכם — ללא העלאה, ללא הרשמה.",
+  "id": "/loona-image-compressor/he/neet-ug-photo-size.html",
+  "start_url": "./neet-ug-photo-size.html",
+  "scope": "./neet-ug-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

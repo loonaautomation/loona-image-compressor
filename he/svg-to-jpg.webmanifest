@@ -1,0 +1,29 @@
+{
+  "name": "Loona ממיר SVG ל־JPG",
+  "short_name": "ממיר SVG ל־JPG",
+  "description": "המירו SVG ל־JPG באינטרנט בחינם — הציגו לוגואים ואיורים וקטוריים כ־JPG אוניברסליים בכל רוחב. ללא הרשמה, ללא העלאה, בדפדפן שלכם.",
+  "id": "/loona-image-compressor/he/svg-to-jpg.html",
+  "start_url": "./svg-to-jpg.html",
+  "scope": "./svg-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

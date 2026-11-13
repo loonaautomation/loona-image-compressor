@@ -1,0 +1,29 @@
+{
+  "name": "Loona ממיר PNG ל־BMP",
+  "short_name": "ממיר PNG ל־BMP",
+  "description": "המירו PNG ל־BMP באינטרנט, בחינם, בדפדפן שלכם. המרה אמיתית במכשיר שלכם — ללא העלאה, ללא הרשמה, ללא סימני מים.",
+  "id": "/loona-image-compressor/he/png-to-bmp.html",
+  "start_url": "./png-to-bmp.html",
+  "scope": "./png-to-bmp.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

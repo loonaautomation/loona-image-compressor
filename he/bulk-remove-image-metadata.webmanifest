@@ -1,0 +1,29 @@
+{
+  "name": "Loona מסיר מטא־נתונים בכמות",
+  "short_name": "מסיר מטא־נתונים בכמות",
+  "description": "הסירו מטא־נתוני EXIF, GPS ו־XMP מתמונות רבות בבת אחת — שחררו אצווה של קבצי JPG, PNG ו־WebP, הסירו את כולם בדפדפן שלכם והורידו הכול כ־ZIP אחד. בחינם, פרטי, ללא העלאות, ללא קידוד מחדש.",
+  "id": "/loona-image-compressor/he/bulk-remove-image-metadata.html",
+  "start_url": "./bulk-remove-image-metadata.html",
+  "scope": "./bulk-remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

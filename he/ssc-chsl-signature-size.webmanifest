@@ -1,0 +1,29 @@
+{
+  "name": "Loona גודל חתימה SSC CHSL",
+  "short_name": "גודל חתימה SSC CHSL",
+  "description": "שנו את גודל ה־חתימה של SSC CHSL לגודל ההודעה הרשמית (140 × 60 px) ולרצועת 10–20 KB. בחינם, בדפדפן שלכם — ללא העלאה, ללא הרשמה.",
+  "id": "/loona-image-compressor/he/ssc-chsl-signature-size.html",
+  "start_url": "./ssc-chsl-signature-size.html",
+  "scope": "./ssc-chsl-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

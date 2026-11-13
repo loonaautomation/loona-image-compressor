@@ -1,0 +1,29 @@
+{
+  "name": "Loona שינוי גודל תמונה ל־3840 × 2160 px באינטרנט",
+  "short_name": "שינוי גודל תמונה ל־3840 ×",
+  "description": "שנו גודל של כל תמונה בדיוק ל־3840×2160 px — טפט / מסגרת סרטון 4K UHD. בחינם בדפדפן שלכם עם בקרת חיתוך; ללא העלאה, ללא הרשמה.",
+  "id": "/loona-image-compressor/he/resize-image-to-3840x2160.html",
+  "start_url": "./resize-image-to-3840x2160.html",
+  "scope": "./resize-image-to-3840x2160.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

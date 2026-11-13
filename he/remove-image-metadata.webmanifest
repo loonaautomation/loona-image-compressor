@@ -1,0 +1,29 @@
+{
+  "name": "Loona הסרת מטא־נתוני תמונה",
+  "short_name": "הסרת מטא־נתוני תמונה",
+  "description": "הסירו מטא־נתוני EXIF, מיקום GPS, XMP ו־IPTC מתמונות JPG, PNG ו־WebP באינטרנט בחינם. הסרה ברמת הבייט — הפיקסלים לעולם לא מקודדים מחדש, כך שהאיכות לא נפגעת. מאומת על ידי סריקה חוזרת, 100% פרטי בדפדפן שלכם.",
+  "id": "/loona-image-compressor/he/remove-image-metadata.html",
+  "start_url": "./remove-image-metadata.html",
+  "scope": "./remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona גודל תמונה IBPS PO",
+  "short_name": "גודל תמונה IBPS PO",
+  "description": "שנו את גודל ה־תמונה של IBPS PO לגודל ההודעה הרשמית (200 × 230 px) ולרצועת 20–50 KB. בחינם, בדפדפן שלכם — ללא העלאה, ללא הרשמה.",
+  "id": "/loona-image-compressor/he/ibps-po-photo-size.html",
+  "start_url": "./ibps-po-photo-size.html",
+  "scope": "./ibps-po-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

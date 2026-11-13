@@ -1,0 +1,29 @@
+{
+  "name": "Loona מציג מטא־נתוני תמונה ו־EXIF",
+  "short_name": "מציג מטא־נתוני תמונה ו־EXIF",
+  "description": "צפו במטא־נתונים המוסתרים בכל תמונת JPG, PNG או WebP באינטרנט בחינם — יצרן ודגם מצלמה, תאריך צילום, חשיפה, ISO, אורך מוקד, מיקום GPS, יסודות IPTC ו־XMP. שום דבר לא מועלה: התמונה שלכם לעולם לא עוזבת את המכשיר.",
+  "id": "/loona-image-compressor/he/image-metadata-viewer.html",
+  "start_url": "./image-metadata-viewer.html",
+  "scope": "./image-metadata-viewer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
