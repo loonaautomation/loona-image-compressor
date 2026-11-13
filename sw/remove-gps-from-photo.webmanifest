@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ondoa GPS kutoka Picha",
+  "short_name": "Ondoa GPS kutoka Picha",
+  "description": "Ondoa eneo la GPS tu kutoka picha ya JPG, PNG au WebP na uweke data ya kamera, tarehe na mwangaza. Baiti kwa baiti, bila kuandika upya, imethibitishwa kwa uchanganuzi upya — 100% kwenye kivinjari chako, hakuna kilichopakiwa.",
+  "id": "/loona-image-compressor/sw/remove-gps-from-photo.html",
+  "start_url": "./remove-gps-from-photo.html",
+  "scope": "./remove-gps-from-photo.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

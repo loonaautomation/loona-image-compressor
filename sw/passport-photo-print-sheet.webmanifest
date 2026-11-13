@@ -1,0 +1,29 @@
+{
+  "name": "Loona Karatasi ya Kuchapisha Picha za Pasipoti",
+  "short_name": "Karatasi ya Kuchapisha Picha",
+  "description": "Weka picha 4, 6 au 8 za pasipoti kwenye karatasi moja ya kuchapisha ya A4 bure katika DPI 300. Chapisha kwa 100%, kata kwenye miongozo na uokoe pesa za studio. Bila kujisajili, faragha kabisa.",
+  "id": "/loona-image-compressor/sw/passport-photo-print-sheet.html",
+  "start_url": "./passport-photo-print-sheet.html",
+  "scope": "./passport-photo-print-sheet.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

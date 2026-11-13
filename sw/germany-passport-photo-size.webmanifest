@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ukubwa wa Picha ya Pasipoti ya Ujerumani (Biometriska)",
+  "short_name": "Ukubwa wa Picha ya Pasipoti",
+  "description": "Tengeneza Picha ya Pasipoti ya Ujerumani (Biometriska) katika ukubwa rasmi wa milimita 35×45 (px 413×531), mandharinyuma ya kijivu chepesi, tambarare. Kitengenezaji bure cha mtandaoni — kata, pakua na uchapishe karatasi, bila kupakia.",
+  "id": "/loona-image-compressor/sw/germany-passport-photo-size.html",
+  "start_url": "./germany-passport-photo-size.html",
+  "scope": "./germany-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

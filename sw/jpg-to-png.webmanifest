@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kibadilishaji cha JPG kuwa PNG",
+  "short_name": "Kibadilishaji cha JPG kuwa PNG",
+  "description": "Badilisha JPG kuwa PNG mtandaoni bure — matokeo yasiyo na upotezaji kwa wahariri, zana za usanifu na hati. Huendeshwa kwenye kivinjari chako, bila kujisajili, bila kupakia.",
+  "id": "/loona-image-compressor/sw/jpg-to-png.html",
+  "start_url": "./jpg-to-png.html",
+  "scope": "./jpg-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

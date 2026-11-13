@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kitengeneza Picha za Visa",
+  "short_name": "Kitengeneza Picha za Visa",
+  "description": "Tengeneza picha za visa mtandaoni bure: inchi 2x2 za US, milimita 35x45 za Uingereza na Schengen, milimita 33x48 za China katika DPI 300. Bila kujisajili, bila alama ya maji, zana ya faragha kabisa.",
+  "id": "/loona-image-compressor/sw/visa-photo-maker.html",
+  "start_url": "./visa-photo-maker.html",
+  "scope": "./visa-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

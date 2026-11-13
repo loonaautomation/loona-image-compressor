@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bana PNG hadi KB 20 Mtandaoni",
+  "short_name": "Bana PNG hadi KB 20 Mtandaoni",
+  "description": "Bana picha ya PNG hadi KB 20 au chini, bure kwenye kivinjari chako. Utafutaji otomatiki hupata ubora bora unaotosha — bila kujisajili, bila kupakia.",
+  "id": "/loona-image-compressor/sw/compress-png-to-20kb.html",
+  "start_url": "./compress-png-to-20kb.html",
+  "scope": "./compress-png-to-20kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

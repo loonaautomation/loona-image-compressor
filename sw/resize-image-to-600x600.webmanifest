@@ -1,0 +1,29 @@
+{
+  "name": "Loona Badilisha Ukubwa wa Picha hadi 600 × 600 px Mtandaoni",
+  "short_name": "Badilisha Ukubwa wa Picha",
+  "description": "Badilisha ukubwa wa picha yoyote hadi px 600×600 haswa — Ukubwa wa chini wa kidijitali wa pasipoti/visa ya Marekani na Lotari ya DV. Bure kwenye kivinjari chako kwa udhibiti wa kukata; bila kupakia, bila kujisajili.",
+  "id": "/loona-image-compressor/sw/resize-image-to-600x600.html",
+  "start_url": "./resize-image-to-600x600.html",
+  "scope": "./resize-image-to-600x600.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

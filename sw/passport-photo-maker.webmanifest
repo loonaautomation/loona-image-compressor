@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kitengeneza Picha za Ukubwa wa Pasipoti",
+  "short_name": "Kitengeneza Picha za Ukubwa",
+  "description": "Tengeneza picha ya ukubwa wa pasipoti mtandaoni bure: kata picha yoyote hadi milimita 35×45 au inchi 2×2 katika DPI 300 iliyo tayari kuchapishwa. Bila kujisajili, bila alama ya maji, faragha kabisa.",
+  "id": "/loona-image-compressor/sw/passport-photo-maker.html",
+  "start_url": "./passport-photo-maker.html",
+  "scope": "./passport-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

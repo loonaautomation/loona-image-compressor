@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kitazamaji cha Metadata ya Picha na EXIF",
+  "short_name": "Kitazamaji cha Metadata ya",
+  "description": "Tazama metadata iliyofichwa katika picha yoyote ya JPG, PNG au WebP mtandaoni bure — chapa na modeli ya kamera, tarehe ya kuchukuliwa, mwangaza, ISO, urefu wa fokasi, eneo la GPS, misingi ya IPTC na XMP. Hakuna kinachopakiwa: picha yako haiondoki kwenye kifaa chako kamwe.",
+  "id": "/loona-image-compressor/sw/image-metadata-viewer.html",
+  "start_url": "./image-metadata-viewer.html",
+  "scope": "./image-metadata-viewer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

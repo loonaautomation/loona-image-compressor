@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kihariri cha EXIF",
+  "short_name": "Kihariri cha EXIF",
+  "description": "Hariri data ya EXIF ya picha ya JPG mtandaoni bure — rekebisha tarehe ya kuchukuliwa, ongeza jina lako kama msanii, weka hakimiliki, chapa na modeli ya kamera, au tengeneza EXIF kwenye picha ambayo haina. Pikseli haziandikwi upya kamwe na hakuna kinachopakiwa.",
+  "id": "/loona-image-compressor/sw/edit-image-metadata.html",
+  "start_url": "./edit-image-metadata.html",
+  "scope": "./edit-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

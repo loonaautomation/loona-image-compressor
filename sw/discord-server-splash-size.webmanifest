@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ukubwa wa Mwaliko wa Splash wa Discord",
+  "short_name": "Ukubwa wa Mwaliko wa Splash",
+  "description": "Tengeneza mwaliko wa splash ya Discord katika px 1920×1080 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
+  "id": "/loona-image-compressor/sw/discord-server-splash-size.html",
+  "start_url": "./discord-server-splash-size.html",
+  "scope": "./discord-server-splash-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

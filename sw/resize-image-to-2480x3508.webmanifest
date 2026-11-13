@@ -1,0 +1,29 @@
+{
+  "name": "Loona Badilisha Ukubwa wa Picha hadi 2480 × 3508 px Mtandaoni",
+  "short_name": "Badilisha Ukubwa wa Picha",
+  "description": "Badilisha ukubwa wa picha yoyote hadi px 2480×3508 haswa — A4 katika DPI 300. Bure kwenye kivinjari chako kwa udhibiti wa kukata; bila kupakia, bila kujisajili.",
+  "id": "/loona-image-compressor/sw/resize-image-to-2480x3508.html",
+  "start_url": "./resize-image-to-2480x3508.html",
+  "scope": "./resize-image-to-2480x3508.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

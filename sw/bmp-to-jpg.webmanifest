@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kibadilishaji cha BMP kuwa JPG",
+  "short_name": "Kibadilishaji cha BMP kuwa JPG",
+  "description": "Badilisha BMP kuwa JPG mtandaoni bure na upunguze bitmap kubwa ambazo hazijabanwa kwa 90% au zaidi. Kwenye kivinjari chako — bila kujisajili, bila kupakia, bila alama ya maji.",
+  "id": "/loona-image-compressor/sw/bmp-to-jpg.html",
+  "start_url": "./bmp-to-jpg.html",
+  "scope": "./bmp-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ukubwa wa Picha za Pasipoti na Visa kwa Nchi",
+  "short_name": "Ukubwa wa Picha za Pasipoti",
+  "description": "Ukubwa rasmi wa picha za pasipoti, visa na vitambulisho kwa nchi na hati 40, kila moja na zana ya kitengenezaji katika milimita na ukubwa wa pikseli haswa.",
+  "id": "/loona-image-compressor/sw/passport-photo-sizes.html",
+  "start_url": "./passport-photo-sizes.html",
+  "scope": "./passport-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

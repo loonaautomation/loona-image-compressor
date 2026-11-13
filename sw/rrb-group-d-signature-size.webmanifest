@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ukubwa wa Saini wa RRB Group D (Railways)",
+  "short_name": "Ukubwa wa Saini wa RRB Group",
+  "description": "Badilisha ukubwa wa saini yako ya RRB Group D (Railways) hadi ukubwa wa ilani (140 × 60 px) na kiwango cha KB 10–40. Bure, kwenye kivinjari chako — bila kupakia, bila kujisajili.",
+  "id": "/loona-image-compressor/sw/rrb-group-d-signature-size.html",
+  "start_url": "./rrb-group-d-signature-size.html",
+  "scope": "./rrb-group-d-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

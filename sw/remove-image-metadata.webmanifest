@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ondoa Metadata ya Picha",
+  "short_name": "Ondoa Metadata ya Picha",
+  "description": "Ondoa metadata ya EXIF, eneo la GPS, XMP na IPTC kutoka picha za JPG, PNG na WebP mtandaoni bure. Uondoaji wa kiwango cha baiti — pikseli haziandikwi upya kamwe, kwa hiyo ubora hauaguswi. Imethibitishwa kwa uchanganuzi upya, faragha ya 100% kwenye kivinjari chako.",
+  "id": "/loona-image-compressor/sw/remove-image-metadata.html",
+  "start_url": "./remove-image-metadata.html",
+  "scope": "./remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kibadilishaji cha WebP kuwa JPG",
+  "short_name": "Kibadilishaji cha WebP kuwa",
+  "description": "Badilisha WebP kuwa JPG mtandaoni bure ili picha zako zifunguke katika kila programu, fomu na kifaa cha zamani. Inategemea kivinjari — bila kujisajili, bila kupakia, bila alama ya maji.",
+  "id": "/loona-image-compressor/sw/webp-to-jpg.html",
+  "start_url": "./webp-to-jpg.html",
+  "scope": "./webp-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

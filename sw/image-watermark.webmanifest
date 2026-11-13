@@ -1,0 +1,29 @@
+{
+  "name": "Loona Alama ya Maji ya Picha",
+  "short_name": "Alama ya Maji ya Picha",
+  "description": "Ongeza alama ya maji ya maandishi kwenye picha yoyote mtandaoni bure — chagua maandishi, ukubwa, rangi, uwazi na nafasi, au irudie kama muundo wa vigae. Hakiki ya moja kwa moja, bila kujisajili, na picha yako haiondoki kwenye kifaa chako kamwe.",
+  "id": "/loona-image-compressor/sw/image-watermark.html",
+  "start_url": "./image-watermark.html",
+  "scope": "./image-watermark.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

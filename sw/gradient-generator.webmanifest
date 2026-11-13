@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kizalishaji cha Mchanganyiko wa CSS",
+  "short_name": "Kizalishaji cha Mchanganyiko",
+  "description": "Jenga michanganyiko ya mstari ya CSS kwa rangi mbili au tatu na pembe yoyote, ihakiki moja kwa moja na unakili msimbo wa CSS ulio tayari. Bure, bila kujisajili.",
+  "id": "/loona-image-compressor/sw/gradient-generator.html",
+  "start_url": "./gradient-generator.html",
+  "scope": "./gradient-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

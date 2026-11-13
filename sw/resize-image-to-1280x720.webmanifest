@@ -1,0 +1,29 @@
+{
+  "name": "Loona Badilisha Ukubwa wa Picha hadi 1280 × 720",
+  "short_name": "Badilisha Ukubwa wa Picha",
+  "description": "Badilisha ukubwa wa picha yoyote hadi pikseli 1280 × 720 haswa (vijipicha vya YouTube na video ya HD) bure. Funika, beba au nyoosha, JPG au PNG, pakua papo hapo — bila kujisajili, hakuna kilichopakiwa.",
+  "id": "/loona-image-compressor/sw/resize-image-to-1280x720.html",
+  "start_url": "./resize-image-to-1280x720.html",
+  "scope": "./resize-image-to-1280x720.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

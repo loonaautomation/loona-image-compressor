@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ukubwa wa Nembo ya Ukurasa wa Kampuni wa LinkedIn",
+  "short_name": "Ukubwa wa Nembo ya Ukurasa wa",
+  "description": "Tengeneza nembo ya ukurasa wa kampuni ya LinkedIn katika px 300×300 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
+  "id": "/loona-image-compressor/sw/linkedin-company-logo-size.html",
+  "start_url": "./linkedin-company-logo-size.html",
+  "scope": "./linkedin-company-logo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

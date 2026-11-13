@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kiboresha Picha",
+  "short_name": "Kiboresha Picha",
+  "description": "Boresha picha mtandaoni bure: uboreshaji otomatiki wa kubofya mara moja, noa picha laini, safisha kelele kwa upole na upanue 2x au 4x. Matokeo ya uaminifu, bila kujisajili, na picha yako haiondoki kwenye kifaa chako kamwe.",
+  "id": "/loona-image-compressor/sw/image-enhancer.html",
+  "start_url": "./image-enhancer.html",
+  "scope": "./image-enhancer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
