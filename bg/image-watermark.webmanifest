@@ -1,0 +1,29 @@
+{
+  "name": "Loona Воден знак на изображения",
+  "short_name": "Воден знак на изображения",
+  "description": "Добавете текстов воден знак към всяка снимка онлайн безплатно — изберете текста, размера, цвета, непрозрачността и позицията или го повторете като плочковиден модел. Преглед на живо, без регистрация, а изображението ви никога не напуска устройството ви.",
+  "id": "/loona-image-compressor/bg/image-watermark.html",
+  "start_url": "./image-watermark.html",
+  "scope": "./image-watermark.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Размери на снимки за паспорти и визи по страна",
+  "short_name": "Размери на снимки за паспорти",
+  "description": "Официални размери на снимки за паспорти, визи и лични карти за 40 страни и документи, всеки с инструмент за изработка в точния размер в милиметри и пиксели.",
+  "id": "/loona-image-compressor/bg/passport-photo-sizes.html",
+  "start_url": "./passport-photo-sizes.html",
+  "scope": "./passport-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

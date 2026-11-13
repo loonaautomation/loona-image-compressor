@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертор от PNG в ICO",
+  "short_name": "Конвертор от PNG в ICO",
+  "description": "Конвертирайте PNG в ICO онлайн, безплатно, във вашия браузър. Истинско конвертиране на устройството ви — без качване, без регистрация, без водни знаци.",
+  "id": "/loona-image-compressor/bg/png-to-ico.html",
+  "start_url": "./png-to-ico.html",
+  "scope": "./png-to-ico.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

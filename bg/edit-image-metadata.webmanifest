@@ -1,0 +1,29 @@
+{
+  "name": "Loona Редактор на EXIF",
+  "short_name": "Редактор на EXIF",
+  "description": "Редактирайте EXIF данните на JPG снимка онлайн безплатно — поправете датата на заснемане, добавете името си като автор, задайте авторски права, производител и модел на камерата или създайте EXIF на снимка, която няма. Пикселите никога не се прекодират и нищо не се качва.",
+  "id": "/loona-image-compressor/bg/edit-image-metadata.html",
+  "start_url": "./edit-image-metadata.html",
+  "scope": "./edit-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

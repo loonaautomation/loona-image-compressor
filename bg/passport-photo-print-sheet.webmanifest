@@ -1,0 +1,29 @@
+{
+  "name": "Loona Лист за печат на паспортни снимки",
+  "short_name": "Лист за печат на паспортни",
+  "description": "Сложете 4, 6 или 8 паспортни снимки на един печатен лист A4 безплатно при 300 DPI. Печатайте при 100%, режете по водачите и спестявайте пари за студио. Без регистрация, напълно лично.",
+  "id": "/loona-image-compressor/bg/passport-photo-print-sheet.html",
+  "start_url": "./passport-photo-print-sheet.html",
+  "scope": "./passport-photo-print-sheet.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

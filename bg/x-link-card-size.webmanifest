@@ -1,0 +1,29 @@
+{
+  "name": "Loona Размер на Изображение за карта с връзка за X (Twitter)",
+  "short_name": "Размер на Изображение за",
+  "description": "Направете изображение за карта с връзка за X (Twitter) на точно 1200×628 px. Безплатен инструмент за преоразмеряване/изрязване във вашия браузър с правилата за безопасната зона, които спират изрязване на текст и лица.",
+  "id": "/loona-image-compressor/bg/x-link-card-size.html",
+  "start_url": "./x-link-card-size.html",
+  "scope": "./x-link-card-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

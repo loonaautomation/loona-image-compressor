@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор на мемове",
+  "short_name": "Генератор на мемове",
+  "description": "Превърнете всяка снимка в класическо меме с удебелен текст отгоре и отдолу — безплатен онлайн генератор на мемове с преглед на живо, опции за обикновен фон и изтегляне на PNG. Без регистрация, а изображението ви никога не напуска устройството ви.",
+  "id": "/loona-image-compressor/bg/meme-generator.html",
+  "start_url": "./meme-generator.html",
+  "scope": "./meme-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

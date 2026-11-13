@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор на CSS градиенти",
+  "short_name": "Генератор на CSS градиенти",
+  "description": "Създавайте CSS линейни градиенти с два или три цвята и всеки ъгъл, преглеждайте ги на живо и копирайте готовия CSS код. Безплатно, без регистрация.",
+  "id": "/loona-image-compressor/bg/gradient-generator.html",
+  "start_url": "./gradient-generator.html",
+  "scope": "./gradient-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

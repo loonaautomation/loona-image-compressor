@@ -1,0 +1,29 @@
+{
+  "name": "Loona Размери на изображения за социални медии 2026",
+  "short_name": "Размери на изображения за",
+  "description": "Точни размери на изображения за Instagram, Facebook, YouTube, X, LinkedIn, Pinterest, TikTok и Discord — с инструмент за изработка и ръководство за безопасната зона за всеки слот.",
+  "id": "/loona-image-compressor/bg/social-media-image-sizes.html",
+  "start_url": "./social-media-image-sizes.html",
+  "scope": "./social-media-image-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

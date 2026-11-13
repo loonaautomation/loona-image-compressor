@@ -1,0 +1,29 @@
+{
+  "name": "Loona Компресиране на WebP до 2000 KB онлайн",
+  "short_name": "Компресиране на WebP до 2000",
+  "description": "Компресирайте изображение WebP до 2000 KB или по-малко, безплатно във вашия браузър. Автоматичното търсене намира най-доброто качество, което се побира — без регистрация, без качване.",
+  "id": "/loona-image-compressor/bg/compress-webp-to-2000kb.html",
+  "start_url": "./compress-webp-to-2000kb.html",
+  "scope": "./compress-webp-to-2000kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

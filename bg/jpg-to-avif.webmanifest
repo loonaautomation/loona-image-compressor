@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертор от JPG в AVIF",
+  "short_name": "Конвертор от JPG в AVIF",
+  "description": "Конвертирайте JPG в AVIF онлайн, безплатно, във вашия браузър. Истинско конвертиране на устройството ви — без качване, без регистрация, без водни знаци.",
+  "id": "/loona-image-compressor/bg/jpg-to-avif.html",
+  "start_url": "./jpg-to-avif.html",
+  "scope": "./jpg-to-avif.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Преоразмеряване на изображение",
+  "short_name": "Преоразмеряване на изображение",
+  "description": "Преоразмерявайте всяко изображение по пиксели, cm или инчове с настройка за DPI безплатно. Запазете съотношението на страните, изберете JPG, PNG или WebP и изтеглете незабавно — не е необходима регистрация.",
+  "id": "/loona-image-compressor/bg/resize-image.html",
+  "start_url": "./resize-image.html",
+  "scope": "./resize-image.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

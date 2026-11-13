@@ -1,0 +1,29 @@
+{
+  "name": "Loona Групово премахване на метаданни",
+  "short_name": "Групово премахване на",
+  "description": "Премахнете метаданни EXIF, GPS и XMP от много снимки наведнъж — пуснете група от файлове JPG, PNG и WebP, изчистете ги всички във вашия браузър и изтеглете всичко като един ZIP. Безплатно, лично, без качвания, без прекодиране.",
+  "id": "/loona-image-compressor/bg/bulk-remove-image-metadata.html",
+  "start_url": "./bulk-remove-image-metadata.html",
+  "scope": "./bulk-remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

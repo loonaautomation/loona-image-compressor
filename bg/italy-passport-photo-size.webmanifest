@@ -1,0 +1,29 @@
+{
+  "name": "Loona Размер Снимка за паспорт на Италия",
+  "short_name": "Размер Снимка за паспорт на",
+  "description": "Направете Снимка за паспорт на Италия в официалния размер 35×40 mm (413×472 px), фон обикновен бял или светъл. Безплатен онлайн инструмент — изрязване, изтегляне и лист за печат, без качване.",
+  "id": "/loona-image-compressor/bg/italy-passport-photo-size.html",
+  "start_url": "./italy-passport-photo-size.html",
+  "scope": "./italy-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

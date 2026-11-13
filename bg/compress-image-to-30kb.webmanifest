@@ -1,0 +1,29 @@
+{
+  "name": "Loona Компресиране на изображение до 30 KB онлайн",
+  "short_name": "Компресиране на изображение",
+  "description": "Компресирайте изображения JPG, PNG и WebP до 30 KB или по-малко, онлайн и безплатно. Автоматично търсене на качество и размер във вашия браузър — без регистрация, без качване.",
+  "id": "/loona-image-compressor/bg/compress-image-to-30kb.html",
+  "start_url": "./compress-image-to-30kb.html",
+  "scope": "./compress-image-to-30kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

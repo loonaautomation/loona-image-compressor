@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертор от GIF в JPG",
+  "short_name": "Конвертор от GIF в JPG",
+  "description": "Конвертирайте GIF в JPG онлайн безплатно — превърнете GIF в малко, универсално неподвижно JPG. Във вашия браузър: без регистрация, без качване, без воден знак.",
+  "id": "/loona-image-compressor/bg/gif-to-jpg.html",
+  "start_url": "./gif-to-jpg.html",
+  "scope": "./gif-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
