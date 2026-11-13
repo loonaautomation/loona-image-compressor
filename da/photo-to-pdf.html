@@ -101,7 +101,7 @@ canvas.out{max-width:100%;border:1px solid var(--line);border-radius:8px}
 <div><label for="margin">Margen</label>
 <select id="margin"><option value="none">Ingen (kant til kant)</option><option value="small">Lille (18 pt)</option><option value="normal" selected>Normal (36 pt)</option></select></div>
 <div><label for="orient">Orientering</label>
-<select id="orient"><option value="auto" selected>Auto (match hvert foto)</option><option value="portrait">Portræt</option><option value="landscape">Landskab</option></select></div>
+<select id="orient"><option value="auto" selected>Auto (matcher hvert foto)</option><option value="portrait">Portræt</option><option value="landscape">Liggende</option></select></div>
 </div>
 <p><button class="btn" id="makeBtn" type="button" disabled>Opret PDF</button></p>
 <p class="small" id="outInfo">Tilføj mindst ét foto for at begynde.</p>
@@ -121,9 +121,9 @@ canvas.out{max-width:100%;border:1px solid var(--line);border-radius:8px}
 <p>Denne konverter bygger PDF'en helt i din browser med det open source-bibliotek pdf-lib — det samme bibliotek, vores Loona PDF-værktøjer bruger. Hvert foto placeres på sin egen side, skaleres proportionelt til at passe inden for sidens margener, så intet strækkes eller beskæres. JPEG- og PNG-fotos indlejres direkte i deres originale kvalitet; andre formater såsom WebP konverteres først til JPEG på et lærred, i din browser, i høj kvalitet.</p>
 
 <h2>Sådan virker det</h2>
-<p>For hvert foto beregner værktøjet det største rektangel med fotoets billedforhold, der passer inden for siden minus dens margener, centrerer det på siden og indlejrer billedet der. Med orienteringen "Auto" får et bredt landskabsfoto automatisk en landskabsside, og et højt portrætfoto får en portrætside. Med "Tilpas til billede" laves hver side i stedet præcis i fotoets form.</p>
+<p>For hvert foto beregner værktøjet det største rektangel med fotoets billedforhold, der passer inden for siden minus dens margener, centrerer det på siden og indlejrer billedet der. Med orienteringen "Auto" får et bredt liggende foto automatisk en liggende side, og et højt portrætfoto får en portrætside. Med "Tilpas til billede" laves hver side i stedet præcis i fotoets form.</p>
 <h3>Gennemregnet eksempel</h3>
-<p>Et landskabsfoto på 3000 × 2000 px på en A4-portrætside (595 × 842 pt) med normale margener på 36 pt efterlader 523 × 770 pt brugbar plads. Fotoet skaleres med min(523/3000, 770/2000) ≈ 0.174, hvilket giver en placeret størrelse på cirka <strong>523 × 349 pt</strong>, centreret på siden — fuld bredde, med jævnt hvidt mellemrum over og under, og ingen forvrængning.</p>
+<p>Et liggende foto på 3000 × 2000 px på en A4-portrætside (595 × 842 pt) med normale margener på 36 pt efterlader 523 × 770 pt brugbar plads. Fotoet skaleres med min(523/3000, 770/2000) ≈ 0.174, hvilket giver en placeret størrelse på cirka <strong>523 × 349 pt</strong>, centreret på siden — fuld bredde, med jævnt hvidt mellemrum over og under, og ingen forvrængning.</p>
 
 <h3>Ofte stillede spørgsmål</h3>
 <h4>Er denne foto til PDF-konverter gratis?</h4>

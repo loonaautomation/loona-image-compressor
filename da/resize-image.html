@@ -96,7 +96,7 @@ canvas.out{max-width:100%;border:1px solid var(--line);border-radius:8px}
 <div class="row" style="margin-top:6px">
 <div><label for="wInput">Bredde</label><input type="number" id="wInput" min="1" step="any" placeholder="Bredde"></div>
 <div><label for="hInput">Højde</label><input type="number" id="hInput" min="1" step="any" placeholder="Højde"></div>
-<div><label for="unitSel">Enhed</label><select id="unitSel"><option value="px" selected>Pixels (px)</option><option value="cm">Centimeter (cm)</option><option value="inch">Tommer (inch)</option></select></div>
+<div><label for="unitSel">Enhed</label><select id="unitSel"><option value="px" selected>Pixels (px)</option><option value="cm">Centimeter (cm)</option><option value="inch">Tommer</option></select></div>
 <div><label for="dpiSel">DPI (til cm / tomme)</label><select id="dpiSel"><option value="72">72 DPI — skærm</option><option value="96">96 DPI</option><option value="150">150 DPI</option><option value="300" selected>300 DPI — print</option></select></div>
 </div>
 <p><label style="display:inline;font-weight:600"><input type="checkbox" id="keepAspect" checked> Bevar billedforhold</label></p>
@@ -105,10 +105,10 @@ canvas.out{max-width:100%;border:1px solid var(--line);border-radius:8px}
 <button class="btn secondary preset" type="button" data-w="1920" data-h="1080">1920 × 1080</button>
 <button class="btn secondary preset" type="button" data-w="1280" data-h="720">1280 × 720</button>
 <button class="btn secondary preset" type="button" data-w="800" data-h="600">800 × 600</button>
-<button class="btn secondary preset" type="button" data-w="413" data-h="531">413 × 531 (passport)</button>
+<button class="btn secondary preset" type="button" data-w="413" data-h="531">413 × 531 (pas)</button>
 <button class="btn secondary preset" type="button" data-w="600" data-h="600">600 × 600</button>
-<button class="btn secondary preset scale" type="button" data-scale="0.5">50% scale</button>
-<button class="btn secondary preset scale" type="button" data-scale="0.25">25% scale</button>
+<button class="btn secondary preset scale" type="button" data-scale="0.5">50 % skala</button>
+<button class="btn secondary preset scale" type="button" data-scale="0.25">25 % skala</button>
 </div></div>
 </div>
 <div class="row">
@@ -135,7 +135,7 @@ canvas.out{max-width:100%;border:1px solid var(--line);border-radius:8px}
 <h2>Sådan virker det</h2>
 <p>Billedet tegnes på et lærred i målpixelstørrelsen og eksporteres i dit valgte format. JPG og WebP bruger kvalitetsskyderen (højere kvalitet betyder en større fil); PNG er tabsfri og ignorerer kvalitet. Den anslåede filstørrelse, der vises efter tilpasning, kommer fra den faktiske eksporterede fil, ikke et gæt.</p>
 <h3>Gennemregnet eksempel</h3>
-<p>Et foto på 4000 × 3000 px tilpasset i bredden til <strong>10 cm at 300 DPI</strong> bliver 1181 px bred (10 ÷ 2.54 × 300). Med billedforholdet bevaret er højden 1181 × 3000 ÷ 4000 = <strong>886 px</strong>, så resultatet er 1181 × 886 px — hvilket printes tilbage ved præcis 10 × 7.5 cm ved 300 DPI.</p>
+<p>Et foto på 4000 × 3000 px tilpasset i bredden til <strong>10 cm ved 300 DPI</strong> bliver 1181 px bred (10 ÷ 2.54 × 300). Med billedforholdet bevaret er højden 1181 × 3000 ÷ 4000 = <strong>886 px</strong>, så resultatet er 1181 × 886 px — hvilket printes tilbage ved præcis 10 × 7.5 cm ved 300 DPI.</p>
 
 <h3>Ofte stillede spørgsmål</h3>
 <h4>Er dette billedtilpasningsværktøj gratis?</h4>
