@@ -1,0 +1,29 @@
+{
+  "name": "Loona Розмиття облич",
+  "short_name": "Розмиття облич",
+  "description": "Розмивайте або пікселізуйте обличчя, номерні знаки та приватні деталі на будь-якому фото. Ви самі вибираєте ділянки, обираєте силу, переглядаєте й завантажуєте — безкоштовно, без реєстрації, а ваше фото ніколи не залишає ваш пристрій.",
+  "id": "/loona-image-compressor/uk/face-blur.html",
+  "start_url": "./face-blur.html",
+  "scope": "./face-blur.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

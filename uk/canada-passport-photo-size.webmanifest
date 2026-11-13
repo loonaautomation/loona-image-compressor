@@ -1,0 +1,29 @@
+{
+  "name": "Loona Розмір Фото на паспорт Канади",
+  "short_name": "Розмір Фото на паспорт Канади",
+  "description": "Зробіть Фото на паспорт Канади в офіційному розмірі 50×70 мм (591×827 пікс.), тло: однотонне біле або світле. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
+  "id": "/loona-image-compressor/uk/canada-passport-photo-size.html",
+  "start_url": "./canada-passport-photo-size.html",
+  "scope": "./canada-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

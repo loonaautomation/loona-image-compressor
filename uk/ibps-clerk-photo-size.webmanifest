@@ -1,0 +1,29 @@
+{
+  "name": "Loona Розмір Фотографія IBPS Clerk (CSA)",
+  "short_name": "Розмір Фотографія IBPS Clerk",
+  "description": "Змініть розмір вашого фото для IBPS Clerk (CSA) до розміру з повідомлення (200 × 230 px) і діапазону 20–50 KB. Безкоштовно, у вашому браузері — без передавання, без реєстрації.",
+  "id": "/loona-image-compressor/uk/ibps-clerk-photo-size.html",
+  "start_url": "./ibps-clerk-photo-size.html",
+  "scope": "./ibps-clerk-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

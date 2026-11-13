@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор мемів",
+  "short_name": "Генератор мемів",
+  "description": "Перетворіть будь-яке фото на класичний мем із жирним текстом зверху й знизу — безкоштовний онлайн-генератор мемів із живим попереднім переглядом, варіантами однотонного тла й завантаженням PNG. Без реєстрації, а ваше зображення ніколи не залишає ваш пристрій.",
+  "id": "/loona-image-compressor/uk/meme-generator.html",
+  "start_url": "./meme-generator.html",
+  "scope": "./meme-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

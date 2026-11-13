@@ -1,0 +1,29 @@
+{
+  "name": "Loona Розмір Фото на візу Колумбії",
+  "short_name": "Розмір Фото на візу Колумбії",
+  "description": "Зробіть Фото на візу Колумбії в офіційному розмірі 30×40 мм (354×472 пікс.), тло: однотонне біле. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
+  "id": "/loona-image-compressor/uk/colombia-visa-photo-size.html",
+  "start_url": "./colombia-visa-photo-size.html",
+  "scope": "./colombia-visa-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

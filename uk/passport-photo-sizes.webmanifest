@@ -1,0 +1,29 @@
+{
+  "name": "Loona Розміри фото на паспорт і візу за країнами",
+  "short_name": "Розміри фото на паспорт і",
+  "description": "Офіційні розміри фото на паспорт, візу й посвідчення для 40 країн і документів, кожен із конструктором у точному розмірі в міліметрах і пікселях.",
+  "id": "/loona-image-compressor/uk/passport-photo-sizes.html",
+  "start_url": "./passport-photo-sizes.html",
+  "scope": "./passport-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

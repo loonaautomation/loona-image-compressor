@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер PNG у JPG",
+  "short_name": "Конвертер PNG у JPG",
+  "description": "Конвертуйте PNG у JPG онлайн безкоштовно. Менші файли для форм, електронної пошти й вебсайтів просто у вашому браузері — без реєстрації, без завантаження на сервер, без водяного знака.",
+  "id": "/loona-image-compressor/uk/png-to-jpg.html",
+  "start_url": "./png-to-jpg.html",
+  "scope": "./png-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

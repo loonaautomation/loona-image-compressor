@@ -1,0 +1,29 @@
+{
+  "name": "Loona Розмір Стандартне фото на паспорт ICAO (35×45 мм)",
+  "short_name": "Розмір Стандартне фото на",
+  "description": "Зробіть Стандартне фото на паспорт ICAO (35×45 мм) в офіційному розмірі 35×45 мм (413×531 пікс.), тло: однотонне світле тло. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
+  "id": "/loona-image-compressor/uk/icao-passport-photo-size.html",
+  "start_url": "./icao-passport-photo-size.html",
+  "scope": "./icao-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

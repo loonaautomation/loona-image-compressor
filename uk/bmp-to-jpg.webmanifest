@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер BMP у JPG",
+  "short_name": "Конвертер BMP у JPG",
+  "description": "Конвертуйте BMP у JPG онлайн безкоштовно й зменшуйте величезні нестиснуті растрові зображення на 90% або більше. У вашому браузері — без реєстрації, без завантаження на сервер, без водяного знака.",
+  "id": "/loona-image-compressor/uk/bmp-to-jpg.html",
+  "start_url": "./bmp-to-jpg.html",
+  "scope": "./bmp-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

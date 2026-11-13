@@ -1,0 +1,29 @@
+{
+  "name": "Loona Розмір Підпис UPSC NDA",
+  "short_name": "Розмір Підпис UPSC NDA",
+  "description": "Змініть розмір вашого підпис для UPSC NDA до розміру з повідомлення (скановане поле, співвідношення приблизно 7:2) і діапазону 20–300 KB. Безкоштовно, у вашому браузері — без передавання, без реєстрації.",
+  "id": "/loona-image-compressor/uk/upsc-nda-signature-size.html",
+  "start_url": "./upsc-nda-signature-size.html",
+  "scope": "./upsc-nda-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

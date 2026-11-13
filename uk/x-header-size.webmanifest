@@ -1,0 +1,29 @@
+{
+  "name": "Loona Розмір Шапка / Банер X (Twitter)",
+  "short_name": "Розмір Шапка / Банер X",
+  "description": "Зробіть шапка / банер для X (Twitter) рівно 1500×500 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
+  "id": "/loona-image-compressor/uk/x-header-size.html",
+  "start_url": "./x-header-size.html",
+  "scope": "./x-header-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

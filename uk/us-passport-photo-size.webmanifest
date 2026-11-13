@@ -1,0 +1,29 @@
+{
+  "name": "Loona Розмір Фото на паспорт США",
+  "short_name": "Розмір Фото на паспорт США",
+  "description": "Зробіть Фото на паспорт США в офіційному розмірі 51×51 мм (600×600 пікс.), тло: однотонне біле. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
+  "id": "/loona-image-compressor/uk/us-passport-photo-size.html",
+  "start_url": "./us-passport-photo-size.html",
+  "scope": "./us-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

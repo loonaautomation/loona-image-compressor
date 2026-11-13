@@ -1,0 +1,29 @@
+{
+  "name": "Loona Розміри фото та підпису на іспити",
+  "short_name": "Розміри фото та підпису на",
+  "description": "Розміри фото й підпису та діапазони KB для 20 великих індійських іспитів — SSC, IBPS, SBI, UPSC, RRB, JEE, NEET та інші, кожен із конструктором.",
+  "id": "/loona-image-compressor/uk/exam-photo-sizes.html",
+  "start_url": "./exam-photo-sizes.html",
+  "scope": "./exam-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

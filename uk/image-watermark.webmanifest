@@ -1,0 +1,29 @@
+{
+  "name": "Loona Водяний знак на зображенні",
+  "short_name": "Водяний знак на зображенні",
+  "description": "Додайте текстовий водяний знак до будь-якого фото онлайн безкоштовно — виберіть текст, розмір, колір, непрозорість і позицію або повторіть його мозаїчним візерунком. Живий попередній перегляд, без реєстрації, а ваше зображення ніколи не залишає ваш пристрій.",
+  "id": "/loona-image-compressor/uk/image-watermark.html",
+  "start_url": "./image-watermark.html",
+  "scope": "./image-watermark.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

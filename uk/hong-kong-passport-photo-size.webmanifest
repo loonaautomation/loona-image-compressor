@@ -1,0 +1,29 @@
+{
+  "name": "Loona Розмір Фото на паспорт Гонконгу",
+  "short_name": "Розмір Фото на паспорт",
+  "description": "Зробіть Фото на паспорт Гонконгу в офіційному розмірі 40×50 мм (472×591 пікс.), тло: однотонне біле. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
+  "id": "/loona-image-compressor/uk/hong-kong-passport-photo-size.html",
+  "start_url": "./hong-kong-passport-photo-size.html",
+  "scope": "./hong-kong-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

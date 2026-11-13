@@ -1,0 +1,29 @@
+{
+  "name": "Loona Розмір Підпис SSC MTS",
+  "short_name": "Розмір Підпис SSC MTS",
+  "description": "Змініть розмір вашого підпис для SSC MTS до розміру з повідомлення (140 × 60 px) і діапазону 10–20 KB. Безкоштовно, у вашому браузері — без передавання, без реєстрації.",
+  "id": "/loona-image-compressor/uk/ssc-mts-signature-size.html",
+  "start_url": "./ssc-mts-signature-size.html",
+  "scope": "./ssc-mts-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

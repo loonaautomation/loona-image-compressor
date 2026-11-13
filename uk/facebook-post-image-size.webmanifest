@@ -1,0 +1,29 @@
+{
+  "name": "Loona Розмір Зображення допису / посилання Facebook",
+  "short_name": "Розмір Зображення допису /",
+  "description": "Зробіть зображення допису / посилання для Facebook рівно 1200×630 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
+  "id": "/loona-image-compressor/uk/facebook-post-image-size.html",
+  "start_url": "./facebook-post-image-size.html",
+  "scope": "./facebook-post-image-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

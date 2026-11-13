@@ -1,0 +1,29 @@
+{
+  "name": "Loona Розмір Фото на візу Канади (цифрове)",
+  "short_name": "Розмір Фото на візу Канади",
+  "description": "Зробіть Фото на візу Канади (цифрове) в офіційному розмірі 35×45 мм (420×540 пікс.), тло: однотонне біле або світле. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
+  "id": "/loona-image-compressor/uk/canada-visa-photo-size.html",
+  "start_url": "./canada-visa-photo-size.html",
+  "scope": "./canada-visa-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

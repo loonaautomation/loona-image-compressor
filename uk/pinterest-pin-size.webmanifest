@@ -1,0 +1,29 @@
+{
+  "name": "Loona Розмір Стандартний пін Pinterest",
+  "short_name": "Розмір Стандартний пін",
+  "description": "Зробіть стандартний пін для Pinterest рівно 1000×1500 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
+  "id": "/loona-image-compressor/uk/pinterest-pin-size.html",
+  "start_url": "./pinterest-pin-size.html",
+  "scope": "./pinterest-pin-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
