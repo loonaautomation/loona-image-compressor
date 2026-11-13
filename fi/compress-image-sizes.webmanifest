@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pakkaa kuva mihin tahansa KB-kokoon",
+  "short_name": "Pakkaa kuva mihin tahansa",
+  "description": "Jokainen kokoon pakkaava työkalu: 16 tavoitekokoa muodoissa JPG, PNG ja WebP, koosta 10 KB kokoon 2 MB. Ilmaiseksi selaimessasi.",
+  "id": "/loona-image-compressor/fi/compress-image-sizes.html",
+  "start_url": "./compress-image-sizes.html",
+  "scope": "./compress-image-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

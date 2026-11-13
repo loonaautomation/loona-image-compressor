@@ -1,0 +1,29 @@
+{
+  "name": "Loona YouTube Yhteisöjulkaisun kuva koko",
+  "short_name": "YouTube Yhteisöjulkaisun kuva",
+  "description": "Tee YouTube yhteisöjulkaisun kuva tarkalleen kokoon 1080×1080 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
+  "id": "/loona-image-compressor/fi/youtube-community-post-size.html",
+  "start_url": "./youtube-community-post-size.html",
+  "scope": "./youtube-community-post-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pakkaa WebP kokoon 250 KB verkossa",
+  "short_name": "Pakkaa WebP kokoon 250 KB",
+  "description": "Pakkaa WebP-kuva kokoon 250 KB tai alle, ilmaiseksi selaimessasi. Automaattinen haku löytää parhaan mahtuvan laadun — ilman rekisteröitymistä ja ilman palvelimelle lataamista.",
+  "id": "/loona-image-compressor/fi/compress-webp-to-250kb.html",
+  "start_url": "./compress-webp-to-250kb.html",
+  "scope": "./compress-webp-to-250kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

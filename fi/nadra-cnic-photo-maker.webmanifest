@@ -1,0 +1,29 @@
+{
+  "name": "Loona NADRA / CNIC -kuvientekijä",
+  "short_name": "NADRA / CNIC -kuvientekijä",
+  "description": "Tee NADRA CNIC -kuva verkossa ilmaiseksi: tarkka 350×467 px Pak-ID-lataukseen ja 35×45 mm:n tulostuskoko. Valkoinen tausta, ei rekisteröitymistä, täysin yksityinen.",
+  "id": "/loona-image-compressor/fi/nadra-cnic-photo-maker.html",
+  "start_url": "./nadra-cnic-photo-maker.html",
+  "scope": "./nadra-cnic-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

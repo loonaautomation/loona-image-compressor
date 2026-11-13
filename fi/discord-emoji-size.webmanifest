@@ -1,0 +1,29 @@
+{
+  "name": "Loona Discord Mukautettu emoji koko",
+  "short_name": "Discord Mukautettu emoji koko",
+  "description": "Tee Discord mukautettu emoji tarkalleen kokoon 128×128 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
+  "id": "/loona-image-compressor/fi/discord-emoji-size.html",
+  "start_url": "./discord-emoji-size.html",
+  "scope": "./discord-emoji-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

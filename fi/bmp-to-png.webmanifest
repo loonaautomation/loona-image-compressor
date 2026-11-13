@@ -1,0 +1,29 @@
+{
+  "name": "Loona BMP-PNG-muunnin",
+  "short_name": "BMP-PNG-muunnin",
+  "description": "Muunna BMP PNG:ksi verkossa ilmaiseksi — häviötön, paljon pienempi kuin BMP ja tuettu kaikkialla. Toimii selaimessasi, ei rekisteröitymistä, ei latausta palvelimelle.",
+  "id": "/loona-image-compressor/fi/bmp-to-png.html",
+  "start_url": "./bmp-to-png.html",
+  "scope": "./bmp-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

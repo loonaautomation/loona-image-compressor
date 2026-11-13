@@ -1,0 +1,29 @@
+{
+  "name": "Loona EXIF-editori",
+  "short_name": "EXIF-editori",
+  "description": "Muokkaa JPG-kuvan EXIF-tietoja verkossa ilmaiseksi — korjaa ottamispäivä, lisää nimesi tekijäksi, aseta tekijänoikeus, kameran valmistaja ja malli, tai luo EXIF-tiedot kuvaan, jossa niitä ei ole. Pikseleitä ei koskaan koodata uudelleen eikä mitään ladata palvelimelle.",
+  "id": "/loona-image-compressor/fi/edit-image-metadata.html",
+  "start_url": "./edit-image-metadata.html",
+  "scope": "./edit-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pinterest Pitkä / infografiikkapinni koko",
+  "short_name": "Pinterest Pitkä /",
+  "description": "Tee Pinterest pitkä / infografiikkapinni tarkalleen kokoon 1000×2100 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
+  "id": "/loona-image-compressor/fi/pinterest-long-pin-size.html",
+  "start_url": "./pinterest-long-pin-size.html",
+  "scope": "./pinterest-long-pin-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

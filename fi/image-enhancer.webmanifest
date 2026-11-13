@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kuvanparantaja",
+  "short_name": "Kuvanparantaja",
+  "description": "Paranna kuvaa verkossa ilmaiseksi: yhden napsautuksen automaattinen parannus, terävöitä pehmeät kuvat, puhdista kohina hellävaraisesti ja suurenna 2x tai 4x. Rehelliset tulokset, ei rekisteröitymistä, eikä kuvasi koskaan poistu laitteeltasi.",
+  "id": "/loona-image-compressor/fi/image-enhancer.html",
+  "start_url": "./image-enhancer.html",
+  "scope": "./image-enhancer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

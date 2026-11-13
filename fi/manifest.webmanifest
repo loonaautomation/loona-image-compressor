@@ -1,0 +1,29 @@
+{
+  "name": "Loona Image Compressor",
+  "short_name": "Loona Image Compressor",
+  "description": "Pakkaa JPG-, PNG- ja WebP-kuvia ilmaiseksi verkossa tarkkaan kokoon — 50KB, 100KB, 200KB. Eräpakkaus, koon muutos, ZIP-lataus. Ei rekisteröitymistä, ei vesileimaa, 100 % yksityinen.",
+  "id": "/loona-image-compressor/fi/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

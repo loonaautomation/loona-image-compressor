@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kokeen GATE Allekirjoitus koko",
+  "short_name": "Kokeen GATE Allekirjoitus koko",
+  "description": "Muuta kokeen GATE allekirjoitus ilmoitettuun kokoon (skannattu laatikko, suhde noin 7:2) ja välille 3–100 KB. Ilmaiseksi selaimessasi — ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
+  "id": "/loona-image-compressor/fi/gate-signature-size.html",
+  "start_url": "./gate-signature-size.html",
+  "scope": "./gate-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

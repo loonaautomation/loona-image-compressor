@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kokeen SBI PO Valokuva koko",
+  "short_name": "Kokeen SBI PO Valokuva koko",
+  "description": "Muuta kokeen SBI PO valokuva ilmoitettuun kokoon (200 × 230 px) ja välille 20–50 KB. Ilmaiseksi selaimessasi — ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
+  "id": "/loona-image-compressor/fi/sbi-po-photo-size.html",
+  "start_url": "./sbi-po-photo-size.html",
+  "scope": "./sbi-po-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

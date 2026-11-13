@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pakkaa kuva kokoon 500 KB verkossa",
+  "short_name": "Pakkaa kuva kokoon 500 KB",
+  "description": "Pakkaa JPG-, PNG- ja WebP-kuvia kokoon 500 KB tai alle, verkossa ja ilmaiseksi. Automaattinen laadun ja koon haku selaimessasi — ei rekisteröitymistä, ei latausta palvelimelle.",
+  "id": "/loona-image-compressor/fi/compress-image-to-500kb.html",
+  "start_url": "./compress-image-to-500kb.html",
+  "scope": "./compress-image-to-500kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

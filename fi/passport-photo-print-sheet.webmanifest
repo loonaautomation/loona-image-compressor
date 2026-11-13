@@ -1,0 +1,29 @@
+{
+  "name": "Loona Passikuvien tulostusarkki",
+  "short_name": "Passikuvien tulostusarkki",
+  "description": "Laita 4, 6 tai 8 passikuvaa yhdelle A4-tulostusarkille ilmaiseksi tarkkuudella 300 DPI. Tulosta 100 %:lla, leikkaa ohjaimia pitkin ja säästä studiorahaa. Ei rekisteröitymistä, täysin yksityinen.",
+  "id": "/loona-image-compressor/fi/passport-photo-print-sheet.html",
+  "start_url": "./passport-photo-print-sheet.html",
+  "scope": "./passport-photo-print-sheet.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

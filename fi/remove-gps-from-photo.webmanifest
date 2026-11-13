@@ -1,0 +1,29 @@
+{
+  "name": "Loona Poista GPS kuvasta",
+  "short_name": "Poista GPS kuvasta",
+  "description": "Poista vain GPS-sijainti JPG-, PNG- tai WebP-kuvasta ja säilytä kameran, päivämäärän ja valotuksen tiedot. Tavu tavulta, ei uudelleenkoodausta, varmistettu uudelleentarkistuksella — 100 % selaimessasi, mitään ei ladata palvelimelle.",
+  "id": "/loona-image-compressor/fi/remove-gps-from-photo.html",
+  "start_url": "./remove-gps-from-photo.html",
+  "scope": "./remove-gps-from-photo.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

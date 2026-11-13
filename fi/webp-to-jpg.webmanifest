@@ -1,0 +1,29 @@
+{
+  "name": "Loona WebP-JPG-muunnin",
+  "short_name": "WebP-JPG-muunnin",
+  "description": "Muunna WebP JPG:ksi verkossa ilmaiseksi, jotta kuvasi avautuvat jokaisessa sovelluksessa, lomakkeessa ja vanhemmassa laitteessa. Selainpohjainen — ei rekisteröitymistä, ei latausta palvelimelle, ei vesileimaa.",
+  "id": "/loona-image-compressor/fi/webp-to-jpg.html",
+  "start_url": "./webp-to-jpg.html",
+  "scope": "./webp-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

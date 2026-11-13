@@ -1,0 +1,29 @@
+{
+  "name": "Loona Passikokoisten kuvien tekijä",
+  "short_name": "Passikokoisten kuvien tekijä",
+  "description": "Tee passikokoinen kuva verkossa ilmaiseksi: rajaa mikä tahansa kuva kokoon 35×45 mm tai 2×2 tuumaa tulostusvalmiilla tarkkuudella 300 DPI. Ei rekisteröitymistä, ei vesileimaa, täysin yksityinen.",
+  "id": "/loona-image-compressor/fi/passport-photo-maker.html",
+  "start_url": "./passport-photo-maker.html",
+  "scope": "./passport-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

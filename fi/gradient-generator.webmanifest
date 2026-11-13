@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSS-liukuvärigeneraattori",
+  "short_name": "CSS-liukuvärigeneraattori",
+  "description": "Rakenna CSS-lineaarisia liukuvärejä kahdella tai kolmella värillä ja millä tahansa kulmalla, esikatsele ne reaaliajassa ja kopioi valmis CSS-koodi. Ilmaiseksi, ei rekisteröitymistä.",
+  "id": "/loona-image-compressor/fi/gradient-generator.html",
+  "start_url": "./gradient-generator.html",
+  "scope": "./gradient-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

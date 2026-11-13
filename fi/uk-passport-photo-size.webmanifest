@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ison-Britannian passikuva koko",
+  "short_name": "Ison-Britannian passikuva koko",
+  "description": "Tee Ison-Britannian passikuva virallisessa koossa 35×45 mm (600×750 px), taustana tavallinen vaaleanharmaa tai kerma. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
+  "id": "/loona-image-compressor/fi/uk-passport-photo-size.html",
+  "start_url": "./uk-passport-photo-size.html",
+  "scope": "./uk-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
