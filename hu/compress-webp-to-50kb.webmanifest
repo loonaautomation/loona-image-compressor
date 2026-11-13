@@ -1,0 +1,29 @@
+{
+  "name": "Loona A WebP tömörítése 50 KB-ra online",
+  "short_name": "A WebP tömörítése 50 KB-ra",
+  "description": "Tömörítsen egy WebP képet 50 KB-ra vagy az alá, ingyen, a böngészőjében. Az automatikus keresés megtalálja a legjobb beleférő minőséget — regisztráció és feltöltés nélkül.",
+  "id": "/loona-image-compressor/hu/compress-webp-to-50kb.html",
+  "start_url": "./compress-webp-to-50kb.html",
+  "scope": "./compress-webp-to-50kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

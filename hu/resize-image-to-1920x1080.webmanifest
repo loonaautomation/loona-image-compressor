@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kép átméretezése 1920 × 1080 méretre",
+  "short_name": "Kép átméretezése 1920 × 1080",
+  "description": "Méretezzen át bármilyen képet pontosan 1920 × 1080 pixelre (Full HD képernyők, asztali háttérképek és YouTube-végképernyők) ingyen. Befedés, befoglalás vagy nyújtás, JPG vagy PNG, azonnali letöltés — regisztráció nélkül, semmi feltöltve.",
+  "id": "/loona-image-compressor/hu/resize-image-to-1920x1080.html",
+  "start_url": "./resize-image-to-1920x1080.html",
+  "scope": "./resize-image-to-1920x1080.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

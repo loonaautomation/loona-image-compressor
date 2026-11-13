@@ -1,0 +1,29 @@
+{
+  "name": "Loona SBI PO Aláírás méret",
+  "short_name": "SBI PO Aláírás méret",
+  "description": "Méretezze át a SBI PO aláírás fájlját a kiírás szerinti méretre (140 × 60 px) és a 10–20 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
+  "id": "/loona-image-compressor/hu/sbi-po-signature-size.html",
+  "start_url": "./sbi-po-signature-size.html",
+  "scope": "./sbi-po-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

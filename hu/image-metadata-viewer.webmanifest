@@ -1,0 +1,29 @@
+{
+  "name": "Loona Képmetaadat- és EXIF-megjelenítő",
+  "short_name": "Képmetaadat- és",
+  "description": "Tekintse meg bármely JPG, PNG vagy WebP fotó rejtett metaadatait online ingyen — a kamera gyártója és modellje, a felvételi dátum, expozíció, ISO, gyújtótávolság, GPS-hely, IPTC és XMP alapok. Semmi nem töltődik fel: a fotója soha nem hagyja el az eszközét.",
+  "id": "/loona-image-compressor/hu/image-metadata-viewer.html",
+  "start_url": "./image-metadata-viewer.html",
+  "scope": "./image-metadata-viewer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Útlevélfotó-nyomtatólap",
+  "short_name": "Útlevélfotó-nyomtatólap",
+  "description": "Tegyen 4, 6 vagy 8 útlevélfotót egy A4-es nyomtatólapra ingyen 300 DPI mellett. Nyomtasson 100%-ban, vágjon a vezetők mentén, és takarítson meg stúdiópénzt. Regisztráció nélkül, teljesen privát.",
+  "id": "/loona-image-compressor/hu/passport-photo-print-sheet.html",
+  "start_url": "./passport-photo-print-sheet.html",
+  "scope": "./passport-photo-print-sheet.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

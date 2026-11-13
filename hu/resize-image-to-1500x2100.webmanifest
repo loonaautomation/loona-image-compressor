@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kép átméretezése 1500 × 2100 px méretre online",
+  "short_name": "Kép átméretezése 1500 × 2100",
+  "description": "Méretezzen át bármely képet pontosan 1500×2100 px méretre — 5 × 7 hüvelykes fotónyomat 300 DPI mellett. Ingyen, a böngészőjében, vágási vezérléssel; feltöltés és regisztráció nélkül.",
+  "id": "/loona-image-compressor/hu/resize-image-to-1500x2100.html",
+  "start_url": "./resize-image-to-1500x2100.html",
+  "scope": "./resize-image-to-1500x2100.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

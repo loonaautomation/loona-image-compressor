@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kép átméretezése",
+  "short_name": "Kép átméretezése",
+  "description": "Méretezzen át bármilyen képet pixelek, cm vagy hüvelyk szerint, DPI-beállítással ingyen. Tartsa meg a képarányt, válasszon JPG-t, PNG-t vagy WebP-t, és töltsön le azonnal — regisztráció nem szükséges.",
+  "id": "/loona-image-compressor/hu/resize-image.html",
+  "start_url": "./resize-image.html",
+  "scope": "./resize-image.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

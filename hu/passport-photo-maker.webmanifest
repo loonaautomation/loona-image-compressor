@@ -1,0 +1,29 @@
+{
+  "name": "Loona Útlevélméret-fotókészítő",
+  "short_name": "Útlevélméret-fotókészítő",
+  "description": "Készítsen útlevélméretű fotót online ingyen: vágjon bármely fotót 35×45 mm-re vagy 2×2 hüvelykre nyomtatásra kész 300 DPI mellett. Regisztráció nélkül, vízjel nélkül, teljesen privát.",
+  "id": "/loona-image-compressor/hu/passport-photo-maker.html",
+  "start_url": "./passport-photo-maker.html",
+  "scope": "./passport-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mémgenerátor",
+  "short_name": "Mémgenerátor",
+  "description": "Alakítson bármely fotót klasszikus mémmé félkövér felső és alsó szöveggel — ingyenes online mémgenerátor élő előnézettel, sima háttér opciókkal és PNG-letöltéssel. Regisztráció nélkül, és a képe soha nem hagyja el az eszközét.",
+  "id": "/loona-image-compressor/hu/meme-generator.html",
+  "start_url": "./meme-generator.html",
+  "scope": "./meme-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

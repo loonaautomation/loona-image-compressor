@@ -1,0 +1,29 @@
+{
+  "name": "Loona RRB Group D (Railways) Aláírás méret",
+  "short_name": "RRB Group D (Railways)",
+  "description": "Méretezze át a RRB Group D (Railways) aláírás fájlját a kiírás szerinti méretre (140 × 60 px) és a 10–40 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
+  "id": "/loona-image-compressor/hu/rrb-group-d-signature-size.html",
+  "start_url": "./rrb-group-d-signature-size.html",
+  "scope": "./rrb-group-d-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

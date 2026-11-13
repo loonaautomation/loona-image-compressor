@@ -1,0 +1,29 @@
+{
+  "name": "Loona Vizsgafotó névvel és dátummal",
+  "short_name": "Vizsgafotó névvel és dátummal",
+  "description": "Készítsen vizsgafotót a nevével és a dátummal alulra nyomtatva ingyen — a Pakisztánban és Indiában használt táblavizsga-formátum. Privát, regisztráció nem szükséges.",
+  "id": "/loona-image-compressor/hu/exam-photo-name-date.html",
+  "start_url": "./exam-photo-name-date.html",
+  "scope": "./exam-photo-name-date.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

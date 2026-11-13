@@ -1,0 +1,29 @@
+{
+  "name": "Loona Színpaletta-generátor",
+  "short_name": "Színpaletta-generátor",
+  "description": "Generáljon harmonikus színpalettákat bármilyen alapszínből — analóg, komplementer, triád és monokromatikus sémák másolható HEX kódokkal. Ingyen, regisztráció nélkül.",
+  "id": "/loona-image-compressor/hu/color-palette-generator.html",
+  "start_url": "./color-palette-generator.html",
+  "scope": "./color-palette-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

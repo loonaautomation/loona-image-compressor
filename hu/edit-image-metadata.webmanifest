@@ -1,0 +1,29 @@
+{
+  "name": "Loona EXIF-szerkesztő",
+  "short_name": "EXIF-szerkesztő",
+  "description": "Szerkessze egy JPG fotó EXIF-adatait online ingyen — javítsa a felvételi dátumot, adja meg a nevét művészként, állítsa be a szerzői jogot, a kamera gyártóját és modelljét, vagy hozzon létre EXIF-et egy olyan fotón, amelyen nincs. A pixelek soha nem kódolódnak újra, és semmi nem töltődik fel.",
+  "id": "/loona-image-compressor/hu/edit-image-metadata.html",
+  "start_url": "./edit-image-metadata.html",
+  "scope": "./edit-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

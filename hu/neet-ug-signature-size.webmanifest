@@ -1,0 +1,29 @@
+{
+  "name": "Loona NEET UG Aláírás méret",
+  "short_name": "NEET UG Aláírás méret",
+  "description": "Méretezze át a NEET UG aláírás fájlját a kiírás szerinti méretre (szkennelt mező, kb. 7:2 arány) és a 4–30 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
+  "id": "/loona-image-compressor/hu/neet-ug-signature-size.html",
+  "start_url": "./neet-ug-signature-size.html",
+  "scope": "./neet-ug-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

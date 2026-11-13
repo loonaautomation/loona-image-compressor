@@ -1,0 +1,29 @@
+{
+  "name": "Loona Instagram Reels-borító méret",
+  "short_name": "Instagram Reels-borító méret",
+  "description": "Készítsen Instagram reels-borító képet pontosan 1080×1920 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
+  "id": "/loona-image-compressor/hu/instagram-reels-cover-size.html",
+  "start_url": "./instagram-reels-cover-size.html",
+  "scope": "./instagram-reels-cover-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
