@@ -1,0 +1,29 @@
+{
+  "name": "Loona Αλλαγή Μεγέθους Εικόνας σε 1080 × 1080",
+  "short_name": "Αλλαγή Μεγέθους Εικόνας σε",
+  "description": "Αλλάξτε το μέγεθος οποιασδήποτε εικόνας σε ακριβώς 1080 × 1080 pixel (αναρτήσεις τετραγώνου Instagram και φωτογραφίες προφίλ) δωρεάν. Κάλυψη, περιέχει ή τέντωμα, JPG ή PNG, λήψη αμέσως — χωρίς εγγραφή, τίποτα δεν μεταφορτώνεται.",
+  "id": "/loona-image-compressor/el/resize-image-to-1080x1080.html",
+  "start_url": "./resize-image-to-1080x1080.html",
+  "scope": "./resize-image-to-1080x1080.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

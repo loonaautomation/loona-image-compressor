@@ -1,0 +1,29 @@
+{
+  "name": "Loona Αφαίρεση GPS από Φωτογραφία",
+  "short_name": "Αφαίρεση GPS από Φωτογραφία",
+  "description": "Αφαιρέστε μόνο την τοποθεσία GPS από μια φωτογραφία JPG, PNG ή WebP και κρατήστε τα δεδομένα κάμερας, ημερομηνίας και έκθεσης. Byte προς byte, χωρίς επανακωδικοποίηση, επαληθευμένο με επανέλεγχο — 100% στο πρόγραμμα περιήγησής σας, τίποτα δεν μεταφορτώνεται.",
+  "id": "/loona-image-compressor/el/remove-gps-from-photo.html",
+  "start_url": "./remove-gps-from-photo.html",
+  "scope": "./remove-gps-from-photo.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

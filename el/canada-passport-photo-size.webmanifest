@@ -1,0 +1,29 @@
+{
+  "name": "Loona Φωτογραφία Διαβατηρίου Καναδά",
+  "short_name": "Φωτογραφία Διαβατηρίου Καναδά",
+  "description": "Δημιουργήστε Φωτογραφία Διαβατηρίου Καναδά στο επίσημο μέγεθος 50×70 mm (591×827 px), φόντο απλό λευκό ή ανοιχτόχρωμο. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
+  "id": "/loona-image-compressor/el/canada-passport-photo-size.html",
+  "start_url": "./canada-passport-photo-size.html",
+  "scope": "./canada-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Συμπίεση WebP σε 500 KB Online",
+  "short_name": "Συμπίεση WebP σε 500 KB Online",
+  "description": "Συμπιέστε μια εικόνα WebP σε 500 KB ή λιγότερο, δωρεάν στο πρόγραμμα περιήγησής σας. Η αυτόματη αναζήτηση βρίσκει την καλύτερη ποιότητα που χωράει — χωρίς εγγραφή, χωρίς μεταφόρτωση.",
+  "id": "/loona-image-compressor/el/compress-webp-to-500kb.html",
+  "start_url": "./compress-webp-to-500kb.html",
+  "scope": "./compress-webp-to-500kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Φωτογραφία Βίζας Σένγκεν",
+  "short_name": "Φωτογραφία Βίζας Σένγκεν",
+  "description": "Δημιουργήστε Φωτογραφία Βίζας Σένγκεν στο επίσημο μέγεθος 35×45 mm (413×531 px), φόντο ανοιχτό γκρι ή απλό ανοιχτό φόντο. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
+  "id": "/loona-image-compressor/el/schengen-visa-photo-size.html",
+  "start_url": "./schengen-visa-photo-size.html",
+  "scope": "./schengen-visa-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

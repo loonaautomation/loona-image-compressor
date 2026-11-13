@@ -1,0 +1,29 @@
+{
+  "name": "Loona Μεγέθη Φωτογραφιών Διαβατηρίου &amp; Βίζας ανά Χώρα",
+  "short_name": "Μεγέθη Φωτογραφιών",
+  "description": "Επίσημα μεγέθη φωτογραφιών διαβατηρίου, βίζας και ταυτότητας για 40 χώρες και έγγραφα, το καθένα με εργαλείο δημιουργίας στο ακριβές μέγεθος σε χιλιοστά και pixel.",
+  "id": "/loona-image-compressor/el/passport-photo-sizes.html",
+  "start_url": "./passport-photo-sizes.html",
+  "scope": "./passport-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Γεννήτρια Παλέτας Χρωμάτων",
+  "short_name": "Γεννήτρια Παλέτας Χρωμάτων",
+  "description": "Δημιουργήστε αρμονικές παλέτες χρωμάτων από οποιοδήποτε βασικό χρώμα — ανάλογα, συμπληρωματικά, τριαδικά και μονοχρωματικά σχήματα με κωδικούς HEX που αντιγράφονται. Δωρεάν, χωρίς εγγραφή.",
+  "id": "/loona-image-compressor/el/color-palette-generator.html",
+  "start_url": "./color-palette-generator.html",
+  "scope": "./color-palette-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

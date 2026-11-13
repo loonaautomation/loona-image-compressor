@@ -1,0 +1,29 @@
+{
+  "name": "Loona Φωτογραφία Κάρτας PAN Ινδίας",
+  "short_name": "Φωτογραφία Κάρτας PAN Ινδίας",
+  "description": "Δημιουργήστε Φωτογραφία Κάρτας PAN Ινδίας στο επίσημο μέγεθος 25×35 mm (295×413 px), φόντο απλό λευκό. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
+  "id": "/loona-image-compressor/el/india-pan-card-photo-size.html",
+  "start_url": "./india-pan-card-photo-size.html",
+  "scope": "./india-pan-card-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

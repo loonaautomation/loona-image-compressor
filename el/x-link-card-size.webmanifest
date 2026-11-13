@@ -1,0 +1,29 @@
+{
+  "name": "Loona Εικόνα Κάρτας Συνδέσμου X (Twitter)",
+  "short_name": "Εικόνα Κάρτας Συνδέσμου X",
+  "description": "Δημιουργήστε ένα εικόνα κάρτας συνδέσμου X (Twitter) σε ακριβώς 1200×628 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
+  "id": "/loona-image-compressor/el/x-link-card-size.html",
+  "start_url": "./x-link-card-size.html",
+  "scope": "./x-link-card-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

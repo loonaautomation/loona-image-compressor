@@ -1,0 +1,29 @@
+{
+  "name": "Loona Υπογραφή JEE Main",
+  "short_name": "Υπογραφή JEE Main",
+  "description": "Αλλάξτε το μέγεθος της υπογραφή JEE Main στο μέγεθος της προκήρυξης (σαρωμένο πλαίσιο, αναλογία περίπου 7:2) και στη ζώνη 4–30 KB. Δωρεάν, στο πρόγραμμα περιήγησής σας — χωρίς μεταφόρτωση, χωρίς εγγραφή.",
+  "id": "/loona-image-compressor/el/jee-main-signature-size.html",
+  "start_url": "./jee-main-signature-size.html",
+  "scope": "./jee-main-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

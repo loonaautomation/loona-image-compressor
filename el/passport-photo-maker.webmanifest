@@ -1,0 +1,29 @@
+{
+  "name": "Loona Δημιουργός Φωτογραφιών Μεγέθους Διαβατηρίου",
+  "short_name": "Δημιουργός Φωτογραφιών",
+  "description": "Φτιάξτε μια φωτογραφία μεγέθους διαβατηρίου διαδικτυακά δωρεάν: περικόψτε οποιαδήποτε φωτογραφία σε 35×45 mm ή 2×2 inch σε 300 DPI έτοιμα για εκτύπωση. Χωρίς εγγραφή, χωρίς υδατογράφημα, πλήρως ιδιωτικό.",
+  "id": "/loona-image-compressor/el/passport-photo-maker.html",
+  "start_url": "./passport-photo-maker.html",
+  "scope": "./passport-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

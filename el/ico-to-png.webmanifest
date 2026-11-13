@@ -1,0 +1,29 @@
+{
+  "name": "Loona Μετατροπέας ICO σε PNG",
+  "short_name": "Μετατροπέας ICO σε PNG",
+  "description": "Μετατρέψτε ICO σε PNG online, δωρεάν, στο πρόγραμμα περιήγησής σας. Πραγματική μετατροπή στη συσκευή σας — χωρίς μεταφόρτωση, χωρίς εγγραφή, χωρίς υδατογραφήματα.",
+  "id": "/loona-image-compressor/el/ico-to-png.html",
+  "start_url": "./ico-to-png.html",
+  "scope": "./ico-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Αφαίρεση Μεταδεδομένων Εικόνας",
+  "short_name": "Αφαίρεση Μεταδεδομένων Εικόνας",
+  "description": "Αφαιρέστε μεταδεδομένα EXIF, τοποθεσία GPS, XMP και IPTC από φωτογραφίες JPG, PNG και WebP διαδικτυακά δωρεάν. Αφαίρεση σε επίπεδο byte — τα pixel δεν επανακωδικοποιούνται ποτέ, οπότε η ποιότητα είναι ανέπαφη. Επαληθευμένο με επανέλεγχο, 100% ιδιωτικό στο πρόγραμμα περιήγησής σας.",
+  "id": "/loona-image-compressor/el/remove-image-metadata.html",
+  "start_url": "./remove-image-metadata.html",
+  "scope": "./remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Φωτογραφία UPSC NDA",
+  "short_name": "Φωτογραφία UPSC NDA",
+  "description": "Αλλάξτε το μέγεθος της φωτογραφία UPSC NDA στο μέγεθος της προκήρυξης (350 × 350 px) και στη ζώνη 20–300 KB. Δωρεάν, στο πρόγραμμα περιήγησής σας — χωρίς μεταφόρτωση, χωρίς εγγραφή.",
+  "id": "/loona-image-compressor/el/upsc-nda-photo-size.html",
+  "start_url": "./upsc-nda-photo-size.html",
+  "scope": "./upsc-nda-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

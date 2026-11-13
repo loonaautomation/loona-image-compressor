@@ -1,0 +1,29 @@
+{
+  "name": "Loona Μετατροπέας SVG σε WEBP",
+  "short_name": "Μετατροπέας SVG σε WEBP",
+  "description": "Μετατρέψτε SVG σε WEBP online, δωρεάν, στο πρόγραμμα περιήγησής σας. Πραγματική μετατροπή στη συσκευή σας — χωρίς μεταφόρτωση, χωρίς εγγραφή, χωρίς υδατογραφήματα.",
+  "id": "/loona-image-compressor/el/svg-to-webp.html",
+  "start_url": "./svg-to-webp.html",
+  "scope": "./svg-to-webp.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

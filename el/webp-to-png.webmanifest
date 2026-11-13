@@ -1,0 +1,29 @@
+{
+  "name": "Loona Μετατροπέας WebP σε PNG",
+  "short_name": "Μετατροπέας WebP σε PNG",
+  "description": "Μετατρέψτε WebP σε PNG διαδικτυακά δωρεάν — PNG χωρίς απώλειες με διαφάνεια για επεξεργαστές και εργαλεία σχεδίασης. Τρέχει στο πρόγραμμα περιήγησής σας, χωρίς εγγραφή, χωρίς μεταφόρτωση.",
+  "id": "/loona-image-compressor/el/webp-to-png.html",
+  "start_url": "./webp-to-png.html",
+  "scope": "./webp-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Εικόνα Ανάρτησης (16",
+  "short_name": "Εικόνα Ανάρτησης (16",
+  "description": "Δημιουργήστε ένα εικόνα ανάρτησης (16:9) X (Twitter) σε ακριβώς 1600×900 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
+  "id": "/loona-image-compressor/el/x-post-image-size.html",
+  "start_url": "./x-post-image-size.html",
+  "scope": "./x-post-image-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

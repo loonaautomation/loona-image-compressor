@@ -1,0 +1,29 @@
+{
+  "name": "Loona Επεξεργαστής EXIF",
+  "short_name": "Επεξεργαστής EXIF",
+  "description": "Επεξεργαστείτε τα δεδομένα EXIF μιας φωτογραφίας JPG διαδικτυακά δωρεάν — διορθώστε την ημερομηνία λήψης, προσθέστε το όνομά σας ως καλλιτέχνη, ορίστε πνευματικά δικαιώματα, μάρκα και μοντέλο κάμερας, ή δημιουργήστε EXIF σε μια φωτογραφία που δεν έχει κανένα. Τα pixel δεν επανακωδικοποιούνται ποτέ και τίποτα δεν μεταφορτώνεται.",
+  "id": "/loona-image-compressor/el/edit-image-metadata.html",
+  "start_url": "./edit-image-metadata.html",
+  "scope": "./edit-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

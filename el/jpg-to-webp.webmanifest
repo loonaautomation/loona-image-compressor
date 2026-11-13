@@ -1,0 +1,29 @@
+{
+  "name": "Loona Μετατροπέας JPG σε WebP",
+  "short_name": "Μετατροπέας JPG σε WebP",
+  "description": "Μετατρέψτε JPG σε WebP διαδικτυακά δωρεάν και συρρικνώστε εικόνες ιστοσελίδων κατά 25–40% στην ίδια ποιότητα. Στο πρόγραμμα περιήγησής σας — χωρίς εγγραφή, χωρίς μεταφόρτωση, χωρίς υδατογράφημα.",
+  "id": "/loona-image-compressor/el/jpg-to-webp.html",
+  "start_url": "./jpg-to-webp.html",
+  "scope": "./jpg-to-webp.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
