@@ -1,0 +1,29 @@
+{
+  "name": "Loona İmza Arka Planı Kaldırıcı",
+  "short_name": "İmza Arka Planı Kaldırıcı",
+  "description": "Bir imza veya mühür fotoğrafının kâğıt arka planını kaldırın ve şeffaf bir PNG indirin, çevrimiçi ve ücretsiz. Tamamen tarayıcıda çalışan canvas aracı — yapay zekâ yok, yükleme yok, kayıt yok.",
+  "id": "/loona-image-compressor/tr/signature-background-remover.html",
+  "start_url": "./signature-background-remover.html",
+  "scope": "./signature-background-remover.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
