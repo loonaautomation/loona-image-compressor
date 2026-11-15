@@ -331,5 +331,14 @@
   "k": "svg 轉 jpg 轉換器 將 svg 向量渲染為通用的 jpg",
   "p": 136,
   "c": "Tool"
+ },
+ {
+  "n": "HEIC 轉 JPG 轉換器",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/zh-hant/heic-to-jpg-converter.html",
+  "s": "Loona Image Compressor",
+  "d": "將 iPhone HEIC 照片轉換為隨處可開啟的 JPG。",
+  "k": "heic 轉 jpg 轉換器 將 iphone heic 照片轉換為隨處可開啟的 jpg",
+  "p": 137,
+  "c": "Tool"
  }
 ]
