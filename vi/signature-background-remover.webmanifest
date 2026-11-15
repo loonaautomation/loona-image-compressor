@@ -1,0 +1,29 @@
+{
+  "name": "Loona Công cụ xóa nền chữ ký",
+  "short_name": "Công cụ xóa nền chữ ký",
+  "description": "Xóa nền giấy khỏi ảnh chữ ký hoặc con dấu và tải xuống PNG trong suốt, miễn phí trực tuyến. Công cụ canvas thuần trình duyệt — không AI, không tải lên, không cần đăng ký.",
+  "id": "/loona-image-compressor/vi/signature-background-remover.html",
+  "start_url": "./signature-background-remover.html",
+  "scope": "./signature-background-remover.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
