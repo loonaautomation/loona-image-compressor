@@ -1,0 +1,29 @@
+{
+  "name": "Loona 서명 배경 제거 도구",
+  "short_name": "서명 배경 제거 도구",
+  "description": "서명이나 도장 사진에서 종이 배경을 제거하고 투명 PNG를 무료로 다운로드하세요. 순수 브라우저 캔버스 도구 — AI 없음, 업로드 없음, 가입 없음.",
+  "id": "/loona-image-compressor/ko/signature-background-remover.html",
+  "start_url": "./signature-background-remover.html",
+  "scope": "./signature-background-remover.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
