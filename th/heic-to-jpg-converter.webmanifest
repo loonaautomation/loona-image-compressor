@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวแปลง HEIC เป็น JPG",
+  "short_name": "ตัวแปลง HEIC เป็น JPG",
+  "description": "แปลง HEIC เป็น JPG ออนไลน์ ฟรี ในเบราว์เซอร์ของคุณ เปลี่ยนรูปภาพ HEIC จาก iPhone ให้เป็น JPG ที่เปิดได้ทุกที่ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ",
+  "id": "/loona-image-compressor/th/heic-to-jpg-converter.html",
+  "start_url": "./heic-to-jpg-converter.html",
+  "scope": "./heic-to-jpg-converter.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
