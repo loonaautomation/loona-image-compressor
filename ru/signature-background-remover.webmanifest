@@ -1,0 +1,29 @@
+{
+  "name": "Loona Удаление фона подписи",
+  "short_name": "Удаление фона подписи",
+  "description": "Удалите бумажный фон с фотографии подписи или печати и скачайте прозрачный PNG бесплатно онлайн. Чисто браузерный инструмент на холсте — без ИИ, без загрузки, без регистрации.",
+  "id": "/loona-image-compressor/ru/signature-background-remover.html",
+  "start_url": "./signature-background-remover.html",
+  "scope": "./signature-background-remover.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
