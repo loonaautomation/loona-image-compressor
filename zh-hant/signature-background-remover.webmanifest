@@ -1,0 +1,29 @@
+{
+  "name": "Loona 簽名背景去除工具",
+  "short_name": "簽名背景去除工具",
+  "description": "去除簽名或印章照片的紙張背景，免費線上下載透明 PNG。純瀏覽器畫布工具——無人工智慧、無需上傳、無需註冊。",
+  "id": "/loona-image-compressor/zh-hant/signature-background-remover.html",
+  "start_url": "./signature-background-remover.html",
+  "scope": "./signature-background-remover.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
