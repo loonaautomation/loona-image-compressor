@@ -1,0 +1,29 @@
+{
+  "name": "Loona HEIC in JPG Konverter",
+  "short_name": "HEIC in JPG Konverter",
+  "description": "Konvertieren Sie HEIC online, kostenlos und in Ihrem Browser in JPG. Verwandeln Sie iPhone-HEIC-Fotos in JPGs, die sich überall öffnen — ohne Upload, ohne Anmeldung, ohne Wasserzeichen.",
+  "id": "/loona-image-compressor/de/heic-to-jpg-converter.html",
+  "start_url": "./heic-to-jpg-converter.html",
+  "scope": "./heic-to-jpg-converter.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
