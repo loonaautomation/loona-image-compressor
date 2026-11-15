@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kiondoa Mandharinyuma ya Sahihi",
+  "short_name": "Kiondoa Mandharinyuma ya Sahihi",
+  "description": "Ondoa mandharinyuma ya karatasi kutoka kwenye picha ya sahihi au muhuri na upakue PNG yenye uwazi, bure mtandaoni. Zana ya canvas ya kivinjari tupu — hakuna AI, hakuna upakiaji, hakuna kujisajili.",
+  "id": "/loona-image-compressor/sw/signature-background-remover.html",
+  "start_url": "./signature-background-remover.html",
+  "scope": "./signature-background-remover.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
