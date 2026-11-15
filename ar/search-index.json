@@ -331,5 +331,14 @@
   "k": "svg to jpg converter svg to jpg عرض متجهات svg كملفات jpg عالمية",
   "p": 136,
   "c": "Tool"
+ },
+ {
+  "n": "محوّل HEIC إلى JPG",
+  "u": "https://loonaautomation.github.io/loona-image-compressor/ar/heic-to-jpg-converter.html",
+  "s": "Loona Image Compressor",
+  "d": "حوّل صور HEIC من iPhone إلى JPG يفتح في كل مكان.",
+  "k": "heic to jpg converter heic to jpg حوّل صور heic من iphone إلى jpg يفتح في كل مكان",
+  "p": 137,
+  "c": "Tool"
  }
 ]
