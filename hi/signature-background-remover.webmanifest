@@ -1,0 +1,29 @@
+{
+  "name": "Loona हस्ताक्षर बैकग्राउंड रिमूवर",
+  "short_name": "हस्ताक्षर बैकग्राउंड रिमूवर",
+  "description": "हस्ताक्षर या मोहर की फ़ोटो से काग़ज़ का बैकग्राउंड हटाएँ और पारदर्शी PNG डाउनलोड करें, ऑनलाइन मुफ़्त। शुद्ध ब्राउज़र कैनवस टूल, न AI, न अपलोड, न साइनअप।",
+  "id": "/loona-image-compressor/hi/signature-background-remover.html",
+  "start_url": "./signature-background-remover.html",
+  "scope": "./signature-background-remover.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
