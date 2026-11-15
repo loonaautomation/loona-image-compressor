@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rimozione sfondo firma",
+  "short_name": "Rimozione sfondo firma",
+  "description": "Rimuovi lo sfondo di carta dalla foto di una firma o di un timbro e scarica un PNG trasparente, gratis online. Strumento canvas puro nel browser: niente IA, nessun caricamento, nessuna registrazione.",
+  "id": "/loona-image-compressor/it/signature-background-remover.html",
+  "start_url": "./signature-background-remover.html",
+  "scope": "./signature-background-remover.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
