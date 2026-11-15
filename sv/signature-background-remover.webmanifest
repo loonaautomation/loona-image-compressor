@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bakgrundsborttagare för signaturer",
+  "short_name": "Bakgrundsborttagare för signaturer",
+  "description": "Ta bort pappersbakgrunden från ett foto av en signatur eller stämpel och ladda ner en transparent PNG, gratis online. Rent canvasverktyg i webbläsaren – ingen AI, ingen uppladdning, ingen registrering.",
+  "id": "/loona-image-compressor/sv/signature-background-remover.html",
+  "start_url": "./signature-background-remover.html",
+  "scope": "./signature-background-remover.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
