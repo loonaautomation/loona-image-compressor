@@ -331,5 +331,14 @@
     "k": "svg to jpg converter svg to jpg svg vektorlerini evrensel jpg ler olarak isleyin",
     "p": 136,
     "c": "Tool"
+  },
+  {
+    "n": "HEIC'den JPG'ye Dönüştürücü",
+    "u": "https://loonaautomation.github.io/loona-image-compressor/tr/heic-to-jpg-converter.html",
+    "s": "Loona Image Compressor",
+    "d": "iPhone HEIC fotoğraflarını her yerde açılan JPG'ye çevirin.",
+    "k": "heic to jpg converter heic to jpg iphone heic fotograflarini her yerde acilan jpg ye cevirin",
+    "p": 137,
+    "c": "Tool"
   }
 ]
