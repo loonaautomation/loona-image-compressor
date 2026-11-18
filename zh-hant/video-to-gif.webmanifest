@@ -1,0 +1,29 @@
+{
+  "name": "Loona Video to GIF Converter",
+  "short_name": "Video to GIF Converter",
+  "description": "免費線上將影片轉換為 GIF — 將 MP4 或 WebM 片段變成動畫 GIF。基於瀏覽器，無需註冊，無需上傳，無浮水印。",
+  "id": "/loona-image-compressor/zh-hant/video-to-gif.html",
+  "start_url": "./video-to-gif.html",
+  "scope": "./video-to-gif.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
