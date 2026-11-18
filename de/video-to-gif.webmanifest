@@ -1,0 +1,29 @@
+{
+  "name": "Loona Video to GIF Converter",
+  "short_name": "Video-zu-GIF-Konverter",
+  "description": "Konvertieren Sie Videos online kostenlos in GIF: Verwandeln Sie einen MP4- oder WebM-Clip in ein animiertes GIF. Browserbasiert, ohne Anmeldung, ohne Upload, ohne Wasserzeichen.",
+  "id": "/loona-image-compressor/de/video-to-gif.html",
+  "start_url": "./video-to-gif.html",
+  "scope": "./video-to-gif.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
