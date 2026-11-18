@@ -1,0 +1,29 @@
+{
+  "name": "Loona GIF Maker",
+  "short_name": "GIF Maker",
+  "description": "Loona GIF Maker کے ساتھ آن لائن مفت متحرک GIFs بنائیں — اپنی تصاویر سے لوپنگ GIF۔ براؤزر پر مبنی، نہ سائن اپ، نہ اپ لوڈ، نہ واٹر مارک۔",
+  "id": "/loona-image-compressor/ur/gif-maker.html",
+  "start_url": "./gif-maker.html",
+  "scope": "./gif-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
