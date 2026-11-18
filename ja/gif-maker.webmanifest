@@ -1,0 +1,29 @@
+{
+  "name": "Loona GIF Maker",
+  "short_name": "GIF Maker",
+  "description": "Loona GIF MakerでアニメーションGIFをオンラインで無料作成 — 写真を組み合わせてループするGIFに。ブラウザベース、登録不要、アップロード不要、透かしなし。",
+  "id": "/loona-image-compressor/ja/gif-maker.html",
+  "start_url": "./gif-maker.html",
+  "scope": "./gif-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

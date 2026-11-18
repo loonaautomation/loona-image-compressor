@@ -1,0 +1,29 @@
+{
+  "name": "Loona GIF Maker",
+  "short_name": "GIF Maker",
+  "description": "Loona GIF Maker로 애니메이션 GIF를 온라인에서 무료로 만드세요 — 사진을 반복 재생되는 GIF로 결합하세요. 브라우저 기반, 회원가입 없음, 업로드 없음, 워터마크 없음.",
+  "id": "/loona-image-compressor/ko/gif-maker.html",
+  "start_url": "./gif-maker.html",
+  "scope": "./gif-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
