@@ -1,0 +1,29 @@
+{
+  "name": "Loona GIF Maker",
+  "short_name": "GIF Maker",
+  "description": "Create animated GIFs online for free with Loona GIF Maker — combine your photos into a looping GIF. Browser-based, no signup, no upload, no watermark.",
+  "id": "/loona-image-compressor/en-gb/gif-maker.html",
+  "start_url": "./gif-maker.html",
+  "scope": "./gif-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
