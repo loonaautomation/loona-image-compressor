@@ -1,0 +1,29 @@
+{
+  "name": "Loona Video to GIF Converter",
+  "short_name": "Video to GIF Converter",
+  "description": "Konvertér video til GIF online gratis — lav et MP4- eller WebM-klip om til en animeret GIF. Browserbaseret, ingen tilmelding, ingen upload, intet vandmærke.",
+  "id": "/loona-image-compressor/da/video-to-gif.html",
+  "start_url": "./video-to-gif.html",
+  "scope": "./video-to-gif.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
