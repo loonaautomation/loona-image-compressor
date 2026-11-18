@@ -1,0 +1,29 @@
+{
+  "name": "Loona Video to GIF Converter",
+  "short_name": "Video to GIF Converter",
+  "description": "حوّل الفيديو إلى GIF عبر الإنترنت مجانًا — حوّل مقطع MP4 أو WebM إلى صورة GIF متحركة. قائم على المتصفح، بلا تسجيل، بلا رفع، بلا علامة مائية.",
+  "id": "/loona-image-compressor/ar/video-to-gif.html",
+  "start_url": "./video-to-gif.html",
+  "scope": "./video-to-gif.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-image-compressor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-image-compressor/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
