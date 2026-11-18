@@ -1,0 +1,29 @@
+{
+ "name": "Loona Video to GIF Converter",
+ "short_name": "Video to GIF Converter",
+ "description": "Μετατρέψτε βίντεο σε GIF онлайн δωρεάν — μετατρέψτε ένα κλιπ MP4 ή WebM σε κινούμενο GIF. Βασισμένο στο πρόγραμμα περιήγησης, χωρίς εγγραφή, χωρίς μεταφόρτωση, χωρίς υδατογράφημα.",
+ "id": "/loona-image-compressor/video-to-gif.html",
+ "start_url": "./video-to-gif.html",
+ "scope": "./video-to-gif.html",
+ "display": "standalone",
+ "background_color": "#062e2a",
+ "theme_color": "#062e2a",
+ "icons": [
+  {
+   "src": "/loona-image-compressor/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/loona-image-compressor/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "/loona-image-compressor/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
