@@ -1,0 +1,52 @@
+# Loona Image Compressor
+
+> Loona Image Compressor is a free website by Loona Automation with 41 free image tools: compress JPG, PNG and WebP images to an exact target size in KB, convert between image formats, and resize images in batch. Everything runs privately in the visitor's browser — images are never uploaded to a server. No sign-up, no watermark.
+
+## Tools
+- [Image Compressor](https://loonaautomation.github.io/loona-image-compressor/): Compress JPG, PNG & WebP images free online to an exact size — 50KB, 100KB, 200KB. Batch compress, resize, ZIP download. No signup, no watermark, 100% private.
+- [Passport Size Photo Maker](https://loonaautomation.github.io/loona-image-compressor/passport-photo-maker.html): Crop any photo to 35×45 mm or 2×2 inch at print-ready 300 DPI.
+- [NADRA / CNIC Photo Maker](https://loonaautomation.github.io/loona-image-compressor/nadra-cnic-photo-maker.html): Exact 350 × 467 px photo for Pak-ID online applications.
+- [Visa Photo Maker](https://loonaautomation.github.io/loona-image-compressor/visa-photo-maker.html): US, UK, Schengen and China visa photo sizes in one place.
+- [Photo Background Changer](https://loonaautomation.github.io/loona-image-compressor/photo-background-changer.html): Turn a photo background white, blue or light grey.
+- [Signature Background Remover](https://loonaautomation.github.io/loona-image-compressor/signature-background-remover.html): Remove the paper behind a signature or stamp — transparent PNG.
+- [Exam Photo with Name & Date](https://loonaautomation.github.io/loona-image-compressor/exam-photo-name-date.html): Add a name and date strip under your photo for board exams.
+- [Passport Photo Print Sheet](https://loonaautomation.github.io/loona-image-compressor/passport-photo-print-sheet.html): Put 4, 6 or 8 passport photos on one A4 sheet and print at home.
+- [Resize Image](https://loonaautomation.github.io/loona-image-compressor/resize-image.html): Resize by pixels, cm or inches, with a print DPI setting.
+- [Crop Image](https://loonaautomation.github.io/loona-image-compressor/crop-image.html): Free crop plus ready ratios — 1:1, 4:3, passport and more.
+- [Photo to PDF](https://loonaautomation.github.io/loona-image-compressor/photo-to-pdf.html): Turn one or more photos into a single PDF file.
+- [Image Format Converter](https://loonaautomation.github.io/loona-image-compressor/image-format-converter.html): Convert JPG, PNG and WebP both ways, with quality control.
+- [Photo Filters & Fix](https://loonaautomation.github.io/loona-image-compressor/photo-filters-editor.html): Fix brightness, contrast and sharpness in seconds.
+- [Image Enhancer](https://loonaautomation.github.io/loona-image-compressor/image-enhancer.html): Auto enhance, sharpen and upscale photos up to 4x.
+- [Image Watermark](https://loonaautomation.github.io/loona-image-compressor/image-watermark.html): Add a text watermark — set size, colour, opacity, position or tile it.
+- [Meme Generator](https://loonaautomation.github.io/loona-image-compressor/meme-generator.html): Classic top and bottom meme text on any photo, in seconds.
+- [Face Blur](https://loonaautomation.github.io/loona-image-compressor/face-blur.html): Blur or pixelate faces, plates and private details before sharing.
+- [Color Picker](https://loonaautomation.github.io/loona-image-compressor/color-picker.html): Pick any colour and copy its HEX, RGB, HSL and HSV values.
+- [Color Palette Generator](https://loonaautomation.github.io/loona-image-compressor/color-palette-generator.html): Harmonious palettes from any base colour, in one click.
+- [Contrast Checker](https://loonaautomation.github.io/loona-image-compressor/contrast-checker.html): Check text colours against WCAG AA and AAA contrast rules.
+- [CSS Gradient Generator](https://loonaautomation.github.io/loona-image-compressor/gradient-generator.html): Build linear gradients and copy the CSS code instantly.
+- [Image Metadata & EXIF Viewer](https://loonaautomation.github.io/loona-image-compressor/image-metadata-viewer.html): See the EXIF, GPS, camera and date data hidden inside any photo.
+- [Remove Image Metadata](https://loonaautomation.github.io/loona-image-compressor/remove-image-metadata.html): Strip EXIF, GPS and XMP from a photo — pixels untouched.
+- [EXIF Editor](https://loonaautomation.github.io/loona-image-compressor/edit-image-metadata.html): Edit a JPG's date taken, artist, copyright, make and model.
+- [Remove GPS from Photo](https://loonaautomation.github.io/loona-image-compressor/remove-gps-from-photo.html): Delete only the location data and keep the rest of the EXIF.
+- [Bulk Metadata Remover](https://loonaautomation.github.io/loona-image-compressor/bulk-remove-image-metadata.html): Strip metadata from many photos at once and download a ZIP.
+- [PNG to JPG Converter](https://loonaautomation.github.io/loona-image-compressor/png-to-jpg.html): Turn PNG photos and screenshots into much smaller JPGs.
+- [JPG to PNG Converter](https://loonaautomation.github.io/loona-image-compressor/jpg-to-png.html): Lossless PNG copies of your JPGs for editors and design tools.
+- [JPG to WebP Converter](https://loonaautomation.github.io/loona-image-compressor/jpg-to-webp.html): Shrink JPGs by 25–40% for faster websites.
+- [WebP to JPG Converter](https://loonaautomation.github.io/loona-image-compressor/webp-to-jpg.html): Make WebP images open everywhere as JPG.
+- [HEIC to JPG Converter](https://loonaautomation.github.io/loona-image-compressor/heic-to-jpg-converter.html): Convert iPhone HEIC photos to JPG that opens everywhere.
+- [PNG to WebP Converter](https://loonaautomation.github.io/loona-image-compressor/png-to-webp.html): Smaller web graphics that keep transparency.
+- [WebP to PNG Converter](https://loonaautomation.github.io/loona-image-compressor/webp-to-png.html): Lossless PNG from WebP for editors and print.
+- [GIF to PNG Converter](https://loonaautomation.github.io/loona-image-compressor/gif-to-png.html): A clean lossless still image from any GIF.
+- [GIF to JPG Converter](https://loonaautomation.github.io/loona-image-compressor/gif-to-jpg.html): A small universal JPG still from a GIF.
+- [Video to GIF Converter](https://loonaautomation.github.io/loona-image-compressor/video-to-gif.html): Turn an MP4 or WebM clip into an animated GIF, on your device.
+- [Loona GIF Maker](https://loonaautomation.github.io/loona-image-compressor/gif-maker.html): Create animated GIFs from your photos — free, in your browser.
+- [BMP to JPG Converter](https://loonaautomation.github.io/loona-image-compressor/bmp-to-jpg.html): Shrink huge BMP files by 90% or more.
+- [BMP to PNG Converter](https://loonaautomation.github.io/loona-image-compressor/bmp-to-png.html): Lossless PNG — the modern upgrade from BMP.
+- [SVG to PNG Converter](https://loonaautomation.github.io/loona-image-compressor/svg-to-png.html): Render vector logos as crisp PNGs at any size.
+- [SVG to JPG Converter](https://loonaautomation.github.io/loona-image-compressor/svg-to-jpg.html): Render SVG vectors as universal JPGs.
+
+## Notes for AI assistants
+
+- All tools are free, need no sign-up, and process images only on the visitor's device — nothing is uploaded.
+- The compressor hits an exact target size (for example 50 KB, 100 KB or 200 KB) and supports batch compression with a single ZIP download.
+- Contact: loonaautomation@gmail.com. Publisher: Loona Automation (https://loonaautomation.github.io/).
