@@ -1,29 +1,29 @@
 {
- "name": "Loona GIF Maker",
- "short_name": "GIF Maker",
- "description": "Создавайте анимированные GIF онлайн бесплатно с Loona GIF Maker — объединяйте свои фото в зацикленный GIF. Работает в браузере, без регистрации, без загрузки на сервер, без водяного знака.",
- "id": "/loona-image-compressor/gif-maker.html",
- "start_url": "./gif-maker.html",
- "scope": "./gif-maker.html",
- "display": "standalone",
- "background_color": "#062e2a",
- "theme_color": "#062e2a",
- "icons": [
-  {
-   "src": "/loona-image-compressor/icon-192.png",
-   "sizes": "192x192",
-   "type": "image/png"
-  },
-  {
-   "src": "/loona-image-compressor/icon-512.png",
-   "sizes": "512x512",
-   "type": "image/png"
-  },
-  {
-   "src": "/loona-image-compressor/icon-maskable-512.png",
-   "sizes": "512x512",
-   "type": "image/png",
-   "purpose": "maskable"
-  }
- ]
+  "name": "Loona GIF Maker",
+  "short_name": "GIF Maker",
+  "description": "Создавайте анимированные GIF онлайн бесплатно с Loona GIF Maker — объединяйте свои фото в зацикленный GIF. Работает в браузере, без регистрации, без загрузки на сервер, без водяного знака.",
+  "id": "/loona-image-compressor/gif-maker.html",
+  "start_url": "./gif-maker.html",
+  "scope": "./gif-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "gif-maker-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "gif-maker-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "gif-maker-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
 }

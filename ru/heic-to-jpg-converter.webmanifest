@@ -1,29 +1,29 @@
 {
- "name": "Loona Конвертер HEIC в JPG",
- "short_name": "Конвертер HEIC в JPG",
- "description": "Преобразуйте HEIC в JPG онлайн, бесплатно и в вашем браузере. Превратите фото HEIC с iPhone в JPG, который открывается везде, — без загрузки на сервер, без регистрации и без водяных знаков.",
- "id": "/loona-image-compressor/ru/heic-to-jpg-converter.html",
- "start_url": "./heic-to-jpg-converter.html",
- "scope": "./heic-to-jpg-converter.html",
- "display": "standalone",
- "background_color": "#062e2a",
- "theme_color": "#062e2a",
- "icons": [
-  {
-   "src": "/loona-image-compressor/icon-192.png",
-   "sizes": "192x192",
-   "type": "image/png"
-  },
-  {
-   "src": "/loona-image-compressor/icon-512.png",
-   "sizes": "512x512",
-   "type": "image/png"
-  },
-  {
-   "src": "/loona-image-compressor/icon-maskable-512.png",
-   "sizes": "512x512",
-   "type": "image/png",
-   "purpose": "maskable"
-  }
- ]
+  "name": "Loona Конвертер HEIC в JPG",
+  "short_name": "Конвертер HEIC в JPG",
+  "description": "Преобразуйте HEIC в JPG онлайн, бесплатно и в вашем браузере. Превратите фото HEIC с iPhone в JPG, который открывается везде, — без загрузки на сервер, без регистрации и без водяных знаков.",
+  "id": "/loona-image-compressor/ru/heic-to-jpg-converter.html",
+  "start_url": "./heic-to-jpg-converter.html",
+  "scope": "./heic-to-jpg-converter.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "heic-to-jpg-converter-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "heic-to-jpg-converter-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "heic-to-jpg-converter-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
 }
