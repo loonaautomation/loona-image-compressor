@@ -166,7 +166,7 @@ $("goBtn").addEventListener("click",async function(){
 <h2>How to compress a WebP to 200 KB</h2>
 <ol>
 <li><strong>Add your image</strong> — drag it onto the box or click to browse. JPG, PNG, WebP and most other images your browser can open are accepted.</li>
-<li><strong>Press “Compress to 200 KB”</strong> — the tool searches automatically: for WebP it tries quality levels first, then dimensions until the file fits at or under 200 KB.</li>
+<li><strong>Press “Compress to 200 KB”</strong> — the search runs by itself: it tests WebP quality levels from high to low first, and trims the dimensions only if quality alone cannot fit the file, finishing at or under 200 KB. This target matters because two hundred KB is a safe harbour size: the US DS-160 visa photo must be 240 KB or less, and many national ID and licensing portals cap at 200 KB.</li>
 <li><strong>Download</strong> — the result line shows the achieved size and final dimensions before you save.</li>
 </ol>
 <h2>Who needs a WebP under 200 KB?</h2>

@@ -166,7 +166,7 @@ $("goBtn").addEventListener("click",async function(){
 <h2>How to compress a WebP to 300 KB</h2>
 <ol>
 <li><strong>Add your image</strong> — drag it onto the box or click to browse. JPG, PNG, WebP and most other images your browser can open are accepted.</li>
-<li><strong>Press “Compress to 300 KB”</strong> — the tool searches automatically: for WebP it tries quality levels first, then dimensions until the file fits at or under 300 KB.</li>
+<li><strong>Press “Compress to 300 KB”</strong> — the tool searches automatically: it tests WebP quality levels from high to low first, and trims the dimensions only if quality alone cannot fit the file, until the file fits at or under 300 KB. Context for this size: Three hundred KB is a common ceiling in UPSC-style applications (their documents band runs to 300 KB) and in university research-portal uploads.</li>
 <li><strong>Download</strong> — the result line shows the achieved size and final dimensions before you save.</li>
 </ol>
 <h2>Who needs a WebP under 300 KB?</h2>

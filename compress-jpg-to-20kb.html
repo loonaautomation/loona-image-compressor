@@ -166,7 +166,7 @@ $("goBtn").addEventListener("click",async function(){
 <h2>How to compress a JPG to 20 KB</h2>
 <ol>
 <li><strong>Add your image</strong> — drag it onto the box or click to browse. JPG, PNG, WebP and most other images your browser can open are accepted.</li>
-<li><strong>Press “Compress to 20 KB”</strong> — the tool searches automatically: for JPG it tries quality levels first, then dimensions until the file fits at or under 20 KB.</li>
+<li><strong>Press “Compress to 20 KB”</strong> — no slider-guessing: it encodes at quality levels from high to low, testing each against the limit, and shrinks the dimensions only if quality alone cannot fit the file, and the search stops as soon as the file fits at or under 20 KB. Why this size exists: Twenty KB is the classic exam-form size: SSC and several bank-exam notifications set the photograph at 20–50 KB and the signature at 10–20 KB, so a file at or under 20 KB passes both.</li>
 <li><strong>Download</strong> — the result line shows the achieved size and final dimensions before you save.</li>
 </ol>
 <h2>Who needs a JPG under 20 KB?</h2>
