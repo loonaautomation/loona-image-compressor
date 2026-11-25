@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Foto SSC CHSL",
+  "short_name": "Saiz Foto SSC CHSL",
+  "description": "Ubah saiz foto SSC CHSL anda kepada saiz pemberitahuan (200 × 230 px) dan jalur 20–50 KB. Percuma, dalam pelayar anda — tanpa muat naik, tanpa pendaftaran.",
+  "id": "/ms/ssc-chsl-photo-size.html",
+  "start_url": "./ssc-chsl-photo-size.html",
+  "scope": "./ssc-chsl-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "ssc-chsl-photo-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "ssc-chsl-photo-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "ssc-chsl-photo-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Foto Pasport Jepun",
+  "short_name": "Saiz Foto Pasport Jepun",
+  "description": "Buat Foto Pasport Jepun pada saiz rasmi 35×45 mm (413×531 px), latar belakang putih kosong atau cerah, tiada corak. Pembuat dalam talian percuma — pangkas, muat turun dan cetak helaian, tanpa muat naik.",
+  "id": "/ms/japan-passport-photo-size.html",
+  "start_url": "./japan-passport-photo-size.html",
+  "scope": "./japan-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "japan-passport-photo-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "japan-passport-photo-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "japan-passport-photo-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

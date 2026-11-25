@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Sepanduk Profil Discord",
+  "short_name": "Saiz Sepanduk Profil Discord",
+  "description": "Buat sepanduk profil Discord pada tepat 600×180 px. Pengubah saiz/pemangkas percuma dalam pelayar anda dengan peraturan zon selamat yang menghalang teks dan muka terpotong.",
+  "id": "/ms/discord-profile-banner-size.html",
+  "start_url": "./discord-profile-banner-size.html",
+  "scope": "./discord-profile-banner-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "discord-profile-banner-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "discord-profile-banner-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "discord-profile-banner-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

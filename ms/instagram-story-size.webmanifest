@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Cerita Instagram",
+  "short_name": "Saiz Cerita Instagram",
+  "description": "Buat cerita Instagram pada tepat 1080×1920 px. Pengubah saiz/pemangkas percuma dalam pelayar anda dengan peraturan zon selamat yang menghalang teks dan muka terpotong.",
+  "id": "/ms/instagram-story-size.html",
+  "start_url": "./instagram-story-size.html",
+  "scope": "./instagram-story-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "instagram-story-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "instagram-story-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "instagram-story-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mampatkan PNG kepada 75 KB Dalam Talian",
+  "short_name": "Mampatkan PNG kepada 75 KB Dalam Talian",
+  "description": "Mampatkan imej PNG kepada 75 KB atau kurang, percuma dalam pelayar anda. Carian automatik mencari kualiti terbaik yang muat — tanpa pendaftaran, tanpa muat naik.",
+  "id": "/ms/compress-png-to-75kb.html",
+  "start_url": "./compress-png-to-75kb.html",
+  "scope": "./compress-png-to-75kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "compress-png-to-75kb-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "compress-png-to-75kb-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "compress-png-to-75kb-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

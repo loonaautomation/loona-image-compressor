@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penukar AVIF kepada JPG",
+  "short_name": "Penukar AVIF kepada JPG",
+  "description": "Tukar AVIF kepada JPG dalam talian, percuma, dalam pelayar anda. Penukaran sebenar pada peranti anda — tanpa muat naik, tanpa pendaftaran, tanpa tera air.",
+  "id": "/ms/avif-to-jpg.html",
+  "start_url": "./avif-to-jpg.html",
+  "scope": "./avif-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "avif-to-jpg-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "avif-to-jpg-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "avif-to-jpg-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

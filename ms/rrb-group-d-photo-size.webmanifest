@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Foto RRB Group D (Railways)",
+  "short_name": "Saiz Foto RRB Group D (Railways)",
+  "description": "Ubah saiz foto RRB Group D (Railways) anda kepada saiz pemberitahuan (320 × 240 px) dan jalur 30–70 KB. Percuma, dalam pelayar anda — tanpa muat naik, tanpa pendaftaran.",
+  "id": "/ms/rrb-group-d-photo-size.html",
+  "start_url": "./rrb-group-d-photo-size.html",
+  "scope": "./rrb-group-d-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "rrb-group-d-photo-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "rrb-group-d-photo-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "rrb-group-d-photo-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

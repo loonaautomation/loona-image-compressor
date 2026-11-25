@@ -1,0 +1,29 @@
+{
+  "name": "Loona UPSC NDAの署名サイズ",
+  "short_name": "UPSC NDAの署名サイズ",
+  "description": "UPSC NDAの署名を告知サイズ（スキャンしたボックス、比率は約7:2）と20–300 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
+  "id": "/ja/upsc-nda-signature-size.html",
+  "start_url": "./upsc-nda-signature-size.html",
+  "scope": "./upsc-nda-signature-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "upsc-nda-signature-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "upsc-nda-signature-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "upsc-nda-signature-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

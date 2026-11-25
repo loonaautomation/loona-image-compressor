@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Foto Pasport Afrika Selatan",
+  "short_name": "Saiz Foto Pasport Afrika Selatan",
+  "description": "Buat Foto Pasport Afrika Selatan pada saiz rasmi 35×45 mm (413×531 px), latar belakang putih kosong atau kelabu muda. Pembuat dalam talian percuma — pangkas, muat turun dan cetak helaian, tanpa muat naik.",
+  "id": "/ms/south-africa-passport-photo-size.html",
+  "start_url": "./south-africa-passport-photo-size.html",
+  "scope": "./south-africa-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "south-africa-passport-photo-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "south-africa-passport-photo-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "south-africa-passport-photo-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona X (Twitter)のヘッダー／バナーサイズ",
+  "short_name": "X (Twitter)のヘッダー／バナーサイズ",
+  "description": "X (Twitter)のヘッダー／バナーを正確に1500×500 pxで作成できます。ブラウザで使える無料のリサイズ・切り取りツールで、切り取られた文字や顔を防ぐセーフゾーンのルールも備えています。",
+  "id": "/ja/x-header-size.html",
+  "start_url": "./x-header-size.html",
+  "scope": "./x-header-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "x-header-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "x-header-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "x-header-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

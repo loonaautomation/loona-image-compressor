@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ubah Saiz Imej kepada 3840 × 2160 px Dalam Talian",
+  "short_name": "Ubah Saiz Imej kepada 3840 × 2160 px Dalam Talian",
+  "description": "Ubah saiz sebarang imej kepada tepat 3840×2160 px — Kertas dinding / bingkai video 4K UHD. Percuma dalam pelayar anda dengan kawalan pangkas; tanpa muat naik, tanpa pendaftaran.",
+  "id": "/ms/resize-image-to-3840x2160.html",
+  "start_url": "./resize-image-to-3840x2160.html",
+  "scope": "./resize-image-to-3840x2160.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "resize-image-to-3840x2160-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "resize-image-to-3840x2160-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "resize-image-to-3840x2160-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

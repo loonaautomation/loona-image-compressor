@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penukar SVG kepada PNG",
+  "short_name": "Penukar SVG kepada PNG",
+  "description": "Tukar SVG kepada PNG dalam talian secara percuma pada sebarang lebar — imej raster yang tajam daripada logo dan ikon vektor. Tiada pendaftaran, tiada muat naik, berjalan dalam pelayar anda.",
+  "id": "/ms/svg-to-png.html",
+  "start_url": "./svg-to-png.html",
+  "scope": "./svg-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "svg-to-png-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "svg-to-png-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "svg-to-png-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

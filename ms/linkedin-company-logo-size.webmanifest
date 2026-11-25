@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Logo Halaman Syarikat LinkedIn",
+  "short_name": "Saiz Logo Halaman Syarikat LinkedIn",
+  "description": "Buat logo halaman syarikat LinkedIn pada tepat 300×300 px. Pengubah saiz/pemangkas percuma dalam pelayar anda dengan peraturan zon selamat yang menghalang teks dan muka terpotong.",
+  "id": "/ms/linkedin-company-logo-size.html",
+  "start_url": "./linkedin-company-logo-size.html",
+  "scope": "./linkedin-company-logo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "linkedin-company-logo-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "linkedin-company-logo-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "linkedin-company-logo-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

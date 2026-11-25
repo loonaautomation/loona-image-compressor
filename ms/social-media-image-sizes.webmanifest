@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Imej Media Sosial 2026",
+  "short_name": "Saiz Imej Media Sosial 2026",
+  "description": "Saiz imej tepat untuk Instagram, Facebook, YouTube, X, LinkedIn, Pinterest, TikTok dan Discord — dengan alat pembuat dan panduan zon selamat untuk setiap slot.",
+  "id": "/ms/social-media-image-sizes.html",
+  "start_url": "./social-media-image-sizes.html",
+  "scope": "./social-media-image-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "social-media-image-sizes-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "social-media-image-sizes-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "social-media-image-sizes-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

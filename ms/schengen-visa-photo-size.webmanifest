@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Foto Visa Schengen",
+  "short_name": "Saiz Foto Visa Schengen",
+  "description": "Buat Foto Visa Schengen pada saiz rasmi 35×45 mm (413×531 px), latar belakang latar belakang kelabu muda atau cerah kosong. Pembuat dalam talian percuma — pangkas, muat turun dan cetak helaian, tanpa muat naik.",
+  "id": "/ms/schengen-visa-photo-size.html",
+  "start_url": "./schengen-visa-photo-size.html",
+  "scope": "./schengen-visa-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "schengen-visa-photo-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "schengen-visa-photo-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "schengen-visa-photo-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

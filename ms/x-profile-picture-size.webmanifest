@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Gambar Profil X (Twitter)",
+  "short_name": "Saiz Gambar Profil X (Twitter)",
+  "description": "Buat gambar profil X (Twitter) pada tepat 400×400 px. Pengubah saiz/pemangkas percuma dalam pelayar anda dengan peraturan zon selamat yang menghalang teks dan muka terpotong.",
+  "id": "/ms/x-profile-picture-size.html",
+  "start_url": "./x-profile-picture-size.html",
+  "scope": "./x-profile-picture-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "x-profile-picture-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "x-profile-picture-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "x-profile-picture-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

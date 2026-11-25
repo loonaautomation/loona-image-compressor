@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Foto Pasport UK",
+  "short_name": "Saiz Foto Pasport UK",
+  "description": "Buat Foto Pasport UK pada saiz rasmi 35×45 mm (600×750 px), latar belakang kelabu muda kosong atau krim. Pembuat dalam talian percuma — pangkas, muat turun dan cetak helaian, tanpa muat naik.",
+  "id": "/ms/uk-passport-photo-size.html",
+  "start_url": "./uk-passport-photo-size.html",
+  "scope": "./uk-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "uk-passport-photo-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "uk-passport-photo-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "uk-passport-photo-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

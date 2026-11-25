@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Foto SSC MTS",
+  "short_name": "Saiz Foto SSC MTS",
+  "description": "Ubah saiz foto SSC MTS anda kepada saiz pemberitahuan (200 × 230 px) dan jalur 20–50 KB. Percuma, dalam pelayar anda — tanpa muat naik, tanpa pendaftaran.",
+  "id": "/ms/ssc-mts-photo-size.html",
+  "start_url": "./ssc-mts-photo-size.html",
+  "scope": "./ssc-mts-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "ssc-mts-photo-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "ssc-mts-photo-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "ssc-mts-photo-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

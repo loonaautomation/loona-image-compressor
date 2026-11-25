@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penapis Foto & Baiki",
+  "short_name": "Penapis Foto & Baiki",
+  "description": "Baiki foto dalam talian secara percuma: laraskan kecerahan, kontras dan ketepuan, tajamkan dengan satu klik dan gunakan pratetap sedia seperti Passport Fix dan Vivid.",
+  "id": "/ms/photo-filters-editor.html",
+  "start_url": "./photo-filters-editor.html",
+  "scope": "./photo-filters-editor.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "photo-filters-editor-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "photo-filters-editor-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "photo-filters-editor-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

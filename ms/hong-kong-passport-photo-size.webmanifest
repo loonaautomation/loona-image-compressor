@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Foto Pasport Hong Kong",
+  "short_name": "Saiz Foto Pasport Hong Kong",
+  "description": "Buat Foto Pasport Hong Kong pada saiz rasmi 40×50 mm (472×591 px), latar belakang putih kosong. Pembuat dalam talian percuma — pangkas, muat turun dan cetak helaian, tanpa muat naik.",
+  "id": "/ms/hong-kong-passport-photo-size.html",
+  "start_url": "./hong-kong-passport-photo-size.html",
+  "scope": "./hong-kong-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "hong-kong-passport-photo-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "hong-kong-passport-photo-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "hong-kong-passport-photo-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

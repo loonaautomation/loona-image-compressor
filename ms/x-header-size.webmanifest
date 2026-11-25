@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Pengepala / Sepanduk X (Twitter)",
+  "short_name": "Saiz Pengepala / Sepanduk X (Twitter)",
+  "description": "Buat pengepala / sepanduk X (Twitter) pada tepat 1500×500 px. Pengubah saiz/pemangkas percuma dalam pelayar anda dengan peraturan zon selamat yang menghalang teks dan muka terpotong.",
+  "id": "/ms/x-header-size.html",
+  "start_url": "./x-header-size.html",
+  "scope": "./x-header-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "x-header-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "x-header-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "x-header-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

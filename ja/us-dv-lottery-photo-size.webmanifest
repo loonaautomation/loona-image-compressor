@@ -1,0 +1,29 @@
+{
+  "name": "Loona 米国多様性ビザ（グリーンカード抽選）写真のサイズ",
+  "short_name": "米国多様性ビザ（グリーンカード抽選）写真のサイズ",
+  "description": "公式サイズ51×51 mm（600×600 px）、無地の白またはオフホワイトの背景で米国多様性ビザ（グリーンカード抽選）写真を作成できます。無料のオンライン作成ツール — 切り取り、ダウンロード、印刷シートまで、アップロード不要です。",
+  "id": "/ja/us-dv-lottery-photo-size.html",
+  "start_url": "./us-dv-lottery-photo-size.html",
+  "scope": "./us-dv-lottery-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "us-dv-lottery-photo-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "us-dv-lottery-photo-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "us-dv-lottery-photo-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

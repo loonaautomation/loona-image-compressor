@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penukar GIF kepada WEBP",
+  "short_name": "Penukar GIF kepada WEBP",
+  "description": "Tukar GIF kepada WEBP dalam talian, percuma, dalam pelayar anda. Penukaran sebenar pada peranti anda — tanpa muat naik, tanpa pendaftaran, tanpa tera air.",
+  "id": "/ms/gif-to-webp.html",
+  "start_url": "./gif-to-webp.html",
+  "scope": "./gif-to-webp.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "gif-to-webp-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "gif-to-webp-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "gif-to-webp-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

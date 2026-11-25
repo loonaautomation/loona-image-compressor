@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Foto Pasport / Visa Vietnam",
+  "short_name": "Saiz Foto Pasport / Visa Vietnam",
+  "description": "Buat Foto Pasport / Visa Vietnam pada saiz rasmi 40×60 mm (472×709 px), latar belakang putih kosong. Pembuat dalam talian percuma — pangkas, muat turun dan cetak helaian, tanpa muat naik.",
+  "id": "/ms/vietnam-passport-photo-size.html",
+  "start_url": "./vietnam-passport-photo-size.html",
+  "scope": "./vietnam-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "vietnam-passport-photo-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "vietnam-passport-photo-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "vietnam-passport-photo-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

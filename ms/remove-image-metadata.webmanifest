@@ -1,0 +1,29 @@
+{
+  "name": "Loona Buang Metadata Imej",
+  "short_name": "Buang Metadata Imej",
+  "description": "Buang metadata EXIF, lokasi GPS, XMP dan IPTC daripada foto JPG, PNG dan WebP dalam talian secara percuma. Penanggalan peringkat bait — piksel tidak pernah dikod semula, jadi kualiti tidak disentuh. Disahkan oleh imbasan semula, 100% peribadi dalam pelayar anda.",
+  "id": "/ms/remove-image-metadata.html",
+  "start_url": "./remove-image-metadata.html",
+  "scope": "./remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "remove-image-metadata-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "remove-image-metadata-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "remove-image-metadata-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

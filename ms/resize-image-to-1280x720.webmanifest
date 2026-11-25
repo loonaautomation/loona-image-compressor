@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ubah Saiz Imej kepada 1280 × 720",
+  "short_name": "Ubah Saiz Imej kepada 1280 × 720",
+  "description": "Ubah saiz sebarang imej kepada tepat 1280 × 720 piksel (lakaran kecil YouTube dan video HD) secara percuma. Cover, contain atau regang, JPG atau PNG, muat turun serta-merta — tiada pendaftaran, tiada apa-apa dimuat naik.",
+  "id": "/ms/resize-image-to-1280x720.html",
+  "start_url": "./resize-image-to-1280x720.html",
+  "scope": "./resize-image-to-1280x720.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "resize-image-to-1280x720-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "resize-image-to-1280x720-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "resize-image-to-1280x720-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penukar SVG kepada JPG",
+  "short_name": "Penukar SVG kepada JPG",
+  "description": "Tukar SVG kepada JPG dalam talian secara percuma — paparkan logo dan ilustrasi vektor sebagai JPG universal pada sebarang lebar. Tiada pendaftaran, tiada muat naik, dalam pelayar anda.",
+  "id": "/ms/svg-to-jpg.html",
+  "start_url": "./svg-to-jpg.html",
+  "scope": "./svg-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "svg-to-jpg-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "svg-to-jpg-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "svg-to-jpg-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penukar BMP kepada PNG",
+  "short_name": "Penukar BMP kepada PNG",
+  "description": "Tukar BMP kepada PNG dalam talian secara percuma — tanpa hilang, jauh lebih kecil daripada BMP, dan disokong di mana-mana. Berjalan dalam pelayar anda, tiada pendaftaran, tiada muat naik.",
+  "id": "/ms/bmp-to-png.html",
+  "start_url": "./bmp-to-png.html",
+  "scope": "./bmp-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "bmp-to-png-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "bmp-to-png-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "bmp-to-png-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

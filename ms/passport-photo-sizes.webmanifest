@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Foto Pasport & Visa mengikut Negara",
+  "short_name": "Saiz Foto Pasport & Visa mengikut Negara",
+  "description": "Saiz foto pasport, visa dan kad pengenalan rasmi untuk 40 negara dan dokumen, setiap satu dengan alat pembuat pada saiz milimeter dan piksel yang tepat.",
+  "id": "/ms/passport-photo-sizes.html",
+  "start_url": "./passport-photo-sizes.html",
+  "scope": "./passport-photo-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "passport-photo-sizes-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "passport-photo-sizes-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "passport-photo-sizes-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

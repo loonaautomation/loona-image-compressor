@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Foto SBI PO",
+  "short_name": "Saiz Foto SBI PO",
+  "description": "Ubah saiz foto SBI PO anda kepada saiz pemberitahuan (200 × 230 px) dan jalur 20–50 KB. Percuma, dalam pelayar anda — tanpa muat naik, tanpa pendaftaran.",
+  "id": "/ms/sbi-po-photo-size.html",
+  "start_url": "./sbi-po-photo-size.html",
+  "scope": "./sbi-po-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "sbi-po-photo-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "sbi-po-photo-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "sbi-po-photo-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

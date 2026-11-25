@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Foto IBPS Clerk (CSA)",
+  "short_name": "Saiz Foto IBPS Clerk (CSA)",
+  "description": "Ubah saiz foto IBPS Clerk (CSA) anda kepada saiz pemberitahuan (200 × 230 px) dan jalur 20–50 KB. Percuma, dalam pelayar anda — tanpa muat naik, tanpa pendaftaran.",
+  "id": "/ms/ibps-clerk-photo-size.html",
+  "start_url": "./ibps-clerk-photo-size.html",
+  "scope": "./ibps-clerk-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "ibps-clerk-photo-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "ibps-clerk-photo-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "ibps-clerk-photo-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

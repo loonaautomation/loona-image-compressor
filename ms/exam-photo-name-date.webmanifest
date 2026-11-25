@@ -1,0 +1,29 @@
+{
+  "name": "Loona Foto Peperiksaan dengan Nama & Tarikh",
+  "short_name": "Foto Peperiksaan dengan Nama & Tarikh",
+  "description": "Cipta foto peperiksaan dengan nama dan tarikh anda dicetak di bahagian bawah secara percuma — format peperiksaan lembaga yang digunakan di Pakistan dan India. Peribadi, tiada pendaftaran diperlukan.",
+  "id": "/ms/exam-photo-name-date.html",
+  "start_url": "./exam-photo-name-date.html",
+  "scope": "./exam-photo-name-date.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "exam-photo-name-date-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "exam-photo-name-date-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "exam-photo-name-date-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

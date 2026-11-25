@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Imej Siaran / Pautan Facebook",
+  "short_name": "Saiz Imej Siaran / Pautan Facebook",
+  "description": "Buat imej siaran / pautan Facebook pada tepat 1200×630 px. Pengubah saiz/pemangkas percuma dalam pelayar anda dengan peraturan zon selamat yang menghalang teks dan muka terpotong.",
+  "id": "/ms/facebook-post-image-size.html",
+  "start_url": "./facebook-post-image-size.html",
+  "scope": "./facebook-post-image-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "facebook-post-image-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "facebook-post-image-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "facebook-post-image-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

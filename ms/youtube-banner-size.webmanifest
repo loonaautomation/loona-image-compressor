@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Sepanduk Saluran YouTube",
+  "short_name": "Saiz Sepanduk Saluran YouTube",
+  "description": "Buat sepanduk saluran YouTube pada tepat 2560×1440 px. Pengubah saiz/pemangkas percuma dalam pelayar anda dengan peraturan zon selamat yang menghalang teks dan muka terpotong.",
+  "id": "/ms/youtube-banner-size.html",
+  "start_url": "./youtube-banner-size.html",
+  "scope": "./youtube-banner-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "youtube-banner-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "youtube-banner-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "youtube-banner-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

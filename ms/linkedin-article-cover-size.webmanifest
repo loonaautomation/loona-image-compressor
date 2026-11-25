@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Sampul Artikel / Surat Berita LinkedIn",
+  "short_name": "Saiz Sampul Artikel / Surat Berita LinkedIn",
+  "description": "Buat sampul artikel / surat berita LinkedIn pada tepat 1200×644 px. Pengubah saiz/pemangkas percuma dalam pelayar anda dengan peraturan zon selamat yang menghalang teks dan muka terpotong.",
+  "id": "/ms/linkedin-article-cover-size.html",
+  "start_url": "./linkedin-article-cover-size.html",
+  "scope": "./linkedin-article-cover-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "linkedin-article-cover-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "linkedin-article-cover-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "linkedin-article-cover-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

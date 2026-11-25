@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penukar JPG kepada WebP",
+  "short_name": "Penukar JPG kepada WebP",
+  "description": "Tukar JPG kepada WebP dalam talian secara percuma dan kecilkan imej laman web sebanyak 25–40% pada kualiti yang sama. Dalam pelayar anda — tiada pendaftaran, tiada muat naik, tiada tera air.",
+  "id": "/ms/jpg-to-webp.html",
+  "start_url": "./jpg-to-webp.html",
+  "scope": "./jpg-to-webp.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "jpg-to-webp-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "jpg-to-webp-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "jpg-to-webp-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

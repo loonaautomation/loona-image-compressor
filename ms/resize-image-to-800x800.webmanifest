@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ubah Saiz Imej kepada 800 × 800",
+  "short_name": "Ubah Saiz Imej kepada 800 × 800",
+  "description": "Ubah saiz sebarang imej kepada tepat 800 × 800 piksel (foto penyenaraian pasaran dan produk) secara percuma. Cover, contain atau regang, JPG atau PNG, muat turun serta-merta — tiada pendaftaran, tiada apa-apa dimuat naik.",
+  "id": "/ms/resize-image-to-800x800.html",
+  "start_url": "./resize-image-to-800x800.html",
+  "scope": "./resize-image-to-800x800.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "resize-image-to-800x800-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "resize-image-to-800x800-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "resize-image-to-800x800-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

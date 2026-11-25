@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Siaran Foto (Segi Empat Sama) TikTok",
+  "short_name": "Saiz Siaran Foto (Segi Empat Sama) TikTok",
+  "description": "Buat siaran foto (segi empat sama) TikTok pada tepat 1080×1080 px. Pengubah saiz/pemangkas percuma dalam pelayar anda dengan peraturan zon selamat yang menghalang teks dan muka terpotong.",
+  "id": "/ms/tiktok-photo-post-square-size.html",
+  "start_url": "./tiktok-photo-post-square-size.html",
+  "scope": "./tiktok-photo-post-square-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "tiktok-photo-post-square-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "tiktok-photo-post-square-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "tiktok-photo-post-square-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

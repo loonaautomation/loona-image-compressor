@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Siaran Potret (4:5) X (Twitter)",
+  "short_name": "Saiz Siaran Potret (4:5) X (Twitter)",
+  "description": "Buat siaran potret (4:5) X (Twitter) pada tepat 1080×1350 px. Pengubah saiz/pemangkas percuma dalam pelayar anda dengan peraturan zon selamat yang menghalang teks dan muka terpotong.",
+  "id": "/ms/x-portrait-post-size.html",
+  "start_url": "./x-portrait-post-size.html",
+  "scope": "./x-portrait-post-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "x-portrait-post-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "x-portrait-post-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "x-portrait-post-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

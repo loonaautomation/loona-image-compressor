@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penukar PNG kepada AVIF",
+  "short_name": "Penukar PNG kepada AVIF",
+  "description": "Tukar PNG kepada AVIF dalam talian, percuma, dalam pelayar anda. Penukaran sebenar pada peranti anda — tanpa muat naik, tanpa pendaftaran, tanpa tera air.",
+  "id": "/ms/png-to-avif.html",
+  "start_url": "./png-to-avif.html",
+  "scope": "./png-to-avif.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "png-to-avif-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "png-to-avif-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "png-to-avif-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

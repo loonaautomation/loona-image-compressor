@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mampatkan Imej kepada Sebarang Saiz KB",
+  "short_name": "Mampatkan Imej kepada Sebarang Saiz KB",
+  "description": "Setiap alat mampat kepada saiz: 16 saiz sasaran dalam JPG, PNG dan WebP, daripada 10 KB hingga 2 MB. Percuma, dalam pelayar anda.",
+  "id": "/ms/compress-image-sizes.html",
+  "start_url": "./compress-image-sizes.html",
+  "scope": "./compress-image-sizes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "compress-image-sizes-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "compress-image-sizes-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "compress-image-sizes-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

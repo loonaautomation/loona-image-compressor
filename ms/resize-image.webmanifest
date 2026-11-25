@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ubah Saiz Imej",
+  "short_name": "Ubah Saiz Imej",
+  "description": "Ubah saiz sebarang imej mengikut piksel, cm atau inci dengan tetapan DPI secara percuma. Kekalkan nisbah bidang, pilih JPG, PNG atau WebP dan muat turun serta-merta — tiada pendaftaran diperlukan.",
+  "id": "/ms/resize-image.html",
+  "start_url": "./resize-image.html",
+  "scope": "./resize-image.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "resize-image-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "resize-image-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "resize-image-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

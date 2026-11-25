@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Foto Pasport Australia",
+  "short_name": "Saiz Foto Pasport Australia",
+  "description": "Buat Foto Pasport Australia pada saiz rasmi 35×45 mm (413×531 px), latar belakang putih kosong atau kelabu muda. Pembuat dalam talian percuma — pangkas, muat turun dan cetak helaian, tanpa muat naik.",
+  "id": "/ms/australia-passport-photo-size.html",
+  "start_url": "./australia-passport-photo-size.html",
+  "scope": "./australia-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "australia-passport-photo-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "australia-passport-photo-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "australia-passport-photo-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

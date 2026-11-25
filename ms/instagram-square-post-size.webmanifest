@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Siaran Segi Empat Sama (1:1) Instagram",
+  "short_name": "Saiz Siaran Segi Empat Sama (1:1) Instagram",
+  "description": "Buat siaran segi empat sama (1:1) Instagram pada tepat 1080×1080 px. Pengubah saiz/pemangkas percuma dalam pelayar anda dengan peraturan zon selamat yang menghalang teks dan muka terpotong.",
+  "id": "/ms/instagram-square-post-size.html",
+  "start_url": "./instagram-square-post-size.html",
+  "scope": "./instagram-square-post-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "instagram-square-post-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "instagram-square-post-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "instagram-square-post-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Gambar Profil TikTok",
+  "short_name": "Saiz Gambar Profil TikTok",
+  "description": "Buat gambar profil TikTok pada tepat 720×720 px. Pengubah saiz/pemangkas percuma dalam pelayar anda dengan peraturan zon selamat yang menghalang teks dan muka terpotong.",
+  "id": "/ms/tiktok-profile-picture-size.html",
+  "start_url": "./tiktok-profile-picture-size.html",
+  "scope": "./tiktok-profile-picture-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "tiktok-profile-picture-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "tiktok-profile-picture-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "tiktok-profile-picture-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

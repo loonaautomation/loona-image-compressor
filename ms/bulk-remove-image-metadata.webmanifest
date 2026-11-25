@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pembuang Metadata Kelompok",
+  "short_name": "Pembuang Metadata Kelompok",
+  "description": "Buang metadata EXIF, GPS dan XMP daripada banyak foto sekali gus — letakkan kelompok fail JPG, PNG dan WebP, tanggalkan semuanya dalam pelayar anda dan muat turun semuanya sebagai satu ZIP. Percuma, peribadi, tiada muat naik, tiada pengekodan semula.",
+  "id": "/ms/bulk-remove-image-metadata.html",
+  "start_url": "./bulk-remove-image-metadata.html",
+  "scope": "./bulk-remove-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "bulk-remove-image-metadata-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "bulk-remove-image-metadata-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "bulk-remove-image-metadata-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

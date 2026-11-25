@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Emoji Tersuai Discord",
+  "short_name": "Saiz Emoji Tersuai Discord",
+  "description": "Buat emoji tersuai Discord pada tepat 128×128 px. Pengubah saiz/pemangkas percuma dalam pelayar anda dengan peraturan zon selamat yang menghalang teks dan muka terpotong.",
+  "id": "/ms/discord-emoji-size.html",
+  "start_url": "./discord-emoji-size.html",
+  "scope": "./discord-emoji-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "discord-emoji-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "discord-emoji-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "discord-emoji-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ubah Saiz Imej kepada 1240 × 1754 px Dalam Talian",
+  "short_name": "Ubah Saiz Imej kepada 1240 × 1754 px Dalam Talian",
+  "description": "Ubah saiz sebarang imej kepada tepat 1240×1754 px — A4 pada 150 DPI. Percuma dalam pelayar anda dengan kawalan pangkas; tanpa muat naik, tanpa pendaftaran.",
+  "id": "/ms/resize-image-to-1240x1754.html",
+  "start_url": "./resize-image-to-1240x1754.html",
+  "scope": "./resize-image-to-1240x1754.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "resize-image-to-1240x1754-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "resize-image-to-1240x1754-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "resize-image-to-1240x1754-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

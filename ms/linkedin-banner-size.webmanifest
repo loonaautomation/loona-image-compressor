@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Sepanduk Profil / Halaman LinkedIn",
+  "short_name": "Saiz Sepanduk Profil / Halaman LinkedIn",
+  "description": "Buat sepanduk profil / halaman LinkedIn pada tepat 1584×396 px. Pengubah saiz/pemangkas percuma dalam pelayar anda dengan peraturan zon selamat yang menghalang teks dan muka terpotong.",
+  "id": "/ms/linkedin-banner-size.html",
+  "start_url": "./linkedin-banner-size.html",
+  "scope": "./linkedin-banner-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "linkedin-banner-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "linkedin-banner-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "linkedin-banner-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

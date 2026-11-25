@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penjana Palet Warna",
+  "short_name": "Penjana Palet Warna",
+  "description": "Jana palet warna harmoni daripada sebarang warna asas — skema analog, pelengkap, triadik dan monokromatik dengan kod HEX boleh salin. Percuma, tiada pendaftaran.",
+  "id": "/ms/color-palette-generator.html",
+  "start_url": "./color-palette-generator.html",
+  "scope": "./color-palette-generator.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "color-palette-generator-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "color-palette-generator-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "color-palette-generator-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona UPSC Civil Services (IAS)の写真サイズ",
+  "short_name": "UPSC Civil Services (IAS)の写真サイズ",
+  "description": "UPSC Civil Services (IAS)の写真を告知サイズ（350 × 350 px）と20–300 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
+  "id": "/ja/upsc-cse-photo-size.html",
+  "start_url": "./upsc-cse-photo-size.html",
+  "scope": "./upsc-cse-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "upsc-cse-photo-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "upsc-cse-photo-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "upsc-cse-photo-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

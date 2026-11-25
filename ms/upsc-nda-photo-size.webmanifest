@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Foto UPSC NDA",
+  "short_name": "Saiz Foto UPSC NDA",
+  "description": "Ubah saiz foto UPSC NDA anda kepada saiz pemberitahuan (350 × 350 px) dan jalur 20–300 KB. Percuma, dalam pelayar anda — tanpa muat naik, tanpa pendaftaran.",
+  "id": "/ms/upsc-nda-photo-size.html",
+  "start_url": "./upsc-nda-photo-size.html",
+  "scope": "./upsc-nda-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "upsc-nda-photo-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "upsc-nda-photo-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "upsc-nda-photo-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

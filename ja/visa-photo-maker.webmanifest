@@ -1,0 +1,29 @@
+{
+  "name": "Loona ビザ写真メーカー",
+  "short_name": "ビザ写真メーカー",
+  "description": "ビザ写真をオンラインで無料で作成: 米国2x2インチ、英国とシェンゲン35x45 mm、中国33x48 mm、300 DPIで。登録不要、透かしなし、完全にプライベートなツール。",
+  "id": "/ja/visa-photo-maker.html",
+  "start_url": "./visa-photo-maker.html",
+  "scope": "./visa-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "visa-photo-maker-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "visa-photo-maker-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "visa-photo-maker-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

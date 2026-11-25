@@ -1,0 +1,29 @@
+{
+  "name": "Loona WebPからJPGへの変換ツール",
+  "short_name": "WebPからJPGへの変換ツール",
+  "description": "WebPをオンラインで無料でJPGに変換し、画像がすべてのアプリ、フォーム、古いデバイスで開くようにします。ブラウザベース — 登録不要、アップロード不要、透かしなし。",
+  "id": "/ja/webp-to-jpg.html",
+  "start_url": "./webp-to-jpg.html",
+  "scope": "./webp-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "webp-to-jpg-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "webp-to-jpg-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "webp-to-jpg-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

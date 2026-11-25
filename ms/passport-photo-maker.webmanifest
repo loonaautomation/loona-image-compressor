@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pembuat Foto Saiz Pasport",
+  "short_name": "Pembuat Foto Saiz Pasport",
+  "description": "Buat foto saiz pasport dalam talian secara percuma: pangkas sebarang foto kepada 35×45 mm atau 2×2 inci pada 300 DPI sedia cetak. Tiada pendaftaran, tiada tera air, peribadi sepenuhnya.",
+  "id": "/ms/passport-photo-maker.html",
+  "start_url": "./passport-photo-maker.html",
+  "scope": "./passport-photo-maker.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "passport-photo-maker-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "passport-photo-maker-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "passport-photo-maker-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

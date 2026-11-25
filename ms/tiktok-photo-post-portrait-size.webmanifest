@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Siaran Foto (Potret) TikTok",
+  "short_name": "Saiz Siaran Foto (Potret) TikTok",
+  "description": "Buat siaran foto (potret) TikTok pada tepat 1080×1350 px. Pengubah saiz/pemangkas percuma dalam pelayar anda dengan peraturan zon selamat yang menghalang teks dan muka terpotong.",
+  "id": "/ms/tiktok-photo-post-portrait-size.html",
+  "start_url": "./tiktok-photo-post-portrait-size.html",
+  "scope": "./tiktok-photo-post-portrait-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "tiktok-photo-post-portrait-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "tiktok-photo-post-portrait-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "tiktok-photo-post-portrait-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Sampul / Bingkai Shorts YouTube",
+  "short_name": "Saiz Sampul / Bingkai Shorts YouTube",
+  "description": "Buat sampul / bingkai shorts YouTube pada tepat 1080×1920 px. Pengubah saiz/pemangkas percuma dalam pelayar anda dengan peraturan zon selamat yang menghalang teks dan muka terpotong.",
+  "id": "/ms/youtube-shorts-size.html",
+  "start_url": "./youtube-shorts-size.html",
+  "scope": "./youtube-shorts-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "youtube-shorts-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "youtube-shorts-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "youtube-shorts-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

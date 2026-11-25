@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Foto IBPS RRB (Gramin Bank)",
+  "short_name": "Saiz Foto IBPS RRB (Gramin Bank)",
+  "description": "Ubah saiz foto IBPS RRB (Gramin Bank) anda kepada saiz pemberitahuan (200 × 230 px) dan jalur 20–50 KB. Percuma, dalam pelayar anda — tanpa muat naik, tanpa pendaftaran.",
+  "id": "/ms/ibps-rrb-photo-size.html",
+  "start_url": "./ibps-rrb-photo-size.html",
+  "scope": "./ibps-rrb-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "ibps-rrb-photo-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "ibps-rrb-photo-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "ibps-rrb-photo-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

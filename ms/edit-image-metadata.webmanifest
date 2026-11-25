@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penyunting EXIF",
+  "short_name": "Penyunting EXIF",
+  "description": "Sunting data EXIF foto JPG dalam talian secara percuma — betulkan tarikh diambil, tambah nama anda sebagai artis, tetapkan hak cipta, jenama dan model kamera, atau cipta EXIF pada foto yang tiada. Piksel tidak pernah dikod semula dan tiada apa-apa yang dimuat naik.",
+  "id": "/ms/edit-image-metadata.html",
+  "start_url": "./edit-image-metadata.html",
+  "scope": "./edit-image-metadata.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "edit-image-metadata-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "edit-image-metadata-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "edit-image-metadata-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

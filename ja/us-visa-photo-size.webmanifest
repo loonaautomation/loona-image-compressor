@@ -1,0 +1,29 @@
+{
+  "name": "Loona 米国ビザ写真（DS-160）のサイズ",
+  "short_name": "米国ビザ写真（DS-160）のサイズ",
+  "description": "公式サイズ51×51 mm（600×600 px）、無地の白の背景で米国ビザ写真（DS-160）を作成できます。無料のオンライン作成ツール — 切り取り、ダウンロード、印刷シートまで、アップロード不要です。",
+  "id": "/ja/us-visa-photo-size.html",
+  "start_url": "./us-visa-photo-size.html",
+  "scope": "./us-visa-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "us-visa-photo-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "us-visa-photo-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "us-visa-photo-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Foto Visa Arab Saudi",
+  "short_name": "Saiz Foto Visa Arab Saudi",
+  "description": "Buat Foto Visa Arab Saudi pada saiz rasmi 40×60 mm (472×709 px), latar belakang putih kosong. Pembuat dalam talian percuma — pangkas, muat turun dan cetak helaian, tanpa muat naik.",
+  "id": "/ms/saudi-visa-photo-size.html",
+  "start_url": "./saudi-visa-photo-size.html",
+  "scope": "./saudi-visa-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "saudi-visa-photo-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "saudi-visa-photo-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "saudi-visa-photo-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

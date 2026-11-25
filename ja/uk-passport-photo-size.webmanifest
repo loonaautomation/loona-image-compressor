@@ -1,0 +1,29 @@
+{
+  "name": "Loona 英国パスポート写真のサイズ",
+  "short_name": "英国パスポート写真のサイズ",
+  "description": "公式サイズ35×45 mm（600×750 px）、無地の明るいグレーまたはクリーム色の背景で英国パスポート写真を作成できます。無料のオンライン作成ツール — 切り取り、ダウンロード、印刷シートまで、アップロード不要です。",
+  "id": "/ja/uk-passport-photo-size.html",
+  "start_url": "./uk-passport-photo-size.html",
+  "scope": "./uk-passport-photo-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "uk-passport-photo-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "uk-passport-photo-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "uk-passport-photo-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

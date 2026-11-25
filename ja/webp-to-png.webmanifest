@@ -1,0 +1,29 @@
+{
+  "name": "Loona WebPからPNGへの変換ツール",
+  "short_name": "WebPからPNGへの変換ツール",
+  "description": "WebPをオンラインで無料でPNGに変換 — エディターやデザインツールのための透明度付き可逆PNG。ブラウザで動作し、登録不要、アップロード不要です。",
+  "id": "/ja/webp-to-png.html",
+  "start_url": "./webp-to-png.html",
+  "scope": "./webp-to-png.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "webp-to-png-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "webp-to-png-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "webp-to-png-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

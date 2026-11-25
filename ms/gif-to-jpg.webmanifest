@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penukar GIF kepada JPG",
+  "short_name": "Penukar GIF kepada JPG",
+  "description": "Tukar GIF kepada JPG dalam talian secara percuma — jadikan GIF pegun JPG kecil yang universal. Dalam pelayar anda: tiada pendaftaran, tiada muat naik, tiada tera air.",
+  "id": "/ms/gif-to-jpg.html",
+  "start_url": "./gif-to-jpg.html",
+  "scope": "./gif-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "gif-to-jpg-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "gif-to-jpg-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "gif-to-jpg-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

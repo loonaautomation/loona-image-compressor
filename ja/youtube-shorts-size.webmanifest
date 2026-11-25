@@ -1,0 +1,29 @@
+{
+  "name": "Loona YouTubeのShortsカバー／フレームサイズ",
+  "short_name": "YouTubeのShortsカバー／フレームサイズ",
+  "description": "YouTubeのshortsカバー／フレームを正確に1080×1920 pxで作成できます。ブラウザで使える無料のリサイズ・切り取りツールで、切り取られた文字や顔を防ぐセーフゾーンのルールも備えています。",
+  "id": "/ja/youtube-shorts-size.html",
+  "start_url": "./youtube-shorts-size.html",
+  "scope": "./youtube-shorts-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "youtube-shorts-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "youtube-shorts-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "youtube-shorts-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

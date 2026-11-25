@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penambah Imej",
+  "short_name": "Penambah Imej",
+  "description": "Tingkatkan foto dalam talian secara percuma: penambah auto satu klik, tajamkan foto lembut, bersihkan hingar dengan lembut dan skalakan 2x atau 4x. Hasil yang jujur, tiada pendaftaran, dan foto anda tidak pernah meninggalkan peranti anda.",
+  "id": "/ms/image-enhancer.html",
+  "start_url": "./image-enhancer.html",
+  "scope": "./image-enhancer.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "image-enhancer-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "image-enhancer-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "image-enhancer-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

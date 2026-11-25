@@ -1,0 +1,29 @@
+{
+  "name": "Loona Saiz Bingkai Video TikTok",
+  "short_name": "Saiz Bingkai Video TikTok",
+  "description": "Buat bingkai video TikTok pada tepat 1080×1920 px. Pengubah saiz/pemangkas percuma dalam pelayar anda dengan peraturan zon selamat yang menghalang teks dan muka terpotong.",
+  "id": "/ms/tiktok-video-frame-size.html",
+  "start_url": "./tiktok-video-frame-size.html",
+  "scope": "./tiktok-video-frame-size.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "tiktok-video-frame-size-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "tiktok-video-frame-size-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "tiktok-video-frame-size-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

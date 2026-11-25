@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penukar BMP kepada JPG",
+  "short_name": "Penukar BMP kepada JPG",
+  "description": "Tukar BMP kepada JPG dalam talian secara percuma dan kecilkan bitmap tidak dimampatkan yang besar sebanyak 90% atau lebih. Dalam pelayar anda — tiada pendaftaran, tiada muat naik, tiada tera air.",
+  "id": "/ms/bmp-to-jpg.html",
+  "start_url": "./bmp-to-jpg.html",
+  "scope": "./bmp-to-jpg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "bmp-to-jpg-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "bmp-to-jpg-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "bmp-to-jpg-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
