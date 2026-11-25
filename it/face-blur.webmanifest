@@ -2,7 +2,7 @@
   "name": "Loona Sfocatura volti",
   "short_name": "Sfocatura volti",
   "description": "Sfoca o pixela volti, targhe e dettagli privati in qualsiasi foto. Selezioni tu le aree, scegli l'intensità, vedi l'anteprima e scarichi: gratis, senza registrazione, e la tua foto non lascia mai il tuo dispositivo.",
-  "id": "/loona-image-compressor/it/face-blur.html",
+  "id": "/it/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

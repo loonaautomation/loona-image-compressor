@@ -2,7 +2,7 @@
   "name": "Loona Instagram Kelien kansi koko",
   "short_name": "Instagram Kelien kansi koko",
   "description": "Tee Instagram kelien kansi tarkalleen kokoon 1080×1920 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/instagram-reels-cover-size.html",
+  "id": "/fi/instagram-reels-cover-size.html",
   "start_url": "./instagram-reels-cover-size.html",
   "scope": "./instagram-reels-cover-size.html",
   "display": "standalone",

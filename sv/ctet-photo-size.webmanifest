@@ -2,7 +2,7 @@
   "name": "Loona CTET Foto Storlek",
   "short_name": "CTET Foto Storlek",
   "description": "Ändra storlek på ditt CTET foto till anmälningsstorleken (3.5 × 4.5 cm (cirka 413 × 531 px vid 300 DPI)) och bandet 10–100 KB. Gratis, i din webbläsare — ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/ctet-photo-size.html",
+  "id": "/sv/ctet-photo-size.html",
   "start_url": "./ctet-photo-size.html",
   "scope": "./ctet-photo-size.html",
   "display": "standalone",

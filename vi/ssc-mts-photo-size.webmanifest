@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ảnh SSC MTS",
   "short_name": "Kích thước Ảnh SSC MTS",
   "description": "Thay đổi kích thước ảnh SSC MTS của bạn theo kích thước trong thông báo (200 × 230 px) và dải 20–50 KB. Miễn phí, ngay trong trình duyệt của bạn — không tải lên, không đăng ký.",
-  "id": "/loona-image-compressor/vi/ssc-mts-photo-size.html",
+  "id": "/vi/ssc-mts-photo-size.html",
   "start_url": "./ssc-mts-photo-size.html",
   "scope": "./ssc-mts-photo-size.html",
   "display": "standalone",

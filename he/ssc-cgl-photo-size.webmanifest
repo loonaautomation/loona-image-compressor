@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונה SSC CGL",
   "short_name": "גודל תמונה SSC CGL",
   "description": "שנו את גודל ה־תמונה של SSC CGL לגודל ההודעה הרשמית (200 × 230 px) ולרצועת 20–50 KB. בחינם, בדפדפן שלכם — ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/ssc-cgl-photo-size.html",
+  "id": "/he/ssc-cgl-photo-size.html",
   "start_url": "./ssc-cgl-photo-size.html",
   "scope": "./ssc-cgl-photo-size.html",
   "display": "standalone",

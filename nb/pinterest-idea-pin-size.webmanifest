@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Idé-pin / Historie-størrelse",
   "short_name": "Pinterest Idé-pin /",
   "description": "Lag en Pinterest idé-pin / historie med nøyaktig 1080×1920 px. Gratis størrelsesendrer/beskjærer i nettleseren din med reglene for sikre soner som stopper beskåret tekst og ansikter.",
-  "id": "/loona-image-compressor/nb/pinterest-idea-pin-size.html",
+  "id": "/nb/pinterest-idea-pin-size.html",
   "start_url": "./pinterest-idea-pin-size.html",
   "scope": "./pinterest-idea-pin-size.html",
   "display": "standalone",

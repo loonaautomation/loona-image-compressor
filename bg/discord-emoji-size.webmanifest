@@ -2,7 +2,7 @@
   "name": "Loona Размер на Персонализирано емоджи за Discord",
   "short_name": "Размер на Персонализирано",
   "description": "Направете персонализирано емоджи за Discord на точно 128×128 px. Безплатен инструмент за преоразмеряване/изрязване във вашия браузър с правилата за безопасната зона, които спират изрязване на текст и лица.",
-  "id": "/loona-image-compressor/bg/discord-emoji-size.html",
+  "id": "/bg/discord-emoji-size.html",
   "start_url": "./discord-emoji-size.html",
   "scope": "./discord-emoji-size.html",
   "display": "standalone",

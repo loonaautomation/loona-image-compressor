@@ -2,7 +2,7 @@
   "name": "Loona Ändra bildstorlek till 591 × 827 px online",
   "short_name": "Ändra bildstorlek till 591 ×",
   "description": "Ändra storlek på valfri bild till exakt 591×827 px — 50 × 70 mm vid 300 DPI — Kanada/Brasiliens passstorlek. Gratis i din webbläsare med beskärningskontroll; ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/resize-image-to-591x827.html",
+  "id": "/sv/resize-image-to-591x827.html",
   "start_url": "./resize-image-to-591x827.html",
   "scope": "./resize-image-to-591x827.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Αλλαγή Μεγέθους Εικόνας σε 512 × 512",
   "short_name": "Αλλαγή Μεγέθους Εικόνας σε",
   "description": "Αλλάξτε το μέγεθος οποιασδήποτε εικόνας σε ακριβώς 512 × 512 pixel (εικονίδια εφαρμογών, avatar και κύρια favicon) δωρεάν. Κάλυψη, περιέχει ή τέντωμα, JPG ή PNG, λήψη αμέσως — χωρίς εγγραφή, τίποτα δεν μεταφορτώνεται.",
-  "id": "/loona-image-compressor/el/resize-image-to-512x512.html",
+  "id": "/el/resize-image-to-512x512.html",
   "start_url": "./resize-image-to-512x512.html",
   "scope": "./resize-image-to-512x512.html",
   "display": "standalone",

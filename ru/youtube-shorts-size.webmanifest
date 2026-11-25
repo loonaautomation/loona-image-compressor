@@ -2,7 +2,7 @@
   "name": "Loona Размер Обложка / кадр Shorts для YouTube",
   "short_name": "Размер Обложка / кадр Shorts для YouTube",
   "description": "Make a YouTube shorts cover / frame at exactly 1080×1920 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/youtube-shorts-size.html",
+  "id": "/youtube-shorts-size.html",
   "start_url": "./youtube-shorts-size.html",
   "scope": "./youtube-shorts-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona EXIF Düzenleyici – JPG'de Fotoğraf Tarihini, Sanatçıyı ve Telif Hakkını Ücretsiz Düzenleyin",
   "short_name": "EXIF Düzenleyici – JPG'de Fotoğraf Tarihini, Sanatçıyı ve Telif Hakkını Ücretsiz Düzenleyin",
   "description": "Bir JPG fotoğrafının EXIF verisini çevrimiçi ücretsiz düzenleyin — çekilme tarihini düzeltin, adınızı sanatçı olarak ekleyin, telif hakkı, kamera markası ve modeli ayarlayın veya hiç EXIF'i olmayan bir fotoğrafta EXIF oluşturun. Pikseller asla yeniden kodlanmaz ve hiçbir şey yüklenmez.",
-  "id": "/loona-image-compressor/tr/edit-image-metadata.html",
+  "id": "/tr/edit-image-metadata.html",
   "start_url": "./edit-image-metadata.html",
   "scope": "./edit-image-metadata.html",
   "display": "standalone",

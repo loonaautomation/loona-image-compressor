@@ -2,7 +2,7 @@
   "name": "Loona Kép átméretezése 512 × 512 méretre",
   "short_name": "Kép átméretezése 512 × 512",
   "description": "Méretezzen át bármilyen képet pontosan 512 × 512 pixelre (alkalmazásikonok, avatarok és favicon-mesterek) ingyen. Befedés, befoglalás vagy nyújtás, JPG vagy PNG, azonnali letöltés — regisztráció nélkül, semmi feltöltve.",
-  "id": "/loona-image-compressor/hu/resize-image-to-512x512.html",
+  "id": "/hu/resize-image-to-512x512.html",
   "start_url": "./resize-image-to-512x512.html",
   "scope": "./resize-image-to-512x512.html",
   "display": "standalone",

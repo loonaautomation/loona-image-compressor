@@ -2,7 +2,7 @@
   "name": "Loona גודל פין סטנדרטי Pinterest",
   "short_name": "גודל פין סטנדרטי Pinterest",
   "description": "צרו פין סטנדרטי של Pinterest בדיוק ב־1000×1500 px. משנה גודל/חיתוך בחינם בדפדפן שלכם, עם כללי אזור הבטיחות שמונעים חיתוך של טקסט ופנים.",
-  "id": "/loona-image-compressor/he/pinterest-pin-size.html",
+  "id": "/he/pinterest-pin-size.html",
   "start_url": "./pinterest-pin-size.html",
   "scope": "./pinterest-pin-size.html",
   "display": "standalone",

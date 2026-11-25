@@ -2,7 +2,7 @@
   "name": "Loona גודל חתימה RRB NTPC (Railways)",
   "short_name": "גודל חתימה RRB NTPC (Railways)",
   "description": "שנו את גודל ה־חתימה של RRB NTPC (Railways) לגודל ההודעה הרשמית (140 × 60 px) ולרצועת 10–40 KB. בחינם, בדפדפן שלכם — ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/rrb-ntpc-signature-size.html",
+  "id": "/he/rrb-ntpc-signature-size.html",
   "start_url": "./rrb-ntpc-signature-size.html",
   "scope": "./rrb-ntpc-signature-size.html",
   "display": "standalone",

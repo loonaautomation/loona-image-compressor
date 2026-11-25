@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Semnătură AFCAT",
   "short_name": "Dimensiune Semnătură AFCAT",
   "description": "Redimensionează semnătură pentru AFCAT la dimensiunea din notificare (casetă scanată, raport aproximativ 7:2) și intervalul 10–50 KB. Gratuit, în browserul tău — fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/afcat-signature-size.html",
+  "id": "/ro/afcat-signature-size.html",
   "start_url": "./afcat-signature-size.html",
   "scope": "./afcat-signature-size.html",
   "display": "standalone",

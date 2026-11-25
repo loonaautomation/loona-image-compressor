@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายIBPS PO",
   "short_name": "ขนาดรูปถ่ายIBPS PO",
   "description": "ปรับขนาดรูปถ่ายIBPS POของคุณให้เป็นขนาดตามประกาศ (200 × 230 px) และช่วง 20–50 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/ibps-po-photo-size.html",
+  "id": "/th/ibps-po-photo-size.html",
   "start_url": "./ibps-po-photo-size.html",
   "scope": "./ibps-po-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Komprimovať PNG na 40 KB online",
   "short_name": "Komprimovať PNG na 40 KB",
   "description": "Komprimujte obrázok PNG na 40 KB alebo menej, zadarmo vo svojom prehliadači. Automatické vyhľadávanie nájde najlepšiu kvalitu, ktorá sa do limitu zmestí — bez registrácie a bez nahrávania.",
-  "id": "/loona-image-compressor/sk/compress-png-to-40kb.html",
+  "id": "/sk/compress-png-to-40kb.html",
   "start_url": "./compress-png-to-40kb.html",
   "scope": "./compress-png-to-40kb.html",
   "display": "standalone",

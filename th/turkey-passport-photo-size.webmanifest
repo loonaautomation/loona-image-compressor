@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายหนังสือเดินทาง / วีซ่าตุรกี (ไบโอเมตริก)",
   "short_name": "ขนาดรูปถ่ายหนังสือเดินทาง /",
   "description": "ทำรูปถ่ายหนังสือเดินทาง / วีซ่าตุรกี (ไบโอเมตริก)ที่ขนาดอย่างเป็นทางการ 50×60 mm (591×709 px) พื้นหลังขาวเรียบ เครื่องทำรูปออนไลน์ฟรี — ครอบตัด ดาวน์โหลด และแผ่นพิมพ์ ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/turkey-passport-photo-size.html",
+  "id": "/th/turkey-passport-photo-size.html",
   "start_url": "./turkey-passport-photo-size.html",
   "scope": "./turkey-passport-photo-size.html",
   "display": "standalone",

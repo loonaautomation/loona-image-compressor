@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar",
   "short_name": "Rozmiar",
   "description": "Utwórz YouTube miniatura filmu dokładnie 1280×720 px. Darmowe narzędzie do zmiany rozmiaru/przycinania w przeglądarce z zasadami strefy bezpiecznej, które chronią przycięty tekst i twarze.",
-  "id": "/loona-image-compressor/pl/youtube-thumbnail-size.html",
+  "id": "/pl/youtube-thumbnail-size.html",
   "start_url": "./youtube-thumbnail-size.html",
   "scope": "./youtube-thumbnail-size.html",
   "display": "standalone",

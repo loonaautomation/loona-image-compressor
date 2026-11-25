@@ -2,7 +2,7 @@
   "name": "Loona גודל פוסט תמונה (דיוקן) TikTok",
   "short_name": "גודל פוסט תמונה (דיוקן) TikTok",
   "description": "צרו פוסט תמונה (דיוקן) של TikTok בדיוק ב־1080×1350 px. משנה גודל/חיתוך בחינם בדפדפן שלכם, עם כללי אזור הבטיחות שמונעים חיתוך של טקסט ופנים.",
-  "id": "/loona-image-compressor/he/tiktok-photo-post-portrait-size.html",
+  "id": "/he/tiktok-photo-post-portrait-size.html",
   "start_url": "./tiktok-photo-post-portrait-size.html",
   "scope": "./tiktok-photo-post-portrait-size.html",
   "display": "standalone",

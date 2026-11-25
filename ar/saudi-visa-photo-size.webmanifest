@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة تأشيرة السعودية",
   "short_name": "حجم صورة تأشيرة السعودية",
   "description": "اصنع صورة تأشيرة السعودية بالحجم الرسمي 40×60 mm (472×709 px)، خلفية بيضاء سادة. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/saudi-visa-photo-size.html",
+  "id": "/ar/saudi-visa-photo-size.html",
   "start_url": "./saudi-visa-photo-size.html",
   "scope": "./saudi-visa-photo-size.html",
   "display": "standalone",

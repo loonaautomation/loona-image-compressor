@@ -2,7 +2,7 @@
   "name": "Loona Schengen-viisumikuva koko",
   "short_name": "Schengen-viisumikuva koko",
   "description": "Tee Schengen-viisumikuva virallisessa koossa 35×45 mm (413×531 px), taustana vaaleanharmaa tai tavallinen vaalea tausta. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/schengen-visa-photo-size.html",
+  "id": "/fi/schengen-visa-photo-size.html",
   "start_url": "./schengen-visa-photo-size.html",
   "scope": "./schengen-visa-photo-size.html",
   "display": "standalone",

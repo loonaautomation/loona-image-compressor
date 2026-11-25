@@ -2,7 +2,7 @@
   "name": "Loona Schengen-visumfoto størrelse",
   "short_name": "Schengen-visumfoto størrelse",
   "description": "Lav et Schengen-visumfoto i den officielle størrelse 35×45 mm (413×531 px), lysegrå eller ensfarvet lys baggrund baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
-  "id": "/loona-image-compressor/da/schengen-visa-photo-size.html",
+  "id": "/da/schengen-visa-photo-size.html",
   "start_url": "./schengen-visa-photo-size.html",
   "scope": "./schengen-visa-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Розмір Зображення допису спільноти YouTube",
   "short_name": "Розмір Зображення допису",
   "description": "Зробіть зображення допису спільноти для YouTube рівно 1080×1080 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/youtube-community-post-size.html",
+  "id": "/uk/youtube-community-post-size.html",
   "start_url": "./youtube-community-post-size.html",
   "scope": "./youtube-community-post-size.html",
   "display": "standalone",

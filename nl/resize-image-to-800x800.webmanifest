@@ -2,7 +2,7 @@
   "name": "Loona Afbeelding aanpassen naar 800 × 800",
   "short_name": "Afbeelding aanpassen naar 800",
   "description": "Pas elke afbeelding gratis aan tot exact 800 × 800 pixels (marketplace and product listing photos). Dekken, behouden of uitrekken, JPG of PNG, direct downloaden — geen aanmelding, niets geüpload.",
-  "id": "/loona-image-compressor/nl/resize-image-to-800x800.html",
+  "id": "/nl/resize-image-to-800x800.html",
   "start_url": "./resize-image-to-800x800.html",
   "scope": "./resize-image-to-800x800.html",
   "display": "standalone",

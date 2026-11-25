@@ -2,7 +2,7 @@
   "name": "Loona Размер Снимка за виза за Канада (цифрова)",
   "short_name": "Размер Снимка за виза за",
   "description": "Направете Снимка за виза за Канада (цифрова) в официалния размер 35×45 mm (420×540 px), фон обикновен бял или светъл. Безплатен онлайн инструмент — изрязване, изтегляне и лист за печат, без качване.",
-  "id": "/loona-image-compressor/bg/canada-visa-photo-size.html",
+  "id": "/bg/canada-visa-photo-size.html",
   "start_url": "./canada-visa-photo-size.html",
   "scope": "./canada-visa-photo-size.html",
   "display": "standalone",

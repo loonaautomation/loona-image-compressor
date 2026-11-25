@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Banner máy chủ Discord",
   "short_name": "Kích thước Banner máy chủ",
   "description": "Tạo banner máy chủ Discord chính xác 960×540 px. Công cụ thay đổi kích thước/cắt ảnh miễn phí trong trình duyệt của bạn, kèm các quy tắc vùng an toàn giúp văn bản và khuôn mặt không bị cắt mất.",
-  "id": "/loona-image-compressor/vi/discord-server-banner-size.html",
+  "id": "/vi/discord-server-banner-size.html",
   "start_url": "./discord-server-banner-size.html",
   "scope": "./discord-server-banner-size.html",
   "display": "standalone",

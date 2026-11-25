@@ -2,7 +2,7 @@
   "name": "Loona US-visumfoto (DS-160) størrelse",
   "short_name": "US-visumfoto (DS-160)",
   "description": "Lav et US-visumfoto (DS-160) i den officielle størrelse 51×51 mm (600×600 px), ensfarvet hvid baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
-  "id": "/loona-image-compressor/da/us-visa-photo-size.html",
+  "id": "/da/us-visa-photo-size.html",
   "start_url": "./us-visa-photo-size.html",
   "scope": "./us-visa-photo-size.html",
   "display": "standalone",

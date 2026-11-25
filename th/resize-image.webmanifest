@@ -2,7 +2,7 @@
   "name": "Loona ปรับขนาดรูปภาพ",
   "short_name": "ปรับขนาดรูปภาพ",
   "description": "ปรับขนาดรูปภาพใดก็ได้ตามพิกเซล เซนติเมตร หรือนิ้วพร้อมการตั้งค่า DPI ฟรี รักษาอัตราส่วน เลือก JPG, PNG หรือ WebP และดาวน์โหลดทันที — ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/resize-image.html",
+  "id": "/th/resize-image.html",
   "start_url": "./resize-image.html",
   "scope": "./resize-image.html",
   "display": "standalone",

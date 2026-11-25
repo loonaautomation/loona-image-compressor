@@ -2,7 +2,7 @@
   "name": "Loona Redimensionează imaginea la 512 × 512",
   "short_name": "Redimensionează imaginea la",
   "description": "Redimensionează orice imagine la exact 512 × 512 pixeli (app icons, avatars and favicon masters) gratuit. Acoperă, conține sau întinde, JPG sau PNG, descarcă instantaneu — fără înregistrare, nimic încărcat.",
-  "id": "/loona-image-compressor/ro/resize-image-to-512x512.html",
+  "id": "/ro/resize-image-to-512x512.html",
   "start_url": "./resize-image-to-512x512.html",
   "scope": "./resize-image-to-512x512.html",
   "display": "standalone",

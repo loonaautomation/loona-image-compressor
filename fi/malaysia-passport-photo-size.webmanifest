@@ -2,7 +2,7 @@
   "name": "Loona Malesian passikuva koko",
   "short_name": "Malesian passikuva koko",
   "description": "Tee Malesian passikuva virallisessa koossa 35×50 mm (413×591 px), taustana tavallinen valkoinen. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/malaysia-passport-photo-size.html",
+  "id": "/fi/malaysia-passport-photo-size.html",
   "start_url": "./malaysia-passport-photo-size.html",
   "scope": "./malaysia-passport-photo-size.html",
   "display": "standalone",

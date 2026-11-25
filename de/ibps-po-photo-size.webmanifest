@@ -2,7 +2,7 @@
   "name": "Loona IBPS PO Foto Größe",
   "short_name": "IBPS PO Foto Größe",
   "description": "Passen Sie Ihr IBPS PO-Foto auf die Größe der Bekanntmachung (200 × 230 px) und den Bereich 20–50 KB an. Kostenlos, in Ihrem Browser — ohne Upload, ohne Anmeldung.",
-  "id": "/loona-image-compressor/de/ibps-po-photo-size.html",
+  "id": "/de/ibps-po-photo-size.html",
   "start_url": "./ibps-po-photo-size.html",
   "scope": "./ibps-po-photo-size.html",
   "display": "standalone",

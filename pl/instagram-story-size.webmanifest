@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar",
   "short_name": "Rozmiar",
   "description": "Utwórz Instagram relacja dokładnie 1080×1920 px. Darmowe narzędzie do zmiany rozmiaru/przycinania w przeglądarce z zasadami strefy bezpiecznej, które chronią przycięty tekst i twarze.",
-  "id": "/loona-image-compressor/pl/instagram-story-size.html",
+  "id": "/pl/instagram-story-size.html",
   "start_url": "./instagram-story-size.html",
   "scope": "./instagram-story-size.html",
   "display": "standalone",

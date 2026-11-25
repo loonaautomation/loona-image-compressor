@@ -2,7 +2,7 @@
   "name": "Loona حجم التوقيع AFCAT",
   "short_name": "حجم التوقيع AFCAT",
   "description": "غيّر حجم التوقيع الخاص بك لامتحان AFCAT إلى حجم الإشعار (مربع ممسوح ضوئياً، نسبة نحو 7:2) ونطاق 10–50 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/afcat-signature-size.html",
+  "id": "/ar/afcat-signature-size.html",
   "start_url": "./afcat-signature-size.html",
   "scope": "./afcat-signature-size.html",
   "display": "standalone",

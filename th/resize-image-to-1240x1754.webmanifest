@@ -2,7 +2,7 @@
   "name": "Loona ปรับขนาดรูปภาพเป็น 1240 × 1754 px ออนไลน์",
   "short_name": "ปรับขนาดรูปภาพเป็น 1240 ×",
   "description": "ปรับขนาดรูปภาพใดก็ได้ให้เป็น 1240×1754 px พอดี — A4 ที่ 150 DPI ฟรีในเบราว์เซอร์ของคุณพร้อมการควบคุมการครอบตัด ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/resize-image-to-1240x1754.html",
+  "id": "/th/resize-image-to-1240x1754.html",
   "start_url": "./resize-image-to-1240x1754.html",
   "scope": "./resize-image-to-1240x1754.html",
   "display": "standalone",

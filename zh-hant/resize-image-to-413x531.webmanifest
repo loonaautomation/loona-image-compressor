@@ -2,7 +2,7 @@
   "name": "Loona 線上將圖片調整為 413 × 531 px",
   "short_name": "線上將圖片調整為 413 × 531 px",
   "description": "將任何圖片調整為精確的 413×531 px — 300 DPI 下的 35 × 45 mm — ICAO/申根列印尺寸的畫素值。在瀏覽器中免費使用，帶裁剪控制；無需上傳，無需註冊。",
-  "id": "/loona-image-compressor/zh-hant/resize-image-to-413x531.html",
+  "id": "/zh-hant/resize-image-to-413x531.html",
   "start_url": "./resize-image-to-413x531.html",
   "scope": "./resize-image-to-413x531.html",
   "display": "standalone",

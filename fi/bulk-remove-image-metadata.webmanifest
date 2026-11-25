@@ -2,7 +2,7 @@
   "name": "Loona Metatietojen joukkopoistaja",
   "short_name": "Metatietojen joukkopoistaja",
   "description": "Poista EXIF-, GPS- ja XMP-metatiedot monesta kuvasta kerralla — pudota erä JPG-, PNG- ja WebP-tiedostoja, poista ne kaikki selaimessasi ja lataa kaikki yhtenä ZIP:nä. Ilmainen, yksityinen, ei latauksia palvelimelle, ei uudelleenkoodausta.",
-  "id": "/loona-image-compressor/fi/bulk-remove-image-metadata.html",
+  "id": "/fi/bulk-remove-image-metadata.html",
   "start_url": "./bulk-remove-image-metadata.html",
   "scope": "./bulk-remove-image-metadata.html",
   "display": "standalone",

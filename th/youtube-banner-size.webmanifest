@@ -2,7 +2,7 @@
   "name": "Loona ขนาดแบนเนอร์ช่อง YouTube",
   "short_name": "ขนาดแบนเนอร์ช่อง YouTube",
   "description": "ทำแบนเนอร์ช่อง YouTube ที่ขนาด 2560×1440 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/youtube-banner-size.html",
+  "id": "/th/youtube-banner-size.html",
   "start_url": "./youtube-banner-size.html",
   "scope": "./youtube-banner-size.html",
   "display": "standalone",

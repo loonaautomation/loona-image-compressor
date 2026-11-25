@@ -2,7 +2,7 @@
   "name": "Loona Intian passikuva koko",
   "short_name": "Intian passikuva koko",
   "description": "Tee Intian passikuva virallisessa koossa 51×51 mm (600×600 px), taustana tavallinen valkoinen. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/india-passport-photo-size.html",
+  "id": "/fi/india-passport-photo-size.html",
   "start_url": "./india-passport-photo-size.html",
   "scope": "./india-passport-photo-size.html",
   "display": "standalone",

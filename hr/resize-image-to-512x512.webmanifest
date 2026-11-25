@@ -2,7 +2,7 @@
   "name": "Loona Promijeni veličinu slike na 512 × 512",
   "short_name": "Promijeni veličinu slike na",
   "description": "Promijenite veličinu bilo koje slike točno na 512 × 512 piksela (ikone aplikacija, avatare i glavne favicone) besplatno. Pokrij, sadrži ili rastegni, JPG ili PNG, trenutno preuzimanje — bez registracije, ništa se ne prenosi.",
-  "id": "/loona-image-compressor/hr/resize-image-to-512x512.html",
+  "id": "/hr/resize-image-to-512x512.html",
   "start_url": "./resize-image-to-512x512.html",
   "scope": "./resize-image-to-512x512.html",
   "display": "standalone",

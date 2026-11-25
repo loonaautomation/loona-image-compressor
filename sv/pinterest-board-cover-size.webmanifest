@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Anslagstavleomslag Storlek",
   "short_name": "Pinterest Anslagstavleomslag",
   "description": "Skapa en Pinterest anslagstavleomslag på exakt 800×450 px. Gratis storleksändrare/beskärare i din webbläsare med säker-zon-reglerna som stoppar beskuren text och ansikten.",
-  "id": "/loona-image-compressor/sv/pinterest-board-cover-size.html",
+  "id": "/sv/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",
   "scope": "./pinterest-board-cover-size.html",
   "display": "standalone",

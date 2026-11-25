@@ -2,7 +2,7 @@
   "name": "Loona ขนาดโลโก้เพจบริษัท LinkedIn",
   "short_name": "ขนาดโลโก้เพจบริษัท LinkedIn",
   "description": "ทำโลโก้เพจบริษัท LinkedIn ที่ขนาด 300×300 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/linkedin-company-logo-size.html",
+  "id": "/th/linkedin-company-logo-size.html",
   "start_url": "./linkedin-company-logo-size.html",
   "scope": "./linkedin-company-logo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kasvojen sumennus",
   "short_name": "Kasvojen sumennus",
   "description": "Sumenna tai pikselöi kasvot, rekisterikilvet ja yksityiset tiedot missä tahansa kuvassa. Valitset alueet itse, valitset voimakkuuden, esikatselet ja lataat — ilmaiseksi, ei rekisteröitymistä, eikä kuvasi koskaan poistu laitteeltasi.",
-  "id": "/loona-image-compressor/fi/face-blur.html",
+  "id": "/fi/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

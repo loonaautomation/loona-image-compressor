@@ -2,7 +2,7 @@
   "name": "Loona NADRA / CNIC fotókészítő",
   "short_name": "NADRA / CNIC fotókészítő",
   "description": "Készítsen NADRA CNIC fotót online ingyen: pontosan 350×467 px a Pak-ID feltöltéshez és 35×45 mm-es nyomtatási méret. Fehér háttér, regisztráció nélkül, teljesen privát.",
-  "id": "/loona-image-compressor/hu/nadra-cnic-photo-maker.html",
+  "id": "/hu/nadra-cnic-photo-maker.html",
   "start_url": "./nadra-cnic-photo-maker.html",
   "scope": "./nadra-cnic-photo-maker.html",
   "display": "standalone",

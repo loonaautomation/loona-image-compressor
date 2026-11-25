@@ -2,7 +2,7 @@
   "name": "Loona ממיר GIF ל־WEBP",
   "short_name": "ממיר GIF ל־WEBP",
   "description": "המירו GIF ל־WEBP באינטרנט, בחינם, בדפדפן שלכם. המרה אמיתית במכשיר שלכם — ללא העלאה, ללא הרשמה, ללא סימני מים.",
-  "id": "/loona-image-compressor/he/gif-to-webp.html",
+  "id": "/he/gif-to-webp.html",
   "start_url": "./gif-to-webp.html",
   "scope": "./gif-to-webp.html",
   "display": "standalone",

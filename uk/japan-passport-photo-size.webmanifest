@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото на паспорт Японії",
   "short_name": "Розмір Фото на паспорт Японії",
   "description": "Зробіть Фото на паспорт Японії в офіційному розмірі 35×45 мм (413×531 пікс.), тло: однотонне біле або світле, без візерунків. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
-  "id": "/loona-image-compressor/uk/japan-passport-photo-size.html",
+  "id": "/uk/japan-passport-photo-size.html",
   "start_url": "./japan-passport-photo-size.html",
   "scope": "./japan-passport-photo-size.html",
   "display": "standalone",

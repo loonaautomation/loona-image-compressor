@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Διαβατηρίου Ιταλίας",
   "short_name": "Φωτογραφία Διαβατηρίου Ιταλίας",
   "description": "Δημιουργήστε Φωτογραφία Διαβατηρίου Ιταλίας στο επίσημο μέγεθος 35×40 mm (413×472 px), φόντο απλό λευκό ή ανοιχτό. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/italy-passport-photo-size.html",
+  "id": "/el/italy-passport-photo-size.html",
   "start_url": "./italy-passport-photo-size.html",
   "scope": "./italy-passport-photo-size.html",
   "display": "standalone",

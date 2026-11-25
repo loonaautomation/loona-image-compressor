@@ -2,7 +2,7 @@
   "name": "Loona SSC CGL İmza Boyutu — 140 × 60 px, 10–20 KB",
   "short_name": "SSC CGL İmza Boyutu — 140 × 60 px, 10–20 KB",
   "description": "SSC CGL imza belgenizi duyuru boyutuna (140 × 60 px) ve 10–20 KB bandına getirin. Ücretsiz, tarayıcınızda — yükleme yok, kayıt yok.",
-  "id": "/loona-image-compressor/tr/ssc-cgl-signature-size.html",
+  "id": "/tr/ssc-cgl-signature-size.html",
   "start_url": "./ssc-cgl-signature-size.html",
   "scope": "./ssc-cgl-signature-size.html",
   "display": "standalone",

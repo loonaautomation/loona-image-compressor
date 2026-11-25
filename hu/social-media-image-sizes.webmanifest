@@ -2,7 +2,7 @@
   "name": "Loona Közösségimédia-képméretek 2026",
   "short_name": "Közösségimédia-képméretek 2026",
   "description": "Pontos képméretek Instagramhoz, Facebookhoz, YouTube-hoz, X-hez, LinkedInhez, Pinteresthez, TikTokhoz és Discordhoz — minden helyhez készítőeszközzel és biztonságoszóna-útmutatóval.",
-  "id": "/loona-image-compressor/hu/social-media-image-sizes.html",
+  "id": "/hu/social-media-image-sizes.html",
   "start_url": "./social-media-image-sizes.html",
   "scope": "./social-media-image-sizes.html",
   "display": "standalone",

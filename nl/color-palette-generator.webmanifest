@@ -2,7 +2,7 @@
   "name": "Loona Kleurenpaletgenerator",
   "short_name": "Kleurenpaletgenerator",
   "description": "Genereer harmonieuze kleurenpaletten uit elke basiskleur — analoge, complementaire, triadische en monochromatische schema's met kopieerbare HEX-codes. Gratis, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/color-palette-generator.html",
+  "id": "/nl/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",
   "scope": "./color-palette-generator.html",
   "display": "standalone",

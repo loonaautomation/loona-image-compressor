@@ -2,7 +2,7 @@
   "name": "Loona גודל פין רעיון / סטורי Pinterest",
   "short_name": "גודל פין רעיון / סטורי",
   "description": "צרו פין רעיון / סטורי של Pinterest בדיוק ב־1080×1920 px. משנה גודל/חיתוך בחינם בדפדפן שלכם, עם כללי אזור הבטיחות שמונעים חיתוך של טקסט ופנים.",
-  "id": "/loona-image-compressor/he/pinterest-idea-pin-size.html",
+  "id": "/he/pinterest-idea-pin-size.html",
   "start_url": "./pinterest-idea-pin-size.html",
   "scope": "./pinterest-idea-pin-size.html",
   "display": "standalone",

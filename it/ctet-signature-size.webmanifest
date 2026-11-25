@@ -2,7 +2,7 @@
   "name": "Loona Formato Firma CTET",
   "short_name": "Formato Firma CTET",
   "description": "Ridimensiona la tua firma CTET al formato previsto dal bando (riquadro scansionato, rapporto circa 7:2) e all&#x27;intervallo 3–30 KB. Gratis, nel tuo browser: senza caricamenti e senza registrazione.",
-  "id": "/loona-image-compressor/it/ctet-signature-size.html",
+  "id": "/it/ctet-signature-size.html",
   "start_url": "./ctet-signature-size.html",
   "scope": "./ctet-signature-size.html",
   "display": "standalone",

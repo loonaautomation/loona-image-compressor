@@ -2,7 +2,7 @@
   "name": "Loona Veličina GATE Potpis",
   "short_name": "Veličina GATE Potpis",
   "description": "Promijenite veličinu svoje GATE potpis na veličinu iz obavijesti (skenirani okvir, omjer oko 7:2) i pojas 3–100 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/gate-signature-size.html",
+  "id": "/hr/gate-signature-size.html",
   "start_url": "./gate-signature-size.html",
   "scope": "./gate-signature-size.html",
   "display": "standalone",

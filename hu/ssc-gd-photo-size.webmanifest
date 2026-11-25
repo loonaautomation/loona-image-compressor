@@ -2,7 +2,7 @@
   "name": "Loona SSC GD Constable Fénykép méret",
   "short_name": "SSC GD Constable Fénykép méret",
   "description": "Méretezze át a SSC GD Constable fotó fájlját a kiírás szerinti méretre (200 × 230 px) és a 20–50 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/ssc-gd-photo-size.html",
+  "id": "/hu/ssc-gd-photo-size.html",
   "start_url": "./ssc-gd-photo-size.html",
   "scope": "./ssc-gd-photo-size.html",
   "display": "standalone",

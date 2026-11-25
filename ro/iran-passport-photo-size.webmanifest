@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie pentru pașaportul Iranului",
   "short_name": "Dimensiune Fotografie pentru",
   "description": "Creează un Fotografie pentru pașaportul Iranului la dimensiunea oficială 30×40 mm (354×472 px), fundal alb simplu sau deschis. Creator online gratuit — decupează, descarcă și imprimă foaia, fără încărcare.",
-  "id": "/loona-image-compressor/ro/iran-passport-photo-size.html",
+  "id": "/ro/iran-passport-photo-size.html",
   "start_url": "./iran-passport-photo-size.html",
   "scope": "./iran-passport-photo-size.html",
   "display": "standalone",

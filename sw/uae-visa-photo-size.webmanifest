@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Visa ya UAE / Kitambulisho cha Emirates",
   "short_name": "Ukubwa wa Picha ya Visa ya",
   "description": "Tengeneza Picha ya Visa ya UAE / Kitambulisho cha Emirates katika ukubwa rasmi wa milimita 40×60 (px 472×709), mandharinyuma ya nyeupe tambarare. Kitengenezaji bure cha mtandaoni — kata, pakua na uchapishe karatasi, bila kupakia.",
-  "id": "/loona-image-compressor/sw/uae-visa-photo-size.html",
+  "id": "/sw/uae-visa-photo-size.html",
   "start_url": "./uae-visa-photo-size.html",
   "scope": "./uae-visa-photo-size.html",
   "display": "standalone",

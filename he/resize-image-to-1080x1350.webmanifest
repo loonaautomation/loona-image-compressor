@@ -2,7 +2,7 @@
   "name": "Loona שינוי גודל תמונה ל־1080 × 1350",
   "short_name": "שינוי גודל תמונה ל־1080 × 1350",
   "description": "שנו גודל של כל תמונה בדיוק ל־1080 × 1350 פיקסלים (פוסטים דיוקניים ב־Instagram ביחס 4:5) בחינם. כיסוי, הכלה או מתיחה, JPG או PNG, הורדה מיידית — ללא הרשמה, שום דבר לא מועלה.",
-  "id": "/loona-image-compressor/he/resize-image-to-1080x1350.html",
+  "id": "/he/resize-image-to-1080x1350.html",
   "start_url": "./resize-image-to-1080x1350.html",
   "scope": "./resize-image-to-1080x1350.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie de profil Instagram",
   "short_name": "Dimensiune Fotografie de",
   "description": "Creează un fotografie de profil Instagram la exact 1080×1080 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/instagram-profile-picture-size.html",
+  "id": "/ro/instagram-profile-picture-size.html",
   "start_url": "./instagram-profile-picture-size.html",
   "scope": "./instagram-profile-picture-size.html",
   "display": "standalone",

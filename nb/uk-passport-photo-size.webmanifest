@@ -2,7 +2,7 @@
   "name": "Loona UK Passport Photo-størrelse",
   "short_name": "UK Passport Photo-størrelse",
   "description": "Lag et UK Passport Photo i den offisielle størrelsen 35×45 mm (600×750 px), ensfarget lys grå eller krem bakgrunn. Gratis verktøy på nett — beskjær, last ned og skriv ut ark, ingen opplasting.",
-  "id": "/loona-image-compressor/nb/uk-passport-photo-size.html",
+  "id": "/nb/uk-passport-photo-size.html",
   "start_url": "./uk-passport-photo-size.html",
   "scope": "./uk-passport-photo-size.html",
   "display": "standalone",

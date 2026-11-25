@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото на CNIC NADRA Пакистану",
   "short_name": "Розмір Фото на CNIC NADRA",
   "description": "Зробіть Фото на CNIC NADRA Пакистану в офіційному розмірі 51×51 мм (600×600 пікс.), тло: однотонне біле. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
-  "id": "/loona-image-compressor/uk/pakistan-nadra-cnic-photo-size.html",
+  "id": "/uk/pakistan-nadra-cnic-photo-size.html",
   "start_url": "./pakistan-nadra-cnic-photo-size.html",
   "scope": "./pakistan-nadra-cnic-photo-size.html",
   "display": "standalone",

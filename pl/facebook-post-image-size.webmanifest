@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar",
   "short_name": "Rozmiar",
   "description": "Utwórz Facebook post / obraz linku dokładnie 1200×630 px. Darmowe narzędzie do zmiany rozmiaru/przycinania w przeglądarce z zasadami strefy bezpiecznej, które chronią przycięty tekst i twarze.",
-  "id": "/loona-image-compressor/pl/facebook-post-image-size.html",
+  "id": "/pl/facebook-post-image-size.html",
   "start_url": "./facebook-post-image-size.html",
   "scope": "./facebook-post-image-size.html",
   "display": "standalone",

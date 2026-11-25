@@ -2,7 +2,7 @@
   "name": "Loona تغيير حجم الصورة",
   "short_name": "تغيير حجم الصورة",
   "description": "غيّر حجم أي صورة بالبكسل أو cm أو البوصة مع إعداد DPI مجانًا. أبقِ نسبة العرض إلى الارتفاع، اختر JPG أو PNG أو WebP ونزّل فورًا — لا تسجيل مطلوب.",
-  "id": "/loona-image-compressor/ar/resize-image.html",
+  "id": "/ar/resize-image.html",
   "start_url": "./resize-image.html",
   "scope": "./resize-image.html",
   "display": "standalone",

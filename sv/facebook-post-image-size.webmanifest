@@ -2,7 +2,7 @@
   "name": "Loona Facebook Inläggs- / Länkbild Storlek",
   "short_name": "Facebook Inläggs- / Länkbild",
   "description": "Skapa en Facebook inläggs- / länkbild på exakt 1200×630 px. Gratis storleksändrare/beskärare i din webbläsare med säker-zon-reglerna som stoppar beskuren text och ansikten.",
-  "id": "/loona-image-compressor/sv/facebook-post-image-size.html",
+  "id": "/sv/facebook-post-image-size.html",
   "start_url": "./facebook-post-image-size.html",
   "scope": "./facebook-post-image-size.html",
   "display": "standalone",

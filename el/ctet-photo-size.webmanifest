@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία CTET",
   "short_name": "Φωτογραφία CTET",
   "description": "Αλλάξτε το μέγεθος της φωτογραφία CTET στο μέγεθος της προκήρυξης (3.5 × 4.5 cm (περίπου 413 × 531 px στα 300 DPI)) και στη ζώνη 10–100 KB. Δωρεάν, στο πρόγραμμα περιήγησής σας — χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/ctet-photo-size.html",
+  "id": "/el/ctet-photo-size.html",
   "start_url": "./ctet-photo-size.html",
   "scope": "./ctet-photo-size.html",
   "display": "standalone",

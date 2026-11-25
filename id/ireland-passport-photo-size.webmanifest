@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Paspor Irlandia",
   "short_name": "Ukuran Foto Paspor Irlandia",
   "description": "Buat Foto Paspor Irlandia pada ukuran resmi 35×45 mm (413×531 px), latar belakang putih polos atau abu-abu muda. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/ireland-passport-photo-size.html",
+  "id": "/id/ireland-passport-photo-size.html",
   "start_url": "./ireland-passport-photo-size.html",
   "scope": "./ireland-passport-photo-size.html",
   "display": "standalone",

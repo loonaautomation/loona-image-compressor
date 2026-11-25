@@ -2,7 +2,7 @@
   "name": "Loona 写真背景チェンジャー",
   "short_name": "写真背景チェンジャー",
   "description": "写真の背景をオンラインで無料で白、青、薄い灰色、または赤に変更できます。フラッドフィルとブラシツール、ブラウザ内でのプライバシー、AIアップロードなし。",
-  "id": "/loona-image-compressor/ja/photo-background-changer.html",
+  "id": "/ja/photo-background-changer.html",
   "start_url": "./photo-background-changer.html",
   "scope": "./photo-background-changer.html",
   "display": "standalone",

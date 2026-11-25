@@ -2,7 +2,7 @@
   "name": "Loona ขนาดโพสต์สี่เหลี่ยมจัตุรัส (1",
   "short_name": "ขนาดโพสต์สี่เหลี่ยมจัตุรัส (1",
   "description": "ทำโพสต์สี่เหลี่ยมจัตุรัส (1:1) Instagram ที่ขนาด 1080×1080 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/instagram-square-post-size.html",
+  "id": "/th/instagram-square-post-size.html",
   "start_url": "./instagram-square-post-size.html",
   "scope": "./instagram-square-post-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kompres JPG ke 30 KB Online",
   "short_name": "Kompres JPG ke 30 KB Online",
   "description": "Kompres gambar JPG ke 30 KB atau kurang, gratis di browser Anda. Pencarian otomatis menemukan kualitas terbaik yang muat — tanpa pendaftaran, tanpa unggah.",
-  "id": "/loona-image-compressor/id/compress-jpg-to-30kb.html",
+  "id": "/id/compress-jpg-to-30kb.html",
   "start_url": "./compress-jpg-to-30kb.html",
   "scope": "./compress-jpg-to-30kb.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kolumbian viisumikuva koko",
   "short_name": "Kolumbian viisumikuva koko",
   "description": "Tee Kolumbian viisumikuva virallisessa koossa 30×40 mm (354×472 px), taustana tavallinen valkoinen. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/colombia-visa-photo-size.html",
+  "id": "/fi/colombia-visa-photo-size.html",
   "start_url": "./colombia-visa-photo-size.html",
   "scope": "./colombia-visa-photo-size.html",
   "display": "standalone",

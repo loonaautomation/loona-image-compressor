@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) Álló bejegyzés (4",
   "short_name": "X (Twitter) Álló bejegyzés (4",
   "description": "Készítsen X (Twitter) álló bejegyzés (4:5) képet pontosan 1080×1350 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/x-portrait-post-size.html",
+  "id": "/hu/x-portrait-post-size.html",
   "start_url": "./x-portrait-post-size.html",
   "scope": "./x-portrait-post-size.html",
   "display": "standalone",

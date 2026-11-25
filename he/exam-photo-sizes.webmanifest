@@ -2,7 +2,7 @@
   "name": "Loona גדלי תמונות וחתימות למבחנים",
   "short_name": "גדלי תמונות וחתימות למבחנים",
   "description": "גדלי תמונות וחתימות ורצועות KB ל־20 מבחנים הודיים מרכזיים — SSC, IBPS, SBI, UPSC, RRB, JEE, NEET ועוד, כל אחד עם כלי יצירה.",
-  "id": "/loona-image-compressor/he/exam-photo-sizes.html",
+  "id": "/he/exam-photo-sizes.html",
   "start_url": "./exam-photo-sizes.html",
   "scope": "./exam-photo-sizes.html",
   "display": "standalone",

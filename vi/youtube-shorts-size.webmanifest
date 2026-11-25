@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ảnh bìa / Khung hình Shorts YouTube",
   "short_name": "Kích thước Ảnh bìa / Khung",
   "description": "Tạo ảnh bìa / khung hình shorts YouTube chính xác 1080×1920 px. Công cụ thay đổi kích thước/cắt ảnh miễn phí trong trình duyệt của bạn, kèm các quy tắc vùng an toàn giúp văn bản và khuôn mặt không bị cắt mất.",
-  "id": "/loona-image-compressor/vi/youtube-shorts-size.html",
+  "id": "/vi/youtube-shorts-size.html",
   "start_url": "./youtube-shorts-size.html",
   "scope": "./youtube-shorts-size.html",
   "display": "standalone",

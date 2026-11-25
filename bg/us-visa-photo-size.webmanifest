@@ -2,7 +2,7 @@
   "name": "Loona Размер Снимка за виза за САЩ (DS-160)",
   "short_name": "Размер Снимка за виза за САЩ",
   "description": "Направете Снимка за виза за САЩ (DS-160) в официалния размер 51×51 mm (600×600 px), фон обикновен бял. Безплатен онлайн инструмент — изрязване, изтегляне и лист за печат, без качване.",
-  "id": "/loona-image-compressor/bg/us-visa-photo-size.html",
+  "id": "/bg/us-visa-photo-size.html",
   "start_url": "./us-visa-photo-size.html",
   "scope": "./us-visa-photo-size.html",
   "display": "standalone",

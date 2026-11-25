@@ -2,7 +2,7 @@
   "name": "Loona Afbeelding aanpassen",
   "short_name": "Afbeelding aanpassen",
   "description": "Pas elke afbeelding gratis aan op pixels, cm of inches met een DPI-instelling. Behoud de beeldverhouding, kies JPG, PNG of WebP en download direct — geen aanmelding nodig.",
-  "id": "/loona-image-compressor/nl/resize-image.html",
+  "id": "/nl/resize-image.html",
   "start_url": "./resize-image.html",
   "scope": "./resize-image.html",
   "display": "standalone",

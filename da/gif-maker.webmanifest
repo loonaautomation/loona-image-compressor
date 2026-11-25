@@ -2,7 +2,7 @@
   "name": "Loona GIF Maker",
   "short_name": "GIF Maker",
   "description": "Opret animerede GIF'er gratis online med Loona GIF Maker — kombiner dine fotos til en GIF, der kører i sløjfe. Ingen tilmelding, ingen upload, intet vandmærke; alt kører i din browser.",
-  "id": "/loona-image-compressor/da/gif-maker.html",
+  "id": "/da/gif-maker.html",
   "start_url": "./gif-maker.html",
   "scope": "./gif-maker.html",
   "display": "standalone",

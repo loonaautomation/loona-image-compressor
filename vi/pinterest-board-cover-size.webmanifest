@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ảnh bìa bảng Pinterest",
   "short_name": "Kích thước Ảnh bìa bảng",
   "description": "Tạo ảnh bìa bảng Pinterest chính xác 800×450 px. Công cụ thay đổi kích thước/cắt ảnh miễn phí trong trình duyệt của bạn, kèm các quy tắc vùng an toàn giúp văn bản và khuôn mặt không bị cắt mất.",
-  "id": "/loona-image-compressor/vi/pinterest-board-cover-size.html",
+  "id": "/vi/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",
   "scope": "./pinterest-board-cover-size.html",
   "display": "standalone",

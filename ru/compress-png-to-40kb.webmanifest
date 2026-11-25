@@ -2,7 +2,7 @@
   "name": "Loona Сжать PNG до 40 KB онлайн",
   "short_name": "Сжать PNG до 40 KB онлайн",
   "description": "Compress a PNG image to 40 KB or under, free in your browser. Automatic search finds the best quality that fits — no signup, no upload.",
-  "id": "/loona-image-compressor/compress-png-to-40kb.html",
+  "id": "/compress-png-to-40kb.html",
   "start_url": "./compress-png-to-40kb.html",
   "scope": "./compress-png-to-40kb.html",
   "display": "standalone",

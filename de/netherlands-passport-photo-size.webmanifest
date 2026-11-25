@@ -2,7 +2,7 @@
   "name": "Loona Niederlande-Passfoto Größe",
   "short_name": "Niederlande-Passfoto Größe",
   "description": "Erstellen Sie ein Niederlande-Passfoto in der offiziellen Größe 35×45 mm (413×531 px), Hintergrund einfarbig hellgrau oder weiß, gleichmäßig beleuchtet. Kostenloser Online-Ersteller — zuschneiden, herunterladen und Druckbogen, ohne Upload.",
-  "id": "/loona-image-compressor/de/netherlands-passport-photo-size.html",
+  "id": "/de/netherlands-passport-photo-size.html",
   "start_url": "./netherlands-passport-photo-size.html",
   "scope": "./netherlands-passport-photo-size.html",
   "display": "standalone",

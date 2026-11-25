@@ -2,7 +2,7 @@
   "name": "Loona Kích thước ảnh mạng xã hội 2026",
   "short_name": "Kích thước ảnh mạng xã hội",
   "description": "Kích thước ảnh chính xác cho Instagram, Facebook, YouTube, X, LinkedIn, Pinterest, TikTok và Discord — kèm công cụ tạo ảnh và hướng dẫn vùng an toàn cho mọi vị trí.",
-  "id": "/loona-image-compressor/vi/social-media-image-sizes.html",
+  "id": "/vi/social-media-image-sizes.html",
   "start_url": "./social-media-image-sizes.html",
   "scope": "./social-media-image-sizes.html",
   "display": "standalone",

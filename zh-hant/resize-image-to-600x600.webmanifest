@@ -2,7 +2,7 @@
   "name": "Loona 線上將圖片調整為 600 × 600 px",
   "short_name": "線上將圖片調整為 600 × 600 px",
   "description": "將任何圖片調整為精確的 600×600 px — 美國護照/簽證和 DV 抽籤的最小數字尺寸。在瀏覽器中免費使用，帶裁剪控制；無需上傳，無需註冊。",
-  "id": "/loona-image-compressor/zh-hant/resize-image-to-600x600.html",
+  "id": "/zh-hant/resize-image-to-600x600.html",
   "start_url": "./resize-image-to-600x600.html",
   "scope": "./resize-image-to-600x600.html",
   "display": "standalone",

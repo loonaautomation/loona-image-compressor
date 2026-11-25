@@ -2,7 +2,7 @@
   "name": "Loona Ír útlevélfotó méret",
   "short_name": "Ír útlevélfotó méret",
   "description": "Készítsen Ír útlevélfotó fotót a hivatalos 35×45 mm (413×531 px) méretben, sima fehér vagy világosszürke háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/ireland-passport-photo-size.html",
+  "id": "/hu/ireland-passport-photo-size.html",
   "start_url": "./ireland-passport-photo-size.html",
   "scope": "./ireland-passport-photo-size.html",
   "display": "standalone",

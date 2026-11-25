@@ -2,7 +2,7 @@
   "name": "Loona Egyiptomi útlevélfotó méret",
   "short_name": "Egyiptomi útlevélfotó méret",
   "description": "Készítsen Egyiptomi útlevélfotó fotót a hivatalos 40×60 mm (472×709 px) méretben, sima fehér háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/egypt-passport-photo-size.html",
+  "id": "/hu/egypt-passport-photo-size.html",
   "start_url": "./egypt-passport-photo-size.html",
   "scope": "./egypt-passport-photo-size.html",
   "display": "standalone",

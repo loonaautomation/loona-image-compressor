@@ -2,7 +2,7 @@
   "name": "Loona Ändra bildstorlek till 600 × 600 px online",
   "short_name": "Ändra bildstorlek till 600 ×",
   "description": "Ändra storlek på valfri bild till exakt 600×600 px — Minsta digitala storlek för amerikanskt pass/visum och DV Lottery. Gratis i din webbläsare med beskärningskontroll; ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/resize-image-to-600x600.html",
+  "id": "/sv/resize-image-to-600x600.html",
   "start_url": "./resize-image-to-600x600.html",
   "scope": "./resize-image-to-600x600.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Board Cover Size",
   "short_name": "Pinterest Board Cover Size",
   "description": "Make a Pinterest board cover at exactly 800×450 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/pinterest-board-cover-size.html",
+  "id": "/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",
   "scope": "./pinterest-board-cover-size.html",
   "display": "standalone",

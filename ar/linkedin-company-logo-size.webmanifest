@@ -2,7 +2,7 @@
   "name": "Loona حجم شعار صفحة الشركة LinkedIn",
   "short_name": "حجم شعار صفحة الشركة LinkedIn",
   "description": "اصنع شعار صفحة الشركة LinkedIn بمقاس 300×300 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/linkedin-company-logo-size.html",
+  "id": "/ar/linkedin-company-logo-size.html",
   "start_url": "./linkedin-company-logo-size.html",
   "scope": "./linkedin-company-logo-size.html",
   "display": "standalone",

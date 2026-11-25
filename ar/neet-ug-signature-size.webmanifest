@@ -2,7 +2,7 @@
   "name": "Loona حجم التوقيع NEET UG",
   "short_name": "حجم التوقيع NEET UG",
   "description": "غيّر حجم التوقيع الخاص بك لامتحان NEET UG إلى حجم الإشعار (مربع ممسوح ضوئياً، نسبة نحو 7:2) ونطاق 4–30 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/neet-ug-signature-size.html",
+  "id": "/ar/neet-ug-signature-size.html",
   "start_url": "./neet-ug-signature-size.html",
   "scope": "./neet-ug-signature-size.html",
   "display": "standalone",

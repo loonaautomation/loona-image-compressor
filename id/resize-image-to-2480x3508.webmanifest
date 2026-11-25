@@ -2,7 +2,7 @@
   "name": "Loona Ubah Ukuran Gambar ke 2480 × 3508 px Online",
   "short_name": "Ubah Ukuran Gambar ke 2480 ×",
   "description": "Ubah ukuran gambar apa pun tepat ke 2480×3508 px — A4 pada 300 DPI. Gratis di browser Anda dengan kontrol potong; tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/resize-image-to-2480x3508.html",
+  "id": "/id/resize-image-to-2480x3508.html",
   "start_url": "./resize-image-to-2480x3508.html",
   "scope": "./resize-image-to-2480x3508.html",
   "display": "standalone",

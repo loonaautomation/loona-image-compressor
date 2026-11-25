@@ -2,7 +2,7 @@
   "name": "Loona 伊朗護照照片 尺寸",
   "short_name": "伊朗護照照片 尺寸",
   "description": "按官方尺寸 30×40 mm（354×472 px）製作 伊朗護照照片，純白色或淺色背景。免費線上製作工具 — 裁剪、下載並列印照片頁，無需上傳。",
-  "id": "/loona-image-compressor/zh-hant/iran-passport-photo-size.html",
+  "id": "/zh-hant/iran-passport-photo-size.html",
   "start_url": "./iran-passport-photo-size.html",
   "scope": "./iran-passport-photo-size.html",
   "display": "standalone",

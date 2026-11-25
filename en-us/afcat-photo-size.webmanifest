@@ -2,7 +2,7 @@
   "name": "Loona AFCAT Photograph Size",
   "short_name": "AFCAT Photograph Size",
   "description": "Resize your AFCAT photo to the notification size (3.5 × 4.5 cm (about 413 × 531 px at 300 DPI)) and 10–50 KB band. Free, in your browser — no upload, no signup.",
-  "id": "/loona-image-compressor/en-us/afcat-photo-size.html",
+  "id": "/en-us/afcat-photo-size.html",
   "start_url": "./afcat-photo-size.html",
   "scope": "./afcat-photo-size.html",
   "display": "standalone",

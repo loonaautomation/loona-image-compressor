@@ -2,7 +2,7 @@
   "name": "Loona เครื่องมือลบพื้นหลังลายเซ็น",
   "short_name": "เครื่องมือลบพื้นหลังลายเซ็น",
   "description": "ลบพื้นหลังกระดาษออกจากภาพลายเซ็นหรือตราประทับ แล้วดาวน์โหลด PNG โปร่งใสได้ฟรีทางออนไลน์ เครื่องมือแคนวาสในเบราว์เซอร์ล้วน ๆ — ไม่มี AI ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/signature-background-remover.html",
+  "id": "/th/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

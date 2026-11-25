@@ -2,7 +2,7 @@
   "name": "Loona Kuvasuodattimet &amp; korjaus",
   "short_name": "Kuvasuodattimet &amp; korjaus",
   "description": "Korjaa kuvia verkossa ilmaiseksi: säädä kirkkautta, kontrastia ja värikylläisyyttä, terävöitä yhdellä napsautuksella ja käytä valmiita esiasetuksia kuten Passport Fix ja Vivid.",
-  "id": "/loona-image-compressor/fi/photo-filters-editor.html",
+  "id": "/fi/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

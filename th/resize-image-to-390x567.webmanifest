@@ -2,7 +2,7 @@
   "name": "Loona ปรับขนาดรูปภาพเป็น 390 × 567 px ออนไลน์",
   "short_name": "ปรับขนาดรูปภาพเป็น 390 × 567",
   "description": "ปรับขนาดรูปภาพใดก็ได้ให้เป็น 390×567 px พอดี — 33 × 48 mm ที่ 300 DPI — ขนาดวีซ่าจีน ฟรีในเบราว์เซอร์ของคุณพร้อมการควบคุมการครอบตัด ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/resize-image-to-390x567.html",
+  "id": "/th/resize-image-to-390x567.html",
   "start_url": "./resize-image-to-390x567.html",
   "scope": "./resize-image-to-390x567.html",
   "display": "standalone",

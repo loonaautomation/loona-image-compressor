@@ -2,7 +2,7 @@
   "name": "Loona Kokeen RRB Group D (Railways) Allekirjoitus koko",
   "short_name": "Kokeen RRB Group D (Railways)",
   "description": "Muuta kokeen RRB Group D (Railways) allekirjoitus ilmoitettuun kokoon (140 × 60 px) ja välille 10–40 KB. Ilmaiseksi selaimessasi — ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/rrb-group-d-signature-size.html",
+  "id": "/fi/rrb-group-d-signature-size.html",
   "start_url": "./rrb-group-d-signature-size.html",
   "scope": "./rrb-group-d-signature-size.html",
   "display": "standalone",

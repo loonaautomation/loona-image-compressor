@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ảnh hộ chiếu / thị thực Brazil",
   "short_name": "Kích thước Ảnh hộ chiếu / thị",
   "description": "Tạo Ảnh hộ chiếu / thị thực Brazil ở kích thước chính thức 50×70 mm (591×827 px), nền trắng trơn. Công cụ tạo ảnh trực tuyến miễn phí — cắt, tải xuống và in tờ in, không tải lên.",
-  "id": "/loona-image-compressor/vi/brazil-passport-photo-size.html",
+  "id": "/vi/brazil-passport-photo-size.html",
   "start_url": "./brazil-passport-photo-size.html",
   "scope": "./brazil-passport-photo-size.html",
   "display": "standalone",

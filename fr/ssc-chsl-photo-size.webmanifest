@@ -2,7 +2,7 @@
   "name": "Loona Format de la Photo SSC CHSL",
   "short_name": "Format de la Photo SSC CHSL",
   "description": "Redimensionnez votre photo SSC CHSL au format de l&#x27;avis officiel (200 × 230 px) et dans la plage de 20–50 Ko. Gratuit, dans votre navigateur — sans envoi, sans inscription.",
-  "id": "/loona-image-compressor/fr/ssc-chsl-photo-size.html",
+  "id": "/fr/ssc-chsl-photo-size.html",
   "start_url": "./ssc-chsl-photo-size.html",
   "scope": "./ssc-chsl-photo-size.html",
   "display": "standalone",

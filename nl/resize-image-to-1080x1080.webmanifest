@@ -2,7 +2,7 @@
   "name": "Loona Afbeelding aanpassen naar 1080 × 1080",
   "short_name": "Afbeelding aanpassen naar",
   "description": "Pas elke afbeelding gratis aan tot exact 1080 × 1080 pixels (Instagram square posts and profile pictures). Dekken, behouden of uitrekken, JPG of PNG, direct downloaden — geen aanmelding, niets geüpload.",
-  "id": "/loona-image-compressor/nl/resize-image-to-1080x1080.html",
+  "id": "/nl/resize-image-to-1080x1080.html",
   "start_url": "./resize-image-to-1080x1080.html",
   "scope": "./resize-image-to-1080x1080.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Saksan passikuva (biometrinen) koko",
   "short_name": "Saksan passikuva",
   "description": "Tee Saksan passikuva (biometrinen) virallisessa koossa 35×45 mm (413×531 px), taustana vaaleanharmaa, tavallinen. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/germany-passport-photo-size.html",
+  "id": "/fi/germany-passport-photo-size.html",
   "start_url": "./germany-passport-photo-size.html",
   "scope": "./germany-passport-photo-size.html",
   "display": "standalone",

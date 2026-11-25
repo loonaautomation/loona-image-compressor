@@ -2,7 +2,7 @@
   "name": "Loona Formaat Discord Serverbanner",
   "short_name": "Formaat Discord Serverbanner",
   "description": "Maak een Discord serverbanner op precies 960×540 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/discord-server-banner-size.html",
+  "id": "/nl/discord-server-banner-size.html",
   "start_url": "./discord-server-banner-size.html",
   "scope": "./discord-server-banner-size.html",
   "display": "standalone",

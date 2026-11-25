@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת פספורט / ויזה וייטנאם",
   "short_name": "גודל תמונת פספורט / ויזה",
   "description": "צרו תמונת פספורט / ויזה וייטנאם בגודל הרשמי 40×60 מ&quot;מ (472×709 px), רקע לבן חלק. כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/vietnam-passport-photo-size.html",
+  "id": "/he/vietnam-passport-photo-size.html",
   "start_url": "./vietnam-passport-photo-size.html",
   "scope": "./vietnam-passport-photo-size.html",
   "display": "standalone",

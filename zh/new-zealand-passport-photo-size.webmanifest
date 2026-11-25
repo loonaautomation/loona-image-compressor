@@ -2,7 +2,7 @@
   "name": "Loona 新西兰护照照片 尺寸",
   "short_name": "新西兰护照照片 尺寸",
   "description": "按官方尺寸 35×45 mm（413×531 px）制作 新西兰护照照片，素色、浅色、中性背景（指引不是纯白色）背景。免费在线制作工具 — 裁剪、下载并打印照片页，无需上传。",
-  "id": "/loona-image-compressor/zh/new-zealand-passport-photo-size.html",
+  "id": "/zh/new-zealand-passport-photo-size.html",
   "start_url": "./new-zealand-passport-photo-size.html",
   "scope": "./new-zealand-passport-photo-size.html",
   "display": "standalone",

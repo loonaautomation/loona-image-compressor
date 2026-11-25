@@ -2,7 +2,7 @@
   "name": "Loona Zmień rozmiar obrazu",
   "short_name": "Zmień rozmiar obrazu",
   "description": "Zmień rozmiar dowolnego obrazu w pikselach, cm lub calach z ustawieniem DPI za darmo. Zachowaj proporcje, wybierz JPG, PNG lub WebP i pobierz natychmiast — rejestracja nie jest potrzebna.",
-  "id": "/loona-image-compressor/pl/resize-image.html",
+  "id": "/pl/resize-image.html",
   "start_url": "./resize-image.html",
   "scope": "./resize-image.html",
   "display": "standalone",

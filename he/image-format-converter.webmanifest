@@ -2,7 +2,7 @@
   "name": "Loona ממיר פורמטי תמונה",
   "short_name": "ממיר פורמטי תמונה",
   "description": "המירו תמונות בין JPG, PNG ו־WebP באינטרנט בחינם, באצוות, עם בקרת איכות והשטחת רקע שקוף. אין צורך בהרשמה.",
-  "id": "/loona-image-compressor/he/image-format-converter.html",
+  "id": "/he/image-format-converter.html",
   "start_url": "./image-format-converter.html",
   "scope": "./image-format-converter.html",
   "display": "standalone",

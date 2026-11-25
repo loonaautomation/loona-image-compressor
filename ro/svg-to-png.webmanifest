@@ -2,7 +2,7 @@
   "name": "Loona Convertor SVG în PNG",
   "short_name": "Convertor SVG în PNG",
   "description": "Convertește SVG în PNG online gratuit la orice lățime — imagini raster clare din logo-uri vectoriale și pictograme. Fără înregistrare, fără încărcare, rulează în browserul tău.",
-  "id": "/loona-image-compressor/ro/svg-to-png.html",
+  "id": "/ro/svg-to-png.html",
   "start_url": "./svg-to-png.html",
   "scope": "./svg-to-png.html",
   "display": "standalone",

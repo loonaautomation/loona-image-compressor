@@ -2,7 +2,7 @@
   "name": "Loona Veľkosť Pasová fotografia / fotografia na preukaz Francúzska",
   "short_name": "Veľkosť Pasová fotografia /",
   "description": "Vytvorte Pasová fotografia / fotografia na preukaz Francúzska v oficiálnej veľkosti 35×45 mm (413×531 px), pozadie: jednofarebné svetlosivé alebo svetlomodré. Bezplatný online tvorca — orezanie, stiahnutie a tlačový hárok, bez nahrávania.",
-  "id": "/loona-image-compressor/sk/france-passport-photo-size.html",
+  "id": "/sk/france-passport-photo-size.html",
   "start_url": "./france-passport-photo-size.html",
   "scope": "./france-passport-photo-size.html",
   "display": "standalone",

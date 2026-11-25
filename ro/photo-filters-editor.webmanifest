@@ -2,7 +2,7 @@
   "name": "Loona Filtre foto &amp; corecție",
   "short_name": "Filtre foto &amp; corecție",
   "description": "Repară fotografii online gratuit: ajustează luminozitatea, contrastul și saturația, clarifică cu un clic și folosește preseturi gata făcute, cum ar fi Corecție pașaport și Viu.",
-  "id": "/loona-image-compressor/ro/photo-filters-editor.html",
+  "id": "/ro/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona บีบอัด WebP ให้เหลือ 40 KB ออนไลน์",
   "short_name": "บีบอัด WebP ให้เหลือ 40 KB",
   "description": "บีบอัดรูปภาพ WebP ให้เหลือ 40 KB หรือต่ำกว่า ฟรีในเบราว์เซอร์ของคุณ การค้นหาอัตโนมัติจะหาคุณภาพที่ดีที่สุดที่พอดี — ไม่ต้องสมัครสมาชิก ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/compress-webp-to-40kb.html",
+  "id": "/th/compress-webp-to-40kb.html",
   "start_url": "./compress-webp-to-40kb.html",
   "scope": "./compress-webp-to-40kb.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Komprimovať JPG na 300 KB online",
   "short_name": "Komprimovať JPG na 300 KB",
   "description": "Komprimujte obrázok JPG na 300 KB alebo menej, zadarmo vo svojom prehliadači. Automatické vyhľadávanie nájde najlepšiu kvalitu, ktorá sa do limitu zmestí — bez registrácie a bez nahrávania.",
-  "id": "/loona-image-compressor/sk/compress-jpg-to-300kb.html",
+  "id": "/sk/compress-jpg-to-300kb.html",
   "start_url": "./compress-jpg-to-300kb.html",
   "scope": "./compress-jpg-to-300kb.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Změnit velikost obrázku na 200 × 230 px online",
   "short_name": "Změnit velikost obrázku na",
   "description": "Změňte velikost libovolného obrázku přesně na 200×230 px — Standard fotografie ke zkouškám SSC/IBPS/SBI v Indii. Zdarma ve vašem prohlížeči s ovládáním ořezu; bez nahrávání a bez registrace.",
-  "id": "/loona-image-compressor/cs/resize-image-to-200x230.html",
+  "id": "/cs/resize-image-to-200x230.html",
   "start_url": "./resize-image-to-200x230.html",
   "scope": "./resize-image-to-200x230.html",
   "display": "standalone",

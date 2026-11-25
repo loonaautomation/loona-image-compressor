@@ -2,7 +2,7 @@
   "name": "Loona Розмір Обкладинка дошки Pinterest",
   "short_name": "Розмір Обкладинка дошки",
   "description": "Зробіть обкладинка дошки для Pinterest рівно 800×450 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/pinterest-board-cover-size.html",
+  "id": "/uk/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",
   "scope": "./pinterest-board-cover-size.html",
   "display": "standalone",

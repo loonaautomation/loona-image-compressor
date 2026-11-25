@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ảnh bìa bài viết / bản tin LinkedIn",
   "short_name": "Kích thước Ảnh bìa bài viết /",
   "description": "Tạo ảnh bìa bài viết / bản tin LinkedIn chính xác 1200×644 px. Công cụ thay đổi kích thước/cắt ảnh miễn phí trong trình duyệt của bạn, kèm các quy tắc vùng an toàn giúp văn bản và khuôn mặt không bị cắt mất.",
-  "id": "/loona-image-compressor/vi/linkedin-article-cover-size.html",
+  "id": "/vi/linkedin-article-cover-size.html",
   "start_url": "./linkedin-article-cover-size.html",
   "scope": "./linkedin-article-cover-size.html",
   "display": "standalone",

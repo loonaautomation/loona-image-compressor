@@ -2,7 +2,7 @@
   "name": "Loona Canadisk pasfoto størrelse",
   "short_name": "Canadisk pasfoto størrelse",
   "description": "Lav et Canadisk pasfoto i den officielle størrelse 50×70 mm (591×827 px), ensfarvet hvid eller lys baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
-  "id": "/loona-image-compressor/da/canada-passport-photo-size.html",
+  "id": "/da/canada-passport-photo-size.html",
   "start_url": "./canada-passport-photo-size.html",
   "scope": "./canada-passport-photo-size.html",
   "display": "standalone",

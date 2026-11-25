@@ -2,7 +2,7 @@
   "name": "Loona Instagram Kare Gönderi (1",
   "short_name": "Instagram Kare Gönderi (1",
   "description": "Tam olarak 1080×1080 px ölçüsünde bir Instagram kare gönderi (1:1) oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/instagram-square-post-size.html",
+  "id": "/tr/instagram-square-post-size.html",
   "start_url": "./instagram-square-post-size.html",
   "scope": "./instagram-square-post-size.html",
   "display": "standalone",

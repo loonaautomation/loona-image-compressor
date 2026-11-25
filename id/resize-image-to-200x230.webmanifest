@@ -2,7 +2,7 @@
   "name": "Loona Ubah Ukuran Gambar ke 200 × 230 px Online",
   "short_name": "Ubah Ukuran Gambar ke 200 ×",
   "description": "Ubah ukuran gambar apa pun tepat ke 200×230 px — Standar foto ujian SSC/IBPS/SBI di India. Gratis di browser Anda dengan kontrol potong; tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/resize-image-to-200x230.html",
+  "id": "/id/resize-image-to-200x230.html",
   "start_url": "./resize-image-to-200x230.html",
   "scope": "./resize-image-to-200x230.html",
   "display": "standalone",

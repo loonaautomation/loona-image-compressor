@@ -2,7 +2,7 @@
   "name": "Loona ขนาดลายเซ็นCUET UG",
   "short_name": "ขนาดลายเซ็นCUET UG",
   "description": "ปรับขนาดลายเซ็นCUET UGของคุณให้เป็นขนาดตามประกาศ (กล่องที่สแกน อัตราส่วนประมาณ 7:2) และช่วง 4–30 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/cuet-ug-signature-size.html",
+  "id": "/th/cuet-ug-signature-size.html",
   "start_url": "./cuet-ug-signature-size.html",
   "scope": "./cuet-ug-signature-size.html",
   "display": "standalone",

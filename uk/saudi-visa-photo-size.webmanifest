@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото на візу Саудівської Аравії",
   "short_name": "Розмір Фото на візу",
   "description": "Зробіть Фото на візу Саудівської Аравії в офіційному розмірі 40×60 мм (472×709 пікс.), тло: однотонне біле. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
-  "id": "/loona-image-compressor/uk/saudi-visa-photo-size.html",
+  "id": "/uk/saudi-visa-photo-size.html",
   "start_url": "./saudi-visa-photo-size.html",
   "scope": "./saudi-visa-photo-size.html",
   "display": "standalone",

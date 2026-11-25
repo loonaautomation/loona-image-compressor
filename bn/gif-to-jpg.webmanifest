@@ -2,7 +2,7 @@
   "name": "Loona GIF থেকে JPG রূপান্তরকারী",
   "short_name": "GIF থেকে JPG রূপান্তরকারী",
   "description": "GIF-কে অনলাইনে বিনামূল্যে JPG-তে রূপান্তর করুন — একটি GIF-কে একটি ছোট, সর্বজনীন JPG স্থিরচিত্রে পরিণত করুন। আপনার ব্রাউজারে: কোনো সাইনআপ নয়, কোনো আপলোড নয়, কোনো ওয়াটারমার্ক নয়।",
-  "id": "/loona-image-compressor/bn/gif-to-jpg.html",
+  "id": "/bn/gif-to-jpg.html",
   "start_url": "./gif-to-jpg.html",
   "scope": "./gif-to-jpg.html",
   "display": "standalone",

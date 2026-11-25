@@ -2,7 +2,7 @@
   "name": "Loona Kép átméretezése 1200 × 628 méretre",
   "short_name": "Kép átméretezése 1200 × 628",
   "description": "Méretezzen át bármilyen képet pontosan 1200 × 628 pixelre (Facebook- és LinkedIn-linkmegosztások és hirdetések) ingyen. Befedés, befoglalás vagy nyújtás, JPG vagy PNG, azonnali letöltés — regisztráció nélkül, semmi feltöltve.",
-  "id": "/loona-image-compressor/hu/resize-image-to-1200x628.html",
+  "id": "/hu/resize-image-to-1200x628.html",
   "start_url": "./resize-image-to-1200x628.html",
   "scope": "./resize-image-to-1200x628.html",
   "display": "standalone",

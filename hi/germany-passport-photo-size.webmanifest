@@ -2,7 +2,7 @@
   "name": "Loona जर्मनी पासपोर्ट फ़ोटो (बायोमेट्रिक) साइज़",
   "short_name": "जर्मनी पासपोर्ट फ़ोटो",
   "description": "आधिकारिक साइज़ 35×45 mm (413×531 px) पर जर्मनी पासपोर्ट फ़ोटो (बायोमेट्रिक) बनाएँ, हल्का धूसर, सादा बैकग्राउंड. मुफ़्त ऑनलाइन मेकर — क्रॉप, डाउनलोड और प्रिंट शीट, बिना अपलोड.",
-  "id": "/loona-image-compressor/hi/germany-passport-photo-size.html",
+  "id": "/hi/germany-passport-photo-size.html",
   "start_url": "./germany-passport-photo-size.html",
   "scope": "./germany-passport-photo-size.html",
   "display": "standalone",

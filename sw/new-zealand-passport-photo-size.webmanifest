@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Pasipoti ya New Zealand",
   "short_name": "Ukubwa wa Picha ya Pasipoti",
   "description": "Tengeneza Picha ya Pasipoti ya New Zealand katika ukubwa rasmi wa milimita 35×45 (px 413×531), mandharinyuma ya mandharinyuma tambarare, mepesi, ya kati (si mwongozo mweupe tupu). Kitengenezaji bure cha mtandaoni — kata, pakua na uchapishe karatasi, bila kupakia.",
-  "id": "/loona-image-compressor/sw/new-zealand-passport-photo-size.html",
+  "id": "/sw/new-zealand-passport-photo-size.html",
   "start_url": "./new-zealand-passport-photo-size.html",
   "scope": "./new-zealand-passport-photo-size.html",
   "display": "standalone",

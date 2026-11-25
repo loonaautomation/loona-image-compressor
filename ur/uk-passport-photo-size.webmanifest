@@ -2,7 +2,7 @@
   "name": "Loona برطانوی پاسپورٹ تصویر کی تصویر کا سائز",
   "short_name": "برطانوی پاسپورٹ تصویر کی",
   "description": "سرکاری سائز 35×45 mm (600×750 px) پر برطانوی پاسپورٹ تصویر بنائیں، سادہ ہلکا سرمئی یا کریم پس منظر کے ساتھ۔ مفت آن لائن میکر — کراپ، ڈاؤن لوڈ اور پرنٹ شیٹ، بغیر اپ لوڈ۔",
-  "id": "/loona-image-compressor/ur/uk-passport-photo-size.html",
+  "id": "/ur/uk-passport-photo-size.html",
   "start_url": "./uk-passport-photo-size.html",
   "scope": "./uk-passport-photo-size.html",
   "display": "standalone",

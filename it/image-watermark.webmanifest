@@ -2,7 +2,7 @@
   "name": "Loona Filigrana immagine",
   "short_name": "Filigrana immagine",
   "description": "Aggiungi gratis una filigrana di testo a qualsiasi foto online: scegli testo, dimensione, colore, opacità e posizione, oppure ripetila come motivo a mosaico. Anteprima dal vivo, senza registrazione, e la tua immagine non lascia mai il tuo dispositivo.",
-  "id": "/loona-image-compressor/it/image-watermark.html",
+  "id": "/it/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 2026 年社交媒体图片尺寸",
   "short_name": "2026 年社交媒体图片尺寸",
   "description": "Instagram、Facebook、YouTube、X、LinkedIn、Pinterest、TikTok 和 Discord 的精确图片尺寸 — 每个位置都附有制作工具和安全区指南。",
-  "id": "/loona-image-compressor/zh/social-media-image-sizes.html",
+  "id": "/zh/social-media-image-sizes.html",
   "start_url": "./social-media-image-sizes.html",
   "scope": "./social-media-image-sizes.html",
   "display": "standalone",

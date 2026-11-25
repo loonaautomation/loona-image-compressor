@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายหนังสือเดินทาง / วีซ่าเวียดนาม",
   "short_name": "ขนาดรูปถ่ายหนังสือเดินทาง /",
   "description": "ทำรูปถ่ายหนังสือเดินทาง / วีซ่าเวียดนามที่ขนาดอย่างเป็นทางการ 40×60 mm (472×709 px) พื้นหลังขาวเรียบ เครื่องทำรูปออนไลน์ฟรี — ครอบตัด ดาวน์โหลด และแผ่นพิมพ์ ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/vietnam-passport-photo-size.html",
+  "id": "/th/vietnam-passport-photo-size.html",
   "start_url": "./vietnam-passport-photo-size.html",
   "scope": "./vietnam-passport-photo-size.html",
   "display": "standalone",

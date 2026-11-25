@@ -2,7 +2,7 @@
   "name": "Loona ضغط JPG إلى 1500 KB عبر الإنترنت",
   "short_name": "ضغط JPG إلى 1500 KB عبر",
   "description": "اضغط صورة JPG إلى 1500 KB أو أقل، مجاناً في متصفحك. بحث تلقائي يجد أفضل جودة مناسبة — بلا تسجيل، بلا رفع.",
-  "id": "/loona-image-compressor/ar/compress-jpg-to-1500kb.html",
+  "id": "/ar/compress-jpg-to-1500kb.html",
   "start_url": "./compress-jpg-to-1500kb.html",
   "scope": "./compress-jpg-to-1500kb.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona GATE تصویر کا سائز",
   "short_name": "GATE تصویر کا سائز",
   "description": "اپنی GATE تصویر کو نوٹیفکیشن سائز (480 × 640 px) اور 5–200 KB بینڈ کے مطابق بنائیں۔ مفت، آپ کے براؤزر میں — نہ اپ لوڈ، نہ سائن اپ۔",
-  "id": "/loona-image-compressor/ur/gate-photo-size.html",
+  "id": "/ur/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

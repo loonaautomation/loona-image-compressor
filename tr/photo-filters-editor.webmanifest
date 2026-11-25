@@ -2,7 +2,7 @@
   "name": "Loona Fotoğraf Filtreleri &amp; Düzeltme – Parlaklık, Kontrast, Keskinleştirme",
   "short_name": "Fotoğraf Filtreleri &amp; Düzeltme – Parlaklık, Kontrast, Keskinleştirme",
   "description": "Fotoğrafları çevrimiçi ücretsiz düzeltin: parlaklığı, kontrastı ve doygunluğu ayarlayın, tek tıklamayla keskinleştirin ve Pasaport Düzeltme ve Canlı gibi hazır ayarları kullanın.",
-  "id": "/loona-image-compressor/tr/photo-filters-editor.html",
+  "id": "/tr/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

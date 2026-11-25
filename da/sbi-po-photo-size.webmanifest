@@ -2,7 +2,7 @@
   "name": "Loona SBI PO Foto størrelse",
   "short_name": "SBI PO Foto størrelse",
   "description": "Tilpas størrelsen på dit SBI PO foto til meddelelsens størrelse (200 × 230 px) og båndet 20–50 KB. Gratis, i din browser — ingen upload, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/sbi-po-photo-size.html",
+  "id": "/da/sbi-po-photo-size.html",
   "start_url": "./sbi-po-photo-size.html",
   "scope": "./sbi-po-photo-size.html",
   "display": "standalone",

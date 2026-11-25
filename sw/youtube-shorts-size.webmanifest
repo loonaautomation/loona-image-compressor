@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Jalada / Fremu ya Shorts wa YouTube",
   "short_name": "Ukubwa wa Jalada / Fremu ya",
   "description": "Tengeneza jalada / fremu ya shorts ya YouTube katika px 1080×1920 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/youtube-shorts-size.html",
+  "id": "/sw/youtube-shorts-size.html",
   "start_url": "./youtube-shorts-size.html",
   "scope": "./youtube-shorts-size.html",
   "display": "standalone",

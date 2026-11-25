@@ -2,7 +2,7 @@
   "name": "Loona Tysk pasfoto (biometrisk) størrelse",
   "short_name": "Tysk pasfoto (biometrisk)",
   "description": "Lav et Tysk pasfoto (biometrisk) i den officielle størrelse 35×45 mm (413×531 px), lysegrå, ensfarvet baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
-  "id": "/loona-image-compressor/da/germany-passport-photo-size.html",
+  "id": "/da/germany-passport-photo-size.html",
   "start_url": "./germany-passport-photo-size.html",
   "scope": "./germany-passport-photo-size.html",
   "display": "standalone",

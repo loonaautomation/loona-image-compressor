@@ -2,7 +2,7 @@
   "name": "Loona Sydkoreansk pasfoto størrelse",
   "short_name": "Sydkoreansk pasfoto størrelse",
   "description": "Lav et Sydkoreansk pasfoto i den officielle størrelse 35×45 mm (413×531 px), ensfarvet hvid baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
-  "id": "/loona-image-compressor/da/south-korea-passport-photo-size.html",
+  "id": "/da/south-korea-passport-photo-size.html",
   "start_url": "./south-korea-passport-photo-size.html",
   "scope": "./south-korea-passport-photo-size.html",
   "display": "standalone",

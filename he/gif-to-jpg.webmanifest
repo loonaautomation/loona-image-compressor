@@ -2,7 +2,7 @@
   "name": "Loona ממיר GIF ל־JPG",
   "short_name": "ממיר GIF ל־JPG",
   "description": "המירו GIF ל־JPG באינטרנט בחינם — הפכו GIF לסטילס JPG קטן ואוניברסלי. בדפדפן שלכם: ללא הרשמה, ללא העלאה, ללא סימן מים.",
-  "id": "/loona-image-compressor/he/gif-to-jpg.html",
+  "id": "/he/gif-to-jpg.html",
   "start_url": "./gif-to-jpg.html",
   "scope": "./gif-to-jpg.html",
   "display": "standalone",

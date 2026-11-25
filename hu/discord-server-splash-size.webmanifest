@@ -2,7 +2,7 @@
   "name": "Loona Discord Meghívó-képernyő méret",
   "short_name": "Discord Meghívó-képernyő méret",
   "description": "Készítsen Discord meghívó-képernyő képet pontosan 1920×1080 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/discord-server-splash-size.html",
+  "id": "/hu/discord-server-splash-size.html",
   "start_url": "./discord-server-splash-size.html",
   "scope": "./discord-server-splash-size.html",
   "display": "standalone",

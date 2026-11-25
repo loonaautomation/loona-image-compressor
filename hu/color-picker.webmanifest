@@ -2,7 +2,7 @@
   "name": "Loona Színválasztó",
   "short_name": "Színválasztó",
   "description": "Válasszon bármilyen színt, és másolja azonnal a HEX, RGB, HSL és HSV értékeit. Árnyalat- és tónussávot is tartalmaz — ingyen, regisztráció nélkül, a böngészőjében működik.",
-  "id": "/loona-image-compressor/hu/color-picker.html",
+  "id": "/hu/color-picker.html",
   "start_url": "./color-picker.html",
   "scope": "./color-picker.html",
   "display": "standalone",

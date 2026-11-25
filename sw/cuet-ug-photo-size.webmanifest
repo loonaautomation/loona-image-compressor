@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha wa CUET UG",
   "short_name": "Ukubwa wa Picha wa CUET UG",
   "description": "Badilisha ukubwa wa picha yako ya CUET UG hadi ukubwa wa ilani (sentimita 3.5 × 4.5 (takriban px 413 × 531 katika DPI 300)) na kiwango cha KB 10–200. Bure, kwenye kivinjari chako — bila kupakia, bila kujisajili.",
-  "id": "/loona-image-compressor/sw/cuet-ug-photo-size.html",
+  "id": "/sw/cuet-ug-photo-size.html",
   "start_url": "./cuet-ug-photo-size.html",
   "scope": "./cuet-ug-photo-size.html",
   "display": "standalone",

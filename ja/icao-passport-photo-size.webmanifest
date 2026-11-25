@@ -2,7 +2,7 @@
   "name": "Loona ICAO標準パスポート写真（35×45 mm）のサイズ",
   "short_name": "ICAO標準パスポート写真（35×45 mm）のサイズ",
   "description": "公式サイズ35×45 mm（413×531 px）、無地の明るい背景の背景でICAO標準パスポート写真（35×45 mm）を作成できます。無料のオンライン作成ツール — 切り取り、ダウンロード、印刷シートまで、アップロード不要です。",
-  "id": "/loona-image-compressor/ja/icao-passport-photo-size.html",
+  "id": "/ja/icao-passport-photo-size.html",
   "start_url": "./icao-passport-photo-size.html",
   "scope": "./icao-passport-photo-size.html",
   "display": "standalone",

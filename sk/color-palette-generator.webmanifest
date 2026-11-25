@@ -2,7 +2,7 @@
   "name": "Loona Generátor palety farieb",
   "short_name": "Generátor palety farieb",
   "description": "Generujte harmonické palety farieb z akejkoľvek základnej farby — analogické, komplementárne, triadické a monochromatické schémy s kopírovateľnými kódmi HEX. Zadarmo, bez registrácie.",
-  "id": "/loona-image-compressor/sk/color-palette-generator.html",
+  "id": "/sk/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",
   "scope": "./color-palette-generator.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona इमेज मेटाडेटा और EXIF व्यूअर",
   "short_name": "इमेज मेटाडेटा और EXIF व्यूअर",
   "description": "किसी भी JPG, PNG या WebP फ़ोटो में छिपा मेटाडेटा मुफ़्त ऑनलाइन देखें — कैमरा मेक और मॉडल, खींचे जाने की तारीख़, एक्सपोज़र, ISO, फ़ोकल लेंथ, GPS लोकेशन, IPTC और XMP बुनियाद। कुछ अपलोड नहीं होता: आपकी फ़ोटो कभी आपके डिवाइस से बाहर नहीं जाती।",
-  "id": "/loona-image-compressor/hi/image-metadata-viewer.html",
+  "id": "/hi/image-metadata-viewer.html",
   "start_url": "./image-metadata-viewer.html",
   "scope": "./image-metadata-viewer.html",
   "display": "standalone",

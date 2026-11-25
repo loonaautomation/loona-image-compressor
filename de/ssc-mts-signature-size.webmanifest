@@ -2,7 +2,7 @@
   "name": "Loona SSC MTS Unterschrift Größe",
   "short_name": "SSC MTS Unterschrift Größe",
   "description": "Passen Sie Ihr SSC MTS-Unterschrift auf die Größe der Bekanntmachung (140 × 60 px) und den Bereich 10–20 KB an. Kostenlos, in Ihrem Browser — ohne Upload, ohne Anmeldung.",
-  "id": "/loona-image-compressor/de/ssc-mts-signature-size.html",
+  "id": "/de/ssc-mts-signature-size.html",
   "start_url": "./ssc-mts-signature-size.html",
   "scope": "./ssc-mts-signature-size.html",
   "display": "standalone",

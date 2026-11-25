@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie pentru viza SUA (DS-160)",
   "short_name": "Dimensiune Fotografie pentru",
   "description": "Creează un Fotografie pentru viza SUA (DS-160) la dimensiunea oficială 51×51 mm (600×600 px), fundal alb simplu. Creator online gratuit — decupează, descarcă și imprimă foaia, fără încărcare.",
-  "id": "/loona-image-compressor/ro/us-visa-photo-size.html",
+  "id": "/ro/us-visa-photo-size.html",
   "start_url": "./us-visa-photo-size.html",
   "scope": "./us-visa-photo-size.html",
   "display": "standalone",

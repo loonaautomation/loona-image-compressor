@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Idea Pin / tarina koko",
   "short_name": "Pinterest Idea Pin / tarina",
   "description": "Tee Pinterest idea pin / tarina tarkalleen kokoon 1080×1920 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/pinterest-idea-pin-size.html",
+  "id": "/fi/pinterest-idea-pin-size.html",
   "start_url": "./pinterest-idea-pin-size.html",
   "scope": "./pinterest-idea-pin-size.html",
   "display": "standalone",

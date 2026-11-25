@@ -2,7 +2,7 @@
   "name": "Loona BMP를 JPG로 변환하는 변환기",
   "short_name": "BMP를 JPG로 변환하는 변환기",
   "description": "BMP를 온라인에서 무료로 JPG로 변환하고 거대한 비압축 비트맵을 90% 이상 줄이세요. 브라우저에서 — 회원가입 없음, 업로드 없음, 워터마크 없음.",
-  "id": "/loona-image-compressor/ko/bmp-to-jpg.html",
+  "id": "/ko/bmp-to-jpg.html",
   "start_url": "./bmp-to-jpg.html",
   "scope": "./bmp-to-jpg.html",
   "display": "standalone",

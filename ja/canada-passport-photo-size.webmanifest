@@ -2,7 +2,7 @@
   "name": "Loona カナダパスポート写真のサイズ",
   "short_name": "カナダパスポート写真のサイズ",
   "description": "公式サイズ50×70 mm（591×827 px）、無地の白または明るい色の背景でカナダパスポート写真を作成できます。無料のオンライン作成ツール — 切り取り、ダウンロード、印刷シートまで、アップロード不要です。",
-  "id": "/loona-image-compressor/ja/canada-passport-photo-size.html",
+  "id": "/ja/canada-passport-photo-size.html",
   "start_url": "./canada-passport-photo-size.html",
   "scope": "./canada-passport-photo-size.html",
   "display": "standalone",

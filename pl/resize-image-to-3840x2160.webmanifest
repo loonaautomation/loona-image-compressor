@@ -2,7 +2,7 @@
   "name": "Loona Zmień rozmiar obrazu do 3840 × 2160 px online",
   "short_name": "Zmień rozmiar obrazu do 3840",
   "description": "Zmień rozmiar dowolnego obrazu dokładnie do 3840×2160 px — Tapeta / kadr filmu 4K UHD. Za darmo w przeglądarce z kontrolą przycinania; bez przesyłania, bez rejestracji.",
-  "id": "/loona-image-compressor/pl/resize-image-to-3840x2160.html",
+  "id": "/pl/resize-image-to-3840x2160.html",
   "start_url": "./resize-image-to-3840x2160.html",
   "scope": "./resize-image-to-3840x2160.html",
   "display": "standalone",

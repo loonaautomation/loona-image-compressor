@@ -2,7 +2,7 @@
   "name": "Loona Thay đổi kích thước ảnh thành 2400 × 3000 px trực tuyến",
   "short_name": "Thay đổi kích thước ảnh thành",
   "description": "Thay đổi kích thước mọi hình ảnh thành chính xác 2400×3000 px — Bản in 8 × 10 inch ở 300 DPI. Miễn phí trong trình duyệt của bạn với điều khiển cắt ảnh; không tải lên, không đăng ký.",
-  "id": "/loona-image-compressor/vi/resize-image-to-2400x3000.html",
+  "id": "/vi/resize-image-to-2400x3000.html",
   "start_url": "./resize-image-to-2400x3000.html",
   "scope": "./resize-image-to-2400x3000.html",
   "display": "standalone",

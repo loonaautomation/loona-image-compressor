@@ -2,7 +2,7 @@
   "name": "Loona رنگ پیلیٹ جنریٹر",
   "short_name": "رنگ پیلیٹ جنریٹر",
   "description": "کسی بھی بنیادی رنگ سے ہم آہنگ رنگ پیلیٹ بنائیں — ہم آہنگ، تکمیلی، سہ رخی اور یک رنگ اسکیمیں کاپی کے قابل HEX کوڈز کے ساتھ۔ مفت، نہ سائن اپ۔",
-  "id": "/loona-image-compressor/ur/color-palette-generator.html",
+  "id": "/ur/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",
   "scope": "./color-palette-generator.html",
   "display": "standalone",

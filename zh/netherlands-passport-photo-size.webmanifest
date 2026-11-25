@@ -2,7 +2,7 @@
   "name": "Loona 荷兰护照照片 尺寸",
   "short_name": "荷兰护照照片 尺寸",
   "description": "按官方尺寸 35×45 mm（413×531 px）制作 荷兰护照照片，纯浅灰色或白色，均匀照明背景。免费在线制作工具 — 裁剪、下载并打印照片页，无需上传。",
-  "id": "/loona-image-compressor/zh/netherlands-passport-photo-size.html",
+  "id": "/zh/netherlands-passport-photo-size.html",
   "start_url": "./netherlands-passport-photo-size.html",
   "scope": "./netherlands-passport-photo-size.html",
   "display": "standalone",

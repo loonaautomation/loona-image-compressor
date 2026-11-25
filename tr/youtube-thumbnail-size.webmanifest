@@ -2,7 +2,7 @@
   "name": "Loona YouTube Video Küçük Resmi Boyutu — 1280×720 px",
   "short_name": "YouTube Video Küçük Resmi Boyutu — 1280×720 px",
   "description": "Tam olarak 1280×720 px ölçüsünde bir YouTube video küçük resmi oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/youtube-thumbnail-size.html",
+  "id": "/tr/youtube-thumbnail-size.html",
   "start_url": "./youtube-thumbnail-size.html",
   "scope": "./youtube-thumbnail-size.html",
   "display": "standalone",

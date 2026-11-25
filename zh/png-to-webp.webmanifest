@@ -2,7 +2,7 @@
   "name": "Loona PNG 转 WebP 转换器",
   "short_name": "PNG 转 WebP 转换器",
   "description": "免费在线将 PNG 转换为 WebP — 文件小得多且保留透明度，非常适合网站。无需注册，无需上传，在您的浏览器中运行。",
-  "id": "/loona-image-compressor/zh/png-to-webp.html",
+  "id": "/zh/png-to-webp.html",
   "start_url": "./png-to-webp.html",
   "scope": "./png-to-webp.html",
   "display": "standalone",

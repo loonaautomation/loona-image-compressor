@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายบัตร PAN อินเดีย",
   "short_name": "ขนาดรูปถ่ายบัตร PAN อินเดีย",
   "description": "ทำรูปถ่ายบัตร PAN อินเดียที่ขนาดอย่างเป็นทางการ 25×35 mm (295×413 px) พื้นหลังขาวเรียบ เครื่องทำรูปออนไลน์ฟรี — ครอบตัด ดาวน์โหลด และแผ่นพิมพ์ ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/india-pan-card-photo-size.html",
+  "id": "/th/india-pan-card-photo-size.html",
   "start_url": "./india-pan-card-photo-size.html",
   "scope": "./india-pan-card-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vylepšovač obrázkov",
   "short_name": "Vylepšovač obrázkov",
   "description": "Vylepšite fotografiu online zadarmo: automatické vylepšenie jedným kliknutím, doostrenie mäkkých fotografií, jemné odstránenie šumu a zväčšenie 2x alebo 4x. Poctivé výsledky, bez registrácie a vaša fotografia nikdy neopustí vaše zariadenie.",
-  "id": "/loona-image-compressor/sk/image-enhancer.html",
+  "id": "/sk/image-enhancer.html",
   "start_url": "./image-enhancer.html",
   "scope": "./image-enhancer.html",
   "display": "standalone",

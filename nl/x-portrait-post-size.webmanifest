@@ -2,7 +2,7 @@
   "name": "Loona Formaat X (Twitter) Portretpost (4",
   "short_name": "Formaat X (Twitter)",
   "description": "Maak een X (Twitter) portretpost (4:5) op precies 1080×1350 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/x-portrait-post-size.html",
+  "id": "/nl/x-portrait-post-size.html",
   "start_url": "./x-portrait-post-size.html",
   "scope": "./x-portrait-post-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona RRB NTPC (Railways) Fénykép méret",
   "short_name": "RRB NTPC (Railways) Fénykép",
   "description": "Méretezze át a RRB NTPC (Railways) fotó fájlját a kiírás szerinti méretre (320 × 240 px) és a 30–70 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/rrb-ntpc-photo-size.html",
+  "id": "/hu/rrb-ntpc-photo-size.html",
   "start_url": "./rrb-ntpc-photo-size.html",
   "scope": "./rrb-ntpc-photo-size.html",
   "display": "standalone",

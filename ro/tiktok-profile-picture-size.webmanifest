@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie de profil TikTok",
   "short_name": "Dimensiune Fotografie de",
   "description": "Creează un fotografie de profil TikTok la exact 720×720 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/tiktok-profile-picture-size.html",
+  "id": "/ro/tiktok-profile-picture-size.html",
   "start_url": "./tiktok-profile-picture-size.html",
   "scope": "./tiktok-profile-picture-size.html",
   "display": "standalone",

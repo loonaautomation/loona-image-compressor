@@ -2,7 +2,7 @@
   "name": "Loona Facebook 快拍 尺寸",
   "short_name": "Facebook 快拍 尺寸",
   "description": "按精確的 1080×1920 px 製作 Facebook 快拍。在瀏覽器中免費調整大小/裁剪，附有安全區規則，防止文字和麵部被裁掉。",
-  "id": "/loona-image-compressor/zh-hant/facebook-story-size.html",
+  "id": "/zh-hant/facebook-story-size.html",
   "start_url": "./facebook-story-size.html",
   "scope": "./facebook-story-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Розмір Підпис IBPS Clerk (CSA)",
   "short_name": "Розмір Підпис IBPS Clerk (CSA)",
   "description": "Змініть розмір вашого підпис для IBPS Clerk (CSA) до розміру з повідомлення (140 × 60 px) і діапазону 10–20 KB. Безкоштовно, у вашому браузері — без передавання, без реєстрації.",
-  "id": "/loona-image-compressor/uk/ibps-clerk-signature-size.html",
+  "id": "/uk/ibps-clerk-signature-size.html",
   "start_url": "./ibps-clerk-signature-size.html",
   "scope": "./ibps-clerk-signature-size.html",
   "display": "standalone",

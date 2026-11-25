@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото на паспорт Єгипту",
   "short_name": "Розмір Фото на паспорт Єгипту",
   "description": "Зробіть Фото на паспорт Єгипту в офіційному розмірі 40×60 мм (472×709 пікс.), тло: однотонне біле. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
-  "id": "/loona-image-compressor/uk/egypt-passport-photo-size.html",
+  "id": "/uk/egypt-passport-photo-size.html",
   "start_url": "./egypt-passport-photo-size.html",
   "scope": "./egypt-passport-photo-size.html",
   "display": "standalone",

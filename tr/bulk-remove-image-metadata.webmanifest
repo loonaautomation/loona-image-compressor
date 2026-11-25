@@ -2,7 +2,7 @@
   "name": "Loona Toplu Meta Veri Kaldırıcı – Birçok Fotoğraftan Aynı Anda EXIF Soyun",
   "short_name": "Toplu Meta Veri Kaldırıcı – Birçok Fotoğraftan Aynı Anda EXIF Soyun",
   "description": "EXIF, GPS ve XMP meta verilerini birçok fotoğraftan aynı anda kaldırın — bir grup JPG, PNG ve WebP dosyası bırakın, hepsini tarayıcınızda soyun ve her şeyi tek bir ZIP olarak indirin. Ücretsiz, gizli, yükleme yok, yeniden kodlama yok.",
-  "id": "/loona-image-compressor/tr/bulk-remove-image-metadata.html",
+  "id": "/tr/bulk-remove-image-metadata.html",
   "start_url": "./bulk-remove-image-metadata.html",
   "scope": "./bulk-remove-image-metadata.html",
   "display": "standalone",

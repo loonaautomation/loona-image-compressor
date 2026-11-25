@@ -2,7 +2,7 @@
   "name": "Loona Veličina LinkedIn Naslovnica članka / biltena",
   "short_name": "Veličina LinkedIn Naslovnica",
   "description": "Izradite LinkedIn naslovnica članka / biltena na točno 1200×644 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/linkedin-article-cover-size.html",
+  "id": "/hr/linkedin-article-cover-size.html",
   "start_url": "./linkedin-article-cover-size.html",
   "scope": "./linkedin-article-cover-size.html",
   "display": "standalone",

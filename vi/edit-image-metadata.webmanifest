@@ -2,7 +2,7 @@
   "name": "Loona Trình chỉnh sửa EXIF",
   "short_name": "Trình chỉnh sửa EXIF",
   "description": "Chỉnh sửa dữ liệu EXIF của ảnh JPG trực tuyến miễn phí — sửa ngày chụp, thêm tên của bạn với vai trò tác giả, đặt bản quyền, hãng và kiểu máy ảnh, hoặc tạo EXIF trên một bức ảnh chưa có. Pixel không bao giờ bị mã hóa lại và không có gì bị tải lên.",
-  "id": "/loona-image-compressor/vi/edit-image-metadata.html",
+  "id": "/vi/edit-image-metadata.html",
   "start_url": "./edit-image-metadata.html",
   "scope": "./edit-image-metadata.html",
   "display": "standalone",

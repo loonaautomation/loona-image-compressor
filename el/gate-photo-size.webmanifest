@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία GATE",
   "short_name": "Φωτογραφία GATE",
   "description": "Αλλάξτε το μέγεθος της φωτογραφία GATE στο μέγεθος της προκήρυξης (480 × 640 px) και στη ζώνη 5–200 KB. Δωρεάν, στο πρόγραμμα περιήγησής σας — χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/gate-photo-size.html",
+  "id": "/el/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

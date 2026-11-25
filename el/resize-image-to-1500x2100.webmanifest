@@ -2,7 +2,7 @@
   "name": "Loona Αλλαγή Μεγέθους Εικόνας σε 1500 × 2100 px Online",
   "short_name": "Αλλαγή Μεγέθους Εικόνας σε",
   "description": "Αλλάξτε το μέγεθος οποιασδήποτε εικόνας σε ακριβώς 1500×2100 px — Εκτύπωση φωτογραφίας 5 × 7 inch στα 300 DPI. Δωρεάν στο πρόγραμμα περιήγησής σας με έλεγχο περικοπής· χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/resize-image-to-1500x2100.html",
+  "id": "/el/resize-image-to-1500x2100.html",
   "start_url": "./resize-image-to-1500x2100.html",
   "scope": "./resize-image-to-1500x2100.html",
   "display": "standalone",

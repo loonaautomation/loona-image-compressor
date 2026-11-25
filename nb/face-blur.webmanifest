@@ -2,7 +2,7 @@
   "name": "Loona Ansiktssløring",
   "short_name": "Ansiktssløring",
   "description": "Slør eller pikseler ansikter, bilskilt og private detaljer i et hvilket som helst bilde. Du velger områdene selv, velger styrken, forhåndsviser og laster ned — gratis, ingen registrering, og bildet ditt forlater aldri enheten din.",
-  "id": "/loona-image-compressor/nb/face-blur.html",
+  "id": "/nb/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona GIF'den PNG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Hareketsiz Görüntü",
   "short_name": "GIF'den PNG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Hareketsiz Görüntü",
   "description": "GIF'i çevrimiçi ücretsiz olarak PNG'ye dönüştürün — GIF'inizden temiz, kayıpsız bir hareketsiz görüntü. Tarayıcı tabanlı, kayıt yok, yükleme yok, filigran yok.",
-  "id": "/loona-image-compressor/tr/gif-to-png.html",
+  "id": "/tr/gif-to-png.html",
   "start_url": "./gif-to-png.html",
   "scope": "./gif-to-png.html",
   "display": "standalone",

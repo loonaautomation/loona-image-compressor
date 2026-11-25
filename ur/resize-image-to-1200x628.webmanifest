@@ -2,7 +2,7 @@
   "name": "Loona تصویر کو 1200 × 628 تک ری سائز کریں",
   "short_name": "تصویر کو 1200 × 628 تک ری",
   "description": "کسی بھی تصویر کو بالکل 1200 × 628 پکسلز (Facebook اور LinkedIn لنک شیئرز اور اشتہارات) تک مفت ری سائز کریں۔ Cover، contain یا stretch، JPG یا PNG، فوراً ڈاؤن لوڈ کریں — نہ سائن اپ، کچھ بھی اپ لوڈ نہیں ہوتا۔",
-  "id": "/loona-image-compressor/ur/resize-image-to-1200x628.html",
+  "id": "/ur/resize-image-to-1200x628.html",
   "start_url": "./resize-image-to-1200x628.html",
   "scope": "./resize-image-to-1200x628.html",
   "display": "standalone",

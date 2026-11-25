@@ -2,7 +2,7 @@
   "name": "Loona Veličina X (Twitter) Slika objave (16",
   "short_name": "Veličina X (Twitter) Slika",
   "description": "Izradite X (Twitter) slika objave (16:9) na točno 1600×900 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/x-post-image-size.html",
+  "id": "/hr/x-post-image-size.html",
   "start_url": "./x-post-image-size.html",
   "scope": "./x-post-image-size.html",
   "display": "standalone",

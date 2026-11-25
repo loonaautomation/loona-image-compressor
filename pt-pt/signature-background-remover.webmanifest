@@ -2,7 +2,7 @@
   "name": "Loona Removedor de fundo de assinatura",
   "short_name": "Removedor de fundo de assinatura",
   "description": "Remova o fundo de papel de uma fotografia de assinatura ou carimbo e descarregue um PNG transparente, gratuitamente online. Ferramenta canvas pura no navegador: sem IA, sem carregamentos, sem registo.",
-  "id": "/loona-image-compressor/pt-pt/signature-background-remover.html",
+  "id": "/pt-pt/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

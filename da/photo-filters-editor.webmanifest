@@ -2,7 +2,7 @@
   "name": "Loona Fotofiltre &amp; Rettelse",
   "short_name": "Fotofiltre &amp; Rettelse",
   "description": "Ret fotos online gratis: justér lysstyrke, kontrast og mætning, skærp med ét klik, og brug færdige forudindstillinger som Passport Fix og Vivid.",
-  "id": "/loona-image-compressor/da/photo-filters-editor.html",
+  "id": "/da/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

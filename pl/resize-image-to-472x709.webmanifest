@@ -2,7 +2,7 @@
   "name": "Loona Zmień rozmiar obrazu do 472 × 709 px online",
   "short_name": "Zmień rozmiar obrazu do 472 ×",
   "description": "Zmień rozmiar dowolnego obrazu dokładnie do 472×709 px — 40 × 60 mm przy 300 DPI — rozmiar zdjęcia ZEA/Arabia Saudyjska/Egipt/Wietnam. Za darmo w przeglądarce z kontrolą przycinania; bez przesyłania, bez rejestracji.",
-  "id": "/loona-image-compressor/pl/resize-image-to-472x709.html",
+  "id": "/pl/resize-image-to-472x709.html",
   "start_url": "./resize-image-to-472x709.html",
   "scope": "./resize-image-to-472x709.html",
   "display": "standalone",

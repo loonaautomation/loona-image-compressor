@@ -2,7 +2,7 @@
   "name": "Loona Dimensiuni pentru fotografii și semnături de examen",
   "short_name": "Dimensiuni pentru fotografii",
   "description": "Dimensiuni și intervale KB pentru fotografii și semnături pentru 20 de examene indiene majore — SSC, IBPS, SBI, UPSC, RRB, JEE, NEET și altele, fiecare cu un instrument de creare.",
-  "id": "/loona-image-compressor/ro/exam-photo-sizes.html",
+  "id": "/ro/exam-photo-sizes.html",
   "start_url": "./exam-photo-sizes.html",
   "scope": "./exam-photo-sizes.html",
   "display": "standalone",

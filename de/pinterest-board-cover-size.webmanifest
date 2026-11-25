@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Pinnwand-Cover Größe",
   "short_name": "Pinterest Pinnwand-Cover Größe",
   "description": "Erstellen Sie ein Pinterest-pinnwand-cover mit exakt 800×450 px. Kostenloser Größenänderer/Zuschneider in Ihrem Browser mit den Regeln für die sichere Zone, die abgeschnittenen Text und Gesichter verhindern.",
-  "id": "/loona-image-compressor/de/pinterest-board-cover-size.html",
+  "id": "/de/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",
   "scope": "./pinterest-board-cover-size.html",
   "display": "standalone",

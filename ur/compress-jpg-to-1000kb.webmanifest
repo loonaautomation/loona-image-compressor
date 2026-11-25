@@ -2,7 +2,7 @@
   "name": "Loona JPG کو 1000 KB تک آن لائن کمپریس کریں",
   "short_name": "JPG کو 1000 KB تک آن لائن",
   "description": "کسی JPG تصویر کو اپنے براؤزر میں مفت 1000 KB یا اس سے کم تک کمپریس کریں۔ خودکار تلاش وہ بہترین کوالٹی ڈھونڈتی ہے جو اس حد میں سمائے — نہ سائن اپ، نہ اپ لوڈ۔",
-  "id": "/loona-image-compressor/ur/compress-jpg-to-1000kb.html",
+  "id": "/ur/compress-jpg-to-1000kb.html",
   "start_url": "./compress-jpg-to-1000kb.html",
   "scope": "./compress-jpg-to-1000kb.html",
   "display": "standalone",

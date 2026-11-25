@@ -2,7 +2,7 @@
   "name": "Loona Discord Serverbanner størrelse",
   "short_name": "Discord Serverbanner størrelse",
   "description": "Lav en Discord serverbanner på præcis 960×540 px. Gratis størrelses- og beskæringsværktøj i din browser med sikkerhedszonereglerne, der forhindrer beskåret tekst og ansigter.",
-  "id": "/loona-image-compressor/da/discord-server-banner-size.html",
+  "id": "/da/discord-server-banner-size.html",
   "start_url": "./discord-server-banner-size.html",
   "scope": "./discord-server-banner-size.html",
   "display": "standalone",

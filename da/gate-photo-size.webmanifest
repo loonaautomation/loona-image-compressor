@@ -2,7 +2,7 @@
   "name": "Loona GATE Foto størrelse",
   "short_name": "GATE Foto størrelse",
   "description": "Tilpas størrelsen på dit GATE foto til meddelelsens størrelse (480 × 640 px) og båndet 5–200 KB. Gratis, i din browser — ingen upload, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/gate-photo-size.html",
+  "id": "/da/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

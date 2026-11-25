@@ -2,7 +2,7 @@
   "name": "Loona Bildförbättrare",
   "short_name": "Bildförbättrare",
   "description": "Förbättra ett foto online gratis: autoförbättring med ett klick, skärp mjuka foton, rensa varsamt brus och skala upp 2x eller 4x. Ärliga resultat, ingen registrering, och ditt foto lämnar aldrig din enhet.",
-  "id": "/loona-image-compressor/sv/image-enhancer.html",
+  "id": "/sv/image-enhancer.html",
   "start_url": "./image-enhancer.html",
   "scope": "./image-enhancer.html",
   "display": "standalone",

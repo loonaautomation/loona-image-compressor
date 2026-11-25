@@ -2,7 +2,7 @@
   "name": "Loona Photo Filters &amp; Fix",
   "short_name": "Photo Filters &amp; Fix",
   "description": "Fixa foton online gratis: justera ljusstyrka, kontrast och mättnad, skärp med ett klick och använd färdiga förinställningar som Passport Fix och Vivid.",
-  "id": "/loona-image-compressor/sv/photo-filters-editor.html",
+  "id": "/sv/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

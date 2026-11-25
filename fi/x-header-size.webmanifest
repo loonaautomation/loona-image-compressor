@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) Otsake / banneri koko",
   "short_name": "X (Twitter) Otsake / banneri",
   "description": "Tee X (Twitter) otsake / banneri tarkalleen kokoon 1500×500 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/x-header-size.html",
+  "id": "/fi/x-header-size.html",
   "start_url": "./x-header-size.html",
   "scope": "./x-header-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pinterest বোর্ড কভার আকার",
   "short_name": "Pinterest বোর্ড কভার আকার",
   "description": "ঠিক 800×450 px-এ একটি Pinterest বোর্ড কভার তৈরি করুন। আপনার ব্রাউজারে বিনামূল্যে রিসাইজার/ক্রপার, ক্রপ করা লেখা ও মুখ আটকায় এমন নিরাপদ-অঞ্চলের নিয়মসহ।",
-  "id": "/loona-image-compressor/bn/pinterest-board-cover-size.html",
+  "id": "/bn/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",
   "scope": "./pinterest-board-cover-size.html",
   "display": "standalone",

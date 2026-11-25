@@ -2,7 +2,7 @@
   "name": "Loona Penampil Metadata Gambar & EXIF",
   "short_name": "Penampil Metadata Gambar &",
   "description": "Lihat metadata tersembunyi dalam foto JPG, PNG, atau WebP mana pun online gratis — merek dan model kamera, tanggal pengambilan, pencahayaan, ISO, panjang fokus, lokasi GPS, dasar-dasar IPTC dan XMP. Tidak ada yang diunggah: foto Anda tidak pernah meninggalkan perangkat Anda.",
-  "id": "/loona-image-compressor/id/image-metadata-viewer.html",
+  "id": "/id/image-metadata-viewer.html",
   "start_url": "./image-metadata-viewer.html",
   "scope": "./image-metadata-viewer.html",
   "display": "standalone",

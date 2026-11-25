@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Imagine de postare în Comunitate YouTube",
   "short_name": "Dimensiune Imagine de postare",
   "description": "Creează un imagine de postare în comunitate YouTube la exact 1080×1080 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/youtube-community-post-size.html",
+  "id": "/ro/youtube-community-post-size.html",
   "start_url": "./youtube-community-post-size.html",
   "scope": "./youtube-community-post-size.html",
   "display": "standalone",

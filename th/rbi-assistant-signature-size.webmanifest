@@ -2,7 +2,7 @@
   "name": "Loona ขนาดลายเซ็นRBI Assistant",
   "short_name": "ขนาดลายเซ็นRBI Assistant",
   "description": "ปรับขนาดลายเซ็นRBI Assistantของคุณให้เป็นขนาดตามประกาศ (140 × 60 px) และช่วง 10–20 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/rbi-assistant-signature-size.html",
+  "id": "/th/rbi-assistant-signature-size.html",
   "start_url": "./rbi-assistant-signature-size.html",
   "scope": "./rbi-assistant-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PNG کو 75 KB تک آن لائن کمپریس کریں",
   "short_name": "PNG کو 75 KB تک آن لائن",
   "description": "کسی PNG تصویر کو اپنے براؤزر میں مفت 75 KB یا اس سے کم تک کمپریس کریں۔ خودکار تلاش وہ بہترین کوالٹی ڈھونڈتی ہے جو اس حد میں سمائے — نہ سائن اپ، نہ اپ لوڈ۔",
-  "id": "/loona-image-compressor/ur/compress-png-to-75kb.html",
+  "id": "/ur/compress-png-to-75kb.html",
   "start_url": "./compress-png-to-75kb.html",
   "scope": "./compress-png-to-75kb.html",
   "display": "standalone",

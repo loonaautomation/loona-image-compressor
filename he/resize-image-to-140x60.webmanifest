@@ -2,7 +2,7 @@
   "name": "Loona שינוי גודל תמונה ל־140 × 60 px באינטרנט",
   "short_name": "שינוי גודל תמונה ל־140 × 60",
   "description": "שנו גודל של כל תמונה בדיוק ל־140×60 px — תקן החתימה למבחנים בהודו (SSC, IBPS, SBI). בחינם בדפדפן שלכם עם בקרת חיתוך; ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/resize-image-to-140x60.html",
+  "id": "/he/resize-image-to-140x60.html",
   "start_url": "./resize-image-to-140x60.html",
   "scope": "./resize-image-to-140x60.html",
   "display": "standalone",

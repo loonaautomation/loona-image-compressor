@@ -2,7 +2,7 @@
   "name": "Loona Velikost LinkedIn Logo stránky společnosti",
   "short_name": "Velikost LinkedIn Logo",
   "description": "Vytvořte LinkedIn logo stránky společnosti přesně 300×300 px. Bezplatný nástroj na změnu velikosti/ořez ve vašem prohlížeči s pravidly bezpečné zóny, která zabrání oříznutí textu a obličejů.",
-  "id": "/loona-image-compressor/cs/linkedin-company-logo-size.html",
+  "id": "/cs/linkedin-company-logo-size.html",
   "start_url": "./linkedin-company-logo-size.html",
   "scope": "./linkedin-company-logo-size.html",
   "display": "standalone",

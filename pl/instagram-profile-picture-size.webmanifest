@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar",
   "short_name": "Rozmiar",
   "description": "Utwórz Instagram zdjęcie profilowe dokładnie 1080×1080 px. Darmowe narzędzie do zmiany rozmiaru/przycinania w przeglądarce z zasadami strefy bezpiecznej, które chronią przycięty tekst i twarze.",
-  "id": "/loona-image-compressor/pl/instagram-profile-picture-size.html",
+  "id": "/pl/instagram-profile-picture-size.html",
   "start_url": "./instagram-profile-picture-size.html",
   "scope": "./instagram-profile-picture-size.html",
   "display": "standalone",

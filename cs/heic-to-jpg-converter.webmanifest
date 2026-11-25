@@ -2,7 +2,7 @@
   "name": "Loona Převodník HEIC na JPG",
   "short_name": "Převodník HEIC na JPG",
   "description": "Převeďte HEIC na JPG online, zdarma, ve svém prohlížeči. Proměňte fotografie HEIC z iPhonu v JPG, který se otevře všude — bez nahrávání, bez registrace, bez vodoznaků.",
-  "id": "/loona-image-compressor/cs/heic-to-jpg-converter.html",
+  "id": "/cs/heic-to-jpg-converter.html",
   "start_url": "./heic-to-jpg-converter.html",
   "scope": "./heic-to-jpg-converter.html",
   "display": "standalone",

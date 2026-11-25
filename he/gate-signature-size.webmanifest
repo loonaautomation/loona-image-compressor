@@ -2,7 +2,7 @@
   "name": "Loona גודל חתימה GATE",
   "short_name": "גודל חתימה GATE",
   "description": "שנו את גודל ה־חתימה של GATE לגודל ההודעה הרשמית (תיבה סרוקה, יחס של כ־7:2) ולרצועת 3–100 KB. בחינם, בדפדפן שלכם — ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/gate-signature-size.html",
+  "id": "/he/gate-signature-size.html",
   "start_url": "./gate-signature-size.html",
   "scope": "./gate-signature-size.html",
   "display": "standalone",

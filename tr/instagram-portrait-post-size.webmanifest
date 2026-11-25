@@ -2,7 +2,7 @@
   "name": "Loona Instagram Dikey Gönderi (4",
   "short_name": "Instagram Dikey Gönderi (4",
   "description": "Tam olarak 1080×1350 px ölçüsünde bir Instagram dikey gönderi (4:5) oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/instagram-portrait-post-size.html",
+  "id": "/tr/instagram-portrait-post-size.html",
   "start_url": "./instagram-portrait-post-size.html",
   "scope": "./instagram-portrait-post-size.html",
   "display": "standalone",

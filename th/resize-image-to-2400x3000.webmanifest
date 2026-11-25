@@ -2,7 +2,7 @@
   "name": "Loona ปรับขนาดรูปภาพเป็น 2400 × 3000 px ออนไลน์",
   "short_name": "ปรับขนาดรูปภาพเป็น 2400 ×",
   "description": "ปรับขนาดรูปภาพใดก็ได้ให้เป็น 2400×3000 px พอดี — ภาพพิมพ์ 8 × 10 นิ้วที่ 300 DPI ฟรีในเบราว์เซอร์ของคุณพร้อมการควบคุมการครอบตัด ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/resize-image-to-2400x3000.html",
+  "id": "/th/resize-image-to-2400x3000.html",
   "start_url": "./resize-image-to-2400x3000.html",
   "scope": "./resize-image-to-2400x3000.html",
   "display": "standalone",

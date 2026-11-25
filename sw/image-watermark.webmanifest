@@ -2,7 +2,7 @@
   "name": "Loona Alama ya Maji ya Picha",
   "short_name": "Alama ya Maji ya Picha",
   "description": "Ongeza alama ya maji ya maandishi kwenye picha yoyote mtandaoni bure — chagua maandishi, ukubwa, rangi, uwazi na nafasi, au irudie kama muundo wa vigae. Hakiki ya moja kwa moja, bila kujisajili, na picha yako haiondoki kwenye kifaa chako kamwe.",
-  "id": "/loona-image-compressor/sw/image-watermark.html",
+  "id": "/sw/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

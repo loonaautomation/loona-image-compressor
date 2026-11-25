@@ -2,7 +2,7 @@
   "name": "Loona Kokeen IBPS Clerk (CSA) Allekirjoitus koko",
   "short_name": "Kokeen IBPS Clerk (CSA)",
   "description": "Muuta kokeen IBPS Clerk (CSA) allekirjoitus ilmoitettuun kokoon (140 × 60 px) ja välille 10–20 KB. Ilmaiseksi selaimessasi — ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/ibps-clerk-signature-size.html",
+  "id": "/fi/ibps-clerk-signature-size.html",
   "start_url": "./ibps-clerk-signature-size.html",
   "scope": "./ibps-clerk-signature-size.html",
   "display": "standalone",

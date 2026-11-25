@@ -2,7 +2,7 @@
   "name": "Loona Facebook स्टोरी साइज़",
   "short_name": "Facebook स्टोरी साइज़",
   "description": "Facebook स्टोरी ठीक 1080×1920 px पर बनाएँ. आपके ब्राउज़र में मुफ़्त रीसाइज़र/क्रॉपर, उन सेफ़-ज़ोन नियमों के साथ जो क्रॉप हुए टेक्स्ट और चेहरों को रोकते हैं.",
-  "id": "/loona-image-compressor/hi/facebook-story-size.html",
+  "id": "/hi/facebook-story-size.html",
   "start_url": "./facebook-story-size.html",
   "scope": "./facebook-story-size.html",
   "display": "standalone",

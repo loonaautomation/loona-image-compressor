@@ -2,7 +2,7 @@
   "name": "Loona حجم التوقيع CTET",
   "short_name": "حجم التوقيع CTET",
   "description": "غيّر حجم التوقيع الخاص بك لامتحان CTET إلى حجم الإشعار (مربع ممسوح ضوئياً، نسبة نحو 7:2) ونطاق 3–30 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/ctet-signature-size.html",
+  "id": "/ar/ctet-signature-size.html",
   "start_url": "./ctet-signature-size.html",
   "scope": "./ctet-signature-size.html",
   "display": "standalone",

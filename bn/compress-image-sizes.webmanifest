@@ -2,7 +2,7 @@
   "name": "Loona ছবি কমপ্রেস করে যেকোনো KB আকার করুন",
   "short_name": "ছবি কমপ্রেস করে যেকোনো KB",
   "description": "প্রতিটি আকারে-কমপ্রেস টুল: JPG, PNG ও WebP-তে 16টি লক্ষ্য আকার, 10 KB থেকে 2 MB পর্যন্ত। বিনামূল্যে, আপনার ব্রাউজারে।",
-  "id": "/loona-image-compressor/bn/compress-image-sizes.html",
+  "id": "/bn/compress-image-sizes.html",
   "start_url": "./compress-image-sizes.html",
   "scope": "./compress-image-sizes.html",
   "display": "standalone",

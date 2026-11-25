@@ -2,7 +2,7 @@
   "name": "Loona GATE 사진 크기",
   "short_name": "GATE 사진 크기",
   "description": "GATE 사진을 공고 크기(480 × 640 px)와 5–200 KB 범위에 맞게 조정하세요. 브라우저에서 무료로 — 업로드도, 회원가입도 없어요.",
-  "id": "/loona-image-compressor/ko/gate-photo-size.html",
+  "id": "/ko/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

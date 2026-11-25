@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة جواز السفر النيوزيلندي",
   "short_name": "حجم صورة جواز السفر",
   "description": "اصنع صورة جواز السفر النيوزيلندي بالحجم الرسمي 35×45 mm (413×531 px)، خلفية سادة، فاتحة، محايدة (ليست بيضاء نقية في الإرشادات). صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/new-zealand-passport-photo-size.html",
+  "id": "/ar/new-zealand-passport-photo-size.html",
   "start_url": "./new-zealand-passport-photo-size.html",
   "scope": "./new-zealand-passport-photo-size.html",
   "display": "standalone",

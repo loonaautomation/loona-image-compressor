@@ -2,7 +2,7 @@
   "name": "Loona Colombia Visa Photo-størrelse",
   "short_name": "Colombia Visa Photo-størrelse",
   "description": "Lag et Colombia Visa Photo i den offisielle størrelsen 30×40 mm (354×472 px), ensfarget hvit bakgrunn. Gratis verktøy på nett — beskjær, last ned og skriv ut ark, ingen opplasting.",
-  "id": "/loona-image-compressor/nb/colombia-visa-photo-size.html",
+  "id": "/nb/colombia-visa-photo-size.html",
   "start_url": "./colombia-visa-photo-size.html",
   "scope": "./colombia-visa-photo-size.html",
   "display": "standalone",

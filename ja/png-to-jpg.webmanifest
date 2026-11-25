@@ -2,7 +2,7 @@
   "name": "Loona PNGからJPGへの変換ツール",
   "short_name": "PNGからJPGへの変換ツール",
   "description": "PNGをオンラインで無料でJPGに変換。フォーム、メール、ウェブサイトのための小さなファイルを、ブラウザですぐに — 登録不要、アップロード不要、透かしなし。",
-  "id": "/loona-image-compressor/ja/png-to-jpg.html",
+  "id": "/ja/png-to-jpg.html",
   "start_url": "./png-to-jpg.html",
   "scope": "./png-to-jpg.html",
   "display": "standalone",

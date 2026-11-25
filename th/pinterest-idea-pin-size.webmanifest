@@ -2,7 +2,7 @@
   "name": "Loona ขนาดIdea Pin / สตอรี Pinterest",
   "short_name": "ขนาดIdea Pin / สตอรี Pinterest",
   "description": "ทำidea pin / สตอรี Pinterest ที่ขนาด 1080×1920 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/pinterest-idea-pin-size.html",
+  "id": "/th/pinterest-idea-pin-size.html",
   "start_url": "./pinterest-idea-pin-size.html",
   "scope": "./pinterest-idea-pin-size.html",
   "display": "standalone",

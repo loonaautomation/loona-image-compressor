@@ -2,7 +2,7 @@
   "name": "Loona Afbeelding verkleinen/vergroten naar 600 × 600 px online",
   "short_name": "Afbeelding",
   "description": "Pas elke afbeelding aan naar precies 600×600 px — Minimaal digitaal formaat voor paspoort/visum VS en DV Lottery. Gratis in je browser met bijsnijdcontrole; geen upload, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/resize-image-to-600x600.html",
+  "id": "/nl/resize-image-to-600x600.html",
   "start_url": "./resize-image-to-600x600.html",
   "scope": "./resize-image-to-600x600.html",
   "display": "standalone",

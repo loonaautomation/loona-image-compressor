@@ -2,7 +2,7 @@
   "name": "Loona Uuden-Seelannin passikuva koko",
   "short_name": "Uuden-Seelannin passikuva koko",
   "description": "Tee Uuden-Seelannin passikuva virallisessa koossa 35×45 mm (413×531 px), taustana tavallinen, vaalea, neutraali tausta (ei puhtaan valkoisen ohjetta). Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/new-zealand-passport-photo-size.html",
+  "id": "/fi/new-zealand-passport-photo-size.html",
   "start_url": "./new-zealand-passport-photo-size.html",
   "scope": "./new-zealand-passport-photo-size.html",
   "display": "standalone",

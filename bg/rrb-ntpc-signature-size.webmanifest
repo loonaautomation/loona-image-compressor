@@ -2,7 +2,7 @@
   "name": "Loona Размер на Подпис за RRB NTPC (Railways)",
   "short_name": "Размер на Подпис за RRB NTPC",
   "description": "Преоразмерете своя подпис за RRB NTPC (Railways) до размера от уведомлението (140 × 60 px) и диапазона 10–40 KB. Безплатно, във вашия браузър — без качване, без регистрация.",
-  "id": "/loona-image-compressor/bg/rrb-ntpc-signature-size.html",
+  "id": "/bg/rrb-ntpc-signature-size.html",
   "start_url": "./rrb-ntpc-signature-size.html",
   "scope": "./rrb-ntpc-signature-size.html",
   "display": "standalone",

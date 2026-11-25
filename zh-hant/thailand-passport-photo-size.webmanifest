@@ -2,7 +2,7 @@
   "name": "Loona 泰國護照 / 簽證照片 尺寸",
   "short_name": "泰國護照 / 簽證照片 尺寸",
   "description": "按官方尺寸 35×45 mm（413×531 px）製作 泰國護照 / 簽證照片，純白色背景。免費線上製作工具 — 裁剪、下載並列印照片頁，無需上傳。",
-  "id": "/loona-image-compressor/zh-hant/thailand-passport-photo-size.html",
+  "id": "/zh-hant/thailand-passport-photo-size.html",
   "start_url": "./thailand-passport-photo-size.html",
   "scope": "./thailand-passport-photo-size.html",
   "display": "standalone",

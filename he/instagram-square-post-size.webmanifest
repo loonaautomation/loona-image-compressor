@@ -2,7 +2,7 @@
   "name": "Loona גודל פוסט מרובע (1",
   "short_name": "גודל פוסט מרובע (1",
   "description": "צרו פוסט מרובע (1:1) של Instagram בדיוק ב־1080×1080 px. משנה גודל/חיתוך בחינם בדפדפן שלכם, עם כללי אזור הבטיחות שמונעים חיתוך של טקסט ופנים.",
-  "id": "/loona-image-compressor/he/instagram-square-post-size.html",
+  "id": "/he/instagram-square-post-size.html",
   "start_url": "./instagram-square-post-size.html",
   "scope": "./instagram-square-post-size.html",
   "display": "standalone",

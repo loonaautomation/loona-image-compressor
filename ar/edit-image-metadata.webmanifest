@@ -2,7 +2,7 @@
   "name": "Loona محرر EXIF",
   "short_name": "محرر EXIF",
   "description": "حرّر بيانات EXIF لصورة JPG عبر الإنترنت مجانًا — أصلح تاريخ الالتقاط، أضف اسمك كفنان، اضبط حقوق النشر وصانع الكاميرا وطرازها، أو أنشئ EXIF على صورة ليس فيها أي. البكسلات لا تُعاد ترميزها أبدًا ولا شيء يُرفع.",
-  "id": "/loona-image-compressor/ar/edit-image-metadata.html",
+  "id": "/ar/edit-image-metadata.html",
   "start_url": "./edit-image-metadata.html",
   "scope": "./edit-image-metadata.html",
   "display": "standalone",

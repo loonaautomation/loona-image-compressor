@@ -2,7 +2,7 @@
   "name": "Loona Pemeriksa Kontras",
   "short_name": "Pemeriksa Kontras",
   "description": "Periksa warna teks dan latar belakang terhadap WCAG: rasio kontras instan dengan lulus/gagal AA dan AAA untuk teks normal dan besar, ditambah pratinjau langsung. Gratis, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/contrast-checker.html",
+  "id": "/id/contrast-checker.html",
   "start_url": "./contrast-checker.html",
   "scope": "./contrast-checker.html",
   "display": "standalone",

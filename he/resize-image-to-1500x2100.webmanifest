@@ -2,7 +2,7 @@
   "name": "Loona שינוי גודל תמונה ל־1500 × 2100 px באינטרנט",
   "short_name": "שינוי גודל תמונה ל־1500 ×",
   "description": "שנו גודל של כל תמונה בדיוק ל־1500×2100 px — הדפסת תמונה 5 × 7 אינץ&#x27; ב־300 DPI. בחינם בדפדפן שלכם עם בקרת חיתוך; ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/resize-image-to-1500x2100.html",
+  "id": "/he/resize-image-to-1500x2100.html",
   "start_url": "./resize-image-to-1500x2100.html",
   "scope": "./resize-image-to-1500x2100.html",
   "display": "standalone",

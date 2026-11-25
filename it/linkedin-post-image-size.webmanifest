@@ -2,7 +2,7 @@
   "name": "Loona Formato Immagine post LinkedIn",
   "short_name": "Formato Immagine post LinkedIn",
   "description": "Crea un immagine post LinkedIn esattamente di 1200×627 px. Strumento gratuito di ridimensionamento e ritaglio nel tuo browser, con le regole della zona sicura che evitano testi e volti tagliati.",
-  "id": "/loona-image-compressor/it/linkedin-post-image-size.html",
+  "id": "/it/linkedin-post-image-size.html",
   "start_url": "./linkedin-post-image-size.html",
   "scope": "./linkedin-post-image-size.html",
   "display": "standalone",

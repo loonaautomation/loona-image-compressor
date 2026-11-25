@@ -2,7 +2,7 @@
   "name": "Loona WEBP를 AVIF로 변환하는 변환기",
   "short_name": "WEBP를 AVIF로 변환하는 변환기",
   "description": "WEBP를 AVIF로 온라인에서 무료로, 브라우저에서 변환하세요. 사용자의 기기에서 실제 변환이 이뤄져요 — 업로드도, 회원가입도, 워터마크도 없어요.",
-  "id": "/loona-image-compressor/ko/webp-to-avif.html",
+  "id": "/ko/webp-to-avif.html",
   "start_url": "./webp-to-avif.html",
   "scope": "./webp-to-avif.html",
   "display": "standalone",

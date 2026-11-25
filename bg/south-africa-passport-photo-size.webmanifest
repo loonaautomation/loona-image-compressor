@@ -2,7 +2,7 @@
   "name": "Loona Размер Снимка за паспорт на Южна Африка",
   "short_name": "Размер Снимка за паспорт на",
   "description": "Направете Снимка за паспорт на Южна Африка в официалния размер 35×45 mm (413×531 px), фон обикновен бял или светлосив. Безплатен онлайн инструмент — изрязване, изтегляне и лист за печат, без качване.",
-  "id": "/loona-image-compressor/bg/south-africa-passport-photo-size.html",
+  "id": "/bg/south-africa-passport-photo-size.html",
   "start_url": "./south-africa-passport-photo-size.html",
   "scope": "./south-africa-passport-photo-size.html",
   "display": "standalone",

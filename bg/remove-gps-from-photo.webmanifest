@@ -2,7 +2,7 @@
   "name": "Loona Премахване на GPS от снимка",
   "short_name": "Премахване на GPS от снимка",
   "description": "Премахнете само GPS местоположението от снимка JPG, PNG или WebP и запазете данните за камерата, датата и експонацията. Байт по байт, без прекодиране, проверено чрез повторно сканиране — 100% във вашия браузър, нищо не се качва.",
-  "id": "/loona-image-compressor/bg/remove-gps-from-photo.html",
+  "id": "/bg/remove-gps-from-photo.html",
   "start_url": "./remove-gps-from-photo.html",
   "scope": "./remove-gps-from-photo.html",
   "display": "standalone",

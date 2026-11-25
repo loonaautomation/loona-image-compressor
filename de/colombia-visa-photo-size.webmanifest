@@ -2,7 +2,7 @@
   "name": "Loona Kolumbien-Visumfoto Größe",
   "short_name": "Kolumbien-Visumfoto Größe",
   "description": "Erstellen Sie ein Kolumbien-Visumfoto in der offiziellen Größe 30×40 mm (354×472 px), Hintergrund einfarbig weiß. Kostenloser Online-Ersteller — zuschneiden, herunterladen und Druckbogen, ohne Upload.",
-  "id": "/loona-image-compressor/de/colombia-visa-photo-size.html",
+  "id": "/de/colombia-visa-photo-size.html",
   "start_url": "./colombia-visa-photo-size.html",
   "scope": "./colombia-visa-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Virksomhedssidens logo størrelse",
   "short_name": "LinkedIn Virksomhedssidens",
   "description": "Lav en LinkedIn virksomhedssidens logo på præcis 300×300 px. Gratis størrelses- og beskæringsværktøj i din browser med sikkerhedszonereglerne, der forhindrer beskåret tekst og ansigter.",
-  "id": "/loona-image-compressor/da/linkedin-company-logo-size.html",
+  "id": "/da/linkedin-company-logo-size.html",
   "start_url": "./linkedin-company-logo-size.html",
   "scope": "./linkedin-company-logo-size.html",
   "display": "standalone",

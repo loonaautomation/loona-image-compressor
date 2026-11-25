@@ -2,7 +2,7 @@
   "name": "Loona Promijeni veličinu slike na 200 × 230 px na mreži",
   "short_name": "Promijeni veličinu slike na",
   "description": "Promijenite veličinu bilo koje slike na točno 200×230 px — Standard ispitne fotografije SSC/IBPS/SBI u Indiji. Besplatno u vašem pregledniku uz kontrolu izrezivanja; bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/resize-image-to-200x230.html",
+  "id": "/hr/resize-image-to-200x230.html",
   "start_url": "./resize-image-to-200x230.html",
   "scope": "./resize-image-to-200x230.html",
   "display": "standalone",

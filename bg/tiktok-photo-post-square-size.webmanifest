@@ -2,7 +2,7 @@
   "name": "Loona Размер на Фото публикация (квадрат) за TikTok",
   "short_name": "Размер на Фото публикация",
   "description": "Направете фото публикация (квадрат) за TikTok на точно 1080×1080 px. Безплатен инструмент за преоразмеряване/изрязване във вашия браузър с правилата за безопасната зона, които спират изрязване на текст и лица.",
-  "id": "/loona-image-compressor/bg/tiktok-photo-post-square-size.html",
+  "id": "/bg/tiktok-photo-post-square-size.html",
   "start_url": "./tiktok-photo-post-square-size.html",
   "scope": "./tiktok-photo-post-square-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Resize Image to 720 × 720 px",
   "short_name": "Resize Image to 720 × 720 px",
   "description": "Resize any image to exactly 720×720 px — Facebook profile minimum & general avatar size. Free in your browser with crop control; no upload, no signup.",
-  "id": "/loona-image-compressor/en-gb/resize-image-to-720x720.html",
+  "id": "/en-gb/resize-image-to-720x720.html",
   "start_url": "./resize-image-to-720x720.html",
   "scope": "./resize-image-to-720x720.html",
   "display": "standalone",

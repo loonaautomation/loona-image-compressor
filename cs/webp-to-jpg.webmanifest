@@ -2,7 +2,7 @@
   "name": "Loona Převodník WebP na JPG",
   "short_name": "Převodník WebP na JPG",
   "description": "Převeďte WebP na JPG online zdarma, aby se vaše obrázky otevřely v každé aplikaci, formuláři i starším zařízení. Založeno na prohlížeči — bez registrace, bez nahrávání, bez vodoznaku.",
-  "id": "/loona-image-compressor/cs/webp-to-jpg.html",
+  "id": "/cs/webp-to-jpg.html",
   "start_url": "./webp-to-jpg.html",
   "scope": "./webp-to-jpg.html",
   "display": "standalone",

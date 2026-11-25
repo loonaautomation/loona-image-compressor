@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας GIF σε PNG",
   "short_name": "Μετατροπέας GIF σε PNG",
   "description": "Μετατρέψτε GIF σε PNG διαδικτυακά δωρεάν — μια καθαρή, χωρίς απώλειες στατική εικόνα από το GIF σας. Βασισμένο σε πρόγραμμα περιήγησης, χωρίς εγγραφή, χωρίς μεταφόρτωση, χωρίς υδατογράφημα.",
-  "id": "/loona-image-compressor/el/gif-to-png.html",
+  "id": "/el/gif-to-png.html",
   "start_url": "./gif-to-png.html",
   "scope": "./gif-to-png.html",
   "display": "standalone",

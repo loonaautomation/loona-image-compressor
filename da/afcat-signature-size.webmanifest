@@ -2,7 +2,7 @@
   "name": "Loona AFCAT Underskrift størrelse",
   "short_name": "AFCAT Underskrift størrelse",
   "description": "Tilpas størrelsen på dit AFCAT underskrift til meddelelsens størrelse (scannet felt, forhold cirka 7:2) og båndet 10–50 KB. Gratis, i din browser — ingen upload, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/afcat-signature-size.html",
+  "id": "/da/afcat-signature-size.html",
   "start_url": "./afcat-signature-size.html",
   "scope": "./afcat-signature-size.html",
   "display": "standalone",

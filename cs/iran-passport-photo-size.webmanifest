@@ -2,7 +2,7 @@
   "name": "Loona Velikost Pasová fotografie Íránu",
   "short_name": "Velikost Pasová fotografie",
   "description": "Vytvořte Pasová fotografie Íránu v oficiální velikosti 30×40 mm (354×472 px), pozadí: jednobarevné bílé nebo světlé. Bezplatný online tvůrce — oříznutí, stažení a tiskový arch, bez nahrávání.",
-  "id": "/loona-image-compressor/cs/iran-passport-photo-size.html",
+  "id": "/cs/iran-passport-photo-size.html",
   "start_url": "./iran-passport-photo-size.html",
   "scope": "./iran-passport-photo-size.html",
   "display": "standalone",

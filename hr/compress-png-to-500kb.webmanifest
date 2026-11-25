@@ -2,7 +2,7 @@
   "name": "Loona Komprimirajte PNG na 500 KB na mreži",
   "short_name": "Komprimirajte PNG na 500 KB",
   "description": "Komprimirajte sliku PNG na 500 KB ili manje, besplatno u svom pregledniku. Automatsko pretraživanje pronalazi najbolju kvalitetu koja stane — bez registracije, bez prijenosa.",
-  "id": "/loona-image-compressor/hr/compress-png-to-500kb.html",
+  "id": "/hr/compress-png-to-500kb.html",
   "start_url": "./compress-png-to-500kb.html",
   "scope": "./compress-png-to-500kb.html",
   "display": "standalone",

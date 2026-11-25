@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Διαβατηρίου / Βίζας Βραζιλίας",
   "short_name": "Φωτογραφία Διαβατηρίου /",
   "description": "Δημιουργήστε Φωτογραφία Διαβατηρίου / Βίζας Βραζιλίας στο επίσημο μέγεθος 50×70 mm (591×827 px), φόντο απλό λευκό. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/brazil-passport-photo-size.html",
+  "id": "/el/brazil-passport-photo-size.html",
   "start_url": "./brazil-passport-photo-size.html",
   "scope": "./brazil-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) Başlık / Banner Boyutu — 1500×500 px",
   "short_name": "X (Twitter) Başlık / Banner Boyutu — 1500×500 px",
   "description": "Tam olarak 1500×500 px ölçüsünde bir X (Twitter) başlık / banner oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/x-header-size.html",
+  "id": "/tr/x-header-size.html",
   "start_url": "./x-header-size.html",
   "scope": "./x-header-size.html",
   "display": "standalone",

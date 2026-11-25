@@ -2,7 +2,7 @@
   "name": "Loona Formato Passaporto dell&#x27;Italia",
   "short_name": "Formato Passaporto",
   "description": "Crea la foto Passaporto dell&#x27;Italia nel formato ufficiale di 35×40 mm (413×472 px), sfondo bianco liso o chiaro. Strumento online gratuito: ritaglia, scarica e stampa il foglio, senza caricamenti.",
-  "id": "/loona-image-compressor/it/italy-passport-photo-size.html",
+  "id": "/it/italy-passport-photo-size.html",
   "start_url": "./italy-passport-photo-size.html",
   "scope": "./italy-passport-photo-size.html",
   "display": "standalone",

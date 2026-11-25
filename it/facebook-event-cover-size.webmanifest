@@ -2,7 +2,7 @@
   "name": "Loona Formato Copertina evento Facebook",
   "short_name": "Formato Copertina evento",
   "description": "Crea un copertina evento Facebook esattamente di 1920×1005 px. Strumento gratuito di ridimensionamento e ritaglio nel tuo browser, con le regole della zona sicura che evitano testi e volti tagliati.",
-  "id": "/loona-image-compressor/it/facebook-event-cover-size.html",
+  "id": "/it/facebook-event-cover-size.html",
   "start_url": "./facebook-event-cover-size.html",
   "scope": "./facebook-event-cover-size.html",
   "display": "standalone",

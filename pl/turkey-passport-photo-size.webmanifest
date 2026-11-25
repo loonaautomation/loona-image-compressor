@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do paszportu / wizy Türkiye (biometryczne)",
   "short_name": "Rozmiar Zdjęcie do paszportu",
   "description": "Utwórz Zdjęcie do paszportu / wizy Türkiye (biometryczne) w oficjalnym rozmiarze 50×60 mm (591×709 px), tło: gładkie białe. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/turkey-passport-photo-size.html",
+  "id": "/pl/turkey-passport-photo-size.html",
   "start_url": "./turkey-passport-photo-size.html",
   "scope": "./turkey-passport-photo-size.html",
   "display": "standalone",

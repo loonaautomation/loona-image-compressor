@@ -2,7 +2,7 @@
   "name": "Loona Kuvasta PDF -muunnin",
   "short_name": "Kuvasta PDF -muunnin",
   "description": "Muuta kuvat PDF:ksi verkossa ilmaiseksi: lisää JPG-, PNG- tai WebP-kuvia, valitse A4-, Letter- tai kuvaan sopivat sivut ja lataa yksi siisti PDF. Ei latauksia palvelimelle.",
-  "id": "/loona-image-compressor/fi/photo-to-pdf.html",
+  "id": "/fi/photo-to-pdf.html",
   "start_url": "./photo-to-pdf.html",
   "scope": "./photo-to-pdf.html",
   "display": "standalone",

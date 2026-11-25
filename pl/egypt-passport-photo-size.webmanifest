@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do paszportu Egiptu",
   "short_name": "Rozmiar Zdjęcie do paszportu",
   "description": "Utwórz Zdjęcie do paszportu Egiptu w oficjalnym rozmiarze 40×60 mm (472×709 px), tło: gładkie białe. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/egypt-passport-photo-size.html",
+  "id": "/pl/egypt-passport-photo-size.html",
   "start_url": "./egypt-passport-photo-size.html",
   "scope": "./egypt-passport-photo-size.html",
   "display": "standalone",

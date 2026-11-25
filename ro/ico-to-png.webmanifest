@@ -2,7 +2,7 @@
   "name": "Loona Convertor ICO în PNG",
   "short_name": "Convertor ICO în PNG",
   "description": "Convertește ICO în PNG online, gratuit, în browserul tău. Conversie reală pe dispozitivul tău — fără încărcare, fără înregistrare, fără filigrane.",
-  "id": "/loona-image-compressor/ro/ico-to-png.html",
+  "id": "/ro/ico-to-png.html",
   "start_url": "./ico-to-png.html",
   "scope": "./ico-to-png.html",
   "display": "standalone",

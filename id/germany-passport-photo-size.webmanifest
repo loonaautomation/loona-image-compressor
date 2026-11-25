@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Paspor Jerman (Biometrik)",
   "short_name": "Ukuran Foto Paspor Jerman",
   "description": "Buat Foto Paspor Jerman (Biometrik) pada ukuran resmi 35×45 mm (413×531 px), latar belakang abu-abu muda, polos. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/germany-passport-photo-size.html",
+  "id": "/id/germany-passport-photo-size.html",
   "start_url": "./germany-passport-photo-size.html",
   "scope": "./germany-passport-photo-size.html",
   "display": "standalone",

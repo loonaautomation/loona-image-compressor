@@ -2,7 +2,7 @@
   "name": "Loona Peningkat Gambar",
   "short_name": "Peningkat Gambar",
   "description": "Tingkatkan foto online gratis: peningkatan otomatis satu klik, pertajam foto lembut, bersihkan noise dengan lembut, dan naikkan skala 2x atau 4x. Hasil yang jujur, tanpa pendaftaran, dan foto Anda tidak pernah meninggalkan perangkat Anda.",
-  "id": "/loona-image-compressor/id/image-enhancer.html",
+  "id": "/id/image-enhancer.html",
   "start_url": "./image-enhancer.html",
   "scope": "./image-enhancer.html",
   "display": "standalone",

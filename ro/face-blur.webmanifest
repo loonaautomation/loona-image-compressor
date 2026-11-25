@@ -2,7 +2,7 @@
   "name": "Loona Estompare a feței",
   "short_name": "Estompare a feței",
   "description": "Estompează sau pixelează fețe, numere de înmatriculare și detalii private în orice fotografie. Tu selectezi zonele, alegi puterea, previzualizezi și descarci — gratuit, fără înregistrare, iar fotografia ta nu părăsește niciodată dispozitivul.",
-  "id": "/loona-image-compressor/ro/face-blur.html",
+  "id": "/ro/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

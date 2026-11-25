@@ -2,7 +2,7 @@
   "name": "Loona Veľkosť Pasová fotografia Holandska",
   "short_name": "Veľkosť Pasová fotografia",
   "description": "Vytvorte Pasová fotografia Holandska v oficiálnej veľkosti 35×45 mm (413×531 px), pozadie: jednofarebné svetlosivé alebo biele, rovnomerne osvetlené. Bezplatný online tvorca — orezanie, stiahnutie a tlačový hárok, bez nahrávania.",
-  "id": "/loona-image-compressor/sk/netherlands-passport-photo-size.html",
+  "id": "/sk/netherlands-passport-photo-size.html",
   "start_url": "./netherlands-passport-photo-size.html",
   "scope": "./netherlands-passport-photo-size.html",
   "display": "standalone",

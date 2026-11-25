@@ -2,7 +2,7 @@
   "name": "Loona ממיר WebP ל־PNG",
   "short_name": "ממיר WebP ל־PNG",
   "description": "המירו WebP ל־PNG באינטרנט בחינם — PNG ללא אובדן עם שקיפות לעורכים וכלי עיצוב. רץ בדפדפן שלכם, ללא הרשמה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/webp-to-png.html",
+  "id": "/he/webp-to-png.html",
   "start_url": "./webp-to-png.html",
   "scope": "./webp-to-png.html",
   "display": "standalone",

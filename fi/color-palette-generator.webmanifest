@@ -2,7 +2,7 @@
   "name": "Loona Väripalettigeneraattori",
   "short_name": "Väripalettigeneraattori",
   "description": "Luo harmonisia väripaletteja mistä tahansa perusväristä — analogisia, täydentäviä, triadisia ja yksivärisiä teemoja kopioitavilla HEX-koodeilla. Ilmaiseksi, ei rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/color-palette-generator.html",
+  "id": "/fi/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",
   "scope": "./color-palette-generator.html",
   "display": "standalone",

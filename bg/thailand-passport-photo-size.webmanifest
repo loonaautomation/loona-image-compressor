@@ -2,7 +2,7 @@
   "name": "Loona Размер Снимка за паспорт / виза на Тайланд",
   "short_name": "Размер Снимка за паспорт /",
   "description": "Направете Снимка за паспорт / виза на Тайланд в официалния размер 35×45 mm (413×531 px), фон обикновен бял. Безплатен онлайн инструмент — изрязване, изтегляне и лист за печат, без качване.",
-  "id": "/loona-image-compressor/bg/thailand-passport-photo-size.html",
+  "id": "/bg/thailand-passport-photo-size.html",
   "start_url": "./thailand-passport-photo-size.html",
   "scope": "./thailand-passport-photo-size.html",
   "display": "standalone",

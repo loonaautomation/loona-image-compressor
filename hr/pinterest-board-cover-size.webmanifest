@@ -2,7 +2,7 @@
   "name": "Loona Veličina Pinterest Naslovnica ploče",
   "short_name": "Veličina Pinterest Naslovnica",
   "description": "Izradite Pinterest naslovnica ploče na točno 800×450 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/pinterest-board-cover-size.html",
+  "id": "/hr/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",
   "scope": "./pinterest-board-cover-size.html",
   "display": "standalone",

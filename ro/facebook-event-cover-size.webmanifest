@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Copertă de eveniment Facebook",
   "short_name": "Dimensiune Copertă de",
   "description": "Creează un copertă de eveniment Facebook la exact 1920×1005 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/facebook-event-cover-size.html",
+  "id": "/ro/facebook-event-cover-size.html",
   "start_url": "./facebook-event-cover-size.html",
   "scope": "./facebook-event-cover-size.html",
   "display": "standalone",

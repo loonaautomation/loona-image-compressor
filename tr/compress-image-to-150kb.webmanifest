@@ -2,7 +2,7 @@
   "name": "Loona Görüntüyü 150 KB'ye Çevrimiçi Sıkıştır – Ücretsiz, Yüklemesiz",
   "short_name": "Görüntüyü 150 KB'ye Çevrimiçi Sıkıştır – Ücretsiz, Yüklemesiz",
   "description": "JPG, PNG ve WebP görüntülerini 150 KB veya altına, çevrimiçi ve ücretsiz sıkıştırın. Tarayıcınızda otomatik kalite ve boyut araması — kayıt yok, yükleme yok.",
-  "id": "/loona-image-compressor/tr/compress-image-to-150kb.html",
+  "id": "/tr/compress-image-to-150kb.html",
   "start_url": "./compress-image-to-150kb.html",
   "scope": "./compress-image-to-150kb.html",
   "display": "standalone",

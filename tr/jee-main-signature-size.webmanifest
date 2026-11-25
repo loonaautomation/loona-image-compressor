@@ -2,7 +2,7 @@
   "name": "Loona JEE Main İmza Boyutu — taranmış kutu, oran yaklaşık 7",
   "short_name": "JEE Main İmza Boyutu — taranmış kutu, oran yaklaşık 7",
   "description": "JEE Main imza belgenizi duyuru boyutuna (taranmış kutu, oran yaklaşık 7:2) ve 4–30 KB bandına getirin. Ücretsiz, tarayıcınızda — yükleme yok, kayıt yok.",
-  "id": "/loona-image-compressor/tr/jee-main-signature-size.html",
+  "id": "/tr/jee-main-signature-size.html",
   "start_url": "./jee-main-signature-size.html",
   "scope": "./jee-main-signature-size.html",
   "display": "standalone",

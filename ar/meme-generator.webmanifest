@@ -2,7 +2,7 @@
   "name": "Loona مولّد الميمات",
   "short_name": "مولّد الميمات",
   "description": "حوّل أي صورة إلى ميم كلاسيكي بنص علوي وسفلي عريض — مولّد ميمات مجاني عبر الإنترنت مع معاينة حية وخيارات خلفية سادة وتنزيل PNG. بلا تسجيل، وصورتك لا تغادر جهازك أبدًا.",
-  "id": "/loona-image-compressor/ar/meme-generator.html",
+  "id": "/ar/meme-generator.html",
   "start_url": "./meme-generator.html",
   "scope": "./meme-generator.html",
   "display": "standalone",

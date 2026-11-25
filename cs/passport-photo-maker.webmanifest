@@ -2,7 +2,7 @@
   "name": "Loona Tvůrce fotografií pasové velikosti",
   "short_name": "Tvůrce fotografií pasové",
   "description": "Vytvořte fotografii pasové velikosti online zdarma: ořízněte libovolnou fotografii na 35×45 mm nebo 2×2 palce při 300 DPI připraveno k tisku. Bez registrace, bez vodoznaku, zcela soukromé.",
-  "id": "/loona-image-compressor/cs/passport-photo-maker.html",
+  "id": "/cs/passport-photo-maker.html",
   "start_url": "./passport-photo-maker.html",
   "scope": "./passport-photo-maker.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Copertă video TikTok",
   "short_name": "Dimensiune Copertă video",
   "description": "Creează un copertă video TikTok la exact 1080×1920 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/tiktok-cover-size.html",
+  "id": "/ro/tiktok-cover-size.html",
   "start_url": "./tiktok-cover-size.html",
   "scope": "./tiktok-cover-size.html",
   "display": "standalone",

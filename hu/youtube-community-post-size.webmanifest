@@ -2,7 +2,7 @@
   "name": "Loona YouTube Közösségi bejegyzés képe méret",
   "short_name": "YouTube Közösségi bejegyzés",
   "description": "Készítsen YouTube közösségi bejegyzés képe képet pontosan 1080×1080 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/youtube-community-post-size.html",
+  "id": "/hu/youtube-community-post-size.html",
   "start_url": "./youtube-community-post-size.html",
   "scope": "./youtube-community-post-size.html",
   "display": "standalone",

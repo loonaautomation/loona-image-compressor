@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง JPG เป็น WebP",
   "short_name": "ตัวแปลง JPG เป็น WebP",
   "description": "แปลง JPG เป็น WebP ออนไลน์ฟรีและลดรูปภาพเว็บไซต์ลง 25–40% ที่คุณภาพเดียวกัน ในเบราว์เซอร์ของคุณ — ไม่ต้องสมัครสมาชิก ไม่ต้องอัปโหลด ไม่มีลายน้ำ",
-  "id": "/loona-image-compressor/th/jpg-to-webp.html",
+  "id": "/th/jpg-to-webp.html",
   "start_url": "./jpg-to-webp.html",
   "scope": "./jpg-to-webp.html",
   "display": "standalone",

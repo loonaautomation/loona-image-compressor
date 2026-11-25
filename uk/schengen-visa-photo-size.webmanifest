@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото на шенгенську візу",
   "short_name": "Розмір Фото на шенгенську візу",
   "description": "Зробіть Фото на шенгенську візу в офіційному розмірі 35×45 мм (413×531 пікс.), тло: світло-сіре або однотонне світле тло. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
-  "id": "/loona-image-compressor/uk/schengen-visa-photo-size.html",
+  "id": "/uk/schengen-visa-photo-size.html",
   "start_url": "./schengen-visa-photo-size.html",
   "scope": "./schengen-visa-photo-size.html",
   "display": "standalone",

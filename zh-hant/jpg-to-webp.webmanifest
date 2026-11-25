@@ -2,7 +2,7 @@
   "name": "Loona JPG 轉 WebP 轉換器",
   "short_name": "JPG 轉 WebP 轉換器",
   "description": "免費線上將 JPG 轉換為 WebP，在相同質量下將網站圖片縮小 25–40%。在您的瀏覽器中 — 無需註冊，無需上傳，無水印。",
-  "id": "/loona-image-compressor/zh-hant/jpg-to-webp.html",
+  "id": "/zh-hant/jpg-to-webp.html",
   "start_url": "./jpg-to-webp.html",
   "scope": "./jpg-to-webp.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona حجم التوقيع SSC MTS",
   "short_name": "حجم التوقيع SSC MTS",
   "description": "غيّر حجم التوقيع الخاص بك لامتحان SSC MTS إلى حجم الإشعار (140 × 60 px) ونطاق 10–20 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/ssc-mts-signature-size.html",
+  "id": "/ar/ssc-mts-signature-size.html",
   "start_url": "./ssc-mts-signature-size.html",
   "scope": "./ssc-mts-signature-size.html",
   "display": "standalone",

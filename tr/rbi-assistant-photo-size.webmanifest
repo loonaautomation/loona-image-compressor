@@ -2,7 +2,7 @@
   "name": "Loona RBI Assistant Fotoğraf Boyutu — 200 × 230 px, 20–50 KB",
   "short_name": "RBI Assistant Fotoğraf Boyutu — 200 × 230 px, 20–50 KB",
   "description": "RBI Assistant fotoğraf belgenizi duyuru boyutuna (200 × 230 px) ve 20–50 KB bandına getirin. Ücretsiz, tarayıcınızda — yükleme yok, kayıt yok.",
-  "id": "/loona-image-compressor/tr/rbi-assistant-photo-size.html",
+  "id": "/tr/rbi-assistant-photo-size.html",
   "start_url": "./rbi-assistant-photo-size.html",
   "scope": "./rbi-assistant-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Размери на изображения за социални медии 2026",
   "short_name": "Размери на изображения за",
   "description": "Точни размери на изображения за Instagram, Facebook, YouTube, X, LinkedIn, Pinterest, TikTok и Discord — с инструмент за изработка и ръководство за безопасната зона за всеки слот.",
-  "id": "/loona-image-compressor/bg/social-media-image-sizes.html",
+  "id": "/bg/social-media-image-sizes.html",
   "start_url": "./social-media-image-sizes.html",
   "scope": "./social-media-image-sizes.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona גיליון הדפסה לתמונות פספורט",
   "short_name": "גיליון הדפסה לתמונות פספורט",
   "description": "שימו 4, 6 או 8 תמונות פספורט על גיליון הדפסה A4 אחד בחינם ב־300 DPI. הדפיסו ב־100%, חתכו על הקווים המנחים וחסכו כסף סטודיו. ללא הרשמה, פרטי לחלוטין.",
-  "id": "/loona-image-compressor/he/passport-photo-print-sheet.html",
+  "id": "/he/passport-photo-print-sheet.html",
   "start_url": "./passport-photo-print-sheet.html",
   "scope": "./passport-photo-print-sheet.html",
   "display": "standalone",

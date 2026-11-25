@@ -2,7 +2,7 @@
   "name": "Loona GATE Fénykép méret",
   "short_name": "GATE Fénykép méret",
   "description": "Méretezze át a GATE fotó fájlját a kiírás szerinti méretre (480 × 640 px) és a 5–200 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/gate-photo-size.html",
+  "id": "/hu/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

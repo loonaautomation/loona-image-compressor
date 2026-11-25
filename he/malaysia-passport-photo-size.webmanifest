@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת פספורט מלזיה",
   "short_name": "גודל תמונת פספורט מלזיה",
   "description": "צרו תמונת פספורט מלזיה בגודל הרשמי 35×50 מ&quot;מ (413×591 px), רקע לבן חלק. כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/malaysia-passport-photo-size.html",
+  "id": "/he/malaysia-passport-photo-size.html",
   "start_url": "./malaysia-passport-photo-size.html",
   "scope": "./malaysia-passport-photo-size.html",
   "display": "standalone",

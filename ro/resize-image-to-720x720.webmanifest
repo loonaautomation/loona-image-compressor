@@ -2,7 +2,7 @@
   "name": "Loona Redimensionează imaginea la 720 × 720 px online",
   "short_name": "Redimensionează imaginea la",
   "description": "Redimensionează orice imagine la exact 720×720 px — Minimul de profil Facebook și dimensiunea generală de avatar. Gratuit în browserul tău, cu control al decupării; fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/resize-image-to-720x720.html",
+  "id": "/ro/resize-image-to-720x720.html",
   "start_url": "./resize-image-to-720x720.html",
   "scope": "./resize-image-to-720x720.html",
   "display": "standalone",

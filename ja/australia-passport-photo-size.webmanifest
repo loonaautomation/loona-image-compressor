@@ -2,7 +2,7 @@
   "name": "Loona オーストラリアパスポート写真のサイズ",
   "short_name": "オーストラリアパスポート写真のサイズ",
   "description": "公式サイズ35×45 mm（413×531 px）、無地の白または明るいグレーの背景でオーストラリアパスポート写真を作成できます。無料のオンライン作成ツール — 切り取り、ダウンロード、印刷シートまで、アップロード不要です。",
-  "id": "/loona-image-compressor/ja/australia-passport-photo-size.html",
+  "id": "/ja/australia-passport-photo-size.html",
   "start_url": "./australia-passport-photo-size.html",
   "scope": "./australia-passport-photo-size.html",
   "display": "standalone",

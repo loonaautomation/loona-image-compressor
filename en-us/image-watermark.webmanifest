@@ -2,7 +2,7 @@
   "name": "Loona Image Watermark",
   "short_name": "Image Watermark",
   "description": "Add a text watermark to any photo online for free — choose the text, size, color, opacity and position, or repeat it as a tiled pattern. Live preview, no signup, and your image never leaves your device.",
-  "id": "/loona-image-compressor/en-us/image-watermark.html",
+  "id": "/en-us/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

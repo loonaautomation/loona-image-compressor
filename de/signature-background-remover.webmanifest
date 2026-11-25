@@ -2,7 +2,7 @@
   "name": "Loona Unterschriften-Hintergrundentferner",
   "short_name": "Unterschriften-Hintergrundentferner",
   "description": "Entfernen Sie den Papierhintergrund von einem Foto einer Unterschrift oder eines Stempels und laden Sie ein transparentes PNG herunter – kostenlos online. Reines Browser-Canvas-Tool: keine KI, kein Upload, keine Anmeldung.",
-  "id": "/loona-image-compressor/de/signature-background-remover.html",
+  "id": "/de/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

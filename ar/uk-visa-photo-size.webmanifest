@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة تأشيرة المملكة المتحدة",
   "short_name": "حجم صورة تأشيرة المملكة",
   "description": "اصنع صورة تأشيرة المملكة المتحدة بالحجم الرسمي 35×45 mm (600×750 px)، خلفية رمادية فاتحة سادة. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/uk-visa-photo-size.html",
+  "id": "/ar/uk-visa-photo-size.html",
   "start_url": "./uk-visa-photo-size.html",
   "scope": "./uk-visa-photo-size.html",
   "display": "standalone",

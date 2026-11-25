@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Pasipoti ya Misri",
   "short_name": "Ukubwa wa Picha ya Pasipoti",
   "description": "Tengeneza Picha ya Pasipoti ya Misri katika ukubwa rasmi wa milimita 40×60 (px 472×709), mandharinyuma ya nyeupe tambarare. Kitengenezaji bure cha mtandaoni — kata, pakua na uchapishe karatasi, bila kupakia.",
-  "id": "/loona-image-compressor/sw/egypt-passport-photo-size.html",
+  "id": "/sw/egypt-passport-photo-size.html",
   "start_url": "./egypt-passport-photo-size.html",
   "scope": "./egypt-passport-photo-size.html",
   "display": "standalone",

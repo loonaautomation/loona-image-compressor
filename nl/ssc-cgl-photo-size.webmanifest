@@ -2,7 +2,7 @@
   "name": "Loona Formaat SSC CGL Foto",
   "short_name": "Formaat SSC CGL Foto",
   "description": "Pas je SSC CGL-foto aan naar het formaat uit de aankondiging (200 × 230 px) en de band van 20–50 KB. Gratis, in je browser — geen upload, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/ssc-cgl-photo-size.html",
+  "id": "/nl/ssc-cgl-photo-size.html",
   "start_url": "./ssc-cgl-photo-size.html",
   "scope": "./ssc-cgl-photo-size.html",
   "display": "standalone",

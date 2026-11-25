@@ -2,7 +2,7 @@
   "name": "Loona Formaat Discord Profielbanner",
   "short_name": "Formaat Discord Profielbanner",
   "description": "Maak een Discord profielbanner op precies 600×180 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/discord-profile-banner-size.html",
+  "id": "/nl/discord-profile-banner-size.html",
   "start_url": "./discord-profile-banner-size.html",
   "scope": "./discord-profile-banner-size.html",
   "display": "standalone",

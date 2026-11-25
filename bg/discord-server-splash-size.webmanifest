@@ -2,7 +2,7 @@
   "name": "Loona Размер на Фон за покана за Discord",
   "short_name": "Размер на Фон за покана за",
   "description": "Направете фон за покана за Discord на точно 1920×1080 px. Безплатен инструмент за преоразмеряване/изрязване във вашия браузър с правилата за безопасната зона, които спират изрязване на текст и лица.",
-  "id": "/loona-image-compressor/bg/discord-server-splash-size.html",
+  "id": "/bg/discord-server-splash-size.html",
   "start_url": "./discord-server-splash-size.html",
   "scope": "./discord-server-splash-size.html",
   "display": "standalone",

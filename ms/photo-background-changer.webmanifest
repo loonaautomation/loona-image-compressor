@@ -2,7 +2,7 @@
   "name": "Loona Penukar Latar Belakang Foto",
   "short_name": "Penukar Latar Belakang Foto",
   "description": "Tukar latar belakang foto kepada putih, biru, kelabu muda atau merah secara percuma dalam talian. Alat isian banjir ditambah berus, peribadi dalam pelayar anda, tiada muat naik AI.",
-  "id": "/loona-image-compressor/ms/photo-background-changer.html",
+  "id": "/ms/photo-background-changer.html",
   "start_url": "./photo-background-changer.html",
   "scope": "./photo-background-changer.html",
   "display": "standalone",

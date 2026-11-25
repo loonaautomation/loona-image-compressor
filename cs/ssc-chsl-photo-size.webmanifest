@@ -2,7 +2,7 @@
   "name": "Loona Velikost SSC CHSL Fotografie",
   "short_name": "Velikost SSC CHSL Fotografie",
   "description": "Změňte velikost souboru SSC CHSL fotografie na velikost podle oznámení (200 × 230 px) a pásmo 20–50 KB. Zdarma, ve vašem prohlížeči — bez nahrávání a bez registrace.",
-  "id": "/loona-image-compressor/cs/ssc-chsl-photo-size.html",
+  "id": "/cs/ssc-chsl-photo-size.html",
   "start_url": "./ssc-chsl-photo-size.html",
   "scope": "./ssc-chsl-photo-size.html",
   "display": "standalone",

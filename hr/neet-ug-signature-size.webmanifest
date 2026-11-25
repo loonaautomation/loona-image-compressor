@@ -2,7 +2,7 @@
   "name": "Loona Veličina NEET UG Potpis",
   "short_name": "Veličina NEET UG Potpis",
   "description": "Promijenite veličinu svoje NEET UG potpis na veličinu iz obavijesti (skenirani okvir, omjer oko 7:2) i pojas 4–30 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/neet-ug-signature-size.html",
+  "id": "/hr/neet-ug-signature-size.html",
   "start_url": "./neet-ug-signature-size.html",
   "scope": "./neet-ug-signature-size.html",
   "display": "standalone",

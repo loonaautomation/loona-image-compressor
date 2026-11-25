@@ -2,7 +2,7 @@
   "name": "Loona BMP تا PNG کنورٹر",
   "short_name": "BMP تا PNG کنورٹر",
   "description": "BMP کو PNG میں آن لائن مفت تبدیل کریں — لاس لیس، BMP سے کہیں چھوٹا، اور ہر جگہ حمایت یافتہ۔ آپ کے براؤزر میں چلتا ہے، نہ سائن اپ، نہ اپ لوڈ۔",
-  "id": "/loona-image-compressor/ur/bmp-to-png.html",
+  "id": "/ur/bmp-to-png.html",
   "start_url": "./bmp-to-png.html",
   "scope": "./bmp-to-png.html",
   "display": "standalone",

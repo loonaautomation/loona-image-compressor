@@ -2,7 +2,7 @@
   "name": "Loona TikTok Videóképkocka méret",
   "short_name": "TikTok Videóképkocka méret",
   "description": "Készítsen TikTok videóképkocka képet pontosan 1080×1920 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/tiktok-video-frame-size.html",
+  "id": "/hu/tiktok-video-frame-size.html",
   "start_url": "./tiktok-video-frame-size.html",
   "scope": "./tiktok-video-frame-size.html",
   "display": "standalone",

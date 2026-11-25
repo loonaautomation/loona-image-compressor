@@ -2,7 +2,7 @@
   "name": "Loona Yhdysvaltain viisumikuva (DS-160) koko",
   "short_name": "Yhdysvaltain viisumikuva",
   "description": "Tee Yhdysvaltain viisumikuva (DS-160) virallisessa koossa 51×51 mm (600×600 px), taustana tavallinen valkoinen. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/us-visa-photo-size.html",
+  "id": "/fi/us-visa-photo-size.html",
   "start_url": "./us-visa-photo-size.html",
   "scope": "./us-visa-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie pentru pașaportul Irlandei",
   "short_name": "Dimensiune Fotografie pentru",
   "description": "Creează un Fotografie pentru pașaportul Irlandei la dimensiunea oficială 35×45 mm (413×531 px), fundal alb simplu sau gri deschis. Creator online gratuit — decupează, descarcă și imprimă foaia, fără încărcare.",
-  "id": "/loona-image-compressor/ro/ireland-passport-photo-size.html",
+  "id": "/ro/ireland-passport-photo-size.html",
   "start_url": "./ireland-passport-photo-size.html",
   "scope": "./ireland-passport-photo-size.html",
   "display": "standalone",

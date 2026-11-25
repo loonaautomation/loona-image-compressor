@@ -2,7 +2,7 @@
   "name": "Loona BMP 转 JPG 转换器",
   "short_name": "BMP 转 JPG 转换器",
   "description": "免费在线将 BMP 转换为 JPG，将庞大的未压缩位图缩小 90% 或更多。在您的浏览器中 — 无需注册，无需上传，无水印。",
-  "id": "/loona-image-compressor/zh/bmp-to-jpg.html",
+  "id": "/zh/bmp-to-jpg.html",
   "start_url": "./bmp-to-jpg.html",
   "scope": "./bmp-to-jpg.html",
   "display": "standalone",

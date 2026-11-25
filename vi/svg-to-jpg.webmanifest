@@ -2,7 +2,7 @@
   "name": "Loona Trình chuyển đổi SVG sang JPG",
   "short_name": "Trình chuyển đổi SVG sang JPG",
   "description": "Chuyển đổi SVG sang JPG trực tuyến miễn phí — kết xuất logo và hình minh họa vector thành JPG phổ thông ở mọi chiều rộng. Không cần đăng ký, không tải lên, trong trình duyệt của bạn.",
-  "id": "/loona-image-compressor/vi/svg-to-jpg.html",
+  "id": "/vi/svg-to-jpg.html",
   "start_url": "./svg-to-jpg.html",
   "scope": "./svg-to-jpg.html",
   "display": "standalone",

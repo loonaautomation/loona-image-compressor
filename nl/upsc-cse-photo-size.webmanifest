@@ -2,7 +2,7 @@
   "name": "Loona Formaat UPSC Civil Services (IAS) Foto",
   "short_name": "Formaat UPSC Civil Services",
   "description": "Pas je UPSC Civil Services (IAS)-foto aan naar het formaat uit de aankondiging (350 × 350 px) en de band van 20–300 KB. Gratis, in je browser — geen upload, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/upsc-cse-photo-size.html",
+  "id": "/nl/upsc-cse-photo-size.html",
   "start_url": "./upsc-cse-photo-size.html",
   "scope": "./upsc-cse-photo-size.html",
   "display": "standalone",

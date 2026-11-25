@@ -2,7 +2,7 @@
   "name": "Loona JEE Main Fénykép méret",
   "short_name": "JEE Main Fénykép méret",
   "description": "Méretezze át a JEE Main fotó fájlját a kiírás szerinti méretre (3.5 × 4.5 cm (kb. 413 × 531 px 300 DPI mellett)) és a 10–200 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/jee-main-photo-size.html",
+  "id": "/hu/jee-main-photo-size.html",
   "start_url": "./jee-main-photo-size.html",
   "scope": "./jee-main-photo-size.html",
   "display": "standalone",

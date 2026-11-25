@@ -2,7 +2,7 @@
   "name": "Loona RRB NTPC (Railways) Aláírás méret",
   "short_name": "RRB NTPC (Railways) Aláírás",
   "description": "Méretezze át a RRB NTPC (Railways) aláírás fájlját a kiírás szerinti méretre (140 × 60 px) és a 10–40 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/rrb-ntpc-signature-size.html",
+  "id": "/hu/rrb-ntpc-signature-size.html",
   "start_url": "./rrb-ntpc-signature-size.html",
   "scope": "./rrb-ntpc-signature-size.html",
   "display": "standalone",

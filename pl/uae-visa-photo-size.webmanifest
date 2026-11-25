@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do wizy ZEA / Emirates ID",
   "short_name": "Rozmiar Zdjęcie do wizy ZEA /",
   "description": "Utwórz Zdjęcie do wizy ZEA / Emirates ID w oficjalnym rozmiarze 40×60 mm (472×709 px), tło: gładkie białe. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/uae-visa-photo-size.html",
+  "id": "/pl/uae-visa-photo-size.html",
   "start_url": "./uae-visa-photo-size.html",
   "scope": "./uae-visa-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Vakiopinni koko",
   "short_name": "Pinterest Vakiopinni koko",
   "description": "Tee Pinterest vakiopinni tarkalleen kokoon 1000×1500 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/pinterest-pin-size.html",
+  "id": "/fi/pinterest-pin-size.html",
   "start_url": "./pinterest-pin-size.html",
   "scope": "./pinterest-pin-size.html",
   "display": "standalone",

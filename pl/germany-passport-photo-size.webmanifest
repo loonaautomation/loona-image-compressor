@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do paszportu Niemiec (biometryczne)",
   "short_name": "Rozmiar Zdjęcie do paszportu",
   "description": "Utwórz Zdjęcie do paszportu Niemiec (biometryczne) w oficjalnym rozmiarze 35×45 mm (413×531 px), tło: jasnoszare, gładkie. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/germany-passport-photo-size.html",
+  "id": "/pl/germany-passport-photo-size.html",
   "start_url": "./germany-passport-photo-size.html",
   "scope": "./germany-passport-photo-size.html",
   "display": "standalone",

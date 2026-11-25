@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Tanda Tangan IBPS Clerk (CSA)",
   "short_name": "Ukuran Tanda Tangan IBPS",
   "description": "Ubah ukuran tanda tangan IBPS Clerk (CSA) Anda ke ukuran pemberitahuan (140 × 60 px) dan rentang 10–20 KB. Gratis, di browser Anda — tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/ibps-clerk-signature-size.html",
+  "id": "/id/ibps-clerk-signature-size.html",
   "start_url": "./ibps-clerk-signature-size.html",
   "scope": "./ibps-clerk-signature-size.html",
   "display": "standalone",

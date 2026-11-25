@@ -2,7 +2,7 @@
   "name": "Loona Размер История для Facebook",
   "short_name": "Размер История для Facebook",
   "description": "Make a Facebook story at exactly 1080×1920 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/facebook-story-size.html",
+  "id": "/facebook-story-size.html",
   "start_url": "./facebook-story-size.html",
   "scope": "./facebook-story-size.html",
   "display": "standalone",

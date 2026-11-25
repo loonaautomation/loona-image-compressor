@@ -2,7 +2,7 @@
   "name": "Loona Formato Pin standard Pinterest",
   "short_name": "Formato Pin standard Pinterest",
   "description": "Crea un pin standard Pinterest esattamente di 1000×1500 px. Strumento gratuito di ridimensionamento e ritaglio nel tuo browser, con le regole della zona sicura che evitano testi e volti tagliati.",
-  "id": "/loona-image-compressor/it/pinterest-pin-size.html",
+  "id": "/it/pinterest-pin-size.html",
   "start_url": "./pinterest-pin-size.html",
   "scope": "./pinterest-pin-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Formaat AFCAT Foto",
   "short_name": "Formaat AFCAT Foto",
   "description": "Pas je AFCAT-foto aan naar het formaat uit de aankondiging (3,5 × 4,5 cm (ongeveer 413 × 531 px bij 300 DPI)) en de band van 10–50 KB. Gratis, in je browser — geen upload, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/afcat-photo-size.html",
+  "id": "/nl/afcat-photo-size.html",
   "start_url": "./afcat-photo-size.html",
   "scope": "./afcat-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία IBPS PO",
   "short_name": "Φωτογραφία IBPS PO",
   "description": "Αλλάξτε το μέγεθος της φωτογραφία IBPS PO στο μέγεθος της προκήρυξης (200 × 230 px) και στη ζώνη 20–50 KB. Δωρεάν, στο πρόγραμμα περιήγησής σας — χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/ibps-po-photo-size.html",
+  "id": "/el/ibps-po-photo-size.html",
   "start_url": "./ibps-po-photo-size.html",
   "scope": "./ibps-po-photo-size.html",
   "display": "standalone",

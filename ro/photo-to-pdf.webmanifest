@@ -2,7 +2,7 @@
   "name": "Loona Convertor fotografie în PDF",
   "short_name": "Convertor fotografie în PDF",
   "description": "Transformă fotografiile într-un PDF online gratuit: adaugă imagini JPG, PNG sau WebP, alege pagini A4, Letter sau cu potrivire la imagine și descarcă un PDF ordonat. Fără încărcări.",
-  "id": "/loona-image-compressor/ro/photo-to-pdf.html",
+  "id": "/ro/photo-to-pdf.html",
   "start_url": "./photo-to-pdf.html",
   "scope": "./photo-to-pdf.html",
   "display": "standalone",

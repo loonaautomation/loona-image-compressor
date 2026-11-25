@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ảnh thị thực UAE / thẻ căn cước Emirates",
   "short_name": "Kích thước Ảnh thị thực UAE /",
   "description": "Tạo Ảnh thị thực UAE / thẻ căn cước Emirates ở kích thước chính thức 40×60 mm (472×709 px), nền trắng trơn. Công cụ tạo ảnh trực tuyến miễn phí — cắt, tải xuống và in tờ in, không tải lên.",
-  "id": "/loona-image-compressor/vi/uae-visa-photo-size.html",
+  "id": "/vi/uae-visa-photo-size.html",
   "start_url": "./uae-visa-photo-size.html",
   "scope": "./uae-visa-photo-size.html",
   "display": "standalone",

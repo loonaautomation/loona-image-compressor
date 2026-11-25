@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Profil / Sayfa Bannerı Boyutu — 1584×396 px",
   "short_name": "LinkedIn Profil / Sayfa Bannerı Boyutu — 1584×396 px",
   "description": "Tam olarak 1584×396 px ölçüsünde bir LinkedIn profil / sayfa bannerı oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/linkedin-banner-size.html",
+  "id": "/tr/linkedin-banner-size.html",
   "start_url": "./linkedin-banner-size.html",
   "scope": "./linkedin-banner-size.html",
   "display": "standalone",

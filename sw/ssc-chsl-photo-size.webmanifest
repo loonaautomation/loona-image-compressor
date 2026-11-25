@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha wa SSC CHSL",
   "short_name": "Ukubwa wa Picha wa SSC CHSL",
   "description": "Badilisha ukubwa wa picha yako ya SSC CHSL hadi ukubwa wa ilani (200 × 230 px) na kiwango cha KB 20–50. Bure, kwenye kivinjari chako — bila kupakia, bila kujisajili.",
-  "id": "/loona-image-compressor/sw/ssc-chsl-photo-size.html",
+  "id": "/sw/ssc-chsl-photo-size.html",
   "start_url": "./ssc-chsl-photo-size.html",
   "scope": "./ssc-chsl-photo-size.html",
   "display": "standalone",

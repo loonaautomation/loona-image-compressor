@@ -2,7 +2,7 @@
   "name": "Loona تغيير حجم الصورة إلى 390 × 567 px عبر",
   "short_name": "تغيير حجم الصورة إلى 390 ×",
   "description": "غيّر حجم أي صورة إلى 390×567 px بالضبط — 33 × 48 mm عند 300 DPI — حجم تأشيرة الصين. مجاناً في متصفحك مع تحكم في القص؛ بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/resize-image-to-390x567.html",
+  "id": "/ar/resize-image-to-390x567.html",
   "start_url": "./resize-image-to-390x567.html",
   "scope": "./resize-image-to-390x567.html",
   "display": "standalone",

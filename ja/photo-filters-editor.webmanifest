@@ -2,7 +2,7 @@
   "name": "Loona Photo Filters &amp; Fix",
   "short_name": "Photo Filters &amp; Fix",
   "description": "写真をオンラインで無料で修正: 明るさ、コントラスト、彩度を調整し、ワンクリックでシャープ化し、Passport FixやVividのような既製のプリセットを使えます。",
-  "id": "/loona-image-compressor/ja/photo-filters-editor.html",
+  "id": "/ja/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

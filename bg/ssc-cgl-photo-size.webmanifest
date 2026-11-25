@@ -2,7 +2,7 @@
   "name": "Loona Размер на Снимка за SSC CGL",
   "short_name": "Размер на Снимка за SSC CGL",
   "description": "Преоразмерете своя снимка за SSC CGL до размера от уведомлението (200 × 230 px) и диапазона 20–50 KB. Безплатно, във вашия браузър — без качване, без регистрация.",
-  "id": "/loona-image-compressor/bg/ssc-cgl-photo-size.html",
+  "id": "/bg/ssc-cgl-photo-size.html",
   "start_url": "./ssc-cgl-photo-size.html",
   "scope": "./ssc-cgl-photo-size.html",
   "display": "standalone",

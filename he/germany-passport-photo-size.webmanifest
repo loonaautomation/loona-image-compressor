@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת פספורט גרמניה (ביומטרית)",
   "short_name": "גודל תמונת פספורט גרמניה",
   "description": "צרו תמונת פספורט גרמניה (ביומטרית) בגודל הרשמי 35×45 מ&quot;מ (413×531 px), רקע אפור בהיר, חלק. כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/germany-passport-photo-size.html",
+  "id": "/he/germany-passport-photo-size.html",
   "start_url": "./germany-passport-photo-size.html",
   "scope": "./germany-passport-photo-size.html",
   "display": "standalone",

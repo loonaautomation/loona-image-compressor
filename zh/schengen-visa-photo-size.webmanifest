@@ -2,7 +2,7 @@
   "name": "Loona 申根签证照片 尺寸",
   "short_name": "申根签证照片 尺寸",
   "description": "按官方尺寸 35×45 mm（413×531 px）制作 申根签证照片，浅灰色或纯浅色背景背景。免费在线制作工具 — 裁剪、下载并打印照片页，无需上传。",
-  "id": "/loona-image-compressor/zh/schengen-visa-photo-size.html",
+  "id": "/zh/schengen-visa-photo-size.html",
   "start_url": "./schengen-visa-photo-size.html",
   "scope": "./schengen-visa-photo-size.html",
   "display": "standalone",

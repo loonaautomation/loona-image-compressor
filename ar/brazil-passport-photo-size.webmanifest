@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة جواز السفر / التأشيرة البرازيلية",
   "short_name": "حجم صورة جواز السفر /",
   "description": "اصنع صورة جواز السفر / التأشيرة البرازيلية بالحجم الرسمي 50×70 mm (591×827 px)، خلفية بيضاء سادة. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/brazil-passport-photo-size.html",
+  "id": "/ar/brazil-passport-photo-size.html",
   "start_url": "./brazil-passport-photo-size.html",
   "scope": "./brazil-passport-photo-size.html",
   "display": "standalone",

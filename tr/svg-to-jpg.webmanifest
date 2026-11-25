@@ -2,7 +2,7 @@
   "name": "Loona SVG'den JPG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Herhangi Bir Boyut",
   "short_name": "SVG'den JPG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Herhangi Bir Boyut",
   "description": "SVG'yi çevrimiçi ücretsiz olarak JPG'ye dönüştürün — vektör logoları ve çizimleri herhangi bir genişlikte evrensel JPG'ler olarak işleyin. Kayıt yok, yükleme yok, tarayıcınızda.",
-  "id": "/loona-image-compressor/tr/svg-to-jpg.html",
+  "id": "/tr/svg-to-jpg.html",
   "start_url": "./svg-to-jpg.html",
   "scope": "./svg-to-jpg.html",
   "display": "standalone",

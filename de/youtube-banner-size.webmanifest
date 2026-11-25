@@ -2,7 +2,7 @@
   "name": "Loona YouTube Kanalbanner Größe",
   "short_name": "YouTube Kanalbanner Größe",
   "description": "Erstellen Sie ein YouTube-kanalbanner mit exakt 2560×1440 px. Kostenloser Größenänderer/Zuschneider in Ihrem Browser mit den Regeln für die sichere Zone, die abgeschnittenen Text und Gesichter verhindern.",
-  "id": "/loona-image-compressor/de/youtube-banner-size.html",
+  "id": "/de/youtube-banner-size.html",
   "start_url": "./youtube-banner-size.html",
   "scope": "./youtube-banner-size.html",
   "display": "standalone",

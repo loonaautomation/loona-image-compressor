@@ -2,7 +2,7 @@
   "name": "Loona YouTube Videominiatyr Storlek",
   "short_name": "YouTube Videominiatyr Storlek",
   "description": "Skapa en YouTube videominiatyr på exakt 1280×720 px. Gratis storleksändrare/beskärare i din webbläsare med säker-zon-reglerna som stoppar beskuren text och ansikten.",
-  "id": "/loona-image-compressor/sv/youtube-thumbnail-size.html",
+  "id": "/sv/youtube-thumbnail-size.html",
   "start_url": "./youtube-thumbnail-size.html",
   "scope": "./youtube-thumbnail-size.html",
   "display": "standalone",

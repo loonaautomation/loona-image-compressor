@@ -2,7 +2,7 @@
   "name": "Loona Розмір Зображення картки посилання X (Twitter)",
   "short_name": "Розмір Зображення картки",
   "description": "Зробіть зображення картки посилання для X (Twitter) рівно 1200×628 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/x-link-card-size.html",
+  "id": "/uk/x-link-card-size.html",
   "start_url": "./x-link-card-size.html",
   "scope": "./x-link-card-size.html",
   "display": "standalone",

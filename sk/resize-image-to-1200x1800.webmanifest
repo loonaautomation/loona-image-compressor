@@ -2,7 +2,7 @@
   "name": "Loona Zmeniť veľkosť obrázka na 1200 × 1800 px online",
   "short_name": "Zmeniť veľkosť obrázka na",
   "description": "Zmeňte veľkosť akéhokoľvek obrázka presne na 1200×1800 px — Tlač fotografie 4 × 6 palcov pri 300 DPI. Zadarmo vo vašom prehliadači s ovládaním orezania; bez nahrávania a bez registrácie.",
-  "id": "/loona-image-compressor/sk/resize-image-to-1200x1800.html",
+  "id": "/sk/resize-image-to-1200x1800.html",
   "start_url": "./resize-image-to-1200x1800.html",
   "scope": "./resize-image-to-1200x1800.html",
   "display": "standalone",

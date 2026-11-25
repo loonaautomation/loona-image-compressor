@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונה RBI Assistant",
   "short_name": "גודל תמונה RBI Assistant",
   "description": "שנו את גודל ה־תמונה של RBI Assistant לגודל ההודעה הרשמית (200 × 230 px) ולרצועת 20–50 KB. בחינם, בדפדפן שלכם — ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/rbi-assistant-photo-size.html",
+  "id": "/he/rbi-assistant-photo-size.html",
   "start_url": "./rbi-assistant-photo-size.html",
   "scope": "./rbi-assistant-photo-size.html",
   "display": "standalone",

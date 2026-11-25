@@ -2,7 +2,7 @@
   "name": "Loona ממיר SVG ל־JPG",
   "short_name": "ממיר SVG ל־JPG",
   "description": "המירו SVG ל־JPG באינטרנט בחינם — הציגו לוגואים ואיורים וקטוריים כ־JPG אוניברסליים בכל רוחב. ללא הרשמה, ללא העלאה, בדפדפן שלכם.",
-  "id": "/loona-image-compressor/he/svg-to-jpg.html",
+  "id": "/he/svg-to-jpg.html",
   "start_url": "./svg-to-jpg.html",
   "scope": "./svg-to-jpg.html",
   "display": "standalone",

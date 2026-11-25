@@ -2,7 +2,7 @@
   "name": "Loona Eliminator de fundal pentru semnături",
   "short_name": "Eliminator de fundal pentru semnături",
   "description": "Elimină fundalul de hârtie dintr-o fotografie cu semnătură sau ștampilă și descarcă un PNG transparent, gratuit online. Instrument canvas pur în browser — fără AI, fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/signature-background-remover.html",
+  "id": "/ro/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

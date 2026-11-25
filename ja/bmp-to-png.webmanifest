@@ -2,7 +2,7 @@
   "name": "Loona BMPからPNGへの変換ツール",
   "short_name": "BMPからPNGへの変換ツール",
   "description": "BMPをオンラインで無料でPNGに変換 — 可逆で、BMPよりはるかに小さく、どこでも対応。ブラウザで動作し、登録不要、アップロード不要です。",
-  "id": "/loona-image-compressor/ja/bmp-to-png.html",
+  "id": "/ja/bmp-to-png.html",
   "start_url": "./bmp-to-png.html",
   "scope": "./bmp-to-png.html",
   "display": "standalone",

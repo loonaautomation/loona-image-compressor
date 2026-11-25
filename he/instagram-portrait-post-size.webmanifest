@@ -2,7 +2,7 @@
   "name": "Loona גודל פוסט דיוקן (4",
   "short_name": "גודל פוסט דיוקן (4",
   "description": "צרו פוסט דיוקן (4:5) של Instagram בדיוק ב־1080×1350 px. משנה גודל/חיתוך בחינם בדפדפן שלכם, עם כללי אזור הבטיחות שמונעים חיתוך של טקסט ופנים.",
-  "id": "/loona-image-compressor/he/instagram-portrait-post-size.html",
+  "id": "/he/instagram-portrait-post-size.html",
   "start_url": "./instagram-portrait-post-size.html",
   "scope": "./instagram-portrait-post-size.html",
   "display": "standalone",

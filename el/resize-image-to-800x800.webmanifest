@@ -2,7 +2,7 @@
   "name": "Loona Αλλαγή Μεγέθους Εικόνας σε 800 × 800",
   "short_name": "Αλλαγή Μεγέθους Εικόνας σε",
   "description": "Αλλάξτε το μέγεθος οποιασδήποτε εικόνας σε ακριβώς 800 × 800 pixel (φωτογραφίες αγορών και καταχωρίσεων προϊόντων) δωρεάν. Κάλυψη, περιέχει ή τέντωμα, JPG ή PNG, λήψη αμέσως — χωρίς εγγραφή, τίποτα δεν μεταφορτώνεται.",
-  "id": "/loona-image-compressor/el/resize-image-to-800x800.html",
+  "id": "/el/resize-image-to-800x800.html",
   "start_url": "./resize-image-to-800x800.html",
   "scope": "./resize-image-to-800x800.html",
   "display": "standalone",

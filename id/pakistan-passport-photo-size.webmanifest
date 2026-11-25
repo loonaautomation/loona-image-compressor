@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Paspor Pakistan",
   "short_name": "Ukuran Foto Paspor Pakistan",
   "description": "Buat Foto Paspor Pakistan pada ukuran resmi 51×51 mm (600×600 px), latar belakang putih polos. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/pakistan-passport-photo-size.html",
+  "id": "/id/pakistan-passport-photo-size.html",
   "start_url": "./pakistan-passport-photo-size.html",
   "scope": "./pakistan-passport-photo-size.html",
   "display": "standalone",

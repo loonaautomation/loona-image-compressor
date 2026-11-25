@@ -2,7 +2,7 @@
   "name": "Loona Видалити GPS із фото",
   "short_name": "Видалити GPS із фото",
   "description": "Видаляйте лише розташування GPS із фото JPG, PNG або WebP і зберігайте дані камери, дати й експозиції. Побайтово, без перекодування, перевірено повторним скануванням — 100% у вашому браузері, нічого не передається на сервер.",
-  "id": "/loona-image-compressor/uk/remove-gps-from-photo.html",
+  "id": "/uk/remove-gps-from-photo.html",
   "start_url": "./remove-gps-from-photo.html",
   "scope": "./remove-gps-from-photo.html",
   "display": "standalone",

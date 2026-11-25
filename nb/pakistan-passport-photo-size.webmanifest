@@ -2,7 +2,7 @@
   "name": "Loona Pakistan Passport Photo-størrelse",
   "short_name": "Pakistan Passport",
   "description": "Lag et Pakistan Passport Photo i den offisielle størrelsen 51×51 mm (600×600 px), ensfarget hvit bakgrunn. Gratis verktøy på nett — beskjær, last ned og skriv ut ark, ingen opplasting.",
-  "id": "/loona-image-compressor/nb/pakistan-passport-photo-size.html",
+  "id": "/nb/pakistan-passport-photo-size.html",
   "start_url": "./pakistan-passport-photo-size.html",
   "scope": "./pakistan-passport-photo-size.html",
   "display": "standalone",

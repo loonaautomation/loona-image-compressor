@@ -2,7 +2,7 @@
   "name": "Loona Discord Szerverbanner méret",
   "short_name": "Discord Szerverbanner méret",
   "description": "Készítsen Discord szerverbanner képet pontosan 960×540 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/discord-server-banner-size.html",
+  "id": "/hu/discord-server-banner-size.html",
   "start_url": "./discord-server-banner-size.html",
   "scope": "./discord-server-banner-size.html",
   "display": "standalone",

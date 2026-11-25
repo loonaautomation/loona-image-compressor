@@ -2,7 +2,7 @@
   "name": "Loona Veľkosť JEE Main Fotografia",
   "short_name": "Veľkosť JEE Main Fotografia",
   "description": "Zmeňte veľkosť súboru JEE Main fotografia na veľkosť podľa oznámenia (3,5 × 4,5 cm (asi 413 × 531 px pri 300 DPI)) a pásmo 10–200 KB. Zadarmo, vo vašom prehliadači — bez nahrávania a bez registrácie.",
-  "id": "/loona-image-compressor/sk/jee-main-photo-size.html",
+  "id": "/sk/jee-main-photo-size.html",
   "start_url": "./jee-main-photo-size.html",
   "scope": "./jee-main-photo-size.html",
   "display": "standalone",

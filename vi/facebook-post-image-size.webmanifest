@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ảnh bài đăng / liên kết Facebook",
   "short_name": "Kích thước Ảnh bài đăng /",
   "description": "Tạo ảnh bài đăng / liên kết Facebook chính xác 1200×630 px. Công cụ thay đổi kích thước/cắt ảnh miễn phí trong trình duyệt của bạn, kèm các quy tắc vùng an toàn giúp văn bản và khuôn mặt không bị cắt mất.",
-  "id": "/loona-image-compressor/vi/facebook-post-image-size.html",
+  "id": "/vi/facebook-post-image-size.html",
   "start_url": "./facebook-post-image-size.html",
   "scope": "./facebook-post-image-size.html",
   "display": "standalone",

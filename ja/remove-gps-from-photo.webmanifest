@@ -2,7 +2,7 @@
   "name": "Loona 写真からGPSを削除",
   "short_name": "写真からGPSを削除",
   "description": "JPG、PNG、WebPの写真からGPS位置情報のみを削除し、カメラ、日時、露出データを保持します。バイト単位、再エンコードなし、再スキャンで検証済み — ブラウザで100%完結し、何もアップロードされません。",
-  "id": "/loona-image-compressor/ja/remove-gps-from-photo.html",
+  "id": "/ja/remove-gps-from-photo.html",
   "start_url": "./remove-gps-from-photo.html",
   "scope": "./remove-gps-from-photo.html",
   "display": "standalone",

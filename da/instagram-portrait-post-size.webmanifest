@@ -2,7 +2,7 @@
   "name": "Loona Instagram Portrætopslag (4",
   "short_name": "Instagram Portrætopslag (4",
   "description": "Lav en Instagram portrætopslag (4:5) på præcis 1080×1350 px. Gratis størrelses- og beskæringsværktøj i din browser med sikkerhedszonereglerne, der forhindrer beskåret tekst og ansigter.",
-  "id": "/loona-image-compressor/da/instagram-portrait-post-size.html",
+  "id": "/da/instagram-portrait-post-size.html",
   "start_url": "./instagram-portrait-post-size.html",
   "scope": "./instagram-portrait-post-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JPG till ICO Konverterare",
   "short_name": "JPG till ICO Konverterare",
   "description": "Konvertera JPG till ICO online, gratis, i din webbläsare. Verklig konvertering på din enhet — ingen uppladdning, ingen registrering, inga vattenstämplar.",
-  "id": "/loona-image-compressor/sv/jpg-to-ico.html",
+  "id": "/sv/jpg-to-ico.html",
   "start_url": "./jpg-to-ico.html",
   "scope": "./jpg-to-ico.html",
   "display": "standalone",

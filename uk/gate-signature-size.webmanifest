@@ -2,7 +2,7 @@
   "name": "Loona Розмір Підпис GATE",
   "short_name": "Розмір Підпис GATE",
   "description": "Змініть розмір вашого підпис для GATE до розміру з повідомлення (скановане поле, співвідношення приблизно 7:2) і діапазону 3–100 KB. Безкоштовно, у вашому браузері — без передавання, без реєстрації.",
-  "id": "/loona-image-compressor/uk/gate-signature-size.html",
+  "id": "/uk/gate-signature-size.html",
   "start_url": "./gate-signature-size.html",
   "scope": "./gate-signature-size.html",
   "display": "standalone",

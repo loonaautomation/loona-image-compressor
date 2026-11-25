@@ -2,7 +2,7 @@
   "name": "Loona قص الصورة عبر الإنترنت مجانًا",
   "short_name": "قص الصورة عبر الإنترنت مجانًا",
   "description": "اقص الصور عبر الإنترنت مجانًا بنسب جاهزة — 1:1، 4:3، 16:9 وجواز سفر 35×45 — بالإضافة إلى التدوير والقلب. نزّل القص الدقيق بالدقة الكاملة.",
-  "id": "/loona-image-compressor/ar/crop-image.html",
+  "id": "/ar/crop-image.html",
   "start_url": "./crop-image.html",
   "scope": "./crop-image.html",
   "display": "standalone",

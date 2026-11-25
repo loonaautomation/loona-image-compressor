@@ -2,7 +2,7 @@
   "name": "Loona AFCAT İmza Boyutu — taranmış kutu, oran yaklaşık 7",
   "short_name": "AFCAT İmza Boyutu — taranmış kutu, oran yaklaşık 7",
   "description": "AFCAT imza belgenizi duyuru boyutuna (taranmış kutu, oran yaklaşık 7:2) ve 10–50 KB bandına getirin. Ücretsiz, tarayıcınızda — yükleme yok, kayıt yok.",
-  "id": "/loona-image-compressor/tr/afcat-signature-size.html",
+  "id": "/tr/afcat-signature-size.html",
   "start_url": "./afcat-signature-size.html",
   "scope": "./afcat-signature-size.html",
   "display": "standalone",

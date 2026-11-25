@@ -2,7 +2,7 @@
   "name": "Loona GIF",
   "short_name": "GIF",
   "description": "Konvertáljon GIF-et PNG-vé online ingyen — tiszta, veszteségmentes állókép a GIF-jéből. Böngészőalapú, regisztráció nélkül, feltöltés nélkül, vízjel nélkül.",
-  "id": "/loona-image-compressor/hu/gif-to-png.html",
+  "id": "/hu/gif-to-png.html",
   "start_url": "./gif-to-png.html",
   "scope": "./gif-to-png.html",
   "display": "standalone",

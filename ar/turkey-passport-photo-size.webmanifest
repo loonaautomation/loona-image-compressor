@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة جواز السفر / التأشيرة التركية",
   "short_name": "حجم صورة جواز السفر /",
   "description": "اصنع صورة جواز السفر / التأشيرة التركية (البيومترية) بالحجم الرسمي 50×60 mm (591×709 px)، خلفية بيضاء سادة. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/turkey-passport-photo-size.html",
+  "id": "/ar/turkey-passport-photo-size.html",
   "start_url": "./turkey-passport-photo-size.html",
   "scope": "./turkey-passport-photo-size.html",
   "display": "standalone",

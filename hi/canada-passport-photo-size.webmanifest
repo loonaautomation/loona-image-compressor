@@ -2,7 +2,7 @@
   "name": "Loona कनाडा पासपोर्ट फ़ोटो साइज़",
   "short_name": "कनाडा पासपोर्ट फ़ोटो साइज़",
   "description": "आधिकारिक साइज़ 50×70 mm (591×827 px) पर कनाडा पासपोर्ट फ़ोटो बनाएँ, सादा सफ़ेद या हल्के रंग का बैकग्राउंड. मुफ़्त ऑनलाइन मेकर — क्रॉप, डाउनलोड और प्रिंट शीट, बिना अपलोड.",
-  "id": "/loona-image-compressor/hi/canada-passport-photo-size.html",
+  "id": "/hi/canada-passport-photo-size.html",
   "start_url": "./canada-passport-photo-size.html",
   "scope": "./canada-passport-photo-size.html",
   "display": "standalone",

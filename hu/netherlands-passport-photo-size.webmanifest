@@ -2,7 +2,7 @@
   "name": "Loona Holland útlevélfotó méret",
   "short_name": "Holland útlevélfotó méret",
   "description": "Készítsen Holland útlevélfotó fotót a hivatalos 35×45 mm (413×531 px) méretben, sima világosszürke vagy fehér, egyenletesen megvilágítva háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/netherlands-passport-photo-size.html",
+  "id": "/hu/netherlands-passport-photo-size.html",
   "start_url": "./netherlands-passport-photo-size.html",
   "scope": "./netherlands-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Memegenerator",
   "short_name": "Memegenerator",
   "description": "Gör valfritt foto till ett klassiskt meme med fet topp- och bottext — gratis onlinememegenerator med liveförhandsvisning, alternativ för slät bakgrund och PNG-nedladdning. Ingen registrering, och din bild lämnar aldrig din enhet.",
-  "id": "/loona-image-compressor/sv/meme-generator.html",
+  "id": "/sv/meme-generator.html",
   "start_url": "./meme-generator.html",
   "scope": "./meme-generator.html",
   "display": "standalone",

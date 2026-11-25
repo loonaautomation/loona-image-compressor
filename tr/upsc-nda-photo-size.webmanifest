@@ -2,7 +2,7 @@
   "name": "Loona UPSC NDA Fotoğraf Boyutu — 350 × 350 px, 20–300 KB",
   "short_name": "UPSC NDA Fotoğraf Boyutu — 350 × 350 px, 20–300 KB",
   "description": "UPSC NDA fotoğraf belgenizi duyuru boyutuna (350 × 350 px) ve 20–300 KB bandına getirin. Ücretsiz, tarayıcınızda — yükleme yok, kayıt yok.",
-  "id": "/loona-image-compressor/tr/upsc-nda-photo-size.html",
+  "id": "/tr/upsc-nda-photo-size.html",
   "start_url": "./upsc-nda-photo-size.html",
   "scope": "./upsc-nda-photo-size.html",
   "display": "standalone",

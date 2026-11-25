@@ -2,7 +2,7 @@
   "name": "Loona ปรับขนาดรูปภาพเป็น 472 × 709 px ออนไลน์",
   "short_name": "ปรับขนาดรูปภาพเป็น 472 × 709",
   "description": "ปรับขนาดรูปภาพใดก็ได้ให้เป็น 472×709 px พอดี — 40 × 60 mm ที่ 300 DPI — ขนาดรูปถ่าย UAE/ซาอุดี/อียิปต์/เวียดนาม ฟรีในเบราว์เซอร์ของคุณพร้อมการควบคุมการครอบตัด ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/resize-image-to-472x709.html",
+  "id": "/th/resize-image-to-472x709.html",
   "start_url": "./resize-image-to-472x709.html",
   "scope": "./resize-image-to-472x709.html",
   "display": "standalone",

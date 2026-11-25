@@ -2,7 +2,7 @@
   "name": "Loona 画像の透かし",
   "short_name": "画像の透かし",
   "description": "あらゆる写真にオンラインで無料で文字の透かしを追加できます — 文字、サイズ、色、不透明度、位置を選ぶか、タイルパターンとして繰り返します。ライブプレビュー、登録不要で、画像がデバイスの外に出ることはありません。",
-  "id": "/loona-image-compressor/ja/image-watermark.html",
+  "id": "/ja/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

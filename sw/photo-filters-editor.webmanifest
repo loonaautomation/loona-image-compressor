@@ -2,7 +2,7 @@
   "name": "Loona Vichujio vya Picha &amp; Marekebisho",
   "short_name": "Vichujio vya Picha &amp;",
   "description": "Rekebisha picha mtandaoni bure: rekebisha mwangaza, utofautishaji na ukolezaji, noa kwa kubofya mara moja na utumie mipangilio tayari kama Rekebisha Pasipoti na Hai.",
-  "id": "/loona-image-compressor/sw/photo-filters-editor.html",
+  "id": "/sw/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

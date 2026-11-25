@@ -2,7 +2,7 @@
   "name": "Loona Komprimer JPG til 40 KB på nett",
   "short_name": "Komprimer JPG til 40 KB på",
   "description": "Komprimer et JPG-bilde til 40 KB eller mindre, gratis i nettleseren din. Automatisk søk finner den beste kvaliteten som passer — ingen registrering, ingen opplasting.",
-  "id": "/loona-image-compressor/nb/compress-jpg-to-40kb.html",
+  "id": "/nb/compress-jpg-to-40kb.html",
   "start_url": "./compress-jpg-to-40kb.html",
   "scope": "./compress-jpg-to-40kb.html",
   "display": "standalone",

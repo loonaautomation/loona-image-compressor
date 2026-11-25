@@ -2,7 +2,7 @@
   "name": "Loona TikTok Videon kansi koko",
   "short_name": "TikTok Videon kansi koko",
   "description": "Tee TikTok videon kansi tarkalleen kokoon 1080×1920 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/tiktok-cover-size.html",
+  "id": "/fi/tiktok-cover-size.html",
   "start_url": "./tiktok-cover-size.html",
   "scope": "./tiktok-cover-size.html",
   "display": "standalone",

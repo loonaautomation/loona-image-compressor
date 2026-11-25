@@ -2,7 +2,7 @@
   "name": "Loona ครอบตัดรูปภาพออนไลน์ฟรี",
   "short_name": "ครอบตัดรูปภาพออนไลน์ฟรี",
   "description": "ครอบตัดรูปภาพออนไลน์ฟรีด้วยอัตราส่วนพร้อม — 1:1, 4:3, 16:9 และหนังสือเดินทาง 35×45 — บวกหมุนและพลิก ดาวน์โหลดการครอบตัดที่ exact ที่ความละเอียดเต็ม",
-  "id": "/loona-image-compressor/th/crop-image.html",
+  "id": "/th/crop-image.html",
   "start_url": "./crop-image.html",
   "scope": "./crop-image.html",
   "display": "standalone",

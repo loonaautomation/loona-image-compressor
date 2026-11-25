@@ -2,7 +2,7 @@
   "name": "Loona Покращення зображень",
   "short_name": "Покращення зображень",
   "description": "Покращуйте фото онлайн безкоштовно: покращення одним натисканням, різкість для м’яких фото, делікатне очищення від шуму та збільшення масштабу 2x або 4x. Чесні результати, без реєстрації, а ваше фото ніколи не залишає ваш пристрій.",
-  "id": "/loona-image-compressor/uk/image-enhancer.html",
+  "id": "/uk/image-enhancer.html",
   "start_url": "./image-enhancer.html",
   "scope": "./image-enhancer.html",
   "display": "standalone",

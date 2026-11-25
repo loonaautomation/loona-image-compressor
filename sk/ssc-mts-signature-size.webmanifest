@@ -2,7 +2,7 @@
   "name": "Loona Veľkosť SSC MTS Podpis",
   "short_name": "Veľkosť SSC MTS Podpis",
   "description": "Zmeňte veľkosť súboru SSC MTS podpis na veľkosť podľa oznámenia (140 × 60 px) a pásmo 10–20 KB. Zadarmo, vo vašom prehliadači — bez nahrávania a bez registrácie.",
-  "id": "/loona-image-compressor/sk/ssc-mts-signature-size.html",
+  "id": "/sk/ssc-mts-signature-size.html",
   "start_url": "./ssc-mts-signature-size.html",
   "scope": "./ssc-mts-signature-size.html",
   "display": "standalone",

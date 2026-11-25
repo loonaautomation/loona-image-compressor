@@ -2,7 +2,7 @@
   "name": "Loona Veličina YouTube Minijatura videozapisa",
   "short_name": "Veličina YouTube Minijatura",
   "description": "Izradite YouTube minijatura videozapisa na točno 1280×720 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/youtube-thumbnail-size.html",
+  "id": "/hr/youtube-thumbnail-size.html",
   "start_url": "./youtube-thumbnail-size.html",
   "scope": "./youtube-thumbnail-size.html",
   "display": "standalone",

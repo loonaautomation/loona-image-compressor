@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת פספורט אירלנד",
   "short_name": "גודל תמונת פספורט אירלנד",
   "description": "צרו תמונת פספורט אירלנד בגודל הרשמי 35×45 מ&quot;מ (413×531 px), רקע לבן חלק או אפור בהיר. כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/ireland-passport-photo-size.html",
+  "id": "/he/ireland-passport-photo-size.html",
   "start_url": "./ireland-passport-photo-size.html",
   "scope": "./ireland-passport-photo-size.html",
   "display": "standalone",

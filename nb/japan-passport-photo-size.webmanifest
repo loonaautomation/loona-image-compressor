@@ -2,7 +2,7 @@
   "name": "Loona Japan Passport Photo-størrelse",
   "short_name": "Japan Passport Photo-størrelse",
   "description": "Lag et Japan Passport Photo i den offisielle størrelsen 35×45 mm (413×531 px), ensfarget hvit eller lys, ingen mønstre bakgrunn. Gratis verktøy på nett — beskjær, last ned og skriv ut ark, ingen opplasting.",
-  "id": "/loona-image-compressor/nb/japan-passport-photo-size.html",
+  "id": "/nb/japan-passport-photo-size.html",
   "start_url": "./japan-passport-photo-size.html",
   "scope": "./japan-passport-photo-size.html",
   "display": "standalone",

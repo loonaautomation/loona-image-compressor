@@ -2,7 +2,7 @@
   "name": "Loona إزالة بيانات الصور الوصفية",
   "short_name": "إزالة بيانات الصور الوصفية",
   "description": "أزل EXIF وموقع GPS وXMP وبيانات IPTC الوصفية من صور JPG وPNG وWebP عبر الإنترنت مجانًا. تجريد على مستوى البايت — البكسلات لا تُعاد ترميزها أبدًا، فالجودة لم تُمس. مُتحقق منه بإعادة فحص، خصوصية 100% في متصفحك.",
-  "id": "/loona-image-compressor/ar/remove-image-metadata.html",
+  "id": "/ar/remove-image-metadata.html",
   "start_url": "./remove-image-metadata.html",
   "scope": "./remove-image-metadata.html",
   "display": "standalone",

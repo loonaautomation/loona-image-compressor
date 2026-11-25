@@ -2,7 +2,7 @@
   "name": "Loona Размер Подпись для NEET UG",
   "short_name": "Размер Подпись для NEET UG",
   "description": "Resize your NEET UG signature to the notification size (scanned box, ratio about 7:2) and 4–30 KB band. Free, in your browser — no upload, no signup.",
-  "id": "/loona-image-compressor/neet-ug-signature-size.html",
+  "id": "/neet-ug-signature-size.html",
   "start_url": "./neet-ug-signature-size.html",
   "scope": "./neet-ug-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Συμπίεση WebP σε 30 KB Online",
   "short_name": "Συμπίεση WebP σε 30 KB Online",
   "description": "Συμπιέστε μια εικόνα WebP σε 30 KB ή λιγότερο, δωρεάν στο πρόγραμμα περιήγησής σας. Η αυτόματη αναζήτηση βρίσκει την καλύτερη ποιότητα που χωράει — χωρίς εγγραφή, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/compress-webp-to-30kb.html",
+  "id": "/el/compress-webp-to-30kb.html",
   "start_url": "./compress-webp-to-30kb.html",
   "scope": "./compress-webp-to-30kb.html",
   "display": "standalone",

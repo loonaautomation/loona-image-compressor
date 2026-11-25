@@ -2,7 +2,7 @@
   "name": "Loona Kiinan viisumikuva koko",
   "short_name": "Kiinan viisumikuva koko",
   "description": "Tee Kiinan viisumikuva virallisessa koossa 33×48 mm (390×567 px), taustana tavallinen valkoinen. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/china-visa-photo-size.html",
+  "id": "/fi/china-visa-photo-size.html",
   "start_url": "./china-visa-photo-size.html",
   "scope": "./china-visa-photo-size.html",
   "display": "standalone",

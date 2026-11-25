@@ -2,7 +2,7 @@
   "name": "Loona Размеры фото на паспорт и визу по странам",
   "short_name": "Размеры фото на паспорт и визу по странам",
   "description": "Official passport, visa and ID photo sizes for 40 countries and documents, each with a maker tool at the exact millimetre and pixel size.",
-  "id": "/loona-image-compressor/passport-photo-sizes.html",
+  "id": "/passport-photo-sizes.html",
   "start_url": "./passport-photo-sizes.html",
   "scope": "./passport-photo-sizes.html",
   "display": "standalone",

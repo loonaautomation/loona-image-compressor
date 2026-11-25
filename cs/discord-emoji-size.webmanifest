@@ -2,7 +2,7 @@
   "name": "Loona Velikost Discord Vlastní emoji",
   "short_name": "Velikost Discord Vlastní emoji",
   "description": "Vytvořte Discord vlastní emoji přesně 128×128 px. Bezplatný nástroj na změnu velikosti/ořez ve vašem prohlížeči s pravidly bezpečné zóny, která zabrání oříznutí textu a obličejů.",
-  "id": "/loona-image-compressor/cs/discord-emoji-size.html",
+  "id": "/cs/discord-emoji-size.html",
   "start_url": "./discord-emoji-size.html",
   "scope": "./discord-emoji-size.html",
   "display": "standalone",

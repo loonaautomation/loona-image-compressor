@@ -2,7 +2,7 @@
   "name": "Loona Tờ in ảnh hộ chiếu",
   "short_name": "Tờ in ảnh hộ chiếu",
   "description": "Đặt 4, 6 hoặc 8 ảnh hộ chiếu trên một tờ in A4 miễn phí ở 300 DPI. In ở 100%, cắt theo các đường hướng dẫn và tiết kiệm tiền studio. Không cần đăng ký, hoàn toàn riêng tư.",
-  "id": "/loona-image-compressor/vi/passport-photo-print-sheet.html",
+  "id": "/vi/passport-photo-print-sheet.html",
   "start_url": "./passport-photo-print-sheet.html",
   "scope": "./passport-photo-print-sheet.html",
   "display": "standalone",

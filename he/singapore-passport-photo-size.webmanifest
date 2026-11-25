@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת פספורט סינגפור",
   "short_name": "גודל תמונת פספורט סינגפור",
   "description": "צרו תמונת פספורט סינגפור בגודל הרשמי 35×45 מ&quot;מ (413×531 px), רקע לבן חלק. כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/singapore-passport-photo-size.html",
+  "id": "/he/singapore-passport-photo-size.html",
   "start_url": "./singapore-passport-photo-size.html",
   "scope": "./singapore-passport-photo-size.html",
   "display": "standalone",

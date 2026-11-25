@@ -2,7 +2,7 @@
   "name": "Loona Компресиране на изображение до всеки размер в KB",
   "short_name": "Компресиране на изображение",
   "description": "Всеки инструмент за компресиране до размер: 16 целеви размера в JPG, PNG и WebP, от 10 KB до 2 MB. Безплатно, във вашия браузър.",
-  "id": "/loona-image-compressor/bg/compress-image-sizes.html",
+  "id": "/bg/compress-image-sizes.html",
   "start_url": "./compress-image-sizes.html",
   "scope": "./compress-image-sizes.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة ملف القناة YouTube",
   "short_name": "حجم صورة ملف القناة YouTube",
   "description": "اصنع صورة ملف القناة YouTube بمقاس 800×800 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/youtube-profile-picture-size.html",
+  "id": "/ar/youtube-profile-picture-size.html",
   "start_url": "./youtube-profile-picture-size.html",
   "scope": "./youtube-profile-picture-size.html",
   "display": "standalone",

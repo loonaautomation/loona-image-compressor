@@ -2,7 +2,7 @@
   "name": "Loona יוצר תמונות ויזה",
   "short_name": "יוצר תמונות ויזה",
   "description": "צרו תמונות ויזה באינטרנט בחינם: ארה",
-  "id": "/loona-image-compressor/he/visa-photo-maker.html",
+  "id": "/he/visa-photo-maker.html",
   "start_url": "./visa-photo-maker.html",
   "scope": "./visa-photo-maker.html",
   "display": "standalone",

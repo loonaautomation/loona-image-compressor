@@ -2,7 +2,7 @@
   "name": "Loona Konverter Foto ke PDF",
   "short_name": "Konverter Foto ke PDF",
   "description": "Ubah foto menjadi PDF online gratis: tambahkan gambar JPG, PNG, atau WebP, pilih halaman A4, Letter, atau sesuaikan dengan gambar, dan unduh satu PDF yang rapi. Tanpa unggahan.",
-  "id": "/loona-image-compressor/id/photo-to-pdf.html",
+  "id": "/id/photo-to-pdf.html",
   "start_url": "./photo-to-pdf.html",
   "scope": "./photo-to-pdf.html",
   "display": "standalone",

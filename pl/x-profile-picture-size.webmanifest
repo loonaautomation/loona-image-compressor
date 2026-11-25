@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar",
   "short_name": "Rozmiar",
   "description": "Utwórz X (Twitter) zdjęcie profilowe dokładnie 400×400 px. Darmowe narzędzie do zmiany rozmiaru/przycinania w przeglądarce z zasadami strefy bezpiecznej, które chronią przycięty tekst i twarze.",
-  "id": "/loona-image-compressor/pl/x-profile-picture-size.html",
+  "id": "/pl/x-profile-picture-size.html",
   "start_url": "./x-profile-picture-size.html",
   "scope": "./x-profile-picture-size.html",
   "display": "standalone",

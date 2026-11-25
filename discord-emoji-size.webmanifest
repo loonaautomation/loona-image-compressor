@@ -2,7 +2,7 @@
   "name": "Loona Discord Custom Emoji Size",
   "short_name": "Discord Custom Emoji Size",
   "description": "Make a Discord custom emoji at exactly 128×128 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/discord-emoji-size.html",
+  "id": "/discord-emoji-size.html",
   "start_url": "./discord-emoji-size.html",
   "scope": "./discord-emoji-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Renk Paleti Oluşturucu – Ücretsiz Uyumlu Renk Şemaları",
   "short_name": "Renk Paleti Oluşturucu – Ücretsiz Uyumlu Renk Şemaları",
   "description": "Herhangi bir temel renkten uyumlu renk paletleri oluşturun — kopyalanabilir HEX kodlarıyla benzer, tamamlayıcı, üçlü ve tek renkli şemalar. Ücretsiz, kayıt yok.",
-  "id": "/loona-image-compressor/tr/color-palette-generator.html",
+  "id": "/tr/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",
   "scope": "./color-palette-generator.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Thay đổi kích thước ảnh thành 3840 × 2160 px trực tuyến",
   "short_name": "Thay đổi kích thước ảnh thành",
   "description": "Thay đổi kích thước mọi hình ảnh thành chính xác 3840×2160 px — Hình nền / khung hình video 4K UHD. Miễn phí trong trình duyệt của bạn với điều khiển cắt ảnh; không tải lên, không đăng ký.",
-  "id": "/loona-image-compressor/vi/resize-image-to-3840x2160.html",
+  "id": "/vi/resize-image-to-3840x2160.html",
   "start_url": "./resize-image-to-3840x2160.html",
   "scope": "./resize-image-to-3840x2160.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Útlevél- és vízumfotó-méretek országonként",
   "short_name": "Útlevél- és vízumfotó-méretek",
   "description": "Hivatalos útlevél-, vízum- és igazolványfotó-méretek 40 országhoz és dokumentumhoz, mindegyikhez pontos milliméter- és pixelmérettel rendelkező készítőeszköz.",
-  "id": "/loona-image-compressor/hu/passport-photo-sizes.html",
+  "id": "/hu/passport-photo-sizes.html",
   "start_url": "./passport-photo-sizes.html",
   "scope": "./passport-photo-sizes.html",
   "display": "standalone",

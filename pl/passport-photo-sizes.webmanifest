@@ -2,7 +2,7 @@
   "name": "Loona Rozmiary zdjęć paszportowych i wizowych według kraju",
   "short_name": "Rozmiary zdjęć paszportowych",
   "description": "Oficjalne rozmiary zdjęć paszportowych, wizowych i dowodowych dla 40 krajów i dokumentów, każdy z narzędziem kreatora w dokładnym rozmiarze w milimetrach i pikselach.",
-  "id": "/loona-image-compressor/pl/passport-photo-sizes.html",
+  "id": "/pl/passport-photo-sizes.html",
   "start_url": "./passport-photo-sizes.html",
   "scope": "./passport-photo-sizes.html",
   "display": "standalone",

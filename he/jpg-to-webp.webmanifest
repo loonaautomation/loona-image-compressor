@@ -2,7 +2,7 @@
   "name": "Loona ממיר JPG ל־WebP",
   "short_name": "ממיר JPG ל־WebP",
   "description": "המירו JPG ל־WebP באינטרנט בחינם וכווצו תמונות אתר ב־25–40% באותה איכות. בדפדפן שלכם — ללא הרשמה, ללא העלאה, ללא סימן מים.",
-  "id": "/loona-image-compressor/he/jpg-to-webp.html",
+  "id": "/he/jpg-to-webp.html",
   "start_url": "./jpg-to-webp.html",
   "scope": "./jpg-to-webp.html",
   "display": "standalone",

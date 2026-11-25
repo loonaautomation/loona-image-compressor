@@ -2,7 +2,7 @@
   "name": "Loona Υπογραφή RRB NTPC (Railways)",
   "short_name": "Υπογραφή RRB NTPC (Railways)",
   "description": "Αλλάξτε το μέγεθος της υπογραφή RRB NTPC (Railways) στο μέγεθος της προκήρυξης (140 × 60 px) και στη ζώνη 10–40 KB. Δωρεάν, στο πρόγραμμα περιήγησής σας — χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/rrb-ntpc-signature-size.html",
+  "id": "/el/rrb-ntpc-signature-size.html",
   "start_url": "./rrb-ntpc-signature-size.html",
   "scope": "./rrb-ntpc-signature-size.html",
   "display": "standalone",

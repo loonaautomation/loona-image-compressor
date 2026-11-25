@@ -2,7 +2,7 @@
   "name": "Loona Инструмент за снимки за виза",
   "short_name": "Инструмент за снимки за виза",
   "description": "Правете визови снимки онлайн безплатно: САЩ 2x2 инча, Обединено кралство и Шенген 35x45 mm, Китай 33x48 mm при 300 DPI. Без регистрация, без воден знак, напълно личен инструмент.",
-  "id": "/loona-image-compressor/bg/visa-photo-maker.html",
+  "id": "/bg/visa-photo-maker.html",
   "start_url": "./visa-photo-maker.html",
   "scope": "./visa-photo-maker.html",
   "display": "standalone",

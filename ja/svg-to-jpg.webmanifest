@@ -2,7 +2,7 @@
   "name": "Loona SVGからJPGへの変換ツール",
   "short_name": "SVGからJPGへの変換ツール",
   "description": "SVGをオンラインで無料でJPGに変換 — ベクターロゴやイラストを任意の幅で普遍的なJPGとして描画。登録不要、アップロード不要、ブラウザで。",
-  "id": "/loona-image-compressor/ja/svg-to-jpg.html",
+  "id": "/ja/svg-to-jpg.html",
   "start_url": "./svg-to-jpg.html",
   "scope": "./svg-to-jpg.html",
   "display": "standalone",

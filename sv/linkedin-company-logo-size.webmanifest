@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Företagssidans logotyp Storlek",
   "short_name": "LinkedIn Företagssidans",
   "description": "Skapa en LinkedIn företagssidans logotyp på exakt 300×300 px. Gratis storleksändrare/beskärare i din webbläsare med säker-zon-reglerna som stoppar beskuren text och ansikten.",
-  "id": "/loona-image-compressor/sv/linkedin-company-logo-size.html",
+  "id": "/sv/linkedin-company-logo-size.html",
   "start_url": "./linkedin-company-logo-size.html",
   "scope": "./linkedin-company-logo-size.html",
   "display": "standalone",

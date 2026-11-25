@@ -2,7 +2,7 @@
   "name": "Loona Pinterest آئیڈیا پن / اسٹوری کا سائز",
   "short_name": "Pinterest آئیڈیا پن / اسٹوری",
   "description": "Pinterest آئیڈیا پن / اسٹوری بالکل 1080×1920 px پر بنائیں۔ آپ کے براؤزر میں مفت ری سائزر/کراپر، محفوظ زون کے قواعد کے ساتھ جو کراپ شدہ متن اور چہروں کو روکتے ہیں۔",
-  "id": "/loona-image-compressor/ur/pinterest-idea-pin-size.html",
+  "id": "/ur/pinterest-idea-pin-size.html",
   "start_url": "./pinterest-idea-pin-size.html",
   "scope": "./pinterest-idea-pin-size.html",
   "display": "standalone",

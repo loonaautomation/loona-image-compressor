@@ -2,7 +2,7 @@
   "name": "Loona Trình chuyển đổi PNG sang WebP",
   "short_name": "Trình chuyển đổi PNG sang WebP",
   "description": "Chuyển đổi PNG sang WebP trực tuyến miễn phí — tệp nhỏ hơn nhiều mà vẫn giữ độ trong suốt, hoàn hảo cho trang web. Không cần đăng ký, không tải lên, chạy trong trình duyệt của bạn.",
-  "id": "/loona-image-compressor/vi/png-to-webp.html",
+  "id": "/vi/png-to-webp.html",
   "start_url": "./png-to-webp.html",
   "scope": "./png-to-webp.html",
   "display": "standalone",

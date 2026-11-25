@@ -2,7 +2,7 @@
   "name": "Loona JPGを40 KBに圧縮",
   "short_name": "JPGを40 KBに圧縮",
   "description": "JPG画像を40 KB以下に圧縮できます。ブラウザで無料で使え、最適な画質を自動で探します。登録不要・アップロード不要です。",
-  "id": "/loona-image-compressor/ja/compress-jpg-to-40kb.html",
+  "id": "/ja/compress-jpg-to-40kb.html",
   "start_url": "./compress-jpg-to-40kb.html",
   "scope": "./compress-jpg-to-40kb.html",
   "display": "standalone",

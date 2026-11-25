@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar",
   "short_name": "Rozmiar",
   "description": "Zmień rozmiar: AFCAT zdjęcie, do rozmiaru z ogłoszenia (3,5 × 4,5 cm (około 413 × 531 px przy 300 DPI)) i przedziału 10–50 KB. Za darmo, w przeglądarce — bez przesyłania, bez rejestracji.",
-  "id": "/loona-image-compressor/pl/afcat-photo-size.html",
+  "id": "/pl/afcat-photo-size.html",
   "start_url": "./afcat-photo-size.html",
   "scope": "./afcat-photo-size.html",
   "display": "standalone",

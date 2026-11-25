@@ -2,7 +2,7 @@
   "name": "Loona Görüntü Filigranı – Fotoğraflara Çevrimiçi Ücretsiz Metin Filigranı Ekleyin",
   "short_name": "Görüntü Filigranı – Fotoğraflara Çevrimiçi Ücretsiz Metin Filigranı Ekleyin",
   "description": "Herhangi bir fotoğrafa çevrimiçi ücretsiz bir metin filigranı ekleyin — metni, boyutu, rengi, opaklığı ve konumu seçin veya döşeli bir desen olarak tekrarlayın. Canlı önizleme, kayıt yok ve görüntünüz cihazınızdan asla ayrılmaz.",
-  "id": "/loona-image-compressor/tr/image-watermark.html",
+  "id": "/tr/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

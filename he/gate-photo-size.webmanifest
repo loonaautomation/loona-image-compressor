@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונה GATE",
   "short_name": "גודל תמונה GATE",
   "description": "שנו את גודל ה־תמונה של GATE לגודל ההודעה הרשמית (480 × 640 px) ולרצועת 5–200 KB. בחינם, בדפדפן שלכם — ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/gate-photo-size.html",
+  "id": "/he/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

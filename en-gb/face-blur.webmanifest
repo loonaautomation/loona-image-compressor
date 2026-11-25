@@ -2,7 +2,7 @@
   "name": "Loona Face Blur",
   "short_name": "Face Blur",
   "description": "Blur or pixelate faces, number plates and private details in any photo. You select the areas yourself, choose the strength, preview and download — free, no signup, and your photo never leaves your device.",
-  "id": "/loona-image-compressor/en-gb/face-blur.html",
+  "id": "/en-gb/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

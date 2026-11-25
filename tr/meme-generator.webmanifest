@@ -2,7 +2,7 @@
   "name": "Loona Meme Oluşturucu – Görüntülere Çevrimiçi Ücretsiz Üst &amp; Alt Metin Ekleyin",
   "short_name": "Meme Oluşturucu – Görüntülere Çevrimiçi Ücretsiz Üst &amp; Alt Metin Ekleyin",
   "description": "Herhangi bir fotoğrafı, kalın üst ve alt metinle klasik bir meme'ye çevirin — canlı önizleme, düz arka plan seçenekleri ve PNG indirme ile ücretsiz çevrimiçi meme oluşturucu. Kayıt yok ve görüntünüz cihazınızdan asla ayrılmaz.",
-  "id": "/loona-image-compressor/tr/meme-generator.html",
+  "id": "/tr/meme-generator.html",
   "start_url": "./meme-generator.html",
   "scope": "./meme-generator.html",
   "display": "standalone",

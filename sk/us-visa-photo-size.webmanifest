@@ -2,7 +2,7 @@
   "name": "Loona Veľkosť Vízová fotografia USA (DS-160)",
   "short_name": "Veľkosť Vízová fotografia USA",
   "description": "Vytvorte Vízová fotografia USA (DS-160) v oficiálnej veľkosti 51×51 mm (600×600 px), pozadie: jednofarebné biele. Bezplatný online tvorca — orezanie, stiahnutie a tlačový hárok, bez nahrávania.",
-  "id": "/loona-image-compressor/sk/us-visa-photo-size.html",
+  "id": "/sk/us-visa-photo-size.html",
   "start_url": "./us-visa-photo-size.html",
   "scope": "./us-visa-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας SVG σε PNG",
   "short_name": "Μετατροπέας SVG σε PNG",
   "description": "Μετατρέψτε SVG σε PNG διαδικτυακά δωρεάν σε οποιοδήποτε πλάτος — ευκρινείς εικόνες raster από διανυσματικά λογότυπα και εικονίδια. Χωρίς εγγραφή, χωρίς μεταφόρτωση, τρέχει στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-image-compressor/el/svg-to-png.html",
+  "id": "/el/svg-to-png.html",
   "start_url": "./svg-to-png.html",
   "scope": "./svg-to-png.html",
   "display": "standalone",

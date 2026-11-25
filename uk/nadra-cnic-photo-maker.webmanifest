@@ -2,7 +2,7 @@
   "name": "Loona Конструктор фото NADRA / CNIC",
   "short_name": "Конструктор фото NADRA / CNIC",
   "description": "Створіть фото NADRA CNIC онлайн безкоштовно: точні 350×467 пікс. для завантаження Pak-ID і друкарський розмір 35×45 mm. Біле тло, без реєстрації, цілком приватно.",
-  "id": "/loona-image-compressor/uk/nadra-cnic-photo-maker.html",
+  "id": "/uk/nadra-cnic-photo-maker.html",
   "start_url": "./nadra-cnic-photo-maker.html",
   "scope": "./nadra-cnic-photo-maker.html",
   "display": "standalone",

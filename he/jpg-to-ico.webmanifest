@@ -2,7 +2,7 @@
   "name": "Loona ממיר JPG ל־ICO",
   "short_name": "ממיר JPG ל־ICO",
   "description": "המירו JPG ל־ICO באינטרנט, בחינם, בדפדפן שלכם. המרה אמיתית במכשיר שלכם — ללא העלאה, ללא הרשמה, ללא סימני מים.",
-  "id": "/loona-image-compressor/he/jpg-to-ico.html",
+  "id": "/he/jpg-to-ico.html",
   "start_url": "./jpg-to-ico.html",
   "scope": "./jpg-to-ico.html",
   "display": "standalone",

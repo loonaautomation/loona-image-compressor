@@ -2,7 +2,7 @@
   "name": "Loona UPSC Civil Services (IAS) Aláírás méret",
   "short_name": "UPSC Civil Services (IAS)",
   "description": "Méretezze át a UPSC Civil Services (IAS) aláírás fájlját a kiírás szerinti méretre (szkennelt mező, kb. 7:2 arány) és a 20–300 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/upsc-cse-signature-size.html",
+  "id": "/hu/upsc-cse-signature-size.html",
   "start_url": "./upsc-cse-signature-size.html",
   "scope": "./upsc-cse-signature-size.html",
   "display": "standalone",

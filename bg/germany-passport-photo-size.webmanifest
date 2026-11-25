@@ -2,7 +2,7 @@
   "name": "Loona Размер Снимка за паспорт на Германия (биометрична)",
   "short_name": "Размер Снимка за паспорт на",
   "description": "Направете Снимка за паспорт на Германия (биометрична) в официалния размер 35×45 mm (413×531 px), фон светлосив, обикновен. Безплатен онлайн инструмент — изрязване, изтегляне и лист за печат, без качване.",
-  "id": "/loona-image-compressor/bg/germany-passport-photo-size.html",
+  "id": "/bg/germany-passport-photo-size.html",
   "start_url": "./germany-passport-photo-size.html",
   "scope": "./germany-passport-photo-size.html",
   "display": "standalone",

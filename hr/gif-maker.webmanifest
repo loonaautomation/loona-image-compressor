@@ -2,7 +2,7 @@
   "name": "Loona GIF Maker",
   "short_name": "GIF Maker",
   "description": "Stvarajte animirane GIF-ove online besplatno uz Loona GIF Maker — spojite svoje fotografije u GIF koji se ponavlja u petlji. Radi u pregledniku, bez registracije, bez prijenosa, bez vodenog žiga.",
-  "id": "/loona-image-compressor/hr/gif-maker.html",
+  "id": "/hr/gif-maker.html",
   "start_url": "./gif-maker.html",
   "scope": "./gif-maker.html",
   "display": "standalone",

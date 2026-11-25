@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de GIF a WEBP",
   "short_name": "Convertidor de GIF a WEBP",
   "description": "Convierte GIF a WEBP en línea, gratis y en tu navegador. Conversión real en tu dispositivo: sin subidas, sin registro y sin marcas de agua.",
-  "id": "/loona-image-compressor/es/gif-to-webp.html",
+  "id": "/es/gif-to-webp.html",
   "start_url": "./gif-to-webp.html",
   "scope": "./gif-to-webp.html",
   "display": "standalone",

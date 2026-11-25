@@ -2,7 +2,7 @@
   "name": "Loona Formato Storia Facebook",
   "short_name": "Formato Storia Facebook",
   "description": "Crea un storia Facebook esattamente di 1080×1920 px. Strumento gratuito di ridimensionamento e ritaglio nel tuo browser, con le regole della zona sicura che evitano testi e volti tagliati.",
-  "id": "/loona-image-compressor/it/facebook-story-size.html",
+  "id": "/it/facebook-story-size.html",
   "start_url": "./facebook-story-size.html",
   "scope": "./facebook-story-size.html",
   "display": "standalone",

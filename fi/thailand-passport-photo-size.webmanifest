@@ -2,7 +2,7 @@
   "name": "Loona Thaimaan passi- / viisumikuva koko",
   "short_name": "Thaimaan passi- / viisumikuva",
   "description": "Tee Thaimaan passi- / viisumikuva virallisessa koossa 35×45 mm (413×531 px), taustana tavallinen valkoinen. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/thailand-passport-photo-size.html",
+  "id": "/fi/thailand-passport-photo-size.html",
   "start_url": "./thailand-passport-photo-size.html",
   "scope": "./thailand-passport-photo-size.html",
   "display": "standalone",

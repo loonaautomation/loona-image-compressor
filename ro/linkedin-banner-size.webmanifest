@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Banner de profil / pagină LinkedIn",
   "short_name": "Dimensiune Banner de profil /",
   "description": "Creează un banner de profil / pagină LinkedIn la exact 1584×396 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/linkedin-banner-size.html",
+  "id": "/ro/linkedin-banner-size.html",
   "start_url": "./linkedin-banner-size.html",
   "scope": "./linkedin-banner-size.html",
   "display": "standalone",

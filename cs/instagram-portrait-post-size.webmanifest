@@ -2,7 +2,7 @@
   "name": "Loona Velikost Instagram Příspěvek na výšku (4",
   "short_name": "Velikost Instagram Příspěvek",
   "description": "Vytvořte Instagram příspěvek na výšku (4:5) přesně 1080×1350 px. Bezplatný nástroj na změnu velikosti/ořez ve vašem prohlížeči s pravidly bezpečné zóny, která zabrání oříznutí textu a obličejů.",
-  "id": "/loona-image-compressor/cs/instagram-portrait-post-size.html",
+  "id": "/cs/instagram-portrait-post-size.html",
   "start_url": "./instagram-portrait-post-size.html",
   "scope": "./instagram-portrait-post-size.html",
   "display": "standalone",

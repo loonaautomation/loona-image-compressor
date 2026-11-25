@@ -2,7 +2,7 @@
   "name": "Loona Làm mờ khuôn mặt",
   "short_name": "Làm mờ khuôn mặt",
   "description": "Làm mờ hoặc làm vỡ pixel khuôn mặt, biển số và các chi tiết riêng tư trong bất kỳ bức ảnh nào. Bạn tự chọn các vùng, chọn mức độ, xem trước và tải xuống — miễn phí, không cần đăng ký, và ảnh của bạn không bao giờ rời khỏi thiết bị.",
-  "id": "/loona-image-compressor/vi/face-blur.html",
+  "id": "/vi/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

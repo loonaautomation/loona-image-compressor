@@ -2,7 +2,7 @@
   "name": "Loona ปรับขนาดรูปภาพเป็น 2048 × 2048 px ออนไลน์",
   "short_name": "ปรับขนาดรูปภาพเป็น 2048 ×",
   "description": "ปรับขนาดรูปภาพใดก็ได้ให้เป็น 2048×2048 px พอดี — สี่เหลี่ยมจัตุรัสความละเอียดสูงสำหรับงานพิมพ์และจอเรตินา ฟรีในเบราว์เซอร์ของคุณพร้อมการควบคุมการครอบตัด ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/resize-image-to-2048x2048.html",
+  "id": "/th/resize-image-to-2048x2048.html",
   "start_url": "./resize-image-to-2048x2048.html",
   "scope": "./resize-image-to-2048x2048.html",
   "display": "standalone",

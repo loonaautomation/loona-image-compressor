@@ -2,7 +2,7 @@
   "name": "Loona Prüfungsfoto mit Name & Datum",
   "short_name": "Prüfungsfoto mit Name & Datum",
   "description": "Erstellen Sie kostenlos ein Prüfungsfoto mit Ihrem Namen und Datum, die unten gedruckt sind — das Board-Prüfungsformat, das in Pakistan und Indien verwendet wird. Privat, keine Anmeldung erforderlich.",
-  "id": "/loona-image-compressor/de/exam-photo-name-date.html",
+  "id": "/de/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pinterest প্রোফাইল ছবি আকার",
   "short_name": "Pinterest প্রোফাইল ছবি আকার",
   "description": "ঠিক 800×800 px-এ একটি Pinterest প্রোফাইল ছবি তৈরি করুন। আপনার ব্রাউজারে বিনামূল্যে রিসাইজার/ক্রপার, ক্রপ করা লেখা ও মুখ আটকায় এমন নিরাপদ-অঞ্চলের নিয়মসহ।",
-  "id": "/loona-image-compressor/bn/pinterest-profile-picture-size.html",
+  "id": "/bn/pinterest-profile-picture-size.html",
   "start_url": "./pinterest-profile-picture-size.html",
   "scope": "./pinterest-profile-picture-size.html",
   "display": "standalone",

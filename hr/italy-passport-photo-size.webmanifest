@@ -2,7 +2,7 @@
   "name": "Loona Veličina Fotografija za putovnicu Italije",
   "short_name": "Veličina Fotografija za",
   "description": "Izradite Fotografija za putovnicu Italije u službenoj veličini 35×40 mm (413×472 px), pozadina jednobojna bijela ili svijetla. Besplatni mrežni izrađivač — izrežite, preuzmite i ispišite list, bez prijenosa.",
-  "id": "/loona-image-compressor/hr/italy-passport-photo-size.html",
+  "id": "/hr/italy-passport-photo-size.html",
   "start_url": "./italy-passport-photo-size.html",
   "scope": "./italy-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona アイルランドパスポート写真のサイズ",
   "short_name": "アイルランドパスポート写真のサイズ",
   "description": "公式サイズ35×45 mm（413×531 px）、無地の白または明るいグレーの背景でアイルランドパスポート写真を作成できます。無料のオンライン作成ツール — 切り取り、ダウンロード、印刷シートまで、アップロード不要です。",
-  "id": "/loona-image-compressor/ja/ireland-passport-photo-size.html",
+  "id": "/ja/ireland-passport-photo-size.html",
   "start_url": "./ireland-passport-photo-size.html",
   "scope": "./ireland-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Компресиране на WebP до 1000 KB онлайн",
   "short_name": "Компресиране на WebP до 1000",
   "description": "Компресирайте изображение WebP до 1000 KB или по-малко, безплатно във вашия браузър. Автоматичното търсене намира най-доброто качество, което се побира — без регистрация, без качване.",
-  "id": "/loona-image-compressor/bg/compress-webp-to-1000kb.html",
+  "id": "/bg/compress-webp-to-1000kb.html",
   "start_url": "./compress-webp-to-1000kb.html",
   "scope": "./compress-webp-to-1000kb.html",
   "display": "standalone",

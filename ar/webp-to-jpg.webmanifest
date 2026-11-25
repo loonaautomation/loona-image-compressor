@@ -2,7 +2,7 @@
   "name": "Loona محوّل WebP إلى JPG",
   "short_name": "محوّل WebP إلى JPG",
   "description": "حوّل WebP إلى JPG عبر الإنترنت مجانًا لكي تفتح صورك في كل تطبيق ونموذج وجهاز قديم. قائم على المتصفح — بلا تسجيل، بلا رفع، بلا علامة مائية.",
-  "id": "/loona-image-compressor/ar/webp-to-jpg.html",
+  "id": "/ar/webp-to-jpg.html",
   "start_url": "./webp-to-jpg.html",
   "scope": "./webp-to-jpg.html",
   "display": "standalone",

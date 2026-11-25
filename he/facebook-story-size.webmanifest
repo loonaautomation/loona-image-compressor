@@ -2,7 +2,7 @@
   "name": "Loona גודל סטורי Facebook",
   "short_name": "גודל סטורי Facebook",
   "description": "צרו סטורי של Facebook בדיוק ב־1080×1920 px. משנה גודל/חיתוך בחינם בדפדפן שלכם, עם כללי אזור הבטיחות שמונעים חיתוך של טקסט ופנים.",
-  "id": "/loona-image-compressor/he/facebook-story-size.html",
+  "id": "/he/facebook-story-size.html",
   "start_url": "./facebook-story-size.html",
   "scope": "./facebook-story-size.html",
   "display": "standalone",

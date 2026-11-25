@@ -2,7 +2,7 @@
   "name": "Loona SVG تا PNG کنورٹر",
   "short_name": "SVG تا PNG کنورٹر",
   "description": "SVG کو PNG میں آن لائن مفت کسی بھی چوڑائی پر تبدیل کریں — ویکٹر لوگو اور آئیکنز سے کرکری راسٹر تصاویر۔ نہ سائن اپ، نہ اپ لوڈ، آپ کے براؤزر میں چلتا ہے۔",
-  "id": "/loona-image-compressor/ur/svg-to-png.html",
+  "id": "/ur/svg-to-png.html",
   "start_url": "./svg-to-png.html",
   "scope": "./svg-to-png.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Facebook Profiilikuva koko",
   "short_name": "Facebook Profiilikuva koko",
   "description": "Tee Facebook profiilikuva tarkalleen kokoon 720×720 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/facebook-profile-picture-size.html",
+  "id": "/fi/facebook-profile-picture-size.html",
   "start_url": "./facebook-profile-picture-size.html",
   "scope": "./facebook-profile-picture-size.html",
   "display": "standalone",

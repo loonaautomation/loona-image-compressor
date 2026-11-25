@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do paszportu / wizy Wietnamu",
   "short_name": "Rozmiar Zdjęcie do paszportu",
   "description": "Utwórz Zdjęcie do paszportu / wizy Wietnamu w oficjalnym rozmiarze 40×60 mm (472×709 px), tło: gładkie białe. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/vietnam-passport-photo-size.html",
+  "id": "/pl/vietnam-passport-photo-size.html",
   "start_url": "./vietnam-passport-photo-size.html",
   "scope": "./vietnam-passport-photo-size.html",
   "display": "standalone",

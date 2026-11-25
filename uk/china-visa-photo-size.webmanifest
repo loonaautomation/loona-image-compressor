@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото на візу Китаю",
   "short_name": "Розмір Фото на візу Китаю",
   "description": "Зробіть Фото на візу Китаю в офіційному розмірі 33×48 мм (390×567 пікс.), тло: однотонне біле. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
-  "id": "/loona-image-compressor/uk/china-visa-photo-size.html",
+  "id": "/uk/china-visa-photo-size.html",
   "start_url": "./china-visa-photo-size.html",
   "scope": "./china-visa-photo-size.html",
   "display": "standalone",

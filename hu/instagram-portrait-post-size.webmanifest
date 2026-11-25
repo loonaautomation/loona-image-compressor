@@ -2,7 +2,7 @@
   "name": "Loona Instagram Álló bejegyzés (4",
   "short_name": "Instagram Álló bejegyzés (4",
   "description": "Készítsen Instagram álló bejegyzés (4:5) képet pontosan 1080×1350 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/instagram-portrait-post-size.html",
+  "id": "/hu/instagram-portrait-post-size.html",
   "start_url": "./instagram-portrait-post-size.html",
   "scope": "./instagram-portrait-post-size.html",
   "display": "standalone",

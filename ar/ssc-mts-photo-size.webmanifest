@@ -2,7 +2,7 @@
   "name": "Loona حجم الصورة الفوتوغرافية SSC MTS",
   "short_name": "حجم الصورة الفوتوغرافية SSC",
   "description": "غيّر حجم الصورة الخاص بك لامتحان SSC MTS إلى حجم الإشعار (200 × 230 px) ونطاق 20–50 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/ssc-mts-photo-size.html",
+  "id": "/ar/ssc-mts-photo-size.html",
   "start_url": "./ssc-mts-photo-size.html",
   "scope": "./ssc-mts-photo-size.html",
   "display": "standalone",

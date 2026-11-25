@@ -2,7 +2,7 @@
   "name": "Loona Komprimovat PNG na 200 KB online",
   "short_name": "Komprimovat PNG na 200 KB",
   "description": "Komprimujte obrázek PNG na 200 KB nebo méně, zdarma ve svém prohlížeči. Automatické hledání najde nejlepší kvalitu, která se do limitu vejde — bez registrace a bez nahrávání.",
-  "id": "/loona-image-compressor/cs/compress-png-to-200kb.html",
+  "id": "/cs/compress-png-to-200kb.html",
   "start_url": "./compress-png-to-200kb.html",
   "scope": "./compress-png-to-200kb.html",
   "display": "standalone",

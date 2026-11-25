@@ -2,7 +2,7 @@
   "name": "Loona Görüntüyü 800 × 800'e Yeniden Boyutlandır – Ürün Kare Boyutu Çevrimiçi Ücretsiz",
   "short_name": "Görüntüyü 800 × 800'e Yeniden Boyutlandır – Ürün Kare Boyutu Çevrimiçi Ücretsiz",
   "description": "Herhangi bir görüntüyü tam olarak 800 × 800 piksele (pazar yeri ve ürün listeleme fotoğrafları) ücretsiz yeniden boyutlandırın. Kapla, içer veya esnet, JPG veya PNG, anında indirin — kayıt yok, hiçbir şey yüklenmez.",
-  "id": "/loona-image-compressor/tr/resize-image-to-800x800.html",
+  "id": "/tr/resize-image-to-800x800.html",
   "start_url": "./resize-image-to-800x800.html",
   "scope": "./resize-image-to-800x800.html",
   "display": "standalone",

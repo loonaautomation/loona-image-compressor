@@ -2,7 +2,7 @@
   "name": "Loona Etelä-Afrikan passikuva koko",
   "short_name": "Etelä-Afrikan passikuva koko",
   "description": "Tee Etelä-Afrikan passikuva virallisessa koossa 35×45 mm (413×531 px), taustana tavallinen valkoinen tai vaaleanharmaa. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/south-africa-passport-photo-size.html",
+  "id": "/fi/south-africa-passport-photo-size.html",
   "start_url": "./south-africa-passport-photo-size.html",
   "scope": "./south-africa-passport-photo-size.html",
   "display": "standalone",

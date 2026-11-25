@@ -2,7 +2,7 @@
   "name": "Loona Κάλυμμα / Καρέ Shorts YouTube",
   "short_name": "Κάλυμμα / Καρέ Shorts YouTube",
   "description": "Δημιουργήστε ένα κάλυμμα / καρέ shorts YouTube σε ακριβώς 1080×1920 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/youtube-shorts-size.html",
+  "id": "/el/youtube-shorts-size.html",
   "start_url": "./youtube-shorts-size.html",
   "scope": "./youtube-shorts-size.html",
   "display": "standalone",

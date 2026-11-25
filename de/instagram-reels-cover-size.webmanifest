@@ -2,7 +2,7 @@
   "name": "Loona Instagram Reels-Cover Größe",
   "short_name": "Instagram Reels-Cover Größe",
   "description": "Erstellen Sie ein Instagram-reels-cover mit exakt 1080×1920 px. Kostenloser Größenänderer/Zuschneider in Ihrem Browser mit den Regeln für die sichere Zone, die abgeschnittenen Text und Gesichter verhindern.",
-  "id": "/loona-image-compressor/de/instagram-reels-cover-size.html",
+  "id": "/de/instagram-reels-cover-size.html",
   "start_url": "./instagram-reels-cover-size.html",
   "scope": "./instagram-reels-cover-size.html",
   "display": "standalone",

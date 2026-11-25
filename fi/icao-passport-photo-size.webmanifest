@@ -2,7 +2,7 @@
   "name": "Loona ICAO-standardin passikuva (35×45 mm) koko",
   "short_name": "ICAO-standardin passikuva",
   "description": "Tee ICAO-standardin passikuva (35×45 mm) virallisessa koossa 35×45 mm (413×531 px), taustana tavallinen vaalea tausta. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/icao-passport-photo-size.html",
+  "id": "/fi/icao-passport-photo-size.html",
   "start_url": "./icao-passport-photo-size.html",
   "scope": "./icao-passport-photo-size.html",
   "display": "standalone",

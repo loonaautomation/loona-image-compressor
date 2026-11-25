@@ -2,7 +2,7 @@
   "name": "Loona Перевірка контрасту",
   "short_name": "Перевірка контрасту",
   "description": "Перевіряйте кольори тексту й тла за WCAG: миттєвий коефіцієнт контрасту з перевіркою AA та AAA для звичайного й великого тексту плюс живий попередній перегляд. Безкоштовно, без реєстрації.",
-  "id": "/loona-image-compressor/uk/contrast-checker.html",
+  "id": "/uk/contrast-checker.html",
   "start_url": "./contrast-checker.html",
   "scope": "./contrast-checker.html",
   "display": "standalone",

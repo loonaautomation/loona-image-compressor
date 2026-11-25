@@ -2,7 +2,7 @@
   "name": "Loona JPG",
   "short_name": "JPG",
   "description": "Konvertáljon JPG-t PNG-vé online ingyen — veszteségmentes kimenet szerkesztőknek, tervezőeszközöknek és dokumentumoknak. A böngészőjében fut, regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/jpg-to-png.html",
+  "id": "/hu/jpg-to-png.html",
   "start_url": "./jpg-to-png.html",
   "scope": "./jpg-to-png.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do paszportu / wizy Brazylii",
   "short_name": "Rozmiar Zdjęcie do paszportu",
   "description": "Utwórz Zdjęcie do paszportu / wizy Brazylii w oficjalnym rozmiarze 50×70 mm (591×827 px), tło: gładkie białe. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/brazil-passport-photo-size.html",
+  "id": "/pl/brazil-passport-photo-size.html",
   "start_url": "./brazil-passport-photo-size.html",
   "scope": "./brazil-passport-photo-size.html",
   "display": "standalone",

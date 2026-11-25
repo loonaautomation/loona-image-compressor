@@ -2,7 +2,7 @@
   "name": "Loona Преоразмеряване на изображение до 2400 × 3000 px онлайн",
   "short_name": "Преоразмеряване на",
   "description": "Преоразмерете всяко изображение до точно 2400×3000 px — Печат 8 × 10 инча при 300 DPI. Безплатно във вашия браузър с контрол на изрязването; без качване, без регистрация.",
-  "id": "/loona-image-compressor/bg/resize-image-to-2400x3000.html",
+  "id": "/bg/resize-image-to-2400x3000.html",
   "start_url": "./resize-image-to-2400x3000.html",
   "scope": "./resize-image-to-2400x3000.html",
   "display": "standalone",

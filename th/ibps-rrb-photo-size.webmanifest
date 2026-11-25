@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายIBPS RRB (Gramin Bank)",
   "short_name": "ขนาดรูปถ่ายIBPS RRB (Gramin",
   "description": "ปรับขนาดรูปถ่ายIBPS RRB (Gramin Bank)ของคุณให้เป็นขนาดตามประกาศ (200 × 230 px) และช่วง 20–50 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/ibps-rrb-photo-size.html",
+  "id": "/th/ibps-rrb-photo-size.html",
   "start_url": "./ibps-rrb-photo-size.html",
   "scope": "./ibps-rrb-photo-size.html",
   "display": "standalone",

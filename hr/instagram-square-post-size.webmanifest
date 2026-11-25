@@ -2,7 +2,7 @@
   "name": "Loona Veličina Instagram Kvadratna objava (1",
   "short_name": "Veličina Instagram Kvadratna",
   "description": "Izradite Instagram kvadratna objava (1:1) na točno 1080×1080 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/instagram-square-post-size.html",
+  "id": "/hr/instagram-square-post-size.html",
   "start_url": "./instagram-square-post-size.html",
   "scope": "./instagram-square-post-size.html",
   "display": "standalone",

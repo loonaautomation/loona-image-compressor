@@ -2,7 +2,7 @@
   "name": "Loona Német útlevélfotó (biometrikus) méret",
   "short_name": "Német útlevélfotó",
   "description": "Készítsen Német útlevélfotó (biometrikus) fotót a hivatalos 35×45 mm (413×531 px) méretben, világosszürke, sima háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/germany-passport-photo-size.html",
+  "id": "/hu/germany-passport-photo-size.html",
   "start_url": "./germany-passport-photo-size.html",
   "scope": "./germany-passport-photo-size.html",
   "display": "standalone",

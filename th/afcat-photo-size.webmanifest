@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายAFCAT",
   "short_name": "ขนาดรูปถ่ายAFCAT",
   "description": "ปรับขนาดรูปถ่ายAFCATของคุณให้เป็นขนาดตามประกาศ (3.5 × 4.5 ซม. (ประมาณ 413 × 531 px ที่ 300 DPI)) และช่วง 10–50 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/afcat-photo-size.html",
+  "id": "/th/afcat-photo-size.html",
   "start_url": "./afcat-photo-size.html",
   "scope": "./afcat-photo-size.html",
   "display": "standalone",

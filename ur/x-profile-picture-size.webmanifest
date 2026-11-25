@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) پروفائل تصویر کا سائز",
   "short_name": "X (Twitter) پروفائل تصویر کا",
   "description": "X (Twitter) پروفائل تصویر بالکل 400×400 px پر بنائیں۔ آپ کے براؤزر میں مفت ری سائزر/کراپر، محفوظ زون کے قواعد کے ساتھ جو کراپ شدہ متن اور چہروں کو روکتے ہیں۔",
-  "id": "/loona-image-compressor/ur/x-profile-picture-size.html",
+  "id": "/ur/x-profile-picture-size.html",
   "start_url": "./x-profile-picture-size.html",
   "scope": "./x-profile-picture-size.html",
   "display": "standalone",

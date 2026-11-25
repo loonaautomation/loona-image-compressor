@@ -2,7 +2,7 @@
   "name": "Loona SSC MTS Photograph Size",
   "short_name": "SSC MTS Photograph Size",
   "description": "Resize your SSC MTS photo to the notification size (200 × 230 px) and 20–50 KB band. Free, in your browser — no upload, no signup.",
-  "id": "/loona-image-compressor/en-gb/ssc-mts-photo-size.html",
+  "id": "/en-gb/ssc-mts-photo-size.html",
   "start_url": "./ssc-mts-photo-size.html",
   "scope": "./ssc-mts-photo-size.html",
   "display": "standalone",

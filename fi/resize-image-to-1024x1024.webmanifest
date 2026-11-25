@@ -2,7 +2,7 @@
   "name": "Loona Muuta kuvan koko kokoon 1024 × 1024 px verkossa",
   "short_name": "Muuta kuvan koko kokoon 1024",
   "description": "Muuta minkä tahansa kuvan koko tarkalleen kokoon 1024×1024 px — Sovelluskuvakkeen ja tekoälykuvien standardineliö. Ilmaiseksi selaimessasi rajausohjauksella; ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/resize-image-to-1024x1024.html",
+  "id": "/fi/resize-image-to-1024x1024.html",
   "start_url": "./resize-image-to-1024x1024.html",
   "scope": "./resize-image-to-1024x1024.html",
   "display": "standalone",

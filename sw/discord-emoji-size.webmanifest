@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Emoji Maalum wa Discord",
   "short_name": "Ukubwa wa Emoji Maalum wa",
   "description": "Tengeneza emoji maalum ya Discord katika px 128×128 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/discord-emoji-size.html",
+  "id": "/sw/discord-emoji-size.html",
   "start_url": "./discord-emoji-size.html",
   "scope": "./discord-emoji-size.html",
   "display": "standalone",

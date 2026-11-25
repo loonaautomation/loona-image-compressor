@@ -2,7 +2,7 @@
   "name": "Loona Veľkosť SSC CHSL Podpis",
   "short_name": "Veľkosť SSC CHSL Podpis",
   "description": "Zmeňte veľkosť súboru SSC CHSL podpis na veľkosť podľa oznámenia (140 × 60 px) a pásmo 10–20 KB. Zadarmo, vo vašom prehliadači — bez nahrávania a bez registrácie.",
-  "id": "/loona-image-compressor/sk/ssc-chsl-signature-size.html",
+  "id": "/sk/ssc-chsl-signature-size.html",
   "start_url": "./ssc-chsl-signature-size.html",
   "scope": "./ssc-chsl-signature-size.html",
   "display": "standalone",

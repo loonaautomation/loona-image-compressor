@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Idea Pin / स्टोरी साइज़",
   "short_name": "Pinterest Idea Pin / स्टोरी",
   "description": "Pinterest idea pin / स्टोरी ठीक 1080×1920 px पर बनाएँ. आपके ब्राउज़र में मुफ़्त रीसाइज़र/क्रॉपर, उन सेफ़-ज़ोन नियमों के साथ जो क्रॉप हुए टेक्स्ट और चेहरों को रोकते हैं.",
-  "id": "/loona-image-compressor/hi/pinterest-idea-pin-size.html",
+  "id": "/hi/pinterest-idea-pin-size.html",
   "start_url": "./pinterest-idea-pin-size.html",
   "scope": "./pinterest-idea-pin-size.html",
   "display": "standalone",

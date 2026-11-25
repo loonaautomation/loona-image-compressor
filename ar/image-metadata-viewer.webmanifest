@@ -2,7 +2,7 @@
   "name": "Loona عارض بيانات الصور الوصفية & EXIF",
   "short_name": "عارض بيانات الصور الوصفية &",
   "description": "اعرض البيانات الوصفية المخبأة في أي صورة JPG أو PNG أو WebP عبر الإنترنت مجانًا — صانع الكاميرا وطرازها، تاريخ الالتقاط، التعرض، ISO، البعد البؤري، موقع GPS، أساسيات IPTC وXMP. لا شيء يُرفع: صورتك لا تغادر جهازك أبدًا.",
-  "id": "/loona-image-compressor/ar/image-metadata-viewer.html",
+  "id": "/ar/image-metadata-viewer.html",
   "start_url": "./image-metadata-viewer.html",
   "scope": "./image-metadata-viewer.html",
   "display": "standalone",

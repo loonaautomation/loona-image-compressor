@@ -2,7 +2,7 @@
   "name": "Loona حجم قصة Facebook",
   "short_name": "حجم قصة Facebook",
   "description": "اصنع قصة Facebook بمقاس 1080×1920 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/facebook-story-size.html",
+  "id": "/ar/facebook-story-size.html",
   "start_url": "./facebook-story-size.html",
   "scope": "./facebook-story-size.html",
   "display": "standalone",

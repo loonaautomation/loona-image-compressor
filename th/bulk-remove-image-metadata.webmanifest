@@ -2,7 +2,7 @@
   "name": "Loona ตัวลบเมทาดาทาเป็นชุด",
   "short_name": "ตัวลบเมทาดาทาเป็นชุด",
   "description": "ลบเมทาดาทา EXIF, GPS และ XMP จากรูปถ่ายหลายรูปพร้อมกัน — วางชุดไฟล์ JPG, PNG และ WebP ลบทั้งหมดในเบราว์เซอร์ของคุณและดาวน์โหลดทุกอย่างเป็น ZIP เดียว ฟรี เป็นส่วนตัว ไม่มีการอัปโหลด ไม่มีการเข้ารหัสใหม่",
-  "id": "/loona-image-compressor/th/bulk-remove-image-metadata.html",
+  "id": "/th/bulk-remove-image-metadata.html",
   "start_url": "./bulk-remove-image-metadata.html",
   "scope": "./bulk-remove-image-metadata.html",
   "display": "standalone",

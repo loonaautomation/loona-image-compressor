@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Visa Schengen",
   "short_name": "Ukuran Foto Visa Schengen",
   "description": "Buat Foto Visa Schengen pada ukuran resmi 35×45 mm (413×531 px), latar belakang abu-abu muda atau latar belakang terang polos. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/schengen-visa-photo-size.html",
+  "id": "/id/schengen-visa-photo-size.html",
   "start_url": "./schengen-visa-photo-size.html",
   "scope": "./schengen-visa-photo-size.html",
   "display": "standalone",

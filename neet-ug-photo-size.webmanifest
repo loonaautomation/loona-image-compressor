@@ -2,7 +2,7 @@
   "name": "Loona NEET UG Photograph Size",
   "short_name": "NEET UG Photograph Size",
   "description": "Resize your NEET UG photo to the notification size (3.5 × 4.5 cm (about 413 × 531 px at 300 DPI)) and 10–200 KB band. Free, in your browser — no upload, no signup.",
-  "id": "/loona-image-compressor/neet-ug-photo-size.html",
+  "id": "/neet-ug-photo-size.html",
   "start_url": "./neet-ug-photo-size.html",
   "scope": "./neet-ug-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Afbeeldingswatermerk",
   "short_name": "Afbeeldingswatermerk",
   "description": "Voeg gratis online een tekstwatermerk toe aan elke foto — kies de tekst, grootte, kleur, dekking en positie, of herhaal het als een betegeld patroon. Live voorbeeld, geen aanmelding, en je afbeelding verlaat je apparaat nooit.",
-  "id": "/loona-image-compressor/nl/image-watermark.html",
+  "id": "/nl/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

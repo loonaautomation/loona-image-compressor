@@ -2,7 +2,7 @@
   "name": "Loona Kata Picha Mtandaoni Bure",
   "short_name": "Kata Picha Mtandaoni Bure",
   "description": "Kata picha mtandaoni bure kwa uwiano tayari — 1:1, 4:3, 16:9 na pasipoti 35×45 — pamoja na zungusha na geuza. Pakua kata haswa kwa ubora kamili.",
-  "id": "/loona-image-compressor/sw/crop-image.html",
+  "id": "/sw/crop-image.html",
   "start_url": "./crop-image.html",
   "scope": "./crop-image.html",
   "display": "standalone",

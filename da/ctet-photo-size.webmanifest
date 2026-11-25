@@ -2,7 +2,7 @@
   "name": "Loona CTET Foto størrelse",
   "short_name": "CTET Foto størrelse",
   "description": "Tilpas størrelsen på dit CTET foto til meddelelsens størrelse (3.5 × 4.5 cm (cirka 413 × 531 px ved 300 DPI)) og båndet 10–100 KB. Gratis, i din browser — ingen upload, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/ctet-photo-size.html",
+  "id": "/da/ctet-photo-size.html",
   "start_url": "./ctet-photo-size.html",
   "scope": "./ctet-photo-size.html",
   "display": "standalone",

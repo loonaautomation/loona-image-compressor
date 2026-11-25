@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Pin lung / infografic Pinterest",
   "short_name": "Dimensiune Pin lung /",
   "description": "Creează un pin lung / infografic Pinterest la exact 1000×2100 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/pinterest-long-pin-size.html",
+  "id": "/ro/pinterest-long-pin-size.html",
   "start_url": "./pinterest-long-pin-size.html",
   "scope": "./pinterest-long-pin-size.html",
   "display": "standalone",

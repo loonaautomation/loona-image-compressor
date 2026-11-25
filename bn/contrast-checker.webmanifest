@@ -2,7 +2,7 @@
   "name": "Loona বৈপরীত্য পরীক্ষক",
   "short_name": "বৈপরীত্য পরীক্ষক",
   "description": "WCAG-এর বিপরীতে লেখা ও পটভূমির রঙ যাচাই করুন: সাধারণ ও বড় লেখার জন্য AA ও AAA পাস/ফেলসহ তাৎক্ষণিক বৈপরীত্য অনুপাত, পাশাপাশি একটি লাইভ প্রিভিউ। বিনামূল্যে, কোনো সাইনআপ নয়।",
-  "id": "/loona-image-compressor/bn/contrast-checker.html",
+  "id": "/bn/contrast-checker.html",
   "start_url": "./contrast-checker.html",
   "scope": "./contrast-checker.html",
   "display": "standalone",

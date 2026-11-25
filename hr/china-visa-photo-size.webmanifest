@@ -2,7 +2,7 @@
   "name": "Loona Veličina Fotografija za vizu Kine",
   "short_name": "Veličina Fotografija za vizu",
   "description": "Izradite Fotografija za vizu Kine u službenoj veličini 33×48 mm (390×567 px), pozadina jednobojna bijela. Besplatni mrežni izrađivač — izrežite, preuzmite i ispišite list, bez prijenosa.",
-  "id": "/loona-image-compressor/hr/china-visa-photo-size.html",
+  "id": "/hr/china-visa-photo-size.html",
   "start_url": "./china-visa-photo-size.html",
   "scope": "./china-visa-photo-size.html",
   "display": "standalone",

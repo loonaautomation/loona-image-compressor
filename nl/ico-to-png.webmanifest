@@ -2,7 +2,7 @@
   "name": "Loona ICO naar PNG Converter",
   "short_name": "ICO naar PNG Converter",
   "description": "Converteer ICO online en gratis naar PNG, in je browser. Echte conversie op je apparaat — geen upload, geen aanmelding, geen watermerken.",
-  "id": "/loona-image-compressor/nl/ico-to-png.html",
+  "id": "/nl/ico-to-png.html",
   "start_url": "./ico-to-png.html",
   "scope": "./ico-to-png.html",
   "display": "standalone",

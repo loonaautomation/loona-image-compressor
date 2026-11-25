@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) লিঙ্ক কার্ড ছবি আকার",
   "short_name": "X (Twitter) লিঙ্ক কার্ড ছবি",
   "description": "ঠিক 1200×628 px-এ একটি X (Twitter) লিঙ্ক কার্ড ছবি তৈরি করুন। আপনার ব্রাউজারে বিনামূল্যে রিসাইজার/ক্রপার, ক্রপ করা লেখা ও মুখ আটকায় এমন নিরাপদ-অঞ্চলের নিয়মসহ।",
-  "id": "/loona-image-compressor/bn/x-link-card-size.html",
+  "id": "/bn/x-link-card-size.html",
   "start_url": "./x-link-card-size.html",
   "scope": "./x-link-card-size.html",
   "display": "standalone",

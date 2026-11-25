@@ -2,7 +2,7 @@
   "name": "Loona Размер на Снимка за SSC MTS",
   "short_name": "Размер на Снимка за SSC MTS",
   "description": "Преоразмерете своя снимка за SSC MTS до размера от уведомлението (200 × 230 px) и диапазона 20–50 KB. Безплатно, във вашия браузър — без качване, без регистрация.",
-  "id": "/loona-image-compressor/bg/ssc-mts-photo-size.html",
+  "id": "/bg/ssc-mts-photo-size.html",
   "start_url": "./ssc-mts-photo-size.html",
   "scope": "./ssc-mts-photo-size.html",
   "display": "standalone",

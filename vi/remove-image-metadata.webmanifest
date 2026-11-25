@@ -2,7 +2,7 @@
   "name": "Loona Xóa siêu dữ liệu hình ảnh",
   "short_name": "Xóa siêu dữ liệu hình ảnh",
   "description": "Xóa siêu dữ liệu EXIF, vị trí GPS, XMP và IPTC khỏi ảnh JPG, PNG và WebP trực tuyến miễn phí. Loại bỏ ở cấp byte — pixel không bao giờ bị mã hóa lại, nên chất lượng không bị đụng tới. Được xác minh bằng lần quét lại, riêng tư 100% trong trình duyệt của bạn.",
-  "id": "/loona-image-compressor/vi/remove-image-metadata.html",
+  "id": "/vi/remove-image-metadata.html",
   "start_url": "./remove-image-metadata.html",
   "scope": "./remove-image-metadata.html",
   "display": "standalone",

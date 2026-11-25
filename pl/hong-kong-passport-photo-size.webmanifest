@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do paszportu Hongkongu",
   "short_name": "Rozmiar Zdjęcie do paszportu",
   "description": "Utwórz Zdjęcie do paszportu Hongkongu w oficjalnym rozmiarze 40×50 mm (472×591 px), tło: gładkie białe. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/hong-kong-passport-photo-size.html",
+  "id": "/pl/hong-kong-passport-photo-size.html",
   "start_url": "./hong-kong-passport-photo-size.html",
   "scope": "./hong-kong-passport-photo-size.html",
   "display": "standalone",

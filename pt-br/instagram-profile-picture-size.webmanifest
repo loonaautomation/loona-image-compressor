@@ -2,7 +2,7 @@
   "name": "Loona Tamanho de Fotografia de Perfil de",
   "short_name": "Tamanho de Fotografia de",
   "description": "Crie um elemento fotografia de perfil de Instagram com exatamente 1080×1080 px. Redimensionador/recortador gratuito no seu navegador, com as regras de zona segura que evitam textos e rostos cortados.",
-  "id": "/loona-image-compressor/pt-br/instagram-profile-picture-size.html",
+  "id": "/pt-br/instagram-profile-picture-size.html",
   "start_url": "./instagram-profile-picture-size.html",
   "scope": "./instagram-profile-picture-size.html",
   "display": "standalone",

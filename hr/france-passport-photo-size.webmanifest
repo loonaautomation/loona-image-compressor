@@ -2,7 +2,7 @@
   "name": "Loona Veličina Fotografija za putovnicu / osobnu iskaznicu Francuske",
   "short_name": "Veličina Fotografija za",
   "description": "Izradite Fotografija za putovnicu / osobnu iskaznicu Francuske u službenoj veličini 35×45 mm (413×531 px), pozadina jednobojna svijetlosiva ili svijetloplava. Besplatni mrežni izrađivač — izrežite, preuzmite i ispišite list, bez prijenosa.",
-  "id": "/loona-image-compressor/hr/france-passport-photo-size.html",
+  "id": "/hr/france-passport-photo-size.html",
   "start_url": "./france-passport-photo-size.html",
   "scope": "./france-passport-photo-size.html",
   "display": "standalone",

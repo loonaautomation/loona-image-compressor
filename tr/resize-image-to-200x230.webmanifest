@@ -2,7 +2,7 @@
   "name": "Loona Görüntüyü 200 × 230 px Boyutuna Çevrimiçi Getir — Ücretsiz",
   "short_name": "Görüntüyü 200 × 230 px Boyutuna Çevrimiçi Getir — Ücretsiz",
   "description": "Herhangi bir görüntüyü tam olarak 200×230 px boyutuna getirin — Hindistan&#x27;daki SSC/IBPS/SBI sınav fotoğrafı standardı. Kırpma kontrolüyle tarayıcınızda ücretsiz; yükleme yok, kayıt yok.",
-  "id": "/loona-image-compressor/tr/resize-image-to-200x230.html",
+  "id": "/tr/resize-image-to-200x230.html",
   "start_url": "./resize-image-to-200x230.html",
   "scope": "./resize-image-to-200x230.html",
   "display": "standalone",

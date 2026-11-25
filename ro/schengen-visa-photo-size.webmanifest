@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie pentru viza Schengen",
   "short_name": "Dimensiune Fotografie pentru",
   "description": "Creează un Fotografie pentru viza Schengen la dimensiunea oficială 35×45 mm (413×531 px), fundal gri deschis sau fundal deschis simplu. Creator online gratuit — decupează, descarcă și imprimă foaia, fără încărcare.",
-  "id": "/loona-image-compressor/ro/schengen-visa-photo-size.html",
+  "id": "/ro/schengen-visa-photo-size.html",
   "start_url": "./schengen-visa-photo-size.html",
   "scope": "./schengen-visa-photo-size.html",
   "display": "standalone",

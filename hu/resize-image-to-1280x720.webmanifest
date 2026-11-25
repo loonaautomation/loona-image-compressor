@@ -2,7 +2,7 @@
   "name": "Loona Kép átméretezése 1280 × 720 méretre",
   "short_name": "Kép átméretezése 1280 × 720",
   "description": "Méretezzen át bármilyen képet pontosan 1280 × 720 pixelre (YouTube-miniatűrök és HD-videó) ingyen. Befedés, befoglalás vagy nyújtás, JPG vagy PNG, azonnali letöltés — regisztráció nélkül, semmi feltöltve.",
-  "id": "/loona-image-compressor/hu/resize-image-to-1280x720.html",
+  "id": "/hu/resize-image-to-1280x720.html",
   "start_url": "./resize-image-to-1280x720.html",
   "scope": "./resize-image-to-1280x720.html",
   "display": "standalone",

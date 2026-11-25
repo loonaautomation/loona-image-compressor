@@ -2,7 +2,7 @@
   "name": "Loona Amerikanskt passfoto storlek",
   "short_name": "Amerikanskt passfoto storlek",
   "description": "Skapa ett Amerikanskt passfoto i den officiella storleken 51×51 mm (600×600 px), helvit bakgrund. Gratis onlineskapare — beskär, ladda ner och skriv ut ark, ingen uppladdning.",
-  "id": "/loona-image-compressor/sv/us-passport-photo-size.html",
+  "id": "/sv/us-passport-photo-size.html",
   "start_url": "./us-passport-photo-size.html",
   "scope": "./us-passport-photo-size.html",
   "display": "standalone",

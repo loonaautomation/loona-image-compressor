@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία UPSC NDA",
   "short_name": "Φωτογραφία UPSC NDA",
   "description": "Αλλάξτε το μέγεθος της φωτογραφία UPSC NDA στο μέγεθος της προκήρυξης (350 × 350 px) και στη ζώνη 20–300 KB. Δωρεάν, στο πρόγραμμα περιήγησής σας — χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/upsc-nda-photo-size.html",
+  "id": "/el/upsc-nda-photo-size.html",
   "start_url": "./upsc-nda-photo-size.html",
   "scope": "./upsc-nda-photo-size.html",
   "display": "standalone",

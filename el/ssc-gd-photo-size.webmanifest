@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία SSC GD Constable",
   "short_name": "Φωτογραφία SSC GD Constable",
   "description": "Αλλάξτε το μέγεθος της φωτογραφία SSC GD Constable στο μέγεθος της προκήρυξης (200 × 230 px) και στη ζώνη 20–50 KB. Δωρεάν, στο πρόγραμμα περιήγησής σας — χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/ssc-gd-photo-size.html",
+  "id": "/el/ssc-gd-photo-size.html",
   "start_url": "./ssc-gd-photo-size.html",
   "scope": "./ssc-gd-photo-size.html",
   "display": "standalone",

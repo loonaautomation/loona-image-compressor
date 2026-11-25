@@ -2,7 +2,7 @@
   "name": "Loona Размер на Снимка за AFCAT",
   "short_name": "Размер на Снимка за AFCAT",
   "description": "Преоразмерете своя снимка за AFCAT до размера от уведомлението (3.5 × 4.5 cm (около 413 × 531 px при 300 DPI)) и диапазона 10–50 KB. Безплатно, във вашия браузър — без качване, без регистрация.",
-  "id": "/loona-image-compressor/bg/afcat-photo-size.html",
+  "id": "/bg/afcat-photo-size.html",
   "start_url": "./afcat-photo-size.html",
   "scope": "./afcat-photo-size.html",
   "display": "standalone",

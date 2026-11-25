@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Tanda Tangan RBI Assistant",
   "short_name": "Ukuran Tanda Tangan RBI",
   "description": "Ubah ukuran tanda tangan RBI Assistant Anda ke ukuran pemberitahuan (140 × 60 px) dan rentang 10–20 KB. Gratis, di browser Anda — tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/rbi-assistant-signature-size.html",
+  "id": "/id/rbi-assistant-signature-size.html",
   "start_url": "./rbi-assistant-signature-size.html",
   "scope": "./rbi-assistant-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tanda Air Gambar",
   "short_name": "Tanda Air Gambar",
   "description": "Tambahkan tanda air teks ke foto mana pun secara online gratis — pilih teks, ukuran, warna, opasitas, dan posisi, atau ulangi sebagai pola ubin. Pratinjau langsung, tanpa pendaftaran, dan gambar Anda tidak pernah meninggalkan perangkat Anda.",
-  "id": "/loona-image-compressor/id/image-watermark.html",
+  "id": "/id/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona PNG تا WebP کنورٹر",
   "short_name": "PNG تا WebP کنورٹر",
   "description": "PNG کو WebP میں آن لائن مفت تبدیل کریں — کہیں چھوٹی فائلیں جو شفافیت برقرار رکھتی ہیں، ویب سائٹس کے لیے بہترین۔ نہ سائن اپ، نہ اپ لوڈ، آپ کے براؤزر میں چلتا ہے۔",
-  "id": "/loona-image-compressor/ur/png-to-webp.html",
+  "id": "/ur/png-to-webp.html",
   "start_url": "./png-to-webp.html",
   "scope": "./png-to-webp.html",
   "display": "standalone",

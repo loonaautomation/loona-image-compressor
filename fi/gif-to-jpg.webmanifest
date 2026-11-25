@@ -2,7 +2,7 @@
   "name": "Loona GIF-JPG-muunnin",
   "short_name": "GIF-JPG-muunnin",
   "description": "Muunna GIF JPG:ksi verkossa ilmaiseksi — muuta GIF pieneksi, universaaliksi JPG-pysäytyskuvaksi. Selaimessasi: ei rekisteröitymistä, ei latausta palvelimelle, ei vesileimaa.",
-  "id": "/loona-image-compressor/fi/gif-to-jpg.html",
+  "id": "/fi/gif-to-jpg.html",
   "start_url": "./gif-to-jpg.html",
   "scope": "./gif-to-jpg.html",
   "display": "standalone",

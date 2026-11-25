@@ -2,7 +2,7 @@
   "name": "Loona Ändra bildstorlek till 2400 × 3000 px online",
   "short_name": "Ändra bildstorlek till 2400 ×",
   "description": "Ändra storlek på valfri bild till exakt 2400×3000 px — Utskrift på 8 × 10 tum vid 300 DPI. Gratis i din webbläsare med beskärningskontroll; ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/resize-image-to-2400x3000.html",
+  "id": "/sv/resize-image-to-2400x3000.html",
   "start_url": "./resize-image-to-2400x3000.html",
   "scope": "./resize-image-to-2400x3000.html",
   "display": "standalone",

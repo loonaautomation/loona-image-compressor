@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie UPSC NDA",
   "short_name": "Dimensiune Fotografie UPSC NDA",
   "description": "Redimensionează fotografie pentru UPSC NDA la dimensiunea din notificare (350 × 350 px) și intervalul 20–300 KB. Gratuit, în browserul tău — fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/upsc-nda-photo-size.html",
+  "id": "/ro/upsc-nda-photo-size.html",
   "start_url": "./upsc-nda-photo-size.html",
   "scope": "./upsc-nda-photo-size.html",
   "display": "standalone",

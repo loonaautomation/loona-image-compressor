@@ -2,7 +2,7 @@
   "name": "Loona Compress Image to 40 KB Online",
   "short_name": "Compress Image to 40 KB Online",
   "description": "Compress JPG, PNG and WebP images to 40 KB or under, online and free. Automatic quality and size search in your browser — no signup, no upload.",
-  "id": "/loona-image-compressor/compress-image-to-40kb.html",
+  "id": "/compress-image-to-40kb.html",
   "start_url": "./compress-image-to-40kb.html",
   "scope": "./compress-image-to-40kb.html",
   "display": "standalone",

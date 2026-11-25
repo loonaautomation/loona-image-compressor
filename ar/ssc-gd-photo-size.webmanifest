@@ -2,7 +2,7 @@
   "name": "Loona حجم الصورة الفوتوغرافية SSC GD Constable",
   "short_name": "حجم الصورة الفوتوغرافية SSC",
   "description": "غيّر حجم الصورة الخاص بك لامتحان SSC GD Constable إلى حجم الإشعار (200 × 230 px) ونطاق 20–50 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/ssc-gd-photo-size.html",
+  "id": "/ar/ssc-gd-photo-size.html",
   "start_url": "./ssc-gd-photo-size.html",
   "scope": "./ssc-gd-photo-size.html",
   "display": "standalone",

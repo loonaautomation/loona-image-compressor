@@ -2,7 +2,7 @@
   "name": "Loona Japanin passikuva koko",
   "short_name": "Japanin passikuva koko",
   "description": "Tee Japanin passikuva virallisessa koossa 35×45 mm (413×531 px), taustana tavallinen valkoinen tai vaalea, ei kuvioita. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/japan-passport-photo-size.html",
+  "id": "/fi/japan-passport-photo-size.html",
   "start_url": "./japan-passport-photo-size.html",
   "scope": "./japan-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Velikost YouTube Obrázek příspěvku v komunitě",
   "short_name": "Velikost YouTube Obrázek",
   "description": "Vytvořte YouTube obrázek příspěvku v komunitě přesně 1080×1080 px. Bezplatný nástroj na změnu velikosti/ořez ve vašem prohlížeči s pravidly bezpečné zóny, která zabrání oříznutí textu a obličejů.",
-  "id": "/loona-image-compressor/cs/youtube-community-post-size.html",
+  "id": "/cs/youtube-community-post-size.html",
   "start_url": "./youtube-community-post-size.html",
   "scope": "./youtube-community-post-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ảnh hộ chiếu Úc",
   "short_name": "Kích thước Ảnh hộ chiếu Úc",
   "description": "Tạo Ảnh hộ chiếu Úc ở kích thước chính thức 35×45 mm (413×531 px), nền trắng trơn hoặc xám nhạt. Công cụ tạo ảnh trực tuyến miễn phí — cắt, tải xuống và in tờ in, không tải lên.",
-  "id": "/loona-image-compressor/vi/australia-passport-photo-size.html",
+  "id": "/vi/australia-passport-photo-size.html",
   "start_url": "./australia-passport-photo-size.html",
   "scope": "./australia-passport-photo-size.html",
   "display": "standalone",

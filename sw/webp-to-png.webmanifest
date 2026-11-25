@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha WebP kuwa PNG",
   "short_name": "Kibadilishaji cha WebP kuwa",
   "description": "Badilisha WebP kuwa PNG mtandaoni bure — PNG isiyo na upotezaji yenye uwazi kwa wahariri na zana za usanifu. Huendeshwa kwenye kivinjari chako, bila kujisajili, bila kupakia.",
-  "id": "/loona-image-compressor/sw/webp-to-png.html",
+  "id": "/sw/webp-to-png.html",
   "start_url": "./webp-to-png.html",
   "scope": "./webp-to-png.html",
   "display": "standalone",

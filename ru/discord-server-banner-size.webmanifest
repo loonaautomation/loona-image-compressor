@@ -2,7 +2,7 @@
   "name": "Loona Размер Баннер сервера для Discord",
   "short_name": "Размер Баннер сервера для Discord",
   "description": "Make a Discord server banner at exactly 960×540 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/discord-server-banner-size.html",
+  "id": "/discord-server-banner-size.html",
   "start_url": "./discord-server-banner-size.html",
   "scope": "./discord-server-banner-size.html",
   "display": "standalone",

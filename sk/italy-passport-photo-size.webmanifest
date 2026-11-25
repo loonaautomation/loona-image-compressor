@@ -2,7 +2,7 @@
   "name": "Loona Veľkosť Pasová fotografia Talianska",
   "short_name": "Veľkosť Pasová fotografia",
   "description": "Vytvorte Pasová fotografia Talianska v oficiálnej veľkosti 35×40 mm (413×472 px), pozadie: jednofarebné biele alebo svetlé. Bezplatný online tvorca — orezanie, stiahnutie a tlačový hárok, bez nahrávania.",
-  "id": "/loona-image-compressor/sk/italy-passport-photo-size.html",
+  "id": "/sk/italy-passport-photo-size.html",
   "start_url": "./italy-passport-photo-size.html",
   "scope": "./italy-passport-photo-size.html",
   "display": "standalone",

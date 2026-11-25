@@ -2,7 +2,7 @@
   "name": "Loona Розмір Обкладинка / кадр Shorts YouTube",
   "short_name": "Розмір Обкладинка / кадр",
   "description": "Зробіть обкладинка / кадр shorts для YouTube рівно 1080×1920 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/youtube-shorts-size.html",
+  "id": "/uk/youtube-shorts-size.html",
   "start_url": "./youtube-shorts-size.html",
   "scope": "./youtube-shorts-size.html",
   "display": "standalone",

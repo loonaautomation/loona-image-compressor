@@ -2,7 +2,7 @@
   "name": "Loona حجم الصورة الفوتوغرافية AFCAT",
   "short_name": "حجم الصورة الفوتوغرافية AFCAT",
   "description": "غيّر حجم الصورة الخاص بك لامتحان AFCAT إلى حجم الإشعار (3.5 × 4.5 cm (نحو 413 × 531 px عند 300 DPI)) ونطاق 10–50 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/afcat-photo-size.html",
+  "id": "/ar/afcat-photo-size.html",
   "start_url": "./afcat-photo-size.html",
   "scope": "./afcat-photo-size.html",
   "display": "standalone",

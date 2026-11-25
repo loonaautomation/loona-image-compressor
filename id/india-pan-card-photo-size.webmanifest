@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Kartu PAN India",
   "short_name": "Ukuran Foto Kartu PAN India",
   "description": "Buat Foto Kartu PAN India pada ukuran resmi 25×35 mm (295×413 px), latar belakang putih polos. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/india-pan-card-photo-size.html",
+  "id": "/id/india-pan-card-photo-size.html",
   "start_url": "./india-pan-card-photo-size.html",
   "scope": "./india-pan-card-photo-size.html",
   "display": "standalone",

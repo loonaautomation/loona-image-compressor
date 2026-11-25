@@ -2,7 +2,7 @@
   "name": "Loona 日本パスポート写真のサイズ",
   "short_name": "日本パスポート写真のサイズ",
   "description": "公式サイズ35×45 mm（413×531 px）、無地の白または明るい色、模様なしの背景で日本パスポート写真を作成できます。無料のオンライン作成ツール — 切り取り、ダウンロード、印刷シートまで、アップロード不要です。",
-  "id": "/loona-image-compressor/ja/japan-passport-photo-size.html",
+  "id": "/ja/japan-passport-photo-size.html",
   "start_url": "./japan-passport-photo-size.html",
   "scope": "./japan-passport-photo-size.html",
   "display": "standalone",

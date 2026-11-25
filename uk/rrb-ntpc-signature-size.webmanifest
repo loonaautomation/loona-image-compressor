@@ -2,7 +2,7 @@
   "name": "Loona Розмір Підпис RRB NTPC (Railways)",
   "short_name": "Розмір Підпис RRB NTPC",
   "description": "Змініть розмір вашого підпис для RRB NTPC (Railways) до розміру з повідомлення (140 × 60 px) і діапазону 10–40 KB. Безкоштовно, у вашому браузері — без передавання, без реєстрації.",
-  "id": "/loona-image-compressor/uk/rrb-ntpc-signature-size.html",
+  "id": "/uk/rrb-ntpc-signature-size.html",
   "start_url": "./rrb-ntpc-signature-size.html",
   "scope": "./rrb-ntpc-signature-size.html",
   "display": "standalone",

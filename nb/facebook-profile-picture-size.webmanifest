@@ -2,7 +2,7 @@
   "name": "Loona Facebook Profilbilde-størrelse",
   "short_name": "Facebook Profilbilde-størrelse",
   "description": "Lag en Facebook profilbilde med nøyaktig 720×720 px. Gratis størrelsesendrer/beskjærer i nettleseren din med reglene for sikre soner som stopper beskåret tekst og ansikter.",
-  "id": "/loona-image-compressor/nb/facebook-profile-picture-size.html",
+  "id": "/nb/facebook-profile-picture-size.html",
   "start_url": "./facebook-profile-picture-size.html",
   "scope": "./facebook-profile-picture-size.html",
   "display": "standalone",

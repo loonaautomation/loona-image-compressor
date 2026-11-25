@@ -2,7 +2,7 @@
   "name": "Loona Formaat Pinterest Bordomslag",
   "short_name": "Formaat Pinterest Bordomslag",
   "description": "Maak een Pinterest bordomslag op precies 800×450 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/pinterest-board-cover-size.html",
+  "id": "/nl/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",
   "scope": "./pinterest-board-cover-size.html",
   "display": "standalone",

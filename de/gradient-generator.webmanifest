@@ -2,7 +2,7 @@
   "name": "Loona CSS-Verlauf-Generator",
   "short_name": "CSS-Verlauf-Generator",
   "description": "Bauen Sie CSS-lineare Verläufe mit zwei oder drei Farben und beliebigem Winkel, sehen Sie sie live in der Vorschau und kopieren Sie den fertigen CSS-Code. Kostenlos, ohne Anmeldung.",
-  "id": "/loona-image-compressor/de/gradient-generator.html",
+  "id": "/de/gradient-generator.html",
   "start_url": "./gradient-generator.html",
   "scope": "./gradient-generator.html",
   "display": "standalone",

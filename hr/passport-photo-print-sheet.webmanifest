@@ -2,7 +2,7 @@
   "name": "Loona List za ispis fotografija za putovnicu",
   "short_name": "List za ispis fotografija za",
   "description": "Stavite 4, 6 ili 8 fotografija za putovnicu na jedan A4 list za ispis besplatno pri 300 DPI. Ispišite na 100%, režite po vodilicama i uštedite novac za studio. Bez registracije, potpuno privatno.",
-  "id": "/loona-image-compressor/hr/passport-photo-print-sheet.html",
+  "id": "/hr/passport-photo-print-sheet.html",
   "start_url": "./passport-photo-print-sheet.html",
   "scope": "./passport-photo-print-sheet.html",
   "display": "standalone",

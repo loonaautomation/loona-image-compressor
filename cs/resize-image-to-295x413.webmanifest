@@ -2,7 +2,7 @@
   "name": "Loona Změnit velikost obrázku na 295 × 413 px online",
   "short_name": "Změnit velikost obrázku na",
   "description": "Změňte velikost libovolného obrázku přesně na 295×413 px — 25 × 35 mm při 300 DPI — velikost karty PAN v Indii. Zdarma ve vašem prohlížeči s ovládáním ořezu; bez nahrávání a bez registrace.",
-  "id": "/loona-image-compressor/cs/resize-image-to-295x413.html",
+  "id": "/cs/resize-image-to-295x413.html",
   "start_url": "./resize-image-to-295x413.html",
   "scope": "./resize-image-to-295x413.html",
   "display": "standalone",

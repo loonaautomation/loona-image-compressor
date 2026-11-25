@@ -2,7 +2,7 @@
   "name": "Loona Veličina YouTube Banner kanala",
   "short_name": "Veličina YouTube Banner kanala",
   "description": "Izradite YouTube banner kanala na točno 2560×1440 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/youtube-banner-size.html",
+  "id": "/hr/youtube-banner-size.html",
   "start_url": "./youtube-banner-size.html",
   "scope": "./youtube-banner-size.html",
   "display": "standalone",

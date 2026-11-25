@@ -2,7 +2,7 @@
   "name": "Loona Tamanho de Assinatura de GATE",
   "short_name": "Tamanho de Assinatura de GATE",
   "description": "Redimensione a sua assinatura de GATE para o tamanho do aviso oficial (caixa digitalizada, proporção de cerca de 7:2) e o intervalo de 3–100 KB. Grátis, no seu navegador — sem envios e sem registo.",
-  "id": "/loona-image-compressor/pt-pt/gate-signature-size.html",
+  "id": "/pt-pt/gate-signature-size.html",
   "start_url": "./gate-signature-size.html",
   "scope": "./gate-signature-size.html",
   "display": "standalone",

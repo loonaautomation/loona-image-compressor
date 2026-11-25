@@ -2,7 +2,7 @@
   "name": "Loona Conversor de JPG para WebP",
   "short_name": "Conversor de JPG para WebP",
   "description": "Converta JPG para WebP online gratuitamente e encolha as imagens do site em 25–40% com a mesma qualidade. No seu navegador — sem registro, sem envios e sem marca de água.",
-  "id": "/loona-image-compressor/pt-br/jpg-to-webp.html",
+  "id": "/pt-br/jpg-to-webp.html",
   "start_url": "./jpg-to-webp.html",
   "scope": "./jpg-to-webp.html",
   "display": "standalone",

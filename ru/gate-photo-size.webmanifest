@@ -2,7 +2,7 @@
   "name": "Loona Размер Фотография для GATE",
   "short_name": "Размер Фотография для GATE",
   "description": "Resize your GATE photo to the notification size (480 × 640 px) and 5–200 KB band. Free, in your browser — no upload, no signup.",
-  "id": "/loona-image-compressor/gate-photo-size.html",
+  "id": "/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

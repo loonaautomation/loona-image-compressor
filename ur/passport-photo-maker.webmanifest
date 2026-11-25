@@ -2,7 +2,7 @@
   "name": "Loona پاسپورٹ سائز تصویر میکر",
   "short_name": "پاسپورٹ سائز تصویر میکر",
   "description": "پاسپورٹ سائز تصویر آن لائن مفت بنائیں: کسی بھی تصویر کو 35×45 mm یا 2×2 انچ پر کراپ کریں، پرنٹ کے لیے تیار 300 DPI پر۔ نہ سائن اپ، نہ واٹر مارک، مکمل نجی۔",
-  "id": "/loona-image-compressor/ur/passport-photo-maker.html",
+  "id": "/ur/passport-photo-maker.html",
   "start_url": "./passport-photo-maker.html",
   "scope": "./passport-photo-maker.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Komprimirajte PNG na 75 KB na mreži",
   "short_name": "Komprimirajte PNG na 75 KB na",
   "description": "Komprimirajte sliku PNG na 75 KB ili manje, besplatno u svom pregledniku. Automatsko pretraživanje pronalazi najbolju kvalitetu koja stane — bez registracije, bez prijenosa.",
-  "id": "/loona-image-compressor/hr/compress-png-to-75kb.html",
+  "id": "/hr/compress-png-to-75kb.html",
   "start_url": "./compress-png-to-75kb.html",
   "scope": "./compress-png-to-75kb.html",
   "display": "standalone",

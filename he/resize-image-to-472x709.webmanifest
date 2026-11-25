@@ -2,7 +2,7 @@
   "name": "Loona שינוי גודל תמונה ל־472 × 709 px באינטרנט",
   "short_name": "שינוי גודל תמונה ל־472 × 709",
   "description": "שנו גודל של כל תמונה בדיוק ל־472×709 px — 40 × 60 מ&quot;מ ב־300 DPI — גודל תמונה איחוד האמירויות/ערב הסעודית/מצרים/וייטנאם. בחינם בדפדפן שלכם עם בקרת חיתוך; ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/resize-image-to-472x709.html",
+  "id": "/he/resize-image-to-472x709.html",
   "start_url": "./resize-image-to-472x709.html",
   "scope": "./resize-image-to-472x709.html",
   "display": "standalone",

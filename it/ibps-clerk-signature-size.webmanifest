@@ -2,7 +2,7 @@
   "name": "Loona Formato Firma IBPS Clerk (CSA)",
   "short_name": "Formato Firma IBPS Clerk (CSA)",
   "description": "Ridimensiona la tua firma IBPS Clerk (CSA) al formato previsto dal bando (140 × 60 px) e all&#x27;intervallo 10–20 KB. Gratis, nel tuo browser: senza caricamenti e senza registrazione.",
-  "id": "/loona-image-compressor/it/ibps-clerk-signature-size.html",
+  "id": "/it/ibps-clerk-signature-size.html",
   "start_url": "./ibps-clerk-signature-size.html",
   "scope": "./ibps-clerk-signature-size.html",
   "display": "standalone",

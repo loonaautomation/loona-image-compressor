@@ -2,7 +2,7 @@
   "name": "Loona GATE Underskrift størrelse",
   "short_name": "GATE Underskrift størrelse",
   "description": "Tilpas størrelsen på dit GATE underskrift til meddelelsens størrelse (scannet felt, forhold cirka 7:2) og båndet 3–100 KB. Gratis, i din browser — ingen upload, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/gate-signature-size.html",
+  "id": "/da/gate-signature-size.html",
   "start_url": "./gate-signature-size.html",
   "scope": "./gate-signature-size.html",
   "display": "standalone",

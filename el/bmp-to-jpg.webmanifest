@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας BMP σε JPG",
   "short_name": "Μετατροπέας BMP σε JPG",
   "description": "Μετατρέψτε BMP σε JPG διαδικτυακά δωρεάν και συρρικνώστε τεράστια ασυμπίεστα bitmap κατά 90% ή περισσότερο. Στο πρόγραμμα περιήγησής σας — χωρίς εγγραφή, χωρίς μεταφόρτωση, χωρίς υδατογράφημα.",
-  "id": "/loona-image-compressor/el/bmp-to-jpg.html",
+  "id": "/el/bmp-to-jpg.html",
   "start_url": "./bmp-to-jpg.html",
   "scope": "./bmp-to-jpg.html",
   "display": "standalone",

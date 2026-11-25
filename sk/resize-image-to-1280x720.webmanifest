@@ -2,7 +2,7 @@
   "name": "Loona Zmeniť veľkosť obrázka na 1280 × 720",
   "short_name": "Zmeniť veľkosť obrázka na",
   "description": "Zmeňte veľkosť akéhokoľvek obrázka presne na 1280 × 720 pixelov (YouTube thumbnails and HD video) zadarmo. Pokrytie, prispôsobenie dovnútra alebo roztiahnutie, JPG alebo PNG, okamžité stiahnutie — bez registrácie, nič sa nenahráva.",
-  "id": "/loona-image-compressor/sk/resize-image-to-1280x720.html",
+  "id": "/sk/resize-image-to-1280x720.html",
   "start_url": "./resize-image-to-1280x720.html",
   "scope": "./resize-image-to-1280x720.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 在线免费裁剪图片",
   "short_name": "在线免费裁剪图片",
   "description": "免费在线裁剪图片，带现成的比例 — 1:1、4:3、16:9 和护照 35×45 — 外加旋转和翻转。以全分辨率下载确切的裁剪。",
-  "id": "/loona-image-compressor/zh/crop-image.html",
+  "id": "/zh/crop-image.html",
   "start_url": "./crop-image.html",
   "scope": "./crop-image.html",
   "display": "standalone",

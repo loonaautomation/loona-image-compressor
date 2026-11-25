@@ -2,7 +2,7 @@
   "name": "Loona รูปถ่ายสอบพร้อมชื่อ &amp; วันที่",
   "short_name": "รูปถ่ายสอบพร้อมชื่อ &amp;",
   "description": "สร้างรูปถ่ายสอบโดยมีชื่อและวันที่ของคุณพิมพ์ที่ด้านล่างฟรี — รูปแบบการสอบบอร์ดที่ใช้ในปากีสถานและอินเดีย เป็นส่วนตัว ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/exam-photo-name-date.html",
+  "id": "/th/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

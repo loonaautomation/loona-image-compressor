@@ -2,7 +2,7 @@
   "name": "Loona Fotoformaat Standaard pasfoto ICAO (35×45 mm)",
   "short_name": "Fotoformaat Standaard pasfoto",
   "description": "Maak een Standaard pasfoto ICAO (35×45 mm) op het officiële formaat 35×45 mm (413×531 px), achtergrond: effen lichte achtergrond. Gratis online maker — bijsnijden, downloaden en printvel, geen upload.",
-  "id": "/loona-image-compressor/nl/icao-passport-photo-size.html",
+  "id": "/nl/icao-passport-photo-size.html",
   "start_url": "./icao-passport-photo-size.html",
   "scope": "./icao-passport-photo-size.html",
   "display": "standalone",

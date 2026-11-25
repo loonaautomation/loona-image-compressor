@@ -2,7 +2,7 @@
   "name": "Loona محوّل ICO إلى PNG",
   "short_name": "محوّل ICO إلى PNG",
   "description": "حوّل ICO إلى PNG عبر الإنترنت، مجاناً، في متصفحك. تحويل حقيقي على جهازك — بلا رفع، بلا تسجيل، بلا علامات مائية.",
-  "id": "/loona-image-compressor/ar/ico-to-png.html",
+  "id": "/ar/ico-to-png.html",
   "start_url": "./ico-to-png.html",
   "scope": "./ico-to-png.html",
   "display": "standalone",

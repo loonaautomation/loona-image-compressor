@@ -2,7 +2,7 @@
   "name": "Loona محوّل AVIF إلى PNG",
   "short_name": "محوّل AVIF إلى PNG",
   "description": "حوّل AVIF إلى PNG عبر الإنترنت، مجاناً، في متصفحك. تحويل حقيقي على جهازك — بلا رفع، بلا تسجيل، بلا علامات مائية.",
-  "id": "/loona-image-compressor/ar/avif-to-png.html",
+  "id": "/ar/avif-to-png.html",
   "start_url": "./avif-to-png.html",
   "scope": "./avif-to-png.html",
   "display": "standalone",

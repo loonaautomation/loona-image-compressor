@@ -2,7 +2,7 @@
   "name": "Loona Tyrkisk pas- / visumfoto (biometrisk) størrelse",
   "short_name": "Tyrkisk pas- / visumfoto",
   "description": "Lav et Tyrkisk pas- / visumfoto (biometrisk) i den officielle størrelse 50×60 mm (591×709 px), ensfarvet hvid baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
-  "id": "/loona-image-compressor/da/turkey-passport-photo-size.html",
+  "id": "/da/turkey-passport-photo-size.html",
   "start_url": "./turkey-passport-photo-size.html",
   "scope": "./turkey-passport-photo-size.html",
   "display": "standalone",

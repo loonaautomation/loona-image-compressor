@@ -2,7 +2,7 @@
   "name": "Loona SSC CHSL İmza Boyutu — 140 × 60 px, 10–20 KB",
   "short_name": "SSC CHSL İmza Boyutu — 140 × 60 px, 10–20 KB",
   "description": "SSC CHSL imza belgenizi duyuru boyutuna (140 × 60 px) ve 10–20 KB bandına getirin. Ücretsiz, tarayıcınızda — yükleme yok, kayıt yok.",
-  "id": "/loona-image-compressor/tr/ssc-chsl-signature-size.html",
+  "id": "/tr/ssc-chsl-signature-size.html",
   "start_url": "./ssc-chsl-signature-size.html",
   "scope": "./ssc-chsl-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tilpas billedstørrelse til 1200 × 1800 px online",
   "short_name": "Tilpas billedstørrelse til",
   "description": "Tilpas ethvert billede til præcis 1200×1800 px — 4 × 6 tommer fotoprint ved 300 DPI. Gratis i din browser med beskæringskontrol; ingen upload, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/resize-image-to-1200x1800.html",
+  "id": "/da/resize-image-to-1200x1800.html",
   "start_url": "./resize-image-to-1200x1800.html",
   "scope": "./resize-image-to-1200x1800.html",
   "display": "standalone",

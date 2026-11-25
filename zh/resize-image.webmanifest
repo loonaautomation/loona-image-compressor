@@ -2,7 +2,7 @@
   "name": "Loona 调整图片大小",
   "short_name": "调整图片大小",
   "description": "免费使用 DPI 设置按像素、厘米或英寸调整任何图片大小。保持宽高比，选择 JPG、PNG 或 WebP 并即时下载 — 无需注册。",
-  "id": "/loona-image-compressor/zh/resize-image.html",
+  "id": "/zh/resize-image.html",
   "start_url": "./resize-image.html",
   "scope": "./resize-image.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona SSC GD Constable Underskrift størrelse",
   "short_name": "SSC GD Constable Underskrift",
   "description": "Tilpas størrelsen på dit SSC GD Constable underskrift til meddelelsens størrelse (140 × 60 px) og båndet 10–20 KB. Gratis, i din browser — ingen upload, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/ssc-gd-signature-size.html",
+  "id": "/da/ssc-gd-signature-size.html",
   "start_url": "./ssc-gd-signature-size.html",
   "scope": "./ssc-gd-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Comprimă JPG la 10 KB online",
   "short_name": "Comprimă JPG la 10 KB online",
   "description": "Comprimă o imagine JPG la 10 KB sau mai puțin, gratuit în browserul tău. Căutarea automată găsește cea mai bună calitate care încape — fără înregistrare, fără încărcare.",
-  "id": "/loona-image-compressor/ro/compress-jpg-to-10kb.html",
+  "id": "/ro/compress-jpg-to-10kb.html",
   "start_url": "./compress-jpg-to-10kb.html",
   "scope": "./compress-jpg-to-10kb.html",
   "display": "standalone",

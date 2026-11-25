@@ -2,7 +2,7 @@
   "name": "Loona فلاتر الصور & إصلاح",
   "short_name": "فلاتر الصور & إصلاح",
   "description": "أصلح الصور عبر الإنترنت مجانًا: عدّل السطوع والتباين والتشبع، اشحذ بنقرة واحدة واستخدم إعدادات مسبقة جاهزة مثل إصلاح جواز السفر وزاهٍ.",
-  "id": "/loona-image-compressor/ar/photo-filters-editor.html",
+  "id": "/ar/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Video to GIF Converter",
   "short_name": "Video to GIF Converter",
   "description": "המירו וידאו ל־GIF באינטרנט בחינם — הפכו קליפ MP4 או WebM ל־GIF מונפש. מבוסס דפדפן, ללא הרשמה, ללא העלאה, ללא סימן מים.",
-  "id": "/loona-image-compressor/he/video-to-gif.html",
+  "id": "/he/video-to-gif.html",
   "start_url": "./video-to-gif.html",
   "scope": "./video-to-gif.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปโปรไฟล์ Instagram",
   "short_name": "ขนาดรูปโปรไฟล์ Instagram",
   "description": "ทำรูปโปรไฟล์ Instagram ที่ขนาด 1080×1080 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/instagram-profile-picture-size.html",
+  "id": "/th/instagram-profile-picture-size.html",
   "start_url": "./instagram-profile-picture-size.html",
   "scope": "./instagram-profile-picture-size.html",
   "display": "standalone",

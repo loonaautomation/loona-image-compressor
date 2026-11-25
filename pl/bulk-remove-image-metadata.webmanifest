@@ -2,7 +2,7 @@
   "name": "Loona Wsadowe usuwanie metadanych",
   "short_name": "Wsadowe usuwanie metadanych",
   "description": "Usuwaj metadane EXIF, GPS i XMP z wielu zdjęć naraz — upuść wsad plików JPG, PNG i WebP, wyczyść je wszystkie w przeglądarce i pobierz wszystko jako jeden ZIP. Za darmo, prywatnie, bez przesyłania, bez ponownego kodowania.",
-  "id": "/loona-image-compressor/pl/bulk-remove-image-metadata.html",
+  "id": "/pl/bulk-remove-image-metadata.html",
   "start_url": "./bulk-remove-image-metadata.html",
   "scope": "./bulk-remove-image-metadata.html",
   "display": "standalone",

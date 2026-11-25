@@ -2,7 +2,7 @@
   "name": "Loona JPGからWebPへの変換ツール",
   "short_name": "JPGからWebPへの変換ツール",
   "description": "JPGをオンラインで無料でWebPに変換し、ウェブサイトの画像を同じ画質で25–40%縮小できます。ブラウザで — 登録不要、アップロード不要、透かしなし。",
-  "id": "/loona-image-compressor/ja/jpg-to-webp.html",
+  "id": "/ja/jpg-to-webp.html",
   "start_url": "./jpg-to-webp.html",
   "scope": "./jpg-to-webp.html",
   "display": "standalone",

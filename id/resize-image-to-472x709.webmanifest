@@ -2,7 +2,7 @@
   "name": "Loona Ubah Ukuran Gambar ke 472 × 709 px Online",
   "short_name": "Ubah Ukuran Gambar ke 472 ×",
   "description": "Ubah ukuran gambar apa pun tepat ke 472×709 px — 40 × 60 mm pada 300 DPI — ukuran foto UEA/Saudi/Mesir/Vietnam. Gratis di browser Anda dengan kontrol potong; tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/resize-image-to-472x709.html",
+  "id": "/id/resize-image-to-472x709.html",
   "start_url": "./resize-image-to-472x709.html",
   "scope": "./resize-image-to-472x709.html",
   "display": "standalone",

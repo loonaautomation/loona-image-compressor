@@ -2,7 +2,7 @@
   "name": "Loona パスポートサイズ写真メーカー",
   "short_name": "パスポートサイズ写真メーカー",
   "description": "パスポートサイズの写真をオンラインで無料で作成: あらゆる写真を35×45 mmまたは2×2インチに、印刷対応の300 DPIで切り抜けます。登録不要、透かしなし、完全にプライベート。",
-  "id": "/loona-image-compressor/ja/passport-photo-maker.html",
+  "id": "/ja/passport-photo-maker.html",
   "start_url": "./passport-photo-maker.html",
   "scope": "./passport-photo-maker.html",
   "display": "standalone",

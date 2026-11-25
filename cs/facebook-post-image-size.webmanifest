@@ -2,7 +2,7 @@
   "name": "Loona Velikost Facebook Obrázek příspěvku / odkazu",
   "short_name": "Velikost Facebook Obrázek",
   "description": "Vytvořte Facebook obrázek příspěvku / odkazu přesně 1200×630 px. Bezplatný nástroj na změnu velikosti/ořez ve vašem prohlížeči s pravidly bezpečné zóny, která zabrání oříznutí textu a obličejů.",
-  "id": "/loona-image-compressor/cs/facebook-post-image-size.html",
+  "id": "/cs/facebook-post-image-size.html",
   "start_url": "./facebook-post-image-size.html",
   "scope": "./facebook-post-image-size.html",
   "display": "standalone",

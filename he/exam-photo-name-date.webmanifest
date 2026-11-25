@@ -2,7 +2,7 @@
   "name": "Loona תמונת מבחן עם שם ותאריך",
   "short_name": "תמונת מבחן עם שם ותאריך",
   "description": "צרו תמונת מבחן עם שמכם והתאריך מודפסים בתחתית בחינם — הפורמט של מבחני בורד המשמש בפקיסטן ובהודו. פרטי, אין צורך בהרשמה.",
-  "id": "/loona-image-compressor/he/exam-photo-name-date.html",
+  "id": "/he/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona حجم التوقيع UPSC Civil Services (IAS)",
   "short_name": "حجم التوقيع UPSC Civil",
   "description": "غيّر حجم التوقيع الخاص بك لامتحان UPSC Civil Services (IAS) إلى حجم الإشعار (مربع ممسوح ضوئياً، نسبة نحو 7:2) ونطاق 20–300 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/upsc-cse-signature-size.html",
+  "id": "/ar/upsc-cse-signature-size.html",
   "start_url": "./upsc-cse-signature-size.html",
   "scope": "./upsc-cse-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona YouTube Csatorna-profilkép méret",
   "short_name": "YouTube Csatorna-profilkép",
   "description": "Készítsen YouTube csatorna-profilkép képet pontosan 800×800 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/youtube-profile-picture-size.html",
+  "id": "/hu/youtube-profile-picture-size.html",
   "start_url": "./youtube-profile-picture-size.html",
   "scope": "./youtube-profile-picture-size.html",
   "display": "standalone",

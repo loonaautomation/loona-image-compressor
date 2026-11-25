@@ -2,7 +2,7 @@
   "name": "Loona Κάλυμμα Reels Instagram",
   "short_name": "Κάλυμμα Reels Instagram",
   "description": "Δημιουργήστε ένα κάλυμμα reels Instagram σε ακριβώς 1080×1920 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/instagram-reels-cover-size.html",
+  "id": "/el/instagram-reels-cover-size.html",
   "start_url": "./instagram-reels-cover-size.html",
   "scope": "./instagram-reels-cover-size.html",
   "display": "standalone",

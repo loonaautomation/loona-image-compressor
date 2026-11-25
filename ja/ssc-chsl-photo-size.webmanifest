@@ -2,7 +2,7 @@
   "name": "Loona SSC CHSLの写真サイズ",
   "short_name": "SSC CHSLの写真サイズ",
   "description": "SSC CHSLの写真を告知サイズ（200 × 230 px）と20–50 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
-  "id": "/loona-image-compressor/ja/ssc-chsl-photo-size.html",
+  "id": "/ja/ssc-chsl-photo-size.html",
   "start_url": "./ssc-chsl-photo-size.html",
   "scope": "./ssc-chsl-photo-size.html",
   "display": "standalone",

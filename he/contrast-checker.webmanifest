@@ -2,7 +2,7 @@
   "name": "Loona בודק ניגודיות",
   "short_name": "בודק ניגודיות",
   "description": "בדקו צבעי טקסט ורקע מול WCAG: יחס ניגודיות מיידי עם עובר/נכשל AA ו־AAA לטקסט רגיל וגדול, ועוד תצוגה מקדימה חיה. בחינם, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/contrast-checker.html",
+  "id": "/he/contrast-checker.html",
   "start_url": "./contrast-checker.html",
   "scope": "./contrast-checker.html",
   "display": "standalone",

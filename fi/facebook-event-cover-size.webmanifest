@@ -2,7 +2,7 @@
   "name": "Loona Facebook Tapahtuman kansi koko",
   "short_name": "Facebook Tapahtuman kansi koko",
   "description": "Tee Facebook tapahtuman kansi tarkalleen kokoon 1920×1005 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/facebook-event-cover-size.html",
+  "id": "/fi/facebook-event-cover-size.html",
   "start_url": "./facebook-event-cover-size.html",
   "scope": "./facebook-event-cover-size.html",
   "display": "standalone",

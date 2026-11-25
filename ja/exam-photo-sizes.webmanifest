@@ -2,7 +2,7 @@
   "name": "Loona 試験写真・署名サイズ",
   "short_name": "試験写真・署名サイズ",
   "description": "SSC、IBPS、SBI、UPSC、RRB、JEE、NEETなど、20の主要なインドの試験について、写真・署名のサイズとKB帯域を掲載しています。それぞれに作成ツールがあります。",
-  "id": "/loona-image-compressor/ja/exam-photo-sizes.html",
+  "id": "/ja/exam-photo-sizes.html",
   "start_url": "./exam-photo-sizes.html",
   "scope": "./exam-photo-sizes.html",
   "display": "standalone",

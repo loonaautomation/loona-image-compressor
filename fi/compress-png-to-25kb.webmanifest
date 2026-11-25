@@ -2,7 +2,7 @@
   "name": "Loona Pakkaa PNG kokoon 25 KB verkossa",
   "short_name": "Pakkaa PNG kokoon 25 KB",
   "description": "Pakkaa PNG-kuva kokoon 25 KB tai alle, ilmaiseksi selaimessasi. Automaattinen haku löytää parhaan mahtuvan laadun — ilman rekisteröitymistä ja ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/compress-png-to-25kb.html",
+  "id": "/fi/compress-png-to-25kb.html",
   "start_url": "./compress-png-to-25kb.html",
   "scope": "./compress-png-to-25kb.html",
   "display": "standalone",

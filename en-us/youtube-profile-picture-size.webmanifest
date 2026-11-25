@@ -2,7 +2,7 @@
   "name": "Loona YouTube Channel Profile Picture Size — 800 × 800 px",
   "short_name": "YouTube Channel Profile Picture Size — 800 × 800 px",
   "description": "Make a YouTube channel profile picture at exactly 800×800 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/en-us/youtube-profile-picture-size.html",
+  "id": "/en-us/youtube-profile-picture-size.html",
   "start_url": "./youtube-profile-picture-size.html",
   "scope": "./youtube-profile-picture-size.html",
   "display": "standalone",

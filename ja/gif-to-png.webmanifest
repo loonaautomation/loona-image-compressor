@@ -2,7 +2,7 @@
   "name": "Loona GIFからPNGへの変換ツール",
   "short_name": "GIFからPNGへの変換ツール",
   "description": "GIFをオンラインで無料でPNGに変換 — GIFからきれいな可逆の静止画像。ブラウザベース、登録不要、アップロード不要、透かしなし。",
-  "id": "/loona-image-compressor/ja/gif-to-png.html",
+  "id": "/ja/gif-to-png.html",
   "start_url": "./gif-to-png.html",
   "scope": "./gif-to-png.html",
   "display": "standalone",

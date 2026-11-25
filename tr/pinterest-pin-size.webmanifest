@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Standart Pin Boyutu — 1000×1500 px",
   "short_name": "Pinterest Standart Pin Boyutu — 1000×1500 px",
   "description": "Tam olarak 1000×1500 px ölçüsünde bir Pinterest standart pin oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/pinterest-pin-size.html",
+  "id": "/tr/pinterest-pin-size.html",
   "start_url": "./pinterest-pin-size.html",
   "scope": "./pinterest-pin-size.html",
   "display": "standalone",

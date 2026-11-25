@@ -2,7 +2,7 @@
   "name": "Loona Kép átméretezése 140 × 60 px méretre online",
   "short_name": "Kép átméretezése 140 × 60 px",
   "description": "Méretezzen át bármely képet pontosan 140×60 px méretre — Az indiai vizsgaaláírás-szabvány (SSC, IBPS, SBI). Ingyen, a böngészőjében, vágási vezérléssel; feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/resize-image-to-140x60.html",
+  "id": "/hu/resize-image-to-140x60.html",
   "start_url": "./resize-image-to-140x60.html",
   "scope": "./resize-image-to-140x60.html",
   "display": "standalone",

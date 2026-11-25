@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת פרופיל של ערוץ YouTube",
   "short_name": "גודל תמונת פרופיל של ערוץ",
   "description": "צרו תמונת פרופיל של ערוץ של YouTube בדיוק ב־800×800 px. משנה גודל/חיתוך בחינם בדפדפן שלכם, עם כללי אזור הבטיחות שמונעים חיתוך של טקסט ופנים.",
-  "id": "/loona-image-compressor/he/youtube-profile-picture-size.html",
+  "id": "/he/youtube-profile-picture-size.html",
   "start_url": "./youtube-profile-picture-size.html",
   "scope": "./youtube-profile-picture-size.html",
   "display": "standalone",

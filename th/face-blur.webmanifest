@@ -2,7 +2,7 @@
   "name": "Loona เบลอใบหน้า",
   "short_name": "เบลอใบหน้า",
   "description": "เบลอหรือทำพิกเซลใบหน้า ป้ายทะเบียน และรายละเอียดส่วนตัวในรูปถ่ายใดก็ได้ คุณเลือกพื้นที่เอง เลือกความแรง ดูตัวอย่างและดาวน์โหลด — ฟรี ไม่ต้องสมัครสมาชิก และรูปถ่ายของคุณไม่เคยออกจากอุปกรณ์ของคุณ",
-  "id": "/loona-image-compressor/th/face-blur.html",
+  "id": "/th/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

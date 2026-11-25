@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Antet / Banner X (Twitter)",
   "short_name": "Dimensiune Antet / Banner X",
   "description": "Creează un antet / banner X (Twitter) la exact 1500×500 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/x-header-size.html",
+  "id": "/ro/x-header-size.html",
   "start_url": "./x-header-size.html",
   "scope": "./x-header-size.html",
   "display": "standalone",

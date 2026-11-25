@@ -2,7 +2,7 @@
   "name": "Loona Conversor de SVG para PNG",
   "short_name": "Conversor de SVG para PNG",
   "description": "Converta SVG para PNG online gratuitamente, com qualquer largura — imagens rasterizadas nítidas a partir de logótipos vetoriais e ícones. Sem registo, sem envios, funciona no seu navegador.",
-  "id": "/loona-image-compressor/pt-pt/svg-to-png.html",
+  "id": "/pt-pt/svg-to-png.html",
   "start_url": "./svg-to-png.html",
   "scope": "./svg-to-png.html",
   "display": "standalone",

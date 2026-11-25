@@ -2,7 +2,7 @@
   "name": "Loona שינוי גודל תמונה ל־600 × 600 px באינטרנט",
   "short_name": "שינוי גודל תמונה ל־600 × 600",
   "description": "שנו גודל של כל תמונה בדיוק ל־600×600 px — הגודל הדיגיטלי המינימלי לפספורט/ויזה ארה&quot;ב ולהגרלת DV. בחינם בדפדפן שלכם עם בקרת חיתוך; ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/resize-image-to-600x600.html",
+  "id": "/he/resize-image-to-600x600.html",
   "start_url": "./resize-image-to-600x600.html",
   "scope": "./resize-image-to-600x600.html",
   "display": "standalone",

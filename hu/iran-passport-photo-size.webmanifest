@@ -2,7 +2,7 @@
   "name": "Loona Iráni útlevélfotó méret",
   "short_name": "Iráni útlevélfotó méret",
   "description": "Készítsen Iráni útlevélfotó fotót a hivatalos 30×40 mm (354×472 px) méretben, sima fehér vagy világos háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/iran-passport-photo-size.html",
+  "id": "/hu/iran-passport-photo-size.html",
   "start_url": "./iran-passport-photo-size.html",
   "scope": "./iran-passport-photo-size.html",
   "display": "standalone",

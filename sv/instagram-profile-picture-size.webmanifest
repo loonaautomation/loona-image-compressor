@@ -2,7 +2,7 @@
   "name": "Loona Instagram Profilbild Storlek",
   "short_name": "Instagram Profilbild Storlek",
   "description": "Skapa en Instagram profilbild på exakt 1080×1080 px. Gratis storleksändrare/beskärare i din webbläsare med säker-zon-reglerna som stoppar beskuren text och ansikten.",
-  "id": "/loona-image-compressor/sv/instagram-profile-picture-size.html",
+  "id": "/sv/instagram-profile-picture-size.html",
   "start_url": "./instagram-profile-picture-size.html",
   "scope": "./instagram-profile-picture-size.html",
   "display": "standalone",

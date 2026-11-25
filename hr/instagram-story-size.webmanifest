@@ -2,7 +2,7 @@
   "name": "Loona Veličina Instagram Priča",
   "short_name": "Veličina Instagram Priča",
   "description": "Izradite Instagram priča na točno 1080×1920 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/instagram-story-size.html",
+  "id": "/hr/instagram-story-size.html",
   "start_url": "./instagram-story-size.html",
   "scope": "./instagram-story-size.html",
   "display": "standalone",

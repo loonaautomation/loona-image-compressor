@@ -2,7 +2,7 @@
   "name": "Loona Brazil Passport / Visa Photo-størrelse",
   "short_name": "Brazil Passport / Visa",
   "description": "Lag et Brazil Passport / Visa Photo i den offisielle størrelsen 50×70 mm (591×827 px), ensfarget hvit bakgrunn. Gratis verktøy på nett — beskjær, last ned og skriv ut ark, ingen opplasting.",
-  "id": "/loona-image-compressor/nb/brazil-passport-photo-size.html",
+  "id": "/nb/brazil-passport-photo-size.html",
   "start_url": "./brazil-passport-photo-size.html",
   "scope": "./brazil-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Trình tạo ảnh NADRA / CNIC",
   "short_name": "Trình tạo ảnh NADRA / CNIC",
   "description": "Tạo ảnh NADRA CNIC trực tuyến miễn phí: đúng 350×467 px cho tải lên Pak-ID và kích thước in 35×45 mm. Nền trắng, không cần đăng ký, hoàn toàn riêng tư.",
-  "id": "/loona-image-compressor/vi/nadra-cnic-photo-maker.html",
+  "id": "/vi/nadra-cnic-photo-maker.html",
   "start_url": "./nadra-cnic-photo-maker.html",
   "scope": "./nadra-cnic-photo-maker.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Singapore-pasfoto størrelse",
   "short_name": "Singapore-pasfoto størrelse",
   "description": "Lav et Singapore-pasfoto i den officielle størrelse 35×45 mm (413×531 px), ensfarvet hvid baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
-  "id": "/loona-image-compressor/da/singapore-passport-photo-size.html",
+  "id": "/da/singapore-passport-photo-size.html",
   "start_url": "./singapore-passport-photo-size.html",
   "scope": "./singapore-passport-photo-size.html",
   "display": "standalone",

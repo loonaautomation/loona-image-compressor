@@ -2,7 +2,7 @@
   "name": "Loona Afbeelding verkleinen/vergroten naar 413 × 531 px online",
   "short_name": "Afbeelding",
   "description": "Pas elke afbeelding aan naar precies 413×531 px — 35 × 45 mm bij 300 DPI — het printformaat van ICAO/Schengen in pixels. Gratis in je browser met bijsnijdcontrole; geen upload, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/resize-image-to-413x531.html",
+  "id": "/nl/resize-image-to-413x531.html",
   "start_url": "./resize-image-to-413x531.html",
   "scope": "./resize-image-to-413x531.html",
   "display": "standalone",

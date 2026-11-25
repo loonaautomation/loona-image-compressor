@@ -2,7 +2,7 @@
   "name": "Loona Filtri fotografija i popravak",
   "short_name": "Filtri fotografija i popravak",
   "description": "Popravljajte fotografije na mreži besplatno: prilagodite svjetlinu, kontrast i zasićenost, izoštrite jednim klikom i koristite gotove zadane postavke poput Popravka za putovnicu i Živo.",
-  "id": "/loona-image-compressor/hr/photo-filters-editor.html",
+  "id": "/hr/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

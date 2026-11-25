@@ -2,7 +2,7 @@
   "name": "Loona Muuta kuvan koko kokoon 720 × 720 px verkossa",
   "short_name": "Muuta kuvan koko kokoon 720 ×",
   "description": "Muuta minkä tahansa kuvan koko tarkalleen kokoon 720×720 px — Facebookin profiilin vähimmäiskoko ja yleinen avatar-koko. Ilmaiseksi selaimessasi rajausohjauksella; ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/resize-image-to-720x720.html",
+  "id": "/fi/resize-image-to-720x720.html",
   "start_url": "./resize-image-to-720x720.html",
   "scope": "./resize-image-to-720x720.html",
   "display": "standalone",

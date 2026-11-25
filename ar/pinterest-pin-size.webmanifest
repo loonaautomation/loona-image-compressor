@@ -2,7 +2,7 @@
   "name": "Loona حجم دبوس قياسي Pinterest",
   "short_name": "حجم دبوس قياسي Pinterest",
   "description": "اصنع دبوس قياسي Pinterest بمقاس 1000×1500 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/pinterest-pin-size.html",
+  "id": "/ar/pinterest-pin-size.html",
   "start_url": "./pinterest-pin-size.html",
   "scope": "./pinterest-pin-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona फ़ोटो से GPS हटाएँ",
   "short_name": "फ़ोटो से GPS हटाएँ",
   "description": "JPG, PNG या WebP फ़ोटो से सिर्फ़ GPS लोकेशन हटाएँ और कैमरा, तारीख़ और एक्सपोज़र डेटा रखें। बाइट-दर-बाइट, कोई री-एन्कोडिंग नहीं, दोबारा स्कैन से सत्यापित — 100% आपके ब्राउज़र में, कुछ अपलोड नहीं।",
-  "id": "/loona-image-compressor/hi/remove-gps-from-photo.html",
+  "id": "/hi/remove-gps-from-photo.html",
   "start_url": "./remove-gps-from-photo.html",
   "scope": "./remove-gps-from-photo.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tamaño de Visa de EAU / Emirates ID",
   "short_name": "Tamaño de Visa de EAU /",
   "description": "Crea una Visa de EAU / Emirates ID con el tamaño oficial de 40×60 mm (472×709 px), fondo blanco liso. Creador en línea gratuito: recorta, descarga e imprime la hoja, sin subir archivos.",
-  "id": "/loona-image-compressor/es/uae-visa-photo-size.html",
+  "id": "/es/uae-visa-photo-size.html",
   "start_url": "./uae-visa-photo-size.html",
   "scope": "./uae-visa-photo-size.html",
   "display": "standalone",

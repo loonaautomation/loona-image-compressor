@@ -2,7 +2,7 @@
   "name": "Loona Veličina Discord Avatar korisnika",
   "short_name": "Veličina Discord Avatar",
   "description": "Izradite Discord avatar korisnika na točno 800×800 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/discord-avatar-size.html",
+  "id": "/hr/discord-avatar-size.html",
   "start_url": "./discord-avatar-size.html",
   "scope": "./discord-avatar-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač PNG u JPG",
   "short_name": "Pretvarač PNG u JPG",
   "description": "Pretvorite PNG u JPG na mreži besplatno. Manje datoteke za obrasce, e-poštu i web stranice, izravno u vašem pregledniku — bez registracije, bez prijenosa, bez vodenog žiga.",
-  "id": "/loona-image-compressor/hr/png-to-jpg.html",
+  "id": "/hr/png-to-jpg.html",
   "start_url": "./png-to-jpg.html",
   "scope": "./png-to-jpg.html",
   "display": "standalone",

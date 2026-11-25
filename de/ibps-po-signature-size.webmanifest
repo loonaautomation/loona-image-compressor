@@ -2,7 +2,7 @@
   "name": "Loona IBPS PO Unterschrift Größe",
   "short_name": "IBPS PO Unterschrift Größe",
   "description": "Passen Sie Ihr IBPS PO-Unterschrift auf die Größe der Bekanntmachung (140 × 60 px) und den Bereich 10–20 KB an. Kostenlos, in Ihrem Browser — ohne Upload, ohne Anmeldung.",
-  "id": "/loona-image-compressor/de/ibps-po-signature-size.html",
+  "id": "/de/ibps-po-signature-size.html",
   "start_url": "./ibps-po-signature-size.html",
   "scope": "./ibps-po-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Стиснути JPG до 150 KB онлайн",
   "short_name": "Стиснути JPG до 150 KB онлайн",
   "description": "Стисніть зображення JPG до 150 KB або менше, безкоштовно у вашому браузері. Автоматичний пошук знаходить найкращу якість, що вміщується, — без реєстрації, без передавання.",
-  "id": "/loona-image-compressor/uk/compress-jpg-to-150kb.html",
+  "id": "/uk/compress-jpg-to-150kb.html",
   "start_url": "./compress-jpg-to-150kb.html",
   "scope": "./compress-jpg-to-150kb.html",
   "display": "standalone",

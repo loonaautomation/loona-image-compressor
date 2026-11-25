@@ -2,7 +2,7 @@
   "name": "Loona Malaysia-Passfoto Größe",
   "short_name": "Malaysia-Passfoto Größe",
   "description": "Erstellen Sie ein Malaysia-Passfoto in der offiziellen Größe 35×50 mm (413×591 px), Hintergrund einfarbig weiß. Kostenloser Online-Ersteller — zuschneiden, herunterladen und Druckbogen, ohne Upload.",
-  "id": "/loona-image-compressor/de/malaysia-passport-photo-size.html",
+  "id": "/de/malaysia-passport-photo-size.html",
   "start_url": "./malaysia-passport-photo-size.html",
   "scope": "./malaysia-passport-photo-size.html",
   "display": "standalone",

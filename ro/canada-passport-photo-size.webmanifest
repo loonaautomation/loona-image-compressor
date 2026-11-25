@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie pentru pașaportul Canadei",
   "short_name": "Dimensiune Fotografie pentru",
   "description": "Creează un Fotografie pentru pașaportul Canadei la dimensiunea oficială 50×70 mm (591×827 px), fundal alb simplu sau culoare deschisă. Creator online gratuit — decupează, descarcă și imprimă foaia, fără încărcare.",
-  "id": "/loona-image-compressor/ro/canada-passport-photo-size.html",
+  "id": "/ro/canada-passport-photo-size.html",
   "start_url": "./canada-passport-photo-size.html",
   "scope": "./canada-passport-photo-size.html",
   "display": "standalone",

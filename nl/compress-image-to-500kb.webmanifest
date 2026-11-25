@@ -2,7 +2,7 @@
   "name": "Loona Afbeelding comprimeren tot 500 KB online",
   "short_name": "Afbeelding comprimeren tot",
   "description": "Comprimeer JPG-, PNG- en WebP-afbeeldingen online en gratis tot 500 KB of kleiner. Automatisch zoeken naar kwaliteit en grootte in je browser — geen aanmelding, geen upload.",
-  "id": "/loona-image-compressor/nl/compress-image-to-500kb.html",
+  "id": "/nl/compress-image-to-500kb.html",
   "start_url": "./compress-image-to-500kb.html",
   "scope": "./compress-image-to-500kb.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Размер Фотография для JEE Main",
   "short_name": "Размер Фотография для JEE Main",
   "description": "Resize your JEE Main photo to the notification size (3.5 × 4.5 cm (about 413 × 531 px at 300 DPI)) and 10–200 KB band. Free, in your browser — no upload, no signup.",
-  "id": "/loona-image-compressor/jee-main-photo-size.html",
+  "id": "/jee-main-photo-size.html",
   "start_url": "./jee-main-photo-size.html",
   "scope": "./jee-main-photo-size.html",
   "display": "standalone",

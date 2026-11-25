@@ -2,7 +2,7 @@
   "name": "Loona Ad &amp; Tarihli Sınav Fotoğrafı – Kurul Sınavı Fotoğrafı Oluşturucu, Çevrimiçi Ücretsiz",
   "short_name": "Ad &amp; Tarihli Sınav Fotoğrafı – Kurul Sınavı Fotoğrafı Oluşturucu, Çevrimiçi Ücretsiz",
   "description": "Adınız ve tarihiniz altta basılı bir sınav fotoğrafı ücretsiz oluşturun — Pakistan ve Hindistan'da kullanılan kurul sınavı formatı. Gizli, kayıt gerekmez.",
-  "id": "/loona-image-compressor/tr/exam-photo-name-date.html",
+  "id": "/tr/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

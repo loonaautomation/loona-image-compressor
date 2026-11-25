@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač PNG u WebP",
   "short_name": "Pretvarač PNG u WebP",
   "description": "Pretvorite PNG u WebP na mreži besplatno — mnogo manje datoteke koje čuvaju prozirnost, savršene za web stranice. Bez registracije, bez prijenosa, radi u vašem pregledniku.",
-  "id": "/loona-image-compressor/hr/png-to-webp.html",
+  "id": "/hr/png-to-webp.html",
   "start_url": "./png-to-webp.html",
   "scope": "./png-to-webp.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona עורך EXIF",
   "short_name": "עורך EXIF",
   "description": "ערכו את נתוני ה־EXIF של תמונת JPG באינטרנט בחינם — תקנו את תאריך הצילום, הוסיפו את שמכם כיוצר, הגדירו זכויות יוצרים, יצרן ודגם מצלמה, או צרו EXIF על תמונה שאין לה. פיקסלים לעולם לא מקודדים מחדש ושום דבר לא מועלה.",
-  "id": "/loona-image-compressor/he/edit-image-metadata.html",
+  "id": "/he/edit-image-metadata.html",
   "start_url": "./edit-image-metadata.html",
   "scope": "./edit-image-metadata.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายหนังสือเดินทางสิงคโปร์",
   "short_name": "ขนาดรูปถ่ายหนังสือเดินทางสิงคโ",
   "description": "ทำรูปถ่ายหนังสือเดินทางสิงคโปร์ที่ขนาดอย่างเป็นทางการ 35×45 mm (413×531 px) พื้นหลังขาวเรียบ เครื่องทำรูปออนไลน์ฟรี — ครอบตัด ดาวน์โหลด และแผ่นพิมพ์ ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/singapore-passport-photo-size.html",
+  "id": "/th/singapore-passport-photo-size.html",
   "start_url": "./singapore-passport-photo-size.html",
   "scope": "./singapore-passport-photo-size.html",
   "display": "standalone",

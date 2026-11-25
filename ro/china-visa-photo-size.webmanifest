@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie pentru viza Chinei",
   "short_name": "Dimensiune Fotografie pentru",
   "description": "Creează un Fotografie pentru viza Chinei la dimensiunea oficială 33×48 mm (390×567 px), fundal alb simplu. Creator online gratuit — decupează, descarcă și imprimă foaia, fără încărcare.",
-  "id": "/loona-image-compressor/ro/china-visa-photo-size.html",
+  "id": "/ro/china-visa-photo-size.html",
   "start_url": "./china-visa-photo-size.html",
   "scope": "./china-visa-photo-size.html",
   "display": "standalone",

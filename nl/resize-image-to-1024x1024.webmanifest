@@ -2,7 +2,7 @@
   "name": "Loona Afbeelding verkleinen/vergroten naar 1024 × 1024 px online",
   "short_name": "Afbeelding",
   "description": "Pas elke afbeelding aan naar precies 1024×1024 px — Standaardvierkant voor app-iconen en AI-afbeeldingen. Gratis in je browser met bijsnijdcontrole; geen upload, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/resize-image-to-1024x1024.html",
+  "id": "/nl/resize-image-to-1024x1024.html",
   "start_url": "./resize-image-to-1024x1024.html",
   "scope": "./resize-image-to-1024x1024.html",
   "display": "standalone",

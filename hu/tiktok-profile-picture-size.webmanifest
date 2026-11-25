@@ -2,7 +2,7 @@
   "name": "Loona TikTok Profilkép méret",
   "short_name": "TikTok Profilkép méret",
   "description": "Készítsen TikTok profilkép képet pontosan 720×720 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/tiktok-profile-picture-size.html",
+  "id": "/hu/tiktok-profile-picture-size.html",
   "start_url": "./tiktok-profile-picture-size.html",
   "scope": "./tiktok-profile-picture-size.html",
   "display": "standalone",

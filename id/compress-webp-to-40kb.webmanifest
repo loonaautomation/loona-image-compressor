@@ -2,7 +2,7 @@
   "name": "Loona Kompres WebP ke 40 KB Online",
   "short_name": "Kompres WebP ke 40 KB Online",
   "description": "Kompres gambar WebP ke 40 KB atau kurang, gratis di browser Anda. Pencarian otomatis menemukan kualitas terbaik yang muat — tanpa pendaftaran, tanpa unggah.",
-  "id": "/loona-image-compressor/id/compress-webp-to-40kb.html",
+  "id": "/id/compress-webp-to-40kb.html",
   "start_url": "./compress-webp-to-40kb.html",
   "scope": "./compress-webp-to-40kb.html",
   "display": "standalone",

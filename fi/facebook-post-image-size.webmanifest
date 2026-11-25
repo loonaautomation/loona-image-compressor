@@ -2,7 +2,7 @@
   "name": "Loona Facebook Julkaisu- / linkkikuva koko",
   "short_name": "Facebook Julkaisu- /",
   "description": "Tee Facebook julkaisu- / linkkikuva tarkalleen kokoon 1200×630 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/facebook-post-image-size.html",
+  "id": "/fi/facebook-post-image-size.html",
   "start_url": "./facebook-post-image-size.html",
   "scope": "./facebook-post-image-size.html",
   "display": "standalone",

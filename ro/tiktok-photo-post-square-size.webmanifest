@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Postare foto (pătrat) TikTok",
   "short_name": "Dimensiune Postare foto",
   "description": "Creează un postare foto (pătrat) TikTok la exact 1080×1080 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/tiktok-photo-post-square-size.html",
+  "id": "/ro/tiktok-photo-post-square-size.html",
   "start_url": "./tiktok-photo-post-square-size.html",
   "scope": "./tiktok-photo-post-square-size.html",
   "display": "standalone",

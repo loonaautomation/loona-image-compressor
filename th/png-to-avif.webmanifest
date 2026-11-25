@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง PNG เป็น AVIF",
   "short_name": "ตัวแปลง PNG เป็น AVIF",
   "description": "แปลง PNG เป็น AVIF ออนไลน์ ฟรี ในเบราว์เซอร์ของคุณ การแปลงจริงบนอุปกรณ์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ",
-  "id": "/loona-image-compressor/th/png-to-avif.html",
+  "id": "/th/png-to-avif.html",
   "start_url": "./png-to-avif.html",
   "scope": "./png-to-avif.html",
   "display": "standalone",

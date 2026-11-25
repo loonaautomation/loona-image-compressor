@@ -2,7 +2,7 @@
   "name": "Loona Змінити розмір зображення",
   "short_name": "Змінити розмір зображення",
   "description": "Змінюйте розмір будь-якого зображення за пікселями, см або дюймами з налаштуванням DPI безкоштовно. Зберігайте співвідношення сторін, вибирайте JPG, PNG або WebP і завантажуйте миттєво — реєстрація не потрібна.",
-  "id": "/loona-image-compressor/uk/resize-image.html",
+  "id": "/uk/resize-image.html",
   "start_url": "./resize-image.html",
   "scope": "./resize-image.html",
   "display": "standalone",

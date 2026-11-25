@@ -2,7 +2,7 @@
   "name": "Loona CUET UG Foto Größe",
   "short_name": "CUET UG Foto Größe",
   "description": "Passen Sie Ihr CUET UG-Foto auf die Größe der Bekanntmachung (3,5 × 4,5 cm (etwa 413 × 531 px bei 300 DPI)) und den Bereich 10–200 KB an. Kostenlos, in Ihrem Browser — ohne Upload, ohne Anmeldung.",
-  "id": "/loona-image-compressor/de/cuet-ug-photo-size.html",
+  "id": "/de/cuet-ug-photo-size.html",
   "start_url": "./cuet-ug-photo-size.html",
   "scope": "./cuet-ug-photo-size.html",
   "display": "standalone",

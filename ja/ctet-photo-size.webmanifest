@@ -2,7 +2,7 @@
   "name": "Loona CTETの写真サイズ",
   "short_name": "CTETの写真サイズ",
   "description": "CTETの写真を告知サイズ（3.5 × 4.5 cm（300 DPIで約413 × 531 px））と10–100 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
-  "id": "/loona-image-compressor/ja/ctet-photo-size.html",
+  "id": "/ja/ctet-photo-size.html",
   "start_url": "./ctet-photo-size.html",
   "scope": "./ctet-photo-size.html",
   "display": "standalone",

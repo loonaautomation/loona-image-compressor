@@ -2,7 +2,7 @@
   "name": "Loona Facebook Post / Link Image Size — 1200 × 630 px",
   "short_name": "Facebook Post / Link Image Size — 1200 × 630 px",
   "description": "Make a Facebook post / link image at exactly 1200×630 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/en-gb/facebook-post-image-size.html",
+  "id": "/en-gb/facebook-post-image-size.html",
   "start_url": "./facebook-post-image-size.html",
   "scope": "./facebook-post-image-size.html",
   "display": "standalone",

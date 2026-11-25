@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Saini wa IBPS Clerk (CSA)",
   "short_name": "Ukubwa wa Saini wa IBPS Clerk",
   "description": "Badilisha ukubwa wa saini yako ya IBPS Clerk (CSA) hadi ukubwa wa ilani (140 × 60 px) na kiwango cha KB 10–20. Bure, kwenye kivinjari chako — bila kupakia, bila kujisajili.",
-  "id": "/loona-image-compressor/sw/ibps-clerk-signature-size.html",
+  "id": "/sw/ibps-clerk-signature-size.html",
   "start_url": "./ibps-clerk-signature-size.html",
   "scope": "./ibps-clerk-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας SVG σε JPG",
   "short_name": "Μετατροπέας SVG σε JPG",
   "description": "Μετατρέψτε SVG σε JPG διαδικτυακά δωρεάν — αποδώστε διανυσματικά λογότυπα και εικονογραφήσεις ως καθολικά JPG σε οποιοδήποτε πλάτος. Χωρίς εγγραφή, χωρίς μεταφόρτωση, στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-image-compressor/el/svg-to-jpg.html",
+  "id": "/el/svg-to-jpg.html",
   "start_url": "./svg-to-jpg.html",
   "scope": "./svg-to-jpg.html",
   "display": "standalone",

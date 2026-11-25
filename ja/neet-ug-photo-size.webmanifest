@@ -2,7 +2,7 @@
   "name": "Loona NEET UGの写真サイズ",
   "short_name": "NEET UGの写真サイズ",
   "description": "NEET UGの写真を告知サイズ（3.5 × 4.5 cm（300 DPIで約413 × 531 px））と10–200 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
-  "id": "/loona-image-compressor/ja/neet-ug-photo-size.html",
+  "id": "/ja/neet-ug-photo-size.html",
   "start_url": "./neet-ug-photo-size.html",
   "scope": "./neet-ug-photo-size.html",
   "display": "standalone",

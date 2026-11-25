@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) 页眉 / 横幅 尺寸",
   "short_name": "X (Twitter) 页眉 / 横幅 尺寸",
   "description": "按精确的 1500×500 px 制作 X (Twitter) 页眉 / 横幅。在浏览器中免费调整大小/裁剪，附有安全区规则，防止文字和面部被裁掉。",
-  "id": "/loona-image-compressor/zh/x-header-size.html",
+  "id": "/zh/x-header-size.html",
   "start_url": "./x-header-size.html",
   "scope": "./x-header-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Διαβατηρίου Ιρλανδίας",
   "short_name": "Φωτογραφία Διαβατηρίου",
   "description": "Δημιουργήστε Φωτογραφία Διαβατηρίου Ιρλανδίας στο επίσημο μέγεθος 35×45 mm (413×531 px), φόντο απλό λευκό ή ανοιχτό γκρι. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/ireland-passport-photo-size.html",
+  "id": "/el/ireland-passport-photo-size.html",
   "start_url": "./ireland-passport-photo-size.html",
   "scope": "./ireland-passport-photo-size.html",
   "display": "standalone",

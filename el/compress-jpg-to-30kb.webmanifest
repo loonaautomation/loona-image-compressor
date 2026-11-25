@@ -2,7 +2,7 @@
   "name": "Loona Συμπίεση JPG σε 30 KB Online",
   "short_name": "Συμπίεση JPG σε 30 KB Online",
   "description": "Συμπιέστε μια εικόνα JPG σε 30 KB ή λιγότερο, δωρεάν στο πρόγραμμα περιήγησής σας. Η αυτόματη αναζήτηση βρίσκει την καλύτερη ποιότητα που χωράει — χωρίς εγγραφή, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/compress-jpg-to-30kb.html",
+  "id": "/el/compress-jpg-to-30kb.html",
   "start_url": "./compress-jpg-to-30kb.html",
   "scope": "./compress-jpg-to-30kb.html",
   "display": "standalone",

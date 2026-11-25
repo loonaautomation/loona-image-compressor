@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Διαβατηρίου Νότιας Κορέας",
   "short_name": "Φωτογραφία Διαβατηρίου Νότιας",
   "description": "Δημιουργήστε Φωτογραφία Διαβατηρίου Νότιας Κορέας στο επίσημο μέγεθος 35×45 mm (413×531 px), φόντο απλό λευκό. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/south-korea-passport-photo-size.html",
+  "id": "/el/south-korea-passport-photo-size.html",
   "start_url": "./south-korea-passport-photo-size.html",
   "scope": "./south-korea-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Argentiinan passi- / DNI-kuva koko",
   "short_name": "Argentiinan passi- / DNI-kuva",
   "description": "Tee Argentiinan passi- / DNI-kuva virallisessa koossa 40×40 mm (472×472 px), taustana tavallinen valkoinen tai vaaleansininen. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/argentina-passport-photo-size.html",
+  "id": "/fi/argentina-passport-photo-size.html",
   "start_url": "./argentina-passport-photo-size.html",
   "scope": "./argentina-passport-photo-size.html",
   "display": "standalone",

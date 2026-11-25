@@ -2,7 +2,7 @@
   "name": "Loona Kolumbiai vízumfotó méret",
   "short_name": "Kolumbiai vízumfotó méret",
   "description": "Készítsen Kolumbiai vízumfotó fotót a hivatalos 30×40 mm (354×472 px) méretben, sima fehér háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/colombia-visa-photo-size.html",
+  "id": "/hu/colombia-visa-photo-size.html",
   "start_url": "./colombia-visa-photo-size.html",
   "scope": "./colombia-visa-photo-size.html",
   "display": "standalone",

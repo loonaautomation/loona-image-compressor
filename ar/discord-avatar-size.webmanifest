@@ -2,7 +2,7 @@
   "name": "Loona حجم الصورة الرمزية للمستخدم Discord",
   "short_name": "حجم الصورة الرمزية للمستخدم",
   "description": "اصنع الصورة الرمزية للمستخدم Discord بمقاس 800×800 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/discord-avatar-size.html",
+  "id": "/ar/discord-avatar-size.html",
   "start_url": "./discord-avatar-size.html",
   "scope": "./discord-avatar-size.html",
   "display": "standalone",

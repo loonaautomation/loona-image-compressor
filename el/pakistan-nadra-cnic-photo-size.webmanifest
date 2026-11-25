@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία CNIC NADRA Πακιστάν",
   "short_name": "Φωτογραφία CNIC NADRA Πακιστάν",
   "description": "Δημιουργήστε Φωτογραφία CNIC NADRA Πακιστάν στο επίσημο μέγεθος 51×51 mm (600×600 px), φόντο απλό λευκό. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/pakistan-nadra-cnic-photo-size.html",
+  "id": "/el/pakistan-nadra-cnic-photo-size.html",
   "start_url": "./pakistan-nadra-cnic-photo-size.html",
   "scope": "./pakistan-nadra-cnic-photo-size.html",
   "display": "standalone",

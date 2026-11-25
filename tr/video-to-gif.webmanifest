@@ -2,7 +2,7 @@
   "name": "Loona Video to GIF Converter",
   "short_name": "Video to GIF Converter",
   "description": "Videoyu çevrimiçi ücretsiz olarak GIF'e dönüştürün — bir MP4 veya WebM klibini animasyonlu bir GIF'e çevirin. Tarayıcı tabanlı, kayıt yok, yükleme yok, filigran yok.",
-  "id": "/loona-image-compressor/tr/video-to-gif.html",
+  "id": "/tr/video-to-gif.html",
   "start_url": "./video-to-gif.html",
   "scope": "./video-to-gif.html",
   "display": "standalone",

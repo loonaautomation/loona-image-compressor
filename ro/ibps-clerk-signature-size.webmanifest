@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Semnătură IBPS Clerk (CSA)",
   "short_name": "Dimensiune Semnătură IBPS",
   "description": "Redimensionează semnătură pentru IBPS Clerk (CSA) la dimensiunea din notificare (140 × 60 px) și intervalul 10–20 KB. Gratuit, în browserul tău — fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/ibps-clerk-signature-size.html",
+  "id": "/ro/ibps-clerk-signature-size.html",
   "start_url": "./ibps-clerk-signature-size.html",
   "scope": "./ibps-clerk-signature-size.html",
   "display": "standalone",

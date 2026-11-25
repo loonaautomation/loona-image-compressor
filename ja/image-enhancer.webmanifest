@@ -2,7 +2,7 @@
   "name": "Loona 画像エンハンサー",
   "short_name": "画像エンハンサー",
   "description": "写真をオンラインで無料で補正: ワンクリック自動補正、柔らかい写真のシャープ化、穏やかなノイズ除去、2倍または4倍のアップスケーリング。正直な結果、登録不要で、写真がデバイスの外に出ることはありません。",
-  "id": "/loona-image-compressor/ja/image-enhancer.html",
+  "id": "/ja/image-enhancer.html",
   "start_url": "./image-enhancer.html",
   "scope": "./image-enhancer.html",
   "display": "standalone",

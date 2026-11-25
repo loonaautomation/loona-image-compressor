@@ -2,7 +2,7 @@
   "name": "Loona Kokeen UPSC NDA Valokuva koko",
   "short_name": "Kokeen UPSC NDA Valokuva koko",
   "description": "Muuta kokeen UPSC NDA valokuva ilmoitettuun kokoon (350 × 350 px) ja välille 20–300 KB. Ilmaiseksi selaimessasi — ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/upsc-nda-photo-size.html",
+  "id": "/fi/upsc-nda-photo-size.html",
   "start_url": "./upsc-nda-photo-size.html",
   "scope": "./upsc-nda-photo-size.html",
   "display": "standalone",

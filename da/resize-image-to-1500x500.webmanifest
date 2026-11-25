@@ -2,7 +2,7 @@
   "name": "Loona Tilpas billede til 1500 × 500",
   "short_name": "Tilpas billede til 1500 × 500",
   "description": "Tilpas ethvert billede til præcis 1500 × 500 pixels (X (Twitter) profilheaders og brede bannere) gratis. Dæk, indehold eller stræk, JPG eller PNG, download med det samme — ingen tilmelding, intet uploadet.",
-  "id": "/loona-image-compressor/da/resize-image-to-1500x500.html",
+  "id": "/da/resize-image-to-1500x500.html",
   "start_url": "./resize-image-to-1500x500.html",
   "scope": "./resize-image-to-1500x500.html",
   "display": "standalone",

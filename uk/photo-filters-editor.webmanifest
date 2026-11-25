@@ -2,7 +2,7 @@
   "name": "Loona Фільтри та виправлення фото",
   "short_name": "Фільтри та виправлення фото",
   "description": "Виправляйте фото онлайн безкоштовно: регулюйте яскравість, контраст і насиченість, підвищуйте різкість одним натисканням і використовуйте готові пресети, як-от «Для паспорта» та «Яскравий».",
-  "id": "/loona-image-compressor/uk/photo-filters-editor.html",
+  "id": "/uk/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

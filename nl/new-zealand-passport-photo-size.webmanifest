@@ -2,7 +2,7 @@
   "name": "Loona Fotoformaat Pasfoto Nieuw-Zeeland",
   "short_name": "Fotoformaat Pasfoto",
   "description": "Maak een Pasfoto Nieuw-Zeeland op het officiële formaat 35×45 mm (413×531 px), achtergrond: effen, lichte, neutrale achtergrond (richtlijn: geen zuiver wit). Gratis online maker — bijsnijden, downloaden en printvel, geen upload.",
-  "id": "/loona-image-compressor/nl/new-zealand-passport-photo-size.html",
+  "id": "/nl/new-zealand-passport-photo-size.html",
   "start_url": "./new-zealand-passport-photo-size.html",
   "scope": "./new-zealand-passport-photo-size.html",
   "display": "standalone",

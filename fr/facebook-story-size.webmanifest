@@ -2,7 +2,7 @@
   "name": "Loona Format Story Facebook",
   "short_name": "Format Story Facebook",
   "description": "Créez un visuel story Facebook d&#x27;exactement 1080×1920 px. Redimensionneur/recadreur gratuit dans votre navigateur, avec les règles de zone de sécurité qui évitent les textes et visages coupés.",
-  "id": "/loona-image-compressor/fr/facebook-story-size.html",
+  "id": "/fr/facebook-story-size.html",
   "start_url": "./facebook-story-size.html",
   "scope": "./facebook-story-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Poboljšivač slika",
   "short_name": "Poboljšivač slika",
   "description": "Poboljšajte fotografiju na mreži besplatno: automatsko poboljšanje jednim klikom, izoštravanje mekih fotografija, nježno čišćenje šuma i povećavanje 2x ili 4x. Pošteni rezultati, bez registracije, a vaša fotografija nikada ne napušta vaš uređaj.",
-  "id": "/loona-image-compressor/hr/image-enhancer.html",
+  "id": "/hr/image-enhancer.html",
   "start_url": "./image-enhancer.html",
   "scope": "./image-enhancer.html",
   "display": "standalone",

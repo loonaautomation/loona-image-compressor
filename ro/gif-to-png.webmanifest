@@ -2,7 +2,7 @@
   "name": "Loona Convertor GIF în PNG",
   "short_name": "Convertor GIF în PNG",
   "description": "Convertește GIF în PNG online gratuit — o imagine statică curată, fără pierderi, din GIF-ul tău. Bazat pe browser, fără înregistrare, fără încărcare, fără filigran.",
-  "id": "/loona-image-compressor/ro/gif-to-png.html",
+  "id": "/ro/gif-to-png.html",
   "start_url": "./gif-to-png.html",
   "scope": "./gif-to-png.html",
   "display": "standalone",

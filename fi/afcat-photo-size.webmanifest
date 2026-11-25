@@ -2,7 +2,7 @@
   "name": "Loona Kokeen AFCAT Valokuva koko",
   "short_name": "Kokeen AFCAT Valokuva koko",
   "description": "Muuta kokeen AFCAT valokuva ilmoitettuun kokoon (3.5 × 4.5 cm (noin 413 × 531 px tarkkuudella 300 DPI)) ja välille 10–50 KB. Ilmaiseksi selaimessasi — ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/afcat-photo-size.html",
+  "id": "/fi/afcat-photo-size.html",
   "start_url": "./afcat-photo-size.html",
   "scope": "./afcat-photo-size.html",
   "display": "standalone",

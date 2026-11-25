@@ -2,7 +2,7 @@
   "name": "Loona Format Story Instagram",
   "short_name": "Format Story Instagram",
   "description": "Créez un visuel story Instagram d&#x27;exactement 1080×1920 px. Redimensionneur/recadreur gratuit dans votre navigateur, avec les règles de zone de sécurité qui évitent les textes et visages coupés.",
-  "id": "/loona-image-compressor/fr/instagram-story-size.html",
+  "id": "/fr/instagram-story-size.html",
   "start_url": "./instagram-story-size.html",
   "scope": "./instagram-story-size.html",
   "display": "standalone",

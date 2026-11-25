@@ -2,7 +2,7 @@
   "name": "Loona Розмір Зображення допису LinkedIn",
   "short_name": "Розмір Зображення допису",
   "description": "Зробіть зображення допису для LinkedIn рівно 1200×627 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/linkedin-post-image-size.html",
+  "id": "/uk/linkedin-post-image-size.html",
   "start_url": "./linkedin-post-image-size.html",
   "scope": "./linkedin-post-image-size.html",
   "display": "standalone",

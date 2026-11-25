@@ -2,7 +2,7 @@
   "name": "Loona Redimensionează imaginea la 1200 × 628",
   "short_name": "Redimensionează imaginea la",
   "description": "Redimensionează orice imagine la exact 1200 × 628 pixeli (Facebook and LinkedIn link shares and ads) gratuit. Acoperă, conține sau întinde, JPG sau PNG, descarcă instantaneu — fără înregistrare, nimic încărcat.",
-  "id": "/loona-image-compressor/ro/resize-image-to-1200x628.html",
+  "id": "/ro/resize-image-to-1200x628.html",
   "start_url": "./resize-image-to-1200x628.html",
   "scope": "./resize-image-to-1200x628.html",
   "display": "standalone",

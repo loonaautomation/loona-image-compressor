@@ -2,7 +2,7 @@
   "name": "Loona تصویر کو 800 × 800 تک ری سائز کریں",
   "short_name": "تصویر کو 800 × 800 تک ری سائز",
   "description": "کسی بھی تصویر کو بالکل 800 × 800 پکسلز (مارکیٹ پلیس اور مصنوعات فہرست تصاویر) تک مفت ری سائز کریں۔ Cover، contain یا stretch، JPG یا PNG، فوراً ڈاؤن لوڈ کریں — نہ سائن اپ، کچھ بھی اپ لوڈ نہیں ہوتا۔",
-  "id": "/loona-image-compressor/ur/resize-image-to-800x800.html",
+  "id": "/ur/resize-image-to-800x800.html",
   "start_url": "./resize-image-to-800x800.html",
   "scope": "./resize-image-to-800x800.html",
   "display": "standalone",

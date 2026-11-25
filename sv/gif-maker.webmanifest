@@ -2,7 +2,7 @@
   "name": "Loona GIF Maker",
   "short_name": "GIF Maker",
   "description": "Skapa animerade GIF-bilder gratis online med Loona GIF Maker — kombinera dina foton till en GIF som loopar. Ingen registrering, ingen uppladdning, ingen vattenstämpel; allt körs i din webbläsare.",
-  "id": "/loona-image-compressor/sv/gif-maker.html",
+  "id": "/sv/gif-maker.html",
   "start_url": "./gif-maker.html",
   "scope": "./gif-maker.html",
   "display": "standalone",

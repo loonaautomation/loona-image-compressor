@@ -2,7 +2,7 @@
   "name": "Loona UPSC NDA Aláírás méret",
   "short_name": "UPSC NDA Aláírás méret",
   "description": "Méretezze át a UPSC NDA aláírás fájlját a kiírás szerinti méretre (szkennelt mező, kb. 7:2 arány) és a 20–300 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/upsc-nda-signature-size.html",
+  "id": "/hu/upsc-nda-signature-size.html",
   "start_url": "./upsc-nda-signature-size.html",
   "scope": "./upsc-nda-signature-size.html",
   "display": "standalone",

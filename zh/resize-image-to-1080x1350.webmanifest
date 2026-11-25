@@ -2,7 +2,7 @@
   "name": "Loona 将图片调整为 1080 × 1350",
   "short_name": "将图片调整为 1080 × 1350",
   "description": "免费将任何图片调整为精确的 1080 × 1350 像素（4:5 比例的 Instagram 竖版帖子）。Cover、contain 或 stretch，JPG 或 PNG，即时下载 — 无需注册，什么都不上传。",
-  "id": "/loona-image-compressor/zh/resize-image-to-1080x1350.html",
+  "id": "/zh/resize-image-to-1080x1350.html",
   "start_url": "./resize-image-to-1080x1350.html",
   "scope": "./resize-image-to-1080x1350.html",
   "display": "standalone",

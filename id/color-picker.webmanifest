@@ -2,7 +2,7 @@
   "name": "Loona Pemilih Warna",
   "short_name": "Pemilih Warna",
   "description": "Pilih warna apa pun dan seketika salin nilai HEX, RGB, HSL, dan HSV-nya. Mencakup strip tint dan shade — gratis, tanpa pendaftaran, berfungsi di browser Anda.",
-  "id": "/loona-image-compressor/id/color-picker.html",
+  "id": "/id/color-picker.html",
   "start_url": "./color-picker.html",
   "scope": "./color-picker.html",
   "display": "standalone",

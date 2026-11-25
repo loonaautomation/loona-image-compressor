@@ -2,7 +2,7 @@
   "name": "Loona Veličina SSC CHSL Potpis",
   "short_name": "Veličina SSC CHSL Potpis",
   "description": "Promijenite veličinu svoje SSC CHSL potpis na veličinu iz obavijesti (140 × 60 px) i pojas 10–20 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/ssc-chsl-signature-size.html",
+  "id": "/hr/ssc-chsl-signature-size.html",
   "start_url": "./ssc-chsl-signature-size.html",
   "scope": "./ssc-chsl-signature-size.html",
   "display": "standalone",

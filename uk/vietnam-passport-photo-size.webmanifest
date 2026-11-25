@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото на паспорт / візу В’єтнаму",
   "short_name": "Розмір Фото на паспорт / візу",
   "description": "Зробіть Фото на паспорт / візу В’єтнаму в офіційному розмірі 40×60 мм (472×709 пікс.), тло: однотонне біле. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
-  "id": "/loona-image-compressor/uk/vietnam-passport-photo-size.html",
+  "id": "/uk/vietnam-passport-photo-size.html",
   "start_url": "./vietnam-passport-photo-size.html",
   "scope": "./vietnam-passport-photo-size.html",
   "display": "standalone",

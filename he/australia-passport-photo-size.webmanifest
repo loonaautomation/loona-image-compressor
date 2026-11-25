@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת פספורט אוסטרליה",
   "short_name": "גודל תמונת פספורט אוסטרליה",
   "description": "צרו תמונת פספורט אוסטרליה בגודל הרשמי 35×45 מ&quot;מ (413×531 px), רקע לבן חלק או אפור בהיר. כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/australia-passport-photo-size.html",
+  "id": "/he/australia-passport-photo-size.html",
   "start_url": "./australia-passport-photo-size.html",
   "scope": "./australia-passport-photo-size.html",
   "display": "standalone",

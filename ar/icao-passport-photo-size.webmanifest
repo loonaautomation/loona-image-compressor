@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة جواز السفر القياسية ICAO (35×45",
   "short_name": "حجم صورة جواز السفر القياسية",
   "description": "اصنع صورة جواز السفر القياسية ICAO (35×45 mm) بالحجم الرسمي 35×45 mm (413×531 px)، خلفية فاتحة سادة. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/icao-passport-photo-size.html",
+  "id": "/ar/icao-passport-photo-size.html",
   "start_url": "./icao-passport-photo-size.html",
   "scope": "./icao-passport-photo-size.html",
   "display": "standalone",

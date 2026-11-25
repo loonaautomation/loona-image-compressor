@@ -2,7 +2,7 @@
   "name": "Loona حجم الصورة الفوتوغرافية UPSC NDA",
   "short_name": "حجم الصورة الفوتوغرافية UPSC",
   "description": "غيّر حجم الصورة الخاص بك لامتحان UPSC NDA إلى حجم الإشعار (350 × 350 px) ونطاق 20–300 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/upsc-nda-photo-size.html",
+  "id": "/ar/upsc-nda-photo-size.html",
   "start_url": "./upsc-nda-photo-size.html",
   "scope": "./upsc-nda-photo-size.html",
   "display": "standalone",

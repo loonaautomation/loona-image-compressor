@@ -2,7 +2,7 @@
   "name": "Loona PNG til ICO-konverter",
   "short_name": "PNG til ICO-konverter",
   "description": "Konverter PNG til ICO på nett, gratis, i nettleseren din. Ekte konvertering på enheten din — ingen opplasting, ingen registrering, ingen vannmerker.",
-  "id": "/loona-image-compressor/nb/png-to-ico.html",
+  "id": "/nb/png-to-ico.html",
   "start_url": "./png-to-ico.html",
   "scope": "./png-to-ico.html",
   "display": "standalone",

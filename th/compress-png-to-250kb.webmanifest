@@ -2,7 +2,7 @@
   "name": "Loona บีบอัด PNG ให้เหลือ 250 KB ออนไลน์",
   "short_name": "บีบอัด PNG ให้เหลือ 250 KB",
   "description": "บีบอัดรูปภาพ PNG ให้เหลือ 250 KB หรือต่ำกว่า ฟรีในเบราว์เซอร์ของคุณ การค้นหาอัตโนมัติจะหาคุณภาพที่ดีที่สุดที่พอดี — ไม่ต้องสมัครสมาชิก ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/compress-png-to-250kb.html",
+  "id": "/th/compress-png-to-250kb.html",
   "start_url": "./compress-png-to-250kb.html",
   "scope": "./compress-png-to-250kb.html",
   "display": "standalone",

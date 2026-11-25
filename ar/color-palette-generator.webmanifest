@@ -2,7 +2,7 @@
   "name": "Loona مولّد لوحات الألوان",
   "short_name": "مولّد لوحات الألوان",
   "description": "ولّد لوحات ألوان متناغمة من أي لون أساسي — مخططات متناظرة ومكمّلة وثلاثية وأحادية اللون مع أكواد HEX قابلة للنسخ. مجانًا، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/color-palette-generator.html",
+  "id": "/ar/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",
   "scope": "./color-palette-generator.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar",
   "short_name": "Rozmiar",
   "description": "Utwórz LinkedIn baner profilu / strony dokładnie 1584×396 px. Darmowe narzędzie do zmiany rozmiaru/przycinania w przeglądarce z zasadami strefy bezpiecznej, które chronią przycięty tekst i twarze.",
-  "id": "/loona-image-compressor/pl/linkedin-banner-size.html",
+  "id": "/pl/linkedin-banner-size.html",
   "start_url": "./linkedin-banner-size.html",
   "scope": "./linkedin-banner-size.html",
   "display": "standalone",

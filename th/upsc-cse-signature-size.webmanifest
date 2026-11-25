@@ -2,7 +2,7 @@
   "name": "Loona ขนาดลายเซ็นUPSC Civil Services (IAS)",
   "short_name": "ขนาดลายเซ็นUPSC Civil",
   "description": "ปรับขนาดลายเซ็นUPSC Civil Services (IAS)ของคุณให้เป็นขนาดตามประกาศ (กล่องที่สแกน อัตราส่วนประมาณ 7:2) และช่วง 20–300 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/upsc-cse-signature-size.html",
+  "id": "/th/upsc-cse-signature-size.html",
   "start_url": "./upsc-cse-signature-size.html",
   "scope": "./upsc-cse-signature-size.html",
   "display": "standalone",

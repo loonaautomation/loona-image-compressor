@@ -2,7 +2,7 @@
   "name": "Loona 中國簽證照片 尺寸",
   "short_name": "中國簽證照片 尺寸",
   "description": "按官方尺寸 33×48 mm（390×567 px）製作 中國簽證照片，純白色背景。免費線上製作工具 — 裁剪、下載並列印照片頁，無需上傳。",
-  "id": "/loona-image-compressor/zh-hant/china-visa-photo-size.html",
+  "id": "/zh-hant/china-visa-photo-size.html",
   "start_url": "./china-visa-photo-size.html",
   "scope": "./china-visa-photo-size.html",
   "display": "standalone",

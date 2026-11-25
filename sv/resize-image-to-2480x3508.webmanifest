@@ -2,7 +2,7 @@
   "name": "Loona Ändra bildstorlek till 2480 × 3508 px online",
   "short_name": "Ändra bildstorlek till 2480 ×",
   "description": "Ändra storlek på valfri bild till exakt 2480×3508 px — A4 vid 300 DPI. Gratis i din webbläsare med beskärningskontroll; ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/resize-image-to-2480x3508.html",
+  "id": "/sv/resize-image-to-2480x3508.html",
   "start_url": "./resize-image-to-2480x3508.html",
   "scope": "./resize-image-to-2480x3508.html",
   "display": "standalone",

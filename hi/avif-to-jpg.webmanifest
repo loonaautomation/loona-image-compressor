@@ -2,7 +2,7 @@
   "name": "Loona AVIF से JPG कन्वर्टर",
   "short_name": "AVIF से JPG कन्वर्टर",
   "description": "AVIF को JPG में ऑनलाइन कन्वर्ट करें, मुफ़्त, आपके ब्राउज़र में. आपके डिवाइस पर असली कन्वर्ज़न — न अपलोड, न साइन-अप, न वॉटरमार्क.",
-  "id": "/loona-image-compressor/hi/avif-to-jpg.html",
+  "id": "/hi/avif-to-jpg.html",
   "start_url": "./avif-to-jpg.html",
   "scope": "./avif-to-jpg.html",
   "display": "standalone",

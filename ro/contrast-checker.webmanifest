@@ -2,7 +2,7 @@
   "name": "Loona Verificator de contrast",
   "short_name": "Verificator de contrast",
   "description": "Verifică culorile textului și fundalului în raport cu WCAG: raport de contrast instantaneu, cu trecut/picat AA și AAA pentru text normal și mare, plus o previzualizare live. Gratuit, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/contrast-checker.html",
+  "id": "/ro/contrast-checker.html",
   "start_url": "./contrast-checker.html",
   "scope": "./contrast-checker.html",
   "display": "standalone",

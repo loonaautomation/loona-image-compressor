@@ -2,7 +2,7 @@
   "name": "Loona Formato Firma AFCAT",
   "short_name": "Formato Firma AFCAT",
   "description": "Ridimensiona la tua firma AFCAT al formato previsto dal bando (riquadro scansionato, rapporto circa 7:2) e all&#x27;intervallo 10–50 KB. Gratis, nel tuo browser: senza caricamenti e senza registrazione.",
-  "id": "/loona-image-compressor/it/afcat-signature-size.html",
+  "id": "/it/afcat-signature-size.html",
   "start_url": "./afcat-signature-size.html",
   "scope": "./afcat-signature-size.html",
   "display": "standalone",

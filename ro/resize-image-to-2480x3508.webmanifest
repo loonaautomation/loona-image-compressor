@@ -2,7 +2,7 @@
   "name": "Loona Redimensionează imaginea la 2480 × 3508 px online",
   "short_name": "Redimensionează imaginea la",
   "description": "Redimensionează orice imagine la exact 2480×3508 px — A4 la 300 DPI. Gratuit în browserul tău, cu control al decupării; fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/resize-image-to-2480x3508.html",
+  "id": "/ro/resize-image-to-2480x3508.html",
   "start_url": "./resize-image-to-2480x3508.html",
   "scope": "./resize-image-to-2480x3508.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Komprimera bild till valfri KB-storlek",
   "short_name": "Komprimera bild till valfri",
   "description": "Varje verktyg för komprimering till storlek: 16 målstorlekar i JPG, PNG och WebP, från 10 KB till 2 MB. Gratis, i din webbläsare.",
-  "id": "/loona-image-compressor/sv/compress-image-sizes.html",
+  "id": "/sv/compress-image-sizes.html",
   "start_url": "./compress-image-sizes.html",
   "scope": "./compress-image-sizes.html",
   "display": "standalone",

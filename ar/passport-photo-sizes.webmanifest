@@ -2,7 +2,7 @@
   "name": "Loona أحجام صور جواز السفر والتأشيرة حسب الدولة",
   "short_name": "أحجام صور جواز السفر",
   "description": "أحجام رسمية لصور جواز السفر والتأشيرة وبطاقة الهوية لـ40 دولة ومستنداً، كل منها مع أداة صانع بالمليمتر والبكسل الدقيقين.",
-  "id": "/loona-image-compressor/ar/passport-photo-sizes.html",
+  "id": "/ar/passport-photo-sizes.html",
   "start_url": "./passport-photo-sizes.html",
   "scope": "./passport-photo-sizes.html",
   "display": "standalone",

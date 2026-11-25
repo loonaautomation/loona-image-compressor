@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do paszportu Japonii",
   "short_name": "Rozmiar Zdjęcie do paszportu",
   "description": "Utwórz Zdjęcie do paszportu Japonii w oficjalnym rozmiarze 35×45 mm (413×531 px), tło: gładkie białe lub jasne, bez wzorów. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/japan-passport-photo-size.html",
+  "id": "/pl/japan-passport-photo-size.html",
   "start_url": "./japan-passport-photo-size.html",
   "scope": "./japan-passport-photo-size.html",
   "display": "standalone",

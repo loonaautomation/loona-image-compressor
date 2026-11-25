@@ -2,7 +2,7 @@
   "name": "Loona GIF",
   "short_name": "GIF",
   "description": "Konvertáljon GIF fájlt WEBP formátumba online, ingyen, a böngészőjében. Valódi konvertálás a saját eszközén — feltöltés, regisztráció és vízjelek nélkül.",
-  "id": "/loona-image-compressor/hu/gif-to-webp.html",
+  "id": "/hu/gif-to-webp.html",
   "start_url": "./gif-to-webp.html",
   "scope": "./gif-to-webp.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona GATEの写真サイズ",
   "short_name": "GATEの写真サイズ",
   "description": "GATEの写真を告知サイズ（480 × 640 px）と5–200 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
-  "id": "/loona-image-compressor/ja/gate-photo-size.html",
+  "id": "/ja/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JEE Main Underskrift størrelse",
   "short_name": "JEE Main Underskrift størrelse",
   "description": "Tilpas størrelsen på dit JEE Main underskrift til meddelelsens størrelse (scannet felt, forhold cirka 7:2) og båndet 4–30 KB. Gratis, i din browser — ingen upload, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/jee-main-signature-size.html",
+  "id": "/da/jee-main-signature-size.html",
   "start_url": "./jee-main-signature-size.html",
   "scope": "./jee-main-signature-size.html",
   "display": "standalone",

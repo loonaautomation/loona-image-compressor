@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Tanda Tangan UPSC NDA",
   "short_name": "Ukuran Tanda Tangan UPSC NDA",
   "description": "Ubah ukuran tanda tangan UPSC NDA Anda ke ukuran pemberitahuan (kotak pindaian, rasio sekitar 7:2) dan rentang 20–300 KB. Gratis, di browser Anda — tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/upsc-nda-signature-size.html",
+  "id": "/id/upsc-nda-signature-size.html",
   "start_url": "./upsc-nda-signature-size.html",
   "scope": "./upsc-nda-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Copertă Reels Instagram",
   "short_name": "Dimensiune Copertă Reels",
   "description": "Creează un copertă reels Instagram la exact 1080×1920 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/instagram-reels-cover-size.html",
+  "id": "/ro/instagram-reels-cover-size.html",
   "start_url": "./instagram-reels-cover-size.html",
   "scope": "./instagram-reels-cover-size.html",
   "display": "standalone",

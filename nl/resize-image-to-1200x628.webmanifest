@@ -2,7 +2,7 @@
   "name": "Loona Afbeelding aanpassen naar 1200 × 628",
   "short_name": "Afbeelding aanpassen naar",
   "description": "Pas elke afbeelding gratis aan tot exact 1200 × 628 pixels (Facebook and LinkedIn link shares and ads). Dekken, behouden of uitrekken, JPG of PNG, direct downloaden — geen aanmelding, niets geüpload.",
-  "id": "/loona-image-compressor/nl/resize-image-to-1200x628.html",
+  "id": "/nl/resize-image-to-1200x628.html",
   "start_url": "./resize-image-to-1200x628.html",
   "scope": "./resize-image-to-1200x628.html",
   "display": "standalone",

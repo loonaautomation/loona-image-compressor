@@ -2,7 +2,7 @@
   "name": "Loona Pakkaa JPG kokoon 75 KB verkossa",
   "short_name": "Pakkaa JPG kokoon 75 KB",
   "description": "Pakkaa JPG-kuva kokoon 75 KB tai alle, ilmaiseksi selaimessasi. Automaattinen haku löytää parhaan mahtuvan laadun — ilman rekisteröitymistä ja ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/compress-jpg-to-75kb.html",
+  "id": "/fi/compress-jpg-to-75kb.html",
   "start_url": "./compress-jpg-to-75kb.html",
   "scope": "./compress-jpg-to-75kb.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Instagram Reels কভার আকার",
   "short_name": "Instagram Reels কভার আকার",
   "description": "ঠিক 1080×1920 px-এ একটি Instagram reels কভার তৈরি করুন। আপনার ব্রাউজারে বিনামূল্যে রিসাইজার/ক্রপার, ক্রপ করা লেখা ও মুখ আটকায় এমন নিরাপদ-অঞ্চলের নিয়মসহ।",
-  "id": "/loona-image-compressor/bn/instagram-reels-cover-size.html",
+  "id": "/bn/instagram-reels-cover-size.html",
   "start_url": "./instagram-reels-cover-size.html",
   "scope": "./instagram-reels-cover-size.html",
   "display": "standalone",

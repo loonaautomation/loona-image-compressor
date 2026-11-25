@@ -2,7 +2,7 @@
   "name": "Loona Instagram Historie størrelse",
   "short_name": "Instagram Historie størrelse",
   "description": "Lav en Instagram historie på præcis 1080×1920 px. Gratis størrelses- og beskæringsværktøj i din browser med sikkerhedszonereglerne, der forhindrer beskåret tekst og ansigter.",
-  "id": "/loona-image-compressor/da/instagram-story-size.html",
+  "id": "/da/instagram-story-size.html",
   "start_url": "./instagram-story-size.html",
   "scope": "./instagram-story-size.html",
   "display": "standalone",

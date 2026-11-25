@@ -2,7 +2,7 @@
   "name": "Loona Zmeniť veľkosť obrázka na 1200 × 628",
   "short_name": "Zmeniť veľkosť obrázka na",
   "description": "Zmeňte veľkosť akéhokoľvek obrázka presne na 1200 × 628 pixelov (Facebook and LinkedIn link shares and ads) zadarmo. Pokrytie, prispôsobenie dovnútra alebo roztiahnutie, JPG alebo PNG, okamžité stiahnutie — bez registrácie, nič sa nenahráva.",
-  "id": "/loona-image-compressor/sk/resize-image-to-1200x628.html",
+  "id": "/sk/resize-image-to-1200x628.html",
   "start_url": "./resize-image-to-1200x628.html",
   "scope": "./resize-image-to-1200x628.html",
   "display": "standalone",

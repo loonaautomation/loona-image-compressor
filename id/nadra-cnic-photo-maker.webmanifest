@@ -2,7 +2,7 @@
   "name": "Loona Pembuat Foto NADRA / CNIC",
   "short_name": "Pembuat Foto NADRA / CNIC",
   "description": "Buat foto CNIC NADRA online gratis: tepat 350×467 px untuk unggahan Pak-ID dan ukuran cetak 35×45 mm. Latar belakang putih, tanpa pendaftaran, sepenuhnya privat.",
-  "id": "/loona-image-compressor/id/nadra-cnic-photo-maker.html",
+  "id": "/id/nadra-cnic-photo-maker.html",
   "start_url": "./nadra-cnic-photo-maker.html",
   "scope": "./nadra-cnic-photo-maker.html",
   "display": "standalone",

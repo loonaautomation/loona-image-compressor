@@ -2,7 +2,7 @@
   "name": "Loona Veličina TikTok Okvir videozapisa",
   "short_name": "Veličina TikTok Okvir",
   "description": "Izradite TikTok okvir videozapisa na točno 1080×1920 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/tiktok-video-frame-size.html",
+  "id": "/hr/tiktok-video-frame-size.html",
   "start_url": "./tiktok-video-frame-size.html",
   "scope": "./tiktok-video-frame-size.html",
   "display": "standalone",

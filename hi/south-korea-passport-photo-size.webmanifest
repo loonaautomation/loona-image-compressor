@@ -2,7 +2,7 @@
   "name": "Loona दक्षिण कोरिया पासपोर्ट फ़ोटो साइज़",
   "short_name": "दक्षिण कोरिया पासपोर्ट फ़ोटो",
   "description": "आधिकारिक साइज़ 35×45 mm (413×531 px) पर दक्षिण कोरिया पासपोर्ट फ़ोटो बनाएँ, सादा सफ़ेद बैकग्राउंड. मुफ़्त ऑनलाइन मेकर — क्रॉप, डाउनलोड और प्रिंट शीट, बिना अपलोड.",
-  "id": "/loona-image-compressor/hi/south-korea-passport-photo-size.html",
+  "id": "/hi/south-korea-passport-photo-size.html",
   "start_url": "./south-korea-passport-photo-size.html",
   "scope": "./south-korea-passport-photo-size.html",
   "display": "standalone",

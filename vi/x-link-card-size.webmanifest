@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ảnh thẻ liên kết X (Twitter)",
   "short_name": "Kích thước Ảnh thẻ liên kết X",
   "description": "Tạo ảnh thẻ liên kết X (Twitter) chính xác 1200×628 px. Công cụ thay đổi kích thước/cắt ảnh miễn phí trong trình duyệt của bạn, kèm các quy tắc vùng an toàn giúp văn bản và khuôn mặt không bị cắt mất.",
-  "id": "/loona-image-compressor/vi/x-link-card-size.html",
+  "id": "/vi/x-link-card-size.html",
   "start_url": "./x-link-card-size.html",
   "scope": "./x-link-card-size.html",
   "display": "standalone",

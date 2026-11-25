@@ -2,7 +2,7 @@
   "name": "Loona AFCAT Aláírás méret",
   "short_name": "AFCAT Aláírás méret",
   "description": "Méretezze át a AFCAT aláírás fájlját a kiírás szerinti méretre (szkennelt mező, kb. 7:2 arány) és a 10–50 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/afcat-signature-size.html",
+  "id": "/hu/afcat-signature-size.html",
   "start_url": "./afcat-signature-size.html",
   "scope": "./afcat-signature-size.html",
   "display": "standalone",

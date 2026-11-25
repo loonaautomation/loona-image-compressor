@@ -2,7 +2,7 @@
   "name": "Loona Převodník JPG na ICO",
   "short_name": "Převodník JPG na ICO",
   "description": "Převeďte JPG na ICO online, zdarma, ve svém prohlížeči. Skutečný převod ve vašem zařízení — bez nahrávání, bez registrace, bez vodoznaků.",
-  "id": "/loona-image-compressor/cs/jpg-to-ico.html",
+  "id": "/cs/jpg-to-ico.html",
   "start_url": "./jpg-to-ico.html",
   "scope": "./jpg-to-ico.html",
   "display": "standalone",

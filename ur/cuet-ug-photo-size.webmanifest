@@ -2,7 +2,7 @@
   "name": "Loona CUET UG تصویر کا سائز",
   "short_name": "CUET UG تصویر کا سائز",
   "description": "اپنی CUET UG تصویر کو نوٹیفکیشن سائز (3.5 × 4.5 cm (تقریباً 413 × 531 px، 300 DPI پر)) اور 10–200 KB بینڈ کے مطابق بنائیں۔ مفت، آپ کے براؤزر میں — نہ اپ لوڈ، نہ سائن اپ۔",
-  "id": "/loona-image-compressor/ur/cuet-ug-photo-size.html",
+  "id": "/ur/cuet-ug-photo-size.html",
   "start_url": "./cuet-ug-photo-size.html",
   "scope": "./cuet-ug-photo-size.html",
   "display": "standalone",

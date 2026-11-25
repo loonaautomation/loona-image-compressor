@@ -2,7 +2,7 @@
   "name": "Loona Κεφαλίδα / Banner X (Twitter)",
   "short_name": "Κεφαλίδα / Banner X (Twitter)",
   "description": "Δημιουργήστε ένα κεφαλίδα / banner X (Twitter) σε ακριβώς 1500×500 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/x-header-size.html",
+  "id": "/el/x-header-size.html",
   "start_url": "./x-header-size.html",
   "scope": "./x-header-size.html",
   "display": "standalone",

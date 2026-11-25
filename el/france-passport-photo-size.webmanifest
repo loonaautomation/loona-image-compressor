@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Διαβατηρίου / Ταυτότητας Γαλλίας",
   "short_name": "Φωτογραφία Διαβατηρίου /",
   "description": "Δημιουργήστε Φωτογραφία Διαβατηρίου / Ταυτότητας Γαλλίας στο επίσημο μέγεθος 35×45 mm (413×531 px), φόντο απλό ανοιχτό γκρι ή ανοιχτό μπλε. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/france-passport-photo-size.html",
+  "id": "/el/france-passport-photo-size.html",
   "start_url": "./france-passport-photo-size.html",
   "scope": "./france-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Fotografie ke zkoušce se jménem a datem",
   "short_name": "Fotografie ke zkoušce se",
   "description": "Vytvořte fotografii ke zkoušce s vaším jménem a datem vytištěným dole zdarma — formát zkoušek před komisí používaný v Pákistánu a Indii. Soukromé, registrace není potřeba.",
-  "id": "/loona-image-compressor/cs/exam-photo-name-date.html",
+  "id": "/cs/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona YouTube 社区帖子图片 尺寸",
   "short_name": "YouTube 社区帖子图片 尺寸",
   "description": "按精确的 1080×1080 px 制作 YouTube 社区帖子图片。在浏览器中免费调整大小/裁剪，附有安全区规则，防止文字和面部被裁掉。",
-  "id": "/loona-image-compressor/zh/youtube-community-post-size.html",
+  "id": "/zh/youtube-community-post-size.html",
   "start_url": "./youtube-community-post-size.html",
   "scope": "./youtube-community-post-size.html",
   "display": "standalone",

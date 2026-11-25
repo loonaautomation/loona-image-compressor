@@ -2,7 +2,7 @@
   "name": "Loona บีบอัด JPG ให้เหลือ 500 KB ออนไลน์",
   "short_name": "บีบอัด JPG ให้เหลือ 500 KB",
   "description": "บีบอัดรูปภาพ JPG ให้เหลือ 500 KB หรือต่ำกว่า ฟรีในเบราว์เซอร์ของคุณ การค้นหาอัตโนมัติจะหาคุณภาพที่ดีที่สุดที่พอดี — ไม่ต้องสมัครสมาชิก ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/compress-jpg-to-500kb.html",
+  "id": "/th/compress-jpg-to-500kb.html",
   "start_url": "./compress-jpg-to-500kb.html",
   "scope": "./compress-jpg-to-500kb.html",
   "display": "standalone",

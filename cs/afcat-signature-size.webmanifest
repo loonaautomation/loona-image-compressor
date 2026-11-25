@@ -2,7 +2,7 @@
   "name": "Loona Velikost AFCAT Podpis",
   "short_name": "Velikost AFCAT Podpis",
   "description": "Změňte velikost souboru AFCAT podpis na velikost podle oznámení (naskenované pole, poměr asi 7:2) a pásmo 10–50 KB. Zdarma, ve vašem prohlížeči — bez nahrávání a bez registrace.",
-  "id": "/loona-image-compressor/cs/afcat-signature-size.html",
+  "id": "/cs/afcat-signature-size.html",
   "start_url": "./afcat-signature-size.html",
   "scope": "./afcat-signature-size.html",
   "display": "standalone",

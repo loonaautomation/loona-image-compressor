@@ -2,7 +2,7 @@
   "name": "Loona Képmetaadatok eltávolítása",
   "short_name": "Képmetaadatok eltávolítása",
   "description": "Távolítsa el az EXIF, GPS-hely, XMP és IPTC metaadatokat a JPG, PNG és WebP fotókról online ingyen. Bájtszintű eltávolítás — a pixelek soha nem kódolódnak újra, így a minőség érintetlen. Újraszkenneléssel igazolva, 100%-ban privát a böngészőjében.",
-  "id": "/loona-image-compressor/hu/remove-image-metadata.html",
+  "id": "/hu/remove-image-metadata.html",
   "start_url": "./remove-image-metadata.html",
   "scope": "./remove-image-metadata.html",
   "display": "standalone",

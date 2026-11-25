@@ -2,7 +2,7 @@
   "name": "Loona Αφαίρεση φόντου υπογραφής",
   "short_name": "Αφαίρεση φόντου υπογραφής",
   "description": "Αφαιρέστε το χάρτινο φόντο από μια φωτογραφία υπογραφής ή σφραγίδας και κατεβάστε ένα διαφανές PNG, δωρεάν στο διαδίκτυο. Καθαρό εργαλείο καμβά προγράμματος περιήγησης — χωρίς τεχνητή νοημοσύνη, χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/signature-background-remover.html",
+  "id": "/el/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

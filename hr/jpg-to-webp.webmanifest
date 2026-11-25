@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač JPG u WebP",
   "short_name": "Pretvarač JPG u WebP",
   "description": "Pretvorite JPG u WebP na mreži besplatno i smanjite slike web stranica za 25–40% pri istoj kvaliteti. U vašem pregledniku — bez registracije, bez prijenosa, bez vodenog žiga.",
-  "id": "/loona-image-compressor/hr/jpg-to-webp.html",
+  "id": "/hr/jpg-to-webp.html",
   "start_url": "./jpg-to-webp.html",
   "scope": "./jpg-to-webp.html",
   "display": "standalone",

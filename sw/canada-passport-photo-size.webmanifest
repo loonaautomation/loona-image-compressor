@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Pasipoti ya Kanada",
   "short_name": "Ukubwa wa Picha ya Pasipoti",
   "description": "Tengeneza Picha ya Pasipoti ya Kanada katika ukubwa rasmi wa milimita 50×70 (px 591×827), mandharinyuma ya nyeupe tambarare au rangi nyepesi. Kitengenezaji bure cha mtandaoni — kata, pakua na uchapishe karatasi, bila kupakia.",
-  "id": "/loona-image-compressor/sw/canada-passport-photo-size.html",
+  "id": "/sw/canada-passport-photo-size.html",
   "start_url": "./canada-passport-photo-size.html",
   "scope": "./canada-passport-photo-size.html",
   "display": "standalone",

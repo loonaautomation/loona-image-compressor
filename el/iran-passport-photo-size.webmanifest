@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Διαβατηρίου Ιράν",
   "short_name": "Φωτογραφία Διαβατηρίου Ιράν",
   "description": "Δημιουργήστε Φωτογραφία Διαβατηρίου Ιράν στο επίσημο μέγεθος 30×40 mm (354×472 px), φόντο απλό λευκό ή ανοιχτό. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/iran-passport-photo-size.html",
+  "id": "/el/iran-passport-photo-size.html",
   "start_url": "./iran-passport-photo-size.html",
   "scope": "./iran-passport-photo-size.html",
   "display": "standalone",

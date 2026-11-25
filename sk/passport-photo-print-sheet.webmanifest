@@ -2,7 +2,7 @@
   "name": "Loona Tlačový hárok pasových fotografií",
   "short_name": "Tlačový hárok pasových",
   "description": "Dajte 4, 6 alebo 8 pasových fotografií na jeden tlačový hárok A4 zadarmo pri 300 DPI. Tlačte na 100 %, strihajte podľa vodiacich čiar a ušetrite peniaze za štúdio. Bez registrácie, úplne súkromné.",
-  "id": "/loona-image-compressor/sk/passport-photo-print-sheet.html",
+  "id": "/sk/passport-photo-print-sheet.html",
   "start_url": "./passport-photo-print-sheet.html",
   "scope": "./passport-photo-print-sheet.html",
   "display": "standalone",

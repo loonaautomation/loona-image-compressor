@@ -2,7 +2,7 @@
   "name": "Loona BMP",
   "short_name": "BMP",
   "description": "Konvertáljon BMP fájlt WEBP formátumba online, ingyen, a böngészőjében. Valódi konvertálás a saját eszközén — feltöltés, regisztráció és vízjelek nélkül.",
-  "id": "/loona-image-compressor/hu/bmp-to-webp.html",
+  "id": "/hu/bmp-to-webp.html",
   "start_url": "./bmp-to-webp.html",
   "scope": "./bmp-to-webp.html",
   "display": "standalone",

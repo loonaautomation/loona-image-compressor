@@ -2,7 +2,7 @@
   "name": "Loona حجم لافتة القناة YouTube",
   "short_name": "حجم لافتة القناة YouTube",
   "description": "اصنع لافتة القناة YouTube بمقاس 2560×1440 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/youtube-banner-size.html",
+  "id": "/ar/youtube-banner-size.html",
   "start_url": "./youtube-banner-size.html",
   "scope": "./youtube-banner-size.html",
   "display": "standalone",

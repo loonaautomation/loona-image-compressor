@@ -2,7 +2,7 @@
   "name": "Loona محوّل SVG إلى JPG",
   "short_name": "محوّل SVG إلى JPG",
   "description": "حوّل SVG إلى JPG عبر الإنترنت مجانًا — عرّض شعارات ورسوم المتجهات كملفات JPG عالمية بأي عرض. بلا تسجيل، بلا رفع، في متصفحك.",
-  "id": "/loona-image-compressor/ar/svg-to-jpg.html",
+  "id": "/ar/svg-to-jpg.html",
   "start_url": "./svg-to-jpg.html",
   "scope": "./svg-to-jpg.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Muuta kuvan koko kokoon 1280 × 720",
   "short_name": "Muuta kuvan koko kokoon 1280",
   "description": "Muuta minkä tahansa kuvan koko täsmälleen kokoon 1280 × 720 pikseliä (YouTube-pikkukuvat ja HD-video) ilmaiseksi. Peitä, sisällä tai venytä, JPG tai PNG, lataa heti — ei rekisteröitymistä, mitään ei ladata palvelimelle.",
-  "id": "/loona-image-compressor/fi/resize-image-to-1280x720.html",
+  "id": "/fi/resize-image-to-1280x720.html",
   "start_url": "./resize-image-to-1280x720.html",
   "scope": "./resize-image-to-1280x720.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Μεγέθη Φωτογραφιών &amp; Υπογραφών Εξετάσεων",
   "short_name": "Μεγέθη Φωτογραφιών &amp;",
   "description": "Μεγέθη φωτογραφιών και υπογραφών και ζώνες KB για 20 μεγάλες ινδικές εξετάσεις — SSC, IBPS, SBI, UPSC, RRB, JEE, NEET και άλλες, η καθεμία με εργαλείο δημιουργίας.",
-  "id": "/loona-image-compressor/el/exam-photo-sizes.html",
+  "id": "/el/exam-photo-sizes.html",
   "start_url": "./exam-photo-sizes.html",
   "scope": "./exam-photo-sizes.html",
   "display": "standalone",

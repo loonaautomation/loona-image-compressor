@@ -2,7 +2,7 @@
   "name": "Loona Konverter ICO ke PNG",
   "short_name": "Konverter ICO ke PNG",
   "description": "Konversi ICO ke PNG online, gratis, di browser Anda. Konversi nyata di perangkat Anda — tanpa unggah, tanpa pendaftaran, tanpa tanda air.",
-  "id": "/loona-image-compressor/id/ico-to-png.html",
+  "id": "/id/ico-to-png.html",
   "start_url": "./ico-to-png.html",
   "scope": "./ico-to-png.html",
   "display": "standalone",

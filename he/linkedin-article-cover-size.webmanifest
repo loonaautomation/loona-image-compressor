@@ -2,7 +2,7 @@
   "name": "Loona גודל שער מאמר / ניוזלטר LinkedIn",
   "short_name": "גודל שער מאמר / ניוזלטר",
   "description": "צרו שער מאמר / ניוזלטר של LinkedIn בדיוק ב־1200×644 px. משנה גודל/חיתוך בחינם בדפדפן שלכם, עם כללי אזור הבטיחות שמונעים חיתוך של טקסט ופנים.",
-  "id": "/loona-image-compressor/he/linkedin-article-cover-size.html",
+  "id": "/he/linkedin-article-cover-size.html",
   "start_url": "./linkedin-article-cover-size.html",
   "scope": "./linkedin-article-cover-size.html",
   "display": "standalone",

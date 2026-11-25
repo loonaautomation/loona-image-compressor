@@ -2,7 +2,7 @@
   "name": "Loona Penghapus Latar Belakang Tanda Tangan",
   "short_name": "Penghapus Latar Belakang Tanda Tangan",
   "description": "Hapus latar belakang kertas dari foto tanda tangan atau stempel dan unduh PNG transparan, gratis secara daring. Alat canvas peramban murni — tanpa AI, tanpa unggahan, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/signature-background-remover.html",
+  "id": "/id/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

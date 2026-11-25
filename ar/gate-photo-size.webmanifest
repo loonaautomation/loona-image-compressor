@@ -2,7 +2,7 @@
   "name": "Loona حجم الصورة الفوتوغرافية GATE",
   "short_name": "حجم الصورة الفوتوغرافية GATE",
   "description": "غيّر حجم الصورة الخاص بك لامتحان GATE إلى حجم الإشعار (480 × 640 px) ونطاق 5–200 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/gate-photo-size.html",
+  "id": "/ar/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

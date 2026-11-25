@@ -2,7 +2,7 @@
   "name": "Loona Yüz Bulanıklaştırma – Fotoğraflardaki Yüzleri &amp; Özel Ayrıntıları Çevrimiçi Ücretsiz Bulanıklaştırın",
   "short_name": "Yüz Bulanıklaştırma – Fotoğraflardaki Yüzleri &amp; Özel Ayrıntıları Çevrimiçi Ücretsiz Bulanıklaştırın",
   "description": "Herhangi bir fotoğraftaki yüzleri, plakaları ve özel ayrıntıları bulanıklaştırın veya pikselleştirin. Alanları kendiniz seçersiniz, gücü seçersiniz, önizleme yapar ve indirirsiniz — ücretsiz, kayıt yok ve fotoğrafınız cihazınızdan asla ayrılmaz.",
-  "id": "/loona-image-compressor/tr/face-blur.html",
+  "id": "/tr/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

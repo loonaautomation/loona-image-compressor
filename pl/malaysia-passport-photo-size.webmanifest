@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do paszportu Malezji",
   "short_name": "Rozmiar Zdjęcie do paszportu",
   "description": "Utwórz Zdjęcie do paszportu Malezji w oficjalnym rozmiarze 35×50 mm (413×591 px), tło: gładkie białe. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/malaysia-passport-photo-size.html",
+  "id": "/pl/malaysia-passport-photo-size.html",
   "start_url": "./malaysia-passport-photo-size.html",
   "scope": "./malaysia-passport-photo-size.html",
   "display": "standalone",

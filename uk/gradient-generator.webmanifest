@@ -2,7 +2,7 @@
   "name": "Loona Генератор градієнтів CSS",
   "short_name": "Генератор градієнтів CSS",
   "description": "Створюйте лінійні градієнти CSS із двома або трьома кольорами й будь-яким кутом, переглядайте їх наживо та копіюйте готовий код CSS. Безкоштовно, без реєстрації.",
-  "id": "/loona-image-compressor/uk/gradient-generator.html",
+  "id": "/uk/gradient-generator.html",
   "start_url": "./gradient-generator.html",
   "scope": "./gradient-generator.html",
   "display": "standalone",

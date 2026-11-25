@@ -2,7 +2,7 @@
   "name": "Loona حجم قصة Instagram",
   "short_name": "حجم قصة Instagram",
   "description": "اصنع قصة Instagram بمقاس 1080×1920 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/instagram-story-size.html",
+  "id": "/ar/instagram-story-size.html",
   "start_url": "./instagram-story-size.html",
   "scope": "./instagram-story-size.html",
   "display": "standalone",

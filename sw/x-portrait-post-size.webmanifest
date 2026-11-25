@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Chapisho la Wima (4",
   "short_name": "Ukubwa wa Chapisho la Wima (4",
   "description": "Tengeneza chapisho la wima (4:5) ya X (Twitter) katika px 1080×1350 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/x-portrait-post-size.html",
+  "id": "/sw/x-portrait-post-size.html",
   "start_url": "./x-portrait-post-size.html",
   "scope": "./x-portrait-post-size.html",
   "display": "standalone",

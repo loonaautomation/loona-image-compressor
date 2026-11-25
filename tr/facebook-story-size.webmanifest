@@ -2,7 +2,7 @@
   "name": "Loona Facebook Hikaye Boyutu — 1080×1920 px",
   "short_name": "Facebook Hikaye Boyutu — 1080×1920 px",
   "description": "Tam olarak 1080×1920 px ölçüsünde bir Facebook hikaye oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/facebook-story-size.html",
+  "id": "/tr/facebook-story-size.html",
   "start_url": "./facebook-story-size.html",
   "scope": "./facebook-story-size.html",
   "display": "standalone",

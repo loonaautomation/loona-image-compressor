@@ -2,7 +2,7 @@
   "name": "Loona محوّل الصور إلى PDF",
   "short_name": "محوّل الصور إلى PDF",
   "description": "حوّل الصور إلى PDF عبر الإنترنت مجانًا: أضف صور JPG أو PNG أو WebP، اختر صفحات A4 أو Letter أو ملاءمة للصورة ونزّل PDF واحدًا أنيقًا. بلا رفوعات.",
-  "id": "/loona-image-compressor/ar/photo-to-pdf.html",
+  "id": "/ar/photo-to-pdf.html",
   "start_url": "./photo-to-pdf.html",
   "scope": "./photo-to-pdf.html",
   "display": "standalone",

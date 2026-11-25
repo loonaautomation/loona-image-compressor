@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Chữ ký IBPS RRB (Gramin Bank)",
   "short_name": "Kích thước Chữ ký IBPS RRB",
   "description": "Thay đổi kích thước chữ ký IBPS RRB (Gramin Bank) của bạn theo kích thước trong thông báo (140 × 60 px) và dải 10–20 KB. Miễn phí, ngay trong trình duyệt của bạn — không tải lên, không đăng ký.",
-  "id": "/loona-image-compressor/vi/ibps-rrb-signature-size.html",
+  "id": "/vi/ibps-rrb-signature-size.html",
   "start_url": "./ibps-rrb-signature-size.html",
   "scope": "./ibps-rrb-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Změnit velikost obrázku na 1080 × 1350",
   "short_name": "Změnit velikost obrázku na",
   "description": "Změňte velikost libovolného obrázku přesně na 1080 × 1350 pixelů (Instagram portrait posts in the 4:5 ratio) zdarma. Pokrytí, přizpůsobení dovnitř nebo roztažení, JPG nebo PNG, okamžité stažení — bez registrace, nic se nenahrává.",
-  "id": "/loona-image-compressor/cs/resize-image-to-1080x1350.html",
+  "id": "/cs/resize-image-to-1080x1350.html",
   "start_url": "./resize-image-to-1080x1350.html",
   "scope": "./resize-image-to-1080x1350.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona TikTok Fotoinlägg (kvadrat) Storlek",
   "short_name": "TikTok Fotoinlägg (kvadrat)",
   "description": "Skapa en TikTok fotoinlägg (kvadrat) på exakt 1080×1080 px. Gratis storleksändrare/beskärare i din webbläsare med säker-zon-reglerna som stoppar beskuren text och ansikten.",
-  "id": "/loona-image-compressor/sv/tiktok-photo-post-square-size.html",
+  "id": "/sv/tiktok-photo-post-square-size.html",
   "start_url": "./tiktok-photo-post-square-size.html",
   "scope": "./tiktok-photo-post-square-size.html",
   "display": "standalone",

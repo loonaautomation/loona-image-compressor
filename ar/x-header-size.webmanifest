@@ -2,7 +2,7 @@
   "name": "Loona حجم الترويسة / اللافتة X (Twitter)",
   "short_name": "حجم الترويسة / اللافتة X",
   "description": "اصنع الترويسة / اللافتة X (Twitter) بمقاس 1500×500 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/x-header-size.html",
+  "id": "/ar/x-header-size.html",
   "start_url": "./x-header-size.html",
   "scope": "./x-header-size.html",
   "display": "standalone",

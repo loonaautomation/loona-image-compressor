@@ -2,7 +2,7 @@
   "name": "Loona Ubah Ukuran Gambar ke 3840 × 2160 px Online",
   "short_name": "Ubah Ukuran Gambar ke 3840 ×",
   "description": "Ubah ukuran gambar apa pun tepat ke 3840×2160 px — Wallpaper / bingkai video 4K UHD. Gratis di browser Anda dengan kontrol potong; tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/resize-image-to-3840x2160.html",
+  "id": "/id/resize-image-to-3840x2160.html",
   "start_url": "./resize-image-to-3840x2160.html",
   "scope": "./resize-image-to-3840x2160.html",
   "display": "standalone",

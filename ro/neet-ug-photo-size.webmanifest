@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie NEET UG",
   "short_name": "Dimensiune Fotografie NEET UG",
   "description": "Redimensionează fotografie pentru NEET UG la dimensiunea din notificare (3,5 × 4,5 cm (aproximativ 413 × 531 px la 300 DPI)) și intervalul 10–200 KB. Gratuit, în browserul tău — fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/neet-ug-photo-size.html",
+  "id": "/ro/neet-ug-photo-size.html",
   "start_url": "./neet-ug-photo-size.html",
   "scope": "./neet-ug-photo-size.html",
   "display": "standalone",

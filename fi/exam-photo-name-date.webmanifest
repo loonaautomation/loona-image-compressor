@@ -2,7 +2,7 @@
   "name": "Loona Koekuva nimellä ja päivämäärällä",
   "short_name": "Koekuva nimellä ja",
   "description": "Luo koekuva, jossa nimesi ja päivämäärä on tulostettu alareunaan, ilmaiseksi — Pakistanissa ja Intiassa käytetty lautakuntakoemuoto. Yksityinen, rekisteröitymistä ei tarvita.",
-  "id": "/loona-image-compressor/fi/exam-photo-name-date.html",
+  "id": "/fi/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Semnătură RBI Assistant",
   "short_name": "Dimensiune Semnătură RBI",
   "description": "Redimensionează semnătură pentru RBI Assistant la dimensiunea din notificare (140 × 60 px) și intervalul 10–20 KB. Gratuit, în browserul tău — fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/rbi-assistant-signature-size.html",
+  "id": "/ro/rbi-assistant-signature-size.html",
   "start_url": "./rbi-assistant-signature-size.html",
   "scope": "./rbi-assistant-signature-size.html",
   "display": "standalone",

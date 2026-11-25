@@ -2,7 +2,7 @@
   "name": "Loona حجم غلاف الحدث Facebook",
   "short_name": "حجم غلاف الحدث Facebook",
   "description": "اصنع غلاف الحدث Facebook بمقاس 1920×1005 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/facebook-event-cover-size.html",
+  "id": "/ar/facebook-event-cover-size.html",
   "start_url": "./facebook-event-cover-size.html",
   "scope": "./facebook-event-cover-size.html",
   "display": "standalone",

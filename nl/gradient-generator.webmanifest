@@ -2,7 +2,7 @@
   "name": "Loona CSS-verloopgenerator",
   "short_name": "CSS-verloopgenerator",
   "description": "Bouw lineaire CSS-verlopen met twee of drie kleuren en elke hoek, bekijk ze live en kopieer de kant-en-klare CSS-code. Gratis, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/gradient-generator.html",
+  "id": "/nl/gradient-generator.html",
   "start_url": "./gradient-generator.html",
   "scope": "./gradient-generator.html",
   "display": "standalone",

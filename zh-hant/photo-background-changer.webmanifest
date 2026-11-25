@@ -2,7 +2,7 @@
   "name": "Loona 照片背景更換器",
   "short_name": "照片背景更換器",
   "description": "免費線上將照片背景更改為白色、藍色、淺灰色或紅色。洪水填充加畫筆工具，在您的瀏覽器中私密進行，無 AI 上傳。",
-  "id": "/loona-image-compressor/zh-hant/photo-background-changer.html",
+  "id": "/zh-hant/photo-background-changer.html",
   "start_url": "./photo-background-changer.html",
   "scope": "./photo-background-changer.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Компресиране на WebP до 200 KB онлайн",
   "short_name": "Компресиране на WebP до 200",
   "description": "Компресирайте изображение WebP до 200 KB или по-малко, безплатно във вашия браузър. Автоматичното търсене намира най-доброто качество, което се побира — без регистрация, без качване.",
-  "id": "/loona-image-compressor/bg/compress-webp-to-200kb.html",
+  "id": "/bg/compress-webp-to-200kb.html",
   "start_url": "./compress-webp-to-200kb.html",
   "scope": "./compress-webp-to-200kb.html",
   "display": "standalone",

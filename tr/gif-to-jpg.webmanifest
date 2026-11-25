@@ -2,7 +2,7 @@
   "name": "Loona GIF'den JPG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Hareketsiz Görüntü",
   "short_name": "GIF'den JPG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Hareketsiz Görüntü",
   "description": "GIF'i çevrimiçi ücretsiz olarak JPG'ye dönüştürün — bir GIF'i küçük, evrensel bir JPG hareketsiz görüntüsüne çevirin. Tarayıcınızda: kayıt yok, yükleme yok, filigran yok.",
-  "id": "/loona-image-compressor/tr/gif-to-jpg.html",
+  "id": "/tr/gif-to-jpg.html",
   "start_url": "./gif-to-jpg.html",
   "scope": "./gif-to-jpg.html",
   "display": "standalone",

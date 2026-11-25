@@ -2,7 +2,7 @@
   "name": "Loona Kínai vízumfotó méret",
   "short_name": "Kínai vízumfotó méret",
   "description": "Készítsen Kínai vízumfotó fotót a hivatalos 33×48 mm (390×567 px) méretben, sima fehér háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/china-visa-photo-size.html",
+  "id": "/hu/china-visa-photo-size.html",
   "start_url": "./china-visa-photo-size.html",
   "scope": "./china-visa-photo-size.html",
   "display": "standalone",

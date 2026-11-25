@@ -2,7 +2,7 @@
   "name": "Loona নাম ও তারিখসহ পরীক্ষার ছবি",
   "short_name": "নাম ও তারিখসহ পরীক্ষার ছবি",
   "description": "বিনামূল্যে নিচে আপনার নাম ও তারিখ মুদ্রিত একটি পরীক্ষার ছবি তৈরি করুন — পাকিস্তান ও ভারতে ব্যবহৃত বোর্ড-পরীক্ষার ফরম্যাট। গোপনীয়, কোনো সাইনআপ প্রয়োজন নেই।",
-  "id": "/loona-image-compressor/bn/exam-photo-name-date.html",
+  "id": "/bn/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

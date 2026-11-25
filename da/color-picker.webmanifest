@@ -2,7 +2,7 @@
   "name": "Loona Farvevælger",
   "short_name": "Farvevælger",
   "description": "Vælg enhver farve, og kopiér med det samme dens HEX-, RGB-, HSL- og HSV-værdier. Inkluderer en stribe med toner og skygger — gratis, ingen tilmelding, virker i din browser.",
-  "id": "/loona-image-compressor/da/color-picker.html",
+  "id": "/da/color-picker.html",
   "start_url": "./color-picker.html",
   "scope": "./color-picker.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Visa Kolombia",
   "short_name": "Ukuran Foto Visa Kolombia",
   "description": "Buat Foto Visa Kolombia pada ukuran resmi 30×40 mm (354×472 px), latar belakang putih polos. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/colombia-visa-photo-size.html",
+  "id": "/id/colombia-visa-photo-size.html",
   "start_url": "./colombia-visa-photo-size.html",
   "scope": "./colombia-visa-photo-size.html",
   "display": "standalone",

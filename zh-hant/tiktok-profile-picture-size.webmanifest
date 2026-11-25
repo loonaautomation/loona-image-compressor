@@ -2,7 +2,7 @@
   "name": "Loona TikTok 個人頭像 尺寸",
   "short_name": "TikTok 個人頭像 尺寸",
   "description": "按精確的 720×720 px 製作 TikTok 個人頭像。在瀏覽器中免費調整大小/裁剪，附有安全區規則，防止文字和麵部被裁掉。",
-  "id": "/loona-image-compressor/zh-hant/tiktok-profile-picture-size.html",
+  "id": "/zh-hant/tiktok-profile-picture-size.html",
   "start_url": "./tiktok-profile-picture-size.html",
   "scope": "./tiktok-profile-picture-size.html",
   "display": "standalone",

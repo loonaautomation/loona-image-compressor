@@ -2,7 +2,7 @@
   "name": "Loona Εικόνα Ανάρτησης / Συνδέσμου Facebook",
   "short_name": "Εικόνα Ανάρτησης / Συνδέσμου",
   "description": "Δημιουργήστε ένα εικόνα ανάρτησης / συνδέσμου Facebook σε ακριβώς 1200×630 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/facebook-post-image-size.html",
+  "id": "/el/facebook-post-image-size.html",
   "start_url": "./facebook-post-image-size.html",
   "scope": "./facebook-post-image-size.html",
   "display": "standalone",

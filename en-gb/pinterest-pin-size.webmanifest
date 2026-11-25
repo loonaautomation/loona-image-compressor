@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Standard Pin Size — 1000 × 1500 px",
   "short_name": "Pinterest Standard Pin Size — 1000 × 1500 px",
   "description": "Make a Pinterest standard pin at exactly 1000×1500 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/en-gb/pinterest-pin-size.html",
+  "id": "/en-gb/pinterest-pin-size.html",
   "start_url": "./pinterest-pin-size.html",
   "scope": "./pinterest-pin-size.html",
   "display": "standalone",

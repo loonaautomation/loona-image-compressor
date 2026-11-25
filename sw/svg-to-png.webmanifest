@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha SVG kuwa PNG",
   "short_name": "Kibadilishaji cha SVG kuwa PNG",
   "description": "Badilisha SVG kuwa PNG mtandaoni bure kwa upana wowote — picha kali za rasta kutoka nembo na aikoni za vekta. Bila kujisajili, bila kupakia, huendeshwa kwenye kivinjari chako.",
-  "id": "/loona-image-compressor/sw/svg-to-png.html",
+  "id": "/sw/svg-to-png.html",
   "start_url": "./svg-to-png.html",
   "scope": "./svg-to-png.html",
   "display": "standalone",

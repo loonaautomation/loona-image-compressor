@@ -2,7 +2,7 @@
   "name": "Loona Velikost X (Twitter) Obrázek příspěvku (16",
   "short_name": "Velikost X (Twitter) Obrázek",
   "description": "Vytvořte X (Twitter) obrázek příspěvku (16:9) přesně 1600×900 px. Bezplatný nástroj na změnu velikosti/ořez ve vašem prohlížeči s pravidly bezpečné zóny, která zabrání oříznutí textu a obličejů.",
-  "id": "/loona-image-compressor/cs/x-post-image-size.html",
+  "id": "/cs/x-post-image-size.html",
   "start_url": "./x-post-image-size.html",
   "scope": "./x-post-image-size.html",
   "display": "standalone",

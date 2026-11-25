@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do paszportu Holandii",
   "short_name": "Rozmiar Zdjęcie do paszportu",
   "description": "Utwórz Zdjęcie do paszportu Holandii w oficjalnym rozmiarze 35×45 mm (413×531 px), tło: gładkie jasnoszare lub białe, równomiernie oświetlone. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/netherlands-passport-photo-size.html",
+  "id": "/pl/netherlands-passport-photo-size.html",
   "start_url": "./netherlands-passport-photo-size.html",
   "scope": "./netherlands-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ubah Ukuran Gambar ke 140 × 60 px Online",
   "short_name": "Ubah Ukuran Gambar ke 140 ×",
   "description": "Ubah ukuran gambar apa pun tepat ke 140×60 px — Standar tanda tangan ujian India (SSC, IBPS, SBI). Gratis di browser Anda dengan kontrol potong; tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/resize-image-to-140x60.html",
+  "id": "/id/resize-image-to-140x60.html",
   "start_url": "./resize-image-to-140x60.html",
   "scope": "./resize-image-to-140x60.html",
   "display": "standalone",

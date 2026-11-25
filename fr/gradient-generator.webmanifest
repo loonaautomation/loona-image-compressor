@@ -2,7 +2,7 @@
   "name": "Loona Générateur de dégradés CSS",
   "short_name": "Générateur de dégradés CSS",
   "description": "Créez des dégradés linéaires CSS avec deux ou trois couleurs et n'importe quel angle, prévisualisez-les en direct et copiez le code CSS prêt. Gratuit, sans inscription.",
-  "id": "/loona-image-compressor/fr/gradient-generator.html",
+  "id": "/fr/gradient-generator.html",
   "start_url": "./gradient-generator.html",
   "scope": "./gradient-generator.html",
   "display": "standalone",

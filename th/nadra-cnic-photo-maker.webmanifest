@@ -2,7 +2,7 @@
   "name": "Loona เครื่องทำรูปถ่าย NADRA / CNIC",
   "short_name": "เครื่องทำรูปถ่าย NADRA / CNIC",
   "description": "ทำรูปถ่าย CNIC ของ NADRA ออนไลน์ฟรี: 350×467 px พอดีสำหรับการอัปโหลด Pak-ID และขนาดพิมพ์ 35×45 mm พื้นหลังสีขาว ไม่ต้องสมัครสมาชิก เป็นส่วนตัวเต็มที่",
-  "id": "/loona-image-compressor/th/nadra-cnic-photo-maker.html",
+  "id": "/th/nadra-cnic-photo-maker.html",
   "start_url": "./nadra-cnic-photo-maker.html",
   "scope": "./nadra-cnic-photo-maker.html",
   "display": "standalone",

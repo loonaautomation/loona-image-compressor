@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Φωτογραφίας σε PDF",
   "short_name": "Μετατροπέας Φωτογραφίας σε PDF",
   "description": "Μετατρέψτε φωτογραφίες σε PDF διαδικτυακά δωρεάν: προσθέστε εικόνες JPG, PNG ή WebP, επιλέξτε σελίδες A4, Letter ή προσαρμογή στην εικόνα και κατεβάστε ένα τακτοποιημένο PDF. Χωρίς μεταφορτώσεις.",
-  "id": "/loona-image-compressor/el/photo-to-pdf.html",
+  "id": "/el/photo-to-pdf.html",
   "start_url": "./photo-to-pdf.html",
   "scope": "./photo-to-pdf.html",
   "display": "standalone",

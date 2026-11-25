@@ -2,7 +2,7 @@
   "name": "Loona Generator CSS gradijenata",
   "short_name": "Generator CSS gradijenata",
   "description": "Gradite CSS linearne gradijente s dvije ili tri boje i bilo kojim kutom, pregledavajte ih uživo i kopirajte gotov CSS kôd. Besplatno, bez registracije.",
-  "id": "/loona-image-compressor/hr/gradient-generator.html",
+  "id": "/hr/gradient-generator.html",
   "start_url": "./gradient-generator.html",
   "scope": "./gradient-generator.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona TikTok Bildeinnlegg (portrett)-størrelse",
   "short_name": "TikTok Bildeinnlegg",
   "description": "Lag en TikTok bildeinnlegg (portrett) med nøyaktig 1080×1350 px. Gratis størrelsesendrer/beskjærer i nettleseren din med reglene for sikre soner som stopper beskåret tekst og ansikter.",
-  "id": "/loona-image-compressor/nb/tiktok-photo-post-portrait-size.html",
+  "id": "/nb/tiktok-photo-post-portrait-size.html",
   "start_url": "./tiktok-photo-post-portrait-size.html",
   "scope": "./tiktok-photo-post-portrait-size.html",
   "display": "standalone",

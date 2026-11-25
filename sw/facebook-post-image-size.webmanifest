@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Chapisho / Kiungo wa Facebook",
   "short_name": "Ukubwa wa Picha ya Chapisho /",
   "description": "Tengeneza picha ya chapisho / kiungo ya Facebook katika px 1200×630 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/facebook-post-image-size.html",
+  "id": "/sw/facebook-post-image-size.html",
   "start_url": "./facebook-post-image-size.html",
   "scope": "./facebook-post-image-size.html",
   "display": "standalone",

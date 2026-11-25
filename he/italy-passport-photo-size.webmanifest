@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת פספורט איטליה",
   "short_name": "גודל תמונת פספורט איטליה",
   "description": "צרו תמונת פספורט איטליה בגודל הרשמי 35×40 מ&quot;מ (413×472 px), רקע לבן חלק או בהיר. כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/italy-passport-photo-size.html",
+  "id": "/he/italy-passport-photo-size.html",
   "start_url": "./italy-passport-photo-size.html",
   "scope": "./italy-passport-photo-size.html",
   "display": "standalone",

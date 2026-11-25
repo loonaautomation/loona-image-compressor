@@ -2,7 +2,7 @@
   "name": "Loona 表情包生成器",
   "short_name": "表情包生成器",
   "description": "将任何照片变成带粗体顶部和底部文本的经典表情包 — 免费在线表情包生成器，带实时预览、素色背景选项和 PNG 下载。无需注册，您的图片绝不会离开您的设备。",
-  "id": "/loona-image-compressor/zh/meme-generator.html",
+  "id": "/zh/meme-generator.html",
   "start_url": "./meme-generator.html",
   "scope": "./meme-generator.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Meme-Generator",
   "short_name": "Meme-Generator",
   "description": "Verwandeln Sie jedes Foto in ein klassisches Meme mit fettem oberen und unteren Text — kostenloser Online-Meme-Generator mit Live-Vorschau, Optionen für einfarbige Hintergründe und PNG-Download. Ohne Anmeldung, und Ihr Bild verlässt Ihr Gerät nie.",
-  "id": "/loona-image-compressor/de/meme-generator.html",
+  "id": "/de/meme-generator.html",
   "start_url": "./meme-generator.html",
   "scope": "./meme-generator.html",
   "display": "standalone",

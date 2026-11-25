@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn कंपनी पेज लोगो साइज़",
   "short_name": "LinkedIn कंपनी पेज लोगो साइज़",
   "description": "LinkedIn कंपनी पेज लोगो ठीक 300×300 px पर बनाएँ. आपके ब्राउज़र में मुफ़्त रीसाइज़र/क्रॉपर, उन सेफ़-ज़ोन नियमों के साथ जो क्रॉप हुए टेक्स्ट और चेहरों को रोकते हैं.",
-  "id": "/loona-image-compressor/hi/linkedin-company-logo-size.html",
+  "id": "/hi/linkedin-company-logo-size.html",
   "start_url": "./linkedin-company-logo-size.html",
   "scope": "./linkedin-company-logo-size.html",
   "display": "standalone",

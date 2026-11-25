@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ảnh hộ chiếu Iran",
   "short_name": "Kích thước Ảnh hộ chiếu Iran",
   "description": "Tạo Ảnh hộ chiếu Iran ở kích thước chính thức 30×40 mm (354×472 px), nền trắng trơn hoặc sáng. Công cụ tạo ảnh trực tuyến miễn phí — cắt, tải xuống và in tờ in, không tải lên.",
-  "id": "/loona-image-compressor/vi/iran-passport-photo-size.html",
+  "id": "/vi/iran-passport-photo-size.html",
   "start_url": "./iran-passport-photo-size.html",
   "scope": "./iran-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Размер на Подпис за JEE Main",
   "short_name": "Размер на Подпис за JEE Main",
   "description": "Преоразмерете своя подпис за JEE Main до размера от уведомлението (сканирано поле, съотношение около 7:2) и диапазона 4–30 KB. Безплатно, във вашия браузър — без качване, без регистрация.",
-  "id": "/loona-image-compressor/bg/jee-main-signature-size.html",
+  "id": "/bg/jee-main-signature-size.html",
   "start_url": "./jee-main-signature-size.html",
   "scope": "./jee-main-signature-size.html",
   "display": "standalone",

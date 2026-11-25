@@ -2,7 +2,7 @@
   "name": "Loona AVIF 轉 PNG 轉換器",
   "short_name": "AVIF 轉 PNG 轉換器",
   "description": "線上將 AVIF 轉換為 PNG，免費，在您的瀏覽器中完成。在您的裝置上進行真實轉換 — 無需上傳，無需註冊，無水印。",
-  "id": "/loona-image-compressor/zh-hant/avif-to-png.html",
+  "id": "/zh-hant/avif-to-png.html",
   "start_url": "./avif-to-png.html",
   "scope": "./avif-to-png.html",
   "display": "standalone",

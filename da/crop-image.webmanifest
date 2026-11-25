@@ -2,7 +2,7 @@
   "name": "Loona Beskær billede online gratis",
   "short_name": "Beskær billede online gratis",
   "description": "Beskær billeder online gratis med færdige forhold — 1:1, 4:3, 16:9 og pas 35×45 — plus rotér og vend. Download den nøjagtige beskæring i fuld opløsning.",
-  "id": "/loona-image-compressor/da/crop-image.html",
+  "id": "/da/crop-image.html",
   "start_url": "./crop-image.html",
   "scope": "./crop-image.html",
   "display": "standalone",

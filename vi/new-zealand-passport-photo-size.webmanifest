@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ảnh hộ chiếu New Zealand",
   "short_name": "Kích thước Ảnh hộ chiếu New",
   "description": "Tạo Ảnh hộ chiếu New Zealand ở kích thước chính thức 35×45 mm (413×531 px), nền nền trơn, sáng, trung tính (hướng dẫn không phải trắng tinh). Công cụ tạo ảnh trực tuyến miễn phí — cắt, tải xuống và in tờ in, không tải lên.",
-  "id": "/loona-image-compressor/vi/new-zealand-passport-photo-size.html",
+  "id": "/vi/new-zealand-passport-photo-size.html",
   "start_url": "./new-zealand-passport-photo-size.html",
   "scope": "./new-zealand-passport-photo-size.html",
   "display": "standalone",

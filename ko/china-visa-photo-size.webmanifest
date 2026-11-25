@@ -2,7 +2,7 @@
   "name": "Loona 중국 비자 사진 크기",
   "short_name": "중국 비자 사진 크기",
   "description": "공식 크기 33×48 mm (390×567 px), 단색 흰색 배경으로 만드는 중국 비자 사진. 무료 온라인 메이커 — 자르기, 다운로드, 인쇄 시트 제공, 업로드 없음.",
-  "id": "/loona-image-compressor/ko/china-visa-photo-size.html",
+  "id": "/ko/china-visa-photo-size.html",
   "start_url": "./china-visa-photo-size.html",
   "scope": "./china-visa-photo-size.html",
   "display": "standalone",

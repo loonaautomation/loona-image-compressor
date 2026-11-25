@@ -2,7 +2,7 @@
   "name": "Loona Generátor prechodov CSS",
   "short_name": "Generátor prechodov CSS",
   "description": "Vytvárajte lineárne prechody CSS s dvomi alebo tromi farbami a ľubovoľným uhlom, prezerajte si ich naživo a kopírujte hotový kód CSS. Zadarmo, bez registrácie.",
-  "id": "/loona-image-compressor/sk/gradient-generator.html",
+  "id": "/sk/gradient-generator.html",
   "start_url": "./gradient-generator.html",
   "scope": "./gradient-generator.html",
   "display": "standalone",

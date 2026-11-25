@@ -2,7 +2,7 @@
   "name": "Loona Размер на Снимка за GATE",
   "short_name": "Размер на Снимка за GATE",
   "description": "Преоразмерете своя снимка за GATE до размера от уведомлението (480 × 640 px) и диапазона 5–200 KB. Безплатно, във вашия браузър — без качване, без регистрация.",
-  "id": "/loona-image-compressor/bg/gate-photo-size.html",
+  "id": "/bg/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

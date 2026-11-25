@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة الملف الشخصي Pinterest",
   "short_name": "حجم صورة الملف الشخصي",
   "description": "اصنع صورة الملف الشخصي Pinterest بمقاس 800×800 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/pinterest-profile-picture-size.html",
+  "id": "/ar/pinterest-profile-picture-size.html",
   "start_url": "./pinterest-profile-picture-size.html",
   "scope": "./pinterest-profile-picture-size.html",
   "display": "standalone",

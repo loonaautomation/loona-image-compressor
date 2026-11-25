@@ -2,7 +2,7 @@
   "name": "Loona 护照照片打印页",
   "short_name": "护照照片打印页",
   "description": "免费以 300 DPI 将 4、6 或 8 张护照照片放在一张 A4 打印页上。以 100% 打印，沿导线切割，节省工作室的钱。无需注册，完全私密。",
-  "id": "/loona-image-compressor/zh/passport-photo-print-sheet.html",
+  "id": "/zh/passport-photo-print-sheet.html",
   "start_url": "./passport-photo-print-sheet.html",
   "scope": "./passport-photo-print-sheet.html",
   "display": "standalone",

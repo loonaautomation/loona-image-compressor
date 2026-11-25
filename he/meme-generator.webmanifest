@@ -2,7 +2,7 @@
   "name": "Loona מחולל ממים",
   "short_name": "מחולל ממים",
   "description": "הפכו כל תמונה למם קלאסי עם טקסט עליון ותחתון מודגש — מחולל ממים חינמי באינטרנט עם תצוגה מקדימה חיה, אפשרויות רקע חלק והורדת PNG. ללא הרשמה, והתמונה שלכם לעולם לא עוזבת את המכשיר.",
-  "id": "/loona-image-compressor/he/meme-generator.html",
+  "id": "/he/meme-generator.html",
   "start_url": "./meme-generator.html",
   "scope": "./meme-generator.html",
   "display": "standalone",

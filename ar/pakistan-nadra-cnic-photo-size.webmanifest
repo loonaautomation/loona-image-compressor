@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة CNIC من NADRA الباكستانية",
   "short_name": "حجم صورة CNIC من NADRA",
   "description": "اصنع صورة CNIC من NADRA الباكستانية بالحجم الرسمي 51×51 mm (600×600 px)، خلفية بيضاء سادة. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/pakistan-nadra-cnic-photo-size.html",
+  "id": "/ar/pakistan-nadra-cnic-photo-size.html",
   "start_url": "./pakistan-nadra-cnic-photo-size.html",
   "scope": "./pakistan-nadra-cnic-photo-size.html",
   "display": "standalone",

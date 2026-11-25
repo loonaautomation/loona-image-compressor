@@ -2,7 +2,7 @@
   "name": "Loona Image Metadata & EXIF Viewer",
   "short_name": "Image Metadata & EXIF Viewer",
   "description": "View the hidden metadata in any JPG, PNG or WebP photo online for free — camera make and model, date taken, exposure, ISO, focal length, GPS location, IPTC and XMP basics. Nothing is uploaded: your photo never leaves your device.",
-  "id": "/loona-image-compressor/en-gb/image-metadata-viewer.html",
+  "id": "/en-gb/image-metadata-viewer.html",
   "start_url": "./image-metadata-viewer.html",
   "scope": "./image-metadata-viewer.html",
   "display": "standalone",

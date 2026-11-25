@@ -2,7 +2,7 @@
   "name": "Loona Kép átméretezése 720 × 720 px méretre online",
   "short_name": "Kép átméretezése 720 × 720 px",
   "description": "Méretezzen át bármely képet pontosan 720×720 px méretre — Facebook-profilminimum és általánosavatár-méret. Ingyen, a böngészőjében, vágási vezérléssel; feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/resize-image-to-720x720.html",
+  "id": "/hu/resize-image-to-720x720.html",
   "start_url": "./resize-image-to-720x720.html",
   "scope": "./resize-image-to-720x720.html",
   "display": "standalone",

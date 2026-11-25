@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Profiilin / sivun banneri koko",
   "short_name": "LinkedIn Profiilin / sivun",
   "description": "Tee LinkedIn profiilin / sivun banneri tarkalleen kokoon 1584×396 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/linkedin-banner-size.html",
+  "id": "/fi/linkedin-banner-size.html",
   "start_url": "./linkedin-banner-size.html",
   "scope": "./linkedin-banner-size.html",
   "display": "standalone",

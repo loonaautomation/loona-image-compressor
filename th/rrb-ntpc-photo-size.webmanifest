@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายRRB NTPC (Railways)",
   "short_name": "ขนาดรูปถ่ายRRB NTPC (Railways)",
   "description": "ปรับขนาดรูปถ่ายRRB NTPC (Railways)ของคุณให้เป็นขนาดตามประกาศ (320 × 240 px) และช่วง 30–70 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/rrb-ntpc-photo-size.html",
+  "id": "/th/rrb-ntpc-photo-size.html",
   "start_url": "./rrb-ntpc-photo-size.html",
   "scope": "./rrb-ntpc-photo-size.html",
   "display": "standalone",

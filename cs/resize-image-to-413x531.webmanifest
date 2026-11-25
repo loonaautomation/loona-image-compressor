@@ -2,7 +2,7 @@
   "name": "Loona Změnit velikost obrázku na 413 × 531 px online",
   "short_name": "Změnit velikost obrázku na",
   "description": "Změňte velikost libovolného obrázku přesně na 413×531 px — 35 × 45 mm při 300 DPI — tisková velikost ICAO/Schengen v pixelech. Zdarma ve vašem prohlížeči s ovládáním ořezu; bez nahrávání a bez registrace.",
-  "id": "/loona-image-compressor/cs/resize-image-to-413x531.html",
+  "id": "/cs/resize-image-to-413x531.html",
   "start_url": "./resize-image-to-413x531.html",
   "scope": "./resize-image-to-413x531.html",
   "display": "standalone",

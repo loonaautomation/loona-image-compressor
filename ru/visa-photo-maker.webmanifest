@@ -2,7 +2,7 @@
   "name": "Loona Создание фото на визу",
   "short_name": "Создание фото на визу",
   "description": "Make visa photos online for free: US 2x2 inch, UK and Schengen 35x45 mm, China 33x48 mm at 300 DPI. No signup, no watermark, fully private tool.",
-  "id": "/loona-image-compressor/visa-photo-maker.html",
+  "id": "/visa-photo-maker.html",
   "start_url": "./visa-photo-maker.html",
   "scope": "./visa-photo-maker.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Avatar Χρήστη Discord",
   "short_name": "Avatar Χρήστη Discord",
   "description": "Δημιουργήστε ένα avatar χρήστη Discord σε ακριβώς 800×800 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/discord-avatar-size.html",
+  "id": "/el/discord-avatar-size.html",
   "start_url": "./discord-avatar-size.html",
   "scope": "./discord-avatar-size.html",
   "display": "standalone",

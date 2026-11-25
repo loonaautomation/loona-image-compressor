@@ -2,7 +2,7 @@
   "name": "Loona Bild-Wasserzeichen",
   "short_name": "Bild-Wasserzeichen",
   "description": "Fügen Sie online kostenlos ein Text-Wasserzeichen zu jedem Foto hinzu — wählen Sie Text, Größe, Farbe, Deckkraft und Position oder wiederholen Sie es als gekacheltes Muster. Live-Vorschau, ohne Anmeldung, und Ihr Bild verlässt Ihr Gerät nie.",
-  "id": "/loona-image-compressor/de/image-watermark.html",
+  "id": "/de/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

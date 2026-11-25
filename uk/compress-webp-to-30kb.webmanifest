@@ -2,7 +2,7 @@
   "name": "Loona Стиснути WebP до 30 KB онлайн",
   "short_name": "Стиснути WebP до 30 KB онлайн",
   "description": "Стисніть зображення WebP до 30 KB або менше, безкоштовно у вашому браузері. Автоматичний пошук знаходить найкращу якість, що вміщується, — без реєстрації, без передавання.",
-  "id": "/loona-image-compressor/uk/compress-webp-to-30kb.html",
+  "id": "/uk/compress-webp-to-30kb.html",
   "start_url": "./compress-webp-to-30kb.html",
   "scope": "./compress-webp-to-30kb.html",
   "display": "standalone",

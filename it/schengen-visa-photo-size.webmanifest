@@ -2,7 +2,7 @@
   "name": "Loona Formato Visto Schengen",
   "short_name": "Formato Visto Schengen",
   "description": "Crea la foto Visto Schengen nel formato ufficiale di 35×45 mm (413×531 px), sfondo grigio chiaro o sfondo chiaro liso. Strumento online gratuito: ritaglia, scarica e stampa il foglio, senza caricamenti.",
-  "id": "/loona-image-compressor/it/schengen-visa-photo-size.html",
+  "id": "/it/schengen-visa-photo-size.html",
   "start_url": "./schengen-visa-photo-size.html",
   "scope": "./schengen-visa-photo-size.html",
   "display": "standalone",

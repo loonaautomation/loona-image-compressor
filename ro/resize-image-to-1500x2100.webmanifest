@@ -2,7 +2,7 @@
   "name": "Loona Redimensionează imaginea la 1500 × 2100 px online",
   "short_name": "Redimensionează imaginea la",
   "description": "Redimensionează orice imagine la exact 1500×2100 px — Imprimat foto de 5 × 7 inch la 300 DPI. Gratuit în browserul tău, cu control al decupării; fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/resize-image-to-1500x2100.html",
+  "id": "/ro/resize-image-to-1500x2100.html",
   "start_url": "./resize-image-to-1500x2100.html",
   "scope": "./resize-image-to-1500x2100.html",
   "display": "standalone",

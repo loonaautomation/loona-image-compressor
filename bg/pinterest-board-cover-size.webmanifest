@@ -2,7 +2,7 @@
   "name": "Loona Размер на Корица на табло за Pinterest",
   "short_name": "Размер на Корица на табло за",
   "description": "Направете корица на табло за Pinterest на точно 800×450 px. Безплатен инструмент за преоразмеряване/изрязване във вашия браузър с правилата за безопасната зона, които спират изрязване на текст и лица.",
-  "id": "/loona-image-compressor/bg/pinterest-board-cover-size.html",
+  "id": "/bg/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",
   "scope": "./pinterest-board-cover-size.html",
   "display": "standalone",

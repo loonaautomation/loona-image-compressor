@@ -2,7 +2,7 @@
   "name": "Loona Převodník SVG na WEBP",
   "short_name": "Převodník SVG na WEBP",
   "description": "Převeďte SVG na WEBP online, zdarma, ve svém prohlížeči. Skutečný převod ve vašem zařízení — bez nahrávání, bez registrace, bez vodoznaků.",
-  "id": "/loona-image-compressor/cs/svg-to-webp.html",
+  "id": "/cs/svg-to-webp.html",
   "start_url": "./svg-to-webp.html",
   "scope": "./svg-to-webp.html",
   "display": "standalone",

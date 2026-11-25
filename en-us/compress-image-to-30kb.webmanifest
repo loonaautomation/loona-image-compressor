@@ -2,7 +2,7 @@
   "name": "Loona Compress Image to 30 KB",
   "short_name": "Compress Image to 30 KB",
   "description": "Compress JPG, PNG and WebP images to 30 KB or under, online and free. Automatic quality and size search in your browser — no signup, no upload.",
-  "id": "/loona-image-compressor/en-us/compress-image-to-30kb.html",
+  "id": "/en-us/compress-image-to-30kb.html",
   "start_url": "./compress-image-to-30kb.html",
   "scope": "./compress-image-to-30kb.html",
   "display": "standalone",

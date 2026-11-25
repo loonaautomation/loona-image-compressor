@@ -2,7 +2,7 @@
   "name": "Loona Viisumikuvientekijä",
   "short_name": "Viisumikuvientekijä",
   "description": "Tee viisumikuvia verkossa ilmaiseksi: Yhdysvallat 2x2 tuumaa, Iso-Britannia ja Schengen 35x45 mm, Kiina 33x48 mm tarkkuudella 300 DPI. Ei rekisteröitymistä, ei vesileimaa, täysin yksityinen työkalu.",
-  "id": "/loona-image-compressor/fi/visa-photo-maker.html",
+  "id": "/fi/visa-photo-maker.html",
   "start_url": "./visa-photo-maker.html",
   "scope": "./visa-photo-maker.html",
   "display": "standalone",

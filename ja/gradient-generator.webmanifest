@@ -2,7 +2,7 @@
   "name": "Loona CSSグラデーションジェネレーター",
   "short_name": "CSSグラデーションジェネレーター",
   "description": "二色または三色で、あらゆる角度のCSSリニアグラデーションを構築し、ライブプレビューし、完成したCSSコードをコピーできます。無料、登録不要です。",
-  "id": "/loona-image-compressor/ja/gradient-generator.html",
+  "id": "/ja/gradient-generator.html",
   "start_url": "./gradient-generator.html",
   "scope": "./gradient-generator.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Konverter JPG ke ICO",
   "short_name": "Konverter JPG ke ICO",
   "description": "Konversi JPG ke ICO online, gratis, di browser Anda. Konversi nyata di perangkat Anda — tanpa unggah, tanpa pendaftaran, tanpa tanda air.",
-  "id": "/loona-image-compressor/id/jpg-to-ico.html",
+  "id": "/id/jpg-to-ico.html",
   "start_url": "./jpg-to-ico.html",
   "scope": "./jpg-to-ico.html",
   "display": "standalone",

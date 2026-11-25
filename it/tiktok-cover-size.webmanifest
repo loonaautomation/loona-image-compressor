@@ -2,7 +2,7 @@
   "name": "Loona Formato Copertina video TikTok",
   "short_name": "Formato Copertina video TikTok",
   "description": "Crea un copertina video TikTok esattamente di 1080×1920 px. Strumento gratuito di ridimensionamento e ritaglio nel tuo browser, con le regole della zona sicura che evitano testi e volti tagliati.",
-  "id": "/loona-image-compressor/it/tiktok-cover-size.html",
+  "id": "/it/tiktok-cover-size.html",
   "start_url": "./tiktok-cover-size.html",
   "scope": "./tiktok-cover-size.html",
   "display": "standalone",

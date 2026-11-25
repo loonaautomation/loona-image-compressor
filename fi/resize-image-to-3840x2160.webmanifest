@@ -2,7 +2,7 @@
   "name": "Loona Muuta kuvan koko kokoon 3840 × 2160 px verkossa",
   "short_name": "Muuta kuvan koko kokoon 3840",
   "description": "Muuta minkä tahansa kuvan koko tarkalleen kokoon 3840×2160 px — 4K UHD -taustakuva / videokehys. Ilmaiseksi selaimessasi rajausohjauksella; ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/resize-image-to-3840x2160.html",
+  "id": "/fi/resize-image-to-3840x2160.html",
   "start_url": "./resize-image-to-3840x2160.html",
   "scope": "./resize-image-to-3840x2160.html",
   "display": "standalone",

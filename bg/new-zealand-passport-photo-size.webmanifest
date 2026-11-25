@@ -2,7 +2,7 @@
   "name": "Loona Размер Снимка за паспорт на Нова Зеландия",
   "short_name": "Размер Снимка за паспорт на",
   "description": "Направете Снимка за паспорт на Нова Зеландия в официалния размер 35×45 mm (413×531 px), фон обикновен, светъл, неутрален фон (не насоки за чисто бяло). Безплатен онлайн инструмент — изрязване, изтегляне и лист за печат, без качване.",
-  "id": "/loona-image-compressor/bg/new-zealand-passport-photo-size.html",
+  "id": "/bg/new-zealand-passport-photo-size.html",
   "start_url": "./new-zealand-passport-photo-size.html",
   "scope": "./new-zealand-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία CUET UG",
   "short_name": "Φωτογραφία CUET UG",
   "description": "Αλλάξτε το μέγεθος της φωτογραφία CUET UG στο μέγεθος της προκήρυξης (3.5 × 4.5 cm (περίπου 413 × 531 px στα 300 DPI)) και στη ζώνη 10–200 KB. Δωρεάν, στο πρόγραμμα περιήγησής σας — χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/cuet-ug-photo-size.html",
+  "id": "/el/cuet-ug-photo-size.html",
   "start_url": "./cuet-ug-photo-size.html",
   "scope": "./cuet-ug-photo-size.html",
   "display": "standalone",

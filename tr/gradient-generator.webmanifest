@@ -2,7 +2,7 @@
   "name": "Loona CSS Degrade Oluşturucu – Kopyalanabilir Kodla Doğrusal Degradeler",
   "short_name": "CSS Degrade Oluşturucu – Kopyalanabilir Kodla Doğrusal Degradeler",
   "description": "İki veya üç renkle ve herhangi bir açıyla CSS doğrusal degradeler oluşturun, onları canlı önizleyin ve hazır CSS kodunu kopyalayın. Ücretsiz, kayıt yok.",
-  "id": "/loona-image-compressor/tr/gradient-generator.html",
+  "id": "/tr/gradient-generator.html",
   "start_url": "./gradient-generator.html",
   "scope": "./gradient-generator.html",
   "display": "standalone",

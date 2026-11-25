@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Kijipicha cha Video wa YouTube",
   "short_name": "Ukubwa wa Kijipicha cha Video",
   "description": "Tengeneza kijipicha cha video ya YouTube katika px 1280×720 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/youtube-thumbnail-size.html",
+  "id": "/sw/youtube-thumbnail-size.html",
   "start_url": "./youtube-thumbnail-size.html",
   "scope": "./youtube-thumbnail-size.html",
   "display": "standalone",

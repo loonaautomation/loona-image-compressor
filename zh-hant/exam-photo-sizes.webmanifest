@@ -2,7 +2,7 @@
   "name": "Loona 考試照片和簽名尺寸",
   "short_name": "考試照片和簽名尺寸",
   "description": "20 項主要印度考試的照片和簽名尺寸及 KB 範圍 — SSC、IBPS、SBI、UPSC、RRB、JEE、NEET 等，每個都附有製作工具。",
-  "id": "/loona-image-compressor/zh-hant/exam-photo-sizes.html",
+  "id": "/zh-hant/exam-photo-sizes.html",
   "start_url": "./exam-photo-sizes.html",
   "scope": "./exam-photo-sizes.html",
   "display": "standalone",

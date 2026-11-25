@@ -2,7 +2,7 @@
   "name": "Loona גודל באנר ערוץ YouTube",
   "short_name": "גודל באנר ערוץ YouTube",
   "description": "צרו באנר ערוץ של YouTube בדיוק ב־2560×1440 px. משנה גודל/חיתוך בחינם בדפדפן שלכם, עם כללי אזור הבטיחות שמונעים חיתוך של טקסט ופנים.",
-  "id": "/loona-image-compressor/he/youtube-banner-size.html",
+  "id": "/he/youtube-banner-size.html",
   "start_url": "./youtube-banner-size.html",
   "scope": "./youtube-banner-size.html",
   "display": "standalone",

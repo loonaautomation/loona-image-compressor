@@ -2,7 +2,7 @@
   "name": "Loona Kötegelt metaadat-eltávolító",
   "short_name": "Kötegelt metaadat-eltávolító",
   "description": "Távolítsa el az EXIF, GPS és XMP metaadatokat sok fotóról egyszerre — dobjon be egy köteg JPG, PNG és WebP fájlt, távolítsa el mindet a böngészőjében, és töltse le mindent egyetlen ZIP-ként. Ingyen, privát, feltöltések nélkül, újrakódolás nélkül.",
-  "id": "/loona-image-compressor/hu/bulk-remove-image-metadata.html",
+  "id": "/hu/bulk-remove-image-metadata.html",
   "start_url": "./bulk-remove-image-metadata.html",
   "scope": "./bulk-remove-image-metadata.html",
   "display": "standalone",

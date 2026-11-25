@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar",
   "short_name": "Rozmiar",
   "description": "Zmień rozmiar: SSC MTS zdjęcie, do rozmiaru z ogłoszenia (200 × 230 px) i przedziału 20–50 KB. Za darmo, w przeglądarce — bez przesyłania, bez rejestracji.",
-  "id": "/loona-image-compressor/pl/ssc-mts-photo-size.html",
+  "id": "/pl/ssc-mts-photo-size.html",
   "start_url": "./ssc-mts-photo-size.html",
   "scope": "./ssc-mts-photo-size.html",
   "display": "standalone",

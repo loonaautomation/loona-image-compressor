@@ -2,7 +2,7 @@
   "name": "Loona ขนาดปกบทความ / จดหมายข่าว LinkedIn",
   "short_name": "ขนาดปกบทความ / จดหมายข่าว",
   "description": "ทำปกบทความ / จดหมายข่าว LinkedIn ที่ขนาด 1200×644 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/linkedin-article-cover-size.html",
+  "id": "/th/linkedin-article-cover-size.html",
   "start_url": "./linkedin-article-cover-size.html",
   "scope": "./linkedin-article-cover-size.html",
   "display": "standalone",

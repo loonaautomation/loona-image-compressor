@@ -2,7 +2,7 @@
   "name": "Loona Instagram 快拍 尺寸",
   "short_name": "Instagram 快拍 尺寸",
   "description": "按精确的 1080×1920 px 制作 Instagram 快拍。在浏览器中免费调整大小/裁剪，附有安全区规则，防止文字和面部被裁掉。",
-  "id": "/loona-image-compressor/zh/instagram-story-size.html",
+  "id": "/zh/instagram-story-size.html",
   "start_url": "./instagram-story-size.html",
   "scope": "./instagram-story-size.html",
   "display": "standalone",

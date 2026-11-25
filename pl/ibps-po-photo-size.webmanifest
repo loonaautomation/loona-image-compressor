@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar",
   "short_name": "Rozmiar",
   "description": "Zmień rozmiar: IBPS PO zdjęcie, do rozmiaru z ogłoszenia (200 × 230 px) i przedziału 20–50 KB. Za darmo, w przeglądarce — bez przesyłania, bez rejestracji.",
-  "id": "/loona-image-compressor/pl/ibps-po-photo-size.html",
+  "id": "/pl/ibps-po-photo-size.html",
   "start_url": "./ibps-po-photo-size.html",
   "scope": "./ibps-po-photo-size.html",
   "display": "standalone",

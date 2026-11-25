@@ -2,7 +2,7 @@
   "name": "Loona 照片滤镜和修复",
   "short_name": "照片滤镜和修复",
   "description": "免费在线修复照片：调整亮度、对比度和饱和度，一键锐化，并使用 Passport Fix 和 Vivid 等现成预设。",
-  "id": "/loona-image-compressor/zh/photo-filters-editor.html",
+  "id": "/zh/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

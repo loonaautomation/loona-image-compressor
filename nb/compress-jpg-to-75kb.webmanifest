@@ -2,7 +2,7 @@
   "name": "Loona Komprimer JPG til 75 KB på nett",
   "short_name": "Komprimer JPG til 75 KB på",
   "description": "Komprimer et JPG-bilde til 75 KB eller mindre, gratis i nettleseren din. Automatisk søk finner den beste kvaliteten som passer — ingen registrering, ingen opplasting.",
-  "id": "/loona-image-compressor/nb/compress-jpg-to-75kb.html",
+  "id": "/nb/compress-jpg-to-75kb.html",
   "start_url": "./compress-jpg-to-75kb.html",
   "scope": "./compress-jpg-to-75kb.html",
   "display": "standalone",

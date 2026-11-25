@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת ויזה לסין",
   "short_name": "גודל תמונת ויזה לסין",
   "description": "צרו תמונת ויזה לסין בגודל הרשמי 33×48 מ&quot;מ (390×567 px), רקע לבן חלק. כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/china-visa-photo-size.html",
+  "id": "/he/china-visa-photo-size.html",
   "start_url": "./china-visa-photo-size.html",
   "scope": "./china-visa-photo-size.html",
   "display": "standalone",

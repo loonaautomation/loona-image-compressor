@@ -2,7 +2,7 @@
   "name": "Loona Resize Image to 472 × 709 px",
   "short_name": "Resize Image to 472 × 709 px",
   "description": "Resize any image to exactly 472×709 px — 40 × 60 mm at 300 DPI — UAE/Saudi/Egypt/Vietnam photo size. Free in your browser with crop control; no upload, no signup.",
-  "id": "/loona-image-compressor/en-gb/resize-image-to-472x709.html",
+  "id": "/en-gb/resize-image-to-472x709.html",
   "start_url": "./resize-image-to-472x709.html",
   "scope": "./resize-image-to-472x709.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง JPG เป็น PNG",
   "short_name": "ตัวแปลง JPG เป็น PNG",
   "description": "แปลง JPG เป็น PNG ออนไลน์ฟรี — ผลลัพธ์ไม่สูญเสียสำหรับโปรแกรมแก้ไข เครื่องมือออกแบบ และเอกสาร ทำงานในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่ต้องอัปโหลด",
-  "id": "/loona-image-compressor/th/jpg-to-png.html",
+  "id": "/th/jpg-to-png.html",
   "start_url": "./jpg-to-png.html",
   "scope": "./jpg-to-png.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona גודל אמוג&#x27;י מותאם אישית Discord",
   "short_name": "גודל אמוג&#x27;י מותאם אישית",
   "description": "צרו אמוג&#x27;י מותאם אישית של Discord בדיוק ב־128×128 px. משנה גודל/חיתוך בחינם בדפדפן שלכם, עם כללי אזור הבטיחות שמונעים חיתוך של טקסט ופנים.",
-  "id": "/loona-image-compressor/he/discord-emoji-size.html",
+  "id": "/he/discord-emoji-size.html",
   "start_url": "./discord-emoji-size.html",
   "scope": "./discord-emoji-size.html",
   "display": "standalone",

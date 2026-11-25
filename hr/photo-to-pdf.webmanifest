@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač fotografija u PDF",
   "short_name": "Pretvarač fotografija u PDF",
   "description": "Pretvarajte fotografije u PDF na mreži besplatno: dodajte JPG, PNG ili WebP slike, odaberite A4, Letter ili stranice prilagođene slici i preuzmite jedan uredan PDF. Bez prijenosa.",
-  "id": "/loona-image-compressor/hr/photo-to-pdf.html",
+  "id": "/hr/photo-to-pdf.html",
   "start_url": "./photo-to-pdf.html",
   "scope": "./photo-to-pdf.html",
   "display": "standalone",

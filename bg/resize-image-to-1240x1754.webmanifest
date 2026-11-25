@@ -2,7 +2,7 @@
   "name": "Loona Преоразмеряване на изображение до 1240 × 1754 px онлайн",
   "short_name": "Преоразмеряване на",
   "description": "Преоразмерете всяко изображение до точно 1240×1754 px — A4 при 150 DPI. Безплатно във вашия браузър с контрол на изрязването; без качване, без регистрация.",
-  "id": "/loona-image-compressor/bg/resize-image-to-1240x1754.html",
+  "id": "/bg/resize-image-to-1240x1754.html",
   "start_url": "./resize-image-to-1240x1754.html",
   "scope": "./resize-image-to-1240x1754.html",
   "display": "standalone",

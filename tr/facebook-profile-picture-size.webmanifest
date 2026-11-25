@@ -2,7 +2,7 @@
   "name": "Loona Facebook Profil Resmi Boyutu — 720×720 px",
   "short_name": "Facebook Profil Resmi Boyutu — 720×720 px",
   "description": "Tam olarak 720×720 px ölçüsünde bir Facebook profil resmi oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/facebook-profile-picture-size.html",
+  "id": "/tr/facebook-profile-picture-size.html",
   "start_url": "./facebook-profile-picture-size.html",
   "scope": "./facebook-profile-picture-size.html",
   "display": "standalone",

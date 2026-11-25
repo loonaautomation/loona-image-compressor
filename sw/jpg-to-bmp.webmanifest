@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha JPG kuwa BMP",
   "short_name": "Kibadilishaji cha JPG kuwa BMP",
   "description": "Badilisha JPG kuwa BMP mtandaoni, bure, kwenye kivinjari chako. Ubadilishaji halisi kwenye kifaa chako — bila kupakia, bila kujisajili, bila alama za maji.",
-  "id": "/loona-image-compressor/sw/jpg-to-bmp.html",
+  "id": "/sw/jpg-to-bmp.html",
   "start_url": "./jpg-to-bmp.html",
   "scope": "./jpg-to-bmp.html",
   "display": "standalone",

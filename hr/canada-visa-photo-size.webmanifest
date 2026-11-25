@@ -2,7 +2,7 @@
   "name": "Loona Veličina Fotografija za vizu Kanade (digitalna)",
   "short_name": "Veličina Fotografija za vizu",
   "description": "Izradite Fotografija za vizu Kanade (digitalna) u službenoj veličini 35×45 mm (420×540 px), pozadina jednobojna bijela ili svijetle boje. Besplatni mrežni izrađivač — izrežite, preuzmite i ispišite list, bez prijenosa.",
-  "id": "/loona-image-compressor/hr/canada-visa-photo-size.html",
+  "id": "/hr/canada-visa-photo-size.html",
   "start_url": "./canada-visa-photo-size.html",
   "scope": "./canada-visa-photo-size.html",
   "display": "standalone",

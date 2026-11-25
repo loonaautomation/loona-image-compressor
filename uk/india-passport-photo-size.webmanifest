@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото на паспорт Індії",
   "short_name": "Розмір Фото на паспорт Індії",
   "description": "Зробіть Фото на паспорт Індії в офіційному розмірі 51×51 мм (600×600 пікс.), тло: однотонне біле. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
-  "id": "/loona-image-compressor/uk/india-passport-photo-size.html",
+  "id": "/uk/india-passport-photo-size.html",
   "start_url": "./india-passport-photo-size.html",
   "scope": "./india-passport-photo-size.html",
   "display": "standalone",

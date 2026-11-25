@@ -2,7 +2,7 @@
   "name": "Loona ตัวเลือกสี",
   "short_name": "ตัวเลือกสี",
   "description": "เลือกสีใดก็ได้และคัดลอกค่า HEX, RGB, HSL และ HSV ของมันทันที รวมถึงแถบสีอ่อนและสีเข้ม — ฟรี ไม่ต้องสมัครสมาชิก ทำงานในเบราว์เซอร์ของคุณ",
-  "id": "/loona-image-compressor/th/color-picker.html",
+  "id": "/th/color-picker.html",
   "start_url": "./color-picker.html",
   "scope": "./color-picker.html",
   "display": "standalone",

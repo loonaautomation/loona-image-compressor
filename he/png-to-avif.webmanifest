@@ -2,7 +2,7 @@
   "name": "Loona ממיר PNG ל־AVIF",
   "short_name": "ממיר PNG ל־AVIF",
   "description": "המירו PNG ל־AVIF באינטרנט, בחינם, בדפדפן שלכם. המרה אמיתית במכשיר שלכם — ללא העלאה, ללא הרשמה, ללא סימני מים.",
-  "id": "/loona-image-compressor/he/png-to-avif.html",
+  "id": "/he/png-to-avif.html",
   "start_url": "./png-to-avif.html",
   "scope": "./png-to-avif.html",
   "display": "standalone",

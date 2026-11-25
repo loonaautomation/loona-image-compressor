@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Semnătură SSC MTS",
   "short_name": "Dimensiune Semnătură SSC MTS",
   "description": "Redimensionează semnătură pentru SSC MTS la dimensiunea din notificare (140 × 60 px) și intervalul 10–20 KB. Gratuit, în browserul tău — fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/ssc-mts-signature-size.html",
+  "id": "/ro/ssc-mts-signature-size.html",
   "start_url": "./ssc-mts-signature-size.html",
   "scope": "./ssc-mts-signature-size.html",
   "display": "standalone",

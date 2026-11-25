@@ -2,7 +2,7 @@
   "name": "Loona Vizsgafotó- és aláírásméretek",
   "short_name": "Vizsgafotó- és aláírásméretek",
   "description": "Fotó- és aláírásméretek és KB-tartományok 20 nagy indiai vizsgához — SSC, IBPS, SBI, UPSC, RRB, JEE, NEET és továbbiak, mindegyikhez készítőeszköz.",
-  "id": "/loona-image-compressor/hu/exam-photo-sizes.html",
+  "id": "/hu/exam-photo-sizes.html",
   "start_url": "./exam-photo-sizes.html",
   "scope": "./exam-photo-sizes.html",
   "display": "standalone",

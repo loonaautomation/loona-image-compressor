@@ -2,7 +2,7 @@
   "name": "Loona Crop Image Online — Free, Any Ratio",
   "short_name": "Crop Image Online — Free, Any Ratio",
   "description": "Crop images online for free with ready ratios — 1:1, 4:3, 16:9 and passport 35×45 — plus rotate and flip. Download the exact crop at full resolution.",
-  "id": "/loona-image-compressor/en-us/crop-image.html",
+  "id": "/en-us/crop-image.html",
   "start_url": "./crop-image.html",
   "scope": "./crop-image.html",
   "display": "standalone",

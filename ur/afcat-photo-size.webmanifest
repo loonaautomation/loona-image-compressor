@@ -2,7 +2,7 @@
   "name": "Loona AFCAT تصویر کا سائز",
   "short_name": "AFCAT تصویر کا سائز",
   "description": "اپنی AFCAT تصویر کو نوٹیفکیشن سائز (3.5 × 4.5 cm (تقریباً 413 × 531 px، 300 DPI پر)) اور 10–50 KB بینڈ کے مطابق بنائیں۔ مفت، آپ کے براؤزر میں — نہ اپ لوڈ، نہ سائن اپ۔",
-  "id": "/loona-image-compressor/ur/afcat-photo-size.html",
+  "id": "/ur/afcat-photo-size.html",
   "start_url": "./afcat-photo-size.html",
   "scope": "./afcat-photo-size.html",
   "display": "standalone",

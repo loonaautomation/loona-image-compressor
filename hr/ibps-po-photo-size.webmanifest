@@ -2,7 +2,7 @@
   "name": "Loona Veličina IBPS PO Fotografija",
   "short_name": "Veličina IBPS PO Fotografija",
   "description": "Promijenite veličinu svoje IBPS PO fotografiju na veličinu iz obavijesti (200 × 230 px) i pojas 20–50 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/ibps-po-photo-size.html",
+  "id": "/hr/ibps-po-photo-size.html",
   "start_url": "./ibps-po-photo-size.html",
   "scope": "./ibps-po-photo-size.html",
   "display": "standalone",

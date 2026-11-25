@@ -2,7 +2,7 @@
   "name": "Loona Κάλυμμα Άρθρου / Ενημερωτικού Δελτίου LinkedIn",
   "short_name": "Κάλυμμα Άρθρου / Ενημερωτικού",
   "description": "Δημιουργήστε ένα κάλυμμα άρθρου / ενημερωτικού δελτίου LinkedIn σε ακριβώς 1200×644 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/linkedin-article-cover-size.html",
+  "id": "/el/linkedin-article-cover-size.html",
   "start_url": "./linkedin-article-cover-size.html",
   "scope": "./linkedin-article-cover-size.html",
   "display": "standalone",

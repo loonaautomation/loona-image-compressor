@@ -2,7 +2,7 @@
   "name": "Loona حجم غلاف Reels Instagram",
   "short_name": "حجم غلاف Reels Instagram",
   "description": "اصنع غلاف reels Instagram بمقاس 1080×1920 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/instagram-reels-cover-size.html",
+  "id": "/ar/instagram-reels-cover-size.html",
   "start_url": "./instagram-reels-cover-size.html",
   "scope": "./instagram-reels-cover-size.html",
   "display": "standalone",

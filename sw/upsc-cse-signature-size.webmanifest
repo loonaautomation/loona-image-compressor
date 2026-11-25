@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Saini wa UPSC Civil Services (IAS)",
   "short_name": "Ukubwa wa Saini wa UPSC Civil",
   "description": "Badilisha ukubwa wa saini yako ya UPSC Civil Services (IAS) hadi ukubwa wa ilani (kisanduku kilichochanganuliwa, uwiano takriban 7:2) na kiwango cha KB 20–300. Bure, kwenye kivinjari chako — bila kupakia, bila kujisajili.",
-  "id": "/loona-image-compressor/sw/upsc-cse-signature-size.html",
+  "id": "/sw/upsc-cse-signature-size.html",
   "start_url": "./upsc-cse-signature-size.html",
   "scope": "./upsc-cse-signature-size.html",
   "display": "standalone",

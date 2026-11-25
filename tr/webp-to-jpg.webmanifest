@@ -2,7 +2,7 @@
   "name": "Loona WebP'den JPG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Yüklemesiz",
   "short_name": "WebP'den JPG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Yüklemesiz",
   "description": "WebP'yi çevrimiçi ücretsiz olarak JPG'ye dönüştürün, böylece görüntüleriniz her uygulamada, formda ve eski cihazda açılır. Tarayıcı tabanlı — kayıt yok, yükleme yok, filigran yok.",
-  "id": "/loona-image-compressor/tr/webp-to-jpg.html",
+  "id": "/tr/webp-to-jpg.html",
   "start_url": "./webp-to-jpg.html",
   "scope": "./webp-to-jpg.html",
   "display": "standalone",

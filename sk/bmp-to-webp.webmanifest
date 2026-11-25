@@ -2,7 +2,7 @@
   "name": "Loona Prevodník BMP na WEBP",
   "short_name": "Prevodník BMP na WEBP",
   "description": "Preveďte BMP na WEBP online, zadarmo, vo svojom prehliadači. Skutočný prevod vo vašom zariadení — bez nahrávania, bez registrácie, bez vodoznakov.",
-  "id": "/loona-image-compressor/sk/bmp-to-webp.html",
+  "id": "/sk/bmp-to-webp.html",
   "start_url": "./bmp-to-webp.html",
   "scope": "./bmp-to-webp.html",
   "display": "standalone",

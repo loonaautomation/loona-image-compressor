@@ -2,7 +2,7 @@
   "name": "Loona Tamanho de Tela de Convite de Discord",
   "short_name": "Tamanho de Tela de Convite de",
   "description": "Crie um elemento tela de convite de Discord com exatamente 1920×1080 px. Redimensionador/recortador gratuito no seu navegador, com as regras de zona segura que evitam textos e rostos cortados.",
-  "id": "/loona-image-compressor/pt-br/discord-server-splash-size.html",
+  "id": "/pt-br/discord-server-splash-size.html",
   "start_url": "./discord-server-splash-size.html",
   "scope": "./discord-server-splash-size.html",
   "display": "standalone",

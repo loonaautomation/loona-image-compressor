@@ -2,7 +2,7 @@
   "name": "Loona CTET 照片尺寸",
   "short_name": "CTET 照片尺寸",
   "description": "将您的 CTET 照片调整为通知规定的尺寸（3.5 × 4.5 cm（在 300 DPI 下约 413 × 531 px））和 10–100 KB 范围。免费，在您的浏览器中完成 — 无需上传，无需注册。",
-  "id": "/loona-image-compressor/zh/ctet-photo-size.html",
+  "id": "/zh/ctet-photo-size.html",
   "start_url": "./ctet-photo-size.html",
   "scope": "./ctet-photo-size.html",
   "display": "standalone",

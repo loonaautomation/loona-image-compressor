@@ -2,7 +2,7 @@
   "name": "Loona Размер Подпись для UPSC NDA",
   "short_name": "Размер Подпись для UPSC NDA",
   "description": "Resize your UPSC NDA signature to the notification size (scanned box, ratio about 7:2) and 20–300 KB band. Free, in your browser — no upload, no signup.",
-  "id": "/loona-image-compressor/upsc-nda-signature-size.html",
+  "id": "/upsc-nda-signature-size.html",
   "start_url": "./upsc-nda-signature-size.html",
   "scope": "./upsc-nda-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Elimină metadatele imaginii",
   "short_name": "Elimină metadatele imaginii",
   "description": "Elimină metadatele EXIF, locația GPS, XMP și IPTC din fotografiile JPG, PNG și WebP online gratuit. Eliminare la nivel de octet — pixelii nu sunt niciodată recodificați, așa că calitatea rămâne neatinsă. Verificat printr-o reverificare, 100% privat în browserul tău.",
-  "id": "/loona-image-compressor/ro/remove-image-metadata.html",
+  "id": "/ro/remove-image-metadata.html",
   "start_url": "./remove-image-metadata.html",
   "scope": "./remove-image-metadata.html",
   "display": "standalone",

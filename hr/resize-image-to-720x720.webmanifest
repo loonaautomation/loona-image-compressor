@@ -2,7 +2,7 @@
   "name": "Loona Promijeni veličinu slike na 720 × 720 px na mreži",
   "short_name": "Promijeni veličinu slike na",
   "description": "Promijenite veličinu bilo koje slike na točno 720×720 px — Minimum profila Facebook i opća veličina avatara. Besplatno u vašem pregledniku uz kontrolu izrezivanja; bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/resize-image-to-720x720.html",
+  "id": "/hr/resize-image-to-720x720.html",
   "start_url": "./resize-image-to-720x720.html",
   "scope": "./resize-image-to-720x720.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото на паспорт / DNI Аргентини",
   "short_name": "Розмір Фото на паспорт / DNI",
   "description": "Зробіть Фото на паспорт / DNI Аргентини в офіційному розмірі 40×40 мм (472×472 пікс.), тло: однотонне біле або світло-блакитне. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
-  "id": "/loona-image-compressor/uk/argentina-passport-photo-size.html",
+  "id": "/uk/argentina-passport-photo-size.html",
   "start_url": "./argentina-passport-photo-size.html",
   "scope": "./argentina-passport-photo-size.html",
   "display": "standalone",

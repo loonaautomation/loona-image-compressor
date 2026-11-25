@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Profil Fotoğrafı Boyutu — 400×400 px",
   "short_name": "LinkedIn Profil Fotoğrafı Boyutu — 400×400 px",
   "description": "Tam olarak 400×400 px ölçüsünde bir LinkedIn profil fotoğrafı oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/linkedin-profile-picture-size.html",
+  "id": "/tr/linkedin-profile-picture-size.html",
   "start_url": "./linkedin-profile-picture-size.html",
   "scope": "./linkedin-profile-picture-size.html",
   "display": "standalone",

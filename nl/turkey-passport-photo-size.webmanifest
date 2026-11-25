@@ -2,7 +2,7 @@
   "name": "Loona Fotoformaat Pasfoto / visumfoto Türkiye (biometrisch)",
   "short_name": "Fotoformaat Pasfoto /",
   "description": "Maak een Pasfoto / visumfoto Türkiye (biometrisch) op het officiële formaat 50×60 mm (591×709 px), achtergrond: effen wit. Gratis online maker — bijsnijden, downloaden en printvel, geen upload.",
-  "id": "/loona-image-compressor/nl/turkey-passport-photo-size.html",
+  "id": "/nl/turkey-passport-photo-size.html",
   "start_url": "./turkey-passport-photo-size.html",
   "scope": "./turkey-passport-photo-size.html",
   "display": "standalone",

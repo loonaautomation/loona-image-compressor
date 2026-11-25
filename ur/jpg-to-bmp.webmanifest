@@ -2,7 +2,7 @@
   "name": "Loona JPG تا BMP کنورٹر",
   "short_name": "JPG تا BMP کنورٹر",
   "description": "JPG کو BMP میں آن لائن، مفت، اپنے براؤزر میں تبدیل کریں۔ آپ کے ڈیوائس پر اصل تبدیلی — نہ اپ لوڈ، نہ سائن اپ، نہ واٹر مارک۔",
-  "id": "/loona-image-compressor/ur/jpg-to-bmp.html",
+  "id": "/ur/jpg-to-bmp.html",
   "start_url": "./jpg-to-bmp.html",
   "scope": "./jpg-to-bmp.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona SSC CGL Unterschrift Größe",
   "short_name": "SSC CGL Unterschrift Größe",
   "description": "Passen Sie Ihr SSC CGL-Unterschrift auf die Größe der Bekanntmachung (140 × 60 px) und den Bereich 10–20 KB an. Kostenlos, in Ihrem Browser — ohne Upload, ohne Anmeldung.",
-  "id": "/loona-image-compressor/de/ssc-cgl-signature-size.html",
+  "id": "/de/ssc-cgl-signature-size.html",
   "start_url": "./ssc-cgl-signature-size.html",
   "scope": "./ssc-cgl-signature-size.html",
   "display": "standalone",

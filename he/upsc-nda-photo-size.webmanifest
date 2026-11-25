@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונה UPSC NDA",
   "short_name": "גודל תמונה UPSC NDA",
   "description": "שנו את גודל ה־תמונה של UPSC NDA לגודל ההודעה הרשמית (350 × 350 px) ולרצועת 20–300 KB. בחינם, בדפדפן שלכם — ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/upsc-nda-photo-size.html",
+  "id": "/he/upsc-nda-photo-size.html",
   "start_url": "./upsc-nda-photo-size.html",
   "scope": "./upsc-nda-photo-size.html",
   "display": "standalone",

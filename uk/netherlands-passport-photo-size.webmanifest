@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото на паспорт Нідерландів",
   "short_name": "Розмір Фото на паспорт",
   "description": "Зробіть Фото на паспорт Нідерландів в офіційному розмірі 35×45 мм (413×531 пікс.), тло: однотонне світло-сіре або біле, рівномірно освітлене. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
-  "id": "/loona-image-compressor/uk/netherlands-passport-photo-size.html",
+  "id": "/uk/netherlands-passport-photo-size.html",
   "start_url": "./netherlands-passport-photo-size.html",
   "scope": "./netherlands-passport-photo-size.html",
   "display": "standalone",

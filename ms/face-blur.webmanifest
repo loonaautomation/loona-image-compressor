@@ -2,7 +2,7 @@
   "name": "Loona Kabur Muka",
   "short_name": "Kabur Muka",
   "description": "Kaburkan atau pikselkan muka, plat nombor dan perincian peribadi dalam sebarang foto. Anda memilih kawasan sendiri, memilih kekuatan, pratonton dan muat turun — percuma, tiada pendaftaran, dan foto anda tidak pernah meninggalkan peranti anda.",
-  "id": "/loona-image-compressor/ms/face-blur.html",
+  "id": "/ms/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

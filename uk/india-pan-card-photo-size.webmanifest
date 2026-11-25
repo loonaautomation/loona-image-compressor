@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото на картку PAN Індії",
   "short_name": "Розмір Фото на картку PAN",
   "description": "Зробіть Фото на картку PAN Індії в офіційному розмірі 25×35 мм (295×413 пікс.), тло: однотонне біле. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
-  "id": "/loona-image-compressor/uk/india-pan-card-photo-size.html",
+  "id": "/uk/india-pan-card-photo-size.html",
   "start_url": "./india-pan-card-photo-size.html",
   "scope": "./india-pan-card-photo-size.html",
   "display": "standalone",

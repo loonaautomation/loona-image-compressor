@@ -2,7 +2,7 @@
   "name": "Loona JPG-WebP-muunnin",
   "short_name": "JPG-WebP-muunnin",
   "description": "Muunna JPG WebP:ksi verkossa ilmaiseksi ja pienennä verkkosivustojen kuvia 25–40 % samalla laadulla. Selaimessasi — ei rekisteröitymistä, ei latausta palvelimelle, ei vesileimaa.",
-  "id": "/loona-image-compressor/fi/jpg-to-webp.html",
+  "id": "/fi/jpg-to-webp.html",
   "start_url": "./jpg-to-webp.html",
   "scope": "./jpg-to-webp.html",
   "display": "standalone",

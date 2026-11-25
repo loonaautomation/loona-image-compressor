@@ -2,7 +2,7 @@
   "name": "Loona Generatore di meme",
   "short_name": "Generatore di meme",
   "description": "Trasforma qualsiasi foto in un meme classico con testo in grassetto in alto e in basso: generatore di meme online gratuito con anteprima dal vivo, opzioni di sfondo liscio e download PNG. Senza registrazione, e la tua immagine non lascia mai il tuo dispositivo.",
-  "id": "/loona-image-compressor/it/meme-generator.html",
+  "id": "/it/meme-generator.html",
   "start_url": "./meme-generator.html",
   "scope": "./meme-generator.html",
   "display": "standalone",

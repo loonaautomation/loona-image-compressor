@@ -2,7 +2,7 @@
   "name": "Loona Comprimeer WebP tot 50 KB online",
   "short_name": "Comprimeer WebP tot 50 KB",
   "description": "Comprimeer een WebP-afbeelding gratis in je browser tot 50 KB of kleiner. De automatische zoekfunctie vindt de beste kwaliteit die past — geen aanmelding, geen upload.",
-  "id": "/loona-image-compressor/nl/compress-webp-to-50kb.html",
+  "id": "/nl/compress-webp-to-50kb.html",
   "start_url": "./compress-webp-to-50kb.html",
   "scope": "./compress-webp-to-50kb.html",
   "display": "standalone",

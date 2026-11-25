@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายGATE",
   "short_name": "ขนาดรูปถ่ายGATE",
   "description": "ปรับขนาดรูปถ่ายGATEของคุณให้เป็นขนาดตามประกาศ (480 × 640 px) และช่วง 5–200 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/gate-photo-size.html",
+  "id": "/th/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

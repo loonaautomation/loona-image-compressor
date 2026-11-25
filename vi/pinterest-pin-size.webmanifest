@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ghim tiêu chuẩn Pinterest",
   "short_name": "Kích thước Ghim tiêu chuẩn",
   "description": "Tạo ghim tiêu chuẩn Pinterest chính xác 1000×1500 px. Công cụ thay đổi kích thước/cắt ảnh miễn phí trong trình duyệt của bạn, kèm các quy tắc vùng an toàn giúp văn bản và khuôn mặt không bị cắt mất.",
-  "id": "/loona-image-compressor/vi/pinterest-pin-size.html",
+  "id": "/vi/pinterest-pin-size.html",
   "start_url": "./pinterest-pin-size.html",
   "scope": "./pinterest-pin-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Διαβατηρίου Πακιστάν",
   "short_name": "Φωτογραφία Διαβατηρίου",
   "description": "Δημιουργήστε Φωτογραφία Διαβατηρίου Πακιστάν στο επίσημο μέγεθος 51×51 mm (600×600 px), φόντο απλό λευκό. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/pakistan-passport-photo-size.html",
+  "id": "/el/pakistan-passport-photo-size.html",
   "start_url": "./pakistan-passport-photo-size.html",
   "scope": "./pakistan-passport-photo-size.html",
   "display": "standalone",

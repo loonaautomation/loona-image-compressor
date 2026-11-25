@@ -2,7 +2,7 @@
   "name": "Loona Αλλαγή Φόντου Φωτογραφίας",
   "short_name": "Αλλαγή Φόντου Φωτογραφίας",
   "description": "Αλλάξτε το φόντο μιας φωτογραφίας σε λευκό, μπλε, ανοιχτό γκρι ή κόκκινο δωρεάν διαδικτυακά. Εργαλεία γεμίσματος με πλημμύρα και πινέλου, ιδιωτικά στο πρόγραμμα περιήγησής σας, χωρίς μεταφόρτωση AI.",
-  "id": "/loona-image-compressor/el/photo-background-changer.html",
+  "id": "/el/photo-background-changer.html",
   "start_url": "./photo-background-changer.html",
   "scope": "./photo-background-changer.html",
   "display": "standalone",

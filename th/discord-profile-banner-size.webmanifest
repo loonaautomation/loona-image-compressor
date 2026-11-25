@@ -2,7 +2,7 @@
   "name": "Loona ขนาดแบนเนอร์โปรไฟล์ Discord",
   "short_name": "ขนาดแบนเนอร์โปรไฟล์ Discord",
   "description": "ทำแบนเนอร์โปรไฟล์ Discord ที่ขนาด 600×180 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/discord-profile-banner-size.html",
+  "id": "/th/discord-profile-banner-size.html",
   "start_url": "./discord-profile-banner-size.html",
   "scope": "./discord-profile-banner-size.html",
   "display": "standalone",

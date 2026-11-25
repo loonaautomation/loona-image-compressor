@@ -2,7 +2,7 @@
   "name": "Loona ขนาดแบนเนอร์เซิร์ฟเวอร์ Discord",
   "short_name": "ขนาดแบนเนอร์เซิร์ฟเวอร์",
   "description": "ทำแบนเนอร์เซิร์ฟเวอร์ Discord ที่ขนาด 960×540 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/discord-server-banner-size.html",
+  "id": "/th/discord-server-banner-size.html",
   "start_url": "./discord-server-banner-size.html",
   "scope": "./discord-server-banner-size.html",
   "display": "standalone",

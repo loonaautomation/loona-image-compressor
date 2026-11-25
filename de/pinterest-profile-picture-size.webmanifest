@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Profilbild Größe",
   "short_name": "Pinterest Profilbild Größe",
   "description": "Erstellen Sie ein Pinterest-profilbild mit exakt 800×800 px. Kostenloser Größenänderer/Zuschneider in Ihrem Browser mit den Regeln für die sichere Zone, die abgeschnittenen Text und Gesichter verhindern.",
-  "id": "/loona-image-compressor/de/pinterest-profile-picture-size.html",
+  "id": "/de/pinterest-profile-picture-size.html",
   "start_url": "./pinterest-profile-picture-size.html",
   "scope": "./pinterest-profile-picture-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Αλλαγή Μεγέθους Εικόνας σε 2400 × 3000 px Online",
   "short_name": "Αλλαγή Μεγέθους Εικόνας σε",
   "description": "Αλλάξτε το μέγεθος οποιασδήποτε εικόνας σε ακριβώς 2400×3000 px — Εκτύπωση 8 × 10 inch στα 300 DPI. Δωρεάν στο πρόγραμμα περιήγησής σας με έλεγχο περικοπής· χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/resize-image-to-2400x3000.html",
+  "id": "/el/resize-image-to-2400x3000.html",
   "start_url": "./resize-image-to-2400x3000.html",
   "scope": "./resize-image-to-2400x3000.html",
   "display": "standalone",

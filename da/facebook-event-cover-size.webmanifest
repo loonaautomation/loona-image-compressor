@@ -2,7 +2,7 @@
   "name": "Loona Facebook Begivenhedsomslag størrelse",
   "short_name": "Facebook Begivenhedsomslag",
   "description": "Lav en Facebook begivenhedsomslag på præcis 1920×1005 px. Gratis størrelses- og beskæringsværktøj i din browser med sikkerhedszonereglerne, der forhindrer beskåret tekst og ansigter.",
-  "id": "/loona-image-compressor/da/facebook-event-cover-size.html",
+  "id": "/da/facebook-event-cover-size.html",
   "start_url": "./facebook-event-cover-size.html",
   "scope": "./facebook-event-cover-size.html",
   "display": "standalone",

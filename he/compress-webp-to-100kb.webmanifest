@@ -2,7 +2,7 @@
   "name": "Loona דחיסת WebP ל־100 KB באינטרנט",
   "short_name": "דחיסת WebP ל־100 KB באינטרנט",
   "description": "דחסו תמונת WebP ל־100 KB או פחות, בחינם בדפדפן. חיפוש אוטומטי מוצא את האיכות הטובה ביותר שמתאימה — ללא הרשמה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/compress-webp-to-100kb.html",
+  "id": "/he/compress-webp-to-100kb.html",
   "start_url": "./compress-webp-to-100kb.html",
   "scope": "./compress-webp-to-100kb.html",
   "display": "standalone",

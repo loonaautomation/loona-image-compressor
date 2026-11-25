@@ -2,7 +2,7 @@
   "name": "Loona कलर पैलेट जनरेटर",
   "short_name": "कलर पैलेट जनरेटर",
   "description": "किसी भी आधार रंग से सामंजस्यपूर्ण कलर पैलेट बनाएँ — एनालॉगस, कॉम्प्लिमेंटरी, ट्रायैडिक और मोनोक्रोमैटिक योजनाएँ कॉपी करने योग्य HEX कोड के साथ। मुफ़्त, कोई साइनअप नहीं।",
-  "id": "/loona-image-compressor/hi/color-palette-generator.html",
+  "id": "/hi/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",
   "scope": "./color-palette-generator.html",
   "display": "standalone",

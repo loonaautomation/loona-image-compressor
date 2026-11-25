@@ -2,7 +2,7 @@
   "name": "Loona Memegenerator",
   "short_name": "Memegenerator",
   "description": "Lav ethvert foto til et klassisk meme med fed tekst øverst og nederst — gratis online memegenerator med live forhåndsvisning, ensfarvede baggrundsmuligheder og PNG-download. Ingen tilmelding, og dit billede forlader aldrig din enhed.",
-  "id": "/loona-image-compressor/da/meme-generator.html",
+  "id": "/da/meme-generator.html",
   "start_url": "./meme-generator.html",
   "scope": "./meme-generator.html",
   "display": "standalone",

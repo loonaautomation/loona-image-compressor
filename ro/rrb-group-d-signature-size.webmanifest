@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Semnătură RRB Group D (Railways)",
   "short_name": "Dimensiune Semnătură RRB",
   "description": "Redimensionează semnătură pentru RRB Group D (Railways) la dimensiunea din notificare (140 × 60 px) și intervalul 10–40 KB. Gratuit, în browserul tău — fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/rrb-group-d-signature-size.html",
+  "id": "/ro/rrb-group-d-signature-size.html",
   "start_url": "./rrb-group-d-signature-size.html",
   "scope": "./rrb-group-d-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Redimensionează imaginea la 800 × 800",
   "short_name": "Redimensionează imaginea la",
   "description": "Redimensionează orice imagine la exact 800 × 800 pixeli (marketplace and product listing photos) gratuit. Acoperă, conține sau întinde, JPG sau PNG, descarcă instantaneu — fără înregistrare, nimic încărcat.",
-  "id": "/loona-image-compressor/ro/resize-image-to-800x800.html",
+  "id": "/ro/resize-image-to-800x800.html",
   "start_url": "./resize-image-to-800x800.html",
   "scope": "./resize-image-to-800x800.html",
   "display": "standalone",

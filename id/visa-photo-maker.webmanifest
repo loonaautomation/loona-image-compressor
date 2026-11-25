@@ -2,7 +2,7 @@
   "name": "Loona Pembuat Foto Visa",
   "short_name": "Pembuat Foto Visa",
   "description": "Buat foto visa online gratis: AS 2x2 inci, Inggris dan Schengen 35x45 mm, Tiongkok 33x48 mm pada 300 DPI. Tanpa pendaftaran, tanpa tanda air, alat sepenuhnya privat.",
-  "id": "/loona-image-compressor/id/visa-photo-maker.html",
+  "id": "/id/visa-photo-maker.html",
   "start_url": "./visa-photo-maker.html",
   "scope": "./visa-photo-maker.html",
   "display": "standalone",

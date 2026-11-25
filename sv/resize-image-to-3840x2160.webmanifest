@@ -2,7 +2,7 @@
   "name": "Loona Ändra bildstorlek till 3840 × 2160 px online",
   "short_name": "Ändra bildstorlek till 3840 ×",
   "description": "Ändra storlek på valfri bild till exakt 3840×2160 px — 4K UHD-bakgrund / videobildruta. Gratis i din webbläsare med beskärningskontroll; ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/resize-image-to-3840x2160.html",
+  "id": "/sv/resize-image-to-3840x2160.html",
   "start_url": "./resize-image-to-3840x2160.html",
   "scope": "./resize-image-to-3840x2160.html",
   "display": "standalone",

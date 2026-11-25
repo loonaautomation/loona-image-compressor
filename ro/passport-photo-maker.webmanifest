@@ -2,7 +2,7 @@
   "name": "Loona Creator de fotografii de dimensiune pașaport",
   "short_name": "Creator de fotografii de",
   "description": "Fă o fotografie de dimensiune pașaport online gratuit: decupează orice fotografie la 35×45 mm sau 2×2 inch la 300 DPI, gata de imprimare. Fără înregistrare, fără filigran, complet privat.",
-  "id": "/loona-image-compressor/ro/passport-photo-maker.html",
+  "id": "/ro/passport-photo-maker.html",
   "start_url": "./passport-photo-maker.html",
   "scope": "./passport-photo-maker.html",
   "display": "standalone",

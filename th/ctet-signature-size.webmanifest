@@ -2,7 +2,7 @@
   "name": "Loona ขนาดลายเซ็นCTET",
   "short_name": "ขนาดลายเซ็นCTET",
   "description": "ปรับขนาดลายเซ็นCTETของคุณให้เป็นขนาดตามประกาศ (กล่องที่สแกน อัตราส่วนประมาณ 7:2) และช่วง 3–30 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/ctet-signature-size.html",
+  "id": "/th/ctet-signature-size.html",
   "start_url": "./ctet-signature-size.html",
   "scope": "./ctet-signature-size.html",
   "display": "standalone",

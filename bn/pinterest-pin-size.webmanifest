@@ -2,7 +2,7 @@
   "name": "Loona Pinterest মানক পিন আকার",
   "short_name": "Pinterest মানক পিন আকার",
   "description": "ঠিক 1000×1500 px-এ একটি Pinterest মানক পিন তৈরি করুন। আপনার ব্রাউজারে বিনামূল্যে রিসাইজার/ক্রপার, ক্রপ করা লেখা ও মুখ আটকায় এমন নিরাপদ-অঞ্চলের নিয়মসহ।",
-  "id": "/loona-image-compressor/bn/pinterest-pin-size.html",
+  "id": "/bn/pinterest-pin-size.html",
   "start_url": "./pinterest-pin-size.html",
   "scope": "./pinterest-pin-size.html",
   "display": "standalone",

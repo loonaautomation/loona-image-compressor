@@ -2,7 +2,7 @@
   "name": "Loona Instagram 릴스 커버 크기",
   "short_name": "Instagram 릴스 커버 크기",
   "description": "Instagram 릴스 커버을 정확히 1080×1920 px로 만드세요. 잘린 텍스트와 얼굴을 막는 안전 영역 규칙과 함께, 브라우저에서 무료로 크기를 조정하고 자를 수 있어요.",
-  "id": "/loona-image-compressor/ko/instagram-reels-cover-size.html",
+  "id": "/ko/instagram-reels-cover-size.html",
   "start_url": "./instagram-reels-cover-size.html",
   "scope": "./instagram-reels-cover-size.html",
   "display": "standalone",

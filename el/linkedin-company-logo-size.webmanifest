@@ -2,7 +2,7 @@
   "name": "Loona Λογότυπο Σελίδας Εταιρείας LinkedIn",
   "short_name": "Λογότυπο Σελίδας Εταιρείας",
   "description": "Δημιουργήστε ένα λογότυπο σελίδας εταιρείας LinkedIn σε ακριβώς 300×300 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/linkedin-company-logo-size.html",
+  "id": "/el/linkedin-company-logo-size.html",
   "start_url": "./linkedin-company-logo-size.html",
   "scope": "./linkedin-company-logo-size.html",
   "display": "standalone",

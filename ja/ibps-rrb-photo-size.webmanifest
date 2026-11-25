@@ -2,7 +2,7 @@
   "name": "Loona IBPS RRB (Gramin Bank)の写真サイズ",
   "short_name": "IBPS RRB (Gramin Bank)の写真サイズ",
   "description": "IBPS RRB (Gramin Bank)の写真を告知サイズ（200 × 230 px）と20–50 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
-  "id": "/loona-image-compressor/ja/ibps-rrb-photo-size.html",
+  "id": "/ja/ibps-rrb-photo-size.html",
   "start_url": "./ibps-rrb-photo-size.html",
   "scope": "./ibps-rrb-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Mejorador de imágenes",
   "short_name": "Mejorador de imágenes",
   "description": "Mejora una foto en línea gratis: mejora automática con un clic, enfoca fotos suaves, limpia el ruido con suavidad y amplía 2x o 4x. Resultados honestos, sin registro, y tu foto nunca sale de tu dispositivo.",
-  "id": "/loona-image-compressor/es/image-enhancer.html",
+  "id": "/es/image-enhancer.html",
   "start_url": "./image-enhancer.html",
   "scope": "./image-enhancer.html",
   "display": "standalone",

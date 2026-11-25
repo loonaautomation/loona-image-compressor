@@ -2,7 +2,7 @@
   "name": "Loona YouTube Kanalbanner-størrelse",
   "short_name": "YouTube Kanalbanner-størrelse",
   "description": "Lag en YouTube kanalbanner med nøyaktig 2560×1440 px. Gratis størrelsesendrer/beskjærer i nettleseren din med reglene for sikre soner som stopper beskåret tekst og ansikter.",
-  "id": "/loona-image-compressor/nb/youtube-banner-size.html",
+  "id": "/nb/youtube-banner-size.html",
   "start_url": "./youtube-banner-size.html",
   "scope": "./youtube-banner-size.html",
   "display": "standalone",

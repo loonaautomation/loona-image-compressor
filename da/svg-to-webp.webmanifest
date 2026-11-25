@@ -2,7 +2,7 @@
   "name": "Loona SVG til WEBP-konverter",
   "short_name": "SVG til WEBP-konverter",
   "description": "Konvertér SVG til WEBP online, gratis, i din browser. Rigtig konvertering på din enhed — ingen upload, ingen tilmelding, ingen vandmærker.",
-  "id": "/loona-image-compressor/da/svg-to-webp.html",
+  "id": "/da/svg-to-webp.html",
   "start_url": "./svg-to-webp.html",
   "scope": "./svg-to-webp.html",
   "display": "standalone",

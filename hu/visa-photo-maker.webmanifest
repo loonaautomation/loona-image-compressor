@@ -2,7 +2,7 @@
   "name": "Loona Vízumfotó-készítő",
   "short_name": "Vízumfotó-készítő",
   "description": "Készítsen vízumfotókat online ingyen: US 2x2 hüvelyk, Egyesült Királyság és Schengen 35x45 mm, Kína 33x48 mm 300 DPI mellett. Regisztráció nélkül, vízjel nélkül, teljesen privát eszköz.",
-  "id": "/loona-image-compressor/hu/visa-photo-maker.html",
+  "id": "/hu/visa-photo-maker.html",
   "start_url": "./visa-photo-maker.html",
   "scope": "./visa-photo-maker.html",
   "display": "standalone",

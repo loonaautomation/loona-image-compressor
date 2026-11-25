@@ -2,7 +2,7 @@
   "name": "Loona Eksamensfoto- og underskriftsstørrelser",
   "short_name": "Eksamensfoto- og",
   "description": "Foto- og underskriftsstørrelser og KB-bånd for 20 store indiske eksamener — SSC, IBPS, SBI, UPSC, RRB, JEE, NEET og flere, hver med et værktøj.",
-  "id": "/loona-image-compressor/da/exam-photo-sizes.html",
+  "id": "/da/exam-photo-sizes.html",
   "start_url": "./exam-photo-sizes.html",
   "scope": "./exam-photo-sizes.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Redimensionează imaginea la 2400 × 3000 px online",
   "short_name": "Redimensionează imaginea la",
   "description": "Redimensionează orice imagine la exact 2400×3000 px — Imprimat de 8 × 10 inch la 300 DPI. Gratuit în browserul tău, cu control al decupării; fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/resize-image-to-2400x3000.html",
+  "id": "/ro/resize-image-to-2400x3000.html",
   "start_url": "./resize-image-to-2400x3000.html",
   "scope": "./resize-image-to-2400x3000.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Visa Kanada (Digital)",
   "short_name": "Ukuran Foto Visa Kanada",
   "description": "Buat Foto Visa Kanada (Digital) pada ukuran resmi 35×45 mm (420×540 px), latar belakang putih polos atau berwarna terang. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/canada-visa-photo-size.html",
+  "id": "/id/canada-visa-photo-size.html",
   "start_url": "./canada-visa-photo-size.html",
   "scope": "./canada-visa-photo-size.html",
   "display": "standalone",

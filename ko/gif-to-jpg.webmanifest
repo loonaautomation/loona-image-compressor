@@ -2,7 +2,7 @@
   "name": "Loona GIF에서 JPG로 변환기",
   "short_name": "GIF에서 JPG로 변환기",
   "description": "GIF를 온라인에서 무료로 JPG로 변환하세요 — GIF를 작고 범용적인 JPG 정지 이미지로 바꾸세요. 브라우저에서: 회원가입 없음, 업로드 없음, 워터마크 없음.",
-  "id": "/loona-image-compressor/ko/gif-to-jpg.html",
+  "id": "/ko/gif-to-jpg.html",
   "start_url": "./gif-to-jpg.html",
   "scope": "./gif-to-jpg.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prevodník SVG na JPG",
   "short_name": "Prevodník SVG na JPG",
   "description": "Preveďte SVG na JPG online zadarmo — vykreslite vektorové logá a ilustrácie ako univerzálne JPG v akejkoľvek šírke. Bez registrácie, bez nahrávania, vo vašom prehliadači.",
-  "id": "/loona-image-compressor/sk/svg-to-jpg.html",
+  "id": "/sk/svg-to-jpg.html",
   "start_url": "./svg-to-jpg.html",
   "scope": "./svg-to-jpg.html",
   "display": "standalone",

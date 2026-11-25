@@ -2,7 +2,7 @@
   "name": "Loona מחולל פלטות צבעים",
   "short_name": "מחולל פלטות צבעים",
   "description": "צרו פלטות צבעים הרמוניות מכל צבע בסיס — סכמות אנלוגיות, משלימות, משולשות ומונוכרומטיות עם קודי HEX ניתנים להעתקה. בחינם, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/color-palette-generator.html",
+  "id": "/he/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",
   "scope": "./color-palette-generator.html",
   "display": "standalone",

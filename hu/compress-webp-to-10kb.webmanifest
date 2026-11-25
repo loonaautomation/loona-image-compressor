@@ -2,7 +2,7 @@
   "name": "Loona A WebP tömörítése 10 KB-ra online",
   "short_name": "A WebP tömörítése 10 KB-ra",
   "description": "Tömörítsen egy WebP képet 10 KB-ra vagy az alá, ingyen, a böngészőjében. Az automatikus keresés megtalálja a legjobb beleférő minőséget — regisztráció és feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/compress-webp-to-10kb.html",
+  "id": "/hu/compress-webp-to-10kb.html",
   "start_url": "./compress-webp-to-10kb.html",
   "scope": "./compress-webp-to-10kb.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie de pașaport standard ICAO (35×45 mm)",
   "short_name": "Dimensiune Fotografie de",
   "description": "Creează un Fotografie de pașaport standard ICAO (35×45 mm) la dimensiunea oficială 35×45 mm (413×531 px), fundal fundal deschis simplu. Creator online gratuit — decupează, descarcă și imprimă foaia, fără încărcare.",
-  "id": "/loona-image-compressor/ro/icao-passport-photo-size.html",
+  "id": "/ro/icao-passport-photo-size.html",
   "start_url": "./icao-passport-photo-size.html",
   "scope": "./icao-passport-photo-size.html",
   "display": "standalone",

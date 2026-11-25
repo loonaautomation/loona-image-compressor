@@ -2,7 +2,7 @@
   "name": "Loona ملک کے لحاظ سے پاسپورٹ اور ویزا تصویر سائز",
   "short_name": "ملک کے لحاظ سے پاسپورٹ اور",
   "description": "40 ممالک اور دستاویزات کے سرکاری پاسپورٹ، ویزا اور شناختی تصویر سائز، ہر ایک کے ساتھ بالکل درست ملی میٹر اور پکسل سائز پر میکر ٹول۔",
-  "id": "/loona-image-compressor/ur/passport-photo-sizes.html",
+  "id": "/ur/passport-photo-sizes.html",
   "start_url": "./passport-photo-sizes.html",
   "scope": "./passport-photo-sizes.html",
   "display": "standalone",

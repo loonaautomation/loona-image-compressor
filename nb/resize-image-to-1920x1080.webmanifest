@@ -2,7 +2,7 @@
   "name": "Loona Endre bildestørrelse til 1920 × 1080",
   "short_name": "Endre bildestørrelse til 1920",
   "description": "Endre størrelsen på et hvilket som helst bilde til nøyaktig 1920 × 1080 piksler (Full HD screens, desktop wallpapers and YouTube end screens) gratis. Fyll, tilpass eller strekk, JPG eller PNG, last ned umiddelbart — ingen registrering, ingenting lastes opp.",
-  "id": "/loona-image-compressor/nb/resize-image-to-1920x1080.html",
+  "id": "/nb/resize-image-to-1920x1080.html",
   "start_url": "./resize-image-to-1920x1080.html",
   "scope": "./resize-image-to-1920x1080.html",
   "display": "standalone",

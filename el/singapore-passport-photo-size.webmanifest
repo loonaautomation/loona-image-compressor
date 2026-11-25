@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Διαβατηρίου Σιγκαπούρης",
   "short_name": "Φωτογραφία Διαβατηρίου",
   "description": "Δημιουργήστε Φωτογραφία Διαβατηρίου Σιγκαπούρης στο επίσημο μέγεθος 35×45 mm (413×531 px), φόντο απλό λευκό. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/singapore-passport-photo-size.html",
+  "id": "/el/singapore-passport-photo-size.html",
   "start_url": "./singapore-passport-photo-size.html",
   "scope": "./singapore-passport-photo-size.html",
   "display": "standalone",

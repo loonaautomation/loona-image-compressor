@@ -2,7 +2,7 @@
   "name": "Loona Zmeniť veľkosť obrázka na 1500 × 2100 px online",
   "short_name": "Zmeniť veľkosť obrázka na",
   "description": "Zmeňte veľkosť akéhokoľvek obrázka presne na 1500×2100 px — Tlač fotografie 5 × 7 palcov pri 300 DPI. Zadarmo vo vašom prehliadači s ovládaním orezania; bez nahrávania a bez registrácie.",
-  "id": "/loona-image-compressor/sk/resize-image-to-1500x2100.html",
+  "id": "/sk/resize-image-to-1500x2100.html",
   "start_url": "./resize-image-to-1500x2100.html",
   "scope": "./resize-image-to-1500x2100.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Συμπίεση JPG σε 2000 KB Online",
   "short_name": "Συμπίεση JPG σε 2000 KB Online",
   "description": "Συμπιέστε μια εικόνα JPG σε 2000 KB ή λιγότερο, δωρεάν στο πρόγραμμα περιήγησής σας. Η αυτόματη αναζήτηση βρίσκει την καλύτερη ποιότητα που χωράει — χωρίς εγγραφή, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/compress-jpg-to-2000kb.html",
+  "id": "/el/compress-jpg-to-2000kb.html",
   "start_url": "./compress-jpg-to-2000kb.html",
   "scope": "./compress-jpg-to-2000kb.html",
   "display": "standalone",

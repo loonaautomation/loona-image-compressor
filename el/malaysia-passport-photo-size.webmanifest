@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Διαβατηρίου Μαλαισίας",
   "short_name": "Φωτογραφία Διαβατηρίου",
   "description": "Δημιουργήστε Φωτογραφία Διαβατηρίου Μαλαισίας στο επίσημο μέγεθος 35×50 mm (413×591 px), φόντο απλό λευκό. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/malaysia-passport-photo-size.html",
+  "id": "/el/malaysia-passport-photo-size.html",
   "start_url": "./malaysia-passport-photo-size.html",
   "scope": "./malaysia-passport-photo-size.html",
   "display": "standalone",

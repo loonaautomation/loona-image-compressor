@@ -2,7 +2,7 @@
   "name": "Loona Veličina GATE Fotografija",
   "short_name": "Veličina GATE Fotografija",
   "description": "Promijenite veličinu svoje GATE fotografiju na veličinu iz obavijesti (480 × 640 px) i pojas 5–200 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/gate-photo-size.html",
+  "id": "/hr/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

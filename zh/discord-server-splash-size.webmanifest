@@ -2,7 +2,7 @@
   "name": "Loona Discord 邀请闪屏 尺寸",
   "short_name": "Discord 邀请闪屏 尺寸",
   "description": "按精确的 1920×1080 px 制作 Discord 邀请闪屏。在浏览器中免费调整大小/裁剪，附有安全区规则，防止文字和面部被裁掉。",
-  "id": "/loona-image-compressor/zh/discord-server-splash-size.html",
+  "id": "/zh/discord-server-splash-size.html",
   "start_url": "./discord-server-splash-size.html",
   "scope": "./discord-server-splash-size.html",
   "display": "standalone",

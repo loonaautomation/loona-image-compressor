@@ -2,7 +2,7 @@
   "name": "Loona HEIC–JPG-muunnin",
   "short_name": "HEIC–JPG-muunnin",
   "description": "Muunna HEIC muotoon JPG verkossa, ilmaiseksi, selaimessasi. Tee iPhonen HEIC-kuvista JPG-kuvia, jotka avautuvat kaikkialla — ilman palvelimelle lataamista, ilman rekisteröitymistä ja ilman vesileimoja.",
-  "id": "/loona-image-compressor/fi/heic-to-jpg-converter.html",
+  "id": "/fi/heic-to-jpg-converter.html",
   "start_url": "./heic-to-jpg-converter.html",
   "scope": "./heic-to-jpg-converter.html",
   "display": "standalone",

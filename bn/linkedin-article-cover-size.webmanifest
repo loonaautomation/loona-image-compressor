@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn নিবন্ধ / নিউজলেটার কভার আকার",
   "short_name": "LinkedIn নিবন্ধ / নিউজলেটার",
   "description": "ঠিক 1200×644 px-এ একটি LinkedIn নিবন্ধ / নিউজলেটার কভার তৈরি করুন। আপনার ব্রাউজারে বিনামূল্যে রিসাইজার/ক্রপার, ক্রপ করা লেখা ও মুখ আটকায় এমন নিরাপদ-অঞ্চলের নিয়মসহ।",
-  "id": "/loona-image-compressor/bn/linkedin-article-cover-size.html",
+  "id": "/bn/linkedin-article-cover-size.html",
   "start_url": "./linkedin-article-cover-size.html",
   "scope": "./linkedin-article-cover-size.html",
   "display": "standalone",

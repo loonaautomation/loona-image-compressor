@@ -2,7 +2,7 @@
   "name": "Loona Facebook কভার ছবি / পৃষ্ঠা কভার আকার",
   "short_name": "Facebook কভার ছবি / পৃষ্ঠা",
   "description": "ঠিক 1640×924 px-এ একটি Facebook কভার ছবি / পৃষ্ঠা কভার তৈরি করুন। আপনার ব্রাউজারে বিনামূল্যে রিসাইজার/ক্রপার, ক্রপ করা লেখা ও মুখ আটকায় এমন নিরাপদ-অঞ্চলের নিয়মসহ।",
-  "id": "/loona-image-compressor/bn/facebook-cover-photo-size.html",
+  "id": "/bn/facebook-cover-photo-size.html",
   "start_url": "./facebook-cover-photo-size.html",
   "scope": "./facebook-cover-photo-size.html",
   "display": "standalone",

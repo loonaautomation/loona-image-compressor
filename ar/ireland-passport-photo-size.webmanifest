@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة جواز السفر الأيرلندي",
   "short_name": "حجم صورة جواز السفر الأيرلندي",
   "description": "اصنع صورة جواز السفر الأيرلندي بالحجم الرسمي 35×45 mm (413×531 px)، خلفية بيضاء سادة أو رمادية فاتحة. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/ireland-passport-photo-size.html",
+  "id": "/ar/ireland-passport-photo-size.html",
   "start_url": "./ireland-passport-photo-size.html",
   "scope": "./ireland-passport-photo-size.html",
   "display": "standalone",

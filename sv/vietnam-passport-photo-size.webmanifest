@@ -2,7 +2,7 @@
   "name": "Loona Vietnamesiskt pass- / visumfoto storlek",
   "short_name": "Vietnamesiskt pass- /",
   "description": "Skapa ett Vietnamesiskt pass- / visumfoto i den officiella storleken 40×60 mm (472×709 px), helvit bakgrund. Gratis onlineskapare — beskär, ladda ner och skriv ut ark, ingen uppladdning.",
-  "id": "/loona-image-compressor/sv/vietnam-passport-photo-size.html",
+  "id": "/sv/vietnam-passport-photo-size.html",
   "start_url": "./vietnam-passport-photo-size.html",
   "scope": "./vietnam-passport-photo-size.html",
   "display": "standalone",

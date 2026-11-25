@@ -2,7 +2,7 @@
   "name": "Loona Změnit velikost obrázku na 1024 × 1024 px online",
   "short_name": "Změnit velikost obrázku na",
   "description": "Změňte velikost libovolného obrázku přesně na 1024×1024 px — Standardní čtverec pro ikony aplikací a obrázky z AI. Zdarma ve vašem prohlížeči s ovládáním ořezu; bez nahrávání a bez registrace.",
-  "id": "/loona-image-compressor/cs/resize-image-to-1024x1024.html",
+  "id": "/cs/resize-image-to-1024x1024.html",
   "start_url": "./resize-image-to-1024x1024.html",
   "scope": "./resize-image-to-1024x1024.html",
   "display": "standalone",

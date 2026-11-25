@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Semnătură JEE Main",
   "short_name": "Dimensiune Semnătură JEE Main",
   "description": "Redimensionează semnătură pentru JEE Main la dimensiunea din notificare (casetă scanată, raport aproximativ 7:2) și intervalul 4–30 KB. Gratuit, în browserul tău — fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/jee-main-signature-size.html",
+  "id": "/ro/jee-main-signature-size.html",
   "start_url": "./jee-main-signature-size.html",
   "scope": "./jee-main-signature-size.html",
   "display": "standalone",

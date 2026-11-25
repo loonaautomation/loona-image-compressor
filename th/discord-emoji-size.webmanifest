@@ -2,7 +2,7 @@
   "name": "Loona ขนาดอิโมจิกำหนดเอง Discord",
   "short_name": "ขนาดอิโมจิกำหนดเอง Discord",
   "description": "ทำอิโมจิกำหนดเอง Discord ที่ขนาด 128×128 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/discord-emoji-size.html",
+  "id": "/th/discord-emoji-size.html",
   "start_url": "./discord-emoji-size.html",
   "scope": "./discord-emoji-size.html",
   "display": "standalone",

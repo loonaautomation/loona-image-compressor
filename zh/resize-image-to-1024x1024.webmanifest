@@ -2,7 +2,7 @@
   "name": "Loona 在线将图片调整为 1024 × 1024 px",
   "short_name": "在线将图片调整为 1024 × 1024 px",
   "description": "将任何图片调整为精确的 1024×1024 px — 应用图标和 AI 图片的标准正方形。在浏览器中免费使用，带裁剪控制；无需上传，无需注册。",
-  "id": "/loona-image-compressor/zh/resize-image-to-1024x1024.html",
+  "id": "/zh/resize-image-to-1024x1024.html",
   "start_url": "./resize-image-to-1024x1024.html",
   "scope": "./resize-image-to-1024x1024.html",
   "display": "standalone",

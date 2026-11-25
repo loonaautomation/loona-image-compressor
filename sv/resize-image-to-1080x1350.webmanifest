@@ -2,7 +2,7 @@
   "name": "Loona Ändra bildstorlek till 1080 × 1350",
   "short_name": "Ändra bildstorlek till 1080 ×",
   "description": "Ändra storlek på valfri bild till exakt 1080 × 1350 pixlar (Instagrams stående inlägg i förhållandet 4:5) gratis. Cover, contain eller stretch, JPG eller PNG, ladda ner direkt — ingen registrering, ingenting uppladdat.",
-  "id": "/loona-image-compressor/sv/resize-image-to-1080x1350.html",
+  "id": "/sv/resize-image-to-1080x1350.html",
   "start_url": "./resize-image-to-1080x1350.html",
   "scope": "./resize-image-to-1080x1350.html",
   "display": "standalone",

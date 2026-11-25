@@ -2,7 +2,7 @@
   "name": "Loona Tilpas billedstørrelse til 472 × 709 px online",
   "short_name": "Tilpas billedstørrelse til",
   "description": "Tilpas ethvert billede til præcis 472×709 px — 40 × 60 mm ved 300 DPI — UAE/Saudi/Egypten/Vietnam fotostørrelse. Gratis i din browser med beskæringskontrol; ingen upload, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/resize-image-to-472x709.html",
+  "id": "/da/resize-image-to-472x709.html",
   "start_url": "./resize-image-to-472x709.html",
   "scope": "./resize-image-to-472x709.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Конвертор от PNG в WebP",
   "short_name": "Конвертор от PNG в WebP",
   "description": "Конвертирайте PNG в WebP онлайн безплатно — много по-малки файлове, които запазват прозрачността, идеални за уебсайтове. Без регистрация, без качване, работи във вашия браузър.",
-  "id": "/loona-image-compressor/bg/png-to-webp.html",
+  "id": "/bg/png-to-webp.html",
   "start_url": "./png-to-webp.html",
   "scope": "./png-to-webp.html",
   "display": "standalone",

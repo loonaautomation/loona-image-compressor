@@ -2,7 +2,7 @@
   "name": "Loona Discord उपयोगकर्ता अवतार साइज़",
   "short_name": "Discord उपयोगकर्ता अवतार साइज़",
   "description": "Discord उपयोगकर्ता अवतार ठीक 800×800 px पर बनाएँ. आपके ब्राउज़र में मुफ़्त रीसाइज़र/क्रॉपर, उन सेफ़-ज़ोन नियमों के साथ जो क्रॉप हुए टेक्स्ट और चेहरों को रोकते हैं.",
-  "id": "/loona-image-compressor/hi/discord-avatar-size.html",
+  "id": "/hi/discord-avatar-size.html",
   "start_url": "./discord-avatar-size.html",
   "scope": "./discord-avatar-size.html",
   "display": "standalone",

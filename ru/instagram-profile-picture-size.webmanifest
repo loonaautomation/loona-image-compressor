@@ -2,7 +2,7 @@
   "name": "Loona Размер Фото профиля для Instagram",
   "short_name": "Размер Фото профиля для Instagram",
   "description": "Make a Instagram profile picture at exactly 1080×1080 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/instagram-profile-picture-size.html",
+  "id": "/instagram-profile-picture-size.html",
   "start_url": "./instagram-profile-picture-size.html",
   "scope": "./instagram-profile-picture-size.html",
   "display": "standalone",

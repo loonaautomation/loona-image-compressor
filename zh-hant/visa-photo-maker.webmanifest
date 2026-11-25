@@ -2,7 +2,7 @@
   "name": "Loona 簽證照片製作工具",
   "short_name": "簽證照片製作工具",
   "description": "免費線上製作簽證照片：美國 2x2 英寸、英國和申根 35x45 mm、中國 33x48 mm，300 DPI。無需註冊，無水印，完全私密的工具。",
-  "id": "/loona-image-compressor/zh-hant/visa-photo-maker.html",
+  "id": "/zh-hant/visa-photo-maker.html",
   "start_url": "./visa-photo-maker.html",
   "scope": "./visa-photo-maker.html",
   "display": "standalone",

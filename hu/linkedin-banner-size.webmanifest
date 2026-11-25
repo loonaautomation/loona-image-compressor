@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Profil- / oldalbanner méret",
   "short_name": "LinkedIn Profil- /",
   "description": "Készítsen LinkedIn profil- / oldalbanner képet pontosan 1584×396 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/linkedin-banner-size.html",
+  "id": "/hu/linkedin-banner-size.html",
   "start_url": "./linkedin-banner-size.html",
   "scope": "./linkedin-banner-size.html",
   "display": "standalone",

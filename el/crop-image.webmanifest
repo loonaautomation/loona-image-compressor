@@ -2,7 +2,7 @@
   "name": "Loona Περικοπή Εικόνας Διαδικτυακά Δωρεάν",
   "short_name": "Περικοπή Εικόνας Διαδικτυακά",
   "description": "Περικόψτε εικόνες διαδικτυακά δωρεάν με έτοιμες αναλογίες — 1:1, 4:3, 16:9 και διαβατήριο 35×45 — συν περιστροφή και αναστροφή. Κατεβάστε την ακριβή περικοπή σε πλήρη ανάλυση.",
-  "id": "/loona-image-compressor/el/crop-image.html",
+  "id": "/el/crop-image.html",
   "start_url": "./crop-image.html",
   "scope": "./crop-image.html",
   "display": "standalone",

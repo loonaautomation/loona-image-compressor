@@ -2,7 +2,7 @@
   "name": "Loona Komprimér JPG til 300 KB online",
   "short_name": "Komprimér JPG til 300 KB",
   "description": "Komprimér et JPG-billede til 300 KB eller derunder, gratis i din browser. Automatisk søgning finder den bedste kvalitet, der kan være der — ingen tilmelding, ingen upload.",
-  "id": "/loona-image-compressor/da/compress-jpg-to-300kb.html",
+  "id": "/da/compress-jpg-to-300kb.html",
   "start_url": "./compress-jpg-to-300kb.html",
   "scope": "./compress-jpg-to-300kb.html",
   "display": "standalone",

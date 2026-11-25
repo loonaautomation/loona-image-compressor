@@ -2,7 +2,7 @@
   "name": "Loona Μεγέθη Εικόνων Κοινωνικών Δικτύων 2026",
   "short_name": "Μεγέθη Εικόνων Κοινωνικών",
   "description": "Ακριβή μεγέθη εικόνων για Instagram, Facebook, YouTube, X, LinkedIn, Pinterest, TikTok και Discord — με εργαλείο δημιουργίας και οδηγό ασφαλούς ζώνης για κάθε θέση.",
-  "id": "/loona-image-compressor/el/social-media-image-sizes.html",
+  "id": "/el/social-media-image-sizes.html",
   "start_url": "./social-media-image-sizes.html",
   "scope": "./social-media-image-sizes.html",
   "display": "standalone",

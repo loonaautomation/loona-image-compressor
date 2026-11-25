@@ -2,7 +2,7 @@
   "name": "Loona Promijeni veličinu slike na 472 × 709 px na mreži",
   "short_name": "Promijeni veličinu slike na",
   "description": "Promijenite veličinu bilo koje slike na točno 472×709 px — 40 × 60 mm pri 300 DPI — veličina fotografije UAE/Saudijska/Egipat/Vijetnam. Besplatno u vašem pregledniku uz kontrolu izrezivanja; bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/resize-image-to-472x709.html",
+  "id": "/hr/resize-image-to-472x709.html",
   "start_url": "./resize-image-to-472x709.html",
   "scope": "./resize-image-to-472x709.html",
   "display": "standalone",

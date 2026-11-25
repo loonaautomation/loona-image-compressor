@@ -2,7 +2,7 @@
   "name": "Loona Kokeen GATE Valokuva koko",
   "short_name": "Kokeen GATE Valokuva koko",
   "description": "Muuta kokeen GATE valokuva ilmoitettuun kokoon (480 × 640 px) ja välille 5–200 KB. Ilmaiseksi selaimessasi — ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/gate-photo-size.html",
+  "id": "/fi/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

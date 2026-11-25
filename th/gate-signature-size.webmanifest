@@ -2,7 +2,7 @@
   "name": "Loona ขนาดลายเซ็นGATE",
   "short_name": "ขนาดลายเซ็นGATE",
   "description": "ปรับขนาดลายเซ็นGATEของคุณให้เป็นขนาดตามประกาศ (กล่องที่สแกน อัตราส่วนประมาณ 7:2) และช่วง 3–100 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/gate-signature-size.html",
+  "id": "/th/gate-signature-size.html",
   "start_url": "./gate-signature-size.html",
   "scope": "./gate-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото профілю Facebook",
   "short_name": "Розмір Фото профілю Facebook",
   "description": "Зробіть фото профілю для Facebook рівно 720×720 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/facebook-profile-picture-size.html",
+  "id": "/uk/facebook-profile-picture-size.html",
   "start_url": "./facebook-profile-picture-size.html",
   "scope": "./facebook-profile-picture-size.html",
   "display": "standalone",

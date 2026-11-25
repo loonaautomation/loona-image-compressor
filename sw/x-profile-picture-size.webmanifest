@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Wasifu wa X (Twitter)",
   "short_name": "Ukubwa wa Picha ya Wasifu wa",
   "description": "Tengeneza picha ya wasifu ya X (Twitter) katika px 400×400 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/x-profile-picture-size.html",
+  "id": "/sw/x-profile-picture-size.html",
   "start_url": "./x-profile-picture-size.html",
   "scope": "./x-profile-picture-size.html",
   "display": "standalone",

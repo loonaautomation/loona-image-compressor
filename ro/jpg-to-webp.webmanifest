@@ -2,7 +2,7 @@
   "name": "Loona Convertor JPG în WebP",
   "short_name": "Convertor JPG în WebP",
   "description": "Convertește JPG în WebP online gratuit și micșorează imaginile de pe site cu 25–40% la aceeași calitate. În browserul tău — fără înregistrare, fără încărcare, fără filigran.",
-  "id": "/loona-image-compressor/ro/jpg-to-webp.html",
+  "id": "/ro/jpg-to-webp.html",
   "start_url": "./jpg-to-webp.html",
   "scope": "./jpg-to-webp.html",
   "display": "standalone",

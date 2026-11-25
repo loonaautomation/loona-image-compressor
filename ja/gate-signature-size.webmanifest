@@ -2,7 +2,7 @@
   "name": "Loona GATEの署名サイズ",
   "short_name": "GATEの署名サイズ",
   "description": "GATEの署名を告知サイズ（スキャンしたボックス、比率は約7:2）と3–100 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
-  "id": "/loona-image-compressor/ja/gate-signature-size.html",
+  "id": "/ja/gate-signature-size.html",
   "start_url": "./gate-signature-size.html",
   "scope": "./gate-signature-size.html",
   "display": "standalone",

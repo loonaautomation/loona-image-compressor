@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة منشور المجتمع YouTube",
   "short_name": "حجم صورة منشور المجتمع YouTube",
   "description": "اصنع صورة منشور المجتمع YouTube بمقاس 1080×1080 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/youtube-community-post-size.html",
+  "id": "/ar/youtube-community-post-size.html",
   "start_url": "./youtube-community-post-size.html",
   "scope": "./youtube-community-post-size.html",
   "display": "standalone",

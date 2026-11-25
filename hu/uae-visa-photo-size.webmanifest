@@ -2,7 +2,7 @@
   "name": "Loona Egyesült Arab Emírségek vízum- / Emirates ID fotó méret",
   "short_name": "Egyesült Arab Emírségek",
   "description": "Készítsen Egyesült Arab Emírségek vízum- / Emirates ID fotó fotót a hivatalos 40×60 mm (472×709 px) méretben, sima fehér háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/uae-visa-photo-size.html",
+  "id": "/hu/uae-visa-photo-size.html",
   "start_url": "./uae-visa-photo-size.html",
   "scope": "./uae-visa-photo-size.html",
   "display": "standalone",

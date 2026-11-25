@@ -2,7 +2,7 @@
   "name": "Loona Veľkosť Pasová / vízová fotografia Turecka (biometrická)",
   "short_name": "Veľkosť Pasová / vízová",
   "description": "Vytvorte Pasová / vízová fotografia Turecka (biometrická) v oficiálnej veľkosti 50×60 mm (591×709 px), pozadie: jednofarebné biele. Bezplatný online tvorca — orezanie, stiahnutie a tlačový hárok, bez nahrávania.",
-  "id": "/loona-image-compressor/sk/turkey-passport-photo-size.html",
+  "id": "/sk/turkey-passport-photo-size.html",
   "start_url": "./turkey-passport-photo-size.html",
   "scope": "./turkey-passport-photo-size.html",
   "display": "standalone",

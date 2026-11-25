@@ -2,7 +2,7 @@
   "name": "Loona Розмір Підпис CUET UG",
   "short_name": "Розмір Підпис CUET UG",
   "description": "Змініть розмір вашого підпис для CUET UG до розміру з повідомлення (скановане поле, співвідношення приблизно 7:2) і діапазону 4–30 KB. Безкоштовно, у вашому браузері — без передавання, без реєстрації.",
-  "id": "/loona-image-compressor/uk/cuet-ug-signature-size.html",
+  "id": "/uk/cuet-ug-signature-size.html",
   "start_url": "./cuet-ug-signature-size.html",
   "scope": "./cuet-ug-signature-size.html",
   "display": "standalone",

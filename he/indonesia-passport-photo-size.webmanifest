@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת פספורט אינדונזיה",
   "short_name": "גודל תמונת פספורט אינדונזיה",
   "description": "צרו תמונת פספורט אינדונזיה בגודל הרשמי 40×60 מ&quot;מ (472×709 px), רקע אדום (לפספורטים) — לבן לתעודות זהות רבות אחרות. כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/indonesia-passport-photo-size.html",
+  "id": "/he/indonesia-passport-photo-size.html",
   "start_url": "./indonesia-passport-photo-size.html",
   "scope": "./indonesia-passport-photo-size.html",
   "display": "standalone",

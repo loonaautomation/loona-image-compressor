@@ -2,7 +2,7 @@
   "name": "Loona גודל סטורי Instagram",
   "short_name": "גודל סטורי Instagram",
   "description": "צרו סטורי של Instagram בדיוק ב־1080×1920 px. משנה גודל/חיתוך בחינם בדפדפן שלכם, עם כללי אזור הבטיחות שמונעים חיתוך של טקסט ופנים.",
-  "id": "/loona-image-compressor/he/instagram-story-size.html",
+  "id": "/he/instagram-story-size.html",
   "start_url": "./instagram-story-size.html",
   "scope": "./instagram-story-size.html",
   "display": "standalone",

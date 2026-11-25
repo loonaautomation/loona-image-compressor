@@ -2,7 +2,7 @@
   "name": "Loona Kitengeneza Picha za NADRA / CNIC",
   "short_name": "Kitengeneza Picha za NADRA /",
   "description": "Tengeneza picha ya NADRA CNIC mtandaoni bure: px 350×467 haswa kwa upakiaji wa Pak-ID na ukubwa wa uchapishaji wa milimita 35×45. Mandharinyuma meupe, bila kujisajili, faragha kabisa.",
-  "id": "/loona-image-compressor/sw/nadra-cnic-photo-maker.html",
+  "id": "/sw/nadra-cnic-photo-maker.html",
   "start_url": "./nadra-cnic-photo-maker.html",
   "scope": "./nadra-cnic-photo-maker.html",
   "display": "standalone",

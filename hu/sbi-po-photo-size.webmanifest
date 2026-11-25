@@ -2,7 +2,7 @@
   "name": "Loona SBI PO Fénykép méret",
   "short_name": "SBI PO Fénykép méret",
   "description": "Méretezze át a SBI PO fotó fájlját a kiírás szerinti méretre (200 × 230 px) és a 20–50 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/sbi-po-photo-size.html",
+  "id": "/hu/sbi-po-photo-size.html",
   "start_url": "./sbi-po-photo-size.html",
   "scope": "./sbi-po-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Veličina Facebook Priča",
   "short_name": "Veličina Facebook Priča",
   "description": "Izradite Facebook priča na točno 1080×1920 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/facebook-story-size.html",
+  "id": "/hr/facebook-story-size.html",
   "start_url": "./facebook-story-size.html",
   "scope": "./facebook-story-size.html",
   "display": "standalone",

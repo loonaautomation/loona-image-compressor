@@ -2,7 +2,7 @@
   "name": "Loona Veličina Instagram Naslovnica Reels",
   "short_name": "Veličina Instagram Naslovnica",
   "description": "Izradite Instagram naslovnica reels na točno 1080×1920 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/instagram-reels-cover-size.html",
+  "id": "/hr/instagram-reels-cover-size.html",
   "start_url": "./instagram-reels-cover-size.html",
   "scope": "./instagram-reels-cover-size.html",
   "display": "standalone",

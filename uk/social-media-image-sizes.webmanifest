@@ -2,7 +2,7 @@
   "name": "Loona Розміри зображень для соціальних мереж 2026",
   "short_name": "Розміри зображень для",
   "description": "Точні розміри зображень для Instagram, Facebook, YouTube, X, LinkedIn, Pinterest, TikTok і Discord — з конструктором і посібником безпечної зони для кожного слота.",
-  "id": "/loona-image-compressor/uk/social-media-image-sizes.html",
+  "id": "/uk/social-media-image-sizes.html",
   "start_url": "./social-media-image-sizes.html",
   "scope": "./social-media-image-sizes.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona IBPS PO Fénykép méret",
   "short_name": "IBPS PO Fénykép méret",
   "description": "Méretezze át a IBPS PO fotó fájlját a kiírás szerinti méretre (200 × 230 px) és a 20–50 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/ibps-po-photo-size.html",
+  "id": "/hu/ibps-po-photo-size.html",
   "start_url": "./ibps-po-photo-size.html",
   "scope": "./ibps-po-photo-size.html",
   "display": "standalone",

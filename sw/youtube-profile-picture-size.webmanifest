@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Wasifu wa Kituo wa YouTube",
   "short_name": "Ukubwa wa Picha ya Wasifu wa",
   "description": "Tengeneza picha ya wasifu wa kituo ya YouTube katika px 800×800 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/youtube-profile-picture-size.html",
+  "id": "/sw/youtube-profile-picture-size.html",
   "start_url": "./youtube-profile-picture-size.html",
   "scope": "./youtube-profile-picture-size.html",
   "display": "standalone",

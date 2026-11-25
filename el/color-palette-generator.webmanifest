@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Παλέτας Χρωμάτων",
   "short_name": "Γεννήτρια Παλέτας Χρωμάτων",
   "description": "Δημιουργήστε αρμονικές παλέτες χρωμάτων από οποιοδήποτε βασικό χρώμα — ανάλογα, συμπληρωματικά, τριαδικά και μονοχρωματικά σχήματα με κωδικούς HEX που αντιγράφονται. Δωρεάν, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/color-palette-generator.html",
+  "id": "/el/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",
   "scope": "./color-palette-generator.html",
   "display": "standalone",

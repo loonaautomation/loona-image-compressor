@@ -2,7 +2,7 @@
   "name": "Loona ממיר תמונה ל־PDF",
   "short_name": "ממיר תמונה ל־PDF",
   "description": "הפכו תמונות ל־PDF באינטרנט בחינם: הוסיפו תמונות JPG, PNG או WebP, בחרו עמודי A4, Letter או התאמה־לתמונה והורידו PDF מסודר אחד. ללא העלאות.",
-  "id": "/loona-image-compressor/he/photo-to-pdf.html",
+  "id": "/he/photo-to-pdf.html",
   "start_url": "./photo-to-pdf.html",
   "scope": "./photo-to-pdf.html",
   "display": "standalone",

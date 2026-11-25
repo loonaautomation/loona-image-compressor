@@ -2,7 +2,7 @@
   "name": "Loona حجم التوقيع SBI Clerk (Junior Associates)",
   "short_name": "حجم التوقيع SBI Clerk (Junior",
   "description": "غيّر حجم التوقيع الخاص بك لامتحان SBI Clerk (Junior Associates) إلى حجم الإشعار (140 × 60 px) ونطاق 10–20 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/sbi-clerk-signature-size.html",
+  "id": "/ar/sbi-clerk-signature-size.html",
   "start_url": "./sbi-clerk-signature-size.html",
   "scope": "./sbi-clerk-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 国別パスポート・ビザ写真サイズ",
   "short_name": "国別パスポート・ビザ写真サイズ",
   "description": "40の国と書類について、公式のパスポート・ビザ・ID写真サイズを掲載しています。それぞれに、正確なミリメートルとピクセルサイズで使える作成ツールがあります。",
-  "id": "/loona-image-compressor/ja/passport-photo-sizes.html",
+  "id": "/ja/passport-photo-sizes.html",
   "start_url": "./passport-photo-sizes.html",
   "scope": "./passport-photo-sizes.html",
   "display": "standalone",

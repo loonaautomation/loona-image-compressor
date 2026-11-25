@@ -2,7 +2,7 @@
   "name": "Loona Kanada-Passfoto Größe",
   "short_name": "Kanada-Passfoto Größe",
   "description": "Erstellen Sie ein Kanada-Passfoto in der offiziellen Größe 50×70 mm (591×827 px), Hintergrund einfarbig weiß oder hellfarbig. Kostenloser Online-Ersteller — zuschneiden, herunterladen und Druckbogen, ohne Upload.",
-  "id": "/loona-image-compressor/de/canada-passport-photo-size.html",
+  "id": "/de/canada-passport-photo-size.html",
   "start_url": "./canada-passport-photo-size.html",
   "scope": "./canada-passport-photo-size.html",
   "display": "standalone",

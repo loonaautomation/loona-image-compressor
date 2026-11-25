@@ -2,7 +2,7 @@
   "name": "Loona Muuta kuvan koko kokoon 413 × 531 px verkossa",
   "short_name": "Muuta kuvan koko kokoon 413 ×",
   "description": "Muuta minkä tahansa kuvan koko tarkalleen kokoon 413×531 px — 35 × 45 mm tarkkuudella 300 DPI — ICAO/Schengen-tulostuskoko pikseleinä. Ilmaiseksi selaimessasi rajausohjauksella; ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/resize-image-to-413x531.html",
+  "id": "/fi/resize-image-to-413x531.html",
   "start_url": "./resize-image-to-413x531.html",
   "scope": "./resize-image-to-413x531.html",
   "display": "standalone",

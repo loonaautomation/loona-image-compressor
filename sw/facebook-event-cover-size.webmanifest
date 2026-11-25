@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Jalada la Tukio wa Facebook",
   "short_name": "Ukubwa wa Jalada la Tukio wa",
   "description": "Tengeneza jalada la tukio ya Facebook katika px 1920×1005 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/facebook-event-cover-size.html",
+  "id": "/sw/facebook-event-cover-size.html",
   "start_url": "./facebook-event-cover-size.html",
   "scope": "./facebook-event-cover-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie pentru pașaportul Italiei",
   "short_name": "Dimensiune Fotografie pentru",
   "description": "Creează un Fotografie pentru pașaportul Italiei la dimensiunea oficială 35×40 mm (413×472 px), fundal alb simplu sau deschis. Creator online gratuit — decupează, descarcă și imprimă foaia, fără încărcare.",
-  "id": "/loona-image-compressor/ro/italy-passport-photo-size.html",
+  "id": "/ro/italy-passport-photo-size.html",
   "start_url": "./italy-passport-photo-size.html",
   "scope": "./italy-passport-photo-size.html",
   "display": "standalone",

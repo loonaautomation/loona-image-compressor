@@ -2,7 +2,7 @@
   "name": "Loona TikTok ভিডিও ফ্রেম আকার",
   "short_name": "TikTok ভিডিও ফ্রেম আকার",
   "description": "ঠিক 1080×1920 px-এ একটি TikTok ভিডিও ফ্রেম তৈরি করুন। আপনার ব্রাউজারে বিনামূল্যে রিসাইজার/ক্রপার, ক্রপ করা লেখা ও মুখ আটকায় এমন নিরাপদ-অঞ্চলের নিয়মসহ।",
-  "id": "/loona-image-compressor/bn/tiktok-video-frame-size.html",
+  "id": "/bn/tiktok-video-frame-size.html",
   "start_url": "./tiktok-video-frame-size.html",
   "scope": "./tiktok-video-frame-size.html",
   "display": "standalone",

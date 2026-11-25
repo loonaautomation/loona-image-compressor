@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Προφίλ Facebook",
   "short_name": "Φωτογραφία Προφίλ Facebook",
   "description": "Δημιουργήστε ένα φωτογραφία προφίλ Facebook σε ακριβώς 720×720 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/facebook-profile-picture-size.html",
+  "id": "/el/facebook-profile-picture-size.html",
   "start_url": "./facebook-profile-picture-size.html",
   "scope": "./facebook-profile-picture-size.html",
   "display": "standalone",

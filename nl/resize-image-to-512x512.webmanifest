@@ -2,7 +2,7 @@
   "name": "Loona Afbeelding aanpassen naar 512 × 512",
   "short_name": "Afbeelding aanpassen naar 512",
   "description": "Pas elke afbeelding gratis aan tot exact 512 × 512 pixels (app icons, avatars and favicon masters). Dekken, behouden of uitrekken, JPG of PNG, direct downloaden — geen aanmelding, niets geüpload.",
-  "id": "/loona-image-compressor/nl/resize-image-to-512x512.html",
+  "id": "/nl/resize-image-to-512x512.html",
   "start_url": "./resize-image-to-512x512.html",
   "scope": "./resize-image-to-512x512.html",
   "display": "standalone",

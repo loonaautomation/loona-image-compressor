@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Paspor &amp; Visa berdasarkan Negara",
   "short_name": "Ukuran Foto Paspor &amp; Visa",
   "description": "Ukuran foto paspor, visa, dan ID resmi untuk 40 negara dan dokumen, masing-masing dengan alat pembuat pada ukuran milimeter dan piksel yang tepat.",
-  "id": "/loona-image-compressor/id/passport-photo-sizes.html",
+  "id": "/id/passport-photo-sizes.html",
   "start_url": "./passport-photo-sizes.html",
   "scope": "./passport-photo-sizes.html",
   "display": "standalone",

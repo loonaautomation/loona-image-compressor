@@ -2,7 +2,7 @@
   "name": "Loona Převodník WEBP na AVIF",
   "short_name": "Převodník WEBP na AVIF",
   "description": "Převeďte WEBP na AVIF online, zdarma, ve svém prohlížeči. Skutečný převod ve vašem zařízení — bez nahrávání, bez registrace, bez vodoznaků.",
-  "id": "/loona-image-compressor/cs/webp-to-avif.html",
+  "id": "/cs/webp-to-avif.html",
   "start_url": "./webp-to-avif.html",
   "scope": "./webp-to-avif.html",
   "display": "standalone",

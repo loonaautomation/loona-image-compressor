@@ -2,7 +2,7 @@
   "name": "Loona YouTube Bilde for fellesskapsinnlegg-størrelse",
   "short_name": "YouTube Bilde for",
   "description": "Lag en YouTube bilde for fellesskapsinnlegg med nøyaktig 1080×1080 px. Gratis størrelsesendrer/beskjærer i nettleseren din med reglene for sikre soner som stopper beskåret tekst og ansikter.",
-  "id": "/loona-image-compressor/nb/youtube-community-post-size.html",
+  "id": "/nb/youtube-community-post-size.html",
   "start_url": "./youtube-community-post-size.html",
   "scope": "./youtube-community-post-size.html",
   "display": "standalone",

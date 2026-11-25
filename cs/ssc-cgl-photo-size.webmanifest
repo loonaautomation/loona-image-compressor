@@ -2,7 +2,7 @@
   "name": "Loona Velikost SSC CGL Fotografie",
   "short_name": "Velikost SSC CGL Fotografie",
   "description": "Změňte velikost souboru SSC CGL fotografie na velikost podle oznámení (200 × 230 px) a pásmo 20–50 KB. Zdarma, ve vašem prohlížeči — bez nahrávání a bez registrace.",
-  "id": "/loona-image-compressor/cs/ssc-cgl-photo-size.html",
+  "id": "/cs/ssc-cgl-photo-size.html",
   "start_url": "./ssc-cgl-photo-size.html",
   "scope": "./ssc-cgl-photo-size.html",
   "display": "standalone",

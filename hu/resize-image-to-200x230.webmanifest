@@ -2,7 +2,7 @@
   "name": "Loona Kép átméretezése 200 × 230 px méretre online",
   "short_name": "Kép átméretezése 200 × 230 px",
   "description": "Méretezzen át bármely képet pontosan 200×230 px méretre — Az SSC/IBPS/SBI vizsgafotó-szabvány Indiában. Ingyen, a böngészőjében, vágási vezérléssel; feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/resize-image-to-200x230.html",
+  "id": "/hu/resize-image-to-200x230.html",
   "start_url": "./resize-image-to-200x230.html",
   "scope": "./resize-image-to-200x230.html",
   "display": "standalone",

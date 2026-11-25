@@ -2,7 +2,7 @@
   "name": "Loona Размер Снимка за паспорт на Пакистан",
   "short_name": "Размер Снимка за паспорт на",
   "description": "Направете Снимка за паспорт на Пакистан в официалния размер 51×51 mm (600×600 px), фон обикновен бял. Безплатен онлайн инструмент — изрязване, изтегляне и лист за печат, без качване.",
-  "id": "/loona-image-compressor/bg/pakistan-passport-photo-size.html",
+  "id": "/bg/pakistan-passport-photo-size.html",
   "start_url": "./pakistan-passport-photo-size.html",
   "scope": "./pakistan-passport-photo-size.html",
   "display": "standalone",

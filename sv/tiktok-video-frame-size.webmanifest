@@ -2,7 +2,7 @@
   "name": "Loona TikTok Videobildruta Storlek",
   "short_name": "TikTok Videobildruta Storlek",
   "description": "Skapa en TikTok videobildruta på exakt 1080×1920 px. Gratis storleksändrare/beskärare i din webbläsare med säker-zon-reglerna som stoppar beskuren text och ansikten.",
-  "id": "/loona-image-compressor/sv/tiktok-video-frame-size.html",
+  "id": "/sv/tiktok-video-frame-size.html",
   "start_url": "./tiktok-video-frame-size.html",
   "scope": "./tiktok-video-frame-size.html",
   "display": "standalone",

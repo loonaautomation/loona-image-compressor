@@ -2,7 +2,7 @@
   "name": "Loona حجم التوقيع CUET UG",
   "short_name": "حجم التوقيع CUET UG",
   "description": "غيّر حجم التوقيع الخاص بك لامتحان CUET UG إلى حجم الإشعار (مربع ممسوح ضوئياً، نسبة نحو 7:2) ونطاق 4–30 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/cuet-ug-signature-size.html",
+  "id": "/ar/cuet-ug-signature-size.html",
   "start_url": "./cuet-ug-signature-size.html",
   "scope": "./cuet-ug-signature-size.html",
   "display": "standalone",

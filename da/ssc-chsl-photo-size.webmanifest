@@ -2,7 +2,7 @@
   "name": "Loona SSC CHSL Foto størrelse",
   "short_name": "SSC CHSL Foto størrelse",
   "description": "Tilpas størrelsen på dit SSC CHSL foto til meddelelsens størrelse (200 × 230 px) og båndet 20–50 KB. Gratis, i din browser — ingen upload, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/ssc-chsl-photo-size.html",
+  "id": "/da/ssc-chsl-photo-size.html",
   "start_url": "./ssc-chsl-photo-size.html",
   "scope": "./ssc-chsl-photo-size.html",
   "display": "standalone",

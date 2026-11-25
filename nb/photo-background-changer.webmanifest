@@ -2,7 +2,7 @@
   "name": "Loona Bakgrunnsbytter for bilder",
   "short_name": "Bakgrunnsbytter for bilder",
   "description": "Endre en bildebakgrunn til hvit, blå, lysegrå eller rød gratis på nett. Flomfyll pluss penselverktøy, privat i nettleseren din, ingen AI-opplasting.",
-  "id": "/loona-image-compressor/nb/photo-background-changer.html",
+  "id": "/nb/photo-background-changer.html",
   "start_url": "./photo-background-changer.html",
   "scope": "./photo-background-changer.html",
   "display": "standalone",

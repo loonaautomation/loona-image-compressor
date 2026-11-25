@@ -2,7 +2,7 @@
   "name": "Loona Prevodník GIF na WEBP",
   "short_name": "Prevodník GIF na WEBP",
   "description": "Preveďte GIF na WEBP online, zadarmo, vo svojom prehliadači. Skutočný prevod vo vašom zariadení — bez nahrávania, bez registrácie, bez vodoznakov.",
-  "id": "/loona-image-compressor/sk/gif-to-webp.html",
+  "id": "/sk/gif-to-webp.html",
   "start_url": "./gif-to-webp.html",
   "scope": "./gif-to-webp.html",
   "display": "standalone",

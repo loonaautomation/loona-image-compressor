@@ -2,7 +2,7 @@
   "name": "Loona גודל באנר פרופיל Discord",
   "short_name": "גודל באנר פרופיל Discord",
   "description": "צרו באנר פרופיל של Discord בדיוק ב־600×180 px. משנה גודל/חיתוך בחינם בדפדפן שלכם, עם כללי אזור הבטיחות שמונעים חיתוך של טקסט ופנים.",
-  "id": "/loona-image-compressor/he/discord-profile-banner-size.html",
+  "id": "/he/discord-profile-banner-size.html",
   "start_url": "./discord-profile-banner-size.html",
   "scope": "./discord-profile-banner-size.html",
   "display": "standalone",

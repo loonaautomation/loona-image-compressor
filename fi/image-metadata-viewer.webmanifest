@@ -2,7 +2,7 @@
   "name": "Loona Kuvan metatiedot & EXIF-katseluohjelma",
   "short_name": "Kuvan metatiedot &",
   "description": "Katso minkä tahansa JPG-, PNG- tai WebP-kuvan piilotetut metatiedot verkossa ilmaiseksi — kameran valmistaja ja malli, ottamispäivä, valotus, ISO, polttoväli, GPS-sijainti, IPTC- ja XMP-perusteet. Mitään ei ladata palvelimelle: kuvasi ei koskaan poistu laitteeltasi.",
-  "id": "/loona-image-compressor/fi/image-metadata-viewer.html",
+  "id": "/fi/image-metadata-viewer.html",
   "start_url": "./image-metadata-viewer.html",
   "scope": "./image-metadata-viewer.html",
   "display": "standalone",

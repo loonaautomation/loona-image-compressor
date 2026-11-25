@@ -2,7 +2,7 @@
   "name": "Loona Tamaño de Pasaporte / DNI de Argentina",
   "short_name": "Tamaño de Pasaporte / DNI de",
   "description": "Crea una Pasaporte / DNI de Argentina con el tamaño oficial de 40×40 mm (472×472 px), fondo blanco liso o azul claro. Creador en línea gratuito: recorta, descarga e imprime la hoja, sin subir archivos.",
-  "id": "/loona-image-compressor/es/argentina-passport-photo-size.html",
+  "id": "/es/argentina-passport-photo-size.html",
   "start_url": "./argentina-passport-photo-size.html",
   "scope": "./argentina-passport-photo-size.html",
   "display": "standalone",

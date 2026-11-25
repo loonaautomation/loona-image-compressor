@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha wa SBI Clerk (Junior Associates)",
   "short_name": "Ukubwa wa Picha wa SBI Clerk",
   "description": "Badilisha ukubwa wa picha yako ya SBI Clerk (Junior Associates) hadi ukubwa wa ilani (200 × 230 px) na kiwango cha KB 20–50. Bure, kwenye kivinjari chako — bila kupakia, bila kujisajili.",
-  "id": "/loona-image-compressor/sw/sbi-clerk-photo-size.html",
+  "id": "/sw/sbi-clerk-photo-size.html",
   "start_url": "./sbi-clerk-photo-size.html",
   "scope": "./sbi-clerk-photo-size.html",
   "display": "standalone",

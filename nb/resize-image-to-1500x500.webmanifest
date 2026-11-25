@@ -2,7 +2,7 @@
   "name": "Loona Endre bildestørrelse til 1500 × 500",
   "short_name": "Endre bildestørrelse til 1500",
   "description": "Endre størrelsen på et hvilket som helst bilde til nøyaktig 1500 × 500 piksler (X (Twitter) profile headers and wide banners) gratis. Fyll, tilpass eller strekk, JPG eller PNG, last ned umiddelbart — ingen registrering, ingenting lastes opp.",
-  "id": "/loona-image-compressor/nb/resize-image-to-1500x500.html",
+  "id": "/nb/resize-image-to-1500x500.html",
   "start_url": "./resize-image-to-1500x500.html",
   "scope": "./resize-image-to-1500x500.html",
   "display": "standalone",

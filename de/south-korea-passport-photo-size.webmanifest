@@ -2,7 +2,7 @@
   "name": "Loona Südkorea-Passfoto Größe",
   "short_name": "Südkorea-Passfoto Größe",
   "description": "Erstellen Sie ein Südkorea-Passfoto in der offiziellen Größe 35×45 mm (413×531 px), Hintergrund einfarbig weiß. Kostenloser Online-Ersteller — zuschneiden, herunterladen und Druckbogen, ohne Upload.",
-  "id": "/loona-image-compressor/de/south-korea-passport-photo-size.html",
+  "id": "/de/south-korea-passport-photo-size.html",
   "start_url": "./south-korea-passport-photo-size.html",
   "scope": "./south-korea-passport-photo-size.html",
   "display": "standalone",

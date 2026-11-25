@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Tavleomslag-størrelse",
   "short_name": "Pinterest",
   "description": "Lag en Pinterest tavleomslag med nøyaktig 800×450 px. Gratis størrelsesendrer/beskjærer i nettleseren din med reglene for sikre soner som stopper beskåret tekst og ansikter.",
-  "id": "/loona-image-compressor/nb/pinterest-board-cover-size.html",
+  "id": "/nb/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",
   "scope": "./pinterest-board-cover-size.html",
   "display": "standalone",

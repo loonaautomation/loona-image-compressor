@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) Bejegyzéskép (16",
   "short_name": "X (Twitter) Bejegyzéskép (16",
   "description": "Készítsen X (Twitter) bejegyzéskép (16:9) képet pontosan 1600×900 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/x-post-image-size.html",
+  "id": "/hu/x-post-image-size.html",
   "start_url": "./x-post-image-size.html",
   "scope": "./x-post-image-size.html",
   "display": "standalone",

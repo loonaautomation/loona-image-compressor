@@ -2,7 +2,7 @@
   "name": "Loona Генератор колірних палітр",
   "short_name": "Генератор колірних палітр",
   "description": "Створюйте гармонійні колірні палітри з будь-якого базового кольору — аналогічні, комплементарні, тріадні та монохромні схеми з кодами HEX для копіювання. Безкоштовно, без реєстрації.",
-  "id": "/loona-image-compressor/uk/color-palette-generator.html",
+  "id": "/uk/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",
   "scope": "./color-palette-generator.html",
   "display": "standalone",

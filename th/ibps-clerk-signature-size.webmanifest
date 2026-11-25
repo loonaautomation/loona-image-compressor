@@ -2,7 +2,7 @@
   "name": "Loona ขนาดลายเซ็นIBPS Clerk (CSA)",
   "short_name": "ขนาดลายเซ็นIBPS Clerk (CSA)",
   "description": "ปรับขนาดลายเซ็นIBPS Clerk (CSA)ของคุณให้เป็นขนาดตามประกาศ (140 × 60 px) และช่วง 10–20 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/ibps-clerk-signature-size.html",
+  "id": "/th/ibps-clerk-signature-size.html",
   "start_url": "./ibps-clerk-signature-size.html",
   "scope": "./ibps-clerk-signature-size.html",
   "display": "standalone",

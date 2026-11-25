@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת פספורט ניו זילנד",
   "short_name": "גודל תמונת פספורט ניו זילנד",
   "description": "צרו תמונת פספורט ניו זילנד בגודל הרשמי 35×45 מ&quot;מ (413×531 px), רקע רקע חלק, בהיר, ניטרלי (הנחיה: לא לבן טהור). כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/new-zealand-passport-photo-size.html",
+  "id": "/he/new-zealand-passport-photo-size.html",
   "start_url": "./new-zealand-passport-photo-size.html",
   "scope": "./new-zealand-passport-photo-size.html",
   "display": "standalone",

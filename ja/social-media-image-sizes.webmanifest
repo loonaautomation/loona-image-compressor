@@ -2,7 +2,7 @@
   "name": "Loona SNS画像サイズ 2026",
   "short_name": "SNS画像サイズ 2026",
   "description": "Instagram、Facebook、YouTube、X、LinkedIn、Pinterest、TikTok、Discordの正確な画像サイズ — すべての枠に作成ツールとセーフゾーンガイド付き。",
-  "id": "/loona-image-compressor/ja/social-media-image-sizes.html",
+  "id": "/ja/social-media-image-sizes.html",
   "start_url": "./social-media-image-sizes.html",
   "scope": "./social-media-image-sizes.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Розмір Довгий / інфографічний пін Pinterest",
   "short_name": "Розмір Довгий / інфографічний",
   "description": "Зробіть довгий / інфографічний пін для Pinterest рівно 1000×2100 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/pinterest-long-pin-size.html",
+  "id": "/uk/pinterest-long-pin-size.html",
   "start_url": "./pinterest-long-pin-size.html",
   "scope": "./pinterest-long-pin-size.html",
   "display": "standalone",

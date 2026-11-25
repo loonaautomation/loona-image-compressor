@@ -2,7 +2,7 @@
   "name": "Loona YouTube ویڈیو تھمب نیل کا سائز",
   "short_name": "YouTube ویڈیو تھمب نیل کا سائز",
   "description": "YouTube ویڈیو تھمب نیل بالکل 1280×720 px پر بنائیں۔ آپ کے براؤزر میں مفت ری سائزر/کراپر، محفوظ زون کے قواعد کے ساتھ جو کراپ شدہ متن اور چہروں کو روکتے ہیں۔",
-  "id": "/loona-image-compressor/ur/youtube-thumbnail-size.html",
+  "id": "/ur/youtube-thumbnail-size.html",
   "start_url": "./youtube-thumbnail-size.html",
   "scope": "./youtube-thumbnail-size.html",
   "display": "standalone",

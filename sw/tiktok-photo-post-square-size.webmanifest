@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Chapisho la Picha (Mraba) wa TikTok",
   "short_name": "Ukubwa wa Chapisho la Picha",
   "description": "Tengeneza chapisho la picha (mraba) ya TikTok katika px 1080×1080 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/tiktok-photo-post-square-size.html",
+  "id": "/sw/tiktok-photo-post-square-size.html",
   "start_url": "./tiktok-photo-post-square-size.html",
   "scope": "./tiktok-photo-post-square-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото профілю LinkedIn",
   "short_name": "Розмір Фото профілю LinkedIn",
   "description": "Зробіть фото профілю для LinkedIn рівно 400×400 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/linkedin-profile-picture-size.html",
+  "id": "/uk/linkedin-profile-picture-size.html",
   "start_url": "./linkedin-profile-picture-size.html",
   "scope": "./linkedin-profile-picture-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kép átméretezése 2400 × 3000 px méretre online",
   "short_name": "Kép átméretezése 2400 × 3000",
   "description": "Méretezzen át bármely képet pontosan 2400×3000 px méretre — 8 × 10 hüvelykes nyomat 300 DPI mellett. Ingyen, a böngészőjében, vágási vezérléssel; feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/resize-image-to-2400x3000.html",
+  "id": "/hu/resize-image-to-2400x3000.html",
   "start_url": "./resize-image-to-2400x3000.html",
   "scope": "./resize-image-to-2400x3000.html",
   "display": "standalone",

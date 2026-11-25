@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Pini ya Kawaida wa Pinterest",
   "short_name": "Ukubwa wa Pini ya Kawaida wa",
   "description": "Tengeneza pini ya kawaida ya Pinterest katika px 1000×1500 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/pinterest-pin-size.html",
+  "id": "/sw/pinterest-pin-size.html",
   "start_url": "./pinterest-pin-size.html",
   "scope": "./pinterest-pin-size.html",
   "display": "standalone",

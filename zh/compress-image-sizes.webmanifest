@@ -2,7 +2,7 @@
   "name": "Loona 将图片压缩到任意 KB 大小",
   "short_name": "将图片压缩到任意 KB 大小",
   "description": "每一个压缩到指定大小的工具：16 种目标大小，JPG、PNG 和 WebP 格式，从 10 KB 到 2 MB。免费，在您的浏览器中完成。",
-  "id": "/loona-image-compressor/zh/compress-image-sizes.html",
+  "id": "/zh/compress-image-sizes.html",
   "start_url": "./compress-image-sizes.html",
   "scope": "./compress-image-sizes.html",
   "display": "standalone",

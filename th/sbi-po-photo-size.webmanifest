@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายSBI PO",
   "short_name": "ขนาดรูปถ่ายSBI PO",
   "description": "ปรับขนาดรูปถ่ายSBI POของคุณให้เป็นขนาดตามประกาศ (200 × 230 px) และช่วง 20–50 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/sbi-po-photo-size.html",
+  "id": "/th/sbi-po-photo-size.html",
   "start_url": "./sbi-po-photo-size.html",
   "scope": "./sbi-po-photo-size.html",
   "display": "standalone",

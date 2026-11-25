@@ -2,7 +2,7 @@
   "name": "Loona ছবিকে 1200 × 628",
   "short_name": "ছবিকে 1200 × 628",
   "description": "যেকোনো ছবিকে ঠিক 1200 × 628 পিক্সেলে (Facebook and LinkedIn link shares and ads) বিনামূল্যে রিসাইজ করুন। Cover, contain বা stretch, JPG বা PNG, তাৎক্ষণিকভাবে ডাউনলোড করুন — কোনো সাইনআপ নয়, কিছুই আপলোড হয় না।",
-  "id": "/loona-image-compressor/bn/resize-image-to-1200x628.html",
+  "id": "/bn/resize-image-to-1200x628.html",
   "start_url": "./resize-image-to-1200x628.html",
   "scope": "./resize-image-to-1200x628.html",
   "display": "standalone",

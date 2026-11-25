@@ -2,7 +2,7 @@
   "name": "Loona Formaat GATE Foto",
   "short_name": "Formaat GATE Foto",
   "description": "Pas je GATE-foto aan naar het formaat uit de aankondiging (480 × 640 px) en de band van 5–200 KB. Gratis, in je browser — geen upload, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/gate-photo-size.html",
+  "id": "/nl/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

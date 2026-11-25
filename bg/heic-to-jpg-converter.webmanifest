@@ -2,7 +2,7 @@
   "name": "Loona Конвертор от HEIC в JPG",
   "short_name": "Конвертор от HEIC в JPG",
   "description": "Конвертирайте HEIC в JPG онлайн, безплатно, във вашия браузър. Превърнете HEIC снимки от iPhone в JPG, който се отваря навсякъде — без качване, без регистрация, без водни знаци.",
-  "id": "/loona-image-compressor/bg/heic-to-jpg-converter.html",
+  "id": "/bg/heic-to-jpg-converter.html",
   "start_url": "./heic-to-jpg-converter.html",
   "scope": "./heic-to-jpg-converter.html",
   "display": "standalone",

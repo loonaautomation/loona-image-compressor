@@ -2,7 +2,7 @@
   "name": "Loona Yhdistyneiden arabiemiirikuntien viisumi- / Emirates ID -kuva koko",
   "short_name": "Yhdistyneiden",
   "description": "Tee Yhdistyneiden arabiemiirikuntien viisumi- / Emirates ID -kuva virallisessa koossa 40×60 mm (472×709 px), taustana tavallinen valkoinen. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/uae-visa-photo-size.html",
+  "id": "/fi/uae-visa-photo-size.html",
   "start_url": "./uae-visa-photo-size.html",
   "scope": "./uae-visa-photo-size.html",
   "display": "standalone",

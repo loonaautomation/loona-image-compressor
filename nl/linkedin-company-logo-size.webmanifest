@@ -2,7 +2,7 @@
   "name": "Loona Formaat LinkedIn Logo bedrijfspagina",
   "short_name": "Formaat LinkedIn Logo",
   "description": "Maak een LinkedIn logo bedrijfspagina op precies 300×300 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/linkedin-company-logo-size.html",
+  "id": "/nl/linkedin-company-logo-size.html",
   "start_url": "./linkedin-company-logo-size.html",
   "scope": "./linkedin-company-logo-size.html",
   "display": "standalone",

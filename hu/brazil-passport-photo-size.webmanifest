@@ -2,7 +2,7 @@
   "name": "Loona Brazil útlevél- / vízumfotó méret",
   "short_name": "Brazil útlevél- / vízumfotó",
   "description": "Készítsen Brazil útlevél- / vízumfotó fotót a hivatalos 50×70 mm (591×827 px) méretben, sima fehér háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/brazil-passport-photo-size.html",
+  "id": "/hu/brazil-passport-photo-size.html",
   "start_url": "./brazil-passport-photo-size.html",
   "scope": "./brazil-passport-photo-size.html",
   "display": "standalone",

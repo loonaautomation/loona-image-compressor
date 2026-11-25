@@ -2,7 +2,7 @@
   "name": "Loona Formaat LinkedIn Postafbeelding",
   "short_name": "Formaat LinkedIn",
   "description": "Maak een LinkedIn postafbeelding op precies 1200×627 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/linkedin-post-image-size.html",
+  "id": "/nl/linkedin-post-image-size.html",
   "start_url": "./linkedin-post-image-size.html",
   "scope": "./linkedin-post-image-size.html",
   "display": "standalone",

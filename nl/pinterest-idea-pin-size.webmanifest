@@ -2,7 +2,7 @@
   "name": "Loona Formaat Pinterest Idea Pin / Story",
   "short_name": "Formaat Pinterest Idea Pin /",
   "description": "Maak een Pinterest idea pin / story op precies 1080×1920 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/pinterest-idea-pin-size.html",
+  "id": "/nl/pinterest-idea-pin-size.html",
   "start_url": "./pinterest-idea-pin-size.html",
   "scope": "./pinterest-idea-pin-size.html",
   "display": "standalone",

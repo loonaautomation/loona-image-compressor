@@ -2,7 +2,7 @@
   "name": "Loona Redimensionar Imagem",
   "short_name": "Redimensionar Imagem",
   "description": "Redimensione qualquer imagem por píxeis, cm ou polegadas, com uma definição de DPI, gratuitamente. Mantenha a proporção, escolha JPG, PNG ou WebP e transfira instantaneamente — sem necessidade de registo.",
-  "id": "/loona-image-compressor/pt-pt/resize-image.html",
+  "id": "/pt-pt/resize-image.html",
   "start_url": "./resize-image.html",
   "scope": "./resize-image.html",
   "display": "standalone",

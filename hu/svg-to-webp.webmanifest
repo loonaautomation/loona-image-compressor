@@ -2,7 +2,7 @@
   "name": "Loona SVG",
   "short_name": "SVG",
   "description": "Konvertáljon SVG fájlt WEBP formátumba online, ingyen, a böngészőjében. Valódi konvertálás a saját eszközén — feltöltés, regisztráció és vízjelek nélkül.",
-  "id": "/loona-image-compressor/hu/svg-to-webp.html",
+  "id": "/hu/svg-to-webp.html",
   "start_url": "./svg-to-webp.html",
   "scope": "./svg-to-webp.html",
   "display": "standalone",

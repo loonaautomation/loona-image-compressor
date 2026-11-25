@@ -2,7 +2,7 @@
   "name": "Loona Kontrola kontrastu",
   "short_name": "Kontrola kontrastu",
   "description": "Skontrolujte farby textu a pozadia voči WCAG: okamžitý pomer kontrastu s hodnotením AA a AAA pre bežný a veľký text plus živý náhľad. Zadarmo, bez registrácie.",
-  "id": "/loona-image-compressor/sk/contrast-checker.html",
+  "id": "/sk/contrast-checker.html",
   "start_url": "./contrast-checker.html",
   "scope": "./contrast-checker.html",
   "display": "standalone",

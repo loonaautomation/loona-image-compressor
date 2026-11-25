@@ -2,7 +2,7 @@
   "name": "Loona सोशल मीडिया इमेज साइज़ 2026",
   "short_name": "सोशल मीडिया इमेज साइज़ 2026",
   "description": "Instagram, Facebook, YouTube, X, LinkedIn, Pinterest, TikTok और Discord के ठीक इमेज साइज़ — हर स्लॉट के लिए एक मेकर टूल और सेफ़-ज़ोन गाइड के साथ.",
-  "id": "/loona-image-compressor/hi/social-media-image-sizes.html",
+  "id": "/hi/social-media-image-sizes.html",
   "start_url": "./social-media-image-sizes.html",
   "scope": "./social-media-image-sizes.html",
   "display": "standalone",

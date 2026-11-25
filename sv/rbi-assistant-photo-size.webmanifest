@@ -2,7 +2,7 @@
   "name": "Loona RBI Assistant Foto Storlek",
   "short_name": "RBI Assistant Foto Storlek",
   "description": "Ändra storlek på ditt RBI Assistant foto till anmälningsstorleken (200 × 230 px) och bandet 20–50 KB. Gratis, i din webbläsare — ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/rbi-assistant-photo-size.html",
+  "id": "/sv/rbi-assistant-photo-size.html",
   "start_url": "./rbi-assistant-photo-size.html",
   "scope": "./rbi-assistant-photo-size.html",
   "display": "standalone",

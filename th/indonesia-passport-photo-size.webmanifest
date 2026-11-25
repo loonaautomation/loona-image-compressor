@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายหนังสือเดินทางอินโดนีเซีย",
   "short_name": "ขนาดรูปถ่ายหนังสือเดินทางอินโด",
   "description": "ทำรูปถ่ายหนังสือเดินทางอินโดนีเซียที่ขนาดอย่างเป็นทางการ 40×60 mm (472×709 px) พื้นหลังแดง (สำหรับหนังสือเดินทาง) — ขาวสำหรับบัตรอื่น ๆ จำนวนมาก เครื่องทำรูปออนไลน์ฟรี — ครอบตัด ดาวน์โหลด และแผ่นพิมพ์ ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/indonesia-passport-photo-size.html",
+  "id": "/th/indonesia-passport-photo-size.html",
   "start_url": "./indonesia-passport-photo-size.html",
   "scope": "./indonesia-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona BMP से WEBP कन्वर्टर",
   "short_name": "BMP से WEBP कन्वर्टर",
   "description": "BMP को WEBP में ऑनलाइन कन्वर्ट करें, मुफ़्त, आपके ब्राउज़र में. आपके डिवाइस पर असली कन्वर्ज़न — न अपलोड, न साइन-अप, न वॉटरमार्क.",
-  "id": "/loona-image-compressor/hi/bmp-to-webp.html",
+  "id": "/hi/bmp-to-webp.html",
   "start_url": "./bmp-to-webp.html",
   "scope": "./bmp-to-webp.html",
   "display": "standalone",

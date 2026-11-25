@@ -2,7 +2,7 @@
   "name": "Loona TikTok Fotoopslag (kvadrat) størrelse",
   "short_name": "TikTok Fotoopslag (kvadrat)",
   "description": "Lav en TikTok fotoopslag (kvadrat) på præcis 1080×1080 px. Gratis størrelses- og beskæringsværktøj i din browser med sikkerhedszonereglerne, der forhindrer beskåret tekst og ansigter.",
-  "id": "/loona-image-compressor/da/tiktok-photo-post-square-size.html",
+  "id": "/da/tiktok-photo-post-square-size.html",
   "start_url": "./tiktok-photo-post-square-size.html",
   "scope": "./tiktok-photo-post-square-size.html",
   "display": "standalone",

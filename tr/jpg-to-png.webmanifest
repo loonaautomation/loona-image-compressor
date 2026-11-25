@@ -2,7 +2,7 @@
   "name": "Loona JPG'den PNG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Kayıpsız",
   "short_name": "JPG'den PNG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Kayıpsız",
   "description": "JPG'yi çevrimiçi ücretsiz olarak PNG'ye dönüştürün — düzenleyiciler, tasarım araçları ve belgeler için kayıpsız çıktı. Tarayıcınızda çalışır, kayıt yok, yükleme yok.",
-  "id": "/loona-image-compressor/tr/jpg-to-png.html",
+  "id": "/tr/jpg-to-png.html",
   "start_url": "./jpg-to-png.html",
   "scope": "./jpg-to-png.html",
   "display": "standalone",

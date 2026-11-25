@@ -2,7 +2,7 @@
   "name": "Loona ईरान पासपोर्ट फ़ोटो साइज़",
   "short_name": "ईरान पासपोर्ट फ़ोटो साइज़",
   "description": "आधिकारिक साइज़ 30×40 mm (354×472 px) पर ईरान पासपोर्ट फ़ोटो बनाएँ, सादा सफ़ेद या हल्का बैकग्राउंड. मुफ़्त ऑनलाइन मेकर — क्रॉप, डाउनलोड और प्रिंट शीट, बिना अपलोड.",
-  "id": "/loona-image-compressor/hi/iran-passport-photo-size.html",
+  "id": "/hi/iran-passport-photo-size.html",
   "start_url": "./iran-passport-photo-size.html",
   "scope": "./iran-passport-photo-size.html",
   "display": "standalone",

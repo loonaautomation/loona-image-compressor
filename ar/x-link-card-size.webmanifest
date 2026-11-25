@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة بطاقة الرابط X (Twitter)",
   "short_name": "حجم صورة بطاقة الرابط X",
   "description": "اصنع صورة بطاقة الرابط X (Twitter) بمقاس 1200×628 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/x-link-card-size.html",
+  "id": "/ar/x-link-card-size.html",
   "start_url": "./x-link-card-size.html",
   "scope": "./x-link-card-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Passfoto-Druckbogen",
   "short_name": "Passfoto-Druckbogen",
   "description": "Platzieren Sie 4, 6 oder 8 Passfotos kostenlos mit 300 DPI auf einem A4-Druckbogen. Drucken Sie mit 100 %, schneiden Sie an den Führungen und sparen Sie Studiogeld. Ohne Anmeldung, vollständig privat.",
-  "id": "/loona-image-compressor/de/passport-photo-print-sheet.html",
+  "id": "/de/passport-photo-print-sheet.html",
   "start_url": "./passport-photo-print-sheet.html",
   "scope": "./passport-photo-print-sheet.html",
   "display": "standalone",

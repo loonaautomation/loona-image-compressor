@@ -2,7 +2,7 @@
   "name": "Loona Fotóból PDF konvertáló",
   "short_name": "Fotóból PDF konvertáló",
   "description": "Alakítson fotókat PDF-fé online ingyen: adjon hozzá JPG, PNG vagy WebP képeket, válasszon A4, Letter vagy képhez illesztett oldalakat, és töltsön le egy rendezett PDF-et. Feltöltések nélkül.",
-  "id": "/loona-image-compressor/hu/photo-to-pdf.html",
+  "id": "/hu/photo-to-pdf.html",
   "start_url": "./photo-to-pdf.html",
   "scope": "./photo-to-pdf.html",
   "display": "standalone",

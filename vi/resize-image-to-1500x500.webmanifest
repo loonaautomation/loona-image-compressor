@@ -2,7 +2,7 @@
   "name": "Loona Thay đổi kích thước ảnh thành 1500 × 500",
   "short_name": "Thay đổi kích thước ảnh thành",
   "description": "Thay đổi kích thước mọi hình ảnh thành đúng 1500 × 500 pixel (ảnh bìa hồ sơ X (Twitter) và banner rộng) miễn phí. Phủ kín, thu vào trong hoặc kéo giãn, JPG hoặc PNG, tải xuống ngay lập tức — không cần đăng ký, không tải lên gì cả.",
-  "id": "/loona-image-compressor/vi/resize-image-to-1500x500.html",
+  "id": "/vi/resize-image-to-1500x500.html",
   "start_url": "./resize-image-to-1500x500.html",
   "scope": "./resize-image-to-1500x500.html",
   "display": "standalone",

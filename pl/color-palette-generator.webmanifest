@@ -2,7 +2,7 @@
   "name": "Loona Generator palety kolorów",
   "short_name": "Generator palety kolorów",
   "description": "Generuj harmonijne palety kolorów z dowolnego koloru bazowego — schematy analogiczne, komplementarne, triadyczne i monochromatyczne z kopiowalnymi kodami HEX. Za darmo, bez rejestracji.",
-  "id": "/loona-image-compressor/pl/color-palette-generator.html",
+  "id": "/pl/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",
   "scope": "./color-palette-generator.html",
   "display": "standalone",

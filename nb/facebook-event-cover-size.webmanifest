@@ -2,7 +2,7 @@
   "name": "Loona Facebook Arrangementsomslag-størrelse",
   "short_name": "Facebook",
   "description": "Lag en Facebook arrangementsomslag med nøyaktig 1920×1005 px. Gratis størrelsesendrer/beskjærer i nettleseren din med reglene for sikre soner som stopper beskåret tekst og ansikter.",
-  "id": "/loona-image-compressor/nb/facebook-event-cover-size.html",
+  "id": "/nb/facebook-event-cover-size.html",
   "start_url": "./facebook-event-cover-size.html",
   "scope": "./facebook-event-cover-size.html",
   "display": "standalone",

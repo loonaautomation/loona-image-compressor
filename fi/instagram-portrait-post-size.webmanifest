@@ -2,7 +2,7 @@
   "name": "Loona Instagram Pystyjulkaisu (4",
   "short_name": "Instagram Pystyjulkaisu (4",
   "description": "Tee Instagram pystyjulkaisu (4:5) tarkalleen kokoon 1080×1350 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/instagram-portrait-post-size.html",
+  "id": "/fi/instagram-portrait-post-size.html",
   "start_url": "./instagram-portrait-post-size.html",
   "scope": "./instagram-portrait-post-size.html",
   "display": "standalone",

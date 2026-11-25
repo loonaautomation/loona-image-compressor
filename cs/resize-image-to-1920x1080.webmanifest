@@ -2,7 +2,7 @@
   "name": "Loona Změnit velikost obrázku na 1920 × 1080",
   "short_name": "Změnit velikost obrázku na",
   "description": "Změňte velikost libovolného obrázku přesně na 1920 × 1080 pixelů (Full HD screens, desktop wallpapers and YouTube end screens) zdarma. Pokrytí, přizpůsobení dovnitř nebo roztažení, JPG nebo PNG, okamžité stažení — bez registrace, nic se nenahrává.",
-  "id": "/loona-image-compressor/cs/resize-image-to-1920x1080.html",
+  "id": "/cs/resize-image-to-1920x1080.html",
   "start_url": "./resize-image-to-1920x1080.html",
   "scope": "./resize-image-to-1920x1080.html",
   "display": "standalone",

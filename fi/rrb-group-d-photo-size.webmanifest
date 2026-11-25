@@ -2,7 +2,7 @@
   "name": "Loona Kokeen RRB Group D (Railways) Valokuva koko",
   "short_name": "Kokeen RRB Group D (Railways)",
   "description": "Muuta kokeen RRB Group D (Railways) valokuva ilmoitettuun kokoon (320 × 240 px) ja välille 30–70 KB. Ilmaiseksi selaimessasi — ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/rrb-group-d-photo-size.html",
+  "id": "/fi/rrb-group-d-photo-size.html",
   "start_url": "./rrb-group-d-photo-size.html",
   "scope": "./rrb-group-d-photo-size.html",
   "display": "standalone",

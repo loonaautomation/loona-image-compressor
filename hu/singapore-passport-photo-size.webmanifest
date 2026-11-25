@@ -2,7 +2,7 @@
   "name": "Loona Szingapúri útlevélfotó méret",
   "short_name": "Szingapúri útlevélfotó méret",
   "description": "Készítsen Szingapúri útlevélfotó fotót a hivatalos 35×45 mm (413×531 px) méretben, sima fehér háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/singapore-passport-photo-size.html",
+  "id": "/hu/singapore-passport-photo-size.html",
   "start_url": "./singapore-passport-photo-size.html",
   "scope": "./singapore-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Veličina Facebook Slika objave / poveznice",
   "short_name": "Veličina Facebook Slika",
   "description": "Izradite Facebook slika objave / poveznice na točno 1200×630 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/facebook-post-image-size.html",
+  "id": "/hr/facebook-post-image-size.html",
   "start_url": "./facebook-post-image-size.html",
   "scope": "./facebook-post-image-size.html",
   "display": "standalone",

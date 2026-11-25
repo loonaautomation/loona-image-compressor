@@ -2,7 +2,7 @@
   "name": "Loona ICO تا PNG کنورٹر",
   "short_name": "ICO تا PNG کنورٹر",
   "description": "ICO کو PNG میں آن لائن، مفت، اپنے براؤزر میں تبدیل کریں۔ آپ کے ڈیوائس پر اصل تبدیلی — نہ اپ لوڈ، نہ سائن اپ، نہ واٹر مارک۔",
-  "id": "/loona-image-compressor/ur/ico-to-png.html",
+  "id": "/ur/ico-to-png.html",
   "start_url": "./ico-to-png.html",
   "scope": "./ico-to-png.html",
   "display": "standalone",

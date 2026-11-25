@@ -2,7 +2,7 @@
   "name": "Loona Размер Снимка за паспорт / виза на Виетнам",
   "short_name": "Размер Снимка за паспорт /",
   "description": "Направете Снимка за паспорт / виза на Виетнам в официалния размер 40×60 mm (472×709 px), фон обикновен бял. Безплатен онлайн инструмент — изрязване, изтегляне и лист за печат, без качване.",
-  "id": "/loona-image-compressor/bg/vietnam-passport-photo-size.html",
+  "id": "/bg/vietnam-passport-photo-size.html",
   "start_url": "./vietnam-passport-photo-size.html",
   "scope": "./vietnam-passport-photo-size.html",
   "display": "standalone",

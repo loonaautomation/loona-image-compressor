@@ -2,7 +2,7 @@
   "name": "Loona NADRA / CNIC Fotoğraf Oluşturucu – Pak-ID için 350×467 px, Çevrimiçi Ücretsiz",
   "short_name": "NADRA / CNIC Fotoğraf Oluşturucu – Pak-ID için 350×467 px, Çevrimiçi Ücretsiz",
   "description": "Çevrimiçi ücretsiz bir NADRA CNIC fotoğrafı yapın: Pak-ID yüklemesi için tam 350×467 px ve 35×45 mm baskı boyutu. Beyaz arka plan, kayıt yok, tamamen gizli.",
-  "id": "/loona-image-compressor/tr/nadra-cnic-photo-maker.html",
+  "id": "/tr/nadra-cnic-photo-maker.html",
   "start_url": "./nadra-cnic-photo-maker.html",
   "scope": "./nadra-cnic-photo-maker.html",
   "display": "standalone",

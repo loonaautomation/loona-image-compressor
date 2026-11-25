@@ -2,7 +2,7 @@
   "name": "Loona ICO 转 PNG 转换器",
   "short_name": "ICO 转 PNG 转换器",
   "description": "在线将 ICO 转换为 PNG，免费，在您的浏览器中完成。在您的设备上进行真实转换 — 无需上传，无需注册，无水印。",
-  "id": "/loona-image-compressor/zh/ico-to-png.html",
+  "id": "/zh/ico-to-png.html",
   "start_url": "./ico-to-png.html",
   "scope": "./ico-to-png.html",
   "display": "standalone",

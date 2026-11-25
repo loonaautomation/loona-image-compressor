@@ -2,7 +2,7 @@
   "name": "Loona Kép vágása online ingyen",
   "short_name": "Kép vágása online ingyen",
   "description": "Vágjon képeket online ingyen kész arányokkal — 1:1, 4:3, 16:9 és útlevél 35×45 —, valamint forgatással és tükrözéssel. Töltse le a pontos vágást teljes felbontásban.",
-  "id": "/loona-image-compressor/hu/crop-image.html",
+  "id": "/hu/crop-image.html",
   "start_url": "./crop-image.html",
   "scope": "./crop-image.html",
   "display": "standalone",

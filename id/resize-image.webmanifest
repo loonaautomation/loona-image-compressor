@@ -2,7 +2,7 @@
   "name": "Loona Ubah Ukuran Gambar",
   "short_name": "Ubah Ukuran Gambar",
   "description": "Ubah ukuran gambar apa pun berdasarkan piksel, cm, atau inci dengan pengaturan DPI secara gratis. Pertahankan rasio aspek, pilih JPG, PNG, atau WebP, dan unduh seketika — tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/resize-image.html",
+  "id": "/id/resize-image.html",
   "start_url": "./resize-image.html",
   "scope": "./resize-image.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Fotoformaat Pasfoto Nederland",
   "short_name": "Fotoformaat Pasfoto Nederland",
   "description": "Maak een Pasfoto Nederland op het officiële formaat 35×45 mm (413×531 px), achtergrond: effen lichtgrijs of wit, gelijkmatig belicht. Gratis online maker — bijsnijden, downloaden en printvel, geen upload.",
-  "id": "/loona-image-compressor/nl/netherlands-passport-photo-size.html",
+  "id": "/nl/netherlands-passport-photo-size.html",
   "start_url": "./netherlands-passport-photo-size.html",
   "scope": "./netherlands-passport-photo-size.html",
   "display": "standalone",

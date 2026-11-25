@@ -2,7 +2,7 @@
   "name": "Loona CTET Underskrift størrelse",
   "short_name": "CTET Underskrift størrelse",
   "description": "Tilpas størrelsen på dit CTET underskrift til meddelelsens størrelse (scannet felt, forhold cirka 7:2) og båndet 3–30 KB. Gratis, i din browser — ingen upload, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/ctet-signature-size.html",
+  "id": "/da/ctet-signature-size.html",
   "start_url": "./ctet-signature-size.html",
   "scope": "./ctet-signature-size.html",
   "display": "standalone",

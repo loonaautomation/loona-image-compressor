@@ -2,7 +2,7 @@
   "name": "Loona ขนาดปกวิดีโอ TikTok",
   "short_name": "ขนาดปกวิดีโอ TikTok",
   "description": "ทำปกวิดีโอ TikTok ที่ขนาด 1080×1920 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/tiktok-cover-size.html",
+  "id": "/th/tiktok-cover-size.html",
   "start_url": "./tiktok-cover-size.html",
   "scope": "./tiktok-cover-size.html",
   "display": "standalone",

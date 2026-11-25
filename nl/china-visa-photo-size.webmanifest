@@ -2,7 +2,7 @@
   "name": "Loona Fotoformaat Visumfoto China",
   "short_name": "Fotoformaat Visumfoto China",
   "description": "Maak een Visumfoto China op het officiële formaat 33×48 mm (390×567 px), achtergrond: effen wit. Gratis online maker — bijsnijden, downloaden en printvel, geen upload.",
-  "id": "/loona-image-compressor/nl/china-visa-photo-size.html",
+  "id": "/nl/china-visa-photo-size.html",
   "start_url": "./china-visa-photo-size.html",
   "scope": "./china-visa-photo-size.html",
   "display": "standalone",

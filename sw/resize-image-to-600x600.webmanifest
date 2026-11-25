@@ -2,7 +2,7 @@
   "name": "Loona Badilisha Ukubwa wa Picha hadi 600 × 600 px Mtandaoni",
   "short_name": "Badilisha Ukubwa wa Picha",
   "description": "Badilisha ukubwa wa picha yoyote hadi px 600×600 haswa — Ukubwa wa chini wa kidijitali wa pasipoti/visa ya Marekani na Lotari ya DV. Bure kwenye kivinjari chako kwa udhibiti wa kukata; bila kupakia, bila kujisajili.",
-  "id": "/loona-image-compressor/sw/resize-image-to-600x600.html",
+  "id": "/sw/resize-image-to-600x600.html",
   "start_url": "./resize-image-to-600x600.html",
   "scope": "./resize-image-to-600x600.html",
   "display": "standalone",

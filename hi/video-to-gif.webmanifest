@@ -2,7 +2,7 @@
   "name": "Loona Video to GIF Converter",
   "short_name": "Video to GIF Converter",
   "description": "वीडियो को मुफ़्त ऑनलाइन GIF में बदलें — MP4 या WebM क्लिप को एनिमेटेड GIF में बदलें। ब्राउज़र-आधारित, कोई साइनअप नहीं, कोई अपलोड नहीं, कोई वॉटरमार्क नहीं।",
-  "id": "/loona-image-compressor/hi/video-to-gif.html",
+  "id": "/hi/video-to-gif.html",
   "start_url": "./video-to-gif.html",
   "scope": "./video-to-gif.html",
   "display": "standalone",

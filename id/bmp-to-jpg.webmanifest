@@ -2,7 +2,7 @@
   "name": "Loona Konverter BMP ke JPG",
   "short_name": "Konverter BMP ke JPG",
   "description": "Konversi BMP ke JPG online gratis dan susutkan bitmap besar yang tidak dikompresi hingga 90% atau lebih. Di browser Anda — tanpa pendaftaran, tanpa unggahan, tanpa tanda air.",
-  "id": "/loona-image-compressor/id/bmp-to-jpg.html",
+  "id": "/id/bmp-to-jpg.html",
   "start_url": "./bmp-to-jpg.html",
   "scope": "./bmp-to-jpg.html",
   "display": "standalone",

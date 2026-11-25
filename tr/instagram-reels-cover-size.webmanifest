@@ -2,7 +2,7 @@
   "name": "Loona Instagram Reels Kapağı Boyutu — 1080×1920 px",
   "short_name": "Instagram Reels Kapağı Boyutu — 1080×1920 px",
   "description": "Tam olarak 1080×1920 px ölçüsünde bir Instagram reels kapağı oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/instagram-reels-cover-size.html",
+  "id": "/tr/instagram-reels-cover-size.html",
   "start_url": "./instagram-reels-cover-size.html",
   "scope": "./instagram-reels-cover-size.html",
   "display": "standalone",

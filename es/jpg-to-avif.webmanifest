@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de JPG a AVIF",
   "short_name": "Convertidor de JPG a AVIF",
   "description": "Convierte JPG a AVIF en línea, gratis y en tu navegador. Conversión real en tu dispositivo: sin subidas, sin registro y sin marcas de agua.",
-  "id": "/loona-image-compressor/es/jpg-to-avif.html",
+  "id": "/es/jpg-to-avif.html",
   "start_url": "./jpg-to-avif.html",
   "scope": "./jpg-to-avif.html",
   "display": "standalone",

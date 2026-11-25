@@ -2,7 +2,7 @@
   "name": "Loona Îmbunătățitor de imagini",
   "short_name": "Îmbunătățitor de imagini",
   "description": "Îmbunătățește o fotografie online gratuit: îmbunătățire automată cu un clic, clarificarea fotografiilor moi, curățarea blândă a zgomotului și mărire de 2x sau 4x. Rezultate sincere, fără înregistrare, iar fotografia ta nu părăsește niciodată dispozitivul.",
-  "id": "/loona-image-compressor/ro/image-enhancer.html",
+  "id": "/ro/image-enhancer.html",
   "start_url": "./image-enhancer.html",
   "scope": "./image-enhancer.html",
   "display": "standalone",

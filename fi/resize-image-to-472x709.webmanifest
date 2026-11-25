@@ -2,7 +2,7 @@
   "name": "Loona Muuta kuvan koko kokoon 472 × 709 px verkossa",
   "short_name": "Muuta kuvan koko kokoon 472 ×",
   "description": "Muuta minkä tahansa kuvan koko tarkalleen kokoon 472×709 px — 40 × 60 mm tarkkuudella 300 DPI — UAE/Saudi-Arabia/Egypti/Vietnam-kuvakoko. Ilmaiseksi selaimessasi rajausohjauksella; ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/resize-image-to-472x709.html",
+  "id": "/fi/resize-image-to-472x709.html",
   "start_url": "./resize-image-to-472x709.html",
   "scope": "./resize-image-to-472x709.html",
   "display": "standalone",

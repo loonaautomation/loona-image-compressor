@@ -2,7 +2,7 @@
   "name": "Loona Billedvandmærke",
   "short_name": "Billedvandmærke",
   "description": "Tilføj et tekstvandmærke til ethvert foto online gratis — vælg tekst, størrelse, farve, uigennemsigtighed og position, eller gentag det som et flisemønster. Live forhåndsvisning, ingen tilmelding, og dit billede forlader aldrig din enhed.",
-  "id": "/loona-image-compressor/da/image-watermark.html",
+  "id": "/da/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

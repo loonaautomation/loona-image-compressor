@@ -2,7 +2,7 @@
   "name": "Loona Hong Kong Passport Photo-størrelse",
   "short_name": "Hong Kong Passport",
   "description": "Lag et Hong Kong Passport Photo i den offisielle størrelsen 40×50 mm (472×591 px), ensfarget hvit bakgrunn. Gratis verktøy på nett — beskjær, last ned og skriv ut ark, ingen opplasting.",
-  "id": "/loona-image-compressor/nb/hong-kong-passport-photo-size.html",
+  "id": "/nb/hong-kong-passport-photo-size.html",
   "start_url": "./hong-kong-passport-photo-size.html",
   "scope": "./hong-kong-passport-photo-size.html",
   "display": "standalone",

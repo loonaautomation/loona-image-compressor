@@ -2,7 +2,7 @@
   "name": "Loona Promijeni veličinu slike na 2400 × 3000 px na mreži",
   "short_name": "Promijeni veličinu slike na",
   "description": "Promijenite veličinu bilo koje slike na točno 2400×3000 px — Ispis 8 × 10 inča pri 300 DPI. Besplatno u vašem pregledniku uz kontrolu izrezivanja; bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/resize-image-to-2400x3000.html",
+  "id": "/hr/resize-image-to-2400x3000.html",
   "start_url": "./resize-image-to-2400x3000.html",
   "scope": "./resize-image-to-2400x3000.html",
   "display": "standalone",

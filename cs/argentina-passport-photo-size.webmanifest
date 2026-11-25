@@ -2,7 +2,7 @@
   "name": "Loona Velikost Pasová fotografie / fotografie DNI Argentiny",
   "short_name": "Velikost Pasová fotografie /",
   "description": "Vytvořte Pasová fotografie / fotografie DNI Argentiny v oficiální velikosti 40×40 mm (472×472 px), pozadí: jednobarevné bílé nebo světle modré. Bezplatný online tvůrce — oříznutí, stažení a tiskový arch, bez nahrávání.",
-  "id": "/loona-image-compressor/cs/argentina-passport-photo-size.html",
+  "id": "/cs/argentina-passport-photo-size.html",
   "start_url": "./argentina-passport-photo-size.html",
   "scope": "./argentina-passport-photo-size.html",
   "display": "standalone",

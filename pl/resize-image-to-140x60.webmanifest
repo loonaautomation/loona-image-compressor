@@ -2,7 +2,7 @@
   "name": "Loona Zmień rozmiar obrazu do 140 × 60 px online",
   "short_name": "Zmień rozmiar obrazu do 140 ×",
   "description": "Zmień rozmiar dowolnego obrazu dokładnie do 140×60 px — Indyjski standard podpisu egzaminacyjnego (SSC, IBPS, SBI). Za darmo w przeglądarce z kontrolą przycinania; bez przesyłania, bez rejestracji.",
-  "id": "/loona-image-compressor/pl/resize-image-to-140x60.html",
+  "id": "/pl/resize-image-to-140x60.html",
   "start_url": "./resize-image-to-140x60.html",
   "scope": "./resize-image-to-140x60.html",
   "display": "standalone",

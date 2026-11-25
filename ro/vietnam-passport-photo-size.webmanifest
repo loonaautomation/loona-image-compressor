@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie pentru pașaportul / viza Vietnamului",
   "short_name": "Dimensiune Fotografie pentru",
   "description": "Creează un Fotografie pentru pașaportul / viza Vietnamului la dimensiunea oficială 40×60 mm (472×709 px), fundal alb simplu. Creator online gratuit — decupează, descarcă și imprimă foaia, fără încărcare.",
-  "id": "/loona-image-compressor/ro/vietnam-passport-photo-size.html",
+  "id": "/ro/vietnam-passport-photo-size.html",
   "start_url": "./vietnam-passport-photo-size.html",
   "scope": "./vietnam-passport-photo-size.html",
   "display": "standalone",

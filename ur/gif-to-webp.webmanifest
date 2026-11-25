@@ -2,7 +2,7 @@
   "name": "Loona GIF تا WEBP کنورٹر",
   "short_name": "GIF تا WEBP کنورٹر",
   "description": "GIF کو WEBP میں آن لائن، مفت، اپنے براؤزر میں تبدیل کریں۔ آپ کے ڈیوائس پر اصل تبدیلی — نہ اپ لوڈ، نہ سائن اپ، نہ واٹر مارک۔",
-  "id": "/loona-image-compressor/ur/gif-to-webp.html",
+  "id": "/ur/gif-to-webp.html",
   "start_url": "./gif-to-webp.html",
   "scope": "./gif-to-webp.html",
   "display": "standalone",

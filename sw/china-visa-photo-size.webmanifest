@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Visa ya China",
   "short_name": "Ukubwa wa Picha ya Visa ya",
   "description": "Tengeneza Picha ya Visa ya China katika ukubwa rasmi wa milimita 33×48 (px 390×567), mandharinyuma ya nyeupe tambarare. Kitengenezaji bure cha mtandaoni — kata, pakua na uchapishe karatasi, bila kupakia.",
-  "id": "/loona-image-compressor/sw/china-visa-photo-size.html",
+  "id": "/sw/china-visa-photo-size.html",
   "start_url": "./china-visa-photo-size.html",
   "scope": "./china-visa-photo-size.html",
   "display": "standalone",

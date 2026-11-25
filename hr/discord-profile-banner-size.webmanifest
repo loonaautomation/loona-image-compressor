@@ -2,7 +2,7 @@
   "name": "Loona Veličina Discord Banner profila",
   "short_name": "Veličina Discord Banner",
   "description": "Izradite Discord banner profila na točno 600×180 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/discord-profile-banner-size.html",
+  "id": "/hr/discord-profile-banner-size.html",
   "start_url": "./discord-profile-banner-size.html",
   "scope": "./discord-profile-banner-size.html",
   "display": "standalone",

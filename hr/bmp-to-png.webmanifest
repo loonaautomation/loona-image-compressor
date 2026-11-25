@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač BMP u PNG",
   "short_name": "Pretvarač BMP u PNG",
   "description": "Pretvorite BMP u PNG na mreži besplatno — bez gubitaka, mnogo manji od BMP-a i podržan svugdje. Radi u vašem pregledniku, bez registracije, bez prijenosa.",
-  "id": "/loona-image-compressor/hr/bmp-to-png.html",
+  "id": "/hr/bmp-to-png.html",
   "start_url": "./bmp-to-png.html",
   "scope": "./bmp-to-png.html",
   "display": "standalone",

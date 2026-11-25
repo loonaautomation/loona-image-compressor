@@ -2,7 +2,7 @@
   "name": "Loona Veličina RBI Assistant Potpis",
   "short_name": "Veličina RBI Assistant Potpis",
   "description": "Promijenite veličinu svoje RBI Assistant potpis na veličinu iz obavijesti (140 × 60 px) i pojas 10–20 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/rbi-assistant-signature-size.html",
+  "id": "/hr/rbi-assistant-signature-size.html",
   "start_url": "./rbi-assistant-signature-size.html",
   "scope": "./rbi-assistant-signature-size.html",
   "display": "standalone",

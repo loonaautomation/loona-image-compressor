@@ -2,7 +2,7 @@
   "name": "Loona Konverter AVIF ke PNG",
   "short_name": "Konverter AVIF ke PNG",
   "description": "Konversi AVIF ke PNG online, gratis, di browser Anda. Konversi nyata di perangkat Anda — tanpa unggah, tanpa pendaftaran, tanpa tanda air.",
-  "id": "/loona-image-compressor/id/avif-to-png.html",
+  "id": "/id/avif-to-png.html",
   "start_url": "./avif-to-png.html",
   "scope": "./avif-to-png.html",
   "display": "standalone",

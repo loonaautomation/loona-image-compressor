@@ -2,7 +2,7 @@
   "name": "Loona Ändra bildstorlek till 390 × 567 px online",
   "short_name": "Ändra bildstorlek till 390 ×",
   "description": "Ändra storlek på valfri bild till exakt 390×567 px — 33 × 48 mm vid 300 DPI — Kinas visumstorlek. Gratis i din webbläsare med beskärningskontroll; ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/resize-image-to-390x567.html",
+  "id": "/sv/resize-image-to-390x567.html",
   "start_url": "./resize-image-to-390x567.html",
   "scope": "./resize-image-to-390x567.html",
   "display": "standalone",

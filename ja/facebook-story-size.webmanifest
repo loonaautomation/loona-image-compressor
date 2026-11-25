@@ -2,7 +2,7 @@
   "name": "Loona Facebookのストーリーサイズ",
   "short_name": "Facebookのストーリーサイズ",
   "description": "Facebookのストーリーを正確に1080×1920 pxで作成できます。ブラウザで使える無料のリサイズ・切り取りツールで、切り取られた文字や顔を防ぐセーフゾーンのルールも備えています。",
-  "id": "/loona-image-compressor/ja/facebook-story-size.html",
+  "id": "/ja/facebook-story-size.html",
   "start_url": "./facebook-story-size.html",
   "scope": "./facebook-story-size.html",
   "display": "standalone",

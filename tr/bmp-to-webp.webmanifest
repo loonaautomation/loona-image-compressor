@@ -2,7 +2,7 @@
   "name": "Loona BMP → WEBP Dönüştürücü – Ücretsiz, Yüklemesiz",
   "short_name": "BMP → WEBP Dönüştürücü – Ücretsiz, Yüklemesiz",
   "description": "BMP formatını WEBP formatına çevrimiçi, ücretsiz, tarayıcınızda dönüştürün. Cihazınızda gerçek dönüştürme — yükleme yok, kayıt yok, filigran yok.",
-  "id": "/loona-image-compressor/tr/bmp-to-webp.html",
+  "id": "/tr/bmp-to-webp.html",
   "start_url": "./bmp-to-webp.html",
   "scope": "./bmp-to-webp.html",
   "display": "standalone",

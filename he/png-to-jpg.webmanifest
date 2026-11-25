@@ -2,7 +2,7 @@
   "name": "Loona ממיר PNG ל־JPG",
   "short_name": "ממיר PNG ל־JPG",
   "description": "המירו PNG ל־JPG באינטרנט בחינם. קבצים קטנים יותר לטפסים, דוא",
-  "id": "/loona-image-compressor/he/png-to-jpg.html",
+  "id": "/he/png-to-jpg.html",
   "start_url": "./png-to-jpg.html",
   "scope": "./png-to-jpg.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Profilkép méret",
   "short_name": "Pinterest Profilkép méret",
   "description": "Készítsen Pinterest profilkép képet pontosan 800×800 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/pinterest-profile-picture-size.html",
+  "id": "/hu/pinterest-profile-picture-size.html",
   "start_url": "./pinterest-profile-picture-size.html",
   "scope": "./pinterest-profile-picture-size.html",
   "display": "standalone",

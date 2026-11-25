@@ -2,7 +2,7 @@
   "name": "Loona Facebook Profilkép méret",
   "short_name": "Facebook Profilkép méret",
   "description": "Készítsen Facebook profilkép képet pontosan 720×720 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/facebook-profile-picture-size.html",
+  "id": "/hu/facebook-profile-picture-size.html",
   "start_url": "./facebook-profile-picture-size.html",
   "scope": "./facebook-profile-picture-size.html",
   "display": "standalone",

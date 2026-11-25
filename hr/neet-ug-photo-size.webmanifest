@@ -2,7 +2,7 @@
   "name": "Loona Veličina NEET UG Fotografija",
   "short_name": "Veličina NEET UG Fotografija",
   "description": "Promijenite veličinu svoje NEET UG fotografiju na veličinu iz obavijesti (3.5 × 4.5 cm (oko 413 × 531 px pri 300 DPI)) i pojas 10–200 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/neet-ug-photo-size.html",
+  "id": "/hr/neet-ug-photo-size.html",
   "start_url": "./neet-ug-photo-size.html",
   "scope": "./neet-ug-photo-size.html",
   "display": "standalone",

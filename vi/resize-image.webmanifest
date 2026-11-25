@@ -2,7 +2,7 @@
   "name": "Loona Thay đổi kích thước ảnh",
   "short_name": "Thay đổi kích thước ảnh",
   "description": "Thay đổi kích thước mọi hình ảnh theo pixel, cm hoặc inch với cài đặt DPI miễn phí. Giữ tỷ lệ khung hình, chọn JPG, PNG hoặc WebP và tải xuống ngay lập tức — không cần đăng ký.",
-  "id": "/loona-image-compressor/vi/resize-image.html",
+  "id": "/vi/resize-image.html",
   "start_url": "./resize-image.html",
   "scope": "./resize-image.html",
   "display": "standalone",

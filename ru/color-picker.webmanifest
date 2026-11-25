@@ -2,7 +2,7 @@
   "name": "Loona Палитра цветов",
   "short_name": "Палитра цветов",
   "description": "Pick any colour and instantly copy its HEX, RGB, HSL and HSV values. Includes a tints and shades strip — free, no signup, works in your browser.",
-  "id": "/loona-image-compressor/color-picker.html",
+  "id": "/color-picker.html",
   "start_url": "./color-picker.html",
   "scope": "./color-picker.html",
   "display": "standalone",

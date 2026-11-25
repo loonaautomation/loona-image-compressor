@@ -2,7 +2,7 @@
   "name": "Loona NEET UGの署名サイズ",
   "short_name": "NEET UGの署名サイズ",
   "description": "NEET UGの署名を告知サイズ（スキャンしたボックス、比率は約7:2）と4–30 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
-  "id": "/loona-image-compressor/ja/neet-ug-signature-size.html",
+  "id": "/ja/neet-ug-signature-size.html",
   "start_url": "./neet-ug-signature-size.html",
   "scope": "./neet-ug-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Saini wa CTET",
   "short_name": "Ukubwa wa Saini wa CTET",
   "description": "Badilisha ukubwa wa saini yako ya CTET hadi ukubwa wa ilani (kisanduku kilichochanganuliwa, uwiano takriban 7:2) na kiwango cha KB 3–30. Bure, kwenye kivinjari chako — bila kupakia, bila kujisajili.",
-  "id": "/loona-image-compressor/sw/ctet-signature-size.html",
+  "id": "/sw/ctet-signature-size.html",
   "start_url": "./ctet-signature-size.html",
   "scope": "./ctet-signature-size.html",
   "display": "standalone",

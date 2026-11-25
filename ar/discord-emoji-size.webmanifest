@@ -2,7 +2,7 @@
   "name": "Loona حجم إيموجي مخصص Discord",
   "short_name": "حجم إيموجي مخصص Discord",
   "description": "اصنع إيموجي مخصص Discord بمقاس 128×128 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/discord-emoji-size.html",
+  "id": "/ar/discord-emoji-size.html",
   "start_url": "./discord-emoji-size.html",
   "scope": "./discord-emoji-size.html",
   "display": "standalone",

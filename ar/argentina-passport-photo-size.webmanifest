@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة جواز السفر / DNI الأرجنتينية",
   "short_name": "حجم صورة جواز السفر / DNI",
   "description": "اصنع صورة جواز السفر / DNI الأرجنتينية بالحجم الرسمي 40×40 mm (472×472 px)، خلفية بيضاء سادة أو زرقاء فاتحة. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/argentina-passport-photo-size.html",
+  "id": "/ar/argentina-passport-photo-size.html",
   "start_url": "./argentina-passport-photo-size.html",
   "scope": "./argentina-passport-photo-size.html",
   "display": "standalone",

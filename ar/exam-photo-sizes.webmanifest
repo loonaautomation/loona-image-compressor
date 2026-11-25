@@ -2,7 +2,7 @@
   "name": "Loona أحجام صور الامتحانات والتوقيعات",
   "short_name": "أحجام صور الامتحانات",
   "description": "أحجام الصور والتوقيعات ونطاقات KB لـ20 امتحاناً هندياً رئيسياً — SSC وIBPS وSBI وUPSC وRRB وJEE وNEET وغيرها، كل منها مع أداة صانع.",
-  "id": "/loona-image-compressor/ar/exam-photo-sizes.html",
+  "id": "/ar/exam-photo-sizes.html",
   "start_url": "./exam-photo-sizes.html",
   "scope": "./exam-photo-sizes.html",
   "display": "standalone",

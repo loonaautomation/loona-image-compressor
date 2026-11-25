@@ -2,7 +2,7 @@
   "name": "Loona Facebook Story Größe",
   "short_name": "Facebook Story Größe",
   "description": "Erstellen Sie ein Facebook-story mit exakt 1080×1920 px. Kostenloser Größenänderer/Zuschneider in Ihrem Browser mit den Regeln für die sichere Zone, die abgeschnittenen Text und Gesichter verhindern.",
-  "id": "/loona-image-compressor/de/facebook-story-size.html",
+  "id": "/de/facebook-story-size.html",
   "start_url": "./facebook-story-size.html",
   "scope": "./facebook-story-size.html",
   "display": "standalone",

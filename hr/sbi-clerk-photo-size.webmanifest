@@ -2,7 +2,7 @@
   "name": "Loona Veličina SBI Clerk (Junior Associates) Fotografija",
   "short_name": "Veličina SBI Clerk (Junior",
   "description": "Promijenite veličinu svoje SBI Clerk (Junior Associates) fotografiju na veličinu iz obavijesti (200 × 230 px) i pojas 20–50 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/sbi-clerk-photo-size.html",
+  "id": "/hr/sbi-clerk-photo-size.html",
   "start_url": "./sbi-clerk-photo-size.html",
   "scope": "./sbi-clerk-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Змінити розмір зображення до 1280 × 720",
   "short_name": "Змінити розмір зображення до",
   "description": "Змініть розмір будь-якого зображення рівно до 1280 × 720 пікселів (мініатюри YouTube і відео HD) безкоштовно. Покриття, вмістити або розтягнути, JPG або PNG, завантажуйте миттєво — без реєстрації, нічого не передається на сервер.",
-  "id": "/loona-image-compressor/uk/resize-image-to-1280x720.html",
+  "id": "/uk/resize-image-to-1280x720.html",
   "start_url": "./resize-image-to-1280x720.html",
   "scope": "./resize-image-to-1280x720.html",
   "display": "standalone",

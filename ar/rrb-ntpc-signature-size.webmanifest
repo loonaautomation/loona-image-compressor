@@ -2,7 +2,7 @@
   "name": "Loona حجم التوقيع RRB NTPC (Railways)",
   "short_name": "حجم التوقيع RRB NTPC",
   "description": "غيّر حجم التوقيع الخاص بك لامتحان RRB NTPC (Railways) إلى حجم الإشعار (140 × 60 px) ونطاق 10–40 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/rrb-ntpc-signature-size.html",
+  "id": "/ar/rrb-ntpc-signature-size.html",
   "start_url": "./rrb-ntpc-signature-size.html",
   "scope": "./rrb-ntpc-signature-size.html",
   "display": "standalone",

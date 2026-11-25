@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha na Saini za Mitihani",
   "short_name": "Ukubwa wa Picha na Saini za",
   "description": "Ukubwa wa picha na saini na viwango vya KB kwa mitihani mikubwa 20 ya India — SSC, IBPS, SBI, UPSC, RRB, JEE, NEET na zaidi, kila moja na zana ya kitengenezaji.",
-  "id": "/loona-image-compressor/sw/exam-photo-sizes.html",
+  "id": "/sw/exam-photo-sizes.html",
   "start_url": "./exam-photo-sizes.html",
   "scope": "./exam-photo-sizes.html",
   "display": "standalone",

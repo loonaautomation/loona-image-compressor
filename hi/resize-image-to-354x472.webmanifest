@@ -2,7 +2,7 @@
   "name": "Loona इमेज को 354 × 472 px पर ऑनलाइन रीसाइज़ करें",
   "short_name": "इमेज को 354 × 472 px पर",
   "description": "किसी भी इमेज को ठीक 354×472 px पर रीसाइज़ करें — 30 × 40 mm, 300 DPI पर — ईरान/कोलंबिया दस्तावेज़ साइज़. क्रॉप नियंत्रण के साथ आपके ब्राउज़र में मुफ़्त; न अपलोड, न साइन-अप.",
-  "id": "/loona-image-compressor/hi/resize-image-to-354x472.html",
+  "id": "/hi/resize-image-to-354x472.html",
   "start_url": "./resize-image-to-354x472.html",
   "scope": "./resize-image-to-354x472.html",
   "display": "standalone",

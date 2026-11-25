@@ -2,7 +2,7 @@
   "name": "Loona 線上將圖片調整為 720 × 720 px",
   "short_name": "線上將圖片調整為 720 × 720 px",
   "description": "將任何圖片調整為精確的 720×720 px — Facebook 個人頭像最小值和通用頭像尺寸。在瀏覽器中免費使用，帶裁剪控制；無需上傳，無需註冊。",
-  "id": "/loona-image-compressor/zh-hant/resize-image-to-720x720.html",
+  "id": "/zh-hant/resize-image-to-720x720.html",
   "start_url": "./resize-image-to-720x720.html",
   "scope": "./resize-image-to-720x720.html",
   "display": "standalone",

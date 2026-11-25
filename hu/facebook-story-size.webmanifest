@@ -2,7 +2,7 @@
   "name": "Loona Facebook Történet méret",
   "short_name": "Facebook Történet méret",
   "description": "Készítsen Facebook történet képet pontosan 1080×1920 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/facebook-story-size.html",
+  "id": "/hu/facebook-story-size.html",
   "start_url": "./facebook-story-size.html",
   "scope": "./facebook-story-size.html",
   "display": "standalone",

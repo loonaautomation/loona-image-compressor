@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Pasipoti ya Australia",
   "short_name": "Ukubwa wa Picha ya Pasipoti",
   "description": "Tengeneza Picha ya Pasipoti ya Australia katika ukubwa rasmi wa milimita 35×45 (px 413×531), mandharinyuma ya nyeupe tambarare au kijivu chepesi. Kitengenezaji bure cha mtandaoni — kata, pakua na uchapishe karatasi, bila kupakia.",
-  "id": "/loona-image-compressor/sw/australia-passport-photo-size.html",
+  "id": "/sw/australia-passport-photo-size.html",
   "start_url": "./australia-passport-photo-size.html",
   "scope": "./australia-passport-photo-size.html",
   "display": "standalone",

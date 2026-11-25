@@ -2,7 +2,7 @@
   "name": "Loona Exam Photo & Signature Sizes",
   "short_name": "Exam Photo & Signature Sizes",
   "description": "Photo and signature sizes and KB bands for 20 major Indian exams — SSC, IBPS, SBI, UPSC, RRB, JEE, NEET and more, each with a maker tool.",
-  "id": "/loona-image-compressor/en-us/exam-photo-sizes.html",
+  "id": "/en-us/exam-photo-sizes.html",
   "start_url": "./exam-photo-sizes.html",
   "scope": "./exam-photo-sizes.html",
   "display": "standalone",

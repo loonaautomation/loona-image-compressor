@@ -2,7 +2,7 @@
   "name": "Loona Singaporen passikuva koko",
   "short_name": "Singaporen passikuva koko",
   "description": "Tee Singaporen passikuva virallisessa koossa 35×45 mm (413×531 px), taustana tavallinen valkoinen. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/singapore-passport-photo-size.html",
+  "id": "/fi/singapore-passport-photo-size.html",
   "start_url": "./singapore-passport-photo-size.html",
   "scope": "./singapore-passport-photo-size.html",
   "display": "standalone",

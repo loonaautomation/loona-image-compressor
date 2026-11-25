@@ -2,7 +2,7 @@
   "name": "Loona صورة الامتحان مع الاسم & التاريخ",
   "short_name": "صورة الامتحان مع الاسم &",
   "description": "أنشئ صورة امتحان مع اسمك وتاريخك مطبوعين في الأسفل مجانًا — صيغة امتحانات المجالس المستخدمة في باكستان والهند. خصوصية، لا تسجيل مطلوب.",
-  "id": "/loona-image-compressor/ar/exam-photo-name-date.html",
+  "id": "/ar/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

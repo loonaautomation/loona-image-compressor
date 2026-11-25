@@ -2,7 +2,7 @@
   "name": "Loona Muuta kuvan koko kokoon 354 × 472 px verkossa",
   "short_name": "Muuta kuvan koko kokoon 354 ×",
   "description": "Muuta minkä tahansa kuvan koko tarkalleen kokoon 354×472 px — 30 × 40 mm tarkkuudella 300 DPI — Iranin/Kolumbian asiakirjakoko. Ilmaiseksi selaimessasi rajausohjauksella; ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/resize-image-to-354x472.html",
+  "id": "/fi/resize-image-to-354x472.html",
   "start_url": "./resize-image-to-354x472.html",
   "scope": "./resize-image-to-354x472.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Instagram Tarina koko",
   "short_name": "Instagram Tarina koko",
   "description": "Tee Instagram tarina tarkalleen kokoon 1080×1920 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/instagram-story-size.html",
+  "id": "/fi/instagram-story-size.html",
   "start_url": "./instagram-story-size.html",
   "scope": "./instagram-story-size.html",
   "display": "standalone",

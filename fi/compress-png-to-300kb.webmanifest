@@ -2,7 +2,7 @@
   "name": "Loona Pakkaa PNG kokoon 300 KB verkossa",
   "short_name": "Pakkaa PNG kokoon 300 KB",
   "description": "Pakkaa PNG-kuva kokoon 300 KB tai alle, ilmaiseksi selaimessasi. Automaattinen haku löytää parhaan mahtuvan laadun — ilman rekisteröitymistä ja ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/compress-png-to-300kb.html",
+  "id": "/fi/compress-png-to-300kb.html",
   "start_url": "./compress-png-to-300kb.html",
   "scope": "./compress-png-to-300kb.html",
   "display": "standalone",

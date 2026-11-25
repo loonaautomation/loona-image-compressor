@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ảnh hồ sơ TikTok",
   "short_name": "Kích thước Ảnh hồ sơ TikTok",
   "description": "Tạo ảnh hồ sơ TikTok chính xác 720×720 px. Công cụ thay đổi kích thước/cắt ảnh miễn phí trong trình duyệt của bạn, kèm các quy tắc vùng an toàn giúp văn bản và khuôn mặt không bị cắt mất.",
-  "id": "/loona-image-compressor/vi/tiktok-profile-picture-size.html",
+  "id": "/vi/tiktok-profile-picture-size.html",
   "start_url": "./tiktok-profile-picture-size.html",
   "scope": "./tiktok-profile-picture-size.html",
   "display": "standalone",

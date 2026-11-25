@@ -2,7 +2,7 @@
   "name": "Loona Velikost TikTok Fotopříspěvek (na výšku)",
   "short_name": "Velikost TikTok Fotopříspěvek",
   "description": "Vytvořte TikTok fotopříspěvek (na výšku) přesně 1080×1350 px. Bezplatný nástroj na změnu velikosti/ořez ve vašem prohlížeči s pravidly bezpečné zóny, která zabrání oříznutí textu a obličejů.",
-  "id": "/loona-image-compressor/cs/tiktok-photo-post-portrait-size.html",
+  "id": "/cs/tiktok-photo-post-portrait-size.html",
   "start_url": "./tiktok-photo-post-portrait-size.html",
   "scope": "./tiktok-photo-post-portrait-size.html",
   "display": "standalone",

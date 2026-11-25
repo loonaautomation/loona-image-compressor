@@ -2,7 +2,7 @@
   "name": "Loona Μαζική Αφαίρεση Μεταδεδομένων",
   "short_name": "Μαζική Αφαίρεση Μεταδεδομένων",
   "description": "Αφαιρέστε μεταδεδομένα EXIF, GPS και XMP από πολλές φωτογραφίες ταυτόχρονα — αφήστε μια παρτίδα αρχείων JPG, PNG και WebP, αφαιρέστε τα όλα στο πρόγραμμα περιήγησής σας και κατεβάστε τα πάντα ως ένα ZIP. Δωρεάν, ιδιωτικό, χωρίς μεταφορτώσεις, χωρίς επανακωδικοποίηση.",
-  "id": "/loona-image-compressor/el/bulk-remove-image-metadata.html",
+  "id": "/el/bulk-remove-image-metadata.html",
   "start_url": "./bulk-remove-image-metadata.html",
   "scope": "./bulk-remove-image-metadata.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Επιλογέας Χρώματος",
   "short_name": "Επιλογέας Χρώματος",
   "description": "Επιλέξτε οποιοδήποτε χρώμα και αντιγράψτε αμέσως τις τιμές HEX, RGB, HSL και HSV του. Περιλαμβάνει λωρίδα αποχρώσεων προς το λευκό και προς το μαύρο — δωρεάν, χωρίς εγγραφή, λειτουργεί στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-image-compressor/el/color-picker.html",
+  "id": "/el/color-picker.html",
   "start_url": "./color-picker.html",
   "scope": "./color-picker.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Képformátum-konvertáló",
   "short_name": "Képformátum-konvertáló",
   "description": "Konvertáljon képeket JPG, PNG és WebP között online ingyen, kötegekben, minőségvezérléssel és az átlátszó háttér lapításával. Regisztráció nem szükséges.",
-  "id": "/loona-image-compressor/hu/image-format-converter.html",
+  "id": "/hu/image-format-converter.html",
   "start_url": "./image-format-converter.html",
   "scope": "./image-format-converter.html",
   "display": "standalone",

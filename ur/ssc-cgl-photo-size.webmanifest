@@ -2,7 +2,7 @@
   "name": "Loona SSC CGL تصویر کا سائز",
   "short_name": "SSC CGL تصویر کا سائز",
   "description": "اپنی SSC CGL تصویر کو نوٹیفکیشن سائز (200 × 230 px) اور 20–50 KB بینڈ کے مطابق بنائیں۔ مفت، آپ کے براؤزر میں — نہ اپ لوڈ، نہ سائن اپ۔",
-  "id": "/loona-image-compressor/ur/ssc-cgl-photo-size.html",
+  "id": "/ur/ssc-cgl-photo-size.html",
   "start_url": "./ssc-cgl-photo-size.html",
   "scope": "./ssc-cgl-photo-size.html",
   "display": "standalone",

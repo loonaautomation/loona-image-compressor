@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото профілю TikTok",
   "short_name": "Розмір Фото профілю TikTok",
   "description": "Зробіть фото профілю для TikTok рівно 720×720 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/tiktok-profile-picture-size.html",
+  "id": "/uk/tiktok-profile-picture-size.html",
   "start_url": "./tiktok-profile-picture-size.html",
   "scope": "./tiktok-profile-picture-size.html",
   "display": "standalone",

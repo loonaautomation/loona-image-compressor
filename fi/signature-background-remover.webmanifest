@@ -2,7 +2,7 @@
   "name": "Loona Allekirjoituksen taustanpoistaja",
   "short_name": "Allekirjoituksen taustanpoistaja",
   "description": "Poista paperitausta allekirjoituksen tai leiman valokuvasta ja lataa läpinäkyvä PNG, ilmaiseksi verkossa. Puhdas selain-canvas-työkalu – ei tekoälyä, ei latausta palvelimelle, ei rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/signature-background-remover.html",
+  "id": "/fi/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

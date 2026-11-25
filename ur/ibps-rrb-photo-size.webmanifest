@@ -2,7 +2,7 @@
   "name": "Loona IBPS RRB (Gramin Bank) تصویر کا سائز",
   "short_name": "IBPS RRB (Gramin Bank) تصویر",
   "description": "اپنی IBPS RRB (Gramin Bank) تصویر کو نوٹیفکیشن سائز (200 × 230 px) اور 20–50 KB بینڈ کے مطابق بنائیں۔ مفت، آپ کے براؤزر میں — نہ اپ لوڈ، نہ سائن اپ۔",
-  "id": "/loona-image-compressor/ur/ibps-rrb-photo-size.html",
+  "id": "/ur/ibps-rrb-photo-size.html",
   "start_url": "./ibps-rrb-photo-size.html",
   "scope": "./ibps-rrb-photo-size.html",
   "display": "standalone",

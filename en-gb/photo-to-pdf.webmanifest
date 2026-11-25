@@ -2,7 +2,7 @@
   "name": "Loona Photo to PDF — Free Online Converter",
   "short_name": "Photo to PDF — Free Online Converter",
   "description": "Turn photos into a PDF online for free: add JPG, PNG or WebP images, choose A4, Letter or fit-to-image pages and download one tidy PDF. No uploads.",
-  "id": "/loona-image-compressor/en-gb/photo-to-pdf.html",
+  "id": "/en-gb/photo-to-pdf.html",
   "start_url": "./photo-to-pdf.html",
   "scope": "./photo-to-pdf.html",
   "display": "standalone",

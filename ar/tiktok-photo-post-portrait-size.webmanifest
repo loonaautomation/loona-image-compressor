@@ -2,7 +2,7 @@
   "name": "Loona حجم منشور صورة (عمودي) TikTok",
   "short_name": "حجم منشور صورة (عمودي) TikTok",
   "description": "اصنع منشور صورة (عمودي) TikTok بمقاس 1080×1350 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/tiktok-photo-post-portrait-size.html",
+  "id": "/ar/tiktok-photo-post-portrait-size.html",
   "start_url": "./tiktok-photo-post-portrait-size.html",
   "scope": "./tiktok-photo-post-portrait-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Filter Foto &amp; Perbaikan",
   "short_name": "Filter Foto &amp; Perbaikan",
   "description": "Perbaiki foto online gratis: sesuaikan kecerahan, kontras, dan saturasi, pertajam dengan satu klik, dan gunakan preset siap pakai seperti Perbaikan Paspor dan Cerah.",
-  "id": "/loona-image-compressor/id/photo-filters-editor.html",
+  "id": "/id/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

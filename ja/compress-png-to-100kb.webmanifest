@@ -2,7 +2,7 @@
   "name": "Loona PNGを100 KBに圧縮",
   "short_name": "PNGを100 KBに圧縮",
   "description": "PNG画像を100 KB以下に圧縮できます。ブラウザで無料で使え、最適な画質を自動で探します。登録不要・アップロード不要です。",
-  "id": "/loona-image-compressor/ja/compress-png-to-100kb.html",
+  "id": "/ja/compress-png-to-100kb.html",
   "start_url": "./compress-png-to-100kb.html",
   "scope": "./compress-png-to-100kb.html",
   "display": "standalone",

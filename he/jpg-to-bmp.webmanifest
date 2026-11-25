@@ -2,7 +2,7 @@
   "name": "Loona ממיר JPG ל־BMP",
   "short_name": "ממיר JPG ל־BMP",
   "description": "המירו JPG ל־BMP באינטרנט, בחינם, בדפדפן שלכם. המרה אמיתית במכשיר שלכם — ללא העלאה, ללא הרשמה, ללא סימני מים.",
-  "id": "/loona-image-compressor/he/jpg-to-bmp.html",
+  "id": "/he/jpg-to-bmp.html",
   "start_url": "./jpg-to-bmp.html",
   "scope": "./jpg-to-bmp.html",
   "display": "standalone",

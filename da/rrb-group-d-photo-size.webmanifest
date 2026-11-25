@@ -2,7 +2,7 @@
   "name": "Loona RRB Group D (Railways) Foto størrelse",
   "short_name": "RRB Group D (Railways) Foto",
   "description": "Tilpas størrelsen på dit RRB Group D (Railways) foto til meddelelsens størrelse (320 × 240 px) og båndet 30–70 KB. Gratis, i din browser — ingen upload, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/rrb-group-d-photo-size.html",
+  "id": "/da/rrb-group-d-photo-size.html",
   "start_url": "./rrb-group-d-photo-size.html",
   "scope": "./rrb-group-d-photo-size.html",
   "display": "standalone",

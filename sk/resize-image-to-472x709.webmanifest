@@ -2,7 +2,7 @@
   "name": "Loona Zmeniť veľkosť obrázka na 472 × 709 px online",
   "short_name": "Zmeniť veľkosť obrázka na 472",
   "description": "Zmeňte veľkosť akéhokoľvek obrázka presne na 472×709 px — 40 × 60 mm pri 300 DPI — veľkosť fotografie pre SAE/Saudskú Arábiu/Egypt/Vietnam. Zadarmo vo vašom prehliadači s ovládaním orezania; bez nahrávania a bez registrácie.",
-  "id": "/loona-image-compressor/sk/resize-image-to-472x709.html",
+  "id": "/sk/resize-image-to-472x709.html",
   "start_url": "./resize-image-to-472x709.html",
   "scope": "./resize-image-to-472x709.html",
   "display": "standalone",

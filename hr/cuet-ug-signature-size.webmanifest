@@ -2,7 +2,7 @@
   "name": "Loona Veličina CUET UG Potpis",
   "short_name": "Veličina CUET UG Potpis",
   "description": "Promijenite veličinu svoje CUET UG potpis na veličinu iz obavijesti (skenirani okvir, omjer oko 7:2) i pojas 4–30 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/cuet-ug-signature-size.html",
+  "id": "/hr/cuet-ug-signature-size.html",
   "start_url": "./cuet-ug-signature-size.html",
   "scope": "./cuet-ug-signature-size.html",
   "display": "standalone",

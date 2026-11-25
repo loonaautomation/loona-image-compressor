@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie pentru pașaportul Coreei de Sud",
   "short_name": "Dimensiune Fotografie pentru",
   "description": "Creează un Fotografie pentru pașaportul Coreei de Sud la dimensiunea oficială 35×45 mm (413×531 px), fundal alb simplu. Creator online gratuit — decupează, descarcă și imprimă foaia, fără încărcare.",
-  "id": "/loona-image-compressor/ro/south-korea-passport-photo-size.html",
+  "id": "/ro/south-korea-passport-photo-size.html",
   "start_url": "./south-korea-passport-photo-size.html",
   "scope": "./south-korea-passport-photo-size.html",
   "display": "standalone",

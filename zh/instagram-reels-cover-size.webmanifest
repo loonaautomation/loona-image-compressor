@@ -2,7 +2,7 @@
   "name": "Loona Instagram Reels 封面 尺寸",
   "short_name": "Instagram Reels 封面 尺寸",
   "description": "按精确的 1080×1920 px 制作 Instagram reels 封面。在浏览器中免费调整大小/裁剪，附有安全区规则，防止文字和面部被裁掉。",
-  "id": "/loona-image-compressor/zh/instagram-reels-cover-size.html",
+  "id": "/zh/instagram-reels-cover-size.html",
   "start_url": "./instagram-reels-cover-size.html",
   "scope": "./instagram-reels-cover-size.html",
   "display": "standalone",

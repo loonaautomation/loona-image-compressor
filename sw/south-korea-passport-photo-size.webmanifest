@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Pasipoti ya Korea Kusini",
   "short_name": "Ukubwa wa Picha ya Pasipoti",
   "description": "Tengeneza Picha ya Pasipoti ya Korea Kusini katika ukubwa rasmi wa milimita 35×45 (px 413×531), mandharinyuma ya nyeupe tambarare. Kitengenezaji bure cha mtandaoni — kata, pakua na uchapishe karatasi, bila kupakia.",
-  "id": "/loona-image-compressor/sw/south-korea-passport-photo-size.html",
+  "id": "/sw/south-korea-passport-photo-size.html",
   "start_url": "./south-korea-passport-photo-size.html",
   "scope": "./south-korea-passport-photo-size.html",
   "display": "standalone",

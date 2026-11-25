@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de GIF a PNG",
   "short_name": "Convertidor de GIF a PNG",
   "description": "Convierte GIF a PNG en línea gratis: una imagen fija limpia y sin pérdidas desde tu GIF. Basado en el navegador, sin registro, sin subir nada y sin marca de agua.",
-  "id": "/loona-image-compressor/es/gif-to-png.html",
+  "id": "/es/gif-to-png.html",
   "start_url": "./gif-to-png.html",
   "scope": "./gif-to-png.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Διαβατηρίου / Βίζας Τουρκίας (Βιομετρική)",
   "short_name": "Φωτογραφία Διαβατηρίου /",
   "description": "Δημιουργήστε Φωτογραφία Διαβατηρίου / Βίζας Τουρκίας (Βιομετρική) στο επίσημο μέγεθος 50×60 mm (591×709 px), φόντο απλό λευκό. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/turkey-passport-photo-size.html",
+  "id": "/el/turkey-passport-photo-size.html",
   "start_url": "./turkey-passport-photo-size.html",
   "scope": "./turkey-passport-photo-size.html",
   "display": "standalone",

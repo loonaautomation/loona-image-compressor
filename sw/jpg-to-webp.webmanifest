@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha JPG kuwa WebP",
   "short_name": "Kibadilishaji cha JPG kuwa",
   "description": "Badilisha JPG kuwa WebP mtandaoni bure na upunguze picha za tovuti kwa 25–40% kwa ubora uleule. Kwenye kivinjari chako — bila kujisajili, bila kupakia, bila alama ya maji.",
-  "id": "/loona-image-compressor/sw/jpg-to-webp.html",
+  "id": "/sw/jpg-to-webp.html",
   "start_url": "./jpg-to-webp.html",
   "scope": "./jpg-to-webp.html",
   "display": "standalone",

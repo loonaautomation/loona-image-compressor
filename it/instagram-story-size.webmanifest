@@ -2,7 +2,7 @@
   "name": "Loona Formato Storia Instagram",
   "short_name": "Formato Storia Instagram",
   "description": "Crea un storia Instagram esattamente di 1080×1920 px. Strumento gratuito di ridimensionamento e ritaglio nel tuo browser, con le regole della zona sicura che evitano testi e volti tagliati.",
-  "id": "/loona-image-compressor/it/instagram-story-size.html",
+  "id": "/it/instagram-story-size.html",
   "start_url": "./instagram-story-size.html",
   "scope": "./instagram-story-size.html",
   "display": "standalone",

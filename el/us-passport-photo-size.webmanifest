@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Διαβατηρίου ΗΠΑ",
   "short_name": "Φωτογραφία Διαβατηρίου ΗΠΑ",
   "description": "Δημιουργήστε Φωτογραφία Διαβατηρίου ΗΠΑ στο επίσημο μέγεθος 51×51 mm (600×600 px), φόντο απλό λευκό. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/us-passport-photo-size.html",
+  "id": "/el/us-passport-photo-size.html",
   "start_url": "./us-passport-photo-size.html",
   "scope": "./us-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona রঙ প্যালেট জেনারেটর",
   "short_name": "রঙ প্যালেট জেনারেটর",
   "description": "যেকোনো ভিত্তি রঙ থেকে সুরেলা রঙের প্যালেট তৈরি করুন — সদৃশ, পরিপূরক, ত্রয়ী ও একরঙা স্কিম, কপিযোগ্য HEX কোডসহ। বিনামূল্যে, কোনো সাইনআপ নয়।",
-  "id": "/loona-image-compressor/bn/color-palette-generator.html",
+  "id": "/bn/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",
   "scope": "./color-palette-generator.html",
   "display": "standalone",

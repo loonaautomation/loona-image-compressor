@@ -2,7 +2,7 @@
   "name": "Loona Velikost Pasová fotografie Kanady",
   "short_name": "Velikost Pasová fotografie",
   "description": "Vytvořte Pasová fotografie Kanady v oficiální velikosti 50×70 mm (591×827 px), pozadí: jednobarevné bílé nebo světle barevné. Bezplatný online tvůrce — oříznutí, stažení a tiskový arch, bez nahrávání.",
-  "id": "/loona-image-compressor/cs/canada-passport-photo-size.html",
+  "id": "/cs/canada-passport-photo-size.html",
   "start_url": "./canada-passport-photo-size.html",
   "scope": "./canada-passport-photo-size.html",
   "display": "standalone",

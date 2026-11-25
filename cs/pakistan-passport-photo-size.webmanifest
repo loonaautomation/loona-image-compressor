@@ -2,7 +2,7 @@
   "name": "Loona Velikost Pasová fotografie Pákistánu",
   "short_name": "Velikost Pasová fotografie",
   "description": "Vytvořte Pasová fotografie Pákistánu v oficiální velikosti 51×51 mm (600×600 px), pozadí: jednobarevné bílé. Bezplatný online tvůrce — oříznutí, stažení a tiskový arch, bez nahrávání.",
-  "id": "/loona-image-compressor/cs/pakistan-passport-photo-size.html",
+  "id": "/cs/pakistan-passport-photo-size.html",
   "start_url": "./pakistan-passport-photo-size.html",
   "scope": "./pakistan-passport-photo-size.html",
   "display": "standalone",

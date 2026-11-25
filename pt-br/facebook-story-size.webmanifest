@@ -2,7 +2,7 @@
   "name": "Loona Tamanho de História de Facebook",
   "short_name": "Tamanho de História de",
   "description": "Crie um elemento história de Facebook com exatamente 1080×1920 px. Redimensionador/recortador gratuito no seu navegador, com as regras de zona segura que evitam textos e rostos cortados.",
-  "id": "/loona-image-compressor/pt-br/facebook-story-size.html",
+  "id": "/pt-br/facebook-story-size.html",
   "start_url": "./facebook-story-size.html",
   "scope": "./facebook-story-size.html",
   "display": "standalone",

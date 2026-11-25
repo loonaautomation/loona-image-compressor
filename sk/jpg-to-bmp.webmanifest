@@ -2,7 +2,7 @@
   "name": "Loona Prevodník JPG na BMP",
   "short_name": "Prevodník JPG na BMP",
   "description": "Preveďte JPG na BMP online, zadarmo, vo svojom prehliadači. Skutočný prevod vo vašom zariadení — bez nahrávania, bez registrácie, bez vodoznakov.",
-  "id": "/loona-image-compressor/sk/jpg-to-bmp.html",
+  "id": "/sk/jpg-to-bmp.html",
   "start_url": "./jpg-to-bmp.html",
   "scope": "./jpg-to-bmp.html",
   "display": "standalone",

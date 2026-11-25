@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) Link Card Image Size — 1200 × 628 px",
   "short_name": "X (Twitter) Link Card Image Size — 1200 × 628 px",
   "description": "Make a X (Twitter) link card image at exactly 1200×628 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/en-gb/x-link-card-size.html",
+  "id": "/en-gb/x-link-card-size.html",
   "start_url": "./x-link-card-size.html",
   "scope": "./x-link-card-size.html",
   "display": "standalone",

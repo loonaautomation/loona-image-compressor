@@ -2,7 +2,7 @@
   "name": "Loona Ändra bildstorlek till 750 × 1050 px online",
   "short_name": "Ändra bildstorlek till 750 ×",
   "description": "Ändra storlek på valfri bild till exakt 750×1050 px — Plånboksstorlek — 2.5 × 3.5 tum vid 300 DPI. Gratis i din webbläsare med beskärningskontroll; ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/resize-image-to-750x1050.html",
+  "id": "/sv/resize-image-to-750x1050.html",
   "start_url": "./resize-image-to-750x1050.html",
   "scope": "./resize-image-to-750x1050.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kompres WebP ke 2000 KB Online",
   "short_name": "Kompres WebP ke 2000 KB Online",
   "description": "Kompres gambar WebP ke 2000 KB atau kurang, gratis di browser Anda. Pencarian otomatis menemukan kualitas terbaik yang muat — tanpa pendaftaran, tanpa unggah.",
-  "id": "/loona-image-compressor/id/compress-webp-to-2000kb.html",
+  "id": "/id/compress-webp-to-2000kb.html",
   "start_url": "./compress-webp-to-2000kb.html",
   "scope": "./compress-webp-to-2000kb.html",
   "display": "standalone",

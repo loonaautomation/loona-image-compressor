@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายวีซ่าซาอุดีอาระเบีย",
   "short_name": "ขนาดรูปถ่ายวีซ่าซาอุดีอาระเบีย",
   "description": "ทำรูปถ่ายวีซ่าซาอุดีอาระเบียที่ขนาดอย่างเป็นทางการ 40×60 mm (472×709 px) พื้นหลังขาวเรียบ เครื่องทำรูปออนไลน์ฟรี — ครอบตัด ดาวน์โหลด และแผ่นพิมพ์ ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/saudi-visa-photo-size.html",
+  "id": "/th/saudi-visa-photo-size.html",
   "start_url": "./saudi-visa-photo-size.html",
   "scope": "./saudi-visa-photo-size.html",
   "display": "standalone",

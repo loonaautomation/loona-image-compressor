@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Pasipoti / Kitambulisho ya Ufaransa",
   "short_name": "Ukubwa wa Picha ya Pasipoti /",
   "description": "Tengeneza Picha ya Pasipoti / Kitambulisho ya Ufaransa katika ukubwa rasmi wa milimita 35×45 (px 413×531), mandharinyuma ya kijivu chepesi tambarare au buluu nyepesi. Kitengenezaji bure cha mtandaoni — kata, pakua na uchapishe karatasi, bila kupakia.",
-  "id": "/loona-image-compressor/sw/france-passport-photo-size.html",
+  "id": "/sw/france-passport-photo-size.html",
   "start_url": "./france-passport-photo-size.html",
   "scope": "./france-passport-photo-size.html",
   "display": "standalone",

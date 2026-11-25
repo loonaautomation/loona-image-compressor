@@ -2,7 +2,7 @@
   "name": "Loona Redimensionează imaginea la 354 × 472 px online",
   "short_name": "Redimensionează imaginea la",
   "description": "Redimensionează orice imagine la exact 354×472 px — 30 × 40 mm la 300 DPI — dimensiunea documentelor Iran/Columbia. Gratuit în browserul tău, cu control al decupării; fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/resize-image-to-354x472.html",
+  "id": "/ro/resize-image-to-354x472.html",
   "start_url": "./resize-image-to-354x472.html",
   "scope": "./resize-image-to-354x472.html",
   "display": "standalone",

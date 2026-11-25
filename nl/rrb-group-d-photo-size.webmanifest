@@ -2,7 +2,7 @@
   "name": "Loona Formaat RRB Group D (Railways) Foto",
   "short_name": "Formaat RRB Group D",
   "description": "Pas je RRB Group D (Railways)-foto aan naar het formaat uit de aankondiging (320 × 240 px) en de band van 30–70 KB. Gratis, in je browser — geen upload, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/rrb-group-d-photo-size.html",
+  "id": "/nl/rrb-group-d-photo-size.html",
   "start_url": "./rrb-group-d-photo-size.html",
   "scope": "./rrb-group-d-photo-size.html",
   "display": "standalone",

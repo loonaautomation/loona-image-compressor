@@ -2,7 +2,7 @@
   "name": "Loona Comprimeer WebP tot 10 KB online",
   "short_name": "Comprimeer WebP tot 10 KB",
   "description": "Comprimeer een WebP-afbeelding gratis in je browser tot 10 KB of kleiner. De automatische zoekfunctie vindt de beste kwaliteit die past — geen aanmelding, geen upload.",
-  "id": "/loona-image-compressor/nl/compress-webp-to-10kb.html",
+  "id": "/nl/compress-webp-to-10kb.html",
   "start_url": "./compress-webp-to-10kb.html",
   "scope": "./compress-webp-to-10kb.html",
   "display": "standalone",

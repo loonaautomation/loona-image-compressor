@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Tanda Tangan JEE Main",
   "short_name": "Ukuran Tanda Tangan JEE Main",
   "description": "Ubah ukuran tanda tangan JEE Main Anda ke ukuran pemberitahuan (kotak pindaian, rasio sekitar 7:2) dan rentang 4–30 KB. Gratis, di browser Anda — tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/jee-main-signature-size.html",
+  "id": "/id/jee-main-signature-size.html",
   "start_url": "./jee-main-signature-size.html",
   "scope": "./jee-main-signature-size.html",
   "display": "standalone",

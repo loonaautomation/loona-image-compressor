@@ -2,7 +2,7 @@
   "name": "Loona Fotofilters &amp; fix",
   "short_name": "Fotofilters &amp; fix",
   "description": "Herstel foto's gratis online: pas helderheid, contrast en verzadiging aan, verscherp met één klik en gebruik kant-en-klare voorinstellingen zoals Pasfoto-fix en Levendig.",
-  "id": "/loona-image-compressor/nl/photo-filters-editor.html",
+  "id": "/nl/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

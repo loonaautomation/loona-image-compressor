@@ -2,7 +2,7 @@
   "name": "Loona Instagram Reels कवर साइज़",
   "short_name": "Instagram Reels कवर साइज़",
   "description": "Instagram reels कवर ठीक 1080×1920 px पर बनाएँ. आपके ब्राउज़र में मुफ़्त रीसाइज़र/क्रॉपर, उन सेफ़-ज़ोन नियमों के साथ जो क्रॉप हुए टेक्स्ट और चेहरों को रोकते हैं.",
-  "id": "/loona-image-compressor/hi/instagram-reels-cover-size.html",
+  "id": "/hi/instagram-reels-cover-size.html",
   "start_url": "./instagram-reels-cover-size.html",
   "scope": "./instagram-reels-cover-size.html",
   "display": "standalone",

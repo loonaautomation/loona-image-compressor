@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Poveste Facebook",
   "short_name": "Dimensiune Poveste Facebook",
   "description": "Creează un poveste Facebook la exact 1080×1920 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/facebook-story-size.html",
+  "id": "/ro/facebook-story-size.html",
   "start_url": "./facebook-story-size.html",
   "scope": "./facebook-story-size.html",
   "display": "standalone",

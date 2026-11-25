@@ -2,7 +2,7 @@
   "name": "Loona Compress PNG to 20 KB Online",
   "short_name": "Compress PNG to 20 KB Online",
   "description": "Compress a PNG image to 20 KB or under, free in your browser. Automatic search finds the best quality that fits — no signup, no upload.",
-  "id": "/loona-image-compressor/compress-png-to-20kb.html",
+  "id": "/compress-png-to-20kb.html",
   "start_url": "./compress-png-to-20kb.html",
   "scope": "./compress-png-to-20kb.html",
   "display": "standalone",

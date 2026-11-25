@@ -2,7 +2,7 @@
   "name": "Loona Facebook Eseményborító méret",
   "short_name": "Facebook Eseményborító méret",
   "description": "Készítsen Facebook eseményborító képet pontosan 1920×1005 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/facebook-event-cover-size.html",
+  "id": "/hu/facebook-event-cover-size.html",
   "start_url": "./facebook-event-cover-size.html",
   "scope": "./facebook-event-cover-size.html",
   "display": "standalone",

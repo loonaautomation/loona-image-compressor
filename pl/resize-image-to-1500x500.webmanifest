@@ -2,7 +2,7 @@
   "name": "Loona Zmień rozmiar obrazu na 1500 × 500",
   "short_name": "Zmień rozmiar obrazu na 1500",
   "description": "Zmień rozmiar dowolnego obrazu dokładnie do 1500 × 500 pikseli (X (Twitter) profile headers and wide banners) za darmo. Wypełnij, dopasuj lub rozciągnij, JPG lub PNG, pobierz od razu — bez rejestracji, nic nie jest przesyłane.",
-  "id": "/loona-image-compressor/pl/resize-image-to-1500x500.html",
+  "id": "/pl/resize-image-to-1500x500.html",
   "start_url": "./resize-image-to-1500x500.html",
   "scope": "./resize-image-to-1500x500.html",
   "display": "standalone",

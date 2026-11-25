@@ -2,7 +2,7 @@
   "name": "Loona TikTok 照片帖子（方形） 尺寸",
   "short_name": "TikTok 照片帖子（方形） 尺寸",
   "description": "按精确的 1080×1080 px 制作 TikTok 照片帖子（方形）。在浏览器中免费调整大小/裁剪，附有安全区规则，防止文字和面部被裁掉。",
-  "id": "/loona-image-compressor/zh/tiktok-photo-post-square-size.html",
+  "id": "/zh/tiktok-photo-post-square-size.html",
   "start_url": "./tiktok-photo-post-square-size.html",
   "scope": "./tiktok-photo-post-square-size.html",
   "display": "standalone",

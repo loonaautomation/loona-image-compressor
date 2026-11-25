@@ -2,7 +2,7 @@
   "name": "Loona Размер на Заглавка / Банер за X (Twitter)",
   "short_name": "Размер на Заглавка / Банер за",
   "description": "Направете заглавка / банер за X (Twitter) на точно 1500×500 px. Безплатен инструмент за преоразмеряване/изрязване във вашия браузър с правилата за безопасната зона, които спират изрязване на текст и лица.",
-  "id": "/loona-image-compressor/bg/x-header-size.html",
+  "id": "/bg/x-header-size.html",
   "start_url": "./x-header-size.html",
   "scope": "./x-header-size.html",
   "display": "standalone",

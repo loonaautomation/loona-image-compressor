@@ -2,7 +2,7 @@
   "name": "Loona Veličina Fotografija za putovnicu / vizu Vijetnama",
   "short_name": "Veličina Fotografija za",
   "description": "Izradite Fotografija za putovnicu / vizu Vijetnama u službenoj veličini 40×60 mm (472×709 px), pozadina jednobojna bijela. Besplatni mrežni izrađivač — izrežite, preuzmite i ispišite list, bez prijenosa.",
-  "id": "/loona-image-compressor/hr/vietnam-passport-photo-size.html",
+  "id": "/hr/vietnam-passport-photo-size.html",
   "start_url": "./vietnam-passport-photo-size.html",
   "scope": "./vietnam-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generator palete boja",
   "short_name": "Generator palete boja",
   "description": "Generirajte skladne palete boja iz bilo koje osnovne boje — analogne, komplementarne, trijadne i monokromatske sheme s HEX kodovima za kopiranje. Besplatno, bez registracije.",
-  "id": "/loona-image-compressor/hr/color-palette-generator.html",
+  "id": "/hr/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",
   "scope": "./color-palette-generator.html",
   "display": "standalone",

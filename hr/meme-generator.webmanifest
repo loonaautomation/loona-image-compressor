@@ -2,7 +2,7 @@
   "name": "Loona Generator memova",
   "short_name": "Generator memova",
   "description": "Pretvorite bilo koju fotografiju u klasični meme s masnim gornjim i donjim tekstom — besplatni mrežni generator memova s pregledom uživo, opcijama jednobojne pozadine i PNG preuzimanjem. Bez registracije, a vaša slika nikada ne napušta vaš uređaj.",
-  "id": "/loona-image-compressor/hr/meme-generator.html",
+  "id": "/hr/meme-generator.html",
   "start_url": "./meme-generator.html",
   "scope": "./meme-generator.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kuvan taustanvaihtaja",
   "short_name": "Kuvan taustanvaihtaja",
   "description": "Vaihda kuvan tausta valkoiseksi, siniseksi, vaaleanharmaaksi tai punaiseksi ilmaiseksi verkossa. Tulvatäyttö- ja sivellintyökalut, yksityinen selaimessasi, ei tekoälylatausta.",
-  "id": "/loona-image-compressor/fi/photo-background-changer.html",
+  "id": "/fi/photo-background-changer.html",
   "start_url": "./photo-background-changer.html",
   "scope": "./photo-background-changer.html",
   "display": "standalone",

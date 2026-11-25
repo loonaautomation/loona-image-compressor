@@ -2,7 +2,7 @@
   "name": "Loona Poista kuvan metatiedot",
   "short_name": "Poista kuvan metatiedot",
   "description": "Poista EXIF-, GPS-sijainti-, XMP- ja IPTC-metatiedot JPG-, PNG- ja WebP-kuvista verkossa ilmaiseksi. Tavutason poisto — pikseleitä ei koskaan koodata uudelleen, joten laatu pysyy koskemattomana. Varmistettu uudelleentarkistuksella, 100 % yksityinen selaimessasi.",
-  "id": "/loona-image-compressor/fi/remove-image-metadata.html",
+  "id": "/fi/remove-image-metadata.html",
   "start_url": "./remove-image-metadata.html",
   "scope": "./remove-image-metadata.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona فوٹو انہانسر",
   "short_name": "فوٹو انہانسر",
   "description": "تصویر آن لائن مفت بہتر بنائیں: ایک کلک خودکار بہتری، نرم تصاویر تیز کریں، شور نرمی سے صاف کریں اور 2x یا 4x تک بڑا کریں۔ ایماندارانہ نتائج، نہ سائن اپ، اور آپ کی تصویر کبھی آپ کے ڈیوائس سے باہر نہیں جاتی۔",
-  "id": "/loona-image-compressor/ur/image-enhancer.html",
+  "id": "/ur/image-enhancer.html",
   "start_url": "./image-enhancer.html",
   "scope": "./image-enhancer.html",
   "display": "standalone",

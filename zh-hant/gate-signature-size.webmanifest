@@ -2,7 +2,7 @@
   "name": "Loona GATE 簽名尺寸",
   "short_name": "GATE 簽名尺寸",
   "description": "將您的 GATE 簽名調整為通知規定的尺寸（掃描框，比例約 7:2）和 3–100 KB 範圍。免費，在您的瀏覽器中完成 — 無需上傳，無需註冊。",
-  "id": "/loona-image-compressor/zh-hant/gate-signature-size.html",
+  "id": "/zh-hant/gate-signature-size.html",
   "start_url": "./gate-signature-size.html",
   "scope": "./gate-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Pin standard Pinterest",
   "short_name": "Dimensiune Pin standard",
   "description": "Creează un pin standard Pinterest la exact 1000×1500 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/pinterest-pin-size.html",
+  "id": "/ro/pinterest-pin-size.html",
   "start_url": "./pinterest-pin-size.html",
   "scope": "./pinterest-pin-size.html",
   "display": "standalone",

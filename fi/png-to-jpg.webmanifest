@@ -2,7 +2,7 @@
   "name": "Loona PNG-JPG-muunnin",
   "short_name": "PNG-JPG-muunnin",
   "description": "Muunna PNG JPG:ksi verkossa ilmaiseksi. Pienemmät tiedostot lomakkeille, sähköpostiin ja verkkosivustoille, suoraan selaimessasi — ei rekisteröitymistä, ei latausta palvelimelle, ei vesileimaa.",
-  "id": "/loona-image-compressor/fi/png-to-jpg.html",
+  "id": "/fi/png-to-jpg.html",
   "start_url": "./png-to-jpg.html",
   "scope": "./png-to-jpg.html",
   "display": "standalone",

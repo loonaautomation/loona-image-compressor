@@ -2,7 +2,7 @@
   "name": "Loona Resize Image to 1920 × 1080",
   "short_name": "Resize Image to 1920 × 1080",
   "description": "Resize any image to exactly 1920 × 1080 pixels (Full HD screens, desktop wallpapers and YouTube end screens) for free. Cover, contain or stretch, JPG or PNG, download instantly — no signup, nothing uploaded.",
-  "id": "/loona-image-compressor/en-gb/resize-image-to-1920x1080.html",
+  "id": "/en-gb/resize-image-to-1920x1080.html",
   "start_url": "./resize-image-to-1920x1080.html",
   "scope": "./resize-image-to-1920x1080.html",
   "display": "standalone",

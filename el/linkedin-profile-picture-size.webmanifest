@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Προφίλ LinkedIn",
   "short_name": "Φωτογραφία Προφίλ LinkedIn",
   "description": "Δημιουργήστε ένα φωτογραφία προφίλ LinkedIn σε ακριβώς 400×400 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/linkedin-profile-picture-size.html",
+  "id": "/el/linkedin-profile-picture-size.html",
   "start_url": "./linkedin-profile-picture-size.html",
   "scope": "./linkedin-profile-picture-size.html",
   "display": "standalone",

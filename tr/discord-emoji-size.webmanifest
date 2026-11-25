@@ -2,7 +2,7 @@
   "name": "Loona Discord Özel Emoji Boyutu — 128×128 px",
   "short_name": "Discord Özel Emoji Boyutu — 128×128 px",
   "description": "Tam olarak 128×128 px ölçüsünde bir Discord özel emoji oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/discord-emoji-size.html",
+  "id": "/tr/discord-emoji-size.html",
   "start_url": "./discord-emoji-size.html",
   "scope": "./discord-emoji-size.html",
   "display": "standalone",

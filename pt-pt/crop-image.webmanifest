@@ -2,7 +2,7 @@
   "name": "Loona Recortar Imagem Online Grátis",
   "short_name": "Recortar Imagem Online Grátis",
   "description": "Recorte imagens online gratuitamente com proporções prontas — 1:1, 4:3, 16:9 e passaporte 35×45 — mais rodar e inverter. Transfira o recorte exato com a resolução completa.",
-  "id": "/loona-image-compressor/pt-pt/crop-image.html",
+  "id": "/pt-pt/crop-image.html",
   "start_url": "./crop-image.html",
   "scope": "./crop-image.html",
   "display": "standalone",

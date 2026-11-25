@@ -2,7 +2,7 @@
   "name": "Loona Розмір Пін ідеї / Історія Pinterest",
   "short_name": "Розмір Пін ідеї / Історія",
   "description": "Зробіть пін ідеї / історія для Pinterest рівно 1080×1920 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/pinterest-idea-pin-size.html",
+  "id": "/uk/pinterest-idea-pin-size.html",
   "start_url": "./pinterest-idea-pin-size.html",
   "scope": "./pinterest-idea-pin-size.html",
   "display": "standalone",

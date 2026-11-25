@@ -2,7 +2,7 @@
   "name": "Loona シェンゲンビザ写真のサイズ",
   "short_name": "シェンゲンビザ写真のサイズ",
   "description": "公式サイズ35×45 mm（413×531 px）、明るいグレーまたは無地の明るい背景の背景でシェンゲンビザ写真を作成できます。無料のオンライン作成ツール — 切り取り、ダウンロード、印刷シートまで、アップロード不要です。",
-  "id": "/loona-image-compressor/ja/schengen-visa-photo-size.html",
+  "id": "/ja/schengen-visa-photo-size.html",
   "start_url": "./schengen-visa-photo-size.html",
   "scope": "./schengen-visa-photo-size.html",
   "display": "standalone",

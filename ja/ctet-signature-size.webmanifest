@@ -2,7 +2,7 @@
   "name": "Loona CTETの署名サイズ",
   "short_name": "CTETの署名サイズ",
   "description": "CTETの署名を告知サイズ（スキャンしたボックス、比率は約7:2）と3–30 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
-  "id": "/loona-image-compressor/ja/ctet-signature-size.html",
+  "id": "/ja/ctet-signature-size.html",
   "start_url": "./ctet-signature-size.html",
   "scope": "./ctet-signature-size.html",
   "display": "standalone",

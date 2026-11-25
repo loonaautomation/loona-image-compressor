@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας BMP σε WEBP",
   "short_name": "Μετατροπέας BMP σε WEBP",
   "description": "Μετατρέψτε BMP σε WEBP online, δωρεάν, στο πρόγραμμα περιήγησής σας. Πραγματική μετατροπή στη συσκευή σας — χωρίς μεταφόρτωση, χωρίς εγγραφή, χωρίς υδατογραφήματα.",
-  "id": "/loona-image-compressor/el/bmp-to-webp.html",
+  "id": "/el/bmp-to-webp.html",
   "start_url": "./bmp-to-webp.html",
   "scope": "./bmp-to-webp.html",
   "display": "standalone",

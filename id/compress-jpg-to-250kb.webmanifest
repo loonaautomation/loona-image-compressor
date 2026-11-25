@@ -2,7 +2,7 @@
   "name": "Loona Kompres JPG ke 250 KB Online",
   "short_name": "Kompres JPG ke 250 KB Online",
   "description": "Kompres gambar JPG ke 250 KB atau kurang, gratis di browser Anda. Pencarian otomatis menemukan kualitas terbaik yang muat — tanpa pendaftaran, tanpa unggah.",
-  "id": "/loona-image-compressor/id/compress-jpg-to-250kb.html",
+  "id": "/id/compress-jpg-to-250kb.html",
   "start_url": "./compress-jpg-to-250kb.html",
   "scope": "./compress-jpg-to-250kb.html",
   "display": "standalone",

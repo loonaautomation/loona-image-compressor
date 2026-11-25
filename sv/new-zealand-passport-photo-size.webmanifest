@@ -2,7 +2,7 @@
   "name": "Loona Nyzeeländskt passfoto storlek",
   "short_name": "Nyzeeländskt passfoto storlek",
   "description": "Skapa ett Nyzeeländskt passfoto i den officiella storleken 35×45 mm (413×531 px), slät, ljus, neutral bakgrund (vägledning: inte rent vit) bakgrund. Gratis onlineskapare — beskär, ladda ner och skriv ut ark, ingen uppladdning.",
-  "id": "/loona-image-compressor/sv/new-zealand-passport-photo-size.html",
+  "id": "/sv/new-zealand-passport-photo-size.html",
   "start_url": "./new-zealand-passport-photo-size.html",
   "scope": "./new-zealand-passport-photo-size.html",
   "display": "standalone",

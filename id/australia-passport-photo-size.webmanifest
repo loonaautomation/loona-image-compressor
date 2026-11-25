@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Paspor Australia",
   "short_name": "Ukuran Foto Paspor Australia",
   "description": "Buat Foto Paspor Australia pada ukuran resmi 35×45 mm (413×531 px), latar belakang putih polos atau abu-abu muda. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/australia-passport-photo-size.html",
+  "id": "/id/australia-passport-photo-size.html",
   "start_url": "./australia-passport-photo-size.html",
   "scope": "./australia-passport-photo-size.html",
   "display": "standalone",

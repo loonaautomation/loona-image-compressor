@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปโปรไฟล์ LinkedIn",
   "short_name": "ขนาดรูปโปรไฟล์ LinkedIn",
   "description": "ทำรูปโปรไฟล์ LinkedIn ที่ขนาด 400×400 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/linkedin-profile-picture-size.html",
+  "id": "/th/linkedin-profile-picture-size.html",
   "start_url": "./linkedin-profile-picture-size.html",
   "scope": "./linkedin-profile-picture-size.html",
   "display": "standalone",

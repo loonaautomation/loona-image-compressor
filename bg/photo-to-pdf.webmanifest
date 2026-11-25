@@ -2,7 +2,7 @@
   "name": "Loona Конвертор от снимка в PDF",
   "short_name": "Конвертор от снимка в PDF",
   "description": "Превърнете снимки в PDF онлайн безплатно: добавете изображения JPG, PNG или WebP, изберете страници A4, Letter или по размера на изображението и изтеглете един подреден PDF. Без качвания.",
-  "id": "/loona-image-compressor/bg/photo-to-pdf.html",
+  "id": "/bg/photo-to-pdf.html",
   "start_url": "./photo-to-pdf.html",
   "scope": "./photo-to-pdf.html",
   "display": "standalone",

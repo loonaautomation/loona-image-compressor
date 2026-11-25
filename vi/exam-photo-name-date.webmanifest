@@ -2,7 +2,7 @@
   "name": "Loona Ảnh kỳ thi kèm tên &amp; ngày",
   "short_name": "Ảnh kỳ thi kèm tên &amp; ngày",
   "description": "Tạo ảnh kỳ thi với tên và ngày của bạn in ở phía dưới miễn phí — định dạng thi hội đồng được dùng ở Pakistan và Ấn Độ. Riêng tư, không cần đăng ký.",
-  "id": "/loona-image-compressor/vi/exam-photo-name-date.html",
+  "id": "/vi/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

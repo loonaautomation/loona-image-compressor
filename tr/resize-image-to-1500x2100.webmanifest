@@ -2,7 +2,7 @@
   "name": "Loona Görüntüyü 1500 × 2100 px Boyutuna Çevrimiçi Getir — Ücretsiz",
   "short_name": "Görüntüyü 1500 × 2100 px Boyutuna Çevrimiçi Getir — Ücretsiz",
   "description": "Herhangi bir görüntüyü tam olarak 1500×2100 px boyutuna getirin — 5 × 7 inç fotoğraf baskısı, 300 DPI&#x27;da. Kırpma kontrolüyle tarayıcınızda ücretsiz; yükleme yok, kayıt yok.",
-  "id": "/loona-image-compressor/tr/resize-image-to-1500x2100.html",
+  "id": "/tr/resize-image-to-1500x2100.html",
   "start_url": "./resize-image-to-1500x2100.html",
   "scope": "./resize-image-to-1500x2100.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת ויזה לארה&quot;ב (DS-160)",
   "short_name": "גודל תמונת ויזה לארה&quot;ב",
   "description": "צרו תמונת ויזה לארה&quot;ב (DS-160) בגודל הרשמי 51×51 מ&quot;מ (600×600 px), רקע לבן חלק. כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/us-visa-photo-size.html",
+  "id": "/he/us-visa-photo-size.html",
   "start_url": "./us-visa-photo-size.html",
   "scope": "./us-visa-photo-size.html",
   "display": "standalone",

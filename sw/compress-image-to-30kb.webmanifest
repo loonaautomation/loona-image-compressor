@@ -2,7 +2,7 @@
   "name": "Loona Bana Picha hadi KB 30 Mtandaoni",
   "short_name": "Bana Picha hadi KB 30",
   "description": "Bana picha za JPG, PNG na WebP hadi KB 30 au chini, mtandaoni na bure. Utafutaji otomatiki wa ubora na ukubwa kwenye kivinjari chako — bila kujisajili, bila kupakia.",
-  "id": "/loona-image-compressor/sw/compress-image-to-30kb.html",
+  "id": "/sw/compress-image-to-30kb.html",
   "start_url": "./compress-image-to-30kb.html",
   "scope": "./compress-image-to-30kb.html",
   "display": "standalone",

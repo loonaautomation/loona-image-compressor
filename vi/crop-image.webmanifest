@@ -2,7 +2,7 @@
   "name": "Loona Cắt ảnh trực tuyến miễn phí",
   "short_name": "Cắt ảnh trực tuyến miễn phí",
   "description": "Cắt ảnh trực tuyến miễn phí với các tỷ lệ có sẵn — 1:1, 4:3, 16:9 và hộ chiếu 35×45 — cộng thêm xoay và lật. Tải xuống vùng cắt chính xác ở độ phân giải đầy đủ.",
-  "id": "/loona-image-compressor/vi/crop-image.html",
+  "id": "/vi/crop-image.html",
   "start_url": "./crop-image.html",
   "scope": "./crop-image.html",
   "display": "standalone",

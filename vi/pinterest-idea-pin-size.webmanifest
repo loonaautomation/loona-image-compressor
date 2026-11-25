@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ghim ý tưởng / Tin Pinterest",
   "short_name": "Kích thước Ghim ý tưởng / Tin",
   "description": "Tạo ghim ý tưởng / tin Pinterest chính xác 1080×1920 px. Công cụ thay đổi kích thước/cắt ảnh miễn phí trong trình duyệt của bạn, kèm các quy tắc vùng an toàn giúp văn bản và khuôn mặt không bị cắt mất.",
-  "id": "/loona-image-compressor/vi/pinterest-idea-pin-size.html",
+  "id": "/vi/pinterest-idea-pin-size.html",
   "start_url": "./pinterest-idea-pin-size.html",
   "scope": "./pinterest-idea-pin-size.html",
   "display": "standalone",

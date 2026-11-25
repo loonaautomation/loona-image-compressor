@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายวีซ่าเชงเก้น",
   "short_name": "ขนาดรูปถ่ายวีซ่าเชงเก้น",
   "description": "ทำรูปถ่ายวีซ่าเชงเก้นที่ขนาดอย่างเป็นทางการ 35×45 mm (413×531 px) พื้นหลังเทาอ่อนหรือพื้นหลังสีอ่อนเรียบ เครื่องทำรูปออนไลน์ฟรี — ครอบตัด ดาวน์โหลด และแผ่นพิมพ์ ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/schengen-visa-photo-size.html",
+  "id": "/th/schengen-visa-photo-size.html",
   "start_url": "./schengen-visa-photo-size.html",
   "scope": "./schengen-visa-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Afbeelding verkleinen/vergroten naar 3840 × 2160 px online",
   "short_name": "Afbeelding",
   "description": "Pas elke afbeelding aan naar precies 3840×2160 px — Achtergrond / videoframe 4K UHD. Gratis in je browser met bijsnijdcontrole; geen upload, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/resize-image-to-3840x2160.html",
+  "id": "/nl/resize-image-to-3840x2160.html",
   "start_url": "./resize-image-to-3840x2160.html",
   "scope": "./resize-image-to-3840x2160.html",
   "display": "standalone",

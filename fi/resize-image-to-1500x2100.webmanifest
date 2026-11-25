@@ -2,7 +2,7 @@
   "name": "Loona Muuta kuvan koko kokoon 1500 × 2100 px verkossa",
   "short_name": "Muuta kuvan koko kokoon 1500",
   "description": "Muuta minkä tahansa kuvan koko tarkalleen kokoon 1500×2100 px — 5 × 7 tuuman valokuvatuloste tarkkuudella 300 DPI. Ilmaiseksi selaimessasi rajausohjauksella; ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/resize-image-to-1500x2100.html",
+  "id": "/fi/resize-image-to-1500x2100.html",
   "start_url": "./resize-image-to-1500x2100.html",
   "scope": "./resize-image-to-1500x2100.html",
   "display": "standalone",

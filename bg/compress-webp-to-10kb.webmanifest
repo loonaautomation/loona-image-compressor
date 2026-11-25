@@ -2,7 +2,7 @@
   "name": "Loona Компресиране на WebP до 10 KB онлайн",
   "short_name": "Компресиране на WebP до 10 KB",
   "description": "Компресирайте изображение WebP до 10 KB или по-малко, безплатно във вашия браузър. Автоматичното търсене намира най-доброто качество, което се побира — без регистрация, без качване.",
-  "id": "/loona-image-compressor/bg/compress-webp-to-10kb.html",
+  "id": "/bg/compress-webp-to-10kb.html",
   "start_url": "./compress-webp-to-10kb.html",
   "scope": "./compress-webp-to-10kb.html",
   "display": "standalone",

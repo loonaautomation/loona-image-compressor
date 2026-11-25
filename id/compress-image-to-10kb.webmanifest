@@ -2,7 +2,7 @@
   "name": "Loona Kompres Gambar ke 10 KB Online",
   "short_name": "Kompres Gambar ke 10 KB Online",
   "description": "Kompres gambar JPG, PNG, dan WebP ke 10 KB atau kurang, online dan gratis. Pencarian kualitas dan ukuran otomatis di browser Anda — tanpa pendaftaran, tanpa unggahan.",
-  "id": "/loona-image-compressor/id/compress-image-to-10kb.html",
+  "id": "/id/compress-image-to-10kb.html",
   "start_url": "./compress-image-to-10kb.html",
   "scope": "./compress-image-to-10kb.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kép átméretezése 1500 × 500 méretre",
   "short_name": "Kép átméretezése 1500 × 500",
   "description": "Méretezzen át bármilyen képet pontosan 1500 × 500 pixelre (X (Twitter) profilfejlécek és széles bannerek) ingyen. Befedés, befoglalás vagy nyújtás, JPG vagy PNG, azonnali letöltés — regisztráció nélkül, semmi feltöltve.",
-  "id": "/loona-image-compressor/hu/resize-image-to-1500x500.html",
+  "id": "/hu/resize-image-to-1500x500.html",
   "start_url": "./resize-image-to-1500x500.html",
   "scope": "./resize-image-to-1500x500.html",
   "display": "standalone",

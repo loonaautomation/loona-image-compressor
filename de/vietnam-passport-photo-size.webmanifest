@@ -2,7 +2,7 @@
   "name": "Loona Vietnam-Pass-/Visumfoto Größe",
   "short_name": "Vietnam-Pass-/Visumfoto Größe",
   "description": "Erstellen Sie ein Vietnam-Pass-/Visumfoto in der offiziellen Größe 40×60 mm (472×709 px), Hintergrund einfarbig weiß. Kostenloser Online-Ersteller — zuschneiden, herunterladen und Druckbogen, ohne Upload.",
-  "id": "/loona-image-compressor/de/vietnam-passport-photo-size.html",
+  "id": "/de/vietnam-passport-photo-size.html",
   "start_url": "./vietnam-passport-photo-size.html",
   "scope": "./vietnam-passport-photo-size.html",
   "display": "standalone",

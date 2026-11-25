@@ -2,7 +2,7 @@
   "name": "Loona ICAO معیاری پاسپورٹ تصویر (35×45 mm) کی تصویر کا سائز",
   "short_name": "ICAO معیاری پاسپورٹ تصویر",
   "description": "سرکاری سائز 35×45 mm (413×531 px) پر ICAO معیاری پاسپورٹ تصویر (35×45 mm) بنائیں، سادہ ہلکا پس منظر پس منظر کے ساتھ۔ مفت آن لائن میکر — کراپ، ڈاؤن لوڈ اور پرنٹ شیٹ، بغیر اپ لوڈ۔",
-  "id": "/loona-image-compressor/ur/icao-passport-photo-size.html",
+  "id": "/ur/icao-passport-photo-size.html",
   "start_url": "./icao-passport-photo-size.html",
   "scope": "./icao-passport-photo-size.html",
   "display": "standalone",

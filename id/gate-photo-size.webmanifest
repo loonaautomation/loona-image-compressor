@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto GATE",
   "short_name": "Ukuran Foto GATE",
   "description": "Ubah ukuran foto GATE Anda ke ukuran pemberitahuan (480 × 640 px) dan rentang 5–200 KB. Gratis, di browser Anda — tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/gate-photo-size.html",
+  "id": "/id/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

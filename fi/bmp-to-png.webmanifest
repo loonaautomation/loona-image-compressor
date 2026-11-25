@@ -2,7 +2,7 @@
   "name": "Loona BMP-PNG-muunnin",
   "short_name": "BMP-PNG-muunnin",
   "description": "Muunna BMP PNG:ksi verkossa ilmaiseksi — häviötön, paljon pienempi kuin BMP ja tuettu kaikkialla. Toimii selaimessasi, ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-image-compressor/fi/bmp-to-png.html",
+  "id": "/fi/bmp-to-png.html",
   "start_url": "./bmp-to-png.html",
   "scope": "./bmp-to-png.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Görüntüyü Çevrimiçi Ücretsiz Kırp – Herhangi Bir Oran, Döndür &amp; Çevir",
   "short_name": "Görüntüyü Çevrimiçi Ücretsiz Kırp – Herhangi Bir Oran, Döndür &amp; Çevir",
   "description": "Görüntüleri hazır oranlarla çevrimiçi ücretsiz kırpın — 1:1, 4:3, 16:9 ve pasaport 35×45 — artı döndürme ve çevirme. Tam kırpmayı tam çözünürlükte indirin.",
-  "id": "/loona-image-compressor/tr/crop-image.html",
+  "id": "/tr/crop-image.html",
   "start_url": "./crop-image.html",
   "scope": "./crop-image.html",
   "display": "standalone",

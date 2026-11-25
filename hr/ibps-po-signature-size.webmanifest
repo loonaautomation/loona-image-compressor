@@ -2,7 +2,7 @@
   "name": "Loona Veličina IBPS PO Potpis",
   "short_name": "Veličina IBPS PO Potpis",
   "description": "Promijenite veličinu svoje IBPS PO potpis na veličinu iz obavijesti (140 × 60 px) i pojas 10–20 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/ibps-po-signature-size.html",
+  "id": "/hr/ibps-po-signature-size.html",
   "start_url": "./ibps-po-signature-size.html",
   "scope": "./ibps-po-signature-size.html",
   "display": "standalone",

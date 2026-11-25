@@ -2,7 +2,7 @@
   "name": "Loona Kontrastprüfer",
   "short_name": "Kontrastprüfer",
   "description": "Prüfen Sie Text- und Hintergrundfarben gegen WCAG: sofortiges Kontrastverhältnis mit AA- und AAA-Bestanden/Nicht-bestanden für normalen und großen Text, plus eine Live-Vorschau. Kostenlos, ohne Anmeldung.",
-  "id": "/loona-image-compressor/de/contrast-checker.html",
+  "id": "/de/contrast-checker.html",
   "start_url": "./contrast-checker.html",
   "scope": "./contrast-checker.html",
   "display": "standalone",

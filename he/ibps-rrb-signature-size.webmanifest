@@ -2,7 +2,7 @@
   "name": "Loona גודל חתימה IBPS RRB (Gramin Bank)",
   "short_name": "גודל חתימה IBPS RRB (Gramin",
   "description": "שנו את גודל ה־חתימה של IBPS RRB (Gramin Bank) לגודל ההודעה הרשמית (140 × 60 px) ולרצועת 10–20 KB. בחינם, בדפדפן שלכם — ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/ibps-rrb-signature-size.html",
+  "id": "/he/ibps-rrb-signature-size.html",
   "start_url": "./ibps-rrb-signature-size.html",
   "scope": "./ibps-rrb-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSS 漸變生成器",
   "short_name": "CSS 漸變生成器",
   "description": "用兩種或三種顏色和任意角度構建 CSS 線性漸變，實時預覽並複製現成的 CSS 程式碼。免費，無需註冊。",
-  "id": "/loona-image-compressor/zh-hant/gradient-generator.html",
+  "id": "/zh-hant/gradient-generator.html",
   "start_url": "./gradient-generator.html",
   "scope": "./gradient-generator.html",
   "display": "standalone",

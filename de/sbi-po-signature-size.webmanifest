@@ -2,7 +2,7 @@
   "name": "Loona SBI PO Unterschrift Größe",
   "short_name": "SBI PO Unterschrift Größe",
   "description": "Passen Sie Ihr SBI PO-Unterschrift auf die Größe der Bekanntmachung (140 × 60 px) und den Bereich 10–20 KB an. Kostenlos, in Ihrem Browser — ohne Upload, ohne Anmeldung.",
-  "id": "/loona-image-compressor/de/sbi-po-signature-size.html",
+  "id": "/de/sbi-po-signature-size.html",
   "start_url": "./sbi-po-signature-size.html",
   "scope": "./sbi-po-signature-size.html",
   "display": "standalone",

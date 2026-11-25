@@ -2,7 +2,7 @@
   "name": "Loona 在线将 JPG 压缩到 30 KB",
   "short_name": "在线将 JPG 压缩到 30 KB",
   "description": "在浏览器中免费将 JPG 图片压缩到 30 KB 或更小。自动搜索可在限制内达到的最佳质量 — 无需注册，无需上传。",
-  "id": "/loona-image-compressor/zh/compress-jpg-to-30kb.html",
+  "id": "/zh/compress-jpg-to-30kb.html",
   "start_url": "./compress-jpg-to-30kb.html",
   "scope": "./compress-jpg-to-30kb.html",
   "display": "standalone",

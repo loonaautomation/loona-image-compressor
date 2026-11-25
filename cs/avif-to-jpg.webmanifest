@@ -2,7 +2,7 @@
   "name": "Loona Převodník AVIF na JPG",
   "short_name": "Převodník AVIF na JPG",
   "description": "Převeďte AVIF na JPG online, zdarma, ve svém prohlížeči. Skutečný převod ve vašem zařízení — bez nahrávání, bez registrace, bez vodoznaků.",
-  "id": "/loona-image-compressor/cs/avif-to-jpg.html",
+  "id": "/cs/avif-to-jpg.html",
   "start_url": "./avif-to-jpg.html",
   "scope": "./avif-to-jpg.html",
   "display": "standalone",

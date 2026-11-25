@@ -2,7 +2,7 @@
   "name": "Loona Velikost Fotografie Pákistán NADRA CNIC",
   "short_name": "Velikost Fotografie Pákistán",
   "description": "Vytvořte Fotografie Pákistán NADRA CNIC v oficiální velikosti 51×51 mm (600×600 px), pozadí: jednobarevné bílé. Bezplatný online tvůrce — oříznutí, stažení a tiskový arch, bez nahrávání.",
-  "id": "/loona-image-compressor/cs/pakistan-nadra-cnic-photo-size.html",
+  "id": "/cs/pakistan-nadra-cnic-photo-size.html",
   "start_url": "./pakistan-nadra-cnic-photo-size.html",
   "scope": "./pakistan-nadra-cnic-photo-size.html",
   "display": "standalone",

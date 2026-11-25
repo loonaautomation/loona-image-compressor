@@ -2,7 +2,7 @@
   "name": "Loona Kép átméretezése",
   "short_name": "Kép átméretezése",
   "description": "Méretezzen át bármilyen képet pixelek, cm vagy hüvelyk szerint, DPI-beállítással ingyen. Tartsa meg a képarányt, válasszon JPG-t, PNG-t vagy WebP-t, és töltsön le azonnal — regisztráció nem szükséges.",
-  "id": "/loona-image-compressor/hu/resize-image.html",
+  "id": "/hu/resize-image.html",
   "start_url": "./resize-image.html",
   "scope": "./resize-image.html",
   "display": "standalone",

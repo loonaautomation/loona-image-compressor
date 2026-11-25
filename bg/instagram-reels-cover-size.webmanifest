@@ -2,7 +2,7 @@
   "name": "Loona Размер на Корица на Reels за Instagram",
   "short_name": "Размер на Корица на Reels за",
   "description": "Направете корица на reels за Instagram на точно 1080×1920 px. Безплатен инструмент за преоразмеряване/изрязване във вашия браузър с правилата за безопасната зона, които спират изрязване на текст и лица.",
-  "id": "/loona-image-compressor/bg/instagram-reels-cover-size.html",
+  "id": "/bg/instagram-reels-cover-size.html",
   "start_url": "./instagram-reels-cover-size.html",
   "scope": "./instagram-reels-cover-size.html",
   "display": "standalone",

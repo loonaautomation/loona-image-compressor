@@ -2,7 +2,7 @@
   "name": "Loona Thay đổi kích thước ảnh thành 800 × 800",
   "short_name": "Thay đổi kích thước ảnh thành",
   "description": "Thay đổi kích thước mọi hình ảnh thành đúng 800 × 800 pixel (ảnh niêm yết trên sàn thương mại và sản phẩm) miễn phí. Phủ kín, thu vào trong hoặc kéo giãn, JPG hoặc PNG, tải xuống ngay lập tức — không cần đăng ký, không tải lên gì cả.",
-  "id": "/loona-image-compressor/vi/resize-image-to-800x800.html",
+  "id": "/vi/resize-image-to-800x800.html",
   "start_url": "./resize-image-to-800x800.html",
   "scope": "./resize-image-to-800x800.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Veľkosť Pasová fotografia Južnej Kórey",
   "short_name": "Veľkosť Pasová fotografia",
   "description": "Vytvorte Pasová fotografia Južnej Kórey v oficiálnej veľkosti 35×45 mm (413×531 px), pozadie: jednofarebné biele. Bezplatný online tvorca — orezanie, stiahnutie a tlačový hárok, bez nahrávania.",
-  "id": "/loona-image-compressor/sk/south-korea-passport-photo-size.html",
+  "id": "/sk/south-korea-passport-photo-size.html",
   "start_url": "./south-korea-passport-photo-size.html",
   "scope": "./south-korea-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Formaat TikTok Videoframe",
   "short_name": "Formaat TikTok Videoframe",
   "description": "Maak een TikTok videoframe op precies 1080×1920 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/tiktok-video-frame-size.html",
+  "id": "/nl/tiktok-video-frame-size.html",
   "start_url": "./tiktok-video-frame-size.html",
   "scope": "./tiktok-video-frame-size.html",
   "display": "standalone",

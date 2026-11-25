@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) Pystyjulkaisu (4",
   "short_name": "X (Twitter) Pystyjulkaisu (4",
   "description": "Tee X (Twitter) pystyjulkaisu (4:5) tarkalleen kokoon 1080×1350 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/x-portrait-post-size.html",
+  "id": "/fi/x-portrait-post-size.html",
   "start_url": "./x-portrait-post-size.html",
   "scope": "./x-portrait-post-size.html",
   "display": "standalone",

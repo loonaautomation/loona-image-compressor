@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto SSC GD Constable",
   "short_name": "Ukuran Foto SSC GD Constable",
   "description": "Ubah ukuran foto SSC GD Constable Anda ke ukuran pemberitahuan (200 × 230 px) dan rentang 20–50 KB. Gratis, di browser Anda — tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/ssc-gd-photo-size.html",
+  "id": "/id/ssc-gd-photo-size.html",
   "start_url": "./ssc-gd-photo-size.html",
   "scope": "./ssc-gd-photo-size.html",
   "display": "standalone",

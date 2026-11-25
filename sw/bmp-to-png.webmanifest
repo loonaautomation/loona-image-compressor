@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha BMP kuwa PNG",
   "short_name": "Kibadilishaji cha BMP kuwa PNG",
   "description": "Badilisha BMP kuwa PNG mtandaoni bure — bila upotezaji, ndogo zaidi kuliko BMP, na huungwa mkono popote. Huendeshwa kwenye kivinjari chako, bila kujisajili, bila kupakia.",
-  "id": "/loona-image-compressor/sw/bmp-to-png.html",
+  "id": "/sw/bmp-to-png.html",
   "start_url": "./bmp-to-png.html",
   "scope": "./bmp-to-png.html",
   "display": "standalone",

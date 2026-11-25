@@ -2,7 +2,7 @@
   "name": "Loona Muuta kuvan koko kokoon 140 × 60 px verkossa",
   "short_name": "Muuta kuvan koko kokoon 140 ×",
   "description": "Muuta minkä tahansa kuvan koko tarkalleen kokoon 140×60 px — Intian kokeiden allekirjoitusstandardi (SSC, IBPS, SBI). Ilmaiseksi selaimessasi rajausohjauksella; ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/resize-image-to-140x60.html",
+  "id": "/fi/resize-image-to-140x60.html",
   "start_url": "./resize-image-to-140x60.html",
   "scope": "./resize-image-to-140x60.html",
   "display": "standalone",

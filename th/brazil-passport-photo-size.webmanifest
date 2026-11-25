@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายหนังสือเดินทาง / วีซ่าบราซิล",
   "short_name": "ขนาดรูปถ่ายหนังสือเดินทาง /",
   "description": "ทำรูปถ่ายหนังสือเดินทาง / วีซ่าบราซิลที่ขนาดอย่างเป็นทางการ 50×70 mm (591×827 px) พื้นหลังขาวเรียบ เครื่องทำรูปออนไลน์ฟรี — ครอบตัด ดาวน์โหลด และแผ่นพิมพ์ ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/brazil-passport-photo-size.html",
+  "id": "/th/brazil-passport-photo-size.html",
   "start_url": "./brazil-passport-photo-size.html",
   "scope": "./brazil-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona WebP'den PNG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Kayıpsız",
   "short_name": "WebP'den PNG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Kayıpsız",
   "description": "WebP'yi çevrimiçi ücretsiz olarak PNG'ye dönüştürün — düzenleyiciler ve tasarım araçları için şeffaflıklı kayıpsız PNG. Tarayıcınızda çalışır, kayıt yok, yükleme yok.",
-  "id": "/loona-image-compressor/tr/webp-to-png.html",
+  "id": "/tr/webp-to-png.html",
   "start_url": "./webp-to-png.html",
   "scope": "./webp-to-png.html",
   "display": "standalone",

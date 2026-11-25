@@ -2,7 +2,7 @@
   "name": "Loona Video to GIF Converter",
   "short_name": "Video to GIF Converter",
   "description": "동영상을 GIF로 무료 온라인 변환 — MP4 또는 WebM 클립을 애니메이션 GIF로 만드세요. 브라우저 기반, 가입 없음, 업로드 없음, 워터마크 없음.",
-  "id": "/loona-image-compressor/ko/video-to-gif.html",
+  "id": "/ko/video-to-gif.html",
   "start_url": "./video-to-gif.html",
   "scope": "./video-to-gif.html",
   "display": "standalone",

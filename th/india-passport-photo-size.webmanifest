@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายหนังสือเดินทางอินเดีย",
   "short_name": "ขนาดรูปถ่ายหนังสือเดินทางอินเด",
   "description": "ทำรูปถ่ายหนังสือเดินทางอินเดียที่ขนาดอย่างเป็นทางการ 51×51 mm (600×600 px) พื้นหลังขาวเรียบ เครื่องทำรูปออนไลน์ฟรี — ครอบตัด ดาวน์โหลด และแผ่นพิมพ์ ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/india-passport-photo-size.html",
+  "id": "/th/india-passport-photo-size.html",
   "start_url": "./india-passport-photo-size.html",
   "scope": "./india-passport-photo-size.html",
   "display": "standalone",

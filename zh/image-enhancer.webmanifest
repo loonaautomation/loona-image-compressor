@@ -2,7 +2,7 @@
   "name": "Loona 图片增强器",
   "short_name": "图片增强器",
   "description": "免费在线增强照片：一键自动增强、锐化柔和的照片、温和地清理噪点并放大 2 倍或 4 倍。诚实的结果，无需注册，您的照片绝不会离开您的设备。",
-  "id": "/loona-image-compressor/zh/image-enhancer.html",
+  "id": "/zh/image-enhancer.html",
   "start_url": "./image-enhancer.html",
   "scope": "./image-enhancer.html",
   "display": "standalone",

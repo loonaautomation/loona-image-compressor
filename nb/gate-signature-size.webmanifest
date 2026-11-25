@@ -2,7 +2,7 @@
   "name": "Loona GATE Signatur-størrelse",
   "short_name": "GATE Signatur-størrelse",
   "description": "Endre størrelsen på GATE signatur til varslingsstørrelsen (skannet boks, forhold omtrent 7:2) og båndet på 3–100 KB. Gratis, i nettleseren din — ingen opplasting, ingen registrering.",
-  "id": "/loona-image-compressor/nb/gate-signature-size.html",
+  "id": "/nb/gate-signature-size.html",
   "start_url": "./gate-signature-size.html",
   "scope": "./gate-signature-size.html",
   "display": "standalone",

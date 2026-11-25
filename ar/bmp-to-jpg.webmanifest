@@ -2,7 +2,7 @@
   "name": "Loona محوّل BMP إلى JPG",
   "short_name": "محوّل BMP إلى JPG",
   "description": "حوّل BMP إلى JPG عبر الإنترنت مجانًا وقلّص الخرائط النقطية الضخمة غير المضغوطة بنسبة 90% أو أكثر. في متصفحك — بلا تسجيل، بلا رفع، بلا علامة مائية.",
-  "id": "/loona-image-compressor/ar/bmp-to-jpg.html",
+  "id": "/ar/bmp-to-jpg.html",
   "start_url": "./bmp-to-jpg.html",
   "scope": "./bmp-to-jpg.html",
   "display": "standalone",

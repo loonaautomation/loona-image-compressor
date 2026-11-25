@@ -2,7 +2,7 @@
   "name": "Loona Veličina X (Twitter) Slika kartice poveznice",
   "short_name": "Veličina X (Twitter) Slika",
   "description": "Izradite X (Twitter) slika kartice poveznice na točno 1200×628 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/x-link-card-size.html",
+  "id": "/hr/x-link-card-size.html",
   "start_url": "./x-link-card-size.html",
   "scope": "./x-link-card-size.html",
   "display": "standalone",

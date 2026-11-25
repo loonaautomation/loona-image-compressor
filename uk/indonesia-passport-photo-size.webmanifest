@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото на паспорт Індонезії",
   "short_name": "Розмір Фото на паспорт",
   "description": "Зробіть Фото на паспорт Індонезії в офіційному розмірі 40×60 мм (472×709 пікс.), тло: червоне (для паспортів) — біле для багатьох інших посвідчень. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
-  "id": "/loona-image-compressor/uk/indonesia-passport-photo-size.html",
+  "id": "/uk/indonesia-passport-photo-size.html",
   "start_url": "./indonesia-passport-photo-size.html",
   "scope": "./indonesia-passport-photo-size.html",
   "display": "standalone",

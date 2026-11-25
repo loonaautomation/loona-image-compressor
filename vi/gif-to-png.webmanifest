@@ -2,7 +2,7 @@
   "name": "Loona Trình chuyển đổi GIF sang PNG",
   "short_name": "Trình chuyển đổi GIF sang PNG",
   "description": "Chuyển đổi GIF sang PNG trực tuyến miễn phí — một hình tĩnh sạch, không mất dữ liệu từ GIF của bạn. Dựa trên trình duyệt, không cần đăng ký, không tải lên, không hình mờ.",
-  "id": "/loona-image-compressor/vi/gif-to-png.html",
+  "id": "/vi/gif-to-png.html",
   "start_url": "./gif-to-png.html",
   "scope": "./gif-to-png.html",
   "display": "standalone",

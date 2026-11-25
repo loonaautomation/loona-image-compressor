@@ -2,7 +2,7 @@
   "name": "Loona ขนาดลายเซ็นSBI PO",
   "short_name": "ขนาดลายเซ็นSBI PO",
   "description": "ปรับขนาดลายเซ็นSBI POของคุณให้เป็นขนาดตามประกาศ (140 × 60 px) และช่วง 10–20 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/sbi-po-signature-size.html",
+  "id": "/th/sbi-po-signature-size.html",
   "start_url": "./sbi-po-signature-size.html",
   "scope": "./sbi-po-signature-size.html",
   "display": "standalone",

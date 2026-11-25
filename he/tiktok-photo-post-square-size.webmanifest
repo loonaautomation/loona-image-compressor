@@ -2,7 +2,7 @@
   "name": "Loona גודל פוסט תמונה (מרובע) TikTok",
   "short_name": "גודל פוסט תמונה (מרובע) TikTok",
   "description": "צרו פוסט תמונה (מרובע) של TikTok בדיוק ב־1080×1080 px. משנה גודל/חיתוך בחינם בדפדפן שלכם, עם כללי אזור הבטיחות שמונעים חיתוך של טקסט ופנים.",
-  "id": "/loona-image-compressor/he/tiktok-photo-post-square-size.html",
+  "id": "/he/tiktok-photo-post-square-size.html",
   "start_url": "./tiktok-photo-post-square-size.html",
   "scope": "./tiktok-photo-post-square-size.html",
   "display": "standalone",

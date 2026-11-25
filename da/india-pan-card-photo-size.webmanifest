@@ -2,7 +2,7 @@
   "name": "Loona Indisk PAN-kortfoto størrelse",
   "short_name": "Indisk PAN-kortfoto størrelse",
   "description": "Lav et Indisk PAN-kortfoto i den officielle størrelse 25×35 mm (295×413 px), ensfarvet hvid baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
-  "id": "/loona-image-compressor/da/india-pan-card-photo-size.html",
+  "id": "/da/india-pan-card-photo-size.html",
   "start_url": "./india-pan-card-photo-size.html",
   "scope": "./india-pan-card-photo-size.html",
   "display": "standalone",

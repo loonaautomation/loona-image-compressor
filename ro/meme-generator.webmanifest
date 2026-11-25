@@ -2,7 +2,7 @@
   "name": "Loona Generator de meme",
   "short_name": "Generator de meme",
   "description": "Transformă orice fotografie într-un meme clasic cu text bold sus și jos — generator gratuit de meme online, cu previzualizare live, opțiuni de fundal simplu și descărcare PNG. Fără înregistrare, iar imaginea ta nu părăsește niciodată dispozitivul.",
-  "id": "/loona-image-compressor/ro/meme-generator.html",
+  "id": "/ro/meme-generator.html",
   "start_url": "./meme-generator.html",
   "scope": "./meme-generator.html",
   "display": "standalone",

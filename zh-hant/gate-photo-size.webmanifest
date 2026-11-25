@@ -2,7 +2,7 @@
   "name": "Loona GATE 照片尺寸",
   "short_name": "GATE 照片尺寸",
   "description": "將您的 GATE 照片調整為通知規定的尺寸（480 × 640 px）和 5–200 KB 範圍。免費，在您的瀏覽器中完成 — 無需上傳，無需註冊。",
-  "id": "/loona-image-compressor/zh-hant/gate-photo-size.html",
+  "id": "/zh-hant/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

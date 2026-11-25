@@ -2,7 +2,7 @@
   "name": "Loona Formaat YouTube Videominiatuur",
   "short_name": "Formaat YouTube Videominiatuur",
   "description": "Maak een YouTube videominiatuur op precies 1280×720 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/youtube-thumbnail-size.html",
+  "id": "/nl/youtube-thumbnail-size.html",
   "start_url": "./youtube-thumbnail-size.html",
   "scope": "./youtube-thumbnail-size.html",
   "display": "standalone",

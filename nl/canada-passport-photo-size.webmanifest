@@ -2,7 +2,7 @@
   "name": "Loona Fotoformaat Pasfoto Canada",
   "short_name": "Fotoformaat Pasfoto Canada",
   "description": "Maak een Pasfoto Canada op het officiële formaat 50×70 mm (591×827 px), achtergrond: effen wit of lichtgekleurd. Gratis online maker — bijsnijden, downloaden en printvel, geen upload.",
-  "id": "/loona-image-compressor/nl/canada-passport-photo-size.html",
+  "id": "/nl/canada-passport-photo-size.html",
   "start_url": "./canada-passport-photo-size.html",
   "scope": "./canada-passport-photo-size.html",
   "display": "standalone",

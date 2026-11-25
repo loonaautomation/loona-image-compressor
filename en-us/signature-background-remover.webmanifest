@@ -2,7 +2,7 @@
   "name": "Loona Signature Background Remover",
   "short_name": "Signature Background Remover",
   "description": "Remove the paper background from a signature or stamp photo and download a transparent PNG, free online. Pure browser canvas tool — no AI, no upload, no signup.",
-  "id": "/loona-image-compressor/en-us/signature-background-remover.html",
+  "id": "/en-us/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

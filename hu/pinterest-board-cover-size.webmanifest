@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Táblaborító méret",
   "short_name": "Pinterest Táblaborító méret",
   "description": "Készítsen Pinterest táblaborító képet pontosan 800×450 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/pinterest-board-cover-size.html",
+  "id": "/hu/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",
   "scope": "./pinterest-board-cover-size.html",
   "display": "standalone",

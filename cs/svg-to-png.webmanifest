@@ -2,7 +2,7 @@
   "name": "Loona Převodník SVG na PNG",
   "short_name": "Převodník SVG na PNG",
   "description": "Převeďte SVG na PNG online zdarma v libovolné šířce — ostré rastrové obrázky z vektorových log a ikon. Bez registrace, bez nahrávání, běží ve vašem prohlížeči.",
-  "id": "/loona-image-compressor/cs/svg-to-png.html",
+  "id": "/cs/svg-to-png.html",
   "start_url": "./svg-to-png.html",
   "scope": "./svg-to-png.html",
   "display": "standalone",

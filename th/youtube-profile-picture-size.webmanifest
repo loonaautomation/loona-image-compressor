@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปโปรไฟล์ช่อง YouTube",
   "short_name": "ขนาดรูปโปรไฟล์ช่อง YouTube",
   "description": "ทำรูปโปรไฟล์ช่อง YouTube ที่ขนาด 800×800 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/youtube-profile-picture-size.html",
+  "id": "/th/youtube-profile-picture-size.html",
   "start_url": "./youtube-profile-picture-size.html",
   "scope": "./youtube-profile-picture-size.html",
   "display": "standalone",

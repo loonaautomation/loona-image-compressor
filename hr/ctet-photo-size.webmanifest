@@ -2,7 +2,7 @@
   "name": "Loona Veličina CTET Fotografija",
   "short_name": "Veličina CTET Fotografija",
   "description": "Promijenite veličinu svoje CTET fotografiju na veličinu iz obavijesti (3.5 × 4.5 cm (oko 413 × 531 px pri 300 DPI)) i pojas 10–100 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/ctet-photo-size.html",
+  "id": "/hr/ctet-photo-size.html",
   "start_url": "./ctet-photo-size.html",
   "scope": "./ctet-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Tanda Tangan SBI Clerk (Junior Associates)",
   "short_name": "Ukuran Tanda Tangan SBI Clerk",
   "description": "Ubah ukuran tanda tangan SBI Clerk (Junior Associates) Anda ke ukuran pemberitahuan (140 × 60 px) dan rentang 10–20 KB. Gratis, di browser Anda — tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/sbi-clerk-signature-size.html",
+  "id": "/id/sbi-clerk-signature-size.html",
   "start_url": "./sbi-clerk-signature-size.html",
   "scope": "./sbi-clerk-signature-size.html",
   "display": "standalone",

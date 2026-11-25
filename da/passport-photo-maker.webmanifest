@@ -2,7 +2,7 @@
   "name": "Loona Passtørrelsesfotoværktøj",
   "short_name": "Passtørrelsesfotoværktøj",
   "description": "Lav et foto i passtørrelse online gratis: beskær ethvert foto til 35×45 mm eller 2×2 tommer i udskriftsklar 300 DPI. Ingen tilmelding, intet vandmærke, fuldt privat.",
-  "id": "/loona-image-compressor/da/passport-photo-maker.html",
+  "id": "/da/passport-photo-maker.html",
   "start_url": "./passport-photo-maker.html",
   "scope": "./passport-photo-maker.html",
   "display": "standalone",

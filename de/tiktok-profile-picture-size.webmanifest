@@ -2,7 +2,7 @@
   "name": "Loona TikTok Profilbild Größe",
   "short_name": "TikTok Profilbild Größe",
   "description": "Erstellen Sie ein TikTok-profilbild mit exakt 720×720 px. Kostenloser Größenänderer/Zuschneider in Ihrem Browser mit den Regeln für die sichere Zone, die abgeschnittenen Text und Gesichter verhindern.",
-  "id": "/loona-image-compressor/de/tiktok-profile-picture-size.html",
+  "id": "/de/tiktok-profile-picture-size.html",
   "start_url": "./tiktok-profile-picture-size.html",
   "scope": "./tiktok-profile-picture-size.html",
   "display": "standalone",

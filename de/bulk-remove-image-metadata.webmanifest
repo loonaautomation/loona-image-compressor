@@ -2,7 +2,7 @@
   "name": "Loona Massen-Metadaten-Entferner",
   "short_name": "Massen-Metadaten-Entferner",
   "description": "Entfernen Sie EXIF-, GPS- und XMP-Metadaten aus vielen Fotos auf einmal — ziehen Sie eine Charge von JPG-, PNG- und WebP-Dateien hinein, entfernen Sie sie alle in Ihrem Browser und laden Sie alles als ein ZIP herunter. Kostenlos, privat, keine Uploads, kein Neu-Codieren.",
-  "id": "/loona-image-compressor/de/bulk-remove-image-metadata.html",
+  "id": "/de/bulk-remove-image-metadata.html",
   "start_url": "./bulk-remove-image-metadata.html",
   "scope": "./bulk-remove-image-metadata.html",
   "display": "standalone",

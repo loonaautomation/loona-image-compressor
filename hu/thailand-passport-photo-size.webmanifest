@@ -2,7 +2,7 @@
   "name": "Loona Thaiföldi útlevél- / vízumfotó méret",
   "short_name": "Thaiföldi útlevél- /",
   "description": "Készítsen Thaiföldi útlevél- / vízumfotó fotót a hivatalos 35×45 mm (413×531 px) méretben, sima fehér háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/thailand-passport-photo-size.html",
+  "id": "/hu/thailand-passport-photo-size.html",
   "start_url": "./thailand-passport-photo-size.html",
   "scope": "./thailand-passport-photo-size.html",
   "display": "standalone",

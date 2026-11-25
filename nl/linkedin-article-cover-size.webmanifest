@@ -2,7 +2,7 @@
   "name": "Loona Formaat LinkedIn Omslag artikel / nieuwsbrief",
   "short_name": "Formaat LinkedIn Omslag",
   "description": "Maak een LinkedIn omslag artikel / nieuwsbrief op precies 1200×644 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/linkedin-article-cover-size.html",
+  "id": "/nl/linkedin-article-cover-size.html",
   "start_url": "./linkedin-article-cover-size.html",
   "scope": "./linkedin-article-cover-size.html",
   "display": "standalone",

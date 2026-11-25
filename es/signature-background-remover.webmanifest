@@ -2,7 +2,7 @@
   "name": "Loona Eliminador de fondo de firmas",
   "short_name": "Eliminador de fondo de firmas",
   "description": "Elimina el fondo de papel de la foto de una firma o un sello y descarga un PNG transparente, gratis y en línea. Herramienta pura de canvas en el navegador: sin IA, sin subidas y sin registro.",
-  "id": "/loona-image-compressor/es/signature-background-remover.html",
+  "id": "/es/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

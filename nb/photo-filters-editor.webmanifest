@@ -2,7 +2,7 @@
   "name": "Loona Bildefiltre &amp; fiks",
   "short_name": "Bildefiltre &amp; fiks",
   "description": "Fiks bilder gratis på nett: juster lysstyrke, kontrast og metning, gjør skarpere med ett klikk og bruk ferdige forhåndsinnstillinger som Passfiks og Levende.",
-  "id": "/loona-image-compressor/nb/photo-filters-editor.html",
+  "id": "/nb/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

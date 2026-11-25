@@ -2,7 +2,7 @@
   "name": "Loona GATE Fotoğraf Boyutu — 480 × 640 px, 5–200 KB",
   "short_name": "GATE Fotoğraf Boyutu — 480 × 640 px, 5–200 KB",
   "description": "GATE fotoğraf belgenizi duyuru boyutuna (480 × 640 px) ve 5–200 KB bandına getirin. Ücretsiz, tarayıcınızda — yükleme yok, kayıt yok.",
-  "id": "/loona-image-compressor/tr/gate-photo-size.html",
+  "id": "/tr/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

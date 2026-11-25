@@ -2,7 +2,7 @@
   "name": "Loona Passport Photo Print Sheet",
   "short_name": "Passport Photo Print Sheet",
   "description": "Put 4, 6 or 8 passport photos on one A4 print sheet for free at 300 DPI. Print at 100%, cut on the guides and save studio money. No signup, fully private.",
-  "id": "/loona-image-compressor/en-us/passport-photo-print-sheet.html",
+  "id": "/en-us/passport-photo-print-sheet.html",
   "start_url": "./passport-photo-print-sheet.html",
   "scope": "./passport-photo-print-sheet.html",
   "display": "standalone",

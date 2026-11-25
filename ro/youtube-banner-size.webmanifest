@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Banner de canal YouTube",
   "short_name": "Dimensiune Banner de canal",
   "description": "Creează un banner de canal YouTube la exact 2560×1440 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/youtube-banner-size.html",
+  "id": "/ro/youtube-banner-size.html",
   "start_url": "./youtube-banner-size.html",
   "scope": "./youtube-banner-size.html",
   "display": "standalone",

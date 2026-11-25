@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha ICO kuwa PNG",
   "short_name": "Kibadilishaji cha ICO kuwa PNG",
   "description": "Badilisha ICO kuwa PNG mtandaoni, bure, kwenye kivinjari chako. Ubadilishaji halisi kwenye kifaa chako — bila kupakia, bila kujisajili, bila alama za maji.",
-  "id": "/loona-image-compressor/sw/ico-to-png.html",
+  "id": "/sw/ico-to-png.html",
   "start_url": "./ico-to-png.html",
   "scope": "./ico-to-png.html",
   "display": "standalone",

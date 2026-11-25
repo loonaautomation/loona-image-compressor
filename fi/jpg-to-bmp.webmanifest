@@ -2,7 +2,7 @@
   "name": "Loona JPG",
   "short_name": "JPG",
   "description": "Muunna JPG muotoon BMP verkossa, ilmaiseksi, selaimessasi. Aito muunnos laitteellasi — ilman palvelimelle lataamista, ilman rekisteröitymistä ja ilman vesileimoja.",
-  "id": "/loona-image-compressor/fi/jpg-to-bmp.html",
+  "id": "/fi/jpg-to-bmp.html",
   "start_url": "./jpg-to-bmp.html",
   "scope": "./jpg-to-bmp.html",
   "display": "standalone",

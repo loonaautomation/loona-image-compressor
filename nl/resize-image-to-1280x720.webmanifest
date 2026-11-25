@@ -2,7 +2,7 @@
   "name": "Loona Afbeelding aanpassen naar 1280 × 720",
   "short_name": "Afbeelding aanpassen naar",
   "description": "Pas elke afbeelding gratis aan tot exact 1280 × 720 pixels (YouTube thumbnails and HD video). Dekken, behouden of uitrekken, JPG of PNG, direct downloaden — geen aanmelding, niets geüpload.",
-  "id": "/loona-image-compressor/nl/resize-image-to-1280x720.html",
+  "id": "/nl/resize-image-to-1280x720.html",
   "start_url": "./resize-image-to-1280x720.html",
   "scope": "./resize-image-to-1280x720.html",
   "display": "standalone",

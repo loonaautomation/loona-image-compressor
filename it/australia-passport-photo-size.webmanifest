@@ -2,7 +2,7 @@
   "name": "Loona Formato Passaporto dell&#x27;Australia",
   "short_name": "Formato Passaporto",
   "description": "Crea la foto Passaporto dell&#x27;Australia nel formato ufficiale di 35×45 mm (413×531 px), sfondo bianco liso o grigio chiaro. Strumento online gratuito: ritaglia, scarica e stampa il foglio, senza caricamenti.",
-  "id": "/loona-image-compressor/it/australia-passport-photo-size.html",
+  "id": "/it/australia-passport-photo-size.html",
   "start_url": "./australia-passport-photo-size.html",
   "scope": "./australia-passport-photo-size.html",
   "display": "standalone",

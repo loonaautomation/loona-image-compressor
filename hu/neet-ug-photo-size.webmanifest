@@ -2,7 +2,7 @@
   "name": "Loona NEET UG Fénykép méret",
   "short_name": "NEET UG Fénykép méret",
   "description": "Méretezze át a NEET UG fotó fájlját a kiírás szerinti méretre (3.5 × 4.5 cm (kb. 413 × 531 px 300 DPI mellett)) és a 10–200 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/neet-ug-photo-size.html",
+  "id": "/hu/neet-ug-photo-size.html",
   "start_url": "./neet-ug-photo-size.html",
   "scope": "./neet-ug-photo-size.html",
   "display": "standalone",

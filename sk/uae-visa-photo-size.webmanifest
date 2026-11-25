@@ -2,7 +2,7 @@
   "name": "Loona Veľkosť Vízová fotografia SAE / fotografia na Emirates ID",
   "short_name": "Veľkosť Vízová fotografia SAE",
   "description": "Vytvorte Vízová fotografia SAE / fotografia na Emirates ID v oficiálnej veľkosti 40×60 mm (472×709 px), pozadie: jednofarebné biele. Bezplatný online tvorca — orezanie, stiahnutie a tlačový hárok, bez nahrávania.",
-  "id": "/loona-image-compressor/sk/uae-visa-photo-size.html",
+  "id": "/sk/uae-visa-photo-size.html",
   "start_url": "./uae-visa-photo-size.html",
   "scope": "./uae-visa-photo-size.html",
   "display": "standalone",

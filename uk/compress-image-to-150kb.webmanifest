@@ -2,7 +2,7 @@
   "name": "Loona Стиснути зображення до 150 KB онлайн",
   "short_name": "Стиснути зображення до 150 KB",
   "description": "Стискайте зображення JPG, PNG і WebP до 150 KB або менше, онлайн і безкоштовно. Автоматичний пошук якості й розміру у вашому браузері — без реєстрації, без завантаження на сервер.",
-  "id": "/loona-image-compressor/uk/compress-image-to-150kb.html",
+  "id": "/uk/compress-image-to-150kb.html",
   "start_url": "./compress-image-to-150kb.html",
   "scope": "./compress-image-to-150kb.html",
   "display": "standalone",

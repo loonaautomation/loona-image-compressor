@@ -2,7 +2,7 @@
   "name": "Loona Kép átméretezése 3840 × 2160 px méretre online",
   "short_name": "Kép átméretezése 3840 × 2160",
   "description": "Méretezzen át bármely képet pontosan 3840×2160 px méretre — 4K UHD háttérkép / videóképkocka. Ingyen, a böngészőjében, vágási vezérléssel; feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/resize-image-to-3840x2160.html",
+  "id": "/hu/resize-image-to-3840x2160.html",
   "start_url": "./resize-image-to-3840x2160.html",
   "scope": "./resize-image-to-3840x2160.html",
   "display": "standalone",

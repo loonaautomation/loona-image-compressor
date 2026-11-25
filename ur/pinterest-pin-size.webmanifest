@@ -2,7 +2,7 @@
   "name": "Loona Pinterest معیاری پن کا سائز",
   "short_name": "Pinterest معیاری پن کا سائز",
   "description": "Pinterest معیاری پن بالکل 1000×1500 px پر بنائیں۔ آپ کے براؤزر میں مفت ری سائزر/کراپر، محفوظ زون کے قواعد کے ساتھ جو کراپ شدہ متن اور چہروں کو روکتے ہیں۔",
-  "id": "/loona-image-compressor/ur/pinterest-pin-size.html",
+  "id": "/ur/pinterest-pin-size.html",
   "start_url": "./pinterest-pin-size.html",
   "scope": "./pinterest-pin-size.html",
   "display": "standalone",

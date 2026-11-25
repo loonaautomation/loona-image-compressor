@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง BMP เป็น WEBP",
   "short_name": "ตัวแปลง BMP เป็น WEBP",
   "description": "แปลง BMP เป็น WEBP ออนไลน์ ฟรี ในเบราว์เซอร์ของคุณ การแปลงจริงบนอุปกรณ์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ",
-  "id": "/loona-image-compressor/th/bmp-to-webp.html",
+  "id": "/th/bmp-to-webp.html",
   "start_url": "./bmp-to-webp.html",
   "scope": "./bmp-to-webp.html",
   "display": "standalone",

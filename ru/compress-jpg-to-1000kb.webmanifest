@@ -2,7 +2,7 @@
   "name": "Loona Сжать JPG до 1000 KB онлайн",
   "short_name": "Сжать JPG до 1000 KB онлайн",
   "description": "Compress a JPG image to 1000 KB or under, free in your browser. Automatic search finds the best quality that fits — no signup, no upload.",
-  "id": "/loona-image-compressor/compress-jpg-to-1000kb.html",
+  "id": "/compress-jpg-to-1000kb.html",
   "start_url": "./compress-jpg-to-1000kb.html",
   "scope": "./compress-jpg-to-1000kb.html",
   "display": "standalone",

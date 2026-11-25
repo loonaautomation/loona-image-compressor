@@ -2,7 +2,7 @@
   "name": "Loona Formaat X (Twitter) Profielfoto",
   "short_name": "Formaat X (Twitter)",
   "description": "Maak een X (Twitter) profielfoto op precies 400×400 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/x-profile-picture-size.html",
+  "id": "/nl/x-profile-picture-size.html",
   "start_url": "./x-profile-picture-size.html",
   "scope": "./x-profile-picture-size.html",
   "display": "standalone",

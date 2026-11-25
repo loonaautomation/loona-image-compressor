@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Emoji personalizat Discord",
   "short_name": "Dimensiune Emoji personalizat",
   "description": "Creează un emoji personalizat Discord la exact 128×128 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/discord-emoji-size.html",
+  "id": "/ro/discord-emoji-size.html",
   "start_url": "./discord-emoji-size.html",
   "scope": "./discord-emoji-size.html",
   "display": "standalone",

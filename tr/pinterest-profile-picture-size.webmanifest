@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Profil Resmi Boyutu — 800×800 px",
   "short_name": "Pinterest Profil Resmi Boyutu — 800×800 px",
   "description": "Tam olarak 800×800 px ölçüsünde bir Pinterest profil resmi oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/pinterest-profile-picture-size.html",
+  "id": "/tr/pinterest-profile-picture-size.html",
   "start_url": "./pinterest-profile-picture-size.html",
   "scope": "./pinterest-profile-picture-size.html",
   "display": "standalone",

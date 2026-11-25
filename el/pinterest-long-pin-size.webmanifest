@@ -2,7 +2,7 @@
   "name": "Loona Μακρύ / Infographic Pin Pinterest",
   "short_name": "Μακρύ / Infographic Pin",
   "description": "Δημιουργήστε ένα μακρύ / infographic pin Pinterest σε ακριβώς 1000×2100 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/pinterest-long-pin-size.html",
+  "id": "/el/pinterest-long-pin-size.html",
   "start_url": "./pinterest-long-pin-size.html",
   "scope": "./pinterest-long-pin-size.html",
   "display": "standalone",

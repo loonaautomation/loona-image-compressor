@@ -2,7 +2,7 @@
   "name": "Loona ปรับขนาดรูปภาพเป็น 591 × 827 px ออนไลน์",
   "short_name": "ปรับขนาดรูปภาพเป็น 591 × 827",
   "description": "ปรับขนาดรูปภาพใดก็ได้ให้เป็น 591×827 px พอดี — 50 × 70 mm ที่ 300 DPI — ขนาดหนังสือเดินทางแคนาดา/บราซิล ฟรีในเบราว์เซอร์ของคุณพร้อมการควบคุมการครอบตัด ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/resize-image-to-591x827.html",
+  "id": "/th/resize-image-to-591x827.html",
   "start_url": "./resize-image-to-591x827.html",
   "scope": "./resize-image-to-591x827.html",
   "display": "standalone",

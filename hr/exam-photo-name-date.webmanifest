@@ -2,7 +2,7 @@
   "name": "Loona Ispitna fotografija s imenom i datumom",
   "short_name": "Ispitna fotografija s imenom",
   "description": "Izradite ispitnu fotografiju sa svojim imenom i datumom otisnutim na dnu besplatno — format mature koji se koristi u Pakistanu i Indiji. Privatno, registracija nije potrebna.",
-  "id": "/loona-image-compressor/hr/exam-photo-name-date.html",
+  "id": "/hr/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

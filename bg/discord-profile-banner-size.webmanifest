@@ -2,7 +2,7 @@
   "name": "Loona Размер на Банер на профил за Discord",
   "short_name": "Размер на Банер на профил за",
   "description": "Направете банер на профил за Discord на точно 600×180 px. Безплатен инструмент за преоразмеряване/изрязване във вашия браузър с правилата за безопасната зона, които спират изрязване на текст и лица.",
-  "id": "/loona-image-compressor/bg/discord-profile-banner-size.html",
+  "id": "/bg/discord-profile-banner-size.html",
   "start_url": "./discord-profile-banner-size.html",
   "scope": "./discord-profile-banner-size.html",
   "display": "standalone",

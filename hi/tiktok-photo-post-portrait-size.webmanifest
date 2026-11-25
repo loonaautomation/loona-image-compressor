@@ -2,7 +2,7 @@
   "name": "Loona TikTok फ़ोटो पोस्ट (पोर्ट्रेट) साइज़",
   "short_name": "TikTok फ़ोटो पोस्ट",
   "description": "TikTok फ़ोटो पोस्ट (पोर्ट्रेट) ठीक 1080×1350 px पर बनाएँ. आपके ब्राउज़र में मुफ़्त रीसाइज़र/क्रॉपर, उन सेफ़-ज़ोन नियमों के साथ जो क्रॉप हुए टेक्स्ट और चेहरों को रोकते हैं.",
-  "id": "/loona-image-compressor/hi/tiktok-photo-post-portrait-size.html",
+  "id": "/hi/tiktok-photo-post-portrait-size.html",
   "start_url": "./tiktok-photo-post-portrait-size.html",
   "scope": "./tiktok-photo-post-portrait-size.html",
   "display": "standalone",

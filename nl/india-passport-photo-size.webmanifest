@@ -2,7 +2,7 @@
   "name": "Loona Fotoformaat Pasfoto India",
   "short_name": "Fotoformaat Pasfoto India",
   "description": "Maak een Pasfoto India op het officiële formaat 51×51 mm (600×600 px), achtergrond: effen wit. Gratis online maker — bijsnijden, downloaden en printvel, geen upload.",
-  "id": "/loona-image-compressor/nl/india-passport-photo-size.html",
+  "id": "/nl/india-passport-photo-size.html",
   "start_url": "./india-passport-photo-size.html",
   "scope": "./india-passport-photo-size.html",
   "display": "standalone",

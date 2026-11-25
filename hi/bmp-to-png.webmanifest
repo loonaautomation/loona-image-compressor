@@ -2,7 +2,7 @@
   "name": "Loona BMP से PNG कन्वर्टर",
   "short_name": "BMP से PNG कन्वर्टर",
   "description": "BMP को PNG में मुफ़्त ऑनलाइन बदलें — लॉसलेस, BMP से बहुत छोटा, और हर जगह समर्थित। आपके ब्राउज़र में चलता है, कोई साइनअप नहीं, कोई अपलोड नहीं।",
-  "id": "/loona-image-compressor/hi/bmp-to-png.html",
+  "id": "/hi/bmp-to-png.html",
   "start_url": "./bmp-to-png.html",
   "scope": "./bmp-to-png.html",
   "display": "standalone",

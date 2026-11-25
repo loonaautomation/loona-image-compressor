@@ -2,7 +2,7 @@
   "name": "Loona Tilpas billedstørrelse til 295 × 413 px online",
   "short_name": "Tilpas billedstørrelse til",
   "description": "Tilpas ethvert billede til præcis 295×413 px — 25 × 35 mm ved 300 DPI — Indien PAN-kortstørrelse. Gratis i din browser med beskæringskontrol; ingen upload, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/resize-image-to-295x413.html",
+  "id": "/da/resize-image-to-295x413.html",
   "start_url": "./resize-image-to-295x413.html",
   "scope": "./resize-image-to-295x413.html",
   "display": "standalone",

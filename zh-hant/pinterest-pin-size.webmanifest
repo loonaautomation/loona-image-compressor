@@ -2,7 +2,7 @@
   "name": "Loona Pinterest 標準圖釘 尺寸",
   "short_name": "Pinterest 標準圖釘 尺寸",
   "description": "按精確的 1000×1500 px 製作 Pinterest 標準圖釘。在瀏覽器中免費調整大小/裁剪，附有安全區規則，防止文字和麵部被裁掉。",
-  "id": "/loona-image-compressor/zh-hant/pinterest-pin-size.html",
+  "id": "/zh-hant/pinterest-pin-size.html",
   "start_url": "./pinterest-pin-size.html",
   "scope": "./pinterest-pin-size.html",
   "display": "standalone",

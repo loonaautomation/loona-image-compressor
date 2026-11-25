@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Profilfoto størrelse",
   "short_name": "LinkedIn Profilfoto størrelse",
   "description": "Lav en LinkedIn profilfoto på præcis 400×400 px. Gratis størrelses- og beskæringsværktøj i din browser med sikkerhedszonereglerne, der forhindrer beskåret tekst og ansigter.",
-  "id": "/loona-image-compressor/da/linkedin-profile-picture-size.html",
+  "id": "/da/linkedin-profile-picture-size.html",
   "start_url": "./linkedin-profile-picture-size.html",
   "scope": "./linkedin-profile-picture-size.html",
   "display": "standalone",

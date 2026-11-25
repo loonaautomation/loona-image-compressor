@@ -2,7 +2,7 @@
   "name": "Loona Colombiansk visumfoto størrelse",
   "short_name": "Colombiansk visumfoto",
   "description": "Lav et Colombiansk visumfoto i den officielle størrelse 30×40 mm (354×472 px), ensfarvet hvid baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
-  "id": "/loona-image-compressor/da/colombia-visa-photo-size.html",
+  "id": "/da/colombia-visa-photo-size.html",
   "start_url": "./colombia-visa-photo-size.html",
   "scope": "./colombia-visa-photo-size.html",
   "display": "standalone",

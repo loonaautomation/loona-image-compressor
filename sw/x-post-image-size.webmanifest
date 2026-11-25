@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Chapisho (16",
   "short_name": "Ukubwa wa Picha ya Chapisho",
   "description": "Tengeneza picha ya chapisho (16:9) ya X (Twitter) katika px 1600×900 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/x-post-image-size.html",
+  "id": "/sw/x-post-image-size.html",
   "start_url": "./x-post-image-size.html",
   "scope": "./x-post-image-size.html",
   "display": "standalone",

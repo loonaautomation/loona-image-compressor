@@ -2,7 +2,7 @@
   "name": "Loona Comprimă WebP la 2000 KB online",
   "short_name": "Comprimă WebP la 2000 KB",
   "description": "Comprimă o imagine WebP la 2000 KB sau mai puțin, gratuit în browserul tău. Căutarea automată găsește cea mai bună calitate care încape — fără înregistrare, fără încărcare.",
-  "id": "/loona-image-compressor/ro/compress-webp-to-2000kb.html",
+  "id": "/ro/compress-webp-to-2000kb.html",
   "start_url": "./compress-webp-to-2000kb.html",
   "scope": "./compress-webp-to-2000kb.html",
   "display": "standalone",

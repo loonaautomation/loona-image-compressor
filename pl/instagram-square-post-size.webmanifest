@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar",
   "short_name": "Rozmiar",
   "description": "Utwórz Instagram post kwadratowy (1:1) dokładnie 1080×1080 px. Darmowe narzędzie do zmiany rozmiaru/przycinania w przeglądarce z zasadami strefy bezpiecznej, które chronią przycięty tekst i twarze.",
-  "id": "/loona-image-compressor/pl/instagram-square-post-size.html",
+  "id": "/pl/instagram-square-post-size.html",
   "start_url": "./instagram-square-post-size.html",
   "scope": "./instagram-square-post-size.html",
   "display": "standalone",

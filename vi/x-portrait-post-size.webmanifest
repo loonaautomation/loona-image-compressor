@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Bài đăng dọc (4",
   "short_name": "Kích thước Bài đăng dọc (4",
   "description": "Tạo bài đăng dọc (4:5) X (Twitter) chính xác 1080×1350 px. Công cụ thay đổi kích thước/cắt ảnh miễn phí trong trình duyệt của bạn, kèm các quy tắc vùng an toàn giúp văn bản và khuôn mặt không bị cắt mất.",
-  "id": "/loona-image-compressor/vi/x-portrait-post-size.html",
+  "id": "/vi/x-portrait-post-size.html",
   "start_url": "./x-portrait-post-size.html",
   "scope": "./x-portrait-post-size.html",
   "display": "standalone",

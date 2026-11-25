@@ -2,7 +2,7 @@
   "name": "Loona Ανάρτηση Φωτογραφίας (Πορτρέτο) TikTok",
   "short_name": "Ανάρτηση Φωτογραφίας",
   "description": "Δημιουργήστε ένα ανάρτηση φωτογραφίας (πορτρέτο) TikTok σε ακριβώς 1080×1350 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/tiktok-photo-post-portrait-size.html",
+  "id": "/el/tiktok-photo-post-portrait-size.html",
   "start_url": "./tiktok-photo-post-portrait-size.html",
   "scope": "./tiktok-photo-post-portrait-size.html",
   "display": "standalone",

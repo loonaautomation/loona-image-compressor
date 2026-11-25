@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Προφίλ Instagram",
   "short_name": "Φωτογραφία Προφίλ Instagram",
   "description": "Δημιουργήστε ένα φωτογραφία προφίλ Instagram σε ακριβώς 1080×1080 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/instagram-profile-picture-size.html",
+  "id": "/el/instagram-profile-picture-size.html",
   "start_url": "./instagram-profile-picture-size.html",
   "scope": "./instagram-profile-picture-size.html",
   "display": "standalone",

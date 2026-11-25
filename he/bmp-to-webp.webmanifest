@@ -2,7 +2,7 @@
   "name": "Loona ממיר BMP ל־WEBP",
   "short_name": "ממיר BMP ל־WEBP",
   "description": "המירו BMP ל־WEBP באינטרנט, בחינם, בדפדפן שלכם. המרה אמיתית במכשיר שלכם — ללא העלאה, ללא הרשמה, ללא סימני מים.",
-  "id": "/loona-image-compressor/he/bmp-to-webp.html",
+  "id": "/he/bmp-to-webp.html",
   "start_url": "./bmp-to-webp.html",
   "scope": "./bmp-to-webp.html",
   "display": "standalone",

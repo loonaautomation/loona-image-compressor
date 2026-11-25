@@ -2,7 +2,7 @@
   "name": "Loona Премахване на метаданни от изображения",
   "short_name": "Премахване на метаданни от",
   "description": "Премахнете метаданни EXIF, GPS местоположение, XMP и IPTC от снимки JPG, PNG и WebP онлайн безплатно. Изчистване на ниво байтове — пикселите никога не се прекодират, така че качеството остава недокоснато. Проверено чрез повторно сканиране, 100% лично във вашия браузър.",
-  "id": "/loona-image-compressor/bg/remove-image-metadata.html",
+  "id": "/bg/remove-image-metadata.html",
   "start_url": "./remove-image-metadata.html",
   "scope": "./remove-image-metadata.html",
   "display": "standalone",

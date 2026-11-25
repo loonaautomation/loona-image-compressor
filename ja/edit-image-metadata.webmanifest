@@ -2,7 +2,7 @@
   "name": "Loona EXIFエディター",
   "short_name": "EXIFエディター",
   "description": "JPG写真のEXIFデータをオンラインで無料で編集できます — 撮影日を修正し、名前をアーティストとして追加し、著作権、カメラのメーカーとモデルを設定し、または何もない写真にEXIFを作成できます。ピクセルが再エンコードされることは決してなく、何もアップロードされません。",
-  "id": "/loona-image-compressor/ja/edit-image-metadata.html",
+  "id": "/ja/edit-image-metadata.html",
   "start_url": "./edit-image-metadata.html",
   "scope": "./edit-image-metadata.html",
   "display": "standalone",

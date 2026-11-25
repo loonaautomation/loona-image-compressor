@@ -2,7 +2,7 @@
   "name": "Loona Размер Снимка за паспорт / лична карта на Франция",
   "short_name": "Размер Снимка за паспорт /",
   "description": "Направете Снимка за паспорт / лична карта на Франция в официалния размер 35×45 mm (413×531 px), фон обикновен светлосив или светлосин. Безплатен онлайн инструмент — изрязване, изтегляне и лист за печат, без качване.",
-  "id": "/loona-image-compressor/bg/france-passport-photo-size.html",
+  "id": "/bg/france-passport-photo-size.html",
   "start_url": "./france-passport-photo-size.html",
   "scope": "./france-passport-photo-size.html",
   "display": "standalone",

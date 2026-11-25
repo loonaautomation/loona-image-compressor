@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie pentru pașaportul UK",
   "short_name": "Dimensiune Fotografie pentru",
   "description": "Creează un Fotografie pentru pașaportul UK la dimensiunea oficială 35×45 mm (600×750 px), fundal gri deschis simplu sau crem. Creator online gratuit — decupează, descarcă și imprimă foaia, fără încărcare.",
-  "id": "/loona-image-compressor/ro/uk-passport-photo-size.html",
+  "id": "/ro/uk-passport-photo-size.html",
   "start_url": "./uk-passport-photo-size.html",
   "scope": "./uk-passport-photo-size.html",
   "display": "standalone",

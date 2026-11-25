@@ -2,7 +2,7 @@
   "name": "Loona Video to GIF Converter",
   "short_name": "Convertisseur vidéo en GIF",
   "description": "Convertissez une vidéo en GIF en ligne gratuitement : transformez un clip MP4 ou WebM en GIF animé. Basé sur le navigateur, sans inscription, sans envoi et sans filigrane.",
-  "id": "/loona-image-compressor/fr/video-to-gif.html",
+  "id": "/fr/video-to-gif.html",
   "start_url": "./video-to-gif.html",
   "scope": "./video-to-gif.html",
   "display": "standalone",

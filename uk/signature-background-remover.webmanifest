@@ -2,7 +2,7 @@
   "name": "Loona Видалення тла підпису",
   "short_name": "Видалення тла підпису",
   "description": "Видаліть паперове тло зі світлини підпису чи печатки та завантажте прозорий PNG безкоштовно онлайн. Чисто браузерний інструмент на полотні — без ШІ, без завантаження, без реєстрації.",
-  "id": "/loona-image-compressor/uk/signature-background-remover.html",
+  "id": "/uk/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

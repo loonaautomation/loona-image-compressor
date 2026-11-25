@@ -2,7 +2,7 @@
   "name": "Loona Comprimir PNG para 100 KB Online",
   "short_name": "Comprimir PNG para 100 KB",
   "description": "Comprima uma imagem PNG para 100 KB ou menos, grátis no navegador. A procura automática encontra a melhor qualidade que cabe — sem registo e sem envios.",
-  "id": "/loona-image-compressor/pt-pt/compress-png-to-100kb.html",
+  "id": "/pt-pt/compress-png-to-100kb.html",
   "start_url": "./compress-png-to-100kb.html",
   "scope": "./compress-png-to-100kb.html",
   "display": "standalone",

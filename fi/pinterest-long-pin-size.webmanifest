@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Pitkä / infografiikkapinni koko",
   "short_name": "Pinterest Pitkä /",
   "description": "Tee Pinterest pitkä / infografiikkapinni tarkalleen kokoon 1000×2100 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/pinterest-long-pin-size.html",
+  "id": "/fi/pinterest-long-pin-size.html",
   "start_url": "./pinterest-long-pin-size.html",
   "scope": "./pinterest-long-pin-size.html",
   "display": "standalone",

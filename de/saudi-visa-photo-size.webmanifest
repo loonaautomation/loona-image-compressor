@@ -2,7 +2,7 @@
   "name": "Loona Saudi-Arabien-Visumfoto Größe",
   "short_name": "Saudi-Arabien-Visumfoto Größe",
   "description": "Erstellen Sie ein Saudi-Arabien-Visumfoto in der offiziellen Größe 40×60 mm (472×709 px), Hintergrund einfarbig weiß. Kostenloser Online-Ersteller — zuschneiden, herunterladen und Druckbogen, ohne Upload.",
-  "id": "/loona-image-compressor/de/saudi-visa-photo-size.html",
+  "id": "/de/saudi-visa-photo-size.html",
   "start_url": "./saudi-visa-photo-size.html",
   "scope": "./saudi-visa-photo-size.html",
   "display": "standalone",

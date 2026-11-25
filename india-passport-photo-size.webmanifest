@@ -2,7 +2,7 @@
   "name": "Loona India Passport Photo Size",
   "short_name": "India Passport Photo Size",
   "description": "Make a India Passport Photo at the official size 51×51 mm (600×600 px), plain white background. Free online maker — crop, download and print sheet, no upload.",
-  "id": "/loona-image-compressor/india-passport-photo-size.html",
+  "id": "/india-passport-photo-size.html",
   "start_url": "./india-passport-photo-size.html",
   "scope": "./india-passport-photo-size.html",
   "display": "standalone",

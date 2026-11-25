@@ -2,7 +2,7 @@
   "name": "Loona エジプトパスポート写真のサイズ",
   "short_name": "エジプトパスポート写真のサイズ",
   "description": "公式サイズ40×60 mm（472×709 px）、無地の白の背景でエジプトパスポート写真を作成できます。無料のオンライン作成ツール — 切り取り、ダウンロード、印刷シートまで、アップロード不要です。",
-  "id": "/loona-image-compressor/ja/egypt-passport-photo-size.html",
+  "id": "/ja/egypt-passport-photo-size.html",
   "start_url": "./egypt-passport-photo-size.html",
   "scope": "./egypt-passport-photo-size.html",
   "display": "standalone",

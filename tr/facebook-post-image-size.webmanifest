@@ -2,7 +2,7 @@
   "name": "Loona Facebook Gönderi / Bağlantı Görüntüsü Boyutu — 1200×630 px",
   "short_name": "Facebook Gönderi / Bağlantı Görüntüsü Boyutu — 1200×630 px",
   "description": "Tam olarak 1200×630 px ölçüsünde bir Facebook gönderi / bağlantı görüntüsü oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/facebook-post-image-size.html",
+  "id": "/tr/facebook-post-image-size.html",
   "start_url": "./facebook-post-image-size.html",
   "scope": "./facebook-post-image-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona SSC MTS Fotoğraf Boyutu — 200 × 230 px, 20–50 KB",
   "short_name": "SSC MTS Fotoğraf Boyutu — 200 × 230 px, 20–50 KB",
   "description": "SSC MTS fotoğraf belgenizi duyuru boyutuna (200 × 230 px) ve 20–50 KB bandına getirin. Ücretsiz, tarayıcınızda — yükleme yok, kayıt yok.",
-  "id": "/loona-image-compressor/tr/ssc-mts-photo-size.html",
+  "id": "/tr/ssc-mts-photo-size.html",
   "start_url": "./ssc-mts-photo-size.html",
   "scope": "./ssc-mts-photo-size.html",
   "display": "standalone",

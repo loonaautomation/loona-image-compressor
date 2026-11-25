@@ -2,7 +2,7 @@
   "name": "Loona Discord Davet Açılış Görüntüsü Boyutu — 1920×1080 px",
   "short_name": "Discord Davet Açılış Görüntüsü Boyutu — 1920×1080 px",
   "description": "Tam olarak 1920×1080 px ölçüsünde bir Discord davet açılış görüntüsü oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/discord-server-splash-size.html",
+  "id": "/tr/discord-server-splash-size.html",
   "start_url": "./discord-server-splash-size.html",
   "scope": "./discord-server-splash-size.html",
   "display": "standalone",

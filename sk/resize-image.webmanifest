@@ -2,7 +2,7 @@
   "name": "Loona Zmeniť veľkosť obrázka",
   "short_name": "Zmeniť veľkosť obrázka",
   "description": "Zmeňte veľkosť akéhokoľvek obrázka podľa pixelov, cm alebo palcov s nastavením DPI zadarmo. Zachovajte pomer strán, vyberte JPG, PNG alebo WebP a sťahujte okamžite — registrácia nie je potrebná.",
-  "id": "/loona-image-compressor/sk/resize-image.html",
+  "id": "/sk/resize-image.html",
   "start_url": "./resize-image.html",
   "scope": "./resize-image.html",
   "display": "standalone",

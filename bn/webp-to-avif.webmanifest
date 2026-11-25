@@ -2,7 +2,7 @@
   "name": "Loona WEBP থেকে AVIF রূপান্তরকারী",
   "short_name": "WEBP থেকে AVIF রূপান্তরকারী",
   "description": "WEBP-কে AVIF-তে রূপান্তর করুন অনলাইনে, বিনামূল্যে, আপনার ব্রাউজারে। আপনার ডিভাইসে আসল রূপান্তর — আপলোড নেই, সাইনআপ নেই, ওয়াটারমার্ক নেই।",
-  "id": "/loona-image-compressor/bn/webp-to-avif.html",
+  "id": "/bn/webp-to-avif.html",
   "start_url": "./webp-to-avif.html",
   "scope": "./webp-to-avif.html",
   "display": "standalone",

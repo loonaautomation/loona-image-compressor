@@ -2,7 +2,7 @@
   "name": "Loona Velikost GATE Fotografie",
   "short_name": "Velikost GATE Fotografie",
   "description": "Změňte velikost souboru GATE fotografie na velikost podle oznámení (480 × 640 px) a pásmo 5–200 KB. Zdarma, ve vašem prohlížeči — bez nahrávání a bez registrace.",
-  "id": "/loona-image-compressor/cs/gate-photo-size.html",
+  "id": "/cs/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

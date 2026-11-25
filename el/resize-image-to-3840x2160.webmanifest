@@ -2,7 +2,7 @@
   "name": "Loona Αλλαγή Μεγέθους Εικόνας σε 3840 × 2160 px Online",
   "short_name": "Αλλαγή Μεγέθους Εικόνας σε",
   "description": "Αλλάξτε το μέγεθος οποιασδήποτε εικόνας σε ακριβώς 3840×2160 px — Ταπετσαρία / καρέ βίντεο 4K UHD. Δωρεάν στο πρόγραμμα περιήγησής σας με έλεγχο περικοπής· χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/resize-image-to-3840x2160.html",
+  "id": "/el/resize-image-to-3840x2160.html",
   "start_url": "./resize-image-to-3840x2160.html",
   "scope": "./resize-image-to-3840x2160.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Změnit velikost obrázku na 720 × 720 px online",
   "short_name": "Změnit velikost obrázku na",
   "description": "Změňte velikost libovolného obrázku přesně na 720×720 px — Minimum pro profil na Facebooku a obecná velikost avataru. Zdarma ve vašem prohlížeči s ovládáním ořezu; bez nahrávání a bez registrace.",
-  "id": "/loona-image-compressor/cs/resize-image-to-720x720.html",
+  "id": "/cs/resize-image-to-720x720.html",
   "start_url": "./resize-image-to-720x720.html",
   "scope": "./resize-image-to-720x720.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona GIF",
   "short_name": "GIF",
   "description": "Muunna GIF muotoon WEBP verkossa, ilmaiseksi, selaimessasi. Aito muunnos laitteellasi — ilman palvelimelle lataamista, ilman rekisteröitymistä ja ilman vesileimoja.",
-  "id": "/loona-image-compressor/fi/gif-to-webp.html",
+  "id": "/fi/gif-to-webp.html",
   "start_url": "./gif-to-webp.html",
   "scope": "./gif-to-webp.html",
   "display": "standalone",

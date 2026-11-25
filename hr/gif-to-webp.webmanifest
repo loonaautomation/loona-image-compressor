@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač GIF u WEBP",
   "short_name": "Pretvarač GIF u WEBP",
   "description": "Pretvorite GIF u WEBP na mreži, besplatno, u svom pregledniku. Pravo pretvaranje na vašem uređaju — bez prijenosa, bez registracije, bez vodenih žigova.",
-  "id": "/loona-image-compressor/hr/gif-to-webp.html",
+  "id": "/hr/gif-to-webp.html",
   "start_url": "./gif-to-webp.html",
   "scope": "./gif-to-webp.html",
   "display": "standalone",

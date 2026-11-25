@@ -2,7 +2,7 @@
   "name": "Loona Video to GIF Converter",
   "short_name": "Video to GIF Converter",
   "description": "Muunna video GIF:ksi verkossa ilmaiseksi — tee MP4- tai WebM-leikkeestä animoitu GIF. Selainpohjainen, ei rekisteröitymistä, ei lähetystä palvelimelle, ei vesileimaa.",
-  "id": "/loona-image-compressor/fi/video-to-gif.html",
+  "id": "/fi/video-to-gif.html",
   "start_url": "./video-to-gif.html",
   "scope": "./video-to-gif.html",
   "display": "standalone",

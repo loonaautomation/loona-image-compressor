@@ -2,7 +2,7 @@
   "name": "Loona Fotoformaat Visumfoto Canada (digitaal)",
   "short_name": "Fotoformaat Visumfoto Canada",
   "description": "Maak een Visumfoto Canada (digitaal) op het officiële formaat 35×45 mm (420×540 px), achtergrond: effen wit of lichtgekleurd. Gratis online maker — bijsnijden, downloaden en printvel, geen upload.",
-  "id": "/loona-image-compressor/nl/canada-visa-photo-size.html",
+  "id": "/nl/canada-visa-photo-size.html",
   "start_url": "./canada-visa-photo-size.html",
   "scope": "./canada-visa-photo-size.html",
   "display": "standalone",

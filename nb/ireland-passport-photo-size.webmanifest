@@ -2,7 +2,7 @@
   "name": "Loona Ireland Passport Photo-størrelse",
   "short_name": "Ireland Passport",
   "description": "Lag et Ireland Passport Photo i den offisielle størrelsen 35×45 mm (413×531 px), ensfarget hvit eller lys grå bakgrunn. Gratis verktøy på nett — beskjær, last ned og skriv ut ark, ingen opplasting.",
-  "id": "/loona-image-compressor/nb/ireland-passport-photo-size.html",
+  "id": "/nb/ireland-passport-photo-size.html",
   "start_url": "./ireland-passport-photo-size.html",
   "scope": "./ireland-passport-photo-size.html",
   "display": "standalone",

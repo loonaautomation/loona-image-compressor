@@ -2,7 +2,7 @@
   "name": "Loona Έλεγχος Αντίθεσης",
   "short_name": "Έλεγχος Αντίθεσης",
   "description": "Ελέγξτε χρώματα κειμένου και φόντου έναντι WCAG: άμεση αναλογία αντίθεσης με επιτυχία/αποτυχία AA και AAA για κανονικό και μεγάλο κείμενο, συν ζωντανή προεπισκόπηση. Δωρεάν, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/contrast-checker.html",
+  "id": "/el/contrast-checker.html",
   "start_url": "./contrast-checker.html",
   "scope": "./contrast-checker.html",
   "display": "standalone",

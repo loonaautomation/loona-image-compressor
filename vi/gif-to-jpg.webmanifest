@@ -2,7 +2,7 @@
   "name": "Loona Trình chuyển đổi GIF sang JPG",
   "short_name": "Trình chuyển đổi GIF sang JPG",
   "description": "Chuyển đổi GIF sang JPG trực tuyến miễn phí — biến một GIF thành hình tĩnh JPG nhỏ gọn, phổ thông. Trong trình duyệt của bạn: không cần đăng ký, không tải lên, không hình mờ.",
-  "id": "/loona-image-compressor/vi/gif-to-jpg.html",
+  "id": "/vi/gif-to-jpg.html",
   "start_url": "./gif-to-jpg.html",
   "scope": "./gif-to-jpg.html",
   "display": "standalone",

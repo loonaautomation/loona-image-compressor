@@ -2,7 +2,7 @@
   "name": "Loona GPS eltávolítása fotóról",
   "short_name": "GPS eltávolítása fotóról",
   "description": "Csak a GPS-helyet távolítsa el egy JPG, PNG vagy WebP fotóról, és őrizze meg a kamera-, dátum- és expozíciós adatokat. Bájtról bájtra, újrakódolás nélkül, újraszkenneléssel igazolva — 100%-ban a böngészőjében, semmi feltöltve.",
-  "id": "/loona-image-compressor/hu/remove-gps-from-photo.html",
+  "id": "/hu/remove-gps-from-photo.html",
   "start_url": "./remove-gps-from-photo.html",
   "scope": "./remove-gps-from-photo.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายJEE Main",
   "short_name": "ขนาดรูปถ่ายJEE Main",
   "description": "ปรับขนาดรูปถ่ายJEE Mainของคุณให้เป็นขนาดตามประกาศ (3.5 × 4.5 ซม. (ประมาณ 413 × 531 px ที่ 300 DPI)) และช่วง 10–200 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/jee-main-photo-size.html",
+  "id": "/th/jee-main-photo-size.html",
   "start_url": "./jee-main-photo-size.html",
   "scope": "./jee-main-photo-size.html",
   "display": "standalone",

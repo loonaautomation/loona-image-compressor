@@ -2,7 +2,7 @@
   "name": "Loona AFCAT फ़ोटो साइज़",
   "short_name": "AFCAT फ़ोटो साइज़",
   "description": "अपनी AFCAT फ़ोटो को अधिसूचना साइज़ (3.5 × 4.5 cm (300 DPI पर लगभग 413 × 531 px)) और 10–50 KB बैंड में बदलें. मुफ़्त, आपके ब्राउज़र में — न अपलोड, न साइन-अप.",
-  "id": "/loona-image-compressor/hi/afcat-photo-size.html",
+  "id": "/hi/afcat-photo-size.html",
   "start_url": "./afcat-photo-size.html",
   "scope": "./afcat-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Promijeni veličinu slike na 390 × 567 px na mreži",
   "short_name": "Promijeni veličinu slike na",
   "description": "Promijenite veličinu bilo koje slike na točno 390×567 px — 33 × 48 mm pri 300 DPI — veličina vize Kine. Besplatno u vašem pregledniku uz kontrolu izrezivanja; bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/resize-image-to-390x567.html",
+  "id": "/hr/resize-image-to-390x567.html",
   "start_url": "./resize-image-to-390x567.html",
   "scope": "./resize-image-to-390x567.html",
   "display": "standalone",

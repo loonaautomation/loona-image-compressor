@@ -2,7 +2,7 @@
   "name": "Loona IBPS PO Fotoğraf Boyutu — 200 × 230 px, 20–50 KB",
   "short_name": "IBPS PO Fotoğraf Boyutu — 200 × 230 px, 20–50 KB",
   "description": "IBPS PO fotoğraf belgenizi duyuru boyutuna (200 × 230 px) ve 20–50 KB bandına getirin. Ücretsiz, tarayıcınızda — yükleme yok, kayıt yok.",
-  "id": "/loona-image-compressor/tr/ibps-po-photo-size.html",
+  "id": "/tr/ibps-po-photo-size.html",
   "start_url": "./ibps-po-photo-size.html",
   "scope": "./ibps-po-photo-size.html",
   "display": "standalone",

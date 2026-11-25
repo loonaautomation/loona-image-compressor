@@ -2,7 +2,7 @@
   "name": "Loona Formato Avatar utente Discord",
   "short_name": "Formato Avatar utente Discord",
   "description": "Crea un avatar utente Discord esattamente di 800×800 px. Strumento gratuito di ridimensionamento e ritaglio nel tuo browser, con le regole della zona sicura che evitano testi e volti tagliati.",
-  "id": "/loona-image-compressor/it/discord-avatar-size.html",
+  "id": "/it/discord-avatar-size.html",
   "start_url": "./discord-avatar-size.html",
   "scope": "./discord-avatar-size.html",
   "display": "standalone",

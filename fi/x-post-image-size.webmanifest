@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) Julkaisun kuva (16",
   "short_name": "X (Twitter) Julkaisun kuva (16",
   "description": "Tee X (Twitter) julkaisun kuva (16:9) tarkalleen kokoon 1600×900 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/x-post-image-size.html",
+  "id": "/fi/x-post-image-size.html",
   "start_url": "./x-post-image-size.html",
   "scope": "./x-post-image-size.html",
   "display": "standalone",

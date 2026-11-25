@@ -2,7 +2,7 @@
   "name": "Loona Provfoto med namn &amp; datum",
   "short_name": "Provfoto med namn &amp; datum",
   "description": "Skapa ett provfoto med ditt namn och datum tryckt längst ner gratis — nämndprovsformatet som används i Pakistan och Indien. Privat, ingen registrering behövs.",
-  "id": "/loona-image-compressor/sv/exam-photo-name-date.html",
+  "id": "/sv/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

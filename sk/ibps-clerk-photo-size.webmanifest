@@ -2,7 +2,7 @@
   "name": "Loona Veľkosť IBPS Clerk (CSA) Fotografia",
   "short_name": "Veľkosť IBPS Clerk (CSA)",
   "description": "Zmeňte veľkosť súboru IBPS Clerk (CSA) fotografia na veľkosť podľa oznámenia (200 × 230 px) a pásmo 20–50 KB. Zadarmo, vo vašom prehliadači — bez nahrávania a bez registrácie.",
-  "id": "/loona-image-compressor/sk/ibps-clerk-photo-size.html",
+  "id": "/sk/ibps-clerk-photo-size.html",
   "start_url": "./ibps-clerk-photo-size.html",
   "scope": "./ibps-clerk-photo-size.html",
   "display": "standalone",

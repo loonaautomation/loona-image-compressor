@@ -2,7 +2,7 @@
   "name": "Loona ขนาดเฟรมวิดีโอ TikTok",
   "short_name": "ขนาดเฟรมวิดีโอ TikTok",
   "description": "ทำเฟรมวิดีโอ TikTok ที่ขนาด 1080×1920 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/tiktok-video-frame-size.html",
+  "id": "/th/tiktok-video-frame-size.html",
   "start_url": "./tiktok-video-frame-size.html",
   "scope": "./tiktok-video-frame-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Размер на Подпис за RRB Group D (Railways)",
   "short_name": "Размер на Подпис за RRB Group",
   "description": "Преоразмерете своя подпис за RRB Group D (Railways) до размера от уведомлението (140 × 60 px) и диапазона 10–40 KB. Безплатно, във вашия браузър — без качване, без регистрация.",
-  "id": "/loona-image-compressor/bg/rrb-group-d-signature-size.html",
+  "id": "/bg/rrb-group-d-signature-size.html",
   "start_url": "./rrb-group-d-signature-size.html",
   "scope": "./rrb-group-d-signature-size.html",
   "display": "standalone",

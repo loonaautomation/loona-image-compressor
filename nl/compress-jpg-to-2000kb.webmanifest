@@ -2,7 +2,7 @@
   "name": "Loona Comprimeer JPG tot 2000 KB online",
   "short_name": "Comprimeer JPG tot 2000 KB",
   "description": "Comprimeer een JPG-afbeelding gratis in je browser tot 2000 KB of kleiner. De automatische zoekfunctie vindt de beste kwaliteit die past — geen aanmelding, geen upload.",
-  "id": "/loona-image-compressor/nl/compress-jpg-to-2000kb.html",
+  "id": "/nl/compress-jpg-to-2000kb.html",
   "start_url": "./compress-jpg-to-2000kb.html",
   "scope": "./compress-jpg-to-2000kb.html",
   "display": "standalone",

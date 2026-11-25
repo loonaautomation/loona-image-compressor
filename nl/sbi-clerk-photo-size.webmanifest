@@ -2,7 +2,7 @@
   "name": "Loona Formaat SBI Clerk (Junior Associates) Foto",
   "short_name": "Formaat SBI Clerk (Junior",
   "description": "Pas je SBI Clerk (Junior Associates)-foto aan naar het formaat uit de aankondiging (200 × 230 px) en de band van 20–50 KB. Gratis, in je browser — geen upload, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/sbi-clerk-photo-size.html",
+  "id": "/nl/sbi-clerk-photo-size.html",
   "start_url": "./sbi-clerk-photo-size.html",
   "scope": "./sbi-clerk-photo-size.html",
   "display": "standalone",

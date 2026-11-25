@@ -2,7 +2,7 @@
   "name": "Loona Photo Filters &amp; Fix",
   "short_name": "Photo Filters &amp; Fix",
   "description": "फ़ोटो मुफ़्त ऑनलाइन ठीक करें: ब्राइटनेस, कंट्रास्ट और सैचुरेशन समायोजित करें, एक क्लिक से शार्प करें और Passport Fix और Vivid जैसे तैयार प्रीसेट उपयोग करें।",
-  "id": "/loona-image-compressor/hi/photo-filters-editor.html",
+  "id": "/hi/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie pentru pașaportul / viza Braziliei",
   "short_name": "Dimensiune Fotografie pentru",
   "description": "Creează un Fotografie pentru pașaportul / viza Braziliei la dimensiunea oficială 50×70 mm (591×827 px), fundal alb simplu. Creator online gratuit — decupează, descarcă și imprimă foaia, fără încărcare.",
-  "id": "/loona-image-compressor/ro/brazil-passport-photo-size.html",
+  "id": "/ro/brazil-passport-photo-size.html",
   "start_url": "./brazil-passport-photo-size.html",
   "scope": "./brazil-passport-photo-size.html",
   "display": "standalone",

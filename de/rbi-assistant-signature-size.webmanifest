@@ -2,7 +2,7 @@
   "name": "Loona RBI Assistant Unterschrift Größe",
   "short_name": "RBI Assistant Unterschrift",
   "description": "Passen Sie Ihr RBI Assistant-Unterschrift auf die Größe der Bekanntmachung (140 × 60 px) und den Bereich 10–20 KB an. Kostenlos, in Ihrem Browser — ohne Upload, ohne Anmeldung.",
-  "id": "/loona-image-compressor/de/rbi-assistant-signature-size.html",
+  "id": "/de/rbi-assistant-signature-size.html",
   "start_url": "./rbi-assistant-signature-size.html",
   "scope": "./rbi-assistant-signature-size.html",
   "display": "standalone",

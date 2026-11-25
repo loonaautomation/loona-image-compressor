@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Jalada la Bodi wa Pinterest",
   "short_name": "Ukubwa wa Jalada la Bodi wa",
   "description": "Tengeneza jalada la bodi ya Pinterest katika px 800×450 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/pinterest-board-cover-size.html",
+  "id": "/sw/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",
   "scope": "./pinterest-board-cover-size.html",
   "display": "standalone",

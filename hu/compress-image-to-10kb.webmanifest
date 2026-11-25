@@ -2,7 +2,7 @@
   "name": "Loona Kép tömörítése 10 KB-ra online",
   "short_name": "Kép tömörítése 10 KB-ra online",
   "description": "Tömörítsen JPG, PNG és WebP képeket 10 KB-ra vagy az alá, online és ingyen. Automatikus minőség- és méretkeresés a böngészőjében — regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/compress-image-to-10kb.html",
+  "id": "/hu/compress-image-to-10kb.html",
   "start_url": "./compress-image-to-10kb.html",
   "scope": "./compress-image-to-10kb.html",
   "display": "standalone",

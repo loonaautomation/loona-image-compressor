@@ -2,7 +2,7 @@
   "name": "Loona PNG → ICO Dönüştürücü – Ücretsiz, Yüklemesiz",
   "short_name": "PNG → ICO Dönüştürücü – Ücretsiz, Yüklemesiz",
   "description": "PNG formatını ICO formatına çevrimiçi, ücretsiz, tarayıcınızda dönüştürün. Cihazınızda gerçek dönüştürme — yükleme yok, kayıt yok, filigran yok.",
-  "id": "/loona-image-compressor/tr/png-to-ico.html",
+  "id": "/tr/png-to-ico.html",
   "start_url": "./png-to-ico.html",
   "scope": "./png-to-ico.html",
   "display": "standalone",

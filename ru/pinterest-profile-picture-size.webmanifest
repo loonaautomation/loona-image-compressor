@@ -2,7 +2,7 @@
   "name": "Loona Размер Фото профиля для Pinterest",
   "short_name": "Размер Фото профиля для Pinterest",
   "description": "Make a Pinterest profile picture at exactly 800×800 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/pinterest-profile-picture-size.html",
+  "id": "/pinterest-profile-picture-size.html",
   "start_url": "./pinterest-profile-picture-size.html",
   "scope": "./pinterest-profile-picture-size.html",
   "display": "standalone",

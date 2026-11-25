@@ -2,7 +2,7 @@
   "name": "Loona מסנני תמונות &amp; תיקון",
   "short_name": "מסנני תמונות &amp; תיקון",
   "description": "תקנו תמונות באינטרנט בחינם: כוונו בהירות, ניגודיות ורוויה, חדדו בלחיצה אחת והשתמשו בהגדרות מוכנות כמו תיקון פספורט וחי.",
-  "id": "/loona-image-compressor/he/photo-filters-editor.html",
+  "id": "/he/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

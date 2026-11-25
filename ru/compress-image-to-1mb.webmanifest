@@ -2,7 +2,7 @@
   "name": "Loona Сжать изображение до 1 MB онлайн",
   "short_name": "Сжать изображение до 1 MB онлайн",
   "description": "Compress JPG, PNG and WebP images to 1 MB or under, online and free. Automatic quality and size search in your browser — no signup, no upload.",
-  "id": "/loona-image-compressor/compress-image-to-1mb.html",
+  "id": "/compress-image-to-1mb.html",
   "start_url": "./compress-image-to-1mb.html",
   "scope": "./compress-image-to-1mb.html",
   "display": "standalone",

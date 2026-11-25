@@ -2,7 +2,7 @@
   "name": "Loona Bildeforbedrer",
   "short_name": "Bildeforbedrer",
   "description": "Forbedre et bilde gratis på nett: forbedre automatisk med ett klikk, gjør myke bilder skarpere, rens støy forsiktig og oppskaler 2x eller 4x. Ærlige resultater, ingen registrering, og bildet ditt forlater aldri enheten din.",
-  "id": "/loona-image-compressor/nb/image-enhancer.html",
+  "id": "/nb/image-enhancer.html",
   "start_url": "./image-enhancer.html",
   "scope": "./image-enhancer.html",
   "display": "standalone",

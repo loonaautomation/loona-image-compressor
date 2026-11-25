@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונה SSC GD Constable",
   "short_name": "גודל תמונה SSC GD Constable",
   "description": "שנו את גודל ה־תמונה של SSC GD Constable לגודל ההודעה הרשמית (200 × 230 px) ולרצועת 20–50 KB. בחינם, בדפדפן שלכם — ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/ssc-gd-photo-size.html",
+  "id": "/he/ssc-gd-photo-size.html",
   "start_url": "./ssc-gd-photo-size.html",
   "scope": "./ssc-gd-photo-size.html",
   "display": "standalone",

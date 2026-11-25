@@ -2,7 +2,7 @@
   "name": "Loona Baggrundsfjerner til underskrifter",
   "short_name": "Baggrundsfjerner til underskrifter",
   "description": "Fjern papirbaggrunden fra et foto af en underskrift eller et stempel, og download en gennemsigtig PNG, gratis online. Rent canvas-værktøj i browseren – ingen AI, ingen upload, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/signature-background-remover.html",
+  "id": "/da/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

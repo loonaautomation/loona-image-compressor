@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Paspor / Visa Brasil",
   "short_name": "Ukuran Foto Paspor / Visa",
   "description": "Buat Foto Paspor / Visa Brasil pada ukuran resmi 50×70 mm (591×827 px), latar belakang putih polos. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/brazil-passport-photo-size.html",
+  "id": "/id/brazil-passport-photo-size.html",
   "start_url": "./brazil-passport-photo-size.html",
   "scope": "./brazil-passport-photo-size.html",
   "display": "standalone",

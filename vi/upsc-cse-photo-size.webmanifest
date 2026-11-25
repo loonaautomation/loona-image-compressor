@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ảnh UPSC Civil Services (IAS)",
   "short_name": "Kích thước Ảnh UPSC Civil",
   "description": "Thay đổi kích thước ảnh UPSC Civil Services (IAS) của bạn theo kích thước trong thông báo (350 × 350 px) và dải 20–300 KB. Miễn phí, ngay trong trình duyệt của bạn — không tải lên, không đăng ký.",
-  "id": "/loona-image-compressor/vi/upsc-cse-photo-size.html",
+  "id": "/vi/upsc-cse-photo-size.html",
   "start_url": "./upsc-cse-photo-size.html",
   "scope": "./upsc-cse-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ranskan passi- / henkilökorttikuva koko",
   "short_name": "Ranskan passi- /",
   "description": "Tee Ranskan passi- / henkilökorttikuva virallisessa koossa 35×45 mm (413×531 px), taustana tavallinen vaaleanharmaa tai vaaleansininen. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/france-passport-photo-size.html",
+  "id": "/fi/france-passport-photo-size.html",
   "start_url": "./france-passport-photo-size.html",
   "scope": "./france-passport-photo-size.html",
   "display": "standalone",

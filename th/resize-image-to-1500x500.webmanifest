@@ -2,7 +2,7 @@
   "name": "Loona ปรับขนาดรูปภาพเป็น 1500 × 500",
   "short_name": "ปรับขนาดรูปภาพเป็น 1500 × 500",
   "description": "ปรับขนาดรูปภาพใดก็ได้ให้เป็น 1500 × 500 พิกเซลพอดี (X (Twitter) profile headers and wide banners) ฟรี แบบครอบเต็ม แบบใส่ด้านใน หรือแบบยืด JPG หรือ PNG ดาวน์โหลดทันที — ไม่ต้องสมัครสมาชิก ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/resize-image-to-1500x500.html",
+  "id": "/th/resize-image-to-1500x500.html",
   "start_url": "./resize-image-to-1500x500.html",
   "scope": "./resize-image-to-1500x500.html",
   "display": "standalone",

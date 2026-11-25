@@ -2,7 +2,7 @@
   "name": "Loona حجم الصورة الفوتوغرافية RRB NTPC",
   "short_name": "حجم الصورة الفوتوغرافية RRB",
   "description": "غيّر حجم الصورة الخاص بك لامتحان RRB NTPC (Railways) إلى حجم الإشعار (320 × 240 px) ونطاق 30–70 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/rrb-ntpc-photo-size.html",
+  "id": "/ar/rrb-ntpc-photo-size.html",
   "start_url": "./rrb-ntpc-photo-size.html",
   "scope": "./rrb-ntpc-photo-size.html",
   "display": "standalone",

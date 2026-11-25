@@ -2,7 +2,7 @@
   "name": "Loona Filtri e correzione foto",
   "short_name": "Filtri e correzione foto",
   "description": "Correggi le foto online gratis: regola luminosità, contrasto e saturazione, rendi nitido in un clic e usa impostazioni pronte come Correzione passaporto e Vivido.",
-  "id": "/loona-image-compressor/it/photo-filters-editor.html",
+  "id": "/it/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

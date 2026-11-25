@@ -2,7 +2,7 @@
   "name": "Loona 将图片调整为 1280 × 720",
   "short_name": "将图片调整为 1280 × 720",
   "description": "免费将任何图片调整为精确的 1280 × 720 像素（YouTube 缩略图和 HD 视频）。Cover、contain 或 stretch，JPG 或 PNG，即时下载 — 无需注册，什么都不上传。",
-  "id": "/loona-image-compressor/zh/resize-image-to-1280x720.html",
+  "id": "/zh/resize-image-to-1280x720.html",
   "start_url": "./resize-image-to-1280x720.html",
   "scope": "./resize-image-to-1280x720.html",
   "display": "standalone",

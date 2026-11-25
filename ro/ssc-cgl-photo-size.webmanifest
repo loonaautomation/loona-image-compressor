@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie SSC CGL",
   "short_name": "Dimensiune Fotografie SSC CGL",
   "description": "Redimensionează fotografie pentru SSC CGL la dimensiunea din notificare (200 × 230 px) și intervalul 20–50 KB. Gratuit, în browserul tău — fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/ssc-cgl-photo-size.html",
+  "id": "/ro/ssc-cgl-photo-size.html",
   "start_url": "./ssc-cgl-photo-size.html",
   "scope": "./ssc-cgl-photo-size.html",
   "display": "standalone",

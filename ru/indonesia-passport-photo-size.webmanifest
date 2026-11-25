@@ -2,7 +2,7 @@
   "name": "Loona Размер фото Фото на паспорт Индонезии",
   "short_name": "Размер фото Фото на паспорт Индонезии",
   "description": "Make a Indonesia Passport Photo at the official size 40×60 mm (472×709 px), red (for passports) — white for many other IDs background. Free online maker — crop, download and print sheet, no upload.",
-  "id": "/loona-image-compressor/indonesia-passport-photo-size.html",
+  "id": "/indonesia-passport-photo-size.html",
   "start_url": "./indonesia-passport-photo-size.html",
   "scope": "./indonesia-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona גודל לוגו דף חברה LinkedIn",
   "short_name": "גודל לוגו דף חברה LinkedIn",
   "description": "צרו לוגו דף חברה של LinkedIn בדיוק ב־300×300 px. משנה גודל/חיתוך בחינם בדפדפן שלכם, עם כללי אזור הבטיחות שמונעים חיתוך של טקסט ופנים.",
-  "id": "/loona-image-compressor/he/linkedin-company-logo-size.html",
+  "id": "/he/linkedin-company-logo-size.html",
   "start_url": "./linkedin-company-logo-size.html",
   "scope": "./linkedin-company-logo-size.html",
   "display": "standalone",

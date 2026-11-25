@@ -2,7 +2,7 @@
   "name": "Loona CSS színátmenet-generátor",
   "short_name": "CSS színátmenet-generátor",
   "description": "Építsen CSS lineáris színátmeneteket két vagy három színnel és bármilyen szögben, nézze meg őket élőben, és másolja ki a kész CSS-kódot. Ingyen, regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/gradient-generator.html",
+  "id": "/hu/gradient-generator.html",
   "start_url": "./gradient-generator.html",
   "scope": "./gradient-generator.html",
   "display": "standalone",

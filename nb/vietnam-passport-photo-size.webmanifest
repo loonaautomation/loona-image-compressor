@@ -2,7 +2,7 @@
   "name": "Loona Vietnam Passport / Visa Photo-størrelse",
   "short_name": "Vietnam Passport / Visa",
   "description": "Lag et Vietnam Passport / Visa Photo i den offisielle størrelsen 40×60 mm (472×709 px), ensfarget hvit bakgrunn. Gratis verktøy på nett — beskjær, last ned og skriv ut ark, ingen opplasting.",
-  "id": "/loona-image-compressor/nb/vietnam-passport-photo-size.html",
+  "id": "/nb/vietnam-passport-photo-size.html",
   "start_url": "./vietnam-passport-photo-size.html",
   "scope": "./vietnam-passport-photo-size.html",
   "display": "standalone",

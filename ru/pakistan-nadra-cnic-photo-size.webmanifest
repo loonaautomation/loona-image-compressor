@@ -2,7 +2,7 @@
   "name": "Loona Размер фото Фото на CNIC NADRA Пакистана",
   "short_name": "Размер фото Фото на CNIC NADRA Пакистана",
   "description": "Make a Pakistan NADRA CNIC Photo at the official size 51×51 mm (600×600 px), plain white background. Free online maker — crop, download and print sheet, no upload.",
-  "id": "/loona-image-compressor/pakistan-nadra-cnic-photo-size.html",
+  "id": "/pakistan-nadra-cnic-photo-size.html",
   "start_url": "./pakistan-nadra-cnic-photo-size.html",
   "scope": "./pakistan-nadra-cnic-photo-size.html",
   "display": "standalone",

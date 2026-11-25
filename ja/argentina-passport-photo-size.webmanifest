@@ -2,7 +2,7 @@
   "name": "Loona アルゼンチンパスポート／DNI写真のサイズ",
   "short_name": "アルゼンチンパスポート／DNI写真のサイズ",
   "description": "公式サイズ40×40 mm（472×472 px）、無地の白または明るい青の背景でアルゼンチンパスポート／DNI写真を作成できます。無料のオンライン作成ツール — 切り取り、ダウンロード、印刷シートまで、アップロード不要です。",
-  "id": "/loona-image-compressor/ja/argentina-passport-photo-size.html",
+  "id": "/ja/argentina-passport-photo-size.html",
   "start_url": "./argentina-passport-photo-size.html",
   "scope": "./argentina-passport-photo-size.html",
   "display": "standalone",

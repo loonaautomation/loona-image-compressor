@@ -2,7 +2,7 @@
   "name": "Loona Thay đổi kích thước ảnh thành 1748 × 2480 px trực tuyến",
   "short_name": "Thay đổi kích thước ảnh thành",
   "description": "Thay đổi kích thước mọi hình ảnh thành chính xác 1748×2480 px — A5 ở 300 DPI. Miễn phí trong trình duyệt của bạn với điều khiển cắt ảnh; không tải lên, không đăng ký.",
-  "id": "/loona-image-compressor/vi/resize-image-to-1748x2480.html",
+  "id": "/vi/resize-image-to-1748x2480.html",
   "start_url": "./resize-image-to-1748x2480.html",
   "scope": "./resize-image-to-1748x2480.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Trình chuyển đổi ICO sang PNG",
   "short_name": "Trình chuyển đổi ICO sang PNG",
   "description": "Chuyển đổi ICO sang PNG trực tuyến, miễn phí, ngay trong trình duyệt của bạn. Chuyển đổi thật trên thiết bị của bạn — không tải lên, không đăng ký, không hình mờ.",
-  "id": "/loona-image-compressor/vi/ico-to-png.html",
+  "id": "/vi/ico-to-png.html",
   "start_url": "./ico-to-png.html",
   "scope": "./ico-to-png.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona حجم التوقيع RBI Assistant",
   "short_name": "حجم التوقيع RBI Assistant",
   "description": "غيّر حجم التوقيع الخاص بك لامتحان RBI Assistant إلى حجم الإشعار (140 × 60 px) ونطاق 10–20 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/rbi-assistant-signature-size.html",
+  "id": "/ar/rbi-assistant-signature-size.html",
   "start_url": "./rbi-assistant-signature-size.html",
   "scope": "./rbi-assistant-signature-size.html",
   "display": "standalone",

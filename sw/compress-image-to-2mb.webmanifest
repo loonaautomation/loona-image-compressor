@@ -2,7 +2,7 @@
   "name": "Loona Bana Picha hadi MB 2 Mtandaoni",
   "short_name": "Bana Picha hadi MB 2 Mtandaoni",
   "description": "Bana picha za JPG, PNG na WebP hadi MB 2 au chini, mtandaoni na bure. Utafutaji otomatiki wa ubora na ukubwa kwenye kivinjari chako — bila kujisajili, bila kupakia.",
-  "id": "/loona-image-compressor/sw/compress-image-to-2mb.html",
+  "id": "/sw/compress-image-to-2mb.html",
   "start_url": "./compress-image-to-2mb.html",
   "scope": "./compress-image-to-2mb.html",
   "display": "standalone",

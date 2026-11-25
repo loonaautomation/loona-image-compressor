@@ -2,7 +2,7 @@
   "name": "Loona Velikost Pasová fotografie Japonska",
   "short_name": "Velikost Pasová fotografie",
   "description": "Vytvořte Pasová fotografie Japonska v oficiální velikosti 35×45 mm (413×531 px), pozadí: jednobarevné bílé nebo světlé, bez vzorů. Bezplatný online tvůrce — oříznutí, stažení a tiskový arch, bez nahrávání.",
-  "id": "/loona-image-compressor/cs/japan-passport-photo-size.html",
+  "id": "/cs/japan-passport-photo-size.html",
   "start_url": "./japan-passport-photo-size.html",
   "scope": "./japan-passport-photo-size.html",
   "display": "standalone",

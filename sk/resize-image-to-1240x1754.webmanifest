@@ -2,7 +2,7 @@
   "name": "Loona Zmeniť veľkosť obrázka na 1240 × 1754 px online",
   "short_name": "Zmeniť veľkosť obrázka na",
   "description": "Zmeňte veľkosť akéhokoľvek obrázka presne na 1240×1754 px — A4 pri 150 DPI. Zadarmo vo vašom prehliadači s ovládaním orezania; bez nahrávania a bez registrácie.",
-  "id": "/loona-image-compressor/sk/resize-image-to-1240x1754.html",
+  "id": "/sk/resize-image-to-1240x1754.html",
   "start_url": "./resize-image-to-1240x1754.html",
   "scope": "./resize-image-to-1240x1754.html",
   "display": "standalone",

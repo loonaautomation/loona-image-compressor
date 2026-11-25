@@ -2,7 +2,7 @@
   "name": "Loona Compress PNG to 50 KB",
   "short_name": "Compress PNG to 50 KB",
   "description": "Compress a PNG image to 50 KB or under, free in your browser. Automatic search finds the best quality that fits — no signup, no upload.",
-  "id": "/loona-image-compressor/en-us/compress-png-to-50kb.html",
+  "id": "/en-us/compress-png-to-50kb.html",
   "start_url": "./compress-png-to-50kb.html",
   "scope": "./compress-png-to-50kb.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת פרופיל TikTok",
   "short_name": "גודל תמונת פרופיל TikTok",
   "description": "צרו תמונת פרופיל של TikTok בדיוק ב־720×720 px. משנה גודל/חיתוך בחינם בדפדפן שלכם, עם כללי אזור הבטיחות שמונעים חיתוך של טקסט ופנים.",
-  "id": "/loona-image-compressor/he/tiktok-profile-picture-size.html",
+  "id": "/he/tiktok-profile-picture-size.html",
   "start_url": "./tiktok-profile-picture-size.html",
   "scope": "./tiktok-profile-picture-size.html",
   "display": "standalone",

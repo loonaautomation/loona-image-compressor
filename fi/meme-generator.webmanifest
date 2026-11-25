@@ -2,7 +2,7 @@
   "name": "Loona Meemigeneraattori",
   "short_name": "Meemigeneraattori",
   "description": "Muuta mikä tahansa kuva klassiseksi meemiksi lihavoidulla ylä- ja alatekstillä — ilmainen verkossa oleva meemigeneraattori reaaliaikaisella esikatselulla, tavallisilla taustavaihtoehdoilla ja PNG-latauksella. Ei rekisteröitymistä, eikä kuvasi koskaan poistu laitteeltasi.",
-  "id": "/loona-image-compressor/fi/meme-generator.html",
+  "id": "/fi/meme-generator.html",
   "start_url": "./meme-generator.html",
   "scope": "./meme-generator.html",
   "display": "standalone",

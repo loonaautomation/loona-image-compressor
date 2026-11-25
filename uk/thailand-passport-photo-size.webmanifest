@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото на паспорт / візу Таїланду",
   "short_name": "Розмір Фото на паспорт / візу",
   "description": "Зробіть Фото на паспорт / візу Таїланду в офіційному розмірі 35×45 мм (413×531 пікс.), тло: однотонне біле. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
-  "id": "/loona-image-compressor/uk/thailand-passport-photo-size.html",
+  "id": "/uk/thailand-passport-photo-size.html",
   "start_url": "./thailand-passport-photo-size.html",
   "scope": "./thailand-passport-photo-size.html",
   "display": "standalone",

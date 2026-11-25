@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto RRB Group D (Railways)",
   "short_name": "Ukuran Foto RRB Group D",
   "description": "Ubah ukuran foto RRB Group D (Railways) Anda ke ukuran pemberitahuan (320 × 240 px) dan rentang 30–70 KB. Gratis, di browser Anda — tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/rrb-group-d-photo-size.html",
+  "id": "/id/rrb-group-d-photo-size.html",
   "start_url": "./rrb-group-d-photo-size.html",
   "scope": "./rrb-group-d-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona מחולל מעברי CSS",
   "short_name": "מחולל מעברי CSS",
   "description": "בנו מעברי CSS ליניאריים עם שניים או שלושה צבעים וכל זווית, צפו בהם בשידור חי והעתיקו את קוד ה־CSS המוכן. בחינם, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/gradient-generator.html",
+  "id": "/he/gradient-generator.html",
   "start_url": "./gradient-generator.html",
   "scope": "./gradient-generator.html",
   "display": "standalone",

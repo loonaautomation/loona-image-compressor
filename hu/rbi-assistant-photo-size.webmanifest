@@ -2,7 +2,7 @@
   "name": "Loona RBI Assistant Fénykép méret",
   "short_name": "RBI Assistant Fénykép méret",
   "description": "Méretezze át a RBI Assistant fotó fájlját a kiírás szerinti méretre (200 × 230 px) és a 20–50 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/rbi-assistant-photo-size.html",
+  "id": "/hu/rbi-assistant-photo-size.html",
   "start_url": "./rbi-assistant-photo-size.html",
   "scope": "./rbi-assistant-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona RRB Group D (Railways)の署名サイズ",
   "short_name": "RRB Group D (Railways)の署名サイズ",
   "description": "RRB Group D (Railways)の署名を告知サイズ（140 × 60 px）と10–40 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
-  "id": "/loona-image-compressor/ja/rrb-group-d-signature-size.html",
+  "id": "/ja/rrb-group-d-signature-size.html",
   "start_url": "./rrb-group-d-signature-size.html",
   "scope": "./rrb-group-d-signature-size.html",
   "display": "standalone",

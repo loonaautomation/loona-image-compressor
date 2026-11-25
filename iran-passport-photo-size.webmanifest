@@ -2,7 +2,7 @@
   "name": "Loona Iran Passport Photo Size",
   "short_name": "Iran Passport Photo Size",
   "description": "Make a Iran Passport Photo at the official size 30×40 mm (354×472 px), plain white or light background. Free online maker — crop, download and print sheet, no upload.",
-  "id": "/loona-image-compressor/iran-passport-photo-size.html",
+  "id": "/iran-passport-photo-size.html",
   "start_url": "./iran-passport-photo-size.html",
   "scope": "./iran-passport-photo-size.html",
   "display": "standalone",

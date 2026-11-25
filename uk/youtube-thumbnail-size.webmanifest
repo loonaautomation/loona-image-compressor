@@ -2,7 +2,7 @@
   "name": "Loona Розмір Мініатюра відео YouTube",
   "short_name": "Розмір Мініатюра відео YouTube",
   "description": "Зробіть мініатюра відео для YouTube рівно 1280×720 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/youtube-thumbnail-size.html",
+  "id": "/uk/youtube-thumbnail-size.html",
   "start_url": "./youtube-thumbnail-size.html",
   "scope": "./youtube-thumbnail-size.html",
   "display": "standalone",

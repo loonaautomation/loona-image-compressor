@@ -2,7 +2,7 @@
   "name": "Loona Görüntüyü 1280 × 720'ye Yeniden Boyutlandır – HD Boyut Çevrimiçi Ücretsiz",
   "short_name": "Görüntüyü 1280 × 720'ye Yeniden Boyutlandır – HD Boyut Çevrimiçi Ücretsiz",
   "description": "Herhangi bir görüntüyü tam olarak 1280 × 720 piksele (YouTube küçük resimleri ve HD video) ücretsiz yeniden boyutlandırın. Kapla, içer veya esnet, JPG veya PNG, anında indirin — kayıt yok, hiçbir şey yüklenmez.",
-  "id": "/loona-image-compressor/tr/resize-image-to-1280x720.html",
+  "id": "/tr/resize-image-to-1280x720.html",
   "start_url": "./resize-image-to-1280x720.html",
   "scope": "./resize-image-to-1280x720.html",
   "display": "standalone",

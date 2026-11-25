@@ -2,7 +2,7 @@
   "name": "Loona Konverter JPG ke WebP",
   "short_name": "Konverter JPG ke WebP",
   "description": "Konversi JPG ke WebP online gratis dan susutkan gambar situs web hingga 25–40% pada kualitas yang sama. Di browser Anda — tanpa pendaftaran, tanpa unggahan, tanpa tanda air.",
-  "id": "/loona-image-compressor/id/jpg-to-webp.html",
+  "id": "/id/jpg-to-webp.html",
   "start_url": "./jpg-to-webp.html",
   "scope": "./jpg-to-webp.html",
   "display": "standalone",

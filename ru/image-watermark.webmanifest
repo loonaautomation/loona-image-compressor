@@ -2,7 +2,7 @@
   "name": "Loona Водяной знак на изображении",
   "short_name": "Водяной знак на изображении",
   "description": "Add a text watermark to any photo online for free — choose the text, size, colour, opacity and position, or repeat it as a tiled pattern. Live preview, no signup, and your image never leaves your device.",
-  "id": "/loona-image-compressor/image-watermark.html",
+  "id": "/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

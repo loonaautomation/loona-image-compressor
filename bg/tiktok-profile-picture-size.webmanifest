@@ -2,7 +2,7 @@
   "name": "Loona Размер на Профилна снимка за TikTok",
   "short_name": "Размер на Профилна снимка за",
   "description": "Направете профилна снимка за TikTok на точно 720×720 px. Безплатен инструмент за преоразмеряване/изрязване във вашия браузър с правилата за безопасната зона, които спират изрязване на текст и лица.",
-  "id": "/loona-image-compressor/bg/tiktok-profile-picture-size.html",
+  "id": "/bg/tiktok-profile-picture-size.html",
   "start_url": "./tiktok-profile-picture-size.html",
   "scope": "./tiktok-profile-picture-size.html",
   "display": "standalone",

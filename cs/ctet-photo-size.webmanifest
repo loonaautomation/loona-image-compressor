@@ -2,7 +2,7 @@
   "name": "Loona Velikost CTET Fotografie",
   "short_name": "Velikost CTET Fotografie",
   "description": "Změňte velikost souboru CTET fotografie na velikost podle oznámení (3,5 × 4,5 cm (asi 413 × 531 px při 300 DPI)) a pásmo 10–100 KB. Zdarma, ve vašem prohlížeči — bez nahrávání a bez registrace.",
-  "id": "/loona-image-compressor/cs/ctet-photo-size.html",
+  "id": "/cs/ctet-photo-size.html",
   "start_url": "./ctet-photo-size.html",
   "scope": "./ctet-photo-size.html",
   "display": "standalone",

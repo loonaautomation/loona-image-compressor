@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Paspor / Visa Rusia",
   "short_name": "Ukuran Foto Paspor / Visa",
   "description": "Buat Foto Paspor / Visa Rusia pada ukuran resmi 35×45 mm (413×531 px), latar belakang putih polos atau terang. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/russia-passport-photo-size.html",
+  "id": "/id/russia-passport-photo-size.html",
   "start_url": "./russia-passport-photo-size.html",
   "scope": "./russia-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JPG til BMP-konverter",
   "short_name": "JPG til BMP-konverter",
   "description": "Konverter JPG til BMP på nett, gratis, i nettleseren din. Ekte konvertering på enheten din — ingen opplasting, ingen registrering, ingen vannmerker.",
-  "id": "/loona-image-compressor/nb/jpg-to-bmp.html",
+  "id": "/nb/jpg-to-bmp.html",
   "start_url": "./jpg-to-bmp.html",
   "scope": "./jpg-to-bmp.html",
   "display": "standalone",

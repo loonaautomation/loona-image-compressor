@@ -2,7 +2,7 @@
   "name": "Loona Kleurenkiezer",
   "short_name": "Kleurenkiezer",
   "description": "Kies een kleur en kopieer direct zijn HEX-, RGB-, HSL- en HSV-waarden. Inclusief een strook met tinten en schakeringen — gratis, geen aanmelding, werkt in je browser.",
-  "id": "/loona-image-compressor/nl/color-picker.html",
+  "id": "/nl/color-picker.html",
   "start_url": "./color-picker.html",
   "scope": "./color-picker.html",
   "display": "standalone",

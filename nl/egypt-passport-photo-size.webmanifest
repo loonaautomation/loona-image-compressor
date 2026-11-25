@@ -2,7 +2,7 @@
   "name": "Loona Fotoformaat Pasfoto Egypte",
   "short_name": "Fotoformaat Pasfoto Egypte",
   "description": "Maak een Pasfoto Egypte op het officiële formaat 40×60 mm (472×709 px), achtergrond: effen wit. Gratis online maker — bijsnijden, downloaden en printvel, geen upload.",
-  "id": "/loona-image-compressor/nl/egypt-passport-photo-size.html",
+  "id": "/nl/egypt-passport-photo-size.html",
   "start_url": "./egypt-passport-photo-size.html",
   "scope": "./egypt-passport-photo-size.html",
   "display": "standalone",

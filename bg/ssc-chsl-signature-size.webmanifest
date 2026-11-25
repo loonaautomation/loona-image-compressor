@@ -2,7 +2,7 @@
   "name": "Loona Размер на Подпис за SSC CHSL",
   "short_name": "Размер на Подпис за SSC CHSL",
   "description": "Преоразмерете своя подпис за SSC CHSL до размера от уведомлението (140 × 60 px) и диапазона 10–20 KB. Безплатно, във вашия браузър — без качване, без регистрация.",
-  "id": "/loona-image-compressor/bg/ssc-chsl-signature-size.html",
+  "id": "/bg/ssc-chsl-signature-size.html",
   "start_url": "./ssc-chsl-signature-size.html",
   "scope": "./ssc-chsl-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Germany Passport Photo (Biometric)-størrelse",
   "short_name": "Germany Passport Photo",
   "description": "Lag et Germany Passport Photo (Biometric) i den offisielle størrelsen 35×45 mm (413×531 px), lys grå, ensfarget bakgrunn. Gratis verktøy på nett — beskjær, last ned og skriv ut ark, ingen opplasting.",
-  "id": "/loona-image-compressor/nb/germany-passport-photo-size.html",
+  "id": "/nb/germany-passport-photo-size.html",
   "start_url": "./germany-passport-photo-size.html",
   "scope": "./germany-passport-photo-size.html",
   "display": "standalone",

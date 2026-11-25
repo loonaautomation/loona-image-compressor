@@ -2,7 +2,7 @@
   "name": "Loona AVIF",
   "short_name": "AVIF",
   "description": "Muunna AVIF muotoon JPG verkossa, ilmaiseksi, selaimessasi. Aito muunnos laitteellasi — ilman palvelimelle lataamista, ilman rekisteröitymistä ja ilman vesileimoja.",
-  "id": "/loona-image-compressor/fi/avif-to-jpg.html",
+  "id": "/fi/avif-to-jpg.html",
   "start_url": "./avif-to-jpg.html",
   "scope": "./avif-to-jpg.html",
   "display": "standalone",

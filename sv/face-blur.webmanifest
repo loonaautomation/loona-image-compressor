@@ -2,7 +2,7 @@
   "name": "Loona Ansiktssuddighet",
   "short_name": "Ansiktssuddighet",
   "description": "Sudda eller pixla ansikten, registreringsskyltar och privata detaljer i valfritt foto. Du väljer områdena själv, väljer styrkan, förhandsvisar och laddar ner — gratis, ingen registrering, och ditt foto lämnar aldrig din enhet.",
-  "id": "/loona-image-compressor/sv/face-blur.html",
+  "id": "/sv/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

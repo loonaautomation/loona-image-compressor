@@ -2,7 +2,7 @@
   "name": "Loona Převodník fotografií do PDF",
   "short_name": "Převodník fotografií do PDF",
   "description": "Převádějte fotografie do PDF online zdarma: přidejte obrázky JPG, PNG nebo WebP, zvolte stránky A4, Letter nebo přizpůsobené obrázku a stáhněte jedno úhledné PDF. Bez nahrávání.",
-  "id": "/loona-image-compressor/cs/photo-to-pdf.html",
+  "id": "/cs/photo-to-pdf.html",
   "start_url": "./photo-to-pdf.html",
   "scope": "./photo-to-pdf.html",
   "display": "standalone",

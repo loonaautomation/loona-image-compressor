@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha za Mitandao ya Kijamii 2026",
   "short_name": "Ukubwa wa Picha za Mitandao",
   "description": "Ukubwa haswa wa picha kwa Instagram, Facebook, YouTube, X, LinkedIn, Pinterest, TikTok na Discord — na zana ya kitengenezaji na mwongozo wa eneo salama kwa kila nafasi.",
-  "id": "/loona-image-compressor/sw/social-media-image-sizes.html",
+  "id": "/sw/social-media-image-sizes.html",
   "start_url": "./social-media-image-sizes.html",
   "scope": "./social-media-image-sizes.html",
   "display": "standalone",

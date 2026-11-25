@@ -2,7 +2,7 @@
   "name": "Loona Formaat TikTok Profielfoto",
   "short_name": "Formaat TikTok Profielfoto",
   "description": "Maak een TikTok profielfoto op precies 720×720 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/tiktok-profile-picture-size.html",
+  "id": "/nl/tiktok-profile-picture-size.html",
   "start_url": "./tiktok-profile-picture-size.html",
   "scope": "./tiktok-profile-picture-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kép átméretezése 591 × 827 px méretre online",
   "short_name": "Kép átméretezése 591 × 827 px",
   "description": "Méretezzen át bármely képet pontosan 591×827 px méretre — 50 × 70 mm 300 DPI mellett — Kanada/Brazília útlevélmérete. Ingyen, a böngészőjében, vágási vezérléssel; feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/resize-image-to-591x827.html",
+  "id": "/hu/resize-image-to-591x827.html",
   "start_url": "./resize-image-to-591x827.html",
   "scope": "./resize-image-to-591x827.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Gönderi Görüntüsü Boyutu — 1200×627 px",
   "short_name": "LinkedIn Gönderi Görüntüsü Boyutu — 1200×627 px",
   "description": "Tam olarak 1200×627 px ölçüsünde bir LinkedIn gönderi görüntüsü oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/linkedin-post-image-size.html",
+  "id": "/tr/linkedin-post-image-size.html",
   "start_url": "./linkedin-post-image-size.html",
   "scope": "./linkedin-post-image-size.html",
   "display": "standalone",

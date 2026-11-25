@@ -2,7 +2,7 @@
   "name": "Loona Fotoformaat Pasfoto VK",
   "short_name": "Fotoformaat Pasfoto VK",
   "description": "Maak een Pasfoto VK op het officiële formaat 35×45 mm (600×750 px), achtergrond: effen lichtgrijs of crème. Gratis online maker — bijsnijden, downloaden en printvel, geen upload.",
-  "id": "/loona-image-compressor/nl/uk-passport-photo-size.html",
+  "id": "/nl/uk-passport-photo-size.html",
   "start_url": "./uk-passport-photo-size.html",
   "scope": "./uk-passport-photo-size.html",
   "display": "standalone",

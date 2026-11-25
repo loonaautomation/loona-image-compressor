@@ -2,7 +2,7 @@
   "name": "Loona Kép átméretezése 750 × 1050 px méretre online",
   "short_name": "Kép átméretezése 750 × 1050",
   "description": "Méretezzen át bármely képet pontosan 750×1050 px méretre — Pénztárcaméret — 2.5 × 3.5 hüvelyk 300 DPI mellett. Ingyen, a böngészőjében, vágási vezérléssel; feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/resize-image-to-750x1050.html",
+  "id": "/hu/resize-image-to-750x1050.html",
   "start_url": "./resize-image-to-750x1050.html",
   "scope": "./resize-image-to-750x1050.html",
   "display": "standalone",

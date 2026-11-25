@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายUPSC NDA",
   "short_name": "ขนาดรูปถ่ายUPSC NDA",
   "description": "ปรับขนาดรูปถ่ายUPSC NDAของคุณให้เป็นขนาดตามประกาศ (350 × 350 px) และช่วง 20–300 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/upsc-nda-photo-size.html",
+  "id": "/th/upsc-nda-photo-size.html",
   "start_url": "./upsc-nda-photo-size.html",
   "scope": "./upsc-nda-photo-size.html",
   "display": "standalone",

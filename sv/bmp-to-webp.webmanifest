@@ -2,7 +2,7 @@
   "name": "Loona BMP till WEBP Konverterare",
   "short_name": "BMP till WEBP Konverterare",
   "description": "Konvertera BMP till WEBP online, gratis, i din webbläsare. Verklig konvertering på din enhet — ingen uppladdning, ingen registrering, inga vattenstämplar.",
-  "id": "/loona-image-compressor/sv/bmp-to-webp.html",
+  "id": "/sv/bmp-to-webp.html",
   "start_url": "./bmp-to-webp.html",
   "scope": "./bmp-to-webp.html",
   "display": "standalone",

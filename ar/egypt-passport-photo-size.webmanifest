@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة جواز السفر المصري",
   "short_name": "حجم صورة جواز السفر المصري",
   "description": "اصنع صورة جواز السفر المصري بالحجم الرسمي 40×60 mm (472×709 px)، خلفية بيضاء سادة. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/egypt-passport-photo-size.html",
+  "id": "/ar/egypt-passport-photo-size.html",
   "start_url": "./egypt-passport-photo-size.html",
   "scope": "./egypt-passport-photo-size.html",
   "display": "standalone",

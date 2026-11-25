@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn پوسٹ تصویر کا سائز",
   "short_name": "LinkedIn پوسٹ تصویر کا سائز",
   "description": "LinkedIn پوسٹ تصویر بالکل 1200×627 px پر بنائیں۔ آپ کے براؤزر میں مفت ری سائزر/کراپر، محفوظ زون کے قواعد کے ساتھ جو کراپ شدہ متن اور چہروں کو روکتے ہیں۔",
-  "id": "/loona-image-compressor/ur/linkedin-post-image-size.html",
+  "id": "/ur/linkedin-post-image-size.html",
   "start_url": "./linkedin-post-image-size.html",
   "scope": "./linkedin-post-image-size.html",
   "display": "standalone",

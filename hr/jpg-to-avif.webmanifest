@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač JPG u AVIF",
   "short_name": "Pretvarač JPG u AVIF",
   "description": "Pretvorite JPG u AVIF na mreži, besplatno, u svom pregledniku. Pravo pretvaranje na vašem uređaju — bez prijenosa, bez registracije, bez vodenih žigova.",
-  "id": "/loona-image-compressor/hr/jpg-to-avif.html",
+  "id": "/hr/jpg-to-avif.html",
   "start_url": "./jpg-to-avif.html",
   "scope": "./jpg-to-avif.html",
   "display": "standalone",

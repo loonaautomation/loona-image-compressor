@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto UPSC NDA",
   "short_name": "Ukuran Foto UPSC NDA",
   "description": "Ubah ukuran foto UPSC NDA Anda ke ukuran pemberitahuan (350 × 350 px) dan rentang 20–300 KB. Gratis, di browser Anda — tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/upsc-nda-photo-size.html",
+  "id": "/id/upsc-nda-photo-size.html",
   "start_url": "./upsc-nda-photo-size.html",
   "scope": "./upsc-nda-photo-size.html",
   "display": "standalone",

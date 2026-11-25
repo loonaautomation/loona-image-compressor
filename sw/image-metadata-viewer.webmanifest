@@ -2,7 +2,7 @@
   "name": "Loona Kitazamaji cha Metadata ya Picha na EXIF",
   "short_name": "Kitazamaji cha Metadata ya",
   "description": "Tazama metadata iliyofichwa katika picha yoyote ya JPG, PNG au WebP mtandaoni bure — chapa na modeli ya kamera, tarehe ya kuchukuliwa, mwangaza, ISO, urefu wa fokasi, eneo la GPS, misingi ya IPTC na XMP. Hakuna kinachopakiwa: picha yako haiondoki kwenye kifaa chako kamwe.",
-  "id": "/loona-image-compressor/sw/image-metadata-viewer.html",
+  "id": "/sw/image-metadata-viewer.html",
   "start_url": "./image-metadata-viewer.html",
   "scope": "./image-metadata-viewer.html",
   "display": "standalone",

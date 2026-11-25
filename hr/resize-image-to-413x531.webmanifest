@@ -2,7 +2,7 @@
   "name": "Loona Promijeni veličinu slike na 413 × 531 px na mreži",
   "short_name": "Promijeni veličinu slike na",
   "description": "Promijenite veličinu bilo koje slike na točno 413×531 px — 35 × 45 mm pri 300 DPI — veličina ispisa ICAO/Schengen u pikselima. Besplatno u vašem pregledniku uz kontrolu izrezivanja; bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/resize-image-to-413x531.html",
+  "id": "/hr/resize-image-to-413x531.html",
   "start_url": "./resize-image-to-413x531.html",
   "scope": "./resize-image-to-413x531.html",
   "display": "standalone",

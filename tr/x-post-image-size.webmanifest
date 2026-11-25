@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) Gönderi Görüntüsü (16",
   "short_name": "X (Twitter) Gönderi Görüntüsü (16",
   "description": "Tam olarak 1600×900 px ölçüsünde bir X (Twitter) gönderi görüntüsü (16:9) oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/x-post-image-size.html",
+  "id": "/tr/x-post-image-size.html",
   "start_url": "./x-post-image-size.html",
   "scope": "./x-post-image-size.html",
   "display": "standalone",

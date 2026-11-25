@@ -2,7 +2,7 @@
   "name": "Loona GIF Maker",
   "short_name": "GIF Maker",
   "description": "Lag animerte GIF-er gratis på nett med Loona GIF Maker — sett bildene dine sammen til en GIF som går i sløyfe. Ingen registrering, ingen opplasting, ingen vannmerke; alt kjører i nettleseren din.",
-  "id": "/loona-image-compressor/nb/gif-maker.html",
+  "id": "/nb/gif-maker.html",
   "start_url": "./gif-maker.html",
   "scope": "./gif-maker.html",
   "display": "standalone",

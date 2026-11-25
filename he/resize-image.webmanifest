@@ -2,7 +2,7 @@
   "name": "Loona שינוי גודל תמונה",
   "short_name": "שינוי גודל תמונה",
   "description": "שנו גודל של כל תמונה לפי פיקסלים, ס",
-  "id": "/loona-image-compressor/he/resize-image.html",
+  "id": "/he/resize-image.html",
   "start_url": "./resize-image.html",
   "scope": "./resize-image.html",
   "display": "standalone",

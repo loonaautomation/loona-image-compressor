@@ -2,7 +2,7 @@
   "name": "Loona 将图片调整为 512 × 512",
   "short_name": "将图片调整为 512 × 512",
   "description": "免费将任何图片调整为精确的 512 × 512 像素（应用图标、头像和网站图标主文件）。Cover、contain 或 stretch，JPG 或 PNG，即时下载 — 无需注册，什么都不上传。",
-  "id": "/loona-image-compressor/zh/resize-image-to-512x512.html",
+  "id": "/zh/resize-image-to-512x512.html",
   "start_url": "./resize-image-to-512x512.html",
   "scope": "./resize-image-to-512x512.html",
   "display": "standalone",

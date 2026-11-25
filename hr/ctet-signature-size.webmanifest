@@ -2,7 +2,7 @@
   "name": "Loona Veličina CTET Potpis",
   "short_name": "Veličina CTET Potpis",
   "description": "Promijenite veličinu svoje CTET potpis na veličinu iz obavijesti (skenirani okvir, omjer oko 7:2) i pojas 3–30 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/ctet-signature-size.html",
+  "id": "/hr/ctet-signature-size.html",
   "start_url": "./ctet-signature-size.html",
   "scope": "./ctet-signature-size.html",
   "display": "standalone",

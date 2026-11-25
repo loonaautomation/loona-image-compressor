@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Kichwa / Bango wa X (Twitter)",
   "short_name": "Ukubwa wa Kichwa / Bango wa X",
   "description": "Tengeneza kichwa / bango ya X (Twitter) katika px 1500×500 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/x-header-size.html",
+  "id": "/sw/x-header-size.html",
   "start_url": "./x-header-size.html",
   "scope": "./x-header-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Komprimera PNG till 1500 KB online",
   "short_name": "Komprimera PNG till 1500 KB",
   "description": "Komprimera en PNG-bild till 1500 KB eller mindre, gratis i din webbläsare. Automatisk sökning hittar den bästa kvaliteten som ryms — ingen registrering, ingen uppladdning.",
-  "id": "/loona-image-compressor/sv/compress-png-to-1500kb.html",
+  "id": "/sv/compress-png-to-1500kb.html",
   "start_url": "./compress-png-to-1500kb.html",
   "scope": "./compress-png-to-1500kb.html",
   "display": "standalone",

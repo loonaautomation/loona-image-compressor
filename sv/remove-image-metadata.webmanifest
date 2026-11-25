@@ -2,7 +2,7 @@
   "name": "Loona Ta bort bildmetadata",
   "short_name": "Ta bort bildmetadata",
   "description": "Ta bort EXIF-, GPS-position-, XMP- och IPTC-metadata från JPG-, PNG- och WebP-foton online gratis. Rensning på bytenivå — pixlar kodas aldrig om, så kvaliteten är orörd. Verifierad av en ny skanning, 100 % privat i din webbläsare.",
-  "id": "/loona-image-compressor/sv/remove-image-metadata.html",
+  "id": "/sv/remove-image-metadata.html",
   "start_url": "./remove-image-metadata.html",
   "scope": "./remove-image-metadata.html",
   "display": "standalone",

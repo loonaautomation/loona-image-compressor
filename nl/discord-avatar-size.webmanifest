@@ -2,7 +2,7 @@
   "name": "Loona Formaat Discord Gebruikersavatar",
   "short_name": "Formaat Discord",
   "description": "Maak een Discord gebruikersavatar op precies 800×800 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/discord-avatar-size.html",
+  "id": "/nl/discord-avatar-size.html",
   "start_url": "./discord-avatar-size.html",
   "scope": "./discord-avatar-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona גודל חתימה SSC GD Constable",
   "short_name": "גודל חתימה SSC GD Constable",
   "description": "שנו את גודל ה־חתימה של SSC GD Constable לגודל ההודעה הרשמית (140 × 60 px) ולרצועת 10–20 KB. בחינם, בדפדפן שלכם — ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/ssc-gd-signature-size.html",
+  "id": "/he/ssc-gd-signature-size.html",
   "start_url": "./ssc-gd-signature-size.html",
   "scope": "./ssc-gd-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Discord Palvelinbanneri koko",
   "short_name": "Discord Palvelinbanneri koko",
   "description": "Tee Discord palvelinbanneri tarkalleen kokoon 960×540 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/discord-server-banner-size.html",
+  "id": "/fi/discord-server-banner-size.html",
   "start_url": "./discord-server-banner-size.html",
   "scope": "./discord-server-banner-size.html",
   "display": "standalone",

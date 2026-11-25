@@ -2,7 +2,7 @@
   "name": "Loona حجم الصورة الفوتوغرافية RBI Assistant",
   "short_name": "حجم الصورة الفوتوغرافية RBI",
   "description": "غيّر حجم الصورة الخاص بك لامتحان RBI Assistant إلى حجم الإشعار (200 × 230 px) ونطاق 20–50 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/rbi-assistant-photo-size.html",
+  "id": "/ar/rbi-assistant-photo-size.html",
   "start_url": "./rbi-assistant-photo-size.html",
   "scope": "./rbi-assistant-photo-size.html",
   "display": "standalone",

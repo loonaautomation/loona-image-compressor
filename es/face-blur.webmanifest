@@ -2,7 +2,7 @@
   "name": "Loona Desenfoque de rostros",
   "short_name": "Desenfoque de rostros",
   "description": "Desenfoca o pixela rostros, matrículas y detalles privados en cualquier foto. Tú seleccionas las zonas, eliges la intensidad, previsualizas y descargas: gratis, sin registro, y tu foto nunca sale de tu dispositivo.",
-  "id": "/loona-image-compressor/es/face-blur.html",
+  "id": "/es/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

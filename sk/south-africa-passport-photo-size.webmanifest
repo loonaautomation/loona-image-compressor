@@ -2,7 +2,7 @@
   "name": "Loona Veľkosť Pasová fotografia Juhoafrickej republiky",
   "short_name": "Veľkosť Pasová fotografia",
   "description": "Vytvorte Pasová fotografia Juhoafrickej republiky v oficiálnej veľkosti 35×45 mm (413×531 px), pozadie: jednofarebné biele alebo svetlosivé. Bezplatný online tvorca — orezanie, stiahnutie a tlačový hárok, bez nahrávania.",
-  "id": "/loona-image-compressor/sk/south-africa-passport-photo-size.html",
+  "id": "/sk/south-africa-passport-photo-size.html",
   "start_url": "./south-africa-passport-photo-size.html",
   "scope": "./south-africa-passport-photo-size.html",
   "display": "standalone",

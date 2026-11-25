@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Chapisho wa LinkedIn",
   "short_name": "Ukubwa wa Picha ya Chapisho",
   "description": "Tengeneza picha ya chapisho ya LinkedIn katika px 1200×627 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/linkedin-post-image-size.html",
+  "id": "/sw/linkedin-post-image-size.html",
   "start_url": "./linkedin-post-image-size.html",
   "scope": "./linkedin-post-image-size.html",
   "display": "standalone",

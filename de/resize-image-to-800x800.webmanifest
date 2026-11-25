@@ -2,7 +2,7 @@
   "name": "Loona Bild auf 800 × 800 skalieren",
   "short_name": "Bild auf 800 × 800 skalieren",
   "description": "Skalieren Sie jedes Bild kostenlos auf exakt 800 × 800 Pixel (Marktplatz- und Produktanzeigenfotos). Abdecken, enthalten oder strecken, JPG oder PNG, sofort herunterladen — ohne Anmeldung, nichts hochgeladen.",
-  "id": "/loona-image-compressor/de/resize-image-to-800x800.html",
+  "id": "/de/resize-image-to-800x800.html",
   "start_url": "./resize-image-to-800x800.html",
   "scope": "./resize-image-to-800x800.html",
   "display": "standalone",

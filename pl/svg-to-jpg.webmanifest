@@ -2,7 +2,7 @@
   "name": "Loona Konwerter SVG do JPG",
   "short_name": "Konwerter SVG do JPG",
   "description": "Konwertuj SVG do JPG online za darmo — renderuj logotypy i ilustracje wektorowe jako uniwersalne JPG w dowolnej szerokości. Bez rejestracji, bez przesyłania, w Twojej przeglądarce.",
-  "id": "/loona-image-compressor/pl/svg-to-jpg.html",
+  "id": "/pl/svg-to-jpg.html",
   "start_url": "./svg-to-jpg.html",
   "scope": "./svg-to-jpg.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona محوّل PNG إلى JPG",
   "short_name": "محوّل PNG إلى JPG",
   "description": "حوّل PNG إلى JPG عبر الإنترنت مجانًا. ملفات أصغر للنماذج والبريد الإلكتروني والمواقع، مباشرة في متصفحك — بلا تسجيل، بلا رفع، بلا علامة مائية.",
-  "id": "/loona-image-compressor/ar/png-to-jpg.html",
+  "id": "/ar/png-to-jpg.html",
   "start_url": "./png-to-jpg.html",
   "scope": "./png-to-jpg.html",
   "display": "standalone",

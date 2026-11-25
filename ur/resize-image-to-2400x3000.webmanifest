@@ -2,7 +2,7 @@
   "name": "Loona تصویر کو 2400 × 3000 px پر آن لائن ری سائز کریں",
   "short_name": "تصویر کو 2400 × 3000 px پر آن",
   "description": "کسی بھی تصویر کو بالکل 2400×3000 px پر ری سائز کریں — 8 × 10 انچ پرنٹ، 300 DPI پر۔ آپ کے براؤزر میں کراپ کنٹرول کے ساتھ مفت؛ نہ اپ لوڈ، نہ سائن اپ۔",
-  "id": "/loona-image-compressor/ur/resize-image-to-2400x3000.html",
+  "id": "/ur/resize-image-to-2400x3000.html",
   "start_url": "./resize-image-to-2400x3000.html",
   "scope": "./resize-image-to-2400x3000.html",
   "display": "standalone",

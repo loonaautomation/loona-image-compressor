@@ -2,7 +2,7 @@
   "name": "Loona Fotoformaat Visumfoto VAE / Emirates ID-foto",
   "short_name": "Fotoformaat Visumfoto VAE /",
   "description": "Maak een Visumfoto VAE / Emirates ID-foto op het officiële formaat 40×60 mm (472×709 px), achtergrond: effen wit. Gratis online maker — bijsnijden, downloaden en printvel, geen upload.",
-  "id": "/loona-image-compressor/nl/uae-visa-photo-size.html",
+  "id": "/nl/uae-visa-photo-size.html",
   "start_url": "./uae-visa-photo-size.html",
   "scope": "./uae-visa-photo-size.html",
   "display": "standalone",

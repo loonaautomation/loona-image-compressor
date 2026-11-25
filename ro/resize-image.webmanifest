@@ -2,7 +2,7 @@
   "name": "Loona Redimensionează imaginea",
   "short_name": "Redimensionează imaginea",
   "description": "Redimensionează orice imagine după pixeli, cm sau inch cu o setare DPI, gratuit. Păstrează raportul de aspect, alege JPG, PNG sau WebP și descarcă instantaneu — fără înregistrare necesară.",
-  "id": "/loona-image-compressor/ro/resize-image.html",
+  "id": "/ro/resize-image.html",
   "start_url": "./resize-image.html",
   "scope": "./resize-image.html",
   "display": "standalone",

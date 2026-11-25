@@ -2,7 +2,7 @@
   "name": "Loona UK वीज़ा फ़ोटो साइज़",
   "short_name": "UK वीज़ा फ़ोटो साइज़",
   "description": "आधिकारिक साइज़ 35×45 mm (600×750 px) पर UK वीज़ा फ़ोटो बनाएँ, सादा हल्का धूसर बैकग्राउंड. मुफ़्त ऑनलाइन मेकर — क्रॉप, डाउनलोड और प्रिंट शीट, बिना अपलोड.",
-  "id": "/loona-image-compressor/hi/uk-visa-photo-size.html",
+  "id": "/hi/uk-visa-photo-size.html",
   "start_url": "./uk-visa-photo-size.html",
   "scope": "./uk-visa-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona YouTube Shorts-borító / képkocka méret",
   "short_name": "YouTube Shorts-borító /",
   "description": "Készítsen YouTube shorts-borító / képkocka képet pontosan 1080×1920 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/youtube-shorts-size.html",
+  "id": "/hu/youtube-shorts-size.html",
   "start_url": "./youtube-shorts-size.html",
   "scope": "./youtube-shorts-size.html",
   "display": "standalone",

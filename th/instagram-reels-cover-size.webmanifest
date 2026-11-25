@@ -2,7 +2,7 @@
   "name": "Loona ขนาดปก Reels Instagram",
   "short_name": "ขนาดปก Reels Instagram",
   "description": "ทำปก reels Instagram ที่ขนาด 1080×1920 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/instagram-reels-cover-size.html",
+  "id": "/th/instagram-reels-cover-size.html",
   "start_url": "./instagram-reels-cover-size.html",
   "scope": "./instagram-reels-cover-size.html",
   "display": "standalone",

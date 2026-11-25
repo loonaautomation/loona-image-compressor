@@ -2,7 +2,7 @@
   "name": "Loona ICAO-standardpasfoto (35×45 mm) størrelse",
   "short_name": "ICAO-standardpasfoto (35×45",
   "description": "Lav et ICAO-standardpasfoto (35×45 mm) i den officielle størrelse 35×45 mm (413×531 px), ensfarvet lys baggrund baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
-  "id": "/loona-image-compressor/da/icao-passport-photo-size.html",
+  "id": "/da/icao-passport-photo-size.html",
   "start_url": "./icao-passport-photo-size.html",
   "scope": "./icao-passport-photo-size.html",
   "display": "standalone",

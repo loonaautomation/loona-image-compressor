@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة تأشيرة كولومبيا",
   "short_name": "حجم صورة تأشيرة كولومبيا",
   "description": "اصنع صورة تأشيرة كولومبيا بالحجم الرسمي 30×40 mm (354×472 px)، خلفية بيضاء سادة. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/colombia-visa-photo-size.html",
+  "id": "/ar/colombia-visa-photo-size.html",
   "start_url": "./colombia-visa-photo-size.html",
   "scope": "./colombia-visa-photo-size.html",
   "display": "standalone",

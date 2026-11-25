@@ -2,7 +2,7 @@
   "name": "Loona Velikost X (Twitter) Profilový obrázek",
   "short_name": "Velikost X (Twitter)",
   "description": "Vytvořte X (Twitter) profilový obrázek přesně 400×400 px. Bezplatný nástroj na změnu velikosti/ořez ve vašem prohlížeči s pravidly bezpečné zóny, která zabrání oříznutí textu a obličejů.",
-  "id": "/loona-image-compressor/cs/x-profile-picture-size.html",
+  "id": "/cs/x-profile-picture-size.html",
   "start_url": "./x-profile-picture-size.html",
   "scope": "./x-profile-picture-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona AFCAT 照片尺寸",
   "short_name": "AFCAT 照片尺寸",
   "description": "將您的 AFCAT 照片調整為通知規定的尺寸（3.5 × 4.5 cm（在 300 DPI 下約 413 × 531 px））和 10–50 KB 範圍。免費，在您的瀏覽器中完成 — 無需上傳，無需註冊。",
-  "id": "/loona-image-compressor/zh-hant/afcat-photo-size.html",
+  "id": "/zh-hant/afcat-photo-size.html",
   "start_url": "./afcat-photo-size.html",
   "scope": "./afcat-photo-size.html",
   "display": "standalone",

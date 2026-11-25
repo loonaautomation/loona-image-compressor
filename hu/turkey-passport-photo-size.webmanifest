@@ -2,7 +2,7 @@
   "name": "Loona Török útlevél- / vízumfotó (biometrikus) méret",
   "short_name": "Török útlevél- / vízumfotó",
   "description": "Készítsen Török útlevél- / vízumfotó (biometrikus) fotót a hivatalos 50×60 mm (591×709 px) méretben, sima fehér háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/turkey-passport-photo-size.html",
+  "id": "/hu/turkey-passport-photo-size.html",
   "start_url": "./turkey-passport-photo-size.html",
   "scope": "./turkey-passport-photo-size.html",
   "display": "standalone",

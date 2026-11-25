@@ -2,7 +2,7 @@
   "name": "Loona Komprimovat obrázek na 300 KB online",
   "short_name": "Komprimovat obrázek na 300 KB",
   "description": "Komprimujte obrázky JPG, PNG a WebP na 300 KB nebo méně, online a zdarma. Automatické hledání kvality a velikosti ve vašem prohlížeči — bez registrace, bez nahrávání.",
-  "id": "/loona-image-compressor/cs/compress-image-to-300kb.html",
+  "id": "/cs/compress-image-to-300kb.html",
   "start_url": "./compress-image-to-300kb.html",
   "scope": "./compress-image-to-300kb.html",
   "display": "standalone",

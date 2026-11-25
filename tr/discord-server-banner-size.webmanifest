@@ -2,7 +2,7 @@
   "name": "Loona Discord Sunucu Bannerı Boyutu — 960×540 px",
   "short_name": "Discord Sunucu Bannerı Boyutu — 960×540 px",
   "description": "Tam olarak 960×540 px ölçüsünde bir Discord sunucu bannerı oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/discord-server-banner-size.html",
+  "id": "/tr/discord-server-banner-size.html",
   "start_url": "./discord-server-banner-size.html",
   "scope": "./discord-server-banner-size.html",
   "display": "standalone",

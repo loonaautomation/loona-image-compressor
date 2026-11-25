@@ -2,7 +2,7 @@
   "name": "Loona SSC MTS Fotografi-størrelse",
   "short_name": "SSC MTS Fotografi-størrelse",
   "description": "Endre størrelsen på SSC MTS bilde til varslingsstørrelsen (200 × 230 px) og båndet på 20–50 KB. Gratis, i nettleseren din — ingen opplasting, ingen registrering.",
-  "id": "/loona-image-compressor/nb/ssc-mts-photo-size.html",
+  "id": "/nb/ssc-mts-photo-size.html",
   "start_url": "./ssc-mts-photo-size.html",
   "scope": "./ssc-mts-photo-size.html",
   "display": "standalone",

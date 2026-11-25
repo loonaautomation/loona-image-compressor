@@ -2,7 +2,7 @@
   "name": "Loona Redimensionar imagen a 1748 × 2480 px en",
   "short_name": "Redimensionar imagen a 1748 ×",
   "description": "Redimensiona cualquier imagen exactamente a 1748×2480 px: A5 a 300 DPI. Gratis en tu navegador, con control de recorte; sin subidas y sin registro.",
-  "id": "/loona-image-compressor/es/resize-image-to-1748x2480.html",
+  "id": "/es/resize-image-to-1748x2480.html",
   "start_url": "./resize-image-to-1748x2480.html",
   "scope": "./resize-image-to-1748x2480.html",
   "display": "standalone",

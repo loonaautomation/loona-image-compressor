@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Διαβατηρίου Χονγκ Κονγκ",
   "short_name": "Φωτογραφία Διαβατηρίου Χονγκ",
   "description": "Δημιουργήστε Φωτογραφία Διαβατηρίου Χονγκ Κονγκ στο επίσημο μέγεθος 40×50 mm (472×591 px), φόντο απλό λευκό. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/hong-kong-passport-photo-size.html",
+  "id": "/el/hong-kong-passport-photo-size.html",
   "start_url": "./hong-kong-passport-photo-size.html",
   "scope": "./hong-kong-passport-photo-size.html",
   "display": "standalone",

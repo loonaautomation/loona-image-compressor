@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha wa SSC GD Constable",
   "short_name": "Ukubwa wa Picha wa SSC GD",
   "description": "Badilisha ukubwa wa picha yako ya SSC GD Constable hadi ukubwa wa ilani (200 × 230 px) na kiwango cha KB 20–50. Bure, kwenye kivinjari chako — bila kupakia, bila kujisajili.",
-  "id": "/loona-image-compressor/sw/ssc-gd-photo-size.html",
+  "id": "/sw/ssc-gd-photo-size.html",
   "start_url": "./ssc-gd-photo-size.html",
   "scope": "./ssc-gd-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Veľkosť UPSC Civil Services (IAS) Fotografia",
   "short_name": "Veľkosť UPSC Civil Services",
   "description": "Zmeňte veľkosť súboru UPSC Civil Services (IAS) fotografia na veľkosť podľa oznámenia (350 × 350 px) a pásmo 20–300 KB. Zadarmo, vo vašom prehliadači — bez nahrávania a bez registrácie.",
-  "id": "/loona-image-compressor/sk/upsc-cse-photo-size.html",
+  "id": "/sk/upsc-cse-photo-size.html",
   "start_url": "./upsc-cse-photo-size.html",
   "scope": "./upsc-cse-photo-size.html",
   "display": "standalone",

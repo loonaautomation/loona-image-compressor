@@ -2,7 +2,7 @@
   "name": "Loona Färgpalettsgenerator",
   "short_name": "Färgpalettsgenerator",
   "description": "Generera harmoniska färgpaletter från valfri basfärg — analoga, komplementära, triadiska och monokromatiska scheman med kopierbara HEX-koder. Gratis, ingen registrering.",
-  "id": "/loona-image-compressor/sv/color-palette-generator.html",
+  "id": "/sv/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",
   "scope": "./color-palette-generator.html",
   "display": "standalone",

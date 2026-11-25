@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto RBI Assistant",
   "short_name": "Ukuran Foto RBI Assistant",
   "description": "Ubah ukuran foto RBI Assistant Anda ke ukuran pemberitahuan (200 × 230 px) dan rentang 20–50 KB. Gratis, di browser Anda — tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/rbi-assistant-photo-size.html",
+  "id": "/id/rbi-assistant-photo-size.html",
   "start_url": "./rbi-assistant-photo-size.html",
   "scope": "./rbi-assistant-photo-size.html",
   "display": "standalone",

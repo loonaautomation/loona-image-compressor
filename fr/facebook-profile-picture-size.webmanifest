@@ -2,7 +2,7 @@
   "name": "Loona Format Photo de profil Facebook",
   "short_name": "Format Photo de profil",
   "description": "Créez un visuel photo de profil Facebook d&#x27;exactement 720×720 px. Redimensionneur/recadreur gratuit dans votre navigateur, avec les règles de zone de sécurité qui évitent les textes et visages coupés.",
-  "id": "/loona-image-compressor/fr/facebook-profile-picture-size.html",
+  "id": "/fr/facebook-profile-picture-size.html",
   "start_url": "./facebook-profile-picture-size.html",
   "scope": "./facebook-profile-picture-size.html",
   "display": "standalone",

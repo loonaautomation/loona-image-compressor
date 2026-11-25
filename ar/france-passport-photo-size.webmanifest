@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة جواز السفر / الهوية الفرنسية",
   "short_name": "حجم صورة جواز السفر / الهوية",
   "description": "اصنع صورة جواز السفر / الهوية الفرنسية بالحجم الرسمي 35×45 mm (413×531 px)، خلفية رمادية فاتحة سادة أو زرقاء فاتحة. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/france-passport-photo-size.html",
+  "id": "/ar/france-passport-photo-size.html",
   "start_url": "./france-passport-photo-size.html",
   "scope": "./france-passport-photo-size.html",
   "display": "standalone",

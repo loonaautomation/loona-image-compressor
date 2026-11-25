@@ -2,7 +2,7 @@
   "name": "Loona RRB NTPC (Railways) دستخط کا سائز",
   "short_name": "RRB NTPC (Railways) دستخط کا",
   "description": "اپنی RRB NTPC (Railways) دستخط کو نوٹیفکیشن سائز (140 × 60 px) اور 10–40 KB بینڈ کے مطابق بنائیں۔ مفت، آپ کے براؤزر میں — نہ اپ لوڈ، نہ سائن اپ۔",
-  "id": "/loona-image-compressor/ur/rrb-ntpc-signature-size.html",
+  "id": "/ur/rrb-ntpc-signature-size.html",
   "start_url": "./rrb-ntpc-signature-size.html",
   "scope": "./rrb-ntpc-signature-size.html",
   "display": "standalone",

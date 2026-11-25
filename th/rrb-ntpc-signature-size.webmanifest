@@ -2,7 +2,7 @@
   "name": "Loona ขนาดลายเซ็นRRB NTPC (Railways)",
   "short_name": "ขนาดลายเซ็นRRB NTPC (Railways)",
   "description": "ปรับขนาดลายเซ็นRRB NTPC (Railways)ของคุณให้เป็นขนาดตามประกาศ (140 × 60 px) และช่วง 10–40 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/rrb-ntpc-signature-size.html",
+  "id": "/th/rrb-ntpc-signature-size.html",
   "start_url": "./rrb-ntpc-signature-size.html",
   "scope": "./rrb-ntpc-signature-size.html",
   "display": "standalone",

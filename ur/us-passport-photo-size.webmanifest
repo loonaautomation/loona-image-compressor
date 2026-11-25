@@ -2,7 +2,7 @@
   "name": "Loona امریکی پاسپورٹ تصویر کی تصویر کا سائز",
   "short_name": "امریکی پاسپورٹ تصویر کی تصویر",
   "description": "سرکاری سائز 51×51 mm (600×600 px) پر امریکی پاسپورٹ تصویر بنائیں، سادہ سفید پس منظر کے ساتھ۔ مفت آن لائن میکر — کراپ، ڈاؤن لوڈ اور پرنٹ شیٹ، بغیر اپ لوڈ۔",
-  "id": "/loona-image-compressor/ur/us-passport-photo-size.html",
+  "id": "/ur/us-passport-photo-size.html",
   "start_url": "./us-passport-photo-size.html",
   "scope": "./us-passport-photo-size.html",
   "display": "standalone",

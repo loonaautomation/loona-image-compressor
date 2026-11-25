@@ -2,7 +2,7 @@
   "name": "Loona Görüntüyü 1080 × 1080'e Yeniden Boyutlandır – Instagram Kare Boyutu Çevrimiçi Ücretsiz",
   "short_name": "Görüntüyü 1080 × 1080'e Yeniden Boyutlandır – Instagram Kare Boyutu Çevrimiçi Ücretsiz",
   "description": "Herhangi bir görüntüyü tam olarak 1080 × 1080 piksele (Instagram kare gönderileri ve profil resimleri) ücretsiz yeniden boyutlandırın. Kapla, içer veya esnet, JPG veya PNG, anında indirin — kayıt yok, hiçbir şey yüklenmez.",
-  "id": "/loona-image-compressor/tr/resize-image-to-1080x1080.html",
+  "id": "/tr/resize-image-to-1080x1080.html",
   "start_url": "./resize-image-to-1080x1080.html",
   "scope": "./resize-image-to-1080x1080.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото на паспорт Ірландії",
   "short_name": "Розмір Фото на паспорт",
   "description": "Зробіть Фото на паспорт Ірландії в офіційному розмірі 35×45 мм (413×531 пікс.), тло: однотонне біле або світло-сіре. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
-  "id": "/loona-image-compressor/uk/ireland-passport-photo-size.html",
+  "id": "/uk/ireland-passport-photo-size.html",
   "start_url": "./ireland-passport-photo-size.html",
   "scope": "./ireland-passport-photo-size.html",
   "display": "standalone",

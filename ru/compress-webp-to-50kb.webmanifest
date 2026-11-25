@@ -2,7 +2,7 @@
   "name": "Loona Сжать WebP до 50 KB онлайн",
   "short_name": "Сжать WebP до 50 KB онлайн",
   "description": "Compress a WebP image to 50 KB or under, free in your browser. Automatic search finds the best quality that fits — no signup, no upload.",
-  "id": "/loona-image-compressor/compress-webp-to-50kb.html",
+  "id": "/compress-webp-to-50kb.html",
   "start_url": "./compress-webp-to-50kb.html",
   "scope": "./compress-webp-to-50kb.html",
   "display": "standalone",

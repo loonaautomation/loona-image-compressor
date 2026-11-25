@@ -2,7 +2,7 @@
   "name": "Loona Canadisk visumfoto (digitalt) størrelse",
   "short_name": "Canadisk visumfoto (digitalt)",
   "description": "Lav et Canadisk visumfoto (digitalt) i den officielle størrelse 35×45 mm (420×540 px), ensfarvet hvid eller lys baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
-  "id": "/loona-image-compressor/da/canada-visa-photo-size.html",
+  "id": "/da/canada-visa-photo-size.html",
   "start_url": "./canada-visa-photo-size.html",
   "scope": "./canada-visa-photo-size.html",
   "display": "standalone",

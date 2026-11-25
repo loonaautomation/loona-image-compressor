@@ -2,7 +2,7 @@
   "name": "Loona Creador de fotos de visa",
   "short_name": "Creador de fotos de visa",
   "description": "Haz fotos de visa en línea gratis: EE. UU. 2x2 pulgadas, Reino Unido y Schengen 35x45 mm, China 33x48 mm a 300 DPI. Sin registro, sin marca de agua, herramienta totalmente privada.",
-  "id": "/loona-image-compressor/es/visa-photo-maker.html",
+  "id": "/es/visa-photo-maker.html",
   "start_url": "./visa-photo-maker.html",
   "scope": "./visa-photo-maker.html",
   "display": "standalone",

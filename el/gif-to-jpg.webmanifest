@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας GIF σε JPG",
   "short_name": "Μετατροπέας GIF σε JPG",
   "description": "Μετατρέψτε GIF σε JPG διαδικτυακά δωρεάν — μετατρέψτε ένα GIF σε μια μικρή, καθολική στατική εικόνα JPG. Στο πρόγραμμα περιήγησής σας: χωρίς εγγραφή, χωρίς μεταφόρτωση, χωρίς υδατογράφημα.",
-  "id": "/loona-image-compressor/el/gif-to-jpg.html",
+  "id": "/el/gif-to-jpg.html",
   "start_url": "./gif-to-jpg.html",
   "scope": "./gif-to-jpg.html",
   "display": "standalone",

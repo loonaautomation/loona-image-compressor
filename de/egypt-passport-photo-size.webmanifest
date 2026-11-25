@@ -2,7 +2,7 @@
   "name": "Loona Ägypten-Passfoto Größe",
   "short_name": "Ägypten-Passfoto Größe",
   "description": "Erstellen Sie ein Ägypten-Passfoto in der offiziellen Größe 40×60 mm (472×709 px), Hintergrund einfarbig weiß. Kostenloser Online-Ersteller — zuschneiden, herunterladen und Druckbogen, ohne Upload.",
-  "id": "/loona-image-compressor/de/egypt-passport-photo-size.html",
+  "id": "/de/egypt-passport-photo-size.html",
   "start_url": "./egypt-passport-photo-size.html",
   "scope": "./egypt-passport-photo-size.html",
   "display": "standalone",

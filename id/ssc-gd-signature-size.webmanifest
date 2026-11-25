@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Tanda Tangan SSC GD Constable",
   "short_name": "Ukuran Tanda Tangan SSC GD",
   "description": "Ubah ukuran tanda tangan SSC GD Constable Anda ke ukuran pemberitahuan (140 × 60 px) dan rentang 10–20 KB. Gratis, di browser Anda — tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/ssc-gd-signature-size.html",
+  "id": "/id/ssc-gd-signature-size.html",
   "start_url": "./ssc-gd-signature-size.html",
   "scope": "./ssc-gd-signature-size.html",
   "display": "standalone",

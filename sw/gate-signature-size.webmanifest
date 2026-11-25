@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Saini wa GATE",
   "short_name": "Ukubwa wa Saini wa GATE",
   "description": "Badilisha ukubwa wa saini yako ya GATE hadi ukubwa wa ilani (kisanduku kilichochanganuliwa, uwiano takriban 7:2) na kiwango cha KB 3–100. Bure, kwenye kivinjari chako — bila kupakia, bila kujisajili.",
-  "id": "/loona-image-compressor/sw/gate-signature-size.html",
+  "id": "/sw/gate-signature-size.html",
   "start_url": "./gate-signature-size.html",
   "scope": "./gate-signature-size.html",
   "display": "standalone",

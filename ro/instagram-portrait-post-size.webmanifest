@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Postare portret (4",
   "short_name": "Dimensiune Postare portret (4",
   "description": "Creează un postare portret (4:5) Instagram la exact 1080×1350 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/instagram-portrait-post-size.html",
+  "id": "/ro/instagram-portrait-post-size.html",
   "start_url": "./instagram-portrait-post-size.html",
   "scope": "./instagram-portrait-post-size.html",
   "display": "standalone",

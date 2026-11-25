@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Imagine de postare (16",
   "short_name": "Dimensiune Imagine de postare",
   "description": "Creează un imagine de postare (16:9) X (Twitter) la exact 1600×900 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/x-post-image-size.html",
+  "id": "/ro/x-post-image-size.html",
   "start_url": "./x-post-image-size.html",
   "scope": "./x-post-image-size.html",
   "display": "standalone",

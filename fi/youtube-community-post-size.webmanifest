@@ -2,7 +2,7 @@
   "name": "Loona YouTube Yhteisöjulkaisun kuva koko",
   "short_name": "YouTube Yhteisöjulkaisun kuva",
   "description": "Tee YouTube yhteisöjulkaisun kuva tarkalleen kokoon 1080×1080 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/youtube-community-post-size.html",
+  "id": "/fi/youtube-community-post-size.html",
   "start_url": "./youtube-community-post-size.html",
   "scope": "./youtube-community-post-size.html",
   "display": "standalone",

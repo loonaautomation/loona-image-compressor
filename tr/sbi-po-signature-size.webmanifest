@@ -2,7 +2,7 @@
   "name": "Loona SBI PO İmza Boyutu — 140 × 60 px, 10–20 KB",
   "short_name": "SBI PO İmza Boyutu — 140 × 60 px, 10–20 KB",
   "description": "SBI PO imza belgenizi duyuru boyutuna (140 × 60 px) ve 10–20 KB bandına getirin. Ücretsiz, tarayıcınızda — yükleme yok, kayıt yok.",
-  "id": "/loona-image-compressor/tr/sbi-po-signature-size.html",
+  "id": "/tr/sbi-po-signature-size.html",
   "start_url": "./sbi-po-signature-size.html",
   "scope": "./sbi-po-signature-size.html",
   "display": "standalone",

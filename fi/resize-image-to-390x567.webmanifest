@@ -2,7 +2,7 @@
   "name": "Loona Muuta kuvan koko kokoon 390 × 567 px verkossa",
   "short_name": "Muuta kuvan koko kokoon 390 ×",
   "description": "Muuta minkä tahansa kuvan koko tarkalleen kokoon 390×567 px — 33 × 48 mm tarkkuudella 300 DPI — Kiinan viisumikoko. Ilmaiseksi selaimessasi rajausohjauksella; ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/resize-image-to-390x567.html",
+  "id": "/fi/resize-image-to-390x567.html",
   "start_url": "./resize-image-to-390x567.html",
   "scope": "./resize-image-to-390x567.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona WEBP → AVIF Dönüştürücü – Ücretsiz, Yüklemesiz",
   "short_name": "WEBP → AVIF Dönüştürücü – Ücretsiz, Yüklemesiz",
   "description": "WEBP formatını AVIF formatına çevrimiçi, ücretsiz, tarayıcınızda dönüştürün. Cihazınızda gerçek dönüştürme — yükleme yok, kayıt yok, filigran yok.",
-  "id": "/loona-image-compressor/tr/webp-to-avif.html",
+  "id": "/tr/webp-to-avif.html",
   "start_url": "./webp-to-avif.html",
   "scope": "./webp-to-avif.html",
   "display": "standalone",

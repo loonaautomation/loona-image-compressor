@@ -2,7 +2,7 @@
   "name": "Loona Fotoformaat Visumfoto Schengen",
   "short_name": "Fotoformaat Visumfoto Schengen",
   "description": "Maak een Visumfoto Schengen op het officiële formaat 35×45 mm (413×531 px), achtergrond: lichtgrijs of effen lichte achtergrond. Gratis online maker — bijsnijden, downloaden en printvel, geen upload.",
-  "id": "/loona-image-compressor/nl/schengen-visa-photo-size.html",
+  "id": "/nl/schengen-visa-photo-size.html",
   "start_url": "./schengen-visa-photo-size.html",
   "scope": "./schengen-visa-photo-size.html",
   "display": "standalone",

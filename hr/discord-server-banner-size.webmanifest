@@ -2,7 +2,7 @@
   "name": "Loona Veličina Discord Banner poslužitelja",
   "short_name": "Veličina Discord Banner",
   "description": "Izradite Discord banner poslužitelja na točno 960×540 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/discord-server-banner-size.html",
+  "id": "/hr/discord-server-banner-size.html",
   "start_url": "./discord-server-banner-size.html",
   "scope": "./discord-server-banner-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona صانع صور NADRA / CNIC",
   "short_name": "صانع صور NADRA / CNIC",
   "description": "اصنع صورة NADRA CNIC عبر الإنترنت مجانًا: 350×467 px دقيقة لرفع Pak-ID وحجم طباعة 35×45 mm. خلفية بيضاء، بلا تسجيل، خصوصية كاملة.",
-  "id": "/loona-image-compressor/ar/nadra-cnic-photo-maker.html",
+  "id": "/ar/nadra-cnic-photo-maker.html",
   "start_url": "./nadra-cnic-photo-maker.html",
   "scope": "./nadra-cnic-photo-maker.html",
   "display": "standalone",

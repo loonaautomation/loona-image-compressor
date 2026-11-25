@@ -2,7 +2,7 @@
   "name": "Loona EXIF ایڈیٹر",
   "short_name": "EXIF ایڈیٹر",
   "description": "JPG تصویر کا EXIF ڈیٹا آن لائن مفت ترمیم کریں — لی گئی تاریخ درست کریں، اپنا نام بطور فنکار شامل کریں، کاپی رائٹ مقرر کریں، کیمرہ بنانے والا اور ماڈل، یا اس تصویر پر EXIF بنائیں جس میں کوئی نہیں۔ پکسلز کبھی دوبارہ انکوڈ نہیں ہوتے اور کچھ اپ لوڈ نہیں ہوتا۔",
-  "id": "/loona-image-compressor/ur/edit-image-metadata.html",
+  "id": "/ur/edit-image-metadata.html",
   "start_url": "./edit-image-metadata.html",
   "scope": "./edit-image-metadata.html",
   "display": "standalone",

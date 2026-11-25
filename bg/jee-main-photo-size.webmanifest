@@ -2,7 +2,7 @@
   "name": "Loona Размер на Снимка за JEE Main",
   "short_name": "Размер на Снимка за JEE Main",
   "description": "Преоразмерете своя снимка за JEE Main до размера от уведомлението (3.5 × 4.5 cm (около 413 × 531 px при 300 DPI)) и диапазона 10–200 KB. Безплатно, във вашия браузър — без качване, без регистрация.",
-  "id": "/loona-image-compressor/bg/jee-main-photo-size.html",
+  "id": "/bg/jee-main-photo-size.html",
   "start_url": "./jee-main-photo-size.html",
   "scope": "./jee-main-photo-size.html",
   "display": "standalone",

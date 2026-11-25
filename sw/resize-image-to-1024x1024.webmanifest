@@ -2,7 +2,7 @@
   "name": "Loona Badilisha Ukubwa wa Picha hadi 1024 × 1024 px Mtandaoni",
   "short_name": "Badilisha Ukubwa wa Picha",
   "description": "Badilisha ukubwa wa picha yoyote hadi px 1024×1024 haswa — Mraba wa kawaida wa aikoni ya programu na picha ya AI. Bure kwenye kivinjari chako kwa udhibiti wa kukata; bila kupakia, bila kujisajili.",
-  "id": "/loona-image-compressor/sw/resize-image-to-1024x1024.html",
+  "id": "/sw/resize-image-to-1024x1024.html",
   "start_url": "./resize-image-to-1024x1024.html",
   "scope": "./resize-image-to-1024x1024.html",
   "display": "standalone",

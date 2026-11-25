@@ -2,7 +2,7 @@
   "name": "Loona カラーピッカー",
   "short_name": "カラーピッカー",
   "description": "任意の色を選んで、そのHEX、RGB、HSL、HSV値を即座にコピーしてください。ティントとシェードの帯を含みます — 無料、登録不要、ブラウザで動作します。",
-  "id": "/loona-image-compressor/ja/color-picker.html",
+  "id": "/ja/color-picker.html",
   "start_url": "./color-picker.html",
   "scope": "./color-picker.html",
   "display": "standalone",

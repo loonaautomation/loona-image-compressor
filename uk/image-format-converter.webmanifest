@@ -2,7 +2,7 @@
   "name": "Loona Конвертер форматів зображень",
   "short_name": "Конвертер форматів зображень",
   "description": "Конвертуйте зображення між JPG, PNG і WebP онлайн безкоштовно, пакетами, з контролем якості та зведенням прозорого тла. Реєстрація не потрібна.",
-  "id": "/loona-image-compressor/uk/image-format-converter.html",
+  "id": "/uk/image-format-converter.html",
   "start_url": "./image-format-converter.html",
   "scope": "./image-format-converter.html",
   "display": "standalone",

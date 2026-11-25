@@ -2,7 +2,7 @@
   "name": "Loona Размер Снимка за виза за Китай",
   "short_name": "Размер Снимка за виза за Китай",
   "description": "Направете Снимка за виза за Китай в официалния размер 33×48 mm (390×567 px), фон обикновен бял. Безплатен онлайн инструмент — изрязване, изтегляне и лист за печат, без качване.",
-  "id": "/loona-image-compressor/bg/china-visa-photo-size.html",
+  "id": "/bg/china-visa-photo-size.html",
   "start_url": "./china-visa-photo-size.html",
   "scope": "./china-visa-photo-size.html",
   "display": "standalone",

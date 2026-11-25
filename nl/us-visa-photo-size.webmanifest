@@ -2,7 +2,7 @@
   "name": "Loona Fotoformaat Visumfoto VS (DS-160)",
   "short_name": "Fotoformaat Visumfoto VS",
   "description": "Maak een Visumfoto VS (DS-160) op het officiële formaat 51×51 mm (600×600 px), achtergrond: effen wit. Gratis online maker — bijsnijden, downloaden en printvel, geen upload.",
-  "id": "/loona-image-compressor/nl/us-visa-photo-size.html",
+  "id": "/nl/us-visa-photo-size.html",
   "start_url": "./us-visa-photo-size.html",
   "scope": "./us-visa-photo-size.html",
   "display": "standalone",

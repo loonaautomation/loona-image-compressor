@@ -2,7 +2,7 @@
   "name": "Loona ICO",
   "short_name": "ICO",
   "description": "Konvertáljon ICO fájlt PNG formátumba online, ingyen, a böngészőjében. Valódi konvertálás a saját eszközén — feltöltés, regisztráció és vízjelek nélkül.",
-  "id": "/loona-image-compressor/hu/ico-to-png.html",
+  "id": "/hu/ico-to-png.html",
   "start_url": "./ico-to-png.html",
   "scope": "./ico-to-png.html",
   "display": "standalone",

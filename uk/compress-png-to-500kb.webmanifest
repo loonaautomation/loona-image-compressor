@@ -2,7 +2,7 @@
   "name": "Loona Стиснути PNG до 500 KB онлайн",
   "short_name": "Стиснути PNG до 500 KB онлайн",
   "description": "Стисніть зображення PNG до 500 KB або менше, безкоштовно у вашому браузері. Автоматичний пошук знаходить найкращу якість, що вміщується, — без реєстрації, без передавання.",
-  "id": "/loona-image-compressor/uk/compress-png-to-500kb.html",
+  "id": "/uk/compress-png-to-500kb.html",
   "start_url": "./compress-png-to-500kb.html",
   "scope": "./compress-png-to-500kb.html",
   "display": "standalone",

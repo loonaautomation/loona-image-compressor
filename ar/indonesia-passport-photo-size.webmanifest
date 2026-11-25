@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة جواز السفر الإندونيسي",
   "short_name": "حجم صورة جواز السفر الإندونيسي",
   "description": "اصنع صورة جواز السفر الإندونيسي بالحجم الرسمي 40×60 mm (472×709 px)، خلفية حمراء (لجوازات السفر) — بيضاء لكثير من البطاقات الأخرى. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/indonesia-passport-photo-size.html",
+  "id": "/ar/indonesia-passport-photo-size.html",
   "start_url": "./indonesia-passport-photo-size.html",
   "scope": "./indonesia-passport-photo-size.html",
   "display": "standalone",

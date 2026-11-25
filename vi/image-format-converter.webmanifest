@@ -2,7 +2,7 @@
   "name": "Loona Trình chuyển đổi định dạng hình ảnh",
   "short_name": "Trình chuyển đổi định dạng",
   "description": "Chuyển đổi hình ảnh giữa JPG, PNG và WebP trực tuyến miễn phí, theo loạt, có kiểm soát chất lượng và làm phẳng nền trong suốt. Không cần đăng ký.",
-  "id": "/loona-image-compressor/vi/image-format-converter.html",
+  "id": "/vi/image-format-converter.html",
   "start_url": "./image-format-converter.html",
   "scope": "./image-format-converter.html",
   "display": "standalone",

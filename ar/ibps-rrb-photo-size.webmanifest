@@ -2,7 +2,7 @@
   "name": "Loona حجم الصورة الفوتوغرافية IBPS RRB (Gramin",
   "short_name": "حجم الصورة الفوتوغرافية IBPS",
   "description": "غيّر حجم الصورة الخاص بك لامتحان IBPS RRB (Gramin Bank) إلى حجم الإشعار (200 × 230 px) ونطاق 20–50 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/ibps-rrb-photo-size.html",
+  "id": "/ar/ibps-rrb-photo-size.html",
   "start_url": "./ibps-rrb-photo-size.html",
   "scope": "./ibps-rrb-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ขนาดภาพขนาดย่อวิดีโอ YouTube",
   "short_name": "ขนาดภาพขนาดย่อวิดีโอ YouTube",
   "description": "ทำภาพขนาดย่อวิดีโอ YouTube ที่ขนาด 1280×720 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/youtube-thumbnail-size.html",
+  "id": "/th/youtube-thumbnail-size.html",
   "start_url": "./youtube-thumbnail-size.html",
   "scope": "./youtube-thumbnail-size.html",
   "display": "standalone",

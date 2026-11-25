@@ -2,7 +2,7 @@
   "name": "Loona גודל חתימה AFCAT",
   "short_name": "גודל חתימה AFCAT",
   "description": "שנו את גודל ה־חתימה של AFCAT לגודל ההודעה הרשמית (תיבה סרוקה, יחס של כ־7:2) ולרצועת 10–50 KB. בחינם, בדפדפן שלכם — ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/afcat-signature-size.html",
+  "id": "/he/afcat-signature-size.html",
   "start_url": "./afcat-signature-size.html",
   "scope": "./afcat-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ridimensiona immagine",
   "short_name": "Ridimensiona immagine",
   "description": "Ridimensiona qualsiasi immagine per pixel, cm o pollici con un'impostazione DPI, gratis. Mantieni le proporzioni, scegli JPG, PNG o WebP e scarica all'istante: senza registrazione.",
-  "id": "/loona-image-compressor/it/resize-image.html",
+  "id": "/it/resize-image.html",
   "start_url": "./resize-image.html",
   "scope": "./resize-image.html",
   "display": "standalone",

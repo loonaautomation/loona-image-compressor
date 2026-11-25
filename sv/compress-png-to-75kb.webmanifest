@@ -2,7 +2,7 @@
   "name": "Loona Komprimera PNG till 75 KB online",
   "short_name": "Komprimera PNG till 75 KB",
   "description": "Komprimera en PNG-bild till 75 KB eller mindre, gratis i din webbläsare. Automatisk sökning hittar den bästa kvaliteten som ryms — ingen registrering, ingen uppladdning.",
-  "id": "/loona-image-compressor/sv/compress-png-to-75kb.html",
+  "id": "/sv/compress-png-to-75kb.html",
   "start_url": "./compress-png-to-75kb.html",
   "scope": "./compress-png-to-75kb.html",
   "display": "standalone",

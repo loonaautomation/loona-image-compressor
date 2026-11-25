@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Paspor / Visa Vietnam",
   "short_name": "Ukuran Foto Paspor / Visa",
   "description": "Buat Foto Paspor / Visa Vietnam pada ukuran resmi 40×60 mm (472×709 px), latar belakang putih polos. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/vietnam-passport-photo-size.html",
+  "id": "/id/vietnam-passport-photo-size.html",
   "start_url": "./vietnam-passport-photo-size.html",
   "scope": "./vietnam-passport-photo-size.html",
   "display": "standalone",

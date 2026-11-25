@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie biometrică pentru pașaportul / viza Turciei",
   "short_name": "Dimensiune Fotografie",
   "description": "Creează un Fotografie biometrică pentru pașaportul / viza Turciei la dimensiunea oficială 50×60 mm (591×709 px), fundal alb simplu. Creator online gratuit — decupează, descarcă și imprimă foaia, fără încărcare.",
-  "id": "/loona-image-compressor/ro/turkey-passport-photo-size.html",
+  "id": "/ro/turkey-passport-photo-size.html",
   "start_url": "./turkey-passport-photo-size.html",
   "scope": "./turkey-passport-photo-size.html",
   "display": "standalone",

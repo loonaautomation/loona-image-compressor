@@ -2,7 +2,7 @@
   "name": "Loona Formaat Facebook Profielfoto",
   "short_name": "Formaat Facebook Profielfoto",
   "description": "Maak een Facebook profielfoto op precies 720×720 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/facebook-profile-picture-size.html",
+  "id": "/nl/facebook-profile-picture-size.html",
   "start_url": "./facebook-profile-picture-size.html",
   "scope": "./facebook-profile-picture-size.html",
   "display": "standalone",

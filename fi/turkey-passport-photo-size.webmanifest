@@ -2,7 +2,7 @@
   "name": "Loona Turkin passi- / viisumikuva (biometrinen) koko",
   "short_name": "Turkin passi- / viisumikuva",
   "description": "Tee Turkin passi- / viisumikuva (biometrinen) virallisessa koossa 50×60 mm (591×709 px), taustana tavallinen valkoinen. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/turkey-passport-photo-size.html",
+  "id": "/fi/turkey-passport-photo-size.html",
   "start_url": "./turkey-passport-photo-size.html",
   "scope": "./turkey-passport-photo-size.html",
   "display": "standalone",

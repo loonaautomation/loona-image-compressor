@@ -2,7 +2,7 @@
   "name": "Loona امتحانی تصویر اور دستخط سائز",
   "short_name": "امتحانی تصویر اور دستخط سائز",
   "description": "20 بڑے بھارتی امتحانات کے تصویر اور دستخط سائز اور KB بینڈز — SSC، IBPS، SBI، UPSC، RRB، JEE، NEET اور مزید، ہر ایک کے ساتھ میکر ٹول۔",
-  "id": "/loona-image-compressor/ur/exam-photo-sizes.html",
+  "id": "/ur/exam-photo-sizes.html",
   "start_url": "./exam-photo-sizes.html",
   "scope": "./exam-photo-sizes.html",
   "display": "standalone",

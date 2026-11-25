@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фотодопис (квадрат) TikTok",
   "short_name": "Розмір Фотодопис (квадрат)",
   "description": "Зробіть фотодопис (квадрат) для TikTok рівно 1080×1080 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/tiktok-photo-post-square-size.html",
+  "id": "/uk/tiktok-photo-post-square-size.html",
   "start_url": "./tiktok-photo-post-square-size.html",
   "scope": "./tiktok-photo-post-square-size.html",
   "display": "standalone",

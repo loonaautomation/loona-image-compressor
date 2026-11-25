@@ -2,7 +2,7 @@
   "name": "Loona Velikost Instagram Čtvercový příspěvek (1",
   "short_name": "Velikost Instagram Čtvercový",
   "description": "Vytvořte Instagram čtvercový příspěvek (1:1) přesně 1080×1080 px. Bezplatný nástroj na změnu velikosti/ořez ve vašem prohlížeči s pravidly bezpečné zóny, která zabrání oříznutí textu a obličejů.",
-  "id": "/loona-image-compressor/cs/instagram-square-post-size.html",
+  "id": "/cs/instagram-square-post-size.html",
   "start_url": "./instagram-square-post-size.html",
   "scope": "./instagram-square-post-size.html",
   "display": "standalone",

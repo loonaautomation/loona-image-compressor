@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Banner de server Discord",
   "short_name": "Dimensiune Banner de server",
   "description": "Creează un banner de server Discord la exact 960×540 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/discord-server-banner-size.html",
+  "id": "/ro/discord-server-banner-size.html",
   "start_url": "./discord-server-banner-size.html",
   "scope": "./discord-server-banner-size.html",
   "display": "standalone",

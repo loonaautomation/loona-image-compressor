@@ -2,7 +2,7 @@
   "name": "Loona Fotószűrők és javítás",
   "short_name": "Fotószűrők és javítás",
   "description": "Javítson fotókat online ingyen: állítsa be a fényerőt, a kontrasztot és a telítettséget, élesítsen egy kattintással, és használjon kész előbeállításokat, mint a Passport Fix és a Vivid.",
-  "id": "/loona-image-compressor/hu/photo-filters-editor.html",
+  "id": "/hu/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

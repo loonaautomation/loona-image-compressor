@@ -2,7 +2,7 @@
   "name": "Loona TikTok 视频画面 尺寸",
   "short_name": "TikTok 视频画面 尺寸",
   "description": "按精确的 1080×1920 px 制作 TikTok 视频画面。在浏览器中免费调整大小/裁剪，附有安全区规则，防止文字和面部被裁掉。",
-  "id": "/loona-image-compressor/zh/tiktok-video-frame-size.html",
+  "id": "/zh/tiktok-video-frame-size.html",
   "start_url": "./tiktok-video-frame-size.html",
   "scope": "./tiktok-video-frame-size.html",
   "display": "standalone",

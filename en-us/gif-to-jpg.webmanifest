@@ -2,7 +2,7 @@
   "name": "Loona GIF to JPG Converter",
   "short_name": "GIF to JPG Converter",
   "description": "Convert GIF to JPG online for free — turn a GIF into a small, universal JPG still. In your browser: no signup, no upload, no watermark.",
-  "id": "/loona-image-compressor/en-us/gif-to-jpg.html",
+  "id": "/en-us/gif-to-jpg.html",
   "start_url": "./gif-to-jpg.html",
   "scope": "./gif-to-jpg.html",
   "display": "standalone",

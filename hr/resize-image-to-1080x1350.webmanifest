@@ -2,7 +2,7 @@
   "name": "Loona Promijeni veličinu slike na 1080 × 1350",
   "short_name": "Promijeni veličinu slike na",
   "description": "Promijenite veličinu bilo koje slike točno na 1080 × 1350 piksela (portretne objave na Instagramu u omjeru 4:5) besplatno. Pokrij, sadrži ili rastegni, JPG ili PNG, trenutno preuzimanje — bez registracije, ništa se ne prenosi.",
-  "id": "/loona-image-compressor/hr/resize-image-to-1080x1350.html",
+  "id": "/hr/resize-image-to-1080x1350.html",
   "start_url": "./resize-image-to-1080x1350.html",
   "scope": "./resize-image-to-1080x1350.html",
   "display": "standalone",

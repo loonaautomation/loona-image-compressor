@@ -2,7 +2,7 @@
   "name": "Loona Κάλυμμα Πίνακα Pinterest",
   "short_name": "Κάλυμμα Πίνακα Pinterest",
   "description": "Δημιουργήστε ένα κάλυμμα πίνακα Pinterest σε ακριβώς 800×450 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/pinterest-board-cover-size.html",
+  "id": "/el/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",
   "scope": "./pinterest-board-cover-size.html",
   "display": "standalone",

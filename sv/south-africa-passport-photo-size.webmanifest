@@ -2,7 +2,7 @@
   "name": "Loona Sydafrikanskt passfoto storlek",
   "short_name": "Sydafrikanskt passfoto storlek",
   "description": "Skapa ett Sydafrikanskt passfoto i den officiella storleken 35×45 mm (413×531 px), helvit eller ljusgrå bakgrund. Gratis onlineskapare — beskär, ladda ner och skriv ut ark, ingen uppladdning.",
-  "id": "/loona-image-compressor/sv/south-africa-passport-photo-size.html",
+  "id": "/sv/south-africa-passport-photo-size.html",
   "start_url": "./south-africa-passport-photo-size.html",
   "scope": "./south-africa-passport-photo-size.html",
   "display": "standalone",

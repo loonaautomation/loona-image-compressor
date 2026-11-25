@@ -2,7 +2,7 @@
   "name": "Loona TikTok Profile Picture Size — 720 × 720 px",
   "short_name": "TikTok Profile Picture Size — 720 × 720 px",
   "description": "Make a TikTok profile picture at exactly 720×720 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/en-gb/tiktok-profile-picture-size.html",
+  "id": "/en-gb/tiktok-profile-picture-size.html",
   "start_url": "./tiktok-profile-picture-size.html",
   "scope": "./tiktok-profile-picture-size.html",
   "display": "standalone",

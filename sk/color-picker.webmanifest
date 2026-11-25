@@ -2,7 +2,7 @@
   "name": "Loona Výber farby",
   "short_name": "Výber farby",
   "description": "Vyberte akúkoľvek farbu a okamžite skopírujte jej hodnoty HEX, RGB, HSL a HSV. Obsahuje pruh svetlých odtieňov a tmavých tónov — zadarmo, bez registrácie, funguje vo vašom prehliadači.",
-  "id": "/loona-image-compressor/sk/color-picker.html",
+  "id": "/sk/color-picker.html",
   "start_url": "./color-picker.html",
   "scope": "./color-picker.html",
   "display": "standalone",

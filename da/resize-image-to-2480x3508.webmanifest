@@ -2,7 +2,7 @@
   "name": "Loona Tilpas billedstørrelse til 2480 × 3508 px online",
   "short_name": "Tilpas billedstørrelse til",
   "description": "Tilpas ethvert billede til præcis 2480×3508 px — A4 ved 300 DPI. Gratis i din browser med beskæringskontrol; ingen upload, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/resize-image-to-2480x3508.html",
+  "id": "/da/resize-image-to-2480x3508.html",
   "start_url": "./resize-image-to-2480x3508.html",
   "scope": "./resize-image-to-2480x3508.html",
   "display": "standalone",

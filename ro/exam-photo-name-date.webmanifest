@@ -2,7 +2,7 @@
   "name": "Loona Fotografie de examen cu nume &amp; dată",
   "short_name": "Fotografie de examen cu nume",
   "description": "Creează o fotografie de examen cu numele și data imprimate în partea de jos, gratuit — formatul de examen de consiliu folosit în Pakistan și India. Privat, fără înregistrare necesară.",
-  "id": "/loona-image-compressor/ro/exam-photo-name-date.html",
+  "id": "/ro/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

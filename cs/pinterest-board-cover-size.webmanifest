@@ -2,7 +2,7 @@
   "name": "Loona Velikost Pinterest Obálka nástěnky",
   "short_name": "Velikost Pinterest Obálka",
   "description": "Vytvořte Pinterest obálka nástěnky přesně 800×450 px. Bezplatný nástroj na změnu velikosti/ořez ve vašem prohlížeči s pravidly bezpečné zóny, která zabrání oříznutí textu a obličejů.",
-  "id": "/loona-image-compressor/cs/pinterest-board-cover-size.html",
+  "id": "/cs/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",
   "scope": "./pinterest-board-cover-size.html",
   "display": "standalone",

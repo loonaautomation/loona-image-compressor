@@ -2,7 +2,7 @@
   "name": "Loona RRB NTPC (Railways) ছবি আকার",
   "short_name": "RRB NTPC (Railways) ছবি আকার",
   "description": "আপনার RRB NTPC (Railways) ছবি বিজ্ঞপ্তির আকারে (320 × 240 px) এবং 30–70 KB ব্যান্ডে রিসাইজ করুন। বিনামূল্যে, আপনার ব্রাউজারে — আপলোড নেই, সাইনআপ নেই।",
-  "id": "/loona-image-compressor/bn/rrb-ntpc-photo-size.html",
+  "id": "/bn/rrb-ntpc-photo-size.html",
   "start_url": "./rrb-ntpc-photo-size.html",
   "scope": "./rrb-ntpc-photo-size.html",
   "display": "standalone",

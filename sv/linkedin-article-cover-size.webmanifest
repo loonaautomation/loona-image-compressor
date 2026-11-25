@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Artikel- / Nyhetsbrevsomslag Storlek",
   "short_name": "LinkedIn Artikel- /",
   "description": "Skapa en LinkedIn artikel- / nyhetsbrevsomslag på exakt 1200×644 px. Gratis storleksändrare/beskärare i din webbläsare med säker-zon-reglerna som stoppar beskuren text och ansikten.",
-  "id": "/loona-image-compressor/sv/linkedin-article-cover-size.html",
+  "id": "/sv/linkedin-article-cover-size.html",
   "start_url": "./linkedin-article-cover-size.html",
   "scope": "./linkedin-article-cover-size.html",
   "display": "standalone",

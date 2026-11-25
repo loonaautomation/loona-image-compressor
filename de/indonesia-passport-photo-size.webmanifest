@@ -2,7 +2,7 @@
   "name": "Loona Indonesien-Passfoto Größe",
   "short_name": "Indonesien-Passfoto Größe",
   "description": "Erstellen Sie ein Indonesien-Passfoto in der offiziellen Größe 40×60 mm (472×709 px), Hintergrund rot (für Pässe) — weiß für viele andere Ausweise. Kostenloser Online-Ersteller — zuschneiden, herunterladen und Druckbogen, ohne Upload.",
-  "id": "/loona-image-compressor/de/indonesia-passport-photo-size.html",
+  "id": "/de/indonesia-passport-photo-size.html",
   "start_url": "./indonesia-passport-photo-size.html",
   "scope": "./indonesia-passport-photo-size.html",
   "display": "standalone",

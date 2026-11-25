@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) Header / banner størrelse",
   "short_name": "X (Twitter) Header / banner",
   "description": "Lav en X (Twitter) header / banner på præcis 1500×500 px. Gratis størrelses- og beskæringsværktøj i din browser med sikkerhedszonereglerne, der forhindrer beskåret tekst og ansigter.",
-  "id": "/loona-image-compressor/da/x-header-size.html",
+  "id": "/da/x-header-size.html",
   "start_url": "./x-header-size.html",
   "scope": "./x-header-size.html",
   "display": "standalone",

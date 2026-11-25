@@ -2,7 +2,7 @@
   "name": "Loona Koekuvien ja allekirjoitusten koot",
   "short_name": "Koekuvien ja allekirjoitusten",
   "description": "Kuvien ja allekirjoitusten koot ja KB-välit 20 suurelle intialaiselle kokeelle — SSC, IBPS, SBI, UPSC, RRB, JEE, NEET ja lisää, jokaisella tekijätyökalu.",
-  "id": "/loona-image-compressor/fi/exam-photo-sizes.html",
+  "id": "/fi/exam-photo-sizes.html",
   "start_url": "./exam-photo-sizes.html",
   "scope": "./exam-photo-sizes.html",
   "display": "standalone",

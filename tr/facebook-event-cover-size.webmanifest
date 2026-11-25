@@ -2,7 +2,7 @@
   "name": "Loona Facebook Etkinlik Kapağı Boyutu — 1920×1005 px",
   "short_name": "Facebook Etkinlik Kapağı Boyutu — 1920×1005 px",
   "description": "Tam olarak 1920×1005 px ölçüsünde bir Facebook etkinlik kapağı oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/facebook-event-cover-size.html",
+  "id": "/tr/facebook-event-cover-size.html",
   "start_url": "./facebook-event-cover-size.html",
   "scope": "./facebook-event-cover-size.html",
   "display": "standalone",

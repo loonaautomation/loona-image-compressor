@@ -2,7 +2,7 @@
   "name": "Loona JEE Main Signature Size",
   "short_name": "JEE Main Signature Size",
   "description": "Resize your JEE Main signature to the notification size (scanned box, ratio about 7:2) and 4–30 KB band. Free, in your browser — no upload, no signup.",
-  "id": "/loona-image-compressor/jee-main-signature-size.html",
+  "id": "/jee-main-signature-size.html",
   "start_url": "./jee-main-signature-size.html",
   "scope": "./jee-main-signature-size.html",
   "display": "standalone",

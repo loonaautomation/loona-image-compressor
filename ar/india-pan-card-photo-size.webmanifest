@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة بطاقة PAN الهندية",
   "short_name": "حجم صورة بطاقة PAN الهندية",
   "description": "اصنع صورة بطاقة PAN الهندية بالحجم الرسمي 25×35 mm (295×413 px)، خلفية بيضاء سادة. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/india-pan-card-photo-size.html",
+  "id": "/ar/india-pan-card-photo-size.html",
   "start_url": "./india-pan-card-photo-size.html",
   "scope": "./india-pan-card-photo-size.html",
   "display": "standalone",

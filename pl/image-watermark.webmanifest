@@ -2,7 +2,7 @@
   "name": "Loona Znak wodny na obrazie",
   "short_name": "Znak wodny na obrazie",
   "description": "Dodaj tekstowy znak wodny do dowolnego zdjęcia online za darmo — wybierz tekst, rozmiar, kolor, krycie i pozycję lub powtórz go jako wzór kafelkowy. Podgląd na żywo, bez rejestracji, a Twój obraz nigdy nie opuszcza urządzenia.",
-  "id": "/loona-image-compressor/pl/image-watermark.html",
+  "id": "/pl/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tamanho de Fotografia de AFCAT",
   "short_name": "Tamanho de Fotografia de AFCAT",
   "description": "Redimensione a sua fotografia de AFCAT para o tamanho do aviso oficial (3,5 × 4,5 cm (cerca de 413 × 531 px a 300 DPI)) e o intervalo de 10–50 KB. Grátis, no seu navegador — sem envios e sem registro.",
-  "id": "/loona-image-compressor/pt-br/afcat-photo-size.html",
+  "id": "/pt-br/afcat-photo-size.html",
   "start_url": "./afcat-photo-size.html",
   "scope": "./afcat-photo-size.html",
   "display": "standalone",

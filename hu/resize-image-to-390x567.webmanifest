@@ -2,7 +2,7 @@
   "name": "Loona Kép átméretezése 390 × 567 px méretre online",
   "short_name": "Kép átméretezése 390 × 567 px",
   "description": "Méretezzen át bármely képet pontosan 390×567 px méretre — 33 × 48 mm 300 DPI mellett — Kína vízumérete. Ingyen, a böngészőjében, vágási vezérléssel; feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/resize-image-to-390x567.html",
+  "id": "/hu/resize-image-to-390x567.html",
   "start_url": "./resize-image-to-390x567.html",
   "scope": "./resize-image-to-390x567.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Veličina Fotografija za putovnicu / vizu Brazila",
   "short_name": "Veličina Fotografija za",
   "description": "Izradite Fotografija za putovnicu / vizu Brazila u službenoj veličini 50×70 mm (591×827 px), pozadina jednobojna bijela. Besplatni mrežni izrađivač — izrežite, preuzmite i ispišite list, bez prijenosa.",
-  "id": "/loona-image-compressor/hr/brazil-passport-photo-size.html",
+  "id": "/hr/brazil-passport-photo-size.html",
   "start_url": "./brazil-passport-photo-size.html",
   "scope": "./brazil-passport-photo-size.html",
   "display": "standalone",

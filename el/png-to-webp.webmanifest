@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας PNG σε WebP",
   "short_name": "Μετατροπέας PNG σε WebP",
   "description": "Μετατρέψτε PNG σε WebP διαδικτυακά δωρεάν — πολύ μικρότερα αρχεία που κρατούν τη διαφάνεια, τέλεια για ιστοσελίδες. Χωρίς εγγραφή, χωρίς μεταφόρτωση, τρέχει στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-image-compressor/el/png-to-webp.html",
+  "id": "/el/png-to-webp.html",
   "start_url": "./png-to-webp.html",
   "scope": "./png-to-webp.html",
   "display": "standalone",

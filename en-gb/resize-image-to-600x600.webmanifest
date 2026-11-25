@@ -2,7 +2,7 @@
   "name": "Loona Resize Image to 600 × 600 px",
   "short_name": "Resize Image to 600 × 600 px",
   "description": "Resize any image to exactly 600×600 px — US passport/visa and DV Lottery minimum digital size. Free in your browser with crop control; no upload, no signup.",
-  "id": "/loona-image-compressor/en-gb/resize-image-to-600x600.html",
+  "id": "/en-gb/resize-image-to-600x600.html",
   "start_url": "./resize-image-to-600x600.html",
   "scope": "./resize-image-to-600x600.html",
   "display": "standalone",

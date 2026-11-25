@@ -2,7 +2,7 @@
   "name": "Loona 澳大利亚护照照片 尺寸",
   "short_name": "澳大利亚护照照片 尺寸",
   "description": "按官方尺寸 35×45 mm（413×531 px）制作 澳大利亚护照照片，纯白色或浅灰色背景。免费在线制作工具 — 裁剪、下载并打印照片页，无需上传。",
-  "id": "/loona-image-compressor/zh/australia-passport-photo-size.html",
+  "id": "/zh/australia-passport-photo-size.html",
   "start_url": "./australia-passport-photo-size.html",
   "scope": "./australia-passport-photo-size.html",
   "display": "standalone",

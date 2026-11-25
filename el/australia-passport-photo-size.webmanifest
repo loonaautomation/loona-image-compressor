@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Διαβατηρίου Αυστραλίας",
   "short_name": "Φωτογραφία Διαβατηρίου",
   "description": "Δημιουργήστε Φωτογραφία Διαβατηρίου Αυστραλίας στο επίσημο μέγεθος 35×45 mm (413×531 px), φόντο απλό λευκό ή ανοιχτό γκρι. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/australia-passport-photo-size.html",
+  "id": "/el/australia-passport-photo-size.html",
   "start_url": "./australia-passport-photo-size.html",
   "scope": "./australia-passport-photo-size.html",
   "display": "standalone",

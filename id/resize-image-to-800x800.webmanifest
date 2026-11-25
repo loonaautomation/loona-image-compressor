@@ -2,7 +2,7 @@
   "name": "Loona Ubah Ukuran Gambar menjadi 800 × 800",
   "short_name": "Ubah Ukuran Gambar menjadi",
   "description": "Ubah ukuran gambar apa pun menjadi tepat 800 × 800 piksel (marketplace and product listing photos) secara gratis. Sampul, muat, atau regang, JPG atau PNG, unduh seketika — tanpa pendaftaran, tidak ada yang diunggah.",
-  "id": "/loona-image-compressor/id/resize-image-to-800x800.html",
+  "id": "/id/resize-image-to-800x800.html",
   "start_url": "./resize-image-to-800x800.html",
   "scope": "./resize-image-to-800x800.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona EXIF-szerkesztő",
   "short_name": "EXIF-szerkesztő",
   "description": "Szerkessze egy JPG fotó EXIF-adatait online ingyen — javítsa a felvételi dátumot, adja meg a nevét művészként, állítsa be a szerzői jogot, a kamera gyártóját és modelljét, vagy hozzon létre EXIF-et egy olyan fotón, amelyen nincs. A pixelek soha nem kódolódnak újra, és semmi nem töltődik fel.",
-  "id": "/loona-image-compressor/hu/edit-image-metadata.html",
+  "id": "/hu/edit-image-metadata.html",
   "start_url": "./edit-image-metadata.html",
   "scope": "./edit-image-metadata.html",
   "display": "standalone",

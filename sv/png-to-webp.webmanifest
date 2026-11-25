@@ -2,7 +2,7 @@
   "name": "Loona PNG till WebP Konverterare",
   "short_name": "PNG till WebP Konverterare",
   "description": "Konvertera PNG till WebP online gratis — betydligt mindre filer som behåller transparens, perfekta för webbplatser. Ingen registrering, ingen uppladdning, körs i din webbläsare.",
-  "id": "/loona-image-compressor/sv/png-to-webp.html",
+  "id": "/sv/png-to-webp.html",
   "start_url": "./png-to-webp.html",
   "scope": "./png-to-webp.html",
   "display": "standalone",

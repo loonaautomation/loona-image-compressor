@@ -2,7 +2,7 @@
   "name": "Loona حجم الصورة الفوتوغرافية UPSC Civil",
   "short_name": "حجم الصورة الفوتوغرافية UPSC",
   "description": "غيّر حجم الصورة الخاص بك لامتحان UPSC Civil Services (IAS) إلى حجم الإشعار (350 × 350 px) ونطاق 20–300 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/upsc-cse-photo-size.html",
+  "id": "/ar/upsc-cse-photo-size.html",
   "start_url": "./upsc-cse-photo-size.html",
   "scope": "./upsc-cse-photo-size.html",
   "display": "standalone",

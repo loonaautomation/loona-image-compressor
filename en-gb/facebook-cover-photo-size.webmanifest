@@ -2,7 +2,7 @@
   "name": "Loona Facebook Cover Photo / Page Cover Size — 1640 × 924 px",
   "short_name": "Facebook Cover Photo / Page Cover Size — 1640 × 924 px",
   "description": "Make a Facebook cover photo / page cover at exactly 1640×924 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/en-gb/facebook-cover-photo-size.html",
+  "id": "/en-gb/facebook-cover-photo-size.html",
   "start_url": "./facebook-cover-photo-size.html",
   "scope": "./facebook-cover-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Сжать изображение до любого размера в KB",
   "short_name": "Сжать изображение до любого размера в KB",
   "description": "Every compress-to-size tool: 16 target sizes in JPG, PNG and WebP, from 10 KB to 2 MB. Free, in your browser.",
-  "id": "/loona-image-compressor/compress-image-sizes.html",
+  "id": "/compress-image-sizes.html",
   "start_url": "./compress-image-sizes.html",
   "scope": "./compress-image-sizes.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona US पासपोर्ट फ़ोटो साइज़",
   "short_name": "US पासपोर्ट फ़ोटो साइज़",
   "description": "आधिकारिक साइज़ 51×51 mm (600×600 px) पर US पासपोर्ट फ़ोटो बनाएँ, सादा सफ़ेद बैकग्राउंड. मुफ़्त ऑनलाइन मेकर — क्रॉप, डाउनलोड और प्रिंट शीट, बिना अपलोड.",
-  "id": "/loona-image-compressor/hi/us-passport-photo-size.html",
+  "id": "/hi/us-passport-photo-size.html",
   "start_url": "./us-passport-photo-size.html",
   "scope": "./us-passport-photo-size.html",
   "display": "standalone",

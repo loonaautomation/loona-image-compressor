@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Προφίλ X (Twitter)",
   "short_name": "Φωτογραφία Προφίλ X (Twitter)",
   "description": "Δημιουργήστε ένα φωτογραφία προφίλ X (Twitter) σε ακριβώς 400×400 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/x-profile-picture-size.html",
+  "id": "/el/x-profile-picture-size.html",
   "start_url": "./x-profile-picture-size.html",
   "scope": "./x-profile-picture-size.html",
   "display": "standalone",

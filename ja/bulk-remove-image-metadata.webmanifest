@@ -2,7 +2,7 @@
   "name": "Loona 一括メタデータ削除ツール",
   "short_name": "一括メタデータ削除ツール",
   "description": "多くの写真から一度にEXIF、GPS、XMPメタデータを削除 — JPG、PNG、WebPファイルのバッチをドロップし、すべてをブラウザで削除し、すべてを一つのZIPとしてダウンロードしてください。無料、プライベート、アップロードなし、再エンコードなし。",
-  "id": "/loona-image-compressor/ja/bulk-remove-image-metadata.html",
+  "id": "/ja/bulk-remove-image-metadata.html",
   "start_url": "./bulk-remove-image-metadata.html",
   "scope": "./bulk-remove-image-metadata.html",
   "display": "standalone",

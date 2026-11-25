@@ -2,7 +2,7 @@
   "name": "Loona Convertisseur JPG en PNG",
   "short_name": "Convertisseur JPG en PNG",
   "description": "Convertissez JPG en PNG en ligne gratuitement — sortie sans perte pour les éditeurs, les outils de design et les documents. Fonctionne dans votre navigateur, sans inscription, sans envoi.",
-  "id": "/loona-image-compressor/fr/jpg-to-png.html",
+  "id": "/fr/jpg-to-png.html",
   "start_url": "./jpg-to-png.html",
   "scope": "./jpg-to-png.html",
   "display": "standalone",

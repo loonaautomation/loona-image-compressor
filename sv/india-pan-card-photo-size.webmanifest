@@ -2,7 +2,7 @@
   "name": "Loona Indiskt PAN-kortsfoto storlek",
   "short_name": "Indiskt PAN-kortsfoto storlek",
   "description": "Skapa ett Indiskt PAN-kortsfoto i den officiella storleken 25×35 mm (295×413 px), helvit bakgrund. Gratis onlineskapare — beskär, ladda ner och skriv ut ark, ingen uppladdning.",
-  "id": "/loona-image-compressor/sv/india-pan-card-photo-size.html",
+  "id": "/sv/india-pan-card-photo-size.html",
   "start_url": "./india-pan-card-photo-size.html",
   "scope": "./india-pan-card-photo-size.html",
   "display": "standalone",

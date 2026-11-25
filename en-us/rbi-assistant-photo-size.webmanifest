@@ -2,7 +2,7 @@
   "name": "Loona RBI Assistant Photograph Size",
   "short_name": "RBI Assistant Photograph Size",
   "description": "Resize your RBI Assistant photo to the notification size (200 × 230 px) and 20–50 KB band. Free, in your browser — no upload, no signup.",
-  "id": "/loona-image-compressor/en-us/rbi-assistant-photo-size.html",
+  "id": "/en-us/rbi-assistant-photo-size.html",
   "start_url": "./rbi-assistant-photo-size.html",
   "scope": "./rbi-assistant-photo-size.html",
   "display": "standalone",

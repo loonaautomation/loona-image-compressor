@@ -2,7 +2,7 @@
   "name": "Loona Размер на Миниатюра на видео за YouTube",
   "short_name": "Размер на Миниатюра на видео",
   "description": "Направете миниатюра на видео за YouTube на точно 1280×720 px. Безплатен инструмент за преоразмеряване/изрязване във вашия браузър с правилата за безопасната зона, които спират изрязване на текст и лица.",
-  "id": "/loona-image-compressor/bg/youtube-thumbnail-size.html",
+  "id": "/bg/youtube-thumbnail-size.html",
   "start_url": "./youtube-thumbnail-size.html",
   "scope": "./youtube-thumbnail-size.html",
   "display": "standalone",

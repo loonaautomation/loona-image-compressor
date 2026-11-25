@@ -2,7 +2,7 @@
   "name": "Loona Veličina Fotografija za putovnicu Irana",
   "short_name": "Veličina Fotografija za",
   "description": "Izradite Fotografija za putovnicu Irana u službenoj veličini 30×40 mm (354×472 px), pozadina jednobojna bijela ili svijetla. Besplatni mrežni izrađivač — izrežite, preuzmite i ispišite list, bez prijenosa.",
-  "id": "/loona-image-compressor/hr/iran-passport-photo-size.html",
+  "id": "/hr/iran-passport-photo-size.html",
   "start_url": "./iran-passport-photo-size.html",
   "scope": "./iran-passport-photo-size.html",
   "display": "standalone",

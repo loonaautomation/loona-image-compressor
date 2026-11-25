@@ -2,7 +2,7 @@
   "name": "Loona Velikost LinkedIn Obrázek příspěvku",
   "short_name": "Velikost LinkedIn Obrázek",
   "description": "Vytvořte LinkedIn obrázek příspěvku přesně 1200×627 px. Bezplatný nástroj na změnu velikosti/ořez ve vašem prohlížeči s pravidly bezpečné zóny, která zabrání oříznutí textu a obličejů.",
-  "id": "/loona-image-compressor/cs/linkedin-post-image-size.html",
+  "id": "/cs/linkedin-post-image-size.html",
   "start_url": "./linkedin-post-image-size.html",
   "scope": "./linkedin-post-image-size.html",
   "display": "standalone",

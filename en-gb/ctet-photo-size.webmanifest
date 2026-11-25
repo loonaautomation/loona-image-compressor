@@ -2,7 +2,7 @@
   "name": "Loona CTET Photograph Size",
   "short_name": "CTET Photograph Size",
   "description": "Resize your CTET photo to the notification size (3.5 × 4.5 cm (about 413 × 531 px at 300 DPI)) and 10–100 KB band. Free, in your browser — no upload, no signup.",
-  "id": "/loona-image-compressor/en-gb/ctet-photo-size.html",
+  "id": "/en-gb/ctet-photo-size.html",
   "start_url": "./ctet-photo-size.html",
   "scope": "./ctet-photo-size.html",
   "display": "standalone",

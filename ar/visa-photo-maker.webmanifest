@@ -2,7 +2,7 @@
   "name": "Loona صانع صور التأشيرات",
   "short_name": "صانع صور التأشيرات",
   "description": "اصنع صور تأشيرات عبر الإنترنت مجانًا: الولايات المتحدة 2x2 بوصة، المملكة المتحدة وشنغن 35x45 mm، الصين 33x48 mm عند 300 DPI. بلا تسجيل، بلا علامة مائية، أداة خصوصية كاملة.",
-  "id": "/loona-image-compressor/ar/visa-photo-maker.html",
+  "id": "/ar/visa-photo-maker.html",
   "start_url": "./visa-photo-maker.html",
   "scope": "./visa-photo-maker.html",
   "display": "standalone",

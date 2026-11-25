@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Copertă / cadru Shorts YouTube",
   "short_name": "Dimensiune Copertă / cadru",
   "description": "Creează un copertă / cadru shorts YouTube la exact 1080×1920 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/youtube-shorts-size.html",
+  "id": "/ro/youtube-shorts-size.html",
   "start_url": "./youtube-shorts-size.html",
   "scope": "./youtube-shorts-size.html",
   "display": "standalone",

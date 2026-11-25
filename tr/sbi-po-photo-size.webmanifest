@@ -2,7 +2,7 @@
   "name": "Loona SBI PO Fotoğraf Boyutu — 200 × 230 px, 20–50 KB",
   "short_name": "SBI PO Fotoğraf Boyutu — 200 × 230 px, 20–50 KB",
   "description": "SBI PO fotoğraf belgenizi duyuru boyutuna (200 × 230 px) ve 20–50 KB bandına getirin. Ücretsiz, tarayıcınızda — yükleme yok, kayıt yok.",
-  "id": "/loona-image-compressor/tr/sbi-po-photo-size.html",
+  "id": "/tr/sbi-po-photo-size.html",
   "start_url": "./sbi-po-photo-size.html",
   "scope": "./sbi-po-photo-size.html",
   "display": "standalone",

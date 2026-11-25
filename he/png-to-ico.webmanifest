@@ -2,7 +2,7 @@
   "name": "Loona ממיר PNG ל־ICO",
   "short_name": "ממיר PNG ל־ICO",
   "description": "המירו PNG ל־ICO באינטרנט, בחינם, בדפדפן שלכם. המרה אמיתית במכשיר שלכם — ללא העלאה, ללא הרשמה, ללא סימני מים.",
-  "id": "/loona-image-compressor/he/png-to-ico.html",
+  "id": "/he/png-to-ico.html",
   "start_url": "./png-to-ico.html",
   "scope": "./png-to-ico.html",
   "display": "standalone",

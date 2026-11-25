@@ -2,7 +2,7 @@
   "name": "Loona Kreator zdjęć w rozmiarze paszportowym",
   "short_name": "Kreator zdjęć w rozmiarze",
   "description": "Zrób zdjęcie w rozmiarze paszportowym online za darmo: przytnij dowolne zdjęcie do 35×45 mm lub 2×2 cali przy gotowych do druku 300 DPI. Bez rejestracji, bez znaku wodnego, w pełni prywatnie.",
-  "id": "/loona-image-compressor/pl/passport-photo-maker.html",
+  "id": "/pl/passport-photo-maker.html",
   "start_url": "./passport-photo-maker.html",
   "scope": "./passport-photo-maker.html",
   "display": "standalone",

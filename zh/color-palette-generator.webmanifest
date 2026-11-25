@@ -2,7 +2,7 @@
   "name": "Loona 调色板生成器",
   "short_name": "调色板生成器",
   "description": "从任何基础颜色生成和谐的调色板 — 类似色、互补色、三色和单色方案，带可复制的 HEX 代码。免费，无需注册。",
-  "id": "/loona-image-compressor/zh/color-palette-generator.html",
+  "id": "/zh/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",
   "scope": "./color-palette-generator.html",
   "display": "standalone",

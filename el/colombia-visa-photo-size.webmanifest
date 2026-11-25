@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Βίζας Κολομβίας",
   "short_name": "Φωτογραφία Βίζας Κολομβίας",
   "description": "Δημιουργήστε Φωτογραφία Βίζας Κολομβίας στο επίσημο μέγεθος 30×40 mm (354×472 px), φόντο απλό λευκό. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/colombia-visa-photo-size.html",
+  "id": "/el/colombia-visa-photo-size.html",
   "start_url": "./colombia-visa-photo-size.html",
   "scope": "./colombia-visa-photo-size.html",
   "display": "standalone",

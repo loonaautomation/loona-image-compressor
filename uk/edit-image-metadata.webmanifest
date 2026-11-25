@@ -2,7 +2,7 @@
   "name": "Loona Редактор EXIF",
   "short_name": "Редактор EXIF",
   "description": "Редагуйте дані EXIF фото JPG онлайн безкоштовно — виправте дату зйомки, додайте своє ім’я як автора, встановіть авторське право, виробника й модель камери або створіть EXIF на фото, у якого його немає. Пікселі ніколи не перекодуються, і нічого не передається на сервер.",
-  "id": "/loona-image-compressor/uk/edit-image-metadata.html",
+  "id": "/uk/edit-image-metadata.html",
   "start_url": "./edit-image-metadata.html",
   "scope": "./edit-image-metadata.html",
   "display": "standalone",

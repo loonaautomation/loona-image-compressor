@@ -2,7 +2,7 @@
   "name": "Loona LinkedInの記事／ニュースレターカバーサイズ",
   "short_name": "LinkedInの記事／ニュースレターカバーサイズ",
   "description": "LinkedInの記事／ニュースレターカバーを正確に1200×644 pxで作成できます。ブラウザで使える無料のリサイズ・切り取りツールで、切り取られた文字や顔を防ぐセーフゾーンのルールも備えています。",
-  "id": "/loona-image-compressor/ja/linkedin-article-cover-size.html",
+  "id": "/ja/linkedin-article-cover-size.html",
   "start_url": "./linkedin-article-cover-size.html",
   "scope": "./linkedin-article-cover-size.html",
   "display": "standalone",

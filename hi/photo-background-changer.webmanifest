@@ -2,7 +2,7 @@
   "name": "Loona फ़ोटो बैकग्राउंड चेंजर",
   "short_name": "फ़ोटो बैकग्राउंड चेंजर",
   "description": "फ़ोटो बैकग्राउंड को मुफ़्त ऑनलाइन सफ़ेद, नीला, हल्का स्लेटी या लाल करें। फ़्लड-फ़िल और ब्रश टूल, आपके ब्राउज़र में निजी, कोई AI अपलोड नहीं।",
-  "id": "/loona-image-compressor/hi/photo-background-changer.html",
+  "id": "/hi/photo-background-changer.html",
   "start_url": "./photo-background-changer.html",
   "scope": "./photo-background-changer.html",
   "display": "standalone",

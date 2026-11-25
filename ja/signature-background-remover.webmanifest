@@ -2,7 +2,7 @@
   "name": "Loona 署名背景リムーバー",
   "short_name": "署名背景リムーバー",
   "description": "署名やスタンプの写真から紙の背景を削除し、透明なPNGを無料でダウンロードできます。ブラウザのキャンバスだけで動作するツールです。AIなし、アップロードなし、登録不要。",
-  "id": "/loona-image-compressor/ja/signature-background-remover.html",
+  "id": "/ja/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

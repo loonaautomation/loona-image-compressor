@@ -2,7 +2,7 @@
   "name": "Loona ขนาดลายเซ็นJEE Main",
   "short_name": "ขนาดลายเซ็นJEE Main",
   "description": "ปรับขนาดลายเซ็นJEE Mainของคุณให้เป็นขนาดตามประกาศ (กล่องที่สแกน อัตราส่วนประมาณ 7:2) และช่วง 4–30 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/jee-main-signature-size.html",
+  "id": "/th/jee-main-signature-size.html",
   "start_url": "./jee-main-signature-size.html",
   "scope": "./jee-main-signature-size.html",
   "display": "standalone",

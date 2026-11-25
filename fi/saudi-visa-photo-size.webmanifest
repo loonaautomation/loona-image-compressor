@@ -2,7 +2,7 @@
   "name": "Loona Saudi-Arabian viisumikuva koko",
   "short_name": "Saudi-Arabian viisumikuva koko",
   "description": "Tee Saudi-Arabian viisumikuva virallisessa koossa 40×60 mm (472×709 px), taustana tavallinen valkoinen. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/saudi-visa-photo-size.html",
+  "id": "/fi/saudi-visa-photo-size.html",
   "start_url": "./saudi-visa-photo-size.html",
   "scope": "./saudi-visa-photo-size.html",
   "display": "standalone",

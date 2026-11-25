@@ -2,7 +2,7 @@
   "name": "Loona Thay đổi kích thước ảnh thành 1200 × 628",
   "short_name": "Thay đổi kích thước ảnh thành",
   "description": "Thay đổi kích thước mọi hình ảnh thành đúng 1200 × 628 pixel (chia sẻ liên kết và quảng cáo trên Facebook và LinkedIn) miễn phí. Phủ kín, thu vào trong hoặc kéo giãn, JPG hoặc PNG, tải xuống ngay lập tức — không cần đăng ký, không tải lên gì cả.",
-  "id": "/loona-image-compressor/vi/resize-image-to-1200x628.html",
+  "id": "/vi/resize-image-to-1200x628.html",
   "start_url": "./resize-image-to-1200x628.html",
   "scope": "./resize-image-to-1200x628.html",
   "display": "standalone",

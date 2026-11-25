@@ -2,7 +2,7 @@
   "name": "Loona Indonesian passikuva koko",
   "short_name": "Indonesian passikuva koko",
   "description": "Tee Indonesian passikuva virallisessa koossa 40×60 mm (472×709 px), taustana punainen (passeille) — valkoinen monille muille henkilökorteille. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/indonesia-passport-photo-size.html",
+  "id": "/fi/indonesia-passport-photo-size.html",
   "start_url": "./indonesia-passport-photo-size.html",
   "scope": "./indonesia-passport-photo-size.html",
   "display": "standalone",

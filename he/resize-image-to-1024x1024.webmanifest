@@ -2,7 +2,7 @@
   "name": "Loona שינוי גודל תמונה ל־1024 × 1024 px באינטרנט",
   "short_name": "שינוי גודל תמונה ל־1024 ×",
   "description": "שנו גודל של כל תמונה בדיוק ל־1024×1024 px — ריבוע סטנדרטי של סמל אפליקציה ותמונת AI. בחינם בדפדפן שלכם עם בקרת חיתוך; ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/resize-image-to-1024x1024.html",
+  "id": "/he/resize-image-to-1024x1024.html",
   "start_url": "./resize-image-to-1024x1024.html",
   "scope": "./resize-image-to-1024x1024.html",
   "display": "standalone",

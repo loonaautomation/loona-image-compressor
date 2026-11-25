@@ -2,7 +2,7 @@
   "name": "Loona Formato Passaporto del Canada",
   "short_name": "Formato Passaporto del Canada",
   "description": "Crea la foto Passaporto del Canada nel formato ufficiale di 50×70 mm (591×827 px), sfondo bianco liso o di colore chiaro. Strumento online gratuito: ritaglia, scarica e stampa il foglio, senza caricamenti.",
-  "id": "/loona-image-compressor/it/canada-passport-photo-size.html",
+  "id": "/it/canada-passport-photo-size.html",
   "start_url": "./canada-passport-photo-size.html",
   "scope": "./canada-passport-photo-size.html",
   "display": "standalone",

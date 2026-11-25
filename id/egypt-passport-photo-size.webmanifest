@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Paspor Mesir",
   "short_name": "Ukuran Foto Paspor Mesir",
   "description": "Buat Foto Paspor Mesir pada ukuran resmi 40×60 mm (472×709 px), latar belakang putih polos. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/egypt-passport-photo-size.html",
+  "id": "/id/egypt-passport-photo-size.html",
   "start_url": "./egypt-passport-photo-size.html",
   "scope": "./egypt-passport-photo-size.html",
   "display": "standalone",

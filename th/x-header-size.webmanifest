@@ -2,7 +2,7 @@
   "name": "Loona ขนาดส่วนหัว / แบนเนอร์ X (Twitter)",
   "short_name": "ขนาดส่วนหัว / แบนเนอร์ X",
   "description": "ทำส่วนหัว / แบนเนอร์ X (Twitter) ที่ขนาด 1500×500 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/x-header-size.html",
+  "id": "/th/x-header-size.html",
   "start_url": "./x-header-size.html",
   "scope": "./x-header-size.html",
   "display": "standalone",

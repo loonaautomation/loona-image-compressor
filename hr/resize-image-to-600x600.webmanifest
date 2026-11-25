@@ -2,7 +2,7 @@
   "name": "Loona Promijeni veličinu slike na 600 × 600 px na mreži",
   "short_name": "Promijeni veličinu slike na",
   "description": "Promijenite veličinu bilo koje slike na točno 600×600 px — Minimalna digitalna veličina za putovnicu/vizu SAD i lutriju DV. Besplatno u vašem pregledniku uz kontrolu izrezivanja; bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/resize-image-to-600x600.html",
+  "id": "/hr/resize-image-to-600x600.html",
   "start_url": "./resize-image-to-600x600.html",
   "scope": "./resize-image-to-600x600.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Selector de culori",
   "short_name": "Selector de culori",
   "description": "Alege orice culoare și copiază instantaneu valorile ei HEX, RGB, HSL și HSV. Include o bandă de tente și umbre — gratuit, fără înregistrare, funcționează în browserul tău.",
-  "id": "/loona-image-compressor/ro/color-picker.html",
+  "id": "/ro/color-picker.html",
   "start_url": "./color-picker.html",
   "scope": "./color-picker.html",
   "display": "standalone",

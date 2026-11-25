@@ -2,7 +2,7 @@
   "name": "Loona Αλλαγή Μεγέθους Εικόνας σε 1500 × 500",
   "short_name": "Αλλαγή Μεγέθους Εικόνας σε",
   "description": "Αλλάξτε το μέγεθος οποιασδήποτε εικόνας σε ακριβώς 1500 × 500 pixel (κεφαλίδες προφίλ X (Twitter) και πλατιά banner) δωρεάν. Κάλυψη, περιέχει ή τέντωμα, JPG ή PNG, λήψη αμέσως — χωρίς εγγραφή, τίποτα δεν μεταφορτώνεται.",
-  "id": "/loona-image-compressor/el/resize-image-to-1500x500.html",
+  "id": "/el/resize-image-to-1500x500.html",
   "start_url": "./resize-image-to-1500x500.html",
   "scope": "./resize-image-to-1500x500.html",
   "display": "standalone",

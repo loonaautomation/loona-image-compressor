@@ -2,7 +2,7 @@
   "name": "Loona Bild auf 1080 × 1080 skalieren",
   "short_name": "Bild auf 1080 × 1080 skalieren",
   "description": "Skalieren Sie jedes Bild kostenlos auf exakt 1080 × 1080 Pixel (quadratische Instagram-Beiträge und Profilbilder). Abdecken, enthalten oder strecken, JPG oder PNG, sofort herunterladen — ohne Anmeldung, nichts hochgeladen.",
-  "id": "/loona-image-compressor/de/resize-image-to-1080x1080.html",
+  "id": "/de/resize-image-to-1080x1080.html",
   "start_url": "./resize-image-to-1080x1080.html",
   "scope": "./resize-image-to-1080x1080.html",
   "display": "standalone",

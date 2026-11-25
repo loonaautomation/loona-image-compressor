@@ -2,7 +2,7 @@
   "name": "Loona ขนาดลายเซ็นRRB Group D (Railways)",
   "short_name": "ขนาดลายเซ็นRRB Group D",
   "description": "ปรับขนาดลายเซ็นRRB Group D (Railways)ของคุณให้เป็นขนาดตามประกาศ (140 × 60 px) และช่วง 10–40 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/rrb-group-d-signature-size.html",
+  "id": "/th/rrb-group-d-signature-size.html",
   "start_url": "./rrb-group-d-signature-size.html",
   "scope": "./rrb-group-d-signature-size.html",
   "display": "standalone",

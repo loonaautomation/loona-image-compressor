@@ -2,7 +2,7 @@
   "name": "Loona บีบอัดรูปภาพให้ได้ทุกขนาด KB",
   "short_name": "บีบอัดรูปภาพให้ได้ทุกขนาด KB",
   "description": "เครื่องมือบีบอัดตามขนาดทุกตัว: 16 ขนาดเป้าหมายใน JPG, PNG และ WebP ตั้งแต่ 10 KB ถึง 2 MB ฟรี ในเบราว์เซอร์ของคุณ",
-  "id": "/loona-image-compressor/th/compress-image-sizes.html",
+  "id": "/th/compress-image-sizes.html",
   "start_url": "./compress-image-sizes.html",
   "scope": "./compress-image-sizes.html",
   "display": "standalone",

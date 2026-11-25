@@ -2,7 +2,7 @@
   "name": "Loona Afbeelding comprimeren tot elke KB-grootte",
   "short_name": "Afbeelding comprimeren tot",
   "description": "Elke tool om te comprimeren tot een grootte: 16 doelgroottes in JPG, PNG en WebP, van 10 KB tot 2 MB. Gratis, in je browser.",
-  "id": "/loona-image-compressor/nl/compress-image-sizes.html",
+  "id": "/nl/compress-image-sizes.html",
   "start_url": "./compress-image-sizes.html",
   "scope": "./compress-image-sizes.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie SSC CHSL",
   "short_name": "Dimensiune Fotografie SSC CHSL",
   "description": "Redimensionează fotografie pentru SSC CHSL la dimensiunea din notificare (200 × 230 px) și intervalul 20–50 KB. Gratuit, în browserul tău — fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/ssc-chsl-photo-size.html",
+  "id": "/ro/ssc-chsl-photo-size.html",
   "start_url": "./ssc-chsl-photo-size.html",
   "scope": "./ssc-chsl-photo-size.html",
   "display": "standalone",

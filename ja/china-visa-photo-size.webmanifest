@@ -2,7 +2,7 @@
   "name": "Loona 中国ビザ写真のサイズ",
   "short_name": "中国ビザ写真のサイズ",
   "description": "公式サイズ33×48 mm（390×567 px）、無地の白の背景で中国ビザ写真を作成できます。無料のオンライン作成ツール — 切り取り、ダウンロード、印刷シートまで、アップロード不要です。",
-  "id": "/loona-image-compressor/ja/china-visa-photo-size.html",
+  "id": "/ja/china-visa-photo-size.html",
   "start_url": "./china-visa-photo-size.html",
   "scope": "./china-visa-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Provfoto- &amp; signaturstorlekar",
   "short_name": "Provfoto- &amp;",
   "description": "Foto- och signaturstorlekar och KB-band för 20 stora indiska prov — SSC, IBPS, SBI, UPSC, RRB, JEE, NEET med flera, var och en med ett skaparverktyg.",
-  "id": "/loona-image-compressor/sv/exam-photo-sizes.html",
+  "id": "/sv/exam-photo-sizes.html",
   "start_url": "./exam-photo-sizes.html",
   "scope": "./exam-photo-sizes.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona تعتيم الوجه",
   "short_name": "تعتيم الوجه",
   "description": "عتّم أو بكسّل الوجوه ولوحات الأرقام والتفاصيل الخاصة في أي صورة. أنت تختار المناطق بنفسك، تختار القوة، تعاين وتنزّل — مجانًا، بلا تسجيل، وصورتك لا تغادر جهازك أبدًا.",
-  "id": "/loona-image-compressor/ar/face-blur.html",
+  "id": "/ar/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

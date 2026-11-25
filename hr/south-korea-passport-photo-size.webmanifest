@@ -2,7 +2,7 @@
   "name": "Loona Veličina Fotografija za putovnicu Južne Koreje",
   "short_name": "Veličina Fotografija za",
   "description": "Izradite Fotografija za putovnicu Južne Koreje u službenoj veličini 35×45 mm (413×531 px), pozadina jednobojna bijela. Besplatni mrežni izrađivač — izrežite, preuzmite i ispišite list, bez prijenosa.",
-  "id": "/loona-image-compressor/hr/south-korea-passport-photo-size.html",
+  "id": "/hr/south-korea-passport-photo-size.html",
   "start_url": "./south-korea-passport-photo-size.html",
   "scope": "./south-korea-passport-photo-size.html",
   "display": "standalone",

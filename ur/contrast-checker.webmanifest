@@ -2,7 +2,7 @@
   "name": "Loona تضاد جانچ کار",
   "short_name": "تضاد جانچ کار",
   "description": "متن اور پس منظر رنگوں کو WCAG کے خلاف جانچیں: AA اور AAA پاس/ناکام کے ساتھ فوری تضاد تناسب عام اور بڑے متن کے لیے، علاوہ لائیو پیش نظارہ۔ مفت، نہ سائن اپ۔",
-  "id": "/loona-image-compressor/ur/contrast-checker.html",
+  "id": "/ur/contrast-checker.html",
   "start_url": "./contrast-checker.html",
   "scope": "./contrast-checker.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Konwerter BMP na PNG",
   "short_name": "Konwerter BMP na PNG",
   "description": "Konwertuj BMP do PNG online za darmo — bezstratnie, znacznie mniejszy niż BMP i obsługiwany wszędzie. Działa w Twojej przeglądarce, bez rejestracji, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/bmp-to-png.html",
+  "id": "/pl/bmp-to-png.html",
   "start_url": "./bmp-to-png.html",
   "scope": "./bmp-to-png.html",
   "display": "standalone",

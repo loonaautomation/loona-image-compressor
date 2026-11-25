@@ -2,7 +2,7 @@
   "name": "Loona Resize Image to 3840 × 2160 px",
   "short_name": "Resize Image to 3840 × 2160 px",
   "description": "Resize any image to exactly 3840×2160 px — 4K UHD wallpaper / video frame. Free in your browser with crop control; no upload, no signup.",
-  "id": "/loona-image-compressor/en-gb/resize-image-to-3840x2160.html",
+  "id": "/en-gb/resize-image-to-3840x2160.html",
   "start_url": "./resize-image-to-3840x2160.html",
   "scope": "./resize-image-to-3840x2160.html",
   "display": "standalone",

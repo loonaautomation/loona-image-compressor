@@ -2,7 +2,7 @@
   "name": "Loona Kích thước ảnh &amp; chữ ký cho kỳ thi",
   "short_name": "Kích thước ảnh &amp; chữ ký",
   "description": "Kích thước và dải KB của ảnh và chữ ký cho 20 kỳ thi lớn của Ấn Độ — SSC, IBPS, SBI, UPSC, RRB, JEE, NEET và nhiều kỳ thi khác, mỗi loại kèm một công cụ tạo ảnh.",
-  "id": "/loona-image-compressor/vi/exam-photo-sizes.html",
+  "id": "/vi/exam-photo-sizes.html",
   "start_url": "./exam-photo-sizes.html",
   "scope": "./exam-photo-sizes.html",
   "display": "standalone",

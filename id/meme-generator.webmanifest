@@ -2,7 +2,7 @@
   "name": "Loona Generator Meme",
   "short_name": "Generator Meme",
   "description": "Ubah foto mana pun menjadi meme klasik dengan teks atas dan bawah yang tebal — generator meme online gratis dengan pratinjau langsung, pilihan latar belakang polos, dan unduhan PNG. Tanpa pendaftaran, dan gambar Anda tidak pernah meninggalkan perangkat Anda.",
-  "id": "/loona-image-compressor/id/meme-generator.html",
+  "id": "/id/meme-generator.html",
   "start_url": "./meme-generator.html",
   "scope": "./meme-generator.html",
   "display": "standalone",

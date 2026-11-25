@@ -2,7 +2,7 @@
   "name": "Loona Resize Image to 354 × 472 px",
   "short_name": "Resize Image to 354 × 472 px",
   "description": "Resize any image to exactly 354×472 px — 30 × 40 mm at 300 DPI — Iran/Colombia document size. Free in your browser with crop control; no upload, no signup.",
-  "id": "/loona-image-compressor/en-gb/resize-image-to-354x472.html",
+  "id": "/en-gb/resize-image-to-354x472.html",
   "start_url": "./resize-image-to-354x472.html",
   "scope": "./resize-image-to-354x472.html",
   "display": "standalone",

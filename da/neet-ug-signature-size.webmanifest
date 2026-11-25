@@ -2,7 +2,7 @@
   "name": "Loona NEET UG Underskrift størrelse",
   "short_name": "NEET UG Underskrift størrelse",
   "description": "Tilpas størrelsen på dit NEET UG underskrift til meddelelsens størrelse (scannet felt, forhold cirka 7:2) og båndet 4–30 KB. Gratis, i din browser — ingen upload, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/neet-ug-signature-size.html",
+  "id": "/da/neet-ug-signature-size.html",
   "start_url": "./neet-ug-signature-size.html",
   "scope": "./neet-ug-signature-size.html",
   "display": "standalone",

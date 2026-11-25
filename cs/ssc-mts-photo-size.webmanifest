@@ -2,7 +2,7 @@
   "name": "Loona Velikost SSC MTS Fotografie",
   "short_name": "Velikost SSC MTS Fotografie",
   "description": "Změňte velikost souboru SSC MTS fotografie na velikost podle oznámení (200 × 230 px) a pásmo 20–50 KB. Zdarma, ve vašem prohlížeči — bez nahrávání a bez registrace.",
-  "id": "/loona-image-compressor/cs/ssc-mts-photo-size.html",
+  "id": "/cs/ssc-mts-photo-size.html",
   "start_url": "./ssc-mts-photo-size.html",
   "scope": "./ssc-mts-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة المنشور LinkedIn",
   "short_name": "حجم صورة المنشور LinkedIn",
   "description": "اصنع صورة المنشور LinkedIn بمقاس 1200×627 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/linkedin-post-image-size.html",
+  "id": "/ar/linkedin-post-image-size.html",
   "start_url": "./linkedin-post-image-size.html",
   "scope": "./linkedin-post-image-size.html",
   "display": "standalone",

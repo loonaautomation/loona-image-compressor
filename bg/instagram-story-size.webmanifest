@@ -2,7 +2,7 @@
   "name": "Loona Размер на История за Instagram",
   "short_name": "Размер на История за Instagram",
   "description": "Направете история за Instagram на точно 1080×1920 px. Безплатен инструмент за преоразмеряване/изрязване във вашия браузър с правилата за безопасната зона, които спират изрязване на текст и лица.",
-  "id": "/loona-image-compressor/bg/instagram-story-size.html",
+  "id": "/bg/instagram-story-size.html",
   "start_url": "./instagram-story-size.html",
   "scope": "./instagram-story-size.html",
   "display": "standalone",

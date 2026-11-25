@@ -2,7 +2,7 @@
   "name": "Loona BMP'den JPG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Yüklemesiz",
   "short_name": "BMP'den JPG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Yüklemesiz",
   "description": "BMP'yi çevrimiçi ücretsiz olarak JPG'ye dönüştürün ve devasa sıkıştırılmamış bitmap'leri %90 veya daha fazla küçültün. Tarayıcınızda — kayıt yok, yükleme yok, filigran yok.",
-  "id": "/loona-image-compressor/tr/bmp-to-jpg.html",
+  "id": "/tr/bmp-to-jpg.html",
   "start_url": "./bmp-to-jpg.html",
   "scope": "./bmp-to-jpg.html",
   "display": "standalone",

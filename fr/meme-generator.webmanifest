@@ -2,7 +2,7 @@
   "name": "Loona Générateur de mèmes",
   "short_name": "Générateur de mèmes",
   "description": "Transformez n'importe quelle photo en mème classique avec un texte gras en haut et en bas — générateur de mèmes en ligne gratuit avec aperçu en direct, options de fond uni et téléchargement PNG. Sans inscription, et votre image ne quitte jamais votre appareil.",
-  "id": "/loona-image-compressor/fr/meme-generator.html",
+  "id": "/fr/meme-generator.html",
   "start_url": "./meme-generator.html",
   "scope": "./meme-generator.html",
   "display": "standalone",

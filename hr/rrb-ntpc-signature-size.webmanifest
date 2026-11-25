@@ -2,7 +2,7 @@
   "name": "Loona Veličina RRB NTPC (Railways) Potpis",
   "short_name": "Veličina RRB NTPC (Railways)",
   "description": "Promijenite veličinu svoje RRB NTPC (Railways) potpis na veličinu iz obavijesti (140 × 60 px) i pojas 10–40 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/rrb-ntpc-signature-size.html",
+  "id": "/hr/rrb-ntpc-signature-size.html",
   "start_url": "./rrb-ntpc-signature-size.html",
   "scope": "./rrb-ntpc-signature-size.html",
   "display": "standalone",

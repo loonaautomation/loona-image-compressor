@@ -2,7 +2,7 @@
   "name": "Loona Redimensionează imaginea la 200 × 230 px online",
   "short_name": "Redimensionează imaginea la",
   "description": "Redimensionează orice imagine la exact 200×230 px — Standardul pentru fotografii de examen SSC/IBPS/SBI din India. Gratuit în browserul tău, cu control al decupării; fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/resize-image-to-200x230.html",
+  "id": "/ro/resize-image-to-200x230.html",
   "start_url": "./resize-image-to-200x230.html",
   "scope": "./resize-image-to-200x230.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Veličina SBI PO Fotografija",
   "short_name": "Veličina SBI PO Fotografija",
   "description": "Promijenite veličinu svoje SBI PO fotografiju na veličinu iz obavijesti (200 × 230 px) i pojas 20–50 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/sbi-po-photo-size.html",
+  "id": "/hr/sbi-po-photo-size.html",
   "start_url": "./sbi-po-photo-size.html",
   "scope": "./sbi-po-photo-size.html",
   "display": "standalone",

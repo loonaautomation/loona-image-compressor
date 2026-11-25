@@ -2,7 +2,7 @@
   "name": "Loona Nén WebP xuống 150 KB trực tuyến",
   "short_name": "Nén WebP xuống 150 KB trực",
   "description": "Nén ảnh WebP xuống 150 KB hoặc nhỏ hơn, miễn phí trong trình duyệt của bạn. Tính năng tìm kiếm tự động sẽ chọn chất lượng tốt nhất vừa với giới hạn — không cần đăng ký, không tải lên.",
-  "id": "/loona-image-compressor/vi/compress-webp-to-150kb.html",
+  "id": "/vi/compress-webp-to-150kb.html",
   "start_url": "./compress-webp-to-150kb.html",
   "scope": "./compress-webp-to-150kb.html",
   "display": "standalone",

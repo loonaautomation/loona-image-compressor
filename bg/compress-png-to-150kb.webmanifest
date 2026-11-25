@@ -2,7 +2,7 @@
   "name": "Loona Компресиране на PNG до 150 KB онлайн",
   "short_name": "Компресиране на PNG до 150 KB",
   "description": "Компресирайте изображение PNG до 150 KB или по-малко, безплатно във вашия браузър. Автоматичното търсене намира най-доброто качество, което се побира — без регистрация, без качване.",
-  "id": "/loona-image-compressor/bg/compress-png-to-150kb.html",
+  "id": "/bg/compress-png-to-150kb.html",
   "start_url": "./compress-png-to-150kb.html",
   "scope": "./compress-png-to-150kb.html",
   "display": "standalone",

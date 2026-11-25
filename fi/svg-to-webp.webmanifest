@@ -2,7 +2,7 @@
   "name": "Loona SVG",
   "short_name": "SVG",
   "description": "Muunna SVG muotoon WEBP verkossa, ilmaiseksi, selaimessasi. Aito muunnos laitteellasi — ilman palvelimelle lataamista, ilman rekisteröitymistä ja ilman vesileimoja.",
-  "id": "/loona-image-compressor/fi/svg-to-webp.html",
+  "id": "/fi/svg-to-webp.html",
   "start_url": "./svg-to-webp.html",
   "scope": "./svg-to-webp.html",
   "display": "standalone",

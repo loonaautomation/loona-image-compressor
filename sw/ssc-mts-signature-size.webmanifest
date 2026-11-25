@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Saini wa SSC MTS",
   "short_name": "Ukubwa wa Saini wa SSC MTS",
   "description": "Badilisha ukubwa wa saini yako ya SSC MTS hadi ukubwa wa ilani (140 × 60 px) na kiwango cha KB 10–20. Bure, kwenye kivinjari chako — bila kupakia, bila kujisajili.",
-  "id": "/loona-image-compressor/sw/ssc-mts-signature-size.html",
+  "id": "/sw/ssc-mts-signature-size.html",
   "start_url": "./ssc-mts-signature-size.html",
   "scope": "./ssc-mts-signature-size.html",
   "display": "standalone",

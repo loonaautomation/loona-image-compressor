@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία RBI Assistant",
   "short_name": "Φωτογραφία RBI Assistant",
   "description": "Αλλάξτε το μέγεθος της φωτογραφία RBI Assistant στο μέγεθος της προκήρυξης (200 × 230 px) και στη ζώνη 20–50 KB. Δωρεάν, στο πρόγραμμα περιήγησής σας — χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/rbi-assistant-photo-size.html",
+  "id": "/el/rbi-assistant-photo-size.html",
   "start_url": "./rbi-assistant-photo-size.html",
   "scope": "./rbi-assistant-photo-size.html",
   "display": "standalone",

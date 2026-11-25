@@ -2,7 +2,7 @@
   "name": "Loona Tamanho de Cabeçalho / Banner de X",
   "short_name": "Tamanho de Cabeçalho / Banner",
   "description": "Crie um elemento cabeçalho / banner de X (Twitter) com exatamente 1500×500 px. Redimensionador/recortador gratuito no seu navegador, com as regras de zona segura que evitam textos e rostos cortados.",
-  "id": "/loona-image-compressor/pt-pt/x-header-size.html",
+  "id": "/pt-pt/x-header-size.html",
   "start_url": "./x-header-size.html",
   "scope": "./x-header-size.html",
   "display": "standalone",

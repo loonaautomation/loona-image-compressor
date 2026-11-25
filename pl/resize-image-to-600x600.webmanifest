@@ -2,7 +2,7 @@
   "name": "Loona Zmień rozmiar obrazu do 600 × 600 px online",
   "short_name": "Zmień rozmiar obrazu do 600 ×",
   "description": "Zmień rozmiar dowolnego obrazu dokładnie do 600×600 px — Minimalny rozmiar cyfrowy paszportu/wizy USA i Loterii DV. Za darmo w przeglądarce z kontrolą przycinania; bez przesyłania, bez rejestracji.",
-  "id": "/loona-image-compressor/pl/resize-image-to-600x600.html",
+  "id": "/pl/resize-image-to-600x600.html",
   "start_url": "./resize-image-to-600x600.html",
   "scope": "./resize-image-to-600x600.html",
   "display": "standalone",

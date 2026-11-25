@@ -2,7 +2,7 @@
   "name": "Loona Υδατογράφημα Εικόνας",
   "short_name": "Υδατογράφημα Εικόνας",
   "description": "Προσθέστε ένα υδατογράφημα κειμένου σε οποιαδήποτε φωτογραφία διαδικτυακά δωρεάν — επιλέξτε το κείμενο, το μέγεθος, το χρώμα, την αδιαφάνεια και τη θέση, ή επαναλάβετέ το ως μοτίβο πλακιδίων. Ζωντανή προεπισκόπηση, χωρίς εγγραφή, και η εικόνα σας δεν φεύγει ποτέ από τη συσκευή σας.",
-  "id": "/loona-image-compressor/el/image-watermark.html",
+  "id": "/el/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

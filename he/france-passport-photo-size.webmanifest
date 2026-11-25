@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת פספורט / תעודת זהות צרפת",
   "short_name": "גודל תמונת פספורט / תעודת",
   "description": "צרו תמונת פספורט / תעודת זהות צרפת בגודל הרשמי 35×45 מ&quot;מ (413×531 px), רקע אפור בהיר חלק או תכלת. כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/france-passport-photo-size.html",
+  "id": "/he/france-passport-photo-size.html",
   "start_url": "./france-passport-photo-size.html",
   "scope": "./france-passport-photo-size.html",
   "display": "standalone",

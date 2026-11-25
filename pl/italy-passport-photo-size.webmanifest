@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do paszportu Włoch",
   "short_name": "Rozmiar Zdjęcie do paszportu",
   "description": "Utwórz Zdjęcie do paszportu Włoch w oficjalnym rozmiarze 35×40 mm (413×472 px), tło: gładkie białe lub jasne. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/italy-passport-photo-size.html",
+  "id": "/pl/italy-passport-photo-size.html",
   "start_url": "./italy-passport-photo-size.html",
   "scope": "./italy-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Chapisho la Mraba (1",
   "short_name": "Ukubwa wa Chapisho la Mraba (1",
   "description": "Tengeneza chapisho la mraba (1:1) ya Instagram katika px 1080×1080 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/instagram-square-post-size.html",
+  "id": "/sw/instagram-square-post-size.html",
   "start_url": "./instagram-square-post-size.html",
   "scope": "./instagram-square-post-size.html",
   "display": "standalone",

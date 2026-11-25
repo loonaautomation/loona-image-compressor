@@ -2,7 +2,7 @@
   "name": "Loona Nederländskt passfoto storlek",
   "short_name": "Nederländskt passfoto storlek",
   "description": "Skapa ett Nederländskt passfoto i den officiella storleken 35×45 mm (413×531 px), slät ljusgrå eller vit, jämnt upplyst bakgrund. Gratis onlineskapare — beskär, ladda ner och skriv ut ark, ingen uppladdning.",
-  "id": "/loona-image-compressor/sv/netherlands-passport-photo-size.html",
+  "id": "/sv/netherlands-passport-photo-size.html",
   "start_url": "./netherlands-passport-photo-size.html",
   "scope": "./netherlands-passport-photo-size.html",
   "display": "standalone",

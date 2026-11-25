@@ -2,7 +2,7 @@
   "name": "Loona ICO",
   "short_name": "ICO",
   "description": "Muunna ICO muotoon PNG verkossa, ilmaiseksi, selaimessasi. Aito muunnos laitteellasi — ilman palvelimelle lataamista, ilman rekisteröitymistä ja ilman vesileimoja.",
-  "id": "/loona-image-compressor/fi/ico-to-png.html",
+  "id": "/fi/ico-to-png.html",
   "start_url": "./ico-to-png.html",
   "scope": "./ico-to-png.html",
   "display": "standalone",

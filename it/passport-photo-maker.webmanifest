@@ -2,7 +2,7 @@
   "name": "Loona Crea fototessere",
   "short_name": "Crea fototessere",
   "description": "Crea una fototessera online gratis: ritaglia qualsiasi foto a 35×45 mm o 2×2 pollici a 300 DPI pronti per la stampa. Senza registrazione, senza filigrana, completamente privato.",
-  "id": "/loona-image-compressor/it/passport-photo-maker.html",
+  "id": "/it/passport-photo-maker.html",
   "start_url": "./passport-photo-maker.html",
   "scope": "./passport-photo-maker.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona تغيير حجم الصورة إلى 750 × 1050 px عبر",
   "short_name": "تغيير حجم الصورة إلى 750 ×",
   "description": "غيّر حجم أي صورة إلى 750×1050 px بالضبط — حجم المحفظة — 2.5 × 3.5 بوصة عند 300 DPI. مجاناً في متصفحك مع تحكم في القص؛ بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/resize-image-to-750x1050.html",
+  "id": "/ar/resize-image-to-750x1050.html",
   "start_url": "./resize-image-to-750x1050.html",
   "scope": "./resize-image-to-750x1050.html",
   "display": "standalone",

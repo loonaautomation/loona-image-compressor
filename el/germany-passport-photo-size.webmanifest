@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Διαβατηρίου Γερμανίας (Βιομετρική)",
   "short_name": "Φωτογραφία Διαβατηρίου",
   "description": "Δημιουργήστε Φωτογραφία Διαβατηρίου Γερμανίας (Βιομετρική) στο επίσημο μέγεθος 35×45 mm (413×531 px), φόντο ανοιχτό γκρι, απλό. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/germany-passport-photo-size.html",
+  "id": "/el/germany-passport-photo-size.html",
   "start_url": "./germany-passport-photo-size.html",
   "scope": "./germany-passport-photo-size.html",
   "display": "standalone",

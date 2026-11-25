@@ -2,7 +2,7 @@
   "name": "Loona Instagram پروفائل تصویر کا سائز",
   "short_name": "Instagram پروفائل تصویر کا",
   "description": "Instagram پروفائل تصویر بالکل 1080×1080 px پر بنائیں۔ آپ کے براؤزر میں مفت ری سائزر/کراپر، محفوظ زون کے قواعد کے ساتھ جو کراپ شدہ متن اور چہروں کو روکتے ہیں۔",
-  "id": "/loona-image-compressor/ur/instagram-profile-picture-size.html",
+  "id": "/ur/instagram-profile-picture-size.html",
   "start_url": "./instagram-profile-picture-size.html",
   "scope": "./instagram-profile-picture-size.html",
   "display": "standalone",

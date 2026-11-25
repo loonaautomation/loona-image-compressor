@@ -2,7 +2,7 @@
   "name": "Loona SSC CHSL Unterschrift Größe",
   "short_name": "SSC CHSL Unterschrift Größe",
   "description": "Passen Sie Ihr SSC CHSL-Unterschrift auf die Größe der Bekanntmachung (140 × 60 px) und den Bereich 10–20 KB an. Kostenlos, in Ihrem Browser — ohne Upload, ohne Anmeldung.",
-  "id": "/loona-image-compressor/de/ssc-chsl-signature-size.html",
+  "id": "/de/ssc-chsl-signature-size.html",
   "start_url": "./ssc-chsl-signature-size.html",
   "scope": "./ssc-chsl-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Instagram Kvadratisk innlegg (1",
   "short_name": "Instagram Kvadratisk innlegg",
   "description": "Lag en Instagram kvadratisk innlegg (1:1) med nøyaktig 1080×1080 px. Gratis størrelsesendrer/beskjærer i nettleseren din med reglene for sikre soner som stopper beskåret tekst og ansikter.",
-  "id": "/loona-image-compressor/nb/instagram-square-post-size.html",
+  "id": "/nb/instagram-square-post-size.html",
   "start_url": "./instagram-square-post-size.html",
   "scope": "./instagram-square-post-size.html",
   "display": "standalone",

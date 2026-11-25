@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Pano Kapağı Boyutu — 800×450 px",
   "short_name": "Pinterest Pano Kapağı Boyutu — 800×450 px",
   "description": "Tam olarak 800×450 px ölçüsünde bir Pinterest pano kapağı oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/pinterest-board-cover-size.html",
+  "id": "/tr/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",
   "scope": "./pinterest-board-cover-size.html",
   "display": "standalone",

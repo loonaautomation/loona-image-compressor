@@ -2,7 +2,7 @@
   "name": "Loona JEE Main دستخط کا سائز",
   "short_name": "JEE Main دستخط کا سائز",
   "description": "اپنی JEE Main دستخط کو نوٹیفکیشن سائز (اسکین شدہ ڈبہ، تناسب تقریباً 7:2) اور 4–30 KB بینڈ کے مطابق بنائیں۔ مفت، آپ کے براؤزر میں — نہ اپ لوڈ، نہ سائن اپ۔",
-  "id": "/loona-image-compressor/ur/jee-main-signature-size.html",
+  "id": "/ur/jee-main-signature-size.html",
   "start_url": "./jee-main-signature-size.html",
   "scope": "./jee-main-signature-size.html",
   "display": "standalone",

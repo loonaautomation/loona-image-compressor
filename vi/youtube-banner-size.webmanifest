@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Banner kênh YouTube",
   "short_name": "Kích thước Banner kênh YouTube",
   "description": "Tạo banner kênh YouTube chính xác 2560×1440 px. Công cụ thay đổi kích thước/cắt ảnh miễn phí trong trình duyệt của bạn, kèm các quy tắc vùng an toàn giúp văn bản và khuôn mặt không bị cắt mất.",
-  "id": "/loona-image-compressor/vi/youtube-banner-size.html",
+  "id": "/vi/youtube-banner-size.html",
   "start_url": "./youtube-banner-size.html",
   "scope": "./youtube-banner-size.html",
   "display": "standalone",

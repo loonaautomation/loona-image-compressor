@@ -2,7 +2,7 @@
   "name": "Loona TikTok Videokehys koko",
   "short_name": "TikTok Videokehys koko",
   "description": "Tee TikTok videokehys tarkalleen kokoon 1080×1920 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/tiktok-video-frame-size.html",
+  "id": "/fi/tiktok-video-frame-size.html",
   "start_url": "./tiktok-video-frame-size.html",
   "scope": "./tiktok-video-frame-size.html",
   "display": "standalone",

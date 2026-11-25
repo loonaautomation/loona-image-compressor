@@ -2,7 +2,7 @@
   "name": "Loona Τετράγωνη Ανάρτηση (1",
   "short_name": "Τετράγωνη Ανάρτηση (1",
   "description": "Δημιουργήστε ένα τετράγωνη ανάρτηση (1:1) Instagram σε ακριβώς 1080×1080 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/instagram-square-post-size.html",
+  "id": "/el/instagram-square-post-size.html",
   "start_url": "./instagram-square-post-size.html",
   "scope": "./instagram-square-post-size.html",
   "display": "standalone",

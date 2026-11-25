@@ -2,7 +2,7 @@
   "name": "Loona Formaat YouTube Afbeelding communitypost",
   "short_name": "Formaat YouTube Afbeelding",
   "description": "Maak een YouTube afbeelding communitypost op precies 1080×1080 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/youtube-community-post-size.html",
+  "id": "/nl/youtube-community-post-size.html",
   "start_url": "./youtube-community-post-size.html",
   "scope": "./youtube-community-post-size.html",
   "display": "standalone",

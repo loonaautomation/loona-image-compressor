@@ -2,7 +2,7 @@
   "name": "Loona שינוי גודל תמונה ל־512 × 512",
   "short_name": "שינוי גודל תמונה ל־512 × 512",
   "description": "שנו גודל של כל תמונה בדיוק ל־512 × 512 פיקסלים (אייקוני אפליקציות, אווטרים ותמונות אב לסמלי מועדפים) בחינם. כיסוי, הכלה או מתיחה, JPG או PNG, הורדה מיידית — ללא הרשמה, שום דבר לא מועלה.",
-  "id": "/loona-image-compressor/he/resize-image-to-512x512.html",
+  "id": "/he/resize-image-to-512x512.html",
   "start_url": "./resize-image-to-512x512.html",
   "scope": "./resize-image-to-512x512.html",
   "display": "standalone",

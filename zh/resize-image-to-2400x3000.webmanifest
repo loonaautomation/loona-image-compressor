@@ -2,7 +2,7 @@
   "name": "Loona 在线将图片调整为 2400 × 3000 px",
   "short_name": "在线将图片调整为 2400 × 3000 px",
   "description": "将任何图片调整为精确的 2400×3000 px — 300 DPI 下的 8 × 10 英寸打印。在浏览器中免费使用，带裁剪控制；无需上传，无需注册。",
-  "id": "/loona-image-compressor/zh/resize-image-to-2400x3000.html",
+  "id": "/zh/resize-image-to-2400x3000.html",
   "start_url": "./resize-image-to-2400x3000.html",
   "scope": "./resize-image-to-2400x3000.html",
   "display": "standalone",

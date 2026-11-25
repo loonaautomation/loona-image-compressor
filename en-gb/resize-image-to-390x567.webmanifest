@@ -2,7 +2,7 @@
   "name": "Loona Resize Image to 390 × 567 px",
   "short_name": "Resize Image to 390 × 567 px",
   "description": "Resize any image to exactly 390×567 px — 33 × 48 mm at 300 DPI — China visa size. Free in your browser with crop control; no upload, no signup.",
-  "id": "/loona-image-compressor/en-gb/resize-image-to-390x567.html",
+  "id": "/en-gb/resize-image-to-390x567.html",
   "start_url": "./resize-image-to-390x567.html",
   "scope": "./resize-image-to-390x567.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Formaat AFCAT Handtekening",
   "short_name": "Formaat AFCAT Handtekening",
   "description": "Pas je AFCAT-handtekening aan naar het formaat uit de aankondiging (gescand vak, verhouding ongeveer 7:2) en de band van 10–50 KB. Gratis, in je browser — geen upload, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/afcat-signature-size.html",
+  "id": "/nl/afcat-signature-size.html",
   "start_url": "./afcat-signature-size.html",
   "scope": "./afcat-signature-size.html",
   "display": "standalone",

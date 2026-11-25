@@ -2,7 +2,7 @@
   "name": "Loona Zmeniť veľkosť obrázka na 800 × 800",
   "short_name": "Zmeniť veľkosť obrázka na 800",
   "description": "Zmeňte veľkosť akéhokoľvek obrázka presne na 800 × 800 pixelov (marketplace and product listing photos) zadarmo. Pokrytie, prispôsobenie dovnútra alebo roztiahnutie, JPG alebo PNG, okamžité stiahnutie — bez registrácie, nič sa nenahráva.",
-  "id": "/loona-image-compressor/sk/resize-image-to-800x800.html",
+  "id": "/sk/resize-image-to-800x800.html",
   "start_url": "./resize-image-to-800x800.html",
   "scope": "./resize-image-to-800x800.html",
   "display": "standalone",

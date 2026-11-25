@@ -2,7 +2,7 @@
   "name": "Loona Facebook कवर फ़ोटो / पेज कवर साइज़",
   "short_name": "Facebook कवर फ़ोटो / पेज कवर",
   "description": "Facebook कवर फ़ोटो / पेज कवर ठीक 1640×924 px पर बनाएँ. आपके ब्राउज़र में मुफ़्त रीसाइज़र/क्रॉपर, उन सेफ़-ज़ोन नियमों के साथ जो क्रॉप हुए टेक्स्ट और चेहरों को रोकते हैं.",
-  "id": "/loona-image-compressor/hi/facebook-cover-photo-size.html",
+  "id": "/hi/facebook-cover-photo-size.html",
   "start_url": "./facebook-cover-photo-size.html",
   "scope": "./facebook-cover-photo-size.html",
   "display": "standalone",

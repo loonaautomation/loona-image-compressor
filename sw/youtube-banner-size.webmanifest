@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Bango la Kituo wa YouTube",
   "short_name": "Ukubwa wa Bango la Kituo wa",
   "description": "Tengeneza bango la kituo ya YouTube katika px 2560×1440 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/youtube-banner-size.html",
+  "id": "/sw/youtube-banner-size.html",
   "start_url": "./youtube-banner-size.html",
   "scope": "./youtube-banner-size.html",
   "display": "standalone",

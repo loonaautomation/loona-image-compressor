@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Paspor Standar ICAO (35×45 mm)",
   "short_name": "Ukuran Foto Paspor Standar",
   "description": "Buat Foto Paspor Standar ICAO (35×45 mm) pada ukuran resmi 35×45 mm (413×531 px), latar belakang latar belakang terang polos. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/icao-passport-photo-size.html",
+  "id": "/id/icao-passport-photo-size.html",
   "start_url": "./icao-passport-photo-size.html",
   "scope": "./icao-passport-photo-size.html",
   "display": "standalone",

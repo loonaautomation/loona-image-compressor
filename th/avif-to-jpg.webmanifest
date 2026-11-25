@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง AVIF เป็น JPG",
   "short_name": "ตัวแปลง AVIF เป็น JPG",
   "description": "แปลง AVIF เป็น JPG ออนไลน์ ฟรี ในเบราว์เซอร์ของคุณ การแปลงจริงบนอุปกรณ์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ",
-  "id": "/loona-image-compressor/th/avif-to-jpg.html",
+  "id": "/th/avif-to-jpg.html",
   "start_url": "./avif-to-jpg.html",
   "scope": "./avif-to-jpg.html",
   "display": "standalone",

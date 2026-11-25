@@ -2,7 +2,7 @@
   "name": "Loona Αλλαγή Μεγέθους Εικόνας σε 750 × 1050 px Online",
   "short_name": "Αλλαγή Μεγέθους Εικόνας σε",
   "description": "Αλλάξτε το μέγεθος οποιασδήποτε εικόνας σε ακριβώς 750×1050 px — Μέγεθος πορτοφολιού — 2.5 × 3.5 inch στα 300 DPI. Δωρεάν στο πρόγραμμα περιήγησής σας με έλεγχο περικοπής· χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/resize-image-to-750x1050.html",
+  "id": "/el/resize-image-to-750x1050.html",
   "start_url": "./resize-image-to-750x1050.html",
   "scope": "./resize-image-to-750x1050.html",
   "display": "standalone",

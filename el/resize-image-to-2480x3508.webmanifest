@@ -2,7 +2,7 @@
   "name": "Loona Αλλαγή Μεγέθους Εικόνας σε 2480 × 3508 px Online",
   "short_name": "Αλλαγή Μεγέθους Εικόνας σε",
   "description": "Αλλάξτε το μέγεθος οποιασδήποτε εικόνας σε ακριβώς 2480×3508 px — A4 στα 300 DPI. Δωρεάν στο πρόγραμμα περιήγησής σας με έλεγχο περικοπής· χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/resize-image-to-2480x3508.html",
+  "id": "/el/resize-image-to-2480x3508.html",
   "start_url": "./resize-image-to-2480x3508.html",
   "scope": "./resize-image-to-2480x3508.html",
   "display": "standalone",

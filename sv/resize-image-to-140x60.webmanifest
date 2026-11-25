@@ -2,7 +2,7 @@
   "name": "Loona Ändra bildstorlek till 140 × 60 px online",
   "short_name": "Ändra bildstorlek till 140 ×",
   "description": "Ändra storlek på valfri bild till exakt 140×60 px — Den indiska provsignaturstandarden (SSC, IBPS, SBI). Gratis i din webbläsare med beskärningskontroll; ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/resize-image-to-140x60.html",
+  "id": "/sv/resize-image-to-140x60.html",
   "start_url": "./resize-image-to-140x60.html",
   "scope": "./resize-image-to-140x60.html",
   "display": "standalone",

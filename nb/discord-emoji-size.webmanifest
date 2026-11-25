@@ -2,7 +2,7 @@
   "name": "Loona Discord Egendefinert emoji-størrelse",
   "short_name": "Discord Egendefinert",
   "description": "Lag en Discord egendefinert emoji med nøyaktig 128×128 px. Gratis størrelsesendrer/beskjærer i nettleseren din med reglene for sikre soner som stopper beskåret tekst og ansikter.",
-  "id": "/loona-image-compressor/nb/discord-emoji-size.html",
+  "id": "/nb/discord-emoji-size.html",
   "start_url": "./discord-emoji-size.html",
   "scope": "./discord-emoji-size.html",
   "display": "standalone",

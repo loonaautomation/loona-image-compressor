@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Wasifu wa Instagram",
   "short_name": "Ukubwa wa Picha ya Wasifu wa",
   "description": "Tengeneza picha ya wasifu ya Instagram katika px 1080×1080 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/instagram-profile-picture-size.html",
+  "id": "/sw/instagram-profile-picture-size.html",
   "start_url": "./instagram-profile-picture-size.html",
   "scope": "./instagram-profile-picture-size.html",
   "display": "standalone",

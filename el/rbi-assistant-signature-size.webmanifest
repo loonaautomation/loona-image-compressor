@@ -2,7 +2,7 @@
   "name": "Loona Υπογραφή RBI Assistant",
   "short_name": "Υπογραφή RBI Assistant",
   "description": "Αλλάξτε το μέγεθος της υπογραφή RBI Assistant στο μέγεθος της προκήρυξης (140 × 60 px) και στη ζώνη 10–20 KB. Δωρεάν, στο πρόγραμμα περιήγησής σας — χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/rbi-assistant-signature-size.html",
+  "id": "/el/rbi-assistant-signature-size.html",
   "start_url": "./rbi-assistant-signature-size.html",
   "scope": "./rbi-assistant-signature-size.html",
   "display": "standalone",

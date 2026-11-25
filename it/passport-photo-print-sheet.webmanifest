@@ -2,7 +2,7 @@
   "name": "Loona Foglio di stampa foto tessera",
   "short_name": "Foglio di stampa foto tessera",
   "description": "Metti 4, 6 o 8 fototessere su un unico foglio di stampa A4 gratis a 300 DPI. Stampa al 100%, taglia lungo le guide e risparmia i soldi dello studio. Senza registrazione, completamente privato.",
-  "id": "/loona-image-compressor/it/passport-photo-print-sheet.html",
+  "id": "/it/passport-photo-print-sheet.html",
   "start_url": "./passport-photo-print-sheet.html",
   "scope": "./passport-photo-print-sheet.html",
   "display": "standalone",

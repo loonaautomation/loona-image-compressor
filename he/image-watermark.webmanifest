@@ -2,7 +2,7 @@
   "name": "Loona סימן מים לתמונה",
   "short_name": "סימן מים לתמונה",
   "description": "הוסיפו סימן מים טקסטואלי לכל תמונה באינטרנט בחינם — בחרו את הטקסט, הגודל, הצבע, האטימות והמיקום, או חזרו עליו כדוגמה מרוצפת. תצוגה מקדימה חיה, ללא הרשמה, והתמונה שלכם לעולם לא עוזבת את המכשיר.",
-  "id": "/loona-image-compressor/he/image-watermark.html",
+  "id": "/he/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

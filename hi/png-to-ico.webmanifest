@@ -2,7 +2,7 @@
   "name": "Loona PNG से ICO कन्वर्टर",
   "short_name": "PNG से ICO कन्वर्टर",
   "description": "PNG को ICO में ऑनलाइन कन्वर्ट करें, मुफ़्त, आपके ब्राउज़र में. आपके डिवाइस पर असली कन्वर्ज़न — न अपलोड, न साइन-अप, न वॉटरमार्क.",
-  "id": "/loona-image-compressor/hi/png-to-ico.html",
+  "id": "/hi/png-to-ico.html",
   "start_url": "./png-to-ico.html",
   "scope": "./png-to-ico.html",
   "display": "standalone",

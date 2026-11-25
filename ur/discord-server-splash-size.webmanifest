@@ -2,7 +2,7 @@
   "name": "Loona Discord دعوت اسپلش کا سائز",
   "short_name": "Discord دعوت اسپلش کا سائز",
   "description": "Discord دعوت اسپلش بالکل 1920×1080 px پر بنائیں۔ آپ کے براؤزر میں مفت ری سائزر/کراپر، محفوظ زون کے قواعد کے ساتھ جو کراپ شدہ متن اور چہروں کو روکتے ہیں۔",
-  "id": "/loona-image-compressor/ur/discord-server-splash-size.html",
+  "id": "/ur/discord-server-splash-size.html",
   "start_url": "./discord-server-splash-size.html",
   "scope": "./discord-server-splash-size.html",
   "display": "standalone",

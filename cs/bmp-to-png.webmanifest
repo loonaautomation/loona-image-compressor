@@ -2,7 +2,7 @@
   "name": "Loona Převodník BMP na PNG",
   "short_name": "Převodník BMP na PNG",
   "description": "Převeďte BMP na PNG online zdarma — bezztrátově, mnohem menší než BMP a podporováno všude. Běží ve vašem prohlížeči, bez registrace, bez nahrávání.",
-  "id": "/loona-image-compressor/cs/bmp-to-png.html",
+  "id": "/cs/bmp-to-png.html",
   "start_url": "./bmp-to-png.html",
   "scope": "./bmp-to-png.html",
   "display": "standalone",

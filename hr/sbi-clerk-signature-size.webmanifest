@@ -2,7 +2,7 @@
   "name": "Loona Veličina SBI Clerk (Junior Associates) Potpis",
   "short_name": "Veličina SBI Clerk (Junior",
   "description": "Promijenite veličinu svoje SBI Clerk (Junior Associates) potpis na veličinu iz obavijesti (140 × 60 px) i pojas 10–20 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/sbi-clerk-signature-size.html",
+  "id": "/hr/sbi-clerk-signature-size.html",
   "start_url": "./sbi-clerk-signature-size.html",
   "scope": "./sbi-clerk-signature-size.html",
   "display": "standalone",

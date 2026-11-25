@@ -2,7 +2,7 @@
   "name": "Loona 阿根廷护照 / DNI 照片 尺寸",
   "short_name": "阿根廷护照 / DNI 照片 尺寸",
   "description": "按官方尺寸 40×40 mm（472×472 px）制作 阿根廷护照 / DNI 照片，纯白色或浅蓝色背景。免费在线制作工具 — 裁剪、下载并打印照片页，无需上传。",
-  "id": "/loona-image-compressor/zh/argentina-passport-photo-size.html",
+  "id": "/zh/argentina-passport-photo-size.html",
   "start_url": "./argentina-passport-photo-size.html",
   "scope": "./argentina-passport-photo-size.html",
   "display": "standalone",

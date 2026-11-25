@@ -2,7 +2,7 @@
   "name": "Loona Marca de Água em Imagem",
   "short_name": "Marca de Água em Imagem",
   "description": "Adicione gratuitamente uma marca de água de texto a qualquer fotografia online — escolha o texto, o tamanho, a cor, a opacidade e a posição, ou repita-o como um padrão em mosaico. Pré-visualização ao vivo, sem registro, e a sua imagem nunca sai do dispositivo.",
-  "id": "/loona-image-compressor/pt-br/image-watermark.html",
+  "id": "/pt-br/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

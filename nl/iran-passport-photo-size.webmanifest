@@ -2,7 +2,7 @@
   "name": "Loona Fotoformaat Pasfoto Iran",
   "short_name": "Fotoformaat Pasfoto Iran",
   "description": "Maak een Pasfoto Iran op het officiële formaat 30×40 mm (354×472 px), achtergrond: effen wit of licht. Gratis online maker — bijsnijden, downloaden en printvel, geen upload.",
-  "id": "/loona-image-compressor/nl/iran-passport-photo-size.html",
+  "id": "/nl/iran-passport-photo-size.html",
   "start_url": "./iran-passport-photo-size.html",
   "scope": "./iran-passport-photo-size.html",
   "display": "standalone",

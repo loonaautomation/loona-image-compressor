@@ -2,7 +2,7 @@
   "name": "Loona CUET UG Signatur-størrelse",
   "short_name": "CUET UG Signatur-størrelse",
   "description": "Endre størrelsen på CUET UG signatur til varslingsstørrelsen (skannet boks, forhold omtrent 7:2) og båndet på 4–30 KB. Gratis, i nettleseren din — ingen opplasting, ingen registrering.",
-  "id": "/loona-image-compressor/nb/cuet-ug-signature-size.html",
+  "id": "/nb/cuet-ug-signature-size.html",
   "start_url": "./cuet-ug-signature-size.html",
   "scope": "./cuet-ug-signature-size.html",
   "display": "standalone",

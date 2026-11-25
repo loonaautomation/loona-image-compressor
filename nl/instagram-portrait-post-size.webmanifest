@@ -2,7 +2,7 @@
   "name": "Loona Formaat Instagram Portretpost (4",
   "short_name": "Formaat Instagram Portretpost",
   "description": "Maak een Instagram portretpost (4:5) op precies 1080×1350 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/instagram-portrait-post-size.html",
+  "id": "/nl/instagram-portrait-post-size.html",
   "start_url": "./instagram-portrait-post-size.html",
   "scope": "./instagram-portrait-post-size.html",
   "display": "standalone",

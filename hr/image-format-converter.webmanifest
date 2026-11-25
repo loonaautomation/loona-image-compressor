@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač formata slika",
   "short_name": "Pretvarač formata slika",
   "description": "Pretvarajte slike između JPG, PNG i WebP na mreži besplatno, u skupinama, uz kontrolu kvalitete i spljoštavanje prozirne pozadine. Registracija nije potrebna.",
-  "id": "/loona-image-compressor/hr/image-format-converter.html",
+  "id": "/hr/image-format-converter.html",
   "start_url": "./image-format-converter.html",
   "scope": "./image-format-converter.html",
   "display": "standalone",

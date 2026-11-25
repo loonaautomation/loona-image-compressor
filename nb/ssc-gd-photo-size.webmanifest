@@ -2,7 +2,7 @@
   "name": "Loona SSC GD Constable Fotografi-størrelse",
   "short_name": "SSC GD Constable",
   "description": "Endre størrelsen på SSC GD Constable bilde til varslingsstørrelsen (200 × 230 px) og båndet på 20–50 KB. Gratis, i nettleseren din — ingen opplasting, ingen registrering.",
-  "id": "/loona-image-compressor/nb/ssc-gd-photo-size.html",
+  "id": "/nb/ssc-gd-photo-size.html",
   "start_url": "./ssc-gd-photo-size.html",
   "scope": "./ssc-gd-photo-size.html",
   "display": "standalone",

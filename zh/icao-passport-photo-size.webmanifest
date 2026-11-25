@@ -2,7 +2,7 @@
   "name": "Loona ICAO 标准护照照片（35×45 mm） 尺寸",
   "short_name": "ICAO 标准护照照片（35×45 mm） 尺寸",
   "description": "按官方尺寸 35×45 mm（413×531 px）制作 ICAO 标准护照照片（35×45 mm），纯浅色背景背景。免费在线制作工具 — 裁剪、下载并打印照片页，无需上传。",
-  "id": "/loona-image-compressor/zh/icao-passport-photo-size.html",
+  "id": "/zh/icao-passport-photo-size.html",
   "start_url": "./icao-passport-photo-size.html",
   "scope": "./icao-passport-photo-size.html",
   "display": "standalone",

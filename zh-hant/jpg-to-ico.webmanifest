@@ -2,7 +2,7 @@
   "name": "Loona JPG 轉 ICO 轉換器",
   "short_name": "JPG 轉 ICO 轉換器",
   "description": "線上將 JPG 轉換為 ICO，免費，在您的瀏覽器中完成。在您的裝置上進行真實轉換 — 無需上傳，無需註冊，無水印。",
-  "id": "/loona-image-compressor/zh-hant/jpg-to-ico.html",
+  "id": "/zh-hant/jpg-to-ico.html",
   "start_url": "./jpg-to-ico.html",
   "scope": "./jpg-to-ico.html",
   "display": "standalone",

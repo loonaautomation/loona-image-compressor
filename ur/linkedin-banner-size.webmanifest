@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn پروفائل / صفحہ بینر کا سائز",
   "short_name": "LinkedIn پروفائل / صفحہ بینر",
   "description": "LinkedIn پروفائل / صفحہ بینر بالکل 1584×396 px پر بنائیں۔ آپ کے براؤزر میں مفت ری سائزر/کراپر، محفوظ زون کے قواعد کے ساتھ جو کراپ شدہ متن اور چہروں کو روکتے ہیں۔",
-  "id": "/loona-image-compressor/ur/linkedin-banner-size.html",
+  "id": "/ur/linkedin-banner-size.html",
   "start_url": "./linkedin-banner-size.html",
   "scope": "./linkedin-banner-size.html",
   "display": "standalone",

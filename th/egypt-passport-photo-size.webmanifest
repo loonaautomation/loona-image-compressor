@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายหนังสือเดินทางอียิปต์",
   "short_name": "ขนาดรูปถ่ายหนังสือเดินทางอียิป",
   "description": "ทำรูปถ่ายหนังสือเดินทางอียิปต์ที่ขนาดอย่างเป็นทางการ 40×60 mm (472×709 px) พื้นหลังขาวเรียบ เครื่องทำรูปออนไลน์ฟรี — ครอบตัด ดาวน์โหลด และแผ่นพิมพ์ ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/egypt-passport-photo-size.html",
+  "id": "/th/egypt-passport-photo-size.html",
   "start_url": "./egypt-passport-photo-size.html",
   "scope": "./egypt-passport-photo-size.html",
   "display": "standalone",

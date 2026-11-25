@@ -2,7 +2,7 @@
   "name": "Loona Dél-koreai útlevélfotó méret",
   "short_name": "Dél-koreai útlevélfotó méret",
   "description": "Készítsen Dél-koreai útlevélfotó fotót a hivatalos 35×45 mm (413×531 px) méretben, sima fehér háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/south-korea-passport-photo-size.html",
+  "id": "/hu/south-korea-passport-photo-size.html",
   "start_url": "./south-korea-passport-photo-size.html",
   "scope": "./south-korea-passport-photo-size.html",
   "display": "standalone",

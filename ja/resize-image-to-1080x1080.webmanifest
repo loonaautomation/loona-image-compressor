@@ -2,7 +2,7 @@
   "name": "Loona 画像を1080 × 1080にリサイズ",
   "short_name": "画像を1080 × 1080にリサイズ",
   "description": "あらゆる画像を正確に1080 × 1080ピクセル（Instagramの正方形投稿とプロフィール写真）に無料でリサイズできます。Cover、contain、stretch、JPGまたはPNG、即座にダウンロード — 登録不要、何もアップロードされません。",
-  "id": "/loona-image-compressor/ja/resize-image-to-1080x1080.html",
+  "id": "/ja/resize-image-to-1080x1080.html",
   "start_url": "./resize-image-to-1080x1080.html",
   "scope": "./resize-image-to-1080x1080.html",
   "display": "standalone",

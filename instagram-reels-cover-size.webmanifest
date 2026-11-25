@@ -2,7 +2,7 @@
   "name": "Loona Instagram Reels Cover Size",
   "short_name": "Instagram Reels Cover Size",
   "description": "Make a Instagram reels cover at exactly 1080×1920 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/instagram-reels-cover-size.html",
+  "id": "/instagram-reels-cover-size.html",
   "start_url": "./instagram-reels-cover-size.html",
   "scope": "./instagram-reels-cover-size.html",
   "display": "standalone",

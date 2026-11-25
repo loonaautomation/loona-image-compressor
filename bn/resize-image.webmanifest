@@ -2,7 +2,7 @@
   "name": "Loona ছবি রিসাইজ করুন",
   "short_name": "ছবি রিসাইজ করুন",
   "description": "যেকোনো ছবি পিক্সেল, cm বা ইঞ্চি অনুযায়ী একটি DPI সেটিংসহ বিনামূল্যে রিসাইজ করুন। আকৃতির অনুপাত রাখুন, JPG, PNG বা WebP বেছে নিন এবং তাৎক্ষণিকভাবে ডাউনলোড করুন — কোনো সাইনআপ প্রয়োজন নেই।",
-  "id": "/loona-image-compressor/bn/resize-image.html",
+  "id": "/bn/resize-image.html",
   "start_url": "./resize-image.html",
   "scope": "./resize-image.html",
   "display": "standalone",

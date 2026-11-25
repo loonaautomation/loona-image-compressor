@@ -2,7 +2,7 @@
   "name": "Loona Sınav Fotoğrafı ve İmza Boyutları — SSC, IBPS, UPSC, NTA ve Demiryolları",
   "short_name": "Sınav Fotoğrafı ve İmza Boyutları — SSC, IBPS, UPSC, NTA ve Demiryolları",
   "description": "20 büyük Hindistan sınavı için fotoğraf ve imza boyutları ve KB bantları — SSC, IBPS, SBI, UPSC, RRB, JEE, NEET ve daha fazlası; her biri bir oluşturucu araçla.",
-  "id": "/loona-image-compressor/tr/exam-photo-sizes.html",
+  "id": "/tr/exam-photo-sizes.html",
   "start_url": "./exam-photo-sizes.html",
   "scope": "./exam-photo-sizes.html",
   "display": "standalone",

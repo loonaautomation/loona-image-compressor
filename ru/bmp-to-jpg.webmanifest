@@ -2,7 +2,7 @@
   "name": "Loona Конвертер BMP в JPG",
   "short_name": "Конвертер BMP в JPG",
   "description": "Convert BMP to JPG online for free and shrink huge uncompressed bitmaps by 90% or more. In your browser — no signup, no upload, no watermark.",
-  "id": "/loona-image-compressor/bmp-to-jpg.html",
+  "id": "/bmp-to-jpg.html",
   "start_url": "./bmp-to-jpg.html",
   "scope": "./bmp-to-jpg.html",
   "display": "standalone",

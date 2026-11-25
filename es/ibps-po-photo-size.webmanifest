@@ -2,7 +2,7 @@
   "name": "Loona Tamaño de Fotografía de IBPS PO",
   "short_name": "Tamaño de Fotografía de IBPS",
   "description": "Ajusta tu foto de IBPS PO al tamaño de la convocatoria (200 × 230 px) y a la banda de 20–50 KB. Gratis, en tu navegador: sin subidas y sin registro.",
-  "id": "/loona-image-compressor/es/ibps-po-photo-size.html",
+  "id": "/es/ibps-po-photo-size.html",
   "start_url": "./ibps-po-photo-size.html",
   "scope": "./ibps-po-photo-size.html",
   "display": "standalone",

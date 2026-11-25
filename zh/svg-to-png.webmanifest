@@ -2,7 +2,7 @@
   "name": "Loona SVG 转 PNG 转换器",
   "short_name": "SVG 转 PNG 转换器",
   "description": "免费在线以任何宽度将 SVG 转换为 PNG — 来自矢量徽标和图标的清晰光栅图片。无需注册，无需上传，在您的浏览器中运行。",
-  "id": "/loona-image-compressor/zh/svg-to-png.html",
+  "id": "/zh/svg-to-png.html",
   "start_url": "./svg-to-png.html",
   "scope": "./svg-to-png.html",
   "display": "standalone",

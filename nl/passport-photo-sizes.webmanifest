@@ -2,7 +2,7 @@
   "name": "Loona Pasfoto- &amp; visumfotoformaten per land",
   "short_name": "Pasfoto- &amp;",
   "description": "Officiële formaten voor pasfoto&#x27;s, visa en ID-foto&#x27;s voor 40 landen en documenten, elk met een maker-tool op het exacte millimeter- en pixelformaat.",
-  "id": "/loona-image-compressor/nl/passport-photo-sizes.html",
+  "id": "/nl/passport-photo-sizes.html",
   "start_url": "./passport-photo-sizes.html",
   "scope": "./passport-photo-sizes.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Etelä-Korean passikuva koko",
   "short_name": "Etelä-Korean passikuva koko",
   "description": "Tee Etelä-Korean passikuva virallisessa koossa 35×45 mm (413×531 px), taustana tavallinen valkoinen. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/south-korea-passport-photo-size.html",
+  "id": "/fi/south-korea-passport-photo-size.html",
   "start_url": "./south-korea-passport-photo-size.html",
   "scope": "./south-korea-passport-photo-size.html",
   "display": "standalone",

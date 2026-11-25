@@ -2,7 +2,7 @@
   "name": "Loona ขนาดโพสต์รูป (สี่เหลี่ยมจัตุรัส) TikTok",
   "short_name": "ขนาดโพสต์รูป",
   "description": "ทำโพสต์รูป (สี่เหลี่ยมจัตุรัส) TikTok ที่ขนาด 1080×1080 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/tiktok-photo-post-square-size.html",
+  "id": "/th/tiktok-photo-post-square-size.html",
   "start_url": "./tiktok-photo-post-square-size.html",
   "scope": "./tiktok-photo-post-square-size.html",
   "display": "standalone",

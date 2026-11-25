@@ -2,7 +2,7 @@
   "name": "Loona Facebook Innlegg / Lenkebilde-størrelse",
   "short_name": "Facebook Innlegg /",
   "description": "Lag en Facebook innlegg / lenkebilde med nøyaktig 1200×630 px. Gratis størrelsesendrer/beskjærer i nettleseren din med reglene for sikre soner som stopper beskåret tekst og ansikter.",
-  "id": "/loona-image-compressor/nb/facebook-post-image-size.html",
+  "id": "/nb/facebook-post-image-size.html",
   "start_url": "./facebook-post-image-size.html",
   "scope": "./facebook-post-image-size.html",
   "display": "standalone",

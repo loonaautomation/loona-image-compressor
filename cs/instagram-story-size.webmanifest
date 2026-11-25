@@ -2,7 +2,7 @@
   "name": "Loona Velikost Instagram Story",
   "short_name": "Velikost Instagram Story",
   "description": "Vytvořte Instagram story přesně 1080×1920 px. Bezplatný nástroj na změnu velikosti/ořez ve vašem prohlížeči s pravidly bezpečné zóny, která zabrání oříznutí textu a obličejů.",
-  "id": "/loona-image-compressor/cs/instagram-story-size.html",
+  "id": "/cs/instagram-story-size.html",
   "start_url": "./instagram-story-size.html",
   "scope": "./instagram-story-size.html",
   "display": "standalone",

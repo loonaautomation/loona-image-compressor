@@ -2,7 +2,7 @@
   "name": "Loona 阿联酋签证 / 阿联酋身份证照片 尺寸",
   "short_name": "阿联酋签证 / 阿联酋身份证照片 尺寸",
   "description": "按官方尺寸 40×60 mm（472×709 px）制作 阿联酋签证 / 阿联酋身份证照片，纯白色背景。免费在线制作工具 — 裁剪、下载并打印照片页，无需上传。",
-  "id": "/loona-image-compressor/zh/uae-visa-photo-size.html",
+  "id": "/zh/uae-visa-photo-size.html",
   "start_url": "./uae-visa-photo-size.html",
   "scope": "./uae-visa-photo-size.html",
   "display": "standalone",

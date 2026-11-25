@@ -2,7 +2,7 @@
   "name": "Loona Kiteua Rangi",
   "short_name": "Kiteua Rangi",
   "description": "Chagua rangi yoyote na unakili papo hapo thamani zake za HEX, RGB, HSL na HSV. Inajumuisha mstari wa vivuli na miale — bure, bila kujisajili, hufanya kazi kwenye kivinjari chako.",
-  "id": "/loona-image-compressor/sw/color-picker.html",
+  "id": "/sw/color-picker.html",
   "start_url": "./color-picker.html",
   "scope": "./color-picker.html",
   "display": "standalone",

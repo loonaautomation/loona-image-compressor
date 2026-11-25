@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Jalada la Reels wa Instagram",
   "short_name": "Ukubwa wa Jalada la Reels wa",
   "description": "Tengeneza jalada la reels ya Instagram katika px 1080×1920 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/instagram-reels-cover-size.html",
+  "id": "/sw/instagram-reels-cover-size.html",
   "start_url": "./instagram-reels-cover-size.html",
   "scope": "./instagram-reels-cover-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona GIF 轉 PNG 轉換器",
   "short_name": "GIF 轉 PNG 轉換器",
   "description": "免費線上將 GIF 轉換為 PNG — 來自您的 GIF 的乾淨、無損靜止圖片。基於瀏覽器，無需註冊，無需上傳，無水印。",
-  "id": "/loona-image-compressor/zh-hant/gif-to-png.html",
+  "id": "/zh-hant/gif-to-png.html",
   "start_url": "./gif-to-png.html",
   "scope": "./gif-to-png.html",
   "display": "standalone",

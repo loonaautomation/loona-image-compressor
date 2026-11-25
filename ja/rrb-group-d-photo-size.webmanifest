@@ -2,7 +2,7 @@
   "name": "Loona RRB Group D (Railways)の写真サイズ",
   "short_name": "RRB Group D (Railways)の写真サイズ",
   "description": "RRB Group D (Railways)の写真を告知サイズ（320 × 240 px）と30–70 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
-  "id": "/loona-image-compressor/ja/rrb-group-d-photo-size.html",
+  "id": "/ja/rrb-group-d-photo-size.html",
   "start_url": "./rrb-group-d-photo-size.html",
   "scope": "./rrb-group-d-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Υπογραφή GATE",
   "short_name": "Υπογραφή GATE",
   "description": "Αλλάξτε το μέγεθος της υπογραφή GATE στο μέγεθος της προκήρυξης (σαρωμένο πλαίσιο, αναλογία περίπου 7:2) και στη ζώνη 3–100 KB. Δωρεάν, στο πρόγραμμα περιήγησής σας — χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/gate-signature-size.html",
+  "id": "/el/gate-signature-size.html",
   "start_url": "./gate-signature-size.html",
   "scope": "./gate-signature-size.html",
   "display": "standalone",

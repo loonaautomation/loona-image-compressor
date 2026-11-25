@@ -2,7 +2,7 @@
   "name": "Loona परीक्षा फ़ोटो और हस्ताक्षर साइज़",
   "short_name": "परीक्षा फ़ोटो और हस्ताक्षर",
   "description": "20 प्रमुख भारतीय परीक्षाओं के लिए फ़ोटो और हस्ताक्षर साइज़ व KB बैंड — SSC, IBPS, SBI, UPSC, RRB, JEE, NEET और अन्य, प्रत्येक के साथ एक मेकर टूल.",
-  "id": "/loona-image-compressor/hi/exam-photo-sizes.html",
+  "id": "/hi/exam-photo-sizes.html",
   "start_url": "./exam-photo-sizes.html",
   "scope": "./exam-photo-sizes.html",
   "display": "standalone",

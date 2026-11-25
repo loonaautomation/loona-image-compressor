@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Standardpin Storlek",
   "short_name": "Pinterest Standardpin Storlek",
   "description": "Skapa en Pinterest standardpin på exakt 1000×1500 px. Gratis storleksändrare/beskärare i din webbläsare med säker-zon-reglerna som stoppar beskuren text och ansikten.",
-  "id": "/loona-image-compressor/sv/pinterest-pin-size.html",
+  "id": "/sv/pinterest-pin-size.html",
   "start_url": "./pinterest-pin-size.html",
   "scope": "./pinterest-pin-size.html",
   "display": "standalone",

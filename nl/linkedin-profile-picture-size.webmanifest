@@ -2,7 +2,7 @@
   "name": "Loona Formaat LinkedIn Profielfoto",
   "short_name": "Formaat LinkedIn Profielfoto",
   "description": "Maak een LinkedIn profielfoto op precies 400×400 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/linkedin-profile-picture-size.html",
+  "id": "/nl/linkedin-profile-picture-size.html",
   "start_url": "./linkedin-profile-picture-size.html",
   "scope": "./linkedin-profile-picture-size.html",
   "display": "standalone",

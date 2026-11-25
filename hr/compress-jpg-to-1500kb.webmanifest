@@ -2,7 +2,7 @@
   "name": "Loona Komprimirajte JPG na 1500 KB na mreži",
   "short_name": "Komprimirajte JPG na 1500 KB",
   "description": "Komprimirajte sliku JPG na 1500 KB ili manje, besplatno u svom pregledniku. Automatsko pretraživanje pronalazi najbolju kvalitetu koja stane — bez registracije, bez prijenosa.",
-  "id": "/loona-image-compressor/hr/compress-jpg-to-1500kb.html",
+  "id": "/hr/compress-jpg-to-1500kb.html",
   "start_url": "./compress-jpg-to-1500kb.html",
   "scope": "./compress-jpg-to-1500kb.html",
   "display": "standalone",

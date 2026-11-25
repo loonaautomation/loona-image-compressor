@@ -2,7 +2,7 @@
   "name": "Loona Foaie de imprimare pentru fotografii de pașaport",
   "short_name": "Foaie de imprimare pentru",
   "description": "Pune 4, 6 sau 8 fotografii de pașaport pe o foaie de imprimare A4, gratuit, la 300 DPI. Imprimă la 100%, taie pe ghiduri și economisește banii de studio. Fără înregistrare, complet privat.",
-  "id": "/loona-image-compressor/ro/passport-photo-print-sheet.html",
+  "id": "/ro/passport-photo-print-sheet.html",
   "start_url": "./passport-photo-print-sheet.html",
   "scope": "./passport-photo-print-sheet.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie RRB NTPC (Railways)",
   "short_name": "Dimensiune Fotografie RRB",
   "description": "Redimensionează fotografie pentru RRB NTPC (Railways) la dimensiunea din notificare (320 × 240 px) și intervalul 30–70 KB. Gratuit, în browserul tău — fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/rrb-ntpc-photo-size.html",
+  "id": "/ro/rrb-ntpc-photo-size.html",
   "start_url": "./rrb-ntpc-photo-size.html",
   "scope": "./rrb-ntpc-photo-size.html",
   "display": "standalone",

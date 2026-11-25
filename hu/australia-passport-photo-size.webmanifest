@@ -2,7 +2,7 @@
   "name": "Loona Ausztrál útlevélfotó méret",
   "short_name": "Ausztrál útlevélfotó méret",
   "description": "Készítsen Ausztrál útlevélfotó fotót a hivatalos 35×45 mm (413×531 px) méretben, sima fehér vagy világosszürke háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/australia-passport-photo-size.html",
+  "id": "/hu/australia-passport-photo-size.html",
   "start_url": "./australia-passport-photo-size.html",
   "scope": "./australia-passport-photo-size.html",
   "display": "standalone",

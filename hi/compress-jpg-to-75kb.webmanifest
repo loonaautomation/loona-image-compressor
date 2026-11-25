@@ -2,7 +2,7 @@
   "name": "Loona JPG को 75 KB तक ऑनलाइन कंप्रेस करें",
   "short_name": "JPG को 75 KB तक ऑनलाइन",
   "description": "JPG इमेज को 75 KB या उससे कम तक कंप्रेस करें, आपके ब्राउज़र में मुफ़्त. स्वचालित खोज सबसे अच्छी गुणवत्ता ढूँढती है जो सीमा में समा जाए — न साइन-अप, न अपलोड.",
-  "id": "/loona-image-compressor/hi/compress-jpg-to-75kb.html",
+  "id": "/hi/compress-jpg-to-75kb.html",
   "start_url": "./compress-jpg-to-75kb.html",
   "scope": "./compress-jpg-to-75kb.html",
   "display": "standalone",

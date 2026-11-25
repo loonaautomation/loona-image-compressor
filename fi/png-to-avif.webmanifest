@@ -2,7 +2,7 @@
   "name": "Loona PNG",
   "short_name": "PNG",
   "description": "Muunna PNG muotoon AVIF verkossa, ilmaiseksi, selaimessasi. Aito muunnos laitteellasi — ilman palvelimelle lataamista, ilman rekisteröitymistä ja ilman vesileimoja.",
-  "id": "/loona-image-compressor/fi/png-to-avif.html",
+  "id": "/fi/png-to-avif.html",
   "start_url": "./png-to-avif.html",
   "scope": "./png-to-avif.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha AVIF kuwa JPG",
   "short_name": "Kibadilishaji cha AVIF kuwa",
   "description": "Badilisha AVIF kuwa JPG mtandaoni, bure, kwenye kivinjari chako. Ubadilishaji halisi kwenye kifaa chako — bila kupakia, bila kujisajili, bila alama za maji.",
-  "id": "/loona-image-compressor/sw/avif-to-jpg.html",
+  "id": "/sw/avif-to-jpg.html",
   "start_url": "./avif-to-jpg.html",
   "scope": "./avif-to-jpg.html",
   "display": "standalone",

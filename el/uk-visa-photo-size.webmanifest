@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Βίζας ΗΒ",
   "short_name": "Φωτογραφία Βίζας ΗΒ",
   "description": "Δημιουργήστε Φωτογραφία Βίζας ΗΒ στο επίσημο μέγεθος 35×45 mm (600×750 px), φόντο απλό ανοιχτό γκρι. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/uk-visa-photo-size.html",
+  "id": "/el/uk-visa-photo-size.html",
   "start_url": "./uk-visa-photo-size.html",
   "scope": "./uk-visa-photo-size.html",
   "display": "standalone",

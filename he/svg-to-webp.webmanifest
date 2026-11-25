@@ -2,7 +2,7 @@
   "name": "Loona ממיר SVG ל־WEBP",
   "short_name": "ממיר SVG ל־WEBP",
   "description": "המירו SVG ל־WEBP באינטרנט, בחינם, בדפדפן שלכם. המרה אמיתית במכשיר שלכם — ללא העלאה, ללא הרשמה, ללא סימני מים.",
-  "id": "/loona-image-compressor/he/svg-to-webp.html",
+  "id": "/he/svg-to-webp.html",
   "start_url": "./svg-to-webp.html",
   "scope": "./svg-to-webp.html",
   "display": "standalone",

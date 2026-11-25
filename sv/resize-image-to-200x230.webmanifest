@@ -2,7 +2,7 @@
   "name": "Loona Ändra bildstorlek till 200 × 230 px online",
   "short_name": "Ändra bildstorlek till 200 ×",
   "description": "Ändra storlek på valfri bild till exakt 200×230 px — SSC/IBPS/SBI-standarden för provfoton i Indien. Gratis i din webbläsare med beskärningskontroll; ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/resize-image-to-200x230.html",
+  "id": "/sv/resize-image-to-200x230.html",
   "start_url": "./resize-image-to-200x230.html",
   "scope": "./resize-image-to-200x230.html",
   "display": "standalone",

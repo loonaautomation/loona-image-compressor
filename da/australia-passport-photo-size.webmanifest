@@ -2,7 +2,7 @@
   "name": "Loona Australsk pasfoto størrelse",
   "short_name": "Australsk pasfoto størrelse",
   "description": "Lav et Australsk pasfoto i den officielle størrelse 35×45 mm (413×531 px), ensfarvet hvid eller lysegrå baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
-  "id": "/loona-image-compressor/da/australia-passport-photo-size.html",
+  "id": "/da/australia-passport-photo-size.html",
   "start_url": "./australia-passport-photo-size.html",
   "scope": "./australia-passport-photo-size.html",
   "display": "standalone",

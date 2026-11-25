@@ -2,7 +2,7 @@
   "name": "Loona Suppresseur d’arrière-plan de signature",
   "short_name": "Suppresseur d’arrière-plan de signature",
   "description": "Supprimez le fond papier d’une photo de signature ou de tampon et téléchargez un PNG transparent, gratuitement en ligne. Outil canvas pur dans le navigateur : ni IA, ni envoi, ni inscription.",
-  "id": "/loona-image-compressor/fr/signature-background-remover.html",
+  "id": "/fr/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

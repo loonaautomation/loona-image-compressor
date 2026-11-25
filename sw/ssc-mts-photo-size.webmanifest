@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha wa SSC MTS",
   "short_name": "Ukubwa wa Picha wa SSC MTS",
   "description": "Badilisha ukubwa wa picha yako ya SSC MTS hadi ukubwa wa ilani (200 × 230 px) na kiwango cha KB 20–50. Bure, kwenye kivinjari chako — bila kupakia, bila kujisajili.",
-  "id": "/loona-image-compressor/sw/ssc-mts-photo-size.html",
+  "id": "/sw/ssc-mts-photo-size.html",
   "start_url": "./ssc-mts-photo-size.html",
   "scope": "./ssc-mts-photo-size.html",
   "display": "standalone",

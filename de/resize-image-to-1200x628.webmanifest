@@ -2,7 +2,7 @@
   "name": "Loona Bild auf 1200 × 628 skalieren",
   "short_name": "Bild auf 1200 × 628 skalieren",
   "description": "Skalieren Sie jedes Bild kostenlos auf exakt 1200 × 628 Pixel (Facebook- und LinkedIn-Link-Shares und -Anzeigen). Abdecken, enthalten oder strecken, JPG oder PNG, sofort herunterladen — ohne Anmeldung, nichts hochgeladen.",
-  "id": "/loona-image-compressor/de/resize-image-to-1200x628.html",
+  "id": "/de/resize-image-to-1200x628.html",
   "start_url": "./resize-image-to-1200x628.html",
   "scope": "./resize-image-to-1200x628.html",
   "display": "standalone",

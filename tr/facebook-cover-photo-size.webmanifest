@@ -2,7 +2,7 @@
   "name": "Loona Facebook Kapak Fotoğrafı / Sayfa Kapağı Boyutu — 1640×924 px",
   "short_name": "Facebook Kapak Fotoğrafı / Sayfa Kapağı Boyutu — 1640×924 px",
   "description": "Tam olarak 1640×924 px ölçüsünde bir Facebook kapak fotoğrafı / sayfa kapağı oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/facebook-cover-photo-size.html",
+  "id": "/tr/facebook-cover-photo-size.html",
   "start_url": "./facebook-cover-photo-size.html",
   "scope": "./facebook-cover-photo-size.html",
   "display": "standalone",

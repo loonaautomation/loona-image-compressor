@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة جواز السفر / التأشيرة التايلاندية",
   "short_name": "حجم صورة جواز السفر /",
   "description": "اصنع صورة جواز السفر / التأشيرة التايلاندية بالحجم الرسمي 35×45 mm (413×531 px)، خلفية بيضاء سادة. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/thailand-passport-photo-size.html",
+  "id": "/ar/thailand-passport-photo-size.html",
   "start_url": "./thailand-passport-photo-size.html",
   "scope": "./thailand-passport-photo-size.html",
   "display": "standalone",

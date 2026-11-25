@@ -2,7 +2,7 @@
   "name": "Loona BMP'den PNG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Kayıpsız",
   "short_name": "BMP'den PNG'ye Dönüştürücü – Ücretsiz Çevrimiçi, Kayıpsız",
   "description": "BMP'yi çevrimiçi ücretsiz olarak PNG'ye dönüştürün — kayıpsız, BMP'den çok daha küçük ve her yerde desteklenir. Tarayıcınızda çalışır, kayıt yok, yükleme yok.",
-  "id": "/loona-image-compressor/tr/bmp-to-png.html",
+  "id": "/tr/bmp-to-png.html",
   "start_url": "./bmp-to-png.html",
   "scope": "./bmp-to-png.html",
   "display": "standalone",

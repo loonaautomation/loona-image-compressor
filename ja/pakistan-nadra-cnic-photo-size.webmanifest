@@ -2,7 +2,7 @@
   "name": "Loona パキスタンNADRA CNIC写真のサイズ",
   "short_name": "パキスタンNADRA CNIC写真のサイズ",
   "description": "公式サイズ51×51 mm（600×600 px）、無地の白の背景でパキスタンNADRA CNIC写真を作成できます。無料のオンライン作成ツール — 切り取り、ダウンロード、印刷シートまで、アップロード不要です。",
-  "id": "/loona-image-compressor/ja/pakistan-nadra-cnic-photo-size.html",
+  "id": "/ja/pakistan-nadra-cnic-photo-size.html",
   "start_url": "./pakistan-nadra-cnic-photo-size.html",
   "scope": "./pakistan-nadra-cnic-photo-size.html",
   "display": "standalone",

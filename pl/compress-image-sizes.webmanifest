@@ -2,7 +2,7 @@
   "name": "Loona Kompresuj obraz do dowolnego rozmiaru KB",
   "short_name": "Kompresuj obraz do dowolnego",
   "description": "Każde narzędzie kompresji do rozmiaru: 16 rozmiarów docelowych w JPG, PNG i WebP, od 10 KB do 2 MB. Za darmo, w przeglądarce.",
-  "id": "/loona-image-compressor/pl/compress-image-sizes.html",
+  "id": "/pl/compress-image-sizes.html",
   "start_url": "./compress-image-sizes.html",
   "scope": "./compress-image-sizes.html",
   "display": "standalone",

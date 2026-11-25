@@ -2,7 +2,7 @@
   "name": "Loona 各國護照和簽證照片尺寸",
   "short_name": "各國護照和簽證照片尺寸",
   "description": "40 個國家和證件的官方護照、簽證和身份證照片尺寸，每個都附有按精確毫米和畫素尺寸製作的工具。",
-  "id": "/loona-image-compressor/zh-hant/passport-photo-sizes.html",
+  "id": "/zh-hant/passport-photo-sizes.html",
   "start_url": "./passport-photo-sizes.html",
   "scope": "./passport-photo-sizes.html",
   "display": "standalone",

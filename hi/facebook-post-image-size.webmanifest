@@ -2,7 +2,7 @@
   "name": "Loona Facebook पोस्ट / लिंक इमेज साइज़",
   "short_name": "Facebook पोस्ट / लिंक इमेज",
   "description": "Facebook पोस्ट / लिंक इमेज ठीक 1200×630 px पर बनाएँ. आपके ब्राउज़र में मुफ़्त रीसाइज़र/क्रॉपर, उन सेफ़-ज़ोन नियमों के साथ जो क्रॉप हुए टेक्स्ट और चेहरों को रोकते हैं.",
-  "id": "/loona-image-compressor/hi/facebook-post-image-size.html",
+  "id": "/hi/facebook-post-image-size.html",
   "start_url": "./facebook-post-image-size.html",
   "scope": "./facebook-post-image-size.html",
   "display": "standalone",

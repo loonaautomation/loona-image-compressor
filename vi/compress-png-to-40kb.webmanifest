@@ -2,7 +2,7 @@
   "name": "Loona Nén PNG xuống 40 KB trực tuyến",
   "short_name": "Nén PNG xuống 40 KB trực tuyến",
   "description": "Nén ảnh PNG xuống 40 KB hoặc nhỏ hơn, miễn phí trong trình duyệt của bạn. Tính năng tìm kiếm tự động sẽ chọn chất lượng tốt nhất vừa với giới hạn — không cần đăng ký, không tải lên.",
-  "id": "/loona-image-compressor/vi/compress-png-to-40kb.html",
+  "id": "/vi/compress-png-to-40kb.html",
   "start_url": "./compress-png-to-40kb.html",
   "scope": "./compress-png-to-40kb.html",
   "display": "standalone",

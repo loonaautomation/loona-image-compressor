@@ -2,7 +2,7 @@
   "name": "Loona Afbeelding comprimeren tot 40 KB online",
   "short_name": "Afbeelding comprimeren tot 40",
   "description": "Comprimeer JPG-, PNG- en WebP-afbeeldingen online en gratis tot 40 KB of kleiner. Automatisch zoeken naar kwaliteit en grootte in je browser — geen aanmelding, geen upload.",
-  "id": "/loona-image-compressor/nl/compress-image-to-40kb.html",
+  "id": "/nl/compress-image-to-40kb.html",
   "start_url": "./compress-image-to-40kb.html",
   "scope": "./compress-image-to-40kb.html",
   "display": "standalone",

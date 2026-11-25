@@ -2,7 +2,7 @@
   "name": "Loona YouTube Shorts-omslag / ramme-størrelse",
   "short_name": "YouTube Shorts-omslag /",
   "description": "Lag en YouTube shorts-omslag / ramme med nøyaktig 1080×1920 px. Gratis størrelsesendrer/beskjærer i nettleseren din med reglene for sikre soner som stopper beskåret tekst og ansikter.",
-  "id": "/loona-image-compressor/nb/youtube-shorts-size.html",
+  "id": "/nb/youtube-shorts-size.html",
   "start_url": "./youtube-shorts-size.html",
   "scope": "./youtube-shorts-size.html",
   "display": "standalone",

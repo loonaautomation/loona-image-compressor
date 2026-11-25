@@ -2,7 +2,7 @@
   "name": "Loona Размер на Изображение за публикация в общността за YouTube",
   "short_name": "Размер на Изображение за",
   "description": "Направете изображение за публикация в общността за YouTube на точно 1080×1080 px. Безплатен инструмент за преоразмеряване/изрязване във вашия браузър с правилата за безопасната зона, които спират изрязване на текст и лица.",
-  "id": "/loona-image-compressor/bg/youtube-community-post-size.html",
+  "id": "/bg/youtube-community-post-size.html",
   "start_url": "./youtube-community-post-size.html",
   "scope": "./youtube-community-post-size.html",
   "display": "standalone",

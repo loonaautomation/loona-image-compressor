@@ -2,7 +2,7 @@
   "name": "Loona Comprimă imaginea la 1 MB online",
   "short_name": "Comprimă imaginea la 1 MB",
   "description": "Comprimă imagini JPG, PNG și WebP la 1 MB sau mai puțin, online și gratuit. Căutare automată a calității și dimensiunii în browserul tău — fără înregistrare, fără încărcare.",
-  "id": "/loona-image-compressor/ro/compress-image-to-1mb.html",
+  "id": "/ro/compress-image-to-1mb.html",
   "start_url": "./compress-image-to-1mb.html",
   "scope": "./compress-image-to-1mb.html",
   "display": "standalone",

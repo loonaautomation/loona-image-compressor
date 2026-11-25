@@ -2,7 +2,7 @@
   "name": "Loona Velikost RRB NTPC (Railways) Fotografie",
   "short_name": "Velikost RRB NTPC (Railways)",
   "description": "Změňte velikost souboru RRB NTPC (Railways) fotografie na velikost podle oznámení (320 × 240 px) a pásmo 30–70 KB. Zdarma, ve vašem prohlížeči — bez nahrávání a bez registrace.",
-  "id": "/loona-image-compressor/cs/rrb-ntpc-photo-size.html",
+  "id": "/cs/rrb-ntpc-photo-size.html",
   "start_url": "./rrb-ntpc-photo-size.html",
   "scope": "./rrb-ntpc-photo-size.html",
   "display": "standalone",

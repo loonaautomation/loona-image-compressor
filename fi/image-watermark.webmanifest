@@ -2,7 +2,7 @@
   "name": "Loona Kuvan vesileima",
   "short_name": "Kuvan vesileima",
   "description": "Lisää tekstivesileima mihin tahansa kuvaan verkossa ilmaiseksi — valitse teksti, koko, väri, peittävyys ja sijainti, tai toista se laattakuviona. Reaaliaikainen esikatselu, ei rekisteröitymistä, eikä kuvasi koskaan poistu laitteeltasi.",
-  "id": "/loona-image-compressor/fi/image-watermark.html",
+  "id": "/fi/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

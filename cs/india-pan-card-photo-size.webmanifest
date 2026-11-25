@@ -2,7 +2,7 @@
   "name": "Loona Velikost Fotografie pro indickou kartu PAN",
   "short_name": "Velikost Fotografie pro",
   "description": "Vytvořte Fotografie pro indickou kartu PAN v oficiální velikosti 25×35 mm (295×413 px), pozadí: jednobarevné bílé. Bezplatný online tvůrce — oříznutí, stažení a tiskový arch, bez nahrávání.",
-  "id": "/loona-image-compressor/cs/india-pan-card-photo-size.html",
+  "id": "/cs/india-pan-card-photo-size.html",
   "start_url": "./india-pan-card-photo-size.html",
   "scope": "./india-pan-card-photo-size.html",
   "display": "standalone",

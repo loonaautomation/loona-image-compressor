@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Εξετάσεων με Όνομα & Ημερομηνία",
   "short_name": "Φωτογραφία Εξετάσεων με Όνομα",
   "description": "Δημιουργήστε μια φωτογραφία εξετάσεων με το όνομα και την ημερομηνία σας εκτυπωμένα στο κάτω μέρος δωρεάν — η μορφή εξετάσεων επιτροπών που χρησιμοποιείται στο Πακιστάν και την Ινδία. Ιδιωτικό, δεν χρειάζεται εγγραφή.",
-  "id": "/loona-image-compressor/el/exam-photo-name-date.html",
+  "id": "/el/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) Dikey Gönderi (4",
   "short_name": "X (Twitter) Dikey Gönderi (4",
   "description": "Tam olarak 1080×1350 px ölçüsünde bir X (Twitter) dikey gönderi (4:5) oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/x-portrait-post-size.html",
+  "id": "/tr/x-portrait-post-size.html",
   "start_url": "./x-portrait-post-size.html",
   "scope": "./x-portrait-post-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة الملف الشخصي Facebook",
   "short_name": "حجم صورة الملف الشخصي Facebook",
   "description": "اصنع صورة الملف الشخصي Facebook بمقاس 720×720 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/facebook-profile-picture-size.html",
+  "id": "/ar/facebook-profile-picture-size.html",
   "start_url": "./facebook-profile-picture-size.html",
   "scope": "./facebook-profile-picture-size.html",
   "display": "standalone",

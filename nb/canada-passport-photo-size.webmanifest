@@ -2,7 +2,7 @@
   "name": "Loona Canada Passport Photo-størrelse",
   "short_name": "Canada Passport",
   "description": "Lag et Canada Passport Photo i den offisielle størrelsen 50×70 mm (591×827 px), ensfarget hvit eller lysfarget bakgrunn. Gratis verktøy på nett — beskjær, last ned og skriv ut ark, ingen opplasting.",
-  "id": "/loona-image-compressor/nb/canada-passport-photo-size.html",
+  "id": "/nb/canada-passport-photo-size.html",
   "start_url": "./canada-passport-photo-size.html",
   "scope": "./canada-passport-photo-size.html",
   "display": "standalone",

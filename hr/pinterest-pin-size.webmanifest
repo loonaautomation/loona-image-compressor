@@ -2,7 +2,7 @@
   "name": "Loona Veličina Pinterest Standardna pribadača",
   "short_name": "Veličina Pinterest Standardna",
   "description": "Izradite Pinterest standardna pribadača na točno 1000×1500 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/pinterest-pin-size.html",
+  "id": "/hr/pinterest-pin-size.html",
   "start_url": "./pinterest-pin-size.html",
   "scope": "./pinterest-pin-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Brasiliansk pas- / visumfoto størrelse",
   "short_name": "Brasiliansk pas- / visumfoto",
   "description": "Lav et Brasiliansk pas- / visumfoto i den officielle størrelse 50×70 mm (591×827 px), ensfarvet hvid baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
-  "id": "/loona-image-compressor/da/brazil-passport-photo-size.html",
+  "id": "/da/brazil-passport-photo-size.html",
   "start_url": "./brazil-passport-photo-size.html",
   "scope": "./brazil-passport-photo-size.html",
   "display": "standalone",

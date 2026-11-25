@@ -2,7 +2,7 @@
   "name": "Loona ขนาดพินมาตรฐาน Pinterest",
   "short_name": "ขนาดพินมาตรฐาน Pinterest",
   "description": "ทำพินมาตรฐาน Pinterest ที่ขนาด 1000×1500 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/pinterest-pin-size.html",
+  "id": "/th/pinterest-pin-size.html",
   "start_url": "./pinterest-pin-size.html",
   "scope": "./pinterest-pin-size.html",
   "display": "standalone",

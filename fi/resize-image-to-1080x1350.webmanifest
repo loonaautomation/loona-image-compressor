@@ -2,7 +2,7 @@
   "name": "Loona Muuta kuvan koko kokoon 1080 × 1350",
   "short_name": "Muuta kuvan koko kokoon 1080",
   "description": "Muuta minkä tahansa kuvan koko täsmälleen kokoon 1080 × 1350 pikseliä (Instagramin pystyjulkaisut suhteessa 4:5) ilmaiseksi. Peitä, sisällä tai venytä, JPG tai PNG, lataa heti — ei rekisteröitymistä, mitään ei ladata palvelimelle.",
-  "id": "/loona-image-compressor/fi/resize-image-to-1080x1350.html",
+  "id": "/fi/resize-image-to-1080x1350.html",
   "start_url": "./resize-image-to-1080x1350.html",
   "scope": "./resize-image-to-1080x1350.html",
   "display": "standalone",

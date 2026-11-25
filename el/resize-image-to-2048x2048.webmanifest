@@ -2,7 +2,7 @@
   "name": "Loona Αλλαγή Μεγέθους Εικόνας σε 2048 × 2048 px Online",
   "short_name": "Αλλαγή Μεγέθους Εικόνας σε",
   "description": "Αλλάξτε το μέγεθος οποιασδήποτε εικόνας σε ακριβώς 2048×2048 px — Τετράγωνο υψηλής ανάλυσης για εκτύπωση και οθόνες retina. Δωρεάν στο πρόγραμμα περιήγησής σας με έλεγχο περικοπής· χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/resize-image-to-2048x2048.html",
+  "id": "/el/resize-image-to-2048x2048.html",
   "start_url": "./resize-image-to-2048x2048.html",
   "scope": "./resize-image-to-2048x2048.html",
   "display": "standalone",

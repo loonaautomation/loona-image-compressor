@@ -2,7 +2,7 @@
   "name": "Loona Amerikai Diversity Visa (zöldkártya-lottó) fotó méret",
   "short_name": "Amerikai Diversity Visa",
   "description": "Készítsen Amerikai Diversity Visa (zöldkártya-lottó) fotó fotót a hivatalos 51×51 mm (600×600 px) méretben, sima fehér vagy törtfehér háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/us-dv-lottery-photo-size.html",
+  "id": "/hu/us-dv-lottery-photo-size.html",
   "start_url": "./us-dv-lottery-photo-size.html",
   "scope": "./us-dv-lottery-photo-size.html",
   "display": "standalone",

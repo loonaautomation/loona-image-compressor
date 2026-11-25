@@ -2,7 +2,7 @@
   "name": "Loona Compress JPG to 40 KB",
   "short_name": "Compress JPG to 40 KB",
   "description": "Compress a JPG image to 40 KB or under, free in your browser. Automatic search finds the best quality that fits — no signup, no upload.",
-  "id": "/loona-image-compressor/en-gb/compress-jpg-to-40kb.html",
+  "id": "/en-gb/compress-jpg-to-40kb.html",
   "start_url": "./compress-jpg-to-40kb.html",
   "scope": "./compress-jpg-to-40kb.html",
   "display": "standalone",

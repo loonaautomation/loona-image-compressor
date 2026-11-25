@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar",
   "short_name": "Rozmiar",
   "description": "Zmień rozmiar: SBI PO podpis, do rozmiaru z ogłoszenia (140 × 60 px) i przedziału 10–20 KB. Za darmo, w przeglądarce — bez przesyłania, bez rejestracji.",
-  "id": "/loona-image-compressor/pl/sbi-po-signature-size.html",
+  "id": "/pl/sbi-po-signature-size.html",
   "start_url": "./sbi-po-signature-size.html",
   "scope": "./sbi-po-signature-size.html",
   "display": "standalone",

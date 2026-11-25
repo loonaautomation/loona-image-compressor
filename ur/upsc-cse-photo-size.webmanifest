@@ -2,7 +2,7 @@
   "name": "Loona UPSC Civil Services (IAS) تصویر کا سائز",
   "short_name": "UPSC Civil Services (IAS)",
   "description": "اپنی UPSC Civil Services (IAS) تصویر کو نوٹیفکیشن سائز (350 × 350 px) اور 20–300 KB بینڈ کے مطابق بنائیں۔ مفت، آپ کے براؤزر میں — نہ اپ لوڈ، نہ سائن اپ۔",
-  "id": "/loona-image-compressor/ur/upsc-cse-photo-size.html",
+  "id": "/ur/upsc-cse-photo-size.html",
   "start_url": "./upsc-cse-photo-size.html",
   "scope": "./upsc-cse-photo-size.html",
   "display": "standalone",

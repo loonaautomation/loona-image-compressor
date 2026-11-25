@@ -2,7 +2,7 @@
   "name": "Loona Размер Аватар пользователя для Discord",
   "short_name": "Размер Аватар пользователя для Discord",
   "description": "Make a Discord user avatar at exactly 800×800 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/discord-avatar-size.html",
+  "id": "/discord-avatar-size.html",
   "start_url": "./discord-avatar-size.html",
   "scope": "./discord-avatar-size.html",
   "display": "standalone",

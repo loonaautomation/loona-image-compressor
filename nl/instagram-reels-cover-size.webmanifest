@@ -2,7 +2,7 @@
   "name": "Loona Formaat Instagram Reels-omslag",
   "short_name": "Formaat Instagram Reels-omslag",
   "description": "Maak een Instagram reels-omslag op precies 1080×1920 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/instagram-reels-cover-size.html",
+  "id": "/nl/instagram-reels-cover-size.html",
   "start_url": "./instagram-reels-cover-size.html",
   "scope": "./instagram-reels-cover-size.html",
   "display": "standalone",

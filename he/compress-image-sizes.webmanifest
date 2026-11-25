@@ -2,7 +2,7 @@
   "name": "Loona דחיסת תמונה לכל גודל KB",
   "short_name": "דחיסת תמונה לכל גודל KB",
   "description": "כל כלי הדחיסה לגודל: 16 גדלי יעד ב־JPG, PNG ו־WebP, מ־10 KB עד 2 MB. בחינם, בדפדפן שלכם.",
-  "id": "/loona-image-compressor/he/compress-image-sizes.html",
+  "id": "/he/compress-image-sizes.html",
   "start_url": "./compress-image-sizes.html",
   "scope": "./compress-image-sizes.html",
   "display": "standalone",

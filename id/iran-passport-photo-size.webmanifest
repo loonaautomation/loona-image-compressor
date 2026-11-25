@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Paspor Iran",
   "short_name": "Ukuran Foto Paspor Iran",
   "description": "Buat Foto Paspor Iran pada ukuran resmi 30×40 mm (354×472 px), latar belakang putih polos atau terang. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/iran-passport-photo-size.html",
+  "id": "/id/iran-passport-photo-size.html",
   "start_url": "./iran-passport-photo-size.html",
   "scope": "./iran-passport-photo-size.html",
   "display": "standalone",

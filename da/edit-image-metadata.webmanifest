@@ -2,7 +2,7 @@
   "name": "Loona EXIF-editor",
   "short_name": "EXIF-editor",
   "description": "Redigér EXIF-dataene for et JPG-foto online gratis — ret datoen taget, tilføj dit navn som kunstner, indstil copyright, kameramærke og -model, eller opret EXIF på et foto, der ikke har nogen. Pixels genkodes aldrig, og intet uploades.",
-  "id": "/loona-image-compressor/da/edit-image-metadata.html",
+  "id": "/da/edit-image-metadata.html",
   "start_url": "./edit-image-metadata.html",
   "scope": "./edit-image-metadata.html",
   "display": "standalone",

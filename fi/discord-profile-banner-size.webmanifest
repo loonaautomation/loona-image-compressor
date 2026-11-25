@@ -2,7 +2,7 @@
   "name": "Loona Discord Profiilibanneri koko",
   "short_name": "Discord Profiilibanneri koko",
   "description": "Tee Discord profiilibanneri tarkalleen kokoon 600×180 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/discord-profile-banner-size.html",
+  "id": "/fi/discord-profile-banner-size.html",
   "start_url": "./discord-profile-banner-size.html",
   "scope": "./discord-profile-banner-size.html",
   "display": "standalone",

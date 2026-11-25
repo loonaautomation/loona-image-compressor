@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do paszportu / dowodu osobistego Francji",
   "short_name": "Rozmiar Zdjęcie do paszportu",
   "description": "Utwórz Zdjęcie do paszportu / dowodu osobistego Francji w oficjalnym rozmiarze 35×45 mm (413×531 px), tło: gładkie jasnoszare lub jasnoniebieskie. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/france-passport-photo-size.html",
+  "id": "/pl/france-passport-photo-size.html",
   "start_url": "./france-passport-photo-size.html",
   "scope": "./france-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Promijeni veličinu slike na 1920 × 1080",
   "short_name": "Promijeni veličinu slike na",
   "description": "Promijenite veličinu bilo koje slike točno na 1920 × 1080 piksela (Full HD zaslone, pozadine radne površine i završne zaslone na YouTubeu) besplatno. Pokrij, sadrži ili rastegni, JPG ili PNG, trenutno preuzimanje — bez registracije, ništa se ne prenosi.",
-  "id": "/loona-image-compressor/hr/resize-image-to-1920x1080.html",
+  "id": "/hr/resize-image-to-1920x1080.html",
   "start_url": "./resize-image-to-1920x1080.html",
   "scope": "./resize-image-to-1920x1080.html",
   "display": "standalone",

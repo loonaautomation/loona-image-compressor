@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do wizy Arabii Saudyjskiej",
   "short_name": "Rozmiar Zdjęcie do wizy",
   "description": "Utwórz Zdjęcie do wizy Arabii Saudyjskiej w oficjalnym rozmiarze 40×60 mm (472×709 px), tło: gładkie białe. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/saudi-visa-photo-size.html",
+  "id": "/pl/saudi-visa-photo-size.html",
   "start_url": "./saudi-visa-photo-size.html",
   "scope": "./saudi-visa-photo-size.html",
   "display": "standalone",

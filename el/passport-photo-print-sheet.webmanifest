@@ -2,7 +2,7 @@
   "name": "Loona Φύλλο Εκτύπωσης Φωτογραφιών Διαβατηρίου",
   "short_name": "Φύλλο Εκτύπωσης Φωτογραφιών",
   "description": "Βάλτε 4, 6 ή 8 φωτογραφίες διαβατηρίου σε ένα φύλλο εκτύπωσης A4 δωρεάν στα 300 DPI. Εκτυπώστε στο 100%, κόψτε στους οδηγούς και εξοικονομήστε χρήματα στούντιο. Χωρίς εγγραφή, πλήρως ιδιωτικό.",
-  "id": "/loona-image-compressor/el/passport-photo-print-sheet.html",
+  "id": "/el/passport-photo-print-sheet.html",
   "start_url": "./passport-photo-print-sheet.html",
   "scope": "./passport-photo-print-sheet.html",
   "display": "standalone",

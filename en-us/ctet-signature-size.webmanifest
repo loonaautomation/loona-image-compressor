@@ -2,7 +2,7 @@
   "name": "Loona CTET Signature Size",
   "short_name": "CTET Signature Size",
   "description": "Resize your CTET signature to the notification size (scanned box, ratio about 7:2) and 3–30 KB band. Free, in your browser — no upload, no signup.",
-  "id": "/loona-image-compressor/en-us/ctet-signature-size.html",
+  "id": "/en-us/ctet-signature-size.html",
   "start_url": "./ctet-signature-size.html",
   "scope": "./ctet-signature-size.html",
   "display": "standalone",

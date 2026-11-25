@@ -2,7 +2,7 @@
   "name": "Loona GIF Maker",
   "short_name": "GIF Maker",
   "description": "Създавайте анимирани GIF файлове онлайн безплатно с Loona GIF Maker — комбинирайте снимките си в повтарящ се GIF. Базирано в браузъра, без регистрация, без качване, без воден знак.",
-  "id": "/loona-image-compressor/bg/gif-maker.html",
+  "id": "/bg/gif-maker.html",
   "start_url": "./gif-maker.html",
   "scope": "./gif-maker.html",
   "display": "standalone",

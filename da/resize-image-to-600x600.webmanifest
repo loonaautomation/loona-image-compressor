@@ -2,7 +2,7 @@
   "name": "Loona Tilpas billedstørrelse til 600 × 600 px online",
   "short_name": "Tilpas billedstørrelse til",
   "description": "Tilpas ethvert billede til præcis 600×600 px — Mindste digitale størrelse for amerikansk pas/visum og DV-lotteri. Gratis i din browser med beskæringskontrol; ingen upload, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/resize-image-to-600x600.html",
+  "id": "/da/resize-image-to-600x600.html",
   "start_url": "./resize-image-to-600x600.html",
   "scope": "./resize-image-to-600x600.html",
   "display": "standalone",

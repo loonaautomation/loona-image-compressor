@@ -2,7 +2,7 @@
   "name": "Loona Saudi-arabisk visumfoto størrelse",
   "short_name": "Saudi-arabisk visumfoto",
   "description": "Lav et Saudi-arabisk visumfoto i den officielle størrelse 40×60 mm (472×709 px), ensfarvet hvid baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
-  "id": "/loona-image-compressor/da/saudi-visa-photo-size.html",
+  "id": "/da/saudi-visa-photo-size.html",
   "start_url": "./saudi-visa-photo-size.html",
   "scope": "./saudi-visa-photo-size.html",
   "display": "standalone",

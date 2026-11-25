@@ -2,7 +2,7 @@
   "name": "Loona Editor EXIF",
   "short_name": "Editor EXIF",
   "description": "Editează datele EXIF ale unei fotografii JPG online gratuit — repară data realizării, adaugă numele tău ca artist, setează drepturile de autor, marca și modelul camerei sau creează EXIF pe o fotografie care nu are. Pixelii nu sunt niciodată recodificați și nimic nu este încărcat.",
-  "id": "/loona-image-compressor/ro/edit-image-metadata.html",
+  "id": "/ro/edit-image-metadata.html",
   "start_url": "./edit-image-metadata.html",
   "scope": "./edit-image-metadata.html",
   "display": "standalone",

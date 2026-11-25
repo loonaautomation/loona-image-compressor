@@ -2,7 +2,7 @@
   "name": "Loona Prevodník GIF na PNG",
   "short_name": "Prevodník GIF na PNG",
   "description": "Preveďte GIF na PNG online zadarmo — čistý bezstratový statický obrázok z vášho GIF. Založené na prehliadači, bez registrácie, bez nahrávania, bez vodoznaku.",
-  "id": "/loona-image-compressor/sk/gif-to-png.html",
+  "id": "/sk/gif-to-png.html",
   "start_url": "./gif-to-png.html",
   "scope": "./gif-to-png.html",
   "display": "standalone",

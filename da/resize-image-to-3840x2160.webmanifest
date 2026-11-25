@@ -2,7 +2,7 @@
   "name": "Loona Tilpas billedstørrelse til 3840 × 2160 px online",
   "short_name": "Tilpas billedstørrelse til",
   "description": "Tilpas ethvert billede til præcis 3840×2160 px — 4K UHD-baggrund / videoramme. Gratis i din browser med beskæringskontrol; ingen upload, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/resize-image-to-3840x2160.html",
+  "id": "/da/resize-image-to-3840x2160.html",
   "start_url": "./resize-image-to-3840x2160.html",
   "scope": "./resize-image-to-3840x2160.html",
   "display": "standalone",

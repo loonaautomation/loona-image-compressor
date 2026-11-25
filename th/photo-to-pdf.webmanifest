@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงรูปถ่ายเป็น PDF",
   "short_name": "ตัวแปลงรูปถ่ายเป็น PDF",
   "description": "เปลี่ยนรูปถ่ายให้เป็น PDF ออนไลน์ฟรี: เพิ่มรูปภาพ JPG, PNG หรือ WebP เลือกหน้า A4, Letter หรือพอดีรูปภาพ และดาวน์โหลด PDF เรียบร้อยหนึ่งไฟล์ ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/photo-to-pdf.html",
+  "id": "/th/photo-to-pdf.html",
   "start_url": "./photo-to-pdf.html",
   "scope": "./photo-to-pdf.html",
   "display": "standalone",

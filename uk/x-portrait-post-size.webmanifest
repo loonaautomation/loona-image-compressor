@@ -2,7 +2,7 @@
   "name": "Loona Розмір Портретний допис (4",
   "short_name": "Розмір Портретний допис (4",
   "description": "Зробіть портретний допис (4:5) для X (Twitter) рівно 1080×1350 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/x-portrait-post-size.html",
+  "id": "/uk/x-portrait-post-size.html",
   "start_url": "./x-portrait-post-size.html",
   "scope": "./x-portrait-post-size.html",
   "display": "standalone",

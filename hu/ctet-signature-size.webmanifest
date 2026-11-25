@@ -2,7 +2,7 @@
   "name": "Loona CTET Aláírás méret",
   "short_name": "CTET Aláírás méret",
   "description": "Méretezze át a CTET aláírás fájlját a kiírás szerinti méretre (szkennelt mező, kb. 7:2 arány) és a 3–30 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/ctet-signature-size.html",
+  "id": "/hu/ctet-signature-size.html",
   "start_url": "./ctet-signature-size.html",
   "scope": "./ctet-signature-size.html",
   "display": "standalone",

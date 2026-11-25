@@ -2,7 +2,7 @@
   "name": "Loona GIF Maker",
   "short_name": "GIF Maker",
   "description": "Buat GIF animasi online gratis dengan Loona GIF Maker — gabungkan foto Anda menjadi GIF berulang. Berbasis browser, tanpa pendaftaran, tanpa unggahan, tanpa tanda air.",
-  "id": "/loona-image-compressor/id/gif-maker.html",
+  "id": "/id/gif-maker.html",
   "start_url": "./gif-maker.html",
   "scope": "./gif-maker.html",
   "display": "standalone",

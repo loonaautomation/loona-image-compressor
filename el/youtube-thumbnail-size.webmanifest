@@ -2,7 +2,7 @@
   "name": "Loona Μικρογραφία Βίντεο YouTube",
   "short_name": "Μικρογραφία Βίντεο YouTube",
   "description": "Δημιουργήστε ένα μικρογραφία βίντεο YouTube σε ακριβώς 1280×720 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/youtube-thumbnail-size.html",
+  "id": "/el/youtube-thumbnail-size.html",
   "start_url": "./youtube-thumbnail-size.html",
   "scope": "./youtube-thumbnail-size.html",
   "display": "standalone",

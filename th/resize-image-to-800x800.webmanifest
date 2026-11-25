@@ -2,7 +2,7 @@
   "name": "Loona ปรับขนาดรูปภาพเป็น 800 × 800",
   "short_name": "ปรับขนาดรูปภาพเป็น 800 × 800",
   "description": "ปรับขนาดรูปภาพใดก็ได้ให้เป็น 800 × 800 พิกเซลพอดี (marketplace and product listing photos) ฟรี แบบครอบเต็ม แบบใส่ด้านใน หรือแบบยืด JPG หรือ PNG ดาวน์โหลดทันที — ไม่ต้องสมัครสมาชิก ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/resize-image-to-800x800.html",
+  "id": "/th/resize-image-to-800x800.html",
   "start_url": "./resize-image-to-800x800.html",
   "scope": "./resize-image-to-800x800.html",
   "display": "standalone",

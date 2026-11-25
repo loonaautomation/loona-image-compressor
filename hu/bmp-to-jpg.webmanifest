@@ -2,7 +2,7 @@
   "name": "Loona BMP",
   "short_name": "BMP",
   "description": "Konvertáljon BMP-t JPG-vé online ingyen, és zsugorítsa a hatalmas tömörítetlen bitmapokat 90%-kal vagy még többel. A böngészőjében — regisztráció nélkül, feltöltés nélkül, vízjel nélkül.",
-  "id": "/loona-image-compressor/hu/bmp-to-jpg.html",
+  "id": "/hu/bmp-to-jpg.html",
   "start_url": "./bmp-to-jpg.html",
   "scope": "./bmp-to-jpg.html",
   "display": "standalone",

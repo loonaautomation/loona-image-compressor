@@ -2,7 +2,7 @@
   "name": "Loona NADRA / CNIC-fotoværktøj",
   "short_name": "NADRA / CNIC-fotoværktøj",
   "description": "Lav et NADRA CNIC-foto online gratis: præcis 350×467 px til Pak-ID-upload og 35×45 mm printstørrelse. Hvid baggrund, ingen tilmelding, fuldt privat.",
-  "id": "/loona-image-compressor/da/nadra-cnic-photo-maker.html",
+  "id": "/da/nadra-cnic-photo-maker.html",
   "start_url": "./nadra-cnic-photo-maker.html",
   "scope": "./nadra-cnic-photo-maker.html",
   "display": "standalone",

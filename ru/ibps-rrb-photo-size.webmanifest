@@ -2,7 +2,7 @@
   "name": "Loona Размер Фотография для IBPS RRB (Gramin Bank)",
   "short_name": "Размер Фотография для IBPS RRB (Gramin Bank)",
   "description": "Resize your IBPS RRB (Gramin Bank) photo to the notification size (200 × 230 px) and 20–50 KB band. Free, in your browser — no upload, no signup.",
-  "id": "/loona-image-compressor/ibps-rrb-photo-size.html",
+  "id": "/ibps-rrb-photo-size.html",
   "start_url": "./ibps-rrb-photo-size.html",
   "scope": "./ibps-rrb-photo-size.html",
   "display": "standalone",

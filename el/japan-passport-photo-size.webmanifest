@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Διαβατηρίου Ιαπωνίας",
   "short_name": "Φωτογραφία Διαβατηρίου",
   "description": "Δημιουργήστε Φωτογραφία Διαβατηρίου Ιαπωνίας στο επίσημο μέγεθος 35×45 mm (413×531 px), φόντο απλό λευκό ή ανοιχτό, χωρίς σχέδια. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/japan-passport-photo-size.html",
+  "id": "/el/japan-passport-photo-size.html",
   "start_url": "./japan-passport-photo-size.html",
   "scope": "./japan-passport-photo-size.html",
   "display": "standalone",

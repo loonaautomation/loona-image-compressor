@@ -2,7 +2,7 @@
   "name": "Loona Veličina UPSC Civil Services (IAS) Potpis",
   "short_name": "Veličina UPSC Civil Services",
   "description": "Promijenite veličinu svoje UPSC Civil Services (IAS) potpis na veličinu iz obavijesti (skenirani okvir, omjer oko 7:2) i pojas 20–300 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/upsc-cse-signature-size.html",
+  "id": "/hr/upsc-cse-signature-size.html",
   "start_url": "./upsc-cse-signature-size.html",
   "scope": "./upsc-cse-signature-size.html",
   "display": "standalone",

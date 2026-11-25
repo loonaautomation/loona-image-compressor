@@ -2,7 +2,7 @@
   "name": "Loona İmza Arka Planı Kaldırıcı",
   "short_name": "İmza Arka Planı Kaldırıcı",
   "description": "Bir imza veya mühür fotoğrafının kâğıt arka planını kaldırın ve şeffaf bir PNG indirin, çevrimiçi ve ücretsiz. Tamamen tarayıcıda çalışan canvas aracı — yapay zekâ yok, yükleme yok, kayıt yok.",
-  "id": "/loona-image-compressor/tr/signature-background-remover.html",
+  "id": "/tr/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

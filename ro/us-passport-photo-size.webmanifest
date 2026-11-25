@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie pentru pașaportul SUA",
   "short_name": "Dimensiune Fotografie pentru",
   "description": "Creează un Fotografie pentru pașaportul SUA la dimensiunea oficială 51×51 mm (600×600 px), fundal alb simplu. Creator online gratuit — decupează, descarcă și imprimă foaia, fără încărcare.",
-  "id": "/loona-image-compressor/ro/us-passport-photo-size.html",
+  "id": "/ro/us-passport-photo-size.html",
   "start_url": "./us-passport-photo-size.html",
   "scope": "./us-passport-photo-size.html",
   "display": "standalone",

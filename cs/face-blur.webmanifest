@@ -2,7 +2,7 @@
   "name": "Loona Rozostření obličeje",
   "short_name": "Rozostření obličeje",
   "description": "Rozostřete nebo pixelujte obličeje, registrační značky a soukromé detaily na libovolné fotografii. Oblasti si vyberete sami, zvolíte sílu, zobrazíte náhled a stáhnete — zdarma, bez registrace a vaše fotografie nikdy neopustí vaše zařízení.",
-  "id": "/loona-image-compressor/cs/face-blur.html",
+  "id": "/cs/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kiondoaji cha Metadata kwa Makundi",
   "short_name": "Kiondoaji cha Metadata kwa",
   "description": "Ondoa metadata ya EXIF, GPS na XMP kutoka picha nyingi mara moja — dondosha kundi la faili za JPG, PNG na WebP, ziondoe zote kwenye kivinjari chako na upakue kila kitu kama ZIP moja. Bure, faragha, bila kupakia, bila kuandika upya.",
-  "id": "/loona-image-compressor/sw/bulk-remove-image-metadata.html",
+  "id": "/sw/bulk-remove-image-metadata.html",
   "start_url": "./bulk-remove-image-metadata.html",
   "scope": "./bulk-remove-image-metadata.html",
   "display": "standalone",

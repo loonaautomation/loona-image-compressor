@@ -2,7 +2,7 @@
   "name": "Loona Veľkosti pasových a vízových fotografií podľa krajiny",
   "short_name": "Veľkosti pasových a vízových",
   "description": "Oficiálne veľkosti fotografií na pasy, víza a preukazy pre 40 krajín a dokumentov, každá s nástrojom pre tvorbu v presných milimetroch a pixeloch.",
-  "id": "/loona-image-compressor/sk/passport-photo-sizes.html",
+  "id": "/sk/passport-photo-sizes.html",
   "start_url": "./passport-photo-sizes.html",
   "scope": "./passport-photo-sizes.html",
   "display": "standalone",

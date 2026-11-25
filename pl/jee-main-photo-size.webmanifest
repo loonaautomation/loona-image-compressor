@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar",
   "short_name": "Rozmiar",
   "description": "Zmień rozmiar: JEE Main zdjęcie, do rozmiaru z ogłoszenia (3,5 × 4,5 cm (około 413 × 531 px przy 300 DPI)) i przedziału 10–200 KB. Za darmo, w przeglądarce — bez przesyłania, bez rejestracji.",
-  "id": "/loona-image-compressor/pl/jee-main-photo-size.html",
+  "id": "/pl/jee-main-photo-size.html",
   "start_url": "./jee-main-photo-size.html",
   "scope": "./jee-main-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Zmień rozmiar obrazu na 800 × 800",
   "short_name": "Zmień rozmiar obrazu na 800 ×",
   "description": "Zmień rozmiar dowolnego obrazu dokładnie do 800 × 800 pikseli (marketplace and product listing photos) za darmo. Wypełnij, dopasuj lub rozciągnij, JPG lub PNG, pobierz od razu — bez rejestracji, nic nie jest przesyłane.",
-  "id": "/loona-image-compressor/pl/resize-image-to-800x800.html",
+  "id": "/pl/resize-image-to-800x800.html",
   "start_url": "./resize-image-to-800x800.html",
   "scope": "./resize-image-to-800x800.html",
   "display": "standalone",

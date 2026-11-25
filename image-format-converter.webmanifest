@@ -2,7 +2,7 @@
   "name": "Loona Image Format Converter",
   "short_name": "Image Format Converter",
   "description": "Convert images between JPG, PNG and WebP online for free, in batches, with quality control and transparent-background flattening. No signup needed.",
-  "id": "/loona-image-compressor/image-format-converter.html",
+  "id": "/image-format-converter.html",
   "start_url": "./image-format-converter.html",
   "scope": "./image-format-converter.html",
   "display": "standalone",

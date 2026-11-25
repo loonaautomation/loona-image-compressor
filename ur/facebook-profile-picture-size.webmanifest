@@ -2,7 +2,7 @@
   "name": "Loona Facebook پروفائل تصویر کا سائز",
   "short_name": "Facebook پروفائل تصویر کا سائز",
   "description": "Facebook پروفائل تصویر بالکل 720×720 px پر بنائیں۔ آپ کے براؤزر میں مفت ری سائزر/کراپر، محفوظ زون کے قواعد کے ساتھ جو کراپ شدہ متن اور چہروں کو روکتے ہیں۔",
-  "id": "/loona-image-compressor/ur/facebook-profile-picture-size.html",
+  "id": "/ur/facebook-profile-picture-size.html",
   "start_url": "./facebook-profile-picture-size.html",
   "scope": "./facebook-profile-picture-size.html",
   "display": "standalone",

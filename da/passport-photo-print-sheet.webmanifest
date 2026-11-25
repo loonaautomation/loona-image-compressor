@@ -2,7 +2,7 @@
   "name": "Loona Pasfotoudskriftsark",
   "short_name": "Pasfotoudskriftsark",
   "description": "Læg 4, 6 eller 8 pasfotos på ét A4-udskriftsark gratis ved 300 DPI. Udskriv ved 100%, klip på vejledningerne, og spar studiopenge. Ingen tilmelding, fuldt privat.",
-  "id": "/loona-image-compressor/da/passport-photo-print-sheet.html",
+  "id": "/da/passport-photo-print-sheet.html",
   "start_url": "./passport-photo-print-sheet.html",
   "scope": "./passport-photo-print-sheet.html",
   "display": "standalone",

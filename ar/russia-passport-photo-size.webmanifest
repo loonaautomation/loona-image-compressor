@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة جواز السفر / التأشيرة الروسية",
   "short_name": "حجم صورة جواز السفر /",
   "description": "اصنع صورة جواز السفر / التأشيرة الروسية بالحجم الرسمي 35×45 mm (413×531 px)، خلفية بيضاء سادة أو فاتحة. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/russia-passport-photo-size.html",
+  "id": "/ar/russia-passport-photo-size.html",
   "start_url": "./russia-passport-photo-size.html",
   "scope": "./russia-passport-photo-size.html",
   "display": "standalone",

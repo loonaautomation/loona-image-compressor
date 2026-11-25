@@ -2,7 +2,7 @@
   "name": "Loona Arcelmosás",
   "short_name": "Arcelmosás",
   "description": "Arcok, rendszámtáblák és privát részletek elmosása vagy pixelezése bármely fotón. Ön jelöli ki a területeket, kiválasztja az erősséget, előnézetet kap és letölt — ingyen, regisztráció nélkül, és a fotója soha nem hagyja el az eszközét.",
-  "id": "/loona-image-compressor/hu/face-blur.html",
+  "id": "/hu/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

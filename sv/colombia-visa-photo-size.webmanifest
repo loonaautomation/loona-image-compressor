@@ -2,7 +2,7 @@
   "name": "Loona Colombianskt visumfoto storlek",
   "short_name": "Colombianskt visumfoto storlek",
   "description": "Skapa ett Colombianskt visumfoto i den officiella storleken 30×40 mm (354×472 px), helvit bakgrund. Gratis onlineskapare — beskär, ladda ner och skriv ut ark, ingen uppladdning.",
-  "id": "/loona-image-compressor/sv/colombia-visa-photo-size.html",
+  "id": "/sv/colombia-visa-photo-size.html",
   "start_url": "./colombia-visa-photo-size.html",
   "scope": "./colombia-visa-photo-size.html",
   "display": "standalone",

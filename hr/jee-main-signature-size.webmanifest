@@ -2,7 +2,7 @@
   "name": "Loona Veličina JEE Main Potpis",
   "short_name": "Veličina JEE Main Potpis",
   "description": "Promijenite veličinu svoje JEE Main potpis na veličinu iz obavijesti (skenirani okvir, omjer oko 7:2) i pojas 4–30 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/jee-main-signature-size.html",
+  "id": "/hr/jee-main-signature-size.html",
   "start_url": "./jee-main-signature-size.html",
   "scope": "./jee-main-signature-size.html",
   "display": "standalone",

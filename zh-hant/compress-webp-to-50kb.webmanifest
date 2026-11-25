@@ -2,7 +2,7 @@
   "name": "Loona 線上將 WebP 壓縮到 50 KB",
   "short_name": "線上將 WebP 壓縮到 50 KB",
   "description": "在瀏覽器中免費將 WebP 圖片壓縮到 50 KB 或更小。自動搜尋可在限制內達到的最佳質量 — 無需註冊，無需上傳。",
-  "id": "/loona-image-compressor/zh-hant/compress-webp-to-50kb.html",
+  "id": "/zh-hant/compress-webp-to-50kb.html",
   "start_url": "./compress-webp-to-50kb.html",
   "scope": "./compress-webp-to-50kb.html",
   "display": "standalone",

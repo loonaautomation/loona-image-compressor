@@ -2,7 +2,7 @@
   "name": "Loona Υπογραφή IBPS PO",
   "short_name": "Υπογραφή IBPS PO",
   "description": "Αλλάξτε το μέγεθος της υπογραφή IBPS PO στο μέγεθος της προκήρυξης (140 × 60 px) και στη ζώνη 10–20 KB. Δωρεάν, στο πρόγραμμα περιήγησής σας — χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/ibps-po-signature-size.html",
+  "id": "/el/ibps-po-signature-size.html",
   "start_url": "./ibps-po-signature-size.html",
   "scope": "./ibps-po-signature-size.html",
   "display": "standalone",

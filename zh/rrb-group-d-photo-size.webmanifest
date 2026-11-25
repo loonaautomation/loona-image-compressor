@@ -2,7 +2,7 @@
   "name": "Loona RRB Group D (Railways) 照片尺寸",
   "short_name": "RRB Group D (Railways) 照片尺寸",
   "description": "将您的 RRB Group D (Railways) 照片调整为通知规定的尺寸（320 × 240 px）和 30–70 KB 范围。免费，在您的浏览器中完成 — 无需上传，无需注册。",
-  "id": "/loona-image-compressor/zh/rrb-group-d-photo-size.html",
+  "id": "/zh/rrb-group-d-photo-size.html",
   "start_url": "./rrb-group-d-photo-size.html",
   "scope": "./rrb-group-d-photo-size.html",
   "display": "standalone",

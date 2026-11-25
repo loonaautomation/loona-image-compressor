@@ -2,7 +2,7 @@
   "name": "Loona منتقي الألوان",
   "short_name": "منتقي الألوان",
   "description": "اختر أي لون وانسخ فورًا قيم HEX وRGB وHSL وHSV الخاصة به. يتضمن شريط درجات وظلال — مجانًا، بلا تسجيل، يعمل في متصفحك.",
-  "id": "/loona-image-compressor/ar/color-picker.html",
+  "id": "/ar/color-picker.html",
   "start_url": "./color-picker.html",
   "scope": "./color-picker.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do paszportu Indonezji",
   "short_name": "Rozmiar Zdjęcie do paszportu",
   "description": "Utwórz Zdjęcie do paszportu Indonezji w oficjalnym rozmiarze 40×60 mm (472×709 px), tło: czerwone (dla paszportów) — białe dla wielu innych dokumentów. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/indonesia-passport-photo-size.html",
+  "id": "/pl/indonesia-passport-photo-size.html",
   "start_url": "./indonesia-passport-photo-size.html",
   "scope": "./indonesia-passport-photo-size.html",
   "display": "standalone",

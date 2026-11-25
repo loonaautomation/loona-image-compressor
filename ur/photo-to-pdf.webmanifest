@@ -2,7 +2,7 @@
   "name": "Loona فوٹو تا PDF کنورٹر",
   "short_name": "فوٹو تا PDF کنورٹر",
   "description": "تصاویر آن لائن مفت PDF میں بدلیں: JPG، PNG یا WebP تصاویر شامل کریں، A4، Letter یا تصویر کے مطابق صفحات منتخب کریں اور ایک صاف PDF ڈاؤن لوڈ کریں۔ کوئی اپ لوڈ نہیں۔",
-  "id": "/loona-image-compressor/ur/photo-to-pdf.html",
+  "id": "/ur/photo-to-pdf.html",
   "start_url": "./photo-to-pdf.html",
   "scope": "./photo-to-pdf.html",
   "display": "standalone",

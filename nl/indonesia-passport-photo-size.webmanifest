@@ -2,7 +2,7 @@
   "name": "Loona Fotoformaat Pasfoto Indonesië",
   "short_name": "Fotoformaat Pasfoto Indonesië",
   "description": "Maak een Pasfoto Indonesië op het officiële formaat 40×60 mm (472×709 px), achtergrond: rood (voor paspoorten) — wit voor veel andere ID&#x27;s. Gratis online maker — bijsnijden, downloaden en printvel, geen upload.",
-  "id": "/loona-image-compressor/nl/indonesia-passport-photo-size.html",
+  "id": "/nl/indonesia-passport-photo-size.html",
   "start_url": "./indonesia-passport-photo-size.html",
   "scope": "./indonesia-passport-photo-size.html",
   "display": "standalone",

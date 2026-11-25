@@ -2,7 +2,7 @@
   "name": "Loona Francia útlevél- / igazolványfotó méret",
   "short_name": "Francia útlevél- /",
   "description": "Készítsen Francia útlevél- / igazolványfotó fotót a hivatalos 35×45 mm (413×531 px) méretben, sima világosszürke vagy világoskék háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/france-passport-photo-size.html",
+  "id": "/hu/france-passport-photo-size.html",
   "start_url": "./france-passport-photo-size.html",
   "scope": "./france-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona AVIF 轉 JPG 轉換器",
   "short_name": "AVIF 轉 JPG 轉換器",
   "description": "線上將 AVIF 轉換為 JPG，免費，在您的瀏覽器中完成。在您的裝置上進行真實轉換 — 無需上傳，無需註冊，無水印。",
-  "id": "/loona-image-compressor/zh-hant/avif-to-jpg.html",
+  "id": "/zh-hant/avif-to-jpg.html",
   "start_url": "./avif-to-jpg.html",
   "scope": "./avif-to-jpg.html",
   "display": "standalone",

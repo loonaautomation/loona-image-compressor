@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת פספורט / DNI ארגנטינה",
   "short_name": "גודל תמונת פספורט / DNI",
   "description": "צרו תמונת פספורט / DNI ארגנטינה בגודל הרשמי 40×40 מ&quot;מ (472×472 px), רקע לבן חלק או תכלת. כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/argentina-passport-photo-size.html",
+  "id": "/he/argentina-passport-photo-size.html",
   "start_url": "./argentina-passport-photo-size.html",
   "scope": "./argentina-passport-photo-size.html",
   "display": "standalone",

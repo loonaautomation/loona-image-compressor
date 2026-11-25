@@ -2,7 +2,7 @@
   "name": "Loona Format Bannière de profil / de page",
   "short_name": "Format Bannière de profil /",
   "description": "Créez un visuel bannière de profil / de page LinkedIn d&#x27;exactement 1584×396 px. Redimensionneur/recadreur gratuit dans votre navigateur, avec les règles de zone de sécurité qui évitent les textes et visages coupés.",
-  "id": "/loona-image-compressor/fr/linkedin-banner-size.html",
+  "id": "/fr/linkedin-banner-size.html",
   "start_url": "./linkedin-banner-size.html",
   "scope": "./linkedin-banner-size.html",
   "display": "standalone",

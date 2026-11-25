@@ -2,7 +2,7 @@
   "name": "Loona Görüntüyü 413 × 531 px Boyutuna Çevrimiçi Getir — Ücretsiz",
   "short_name": "Görüntüyü 413 × 531 px Boyutuna Çevrimiçi Getir — Ücretsiz",
   "description": "Herhangi bir görüntüyü tam olarak 413×531 px boyutuna getirin — 35 × 45 mm, 300 DPI&#x27;da — ICAO/Schengen baskı boyutunun piksel hali. Kırpma kontrolüyle tarayıcınızda ücretsiz; yükleme yok, kayıt yok.",
-  "id": "/loona-image-compressor/tr/resize-image-to-413x531.html",
+  "id": "/tr/resize-image-to-413x531.html",
   "start_url": "./resize-image-to-413x531.html",
   "scope": "./resize-image-to-413x531.html",
   "display": "standalone",

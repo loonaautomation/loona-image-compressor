@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha PNG kuwa JPG",
   "short_name": "Kibadilishaji cha PNG kuwa JPG",
   "description": "Badilisha PNG kuwa JPG mtandaoni bure. Faili ndogo kwa fomu, barua pepe na tovuti, moja kwa moja kwenye kivinjari chako — bila kujisajili, bila kupakia, bila alama ya maji.",
-  "id": "/loona-image-compressor/sw/png-to-jpg.html",
+  "id": "/sw/png-to-jpg.html",
   "start_url": "./png-to-jpg.html",
   "scope": "./png-to-jpg.html",
   "display": "standalone",

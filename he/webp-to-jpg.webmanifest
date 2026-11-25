@@ -2,7 +2,7 @@
   "name": "Loona ממיר WebP ל־JPG",
   "short_name": "ממיר WebP ל־JPG",
   "description": "המירו WebP ל־JPG באינטרנט בחינם כדי שהתמונות שלכם ייפתחו בכל אפליקציה, טופס ומכשיר ישן. מבוסס דפדפן — ללא הרשמה, ללא העלאה, ללא סימן מים.",
-  "id": "/loona-image-compressor/he/webp-to-jpg.html",
+  "id": "/he/webp-to-jpg.html",
   "start_url": "./webp-to-jpg.html",
   "scope": "./webp-to-jpg.html",
   "display": "standalone",

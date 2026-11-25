@@ -2,7 +2,7 @@
   "name": "Loona RRB Group D (Railways) Signatur-størrelse",
   "short_name": "RRB Group D (Railways)",
   "description": "Endre størrelsen på RRB Group D (Railways) signatur til varslingsstørrelsen (140 × 60 px) og båndet på 10–40 KB. Gratis, i nettleseren din — ingen opplasting, ingen registrering.",
-  "id": "/loona-image-compressor/nb/rrb-group-d-signature-size.html",
+  "id": "/nb/rrb-group-d-signature-size.html",
   "start_url": "./rrb-group-d-signature-size.html",
   "scope": "./rrb-group-d-signature-size.html",
   "display": "standalone",

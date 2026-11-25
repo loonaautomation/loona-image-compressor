@@ -2,7 +2,7 @@
   "name": "Loona Veľkosť Vízová fotografia Spojeného kráľovstva",
   "short_name": "Veľkosť Vízová fotografia",
   "description": "Vytvorte Vízová fotografia Spojeného kráľovstva v oficiálnej veľkosti 35×45 mm (600×750 px), pozadie: jednofarebné svetlosivé. Bezplatný online tvorca — orezanie, stiahnutie a tlačový hárok, bez nahrávania.",
-  "id": "/loona-image-compressor/sk/uk-visa-photo-size.html",
+  "id": "/sk/uk-visa-photo-size.html",
   "start_url": "./uk-visa-photo-size.html",
   "scope": "./uk-visa-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona أحجام صور وسائل التواصل الاجتماعي 2026",
   "short_name": "أحجام صور وسائل التواصل",
   "description": "أحجام صور دقيقة لـInstagram وFacebook وYouTube وX وLinkedIn وPinterest وTikTok وDiscord — مع أداة صانع ودليل منطقة آمنة لكل موضع.",
-  "id": "/loona-image-compressor/ar/social-media-image-sizes.html",
+  "id": "/ar/social-media-image-sizes.html",
   "start_url": "./social-media-image-sizes.html",
   "scope": "./social-media-image-sizes.html",
   "display": "standalone",

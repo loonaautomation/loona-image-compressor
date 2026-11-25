@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) Portrettinnlegg (4",
   "short_name": "X (Twitter) Portrettinnlegg (4",
   "description": "Lag en X (Twitter) portrettinnlegg (4:5) med nøyaktig 1080×1350 px. Gratis størrelsesendrer/beskjærer i nettleseren din med reglene for sikre soner som stopper beskåret tekst og ansikter.",
-  "id": "/loona-image-compressor/nb/x-portrait-post-size.html",
+  "id": "/nb/x-portrait-post-size.html",
   "start_url": "./x-portrait-post-size.html",
   "scope": "./x-portrait-post-size.html",
   "display": "standalone",

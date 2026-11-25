@@ -2,7 +2,7 @@
   "name": "Loona Foto-Enhancer",
   "short_name": "Foto-Enhancer",
   "description": "Verbessern Sie ein Foto kostenlos online: Auto-Verbesserung mit einem Klick, weiche Fotos schärfen, Rauschen sanft bereinigen und 2x oder 4x vergrößern. Ehrliche Ergebnisse, keine Anmeldung, und Ihr Foto verlässt Ihr Gerät nie.",
-  "id": "/loona-image-compressor/de/image-enhancer.html",
+  "id": "/de/image-enhancer.html",
   "start_url": "./image-enhancer.html",
   "scope": "./image-enhancer.html",
   "display": "standalone",

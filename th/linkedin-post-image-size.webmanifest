@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปโพสต์ LinkedIn",
   "short_name": "ขนาดรูปโพสต์ LinkedIn",
   "description": "ทำรูปโพสต์ LinkedIn ที่ขนาด 1200×627 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/linkedin-post-image-size.html",
+  "id": "/th/linkedin-post-image-size.html",
   "start_url": "./linkedin-post-image-size.html",
   "scope": "./linkedin-post-image-size.html",
   "display": "standalone",

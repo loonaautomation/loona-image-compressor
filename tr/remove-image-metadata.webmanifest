@@ -2,7 +2,7 @@
   "name": "Loona Görüntü Meta Verilerini Kaldırın – JPG, PNG, WebP'den EXIF ve GPS Soyun Ücretsiz",
   "short_name": "Görüntü Meta Verilerini Kaldırın – JPG, PNG, WebP'den EXIF ve GPS Soyun Ücretsiz",
   "description": "EXIF, GPS konumu, XMP ve IPTC meta verilerini JPG, PNG ve WebP fotoğraflarından çevrimiçi ücretsiz kaldırın. Bayt düzeyinde soyma — pikseller asla yeniden kodlanmaz, bu yüzden kalite dokunulmamıştır. Yeniden taramayla doğrulanmıştır, tarayıcınızda %100 gizli.",
-  "id": "/loona-image-compressor/tr/remove-image-metadata.html",
+  "id": "/tr/remove-image-metadata.html",
   "start_url": "./remove-image-metadata.html",
   "scope": "./remove-image-metadata.html",
   "display": "standalone",

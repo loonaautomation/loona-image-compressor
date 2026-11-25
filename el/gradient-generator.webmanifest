@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Διαβαθμίσεων CSS",
   "short_name": "Γεννήτρια Διαβαθμίσεων CSS",
   "description": "Δημιουργήστε γραμμικές διαβαθμίσεις CSS με δύο ή τρία χρώματα και οποιαδήποτε γωνία, κάντε ζωντανή προεπισκόπηση και αντιγράψτε τον έτοιμο κώδικα CSS. Δωρεάν, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/gradient-generator.html",
+  "id": "/el/gradient-generator.html",
   "start_url": "./gradient-generator.html",
   "scope": "./gradient-generator.html",
   "display": "standalone",

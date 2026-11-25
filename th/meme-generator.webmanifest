@@ -2,7 +2,7 @@
   "name": "Loona เครื่องสร้างมีม",
   "short_name": "เครื่องสร้างมีม",
   "description": "เปลี่ยนรูปถ่ายใดก็ได้ให้เป็นมีมคลาสสิกด้วยข้อความบนและล่างตัวหนา — เครื่องสร้างมีมออนไลน์ฟรีพร้อมตัวอย่างแบบเรียลไทม์ ตัวเลือกพื้นหลังเรียบ และดาวน์โหลด PNG ไม่ต้องสมัครสมาชิก และรูปภาพของคุณไม่เคยออกจากอุปกรณ์ของคุณ",
-  "id": "/loona-image-compressor/th/meme-generator.html",
+  "id": "/th/meme-generator.html",
   "start_url": "./meme-generator.html",
   "scope": "./meme-generator.html",
   "display": "standalone",

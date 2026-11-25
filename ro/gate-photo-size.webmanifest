@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie GATE",
   "short_name": "Dimensiune Fotografie GATE",
   "description": "Redimensionează fotografie pentru GATE la dimensiunea din notificare (480 × 640 px) și intervalul 5–200 KB. Gratuit, în browserul tău — fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/gate-photo-size.html",
+  "id": "/ro/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

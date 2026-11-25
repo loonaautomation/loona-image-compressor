@@ -2,7 +2,7 @@
   "name": "Loona Formato Fotografia JEE Main",
   "short_name": "Formato Fotografia JEE Main",
   "description": "Ridimensiona la tua foto JEE Main al formato previsto dal bando (3,5 × 4,5 cm (circa 413 × 531 px a 300 DPI)) e all&#x27;intervallo 10–200 KB. Gratis, nel tuo browser: senza caricamenti e senza registrazione.",
-  "id": "/loona-image-compressor/it/jee-main-photo-size.html",
+  "id": "/it/jee-main-photo-size.html",
   "start_url": "./jee-main-photo-size.html",
   "scope": "./jee-main-photo-size.html",
   "display": "standalone",

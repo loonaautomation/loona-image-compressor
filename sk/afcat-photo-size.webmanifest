@@ -2,7 +2,7 @@
   "name": "Loona Veľkosť AFCAT Fotografia",
   "short_name": "Veľkosť AFCAT Fotografia",
   "description": "Zmeňte veľkosť súboru AFCAT fotografia na veľkosť podľa oznámenia (3,5 × 4,5 cm (asi 413 × 531 px pri 300 DPI)) a pásmo 10–50 KB. Zadarmo, vo vašom prehliadači — bez nahrávania a bez registrácie.",
-  "id": "/loona-image-compressor/sk/afcat-photo-size.html",
+  "id": "/sk/afcat-photo-size.html",
   "start_url": "./afcat-photo-size.html",
   "scope": "./afcat-photo-size.html",
   "display": "standalone",

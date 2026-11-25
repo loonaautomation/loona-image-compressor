@@ -2,7 +2,7 @@
   "name": "Loona Komprimovať JPG na 1000 KB online",
   "short_name": "Komprimovať JPG na 1000 KB",
   "description": "Komprimujte obrázok JPG na 1000 KB alebo menej, zadarmo vo svojom prehliadači. Automatické vyhľadávanie nájde najlepšiu kvalitu, ktorá sa do limitu zmestí — bez registrácie a bez nahrávania.",
-  "id": "/loona-image-compressor/sk/compress-jpg-to-1000kb.html",
+  "id": "/sk/compress-jpg-to-1000kb.html",
   "start_url": "./compress-jpg-to-1000kb.html",
   "scope": "./compress-jpg-to-1000kb.html",
   "display": "standalone",

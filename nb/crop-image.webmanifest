@@ -2,7 +2,7 @@
   "name": "Loona Beskjær bilde gratis på nett",
   "short_name": "Beskjær bilde gratis på nett",
   "description": "Beskjær bilder gratis på nett med ferdige forhold — 1:1, 4:3, 16:9 og pass 35×45 — pluss rotering og vending. Last ned den nøyaktige beskjæringen i full oppløsning.",
-  "id": "/loona-image-compressor/nb/crop-image.html",
+  "id": "/nb/crop-image.html",
   "start_url": "./crop-image.html",
   "scope": "./crop-image.html",
   "display": "standalone",

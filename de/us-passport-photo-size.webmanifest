@@ -2,7 +2,7 @@
   "name": "Loona US-Passfoto Größe",
   "short_name": "US-Passfoto Größe",
   "description": "Erstellen Sie ein US-Passfoto in der offiziellen Größe 51×51 mm (600×600 px), Hintergrund einfarbig weiß. Kostenloser Online-Ersteller — zuschneiden, herunterladen und Druckbogen, ohne Upload.",
-  "id": "/loona-image-compressor/de/us-passport-photo-size.html",
+  "id": "/de/us-passport-photo-size.html",
   "start_url": "./us-passport-photo-size.html",
   "scope": "./us-passport-photo-size.html",
   "display": "standalone",

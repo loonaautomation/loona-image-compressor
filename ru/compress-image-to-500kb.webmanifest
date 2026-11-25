@@ -2,7 +2,7 @@
   "name": "Loona Сжать изображение до 500 KB онлайн",
   "short_name": "Сжать изображение до 500 KB онлайн",
   "description": "Compress JPG, PNG and WebP images to 500 KB or under, online and free. Automatic quality and size search in your browser — no signup, no upload.",
-  "id": "/loona-image-compressor/compress-image-to-500kb.html",
+  "id": "/compress-image-to-500kb.html",
   "start_url": "./compress-image-to-500kb.html",
   "scope": "./compress-image-to-500kb.html",
   "display": "standalone",

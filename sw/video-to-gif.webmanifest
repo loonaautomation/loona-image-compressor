@@ -2,7 +2,7 @@
   "name": "Loona Video to GIF Converter",
   "short_name": "Video to GIF Converter",
   "description": "Badilisha video kuwa GIF mtandaoni bure — geuza klipu ya MP4 au WebM kuwa GIF inayotembea. Inategemea kivinjari, hakuna kujisajili, hakuna kupakia, hakuna alama ya maji.",
-  "id": "/loona-image-compressor/sw/video-to-gif.html",
+  "id": "/sw/video-to-gif.html",
   "start_url": "./video-to-gif.html",
   "scope": "./video-to-gif.html",
   "display": "standalone",

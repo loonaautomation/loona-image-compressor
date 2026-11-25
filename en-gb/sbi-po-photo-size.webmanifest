@@ -2,7 +2,7 @@
   "name": "Loona SBI PO Photograph Size",
   "short_name": "SBI PO Photograph Size",
   "description": "Resize your SBI PO photo to the notification size (200 × 230 px) and 20–50 KB band. Free, in your browser — no upload, no signup.",
-  "id": "/loona-image-compressor/en-gb/sbi-po-photo-size.html",
+  "id": "/en-gb/sbi-po-photo-size.html",
   "start_url": "./sbi-po-photo-size.html",
   "scope": "./sbi-po-photo-size.html",
   "display": "standalone",

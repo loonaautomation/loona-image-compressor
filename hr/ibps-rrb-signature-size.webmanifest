@@ -2,7 +2,7 @@
   "name": "Loona Veličina IBPS RRB (Gramin Bank) Potpis",
   "short_name": "Veličina IBPS RRB (Gramin",
   "description": "Promijenite veličinu svoje IBPS RRB (Gramin Bank) potpis na veličinu iz obavijesti (140 × 60 px) i pojas 10–20 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/ibps-rrb-signature-size.html",
+  "id": "/hr/ibps-rrb-signature-size.html",
   "start_url": "./ibps-rrb-signature-size.html",
   "scope": "./ibps-rrb-signature-size.html",
   "display": "standalone",

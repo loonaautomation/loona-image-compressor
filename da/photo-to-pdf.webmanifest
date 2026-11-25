@@ -2,7 +2,7 @@
   "name": "Loona Foto til PDF-konverter",
   "short_name": "Foto til PDF-konverter",
   "description": "Lav fotos til en PDF online gratis: tilføj JPG-, PNG- eller WebP-billeder, vælg A4-, Letter- eller tilpas-til-billede-sider, og download én pæn PDF. Ingen uploads.",
-  "id": "/loona-image-compressor/da/photo-to-pdf.html",
+  "id": "/da/photo-to-pdf.html",
   "start_url": "./photo-to-pdf.html",
   "scope": "./photo-to-pdf.html",
   "display": "standalone",

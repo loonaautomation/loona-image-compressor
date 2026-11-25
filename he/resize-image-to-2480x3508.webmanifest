@@ -2,7 +2,7 @@
   "name": "Loona שינוי גודל תמונה ל־2480 × 3508 px באינטרנט",
   "short_name": "שינוי גודל תמונה ל־2480 ×",
   "description": "שנו גודל של כל תמונה בדיוק ל־2480×3508 px — A4 ב־300 DPI. בחינם בדפדפן שלכם עם בקרת חיתוך; ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/resize-image-to-2480x3508.html",
+  "id": "/he/resize-image-to-2480x3508.html",
   "start_url": "./resize-image-to-2480x3508.html",
   "scope": "./resize-image-to-2480x3508.html",
   "display": "standalone",

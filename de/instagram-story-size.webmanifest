@@ -2,7 +2,7 @@
   "name": "Loona Instagram Story Größe",
   "short_name": "Instagram Story Größe",
   "description": "Erstellen Sie ein Instagram-story mit exakt 1080×1920 px. Kostenloser Größenänderer/Zuschneider in Ihrem Browser mit den Regeln für die sichere Zone, die abgeschnittenen Text und Gesichter verhindern.",
-  "id": "/loona-image-compressor/de/instagram-story-size.html",
+  "id": "/de/instagram-story-size.html",
   "start_url": "./instagram-story-size.html",
   "scope": "./instagram-story-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona SVGからWEBPへの変換ツール",
   "short_name": "SVGからWEBPへの変換ツール",
   "description": "SVGをWEBPにオンラインで変換できます。無料で、ブラウザ内で処理されます。お使いのデバイス上での実際の変換です — アップロード不要、登録不要、透かしなし。",
-  "id": "/loona-image-compressor/ja/svg-to-webp.html",
+  "id": "/ja/svg-to-webp.html",
   "start_url": "./svg-to-webp.html",
   "scope": "./svg-to-webp.html",
   "display": "standalone",

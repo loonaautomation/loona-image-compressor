@@ -2,7 +2,7 @@
   "name": "Loona Italien-Passfoto Größe",
   "short_name": "Italien-Passfoto Größe",
   "description": "Erstellen Sie ein Italien-Passfoto in der offiziellen Größe 35×40 mm (413×472 px), Hintergrund einfarbig weiß oder hell. Kostenloser Online-Ersteller — zuschneiden, herunterladen und Druckbogen, ohne Upload.",
-  "id": "/loona-image-compressor/de/italy-passport-photo-size.html",
+  "id": "/de/italy-passport-photo-size.html",
   "start_url": "./italy-passport-photo-size.html",
   "scope": "./italy-passport-photo-size.html",
   "display": "standalone",

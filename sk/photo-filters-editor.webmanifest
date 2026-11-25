@@ -2,7 +2,7 @@
   "name": "Loona Filtre a opravy fotografií",
   "short_name": "Filtre a opravy fotografií",
   "description": "Opravujte fotografie online zadarmo: upravte jas, kontrast a sýtosť, doostrite jedným kliknutím a použite hotové predvoľby, ako je Oprava pasovej fotografie a Živá.",
-  "id": "/loona-image-compressor/sk/photo-filters-editor.html",
+  "id": "/sk/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

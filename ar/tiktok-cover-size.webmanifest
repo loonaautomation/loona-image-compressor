@@ -2,7 +2,7 @@
   "name": "Loona حجم غلاف الفيديو TikTok",
   "short_name": "حجم غلاف الفيديو TikTok",
   "description": "اصنع غلاف الفيديو TikTok بمقاس 1080×1920 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/tiktok-cover-size.html",
+  "id": "/ar/tiktok-cover-size.html",
   "start_url": "./tiktok-cover-size.html",
   "scope": "./tiktok-cover-size.html",
   "display": "standalone",

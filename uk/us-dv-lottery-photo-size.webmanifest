@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото на візу різноманіття США (лотерея Green Card)",
   "short_name": "Розмір Фото на візу",
   "description": "Зробіть Фото на візу різноманіття США (лотерея Green Card) в офіційному розмірі 51×51 мм (600×600 пікс.), тло: однотонне біле або брудно-біле. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
-  "id": "/loona-image-compressor/uk/us-dv-lottery-photo-size.html",
+  "id": "/uk/us-dv-lottery-photo-size.html",
   "start_url": "./us-dv-lottery-photo-size.html",
   "scope": "./us-dv-lottery-photo-size.html",
   "display": "standalone",

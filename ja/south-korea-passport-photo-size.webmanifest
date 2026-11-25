@@ -2,7 +2,7 @@
   "name": "Loona 韓国パスポート写真のサイズ",
   "short_name": "韓国パスポート写真のサイズ",
   "description": "公式サイズ35×45 mm（413×531 px）、無地の白の背景で韓国パスポート写真を作成できます。無料のオンライン作成ツール — 切り取り、ダウンロード、印刷シートまで、アップロード不要です。",
-  "id": "/loona-image-compressor/ja/south-korea-passport-photo-size.html",
+  "id": "/ja/south-korea-passport-photo-size.html",
   "start_url": "./south-korea-passport-photo-size.html",
   "scope": "./south-korea-passport-photo-size.html",
   "display": "standalone",

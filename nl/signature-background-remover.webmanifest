@@ -2,7 +2,7 @@
   "name": "Loona Achtergrondverwijderaar voor handtekeningen",
   "short_name": "Achtergrondverwijderaar voor handtekeningen",
   "description": "Verwijder de papieren achtergrond van een foto van een handtekening of stempel en download een transparante PNG, gratis online. Pure browser-canvastool – geen AI, geen upload, geen registratie.",
-  "id": "/loona-image-compressor/nl/signature-background-remover.html",
+  "id": "/nl/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

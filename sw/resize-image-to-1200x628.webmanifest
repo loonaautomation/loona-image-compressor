@@ -2,7 +2,7 @@
   "name": "Loona Badilisha Ukubwa wa Picha hadi 1200 × 628",
   "short_name": "Badilisha Ukubwa wa Picha",
   "description": "Badilisha ukubwa wa picha yoyote hadi pikseli 1200 × 628 haswa (ushiriki wa viungo na matangazo ya Facebook na LinkedIn) bure. Funika, beba au nyoosha, JPG au PNG, pakua papo hapo — bila kujisajili, hakuna kilichopakiwa.",
-  "id": "/loona-image-compressor/sw/resize-image-to-1200x628.html",
+  "id": "/sw/resize-image-to-1200x628.html",
   "start_url": "./resize-image-to-1200x628.html",
   "scope": "./resize-image-to-1200x628.html",
   "display": "standalone",

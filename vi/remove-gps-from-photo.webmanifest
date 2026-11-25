@@ -2,7 +2,7 @@
   "name": "Loona Xóa GPS khỏi ảnh",
   "short_name": "Xóa GPS khỏi ảnh",
   "description": "Chỉ xóa vị trí GPS khỏi ảnh JPG, PNG hoặc WebP và giữ dữ liệu máy ảnh, ngày tháng và phơi sáng. Từng byte, không mã hóa lại, được xác minh bằng lần quét lại — 100% trong trình duyệt của bạn, không có gì bị tải lên.",
-  "id": "/loona-image-compressor/vi/remove-gps-from-photo.html",
+  "id": "/vi/remove-gps-from-photo.html",
   "start_url": "./remove-gps-from-photo.html",
   "scope": "./remove-gps-from-photo.html",
   "display": "standalone",

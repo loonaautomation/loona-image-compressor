@@ -2,7 +2,7 @@
   "name": "Loona Contrast Checker",
   "short_name": "Contrast Checker",
   "description": "Check text and background colors against WCAG: instant contrast ratio with AA and AAA pass/fail for normal and large text, plus a live preview. Free, no signup.",
-  "id": "/loona-image-compressor/en-us/contrast-checker.html",
+  "id": "/en-us/contrast-checker.html",
   "start_url": "./contrast-checker.html",
   "scope": "./contrast-checker.html",
   "display": "standalone",

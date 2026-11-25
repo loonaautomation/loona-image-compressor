@@ -2,7 +2,7 @@
   "name": "Loona Převodník BMP na JPG",
   "short_name": "Převodník BMP na JPG",
   "description": "Převeďte BMP na JPG online zdarma a zmenšete obrovské nekomprimované bitmapy o 90 % nebo více. Ve vašem prohlížeči — bez registrace, bez nahrávání, bez vodoznaku.",
-  "id": "/loona-image-compressor/cs/bmp-to-jpg.html",
+  "id": "/cs/bmp-to-jpg.html",
   "start_url": "./bmp-to-jpg.html",
   "scope": "./bmp-to-jpg.html",
   "display": "standalone",

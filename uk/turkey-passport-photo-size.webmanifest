@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото на паспорт / візу Туреччини (біометричне)",
   "short_name": "Розмір Фото на паспорт / візу",
   "description": "Зробіть Фото на паспорт / візу Туреччини (біометричне) в офіційному розмірі 50×60 мм (591×709 пікс.), тло: однотонне біле. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
-  "id": "/loona-image-compressor/uk/turkey-passport-photo-size.html",
+  "id": "/uk/turkey-passport-photo-size.html",
   "start_url": "./turkey-passport-photo-size.html",
   "scope": "./turkey-passport-photo-size.html",
   "display": "standalone",

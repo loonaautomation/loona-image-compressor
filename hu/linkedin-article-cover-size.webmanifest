@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Cikk- / hírlevélborító méret",
   "short_name": "LinkedIn Cikk- /",
   "description": "Készítsen LinkedIn cikk- / hírlevélborító képet pontosan 1200×644 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/linkedin-article-cover-size.html",
+  "id": "/hu/linkedin-article-cover-size.html",
   "start_url": "./linkedin-article-cover-size.html",
   "scope": "./linkedin-article-cover-size.html",
   "display": "standalone",

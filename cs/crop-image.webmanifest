@@ -2,7 +2,7 @@
   "name": "Loona Oříznout obrázek online zdarma",
   "short_name": "Oříznout obrázek online zdarma",
   "description": "Ořezávejte obrázky online zdarma s hotovými poměry — 1:1, 4:3, 16:9 a pas 35×45 — plus otáčení a překlopení. Stáhněte přesný ořez v plném rozlišení.",
-  "id": "/loona-image-compressor/cs/crop-image.html",
+  "id": "/cs/crop-image.html",
   "start_url": "./crop-image.html",
   "scope": "./crop-image.html",
   "display": "standalone",

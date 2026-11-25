@@ -2,7 +2,7 @@
   "name": "Loona GATE Signature Size",
   "short_name": "GATE Signature Size",
   "description": "Resize your GATE signature to the notification size (scanned box, ratio about 7:2) and 3–100 KB band. Free, in your browser — no upload, no signup.",
-  "id": "/loona-image-compressor/en-us/gate-signature-size.html",
+  "id": "/en-us/gate-signature-size.html",
   "start_url": "./gate-signature-size.html",
   "scope": "./gate-signature-size.html",
   "display": "standalone",

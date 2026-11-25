@@ -2,7 +2,7 @@
   "name": "Loona Velikost Pasová fotografie Jižní Koreje",
   "short_name": "Velikost Pasová fotografie",
   "description": "Vytvořte Pasová fotografie Jižní Koreje v oficiální velikosti 35×45 mm (413×531 px), pozadí: jednobarevné bílé. Bezplatný online tvůrce — oříznutí, stažení a tiskový arch, bez nahrávání.",
-  "id": "/loona-image-compressor/cs/south-korea-passport-photo-size.html",
+  "id": "/cs/south-korea-passport-photo-size.html",
   "start_url": "./south-korea-passport-photo-size.html",
   "scope": "./south-korea-passport-photo-size.html",
   "display": "standalone",

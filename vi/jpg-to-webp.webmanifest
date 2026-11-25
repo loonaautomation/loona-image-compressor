@@ -2,7 +2,7 @@
   "name": "Loona Trình chuyển đổi JPG sang WebP",
   "short_name": "Trình chuyển đổi JPG sang WebP",
   "description": "Chuyển đổi JPG sang WebP trực tuyến miễn phí và thu nhỏ hình ảnh trang web 25–40% ở cùng chất lượng. Trong trình duyệt của bạn — không cần đăng ký, không tải lên, không hình mờ.",
-  "id": "/loona-image-compressor/vi/jpg-to-webp.html",
+  "id": "/vi/jpg-to-webp.html",
   "start_url": "./jpg-to-webp.html",
   "scope": "./jpg-to-webp.html",
   "display": "standalone",

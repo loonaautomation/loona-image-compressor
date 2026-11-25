@@ -2,7 +2,7 @@
   "name": "Loona Veličina Fotografija za putovnicu Njemačke (biometrijska)",
   "short_name": "Veličina Fotografija za",
   "description": "Izradite Fotografija za putovnicu Njemačke (biometrijska) u službenoj veličini 35×45 mm (413×531 px), pozadina svijetlosiva, jednobojna. Besplatni mrežni izrađivač — izrežite, preuzmite i ispišite list, bez prijenosa.",
-  "id": "/loona-image-compressor/hr/germany-passport-photo-size.html",
+  "id": "/hr/germany-passport-photo-size.html",
   "start_url": "./germany-passport-photo-size.html",
   "scope": "./germany-passport-photo-size.html",
   "display": "standalone",

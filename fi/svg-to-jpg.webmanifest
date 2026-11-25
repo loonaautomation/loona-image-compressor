@@ -2,7 +2,7 @@
   "name": "Loona SVG-JPG-muunnin",
   "short_name": "SVG-JPG-muunnin",
   "description": "Muunna SVG JPG:ksi verkossa ilmaiseksi — hahmonna vektorilogot ja kuvitukset universaaleiksi JPG:iksi millä tahansa leveydellä. Ei rekisteröitymistä, ei latausta palvelimelle, selaimessasi.",
-  "id": "/loona-image-compressor/fi/svg-to-jpg.html",
+  "id": "/fi/svg-to-jpg.html",
   "start_url": "./svg-to-jpg.html",
   "scope": "./svg-to-jpg.html",
   "display": "standalone",

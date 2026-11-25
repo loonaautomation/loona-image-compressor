@@ -2,7 +2,7 @@
   "name": "Loona Υπογραφή SBI Clerk (Junior Associates)",
   "short_name": "Υπογραφή SBI Clerk (Junior",
   "description": "Αλλάξτε το μέγεθος της υπογραφή SBI Clerk (Junior Associates) στο μέγεθος της προκήρυξης (140 × 60 px) και στη ζώνη 10–20 KB. Δωρεάν, στο πρόγραμμα περιήγησής σας — χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/sbi-clerk-signature-size.html",
+  "id": "/el/sbi-clerk-signature-size.html",
   "start_url": "./sbi-clerk-signature-size.html",
   "scope": "./sbi-clerk-signature-size.html",
   "display": "standalone",

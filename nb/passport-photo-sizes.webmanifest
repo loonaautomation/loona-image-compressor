@@ -2,7 +2,7 @@
   "name": "Loona Bildestørrelser for pass &amp; visum etter land",
   "short_name": "Bildestørrelser for pass",
   "description": "Offisielle bildestørrelser for pass, visum og ID for 40 land og dokumenter, hver med et verktøy med nøyaktig millimeter- og pikselstørrelse.",
-  "id": "/loona-image-compressor/nb/passport-photo-sizes.html",
+  "id": "/nb/passport-photo-sizes.html",
   "start_url": "./passport-photo-sizes.html",
   "scope": "./passport-photo-sizes.html",
   "display": "standalone",

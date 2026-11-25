@@ -2,7 +2,7 @@
   "name": "Loona Tvorca vízových fotografií",
   "short_name": "Tvorca vízových fotografií",
   "description": "Vytvárajte vízové fotografie online zadarmo: USA 2x2 palce, Spojené kráľovstvo a Schengen 35x45 mm, Čína 33x48 mm pri 300 DPI. Bez registrácie, bez vodoznaku, úplne súkromný nástroj.",
-  "id": "/loona-image-compressor/sk/visa-photo-maker.html",
+  "id": "/sk/visa-photo-maker.html",
   "start_url": "./visa-photo-maker.html",
   "scope": "./visa-photo-maker.html",
   "display": "standalone",

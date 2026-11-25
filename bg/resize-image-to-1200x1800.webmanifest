@@ -2,7 +2,7 @@
   "name": "Loona Преоразмеряване на изображение до 1200 × 1800 px онлайн",
   "short_name": "Преоразмеряване на",
   "description": "Преоразмерете всяко изображение до точно 1200×1800 px — Фото печат 4 × 6 инча при 300 DPI. Безплатно във вашия браузър с контрол на изрязването; без качване, без регистрация.",
-  "id": "/loona-image-compressor/bg/resize-image-to-1200x1800.html",
+  "id": "/bg/resize-image-to-1200x1800.html",
   "start_url": "./resize-image-to-1200x1800.html",
   "scope": "./resize-image-to-1200x1800.html",
   "display": "standalone",

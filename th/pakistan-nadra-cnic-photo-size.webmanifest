@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่าย NADRA CNIC ปากีสถาน",
   "short_name": "ขนาดรูปถ่าย NADRA CNIC",
   "description": "ทำรูปถ่าย NADRA CNIC ปากีสถานที่ขนาดอย่างเป็นทางการ 51×51 mm (600×600 px) พื้นหลังขาวเรียบ เครื่องทำรูปออนไลน์ฟรี — ครอบตัด ดาวน์โหลด และแผ่นพิมพ์ ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/pakistan-nadra-cnic-photo-size.html",
+  "id": "/th/pakistan-nadra-cnic-photo-size.html",
   "start_url": "./pakistan-nadra-cnic-photo-size.html",
   "scope": "./pakistan-nadra-cnic-photo-size.html",
   "display": "standalone",

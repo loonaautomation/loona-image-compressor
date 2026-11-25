@@ -2,7 +2,7 @@
   "name": "Loona Převodník GIF na JPG",
   "short_name": "Převodník GIF na JPG",
   "description": "Převeďte GIF na JPG online zdarma — proměňte GIF v malý univerzální statický snímek JPG. Ve vašem prohlížeči: bez registrace, bez nahrávání, bez vodoznaku.",
-  "id": "/loona-image-compressor/cs/gif-to-jpg.html",
+  "id": "/cs/gif-to-jpg.html",
   "start_url": "./gif-to-jpg.html",
   "scope": "./gif-to-jpg.html",
   "display": "standalone",

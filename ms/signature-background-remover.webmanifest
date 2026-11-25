@@ -2,7 +2,7 @@
   "name": "Loona Pembuang Latar Belakang Tandatangan",
   "short_name": "Pembuang Latar Belakang Tandatangan",
   "description": "Buang latar belakang kertas daripada foto tandatangan atau cop dan muat turun PNG telus, percuma dalam talian. Alat canvas pelayar tulen — tiada AI, tiada muat naik, tiada pendaftaran.",
-  "id": "/loona-image-compressor/ms/signature-background-remover.html",
+  "id": "/ms/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

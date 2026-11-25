@@ -2,7 +2,7 @@
   "name": "Loona WebP-PNG-muunnin",
   "short_name": "WebP-PNG-muunnin",
   "description": "Muunna WebP PNG:ksi verkossa ilmaiseksi — häviötön PNG läpinäkyvyydellä editoreille ja suunnittelutyökaluille. Toimii selaimessasi, ei rekisteröitymistä, ei latausta palvelimelle.",
-  "id": "/loona-image-compressor/fi/webp-to-png.html",
+  "id": "/fi/webp-to-png.html",
   "start_url": "./webp-to-png.html",
   "scope": "./webp-to-png.html",
   "display": "standalone",

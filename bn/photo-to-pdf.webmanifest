@@ -2,7 +2,7 @@
   "name": "Loona ছবি থেকে PDF রূপান্তরকারী",
   "short_name": "ছবি থেকে PDF রূপান্তরকারী",
   "description": "ছবিগুলোকে অনলাইনে বিনামূল্যে একটি PDF-এ পরিণত করুন: JPG, PNG বা WebP ছবি যোগ করুন, A4, Letter বা ছবি-অনুযায়ী-মানানসই পৃষ্ঠা বেছে নিন এবং একটি পরিচ্ছন্ন PDF ডাউনলোড করুন। কোনো আপলোড নয়।",
-  "id": "/loona-image-compressor/bn/photo-to-pdf.html",
+  "id": "/bn/photo-to-pdf.html",
   "start_url": "./photo-to-pdf.html",
   "scope": "./photo-to-pdf.html",
   "display": "standalone",

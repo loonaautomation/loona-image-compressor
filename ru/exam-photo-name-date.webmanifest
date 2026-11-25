@@ -2,7 +2,7 @@
   "name": "Loona Фото для экзамена с именем &amp; датой",
   "short_name": "Фото для экзамена с именем &amp; датой",
   "description": "Create an exam photo with your name and date printed at the bottom for free — the board-exam format used in Pakistan and India. Private, no signup needed.",
-  "id": "/loona-image-compressor/exam-photo-name-date.html",
+  "id": "/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

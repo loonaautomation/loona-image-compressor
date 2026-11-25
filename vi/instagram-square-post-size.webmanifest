@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Bài đăng vuông (1",
   "short_name": "Kích thước Bài đăng vuông (1",
   "description": "Tạo bài đăng vuông (1:1) Instagram chính xác 1080×1080 px. Công cụ thay đổi kích thước/cắt ảnh miễn phí trong trình duyệt của bạn, kèm các quy tắc vùng an toàn giúp văn bản và khuôn mặt không bị cắt mất.",
-  "id": "/loona-image-compressor/vi/instagram-square-post-size.html",
+  "id": "/vi/instagram-square-post-size.html",
   "start_url": "./instagram-square-post-size.html",
   "scope": "./instagram-square-post-size.html",
   "display": "standalone",

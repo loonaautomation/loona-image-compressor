@@ -2,7 +2,7 @@
   "name": "Loona Képjavító",
   "short_name": "Képjavító",
   "description": "Javítson egy fotót online ingyen: egykattintásos automatikus javítás, lágy fotók élesítése, finom zajtisztítás és 2x-es vagy 4x-es felskálázás. Őszinte eredmények, regisztráció nélkül, és a fotója soha nem hagyja el az eszközét.",
-  "id": "/loona-image-compressor/hu/image-enhancer.html",
+  "id": "/hu/image-enhancer.html",
   "start_url": "./image-enhancer.html",
   "scope": "./image-enhancer.html",
   "display": "standalone",

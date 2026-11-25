@@ -2,7 +2,7 @@
   "name": "Loona Velikost Pasová fotografie Egypta",
   "short_name": "Velikost Pasová fotografie",
   "description": "Vytvořte Pasová fotografie Egypta v oficiální velikosti 40×60 mm (472×709 px), pozadí: jednobarevné bílé. Bezplatný online tvůrce — oříznutí, stažení a tiskový arch, bez nahrávání.",
-  "id": "/loona-image-compressor/cs/egypt-passport-photo-size.html",
+  "id": "/cs/egypt-passport-photo-size.html",
   "start_url": "./egypt-passport-photo-size.html",
   "scope": "./egypt-passport-photo-size.html",
   "display": "standalone",

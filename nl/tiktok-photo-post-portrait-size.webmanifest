@@ -2,7 +2,7 @@
   "name": "Loona Formaat TikTok Fotopost (portret)",
   "short_name": "Formaat TikTok Fotopost",
   "description": "Maak een TikTok fotopost (portret) op precies 1080×1350 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/tiktok-photo-post-portrait-size.html",
+  "id": "/nl/tiktok-photo-post-portrait-size.html",
   "start_url": "./tiktok-photo-post-portrait-size.html",
   "scope": "./tiktok-photo-post-portrait-size.html",
   "display": "standalone",

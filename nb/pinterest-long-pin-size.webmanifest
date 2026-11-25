@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Lang / infografikk-pin-størrelse",
   "short_name": "Pinterest Lang /",
   "description": "Lag en Pinterest lang / infografikk-pin med nøyaktig 1000×2100 px. Gratis størrelsesendrer/beskjærer i nettleseren din med reglene for sikre soner som stopper beskåret tekst og ansikter.",
-  "id": "/loona-image-compressor/nb/pinterest-long-pin-size.html",
+  "id": "/nb/pinterest-long-pin-size.html",
   "start_url": "./pinterest-long-pin-size.html",
   "scope": "./pinterest-long-pin-size.html",
   "display": "standalone",

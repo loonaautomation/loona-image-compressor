@@ -2,7 +2,7 @@
   "name": "Loona Comprimă JPG la 20 KB online",
   "short_name": "Comprimă JPG la 20 KB online",
   "description": "Comprimă o imagine JPG la 20 KB sau mai puțin, gratuit în browserul tău. Căutarea automată găsește cea mai bună calitate care încape — fără înregistrare, fără încărcare.",
-  "id": "/loona-image-compressor/ro/compress-jpg-to-20kb.html",
+  "id": "/ro/compress-jpg-to-20kb.html",
   "start_url": "./compress-jpg-to-20kb.html",
   "scope": "./compress-jpg-to-20kb.html",
   "display": "standalone",

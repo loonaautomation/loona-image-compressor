@@ -2,7 +2,7 @@
   "name": "Loona ضغط الصورة إلى أي حجم KB",
   "short_name": "ضغط الصورة إلى أي حجم KB",
   "description": "كل أدوات الضغط إلى حجم: 16 حجماً مستهدفاً بصيغ JPG وPNG وWebP، من 10 KB إلى 2 MB. مجاناً، في متصفحك.",
-  "id": "/loona-image-compressor/ar/compress-image-sizes.html",
+  "id": "/ar/compress-image-sizes.html",
   "start_url": "./compress-image-sizes.html",
   "scope": "./compress-image-sizes.html",
   "display": "standalone",

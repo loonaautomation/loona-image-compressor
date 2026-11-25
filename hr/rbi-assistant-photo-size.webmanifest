@@ -2,7 +2,7 @@
   "name": "Loona Veličina RBI Assistant Fotografija",
   "short_name": "Veličina RBI Assistant",
   "description": "Promijenite veličinu svoje RBI Assistant fotografiju na veličinu iz obavijesti (200 × 230 px) i pojas 20–50 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/rbi-assistant-photo-size.html",
+  "id": "/hr/rbi-assistant-photo-size.html",
   "start_url": "./rbi-assistant-photo-size.html",
   "scope": "./rbi-assistant-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JEE Main تصویر کا سائز",
   "short_name": "JEE Main تصویر کا سائز",
   "description": "اپنی JEE Main تصویر کو نوٹیفکیشن سائز (3.5 × 4.5 cm (تقریباً 413 × 531 px، 300 DPI پر)) اور 10–200 KB بینڈ کے مطابق بنائیں۔ مفت، آپ کے براؤزر میں — نہ اپ لوڈ، نہ سائن اپ۔",
-  "id": "/loona-image-compressor/ur/jee-main-photo-size.html",
+  "id": "/ur/jee-main-photo-size.html",
   "start_url": "./jee-main-photo-size.html",
   "scope": "./jee-main-photo-size.html",
   "display": "standalone",

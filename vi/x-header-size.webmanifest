@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ảnh tiêu đề / Banner X (Twitter)",
   "short_name": "Kích thước Ảnh tiêu đề /",
   "description": "Tạo ảnh tiêu đề / banner X (Twitter) chính xác 1500×500 px. Công cụ thay đổi kích thước/cắt ảnh miễn phí trong trình duyệt của bạn, kèm các quy tắc vùng an toàn giúp văn bản và khuôn mặt không bị cắt mất.",
-  "id": "/loona-image-compressor/vi/x-header-size.html",
+  "id": "/vi/x-header-size.html",
   "start_url": "./x-header-size.html",
   "scope": "./x-header-size.html",
   "display": "standalone",

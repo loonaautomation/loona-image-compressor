@@ -2,7 +2,7 @@
   "name": "Loona Размер Снимка за виза / Emirates ID на ОАЕ",
   "short_name": "Размер Снимка за виза /",
   "description": "Направете Снимка за виза / Emirates ID на ОАЕ в официалния размер 40×60 mm (472×709 px), фон обикновен бял. Безплатен онлайн инструмент — изрязване, изтегляне и лист за печат, без качване.",
-  "id": "/loona-image-compressor/bg/uae-visa-photo-size.html",
+  "id": "/bg/uae-visa-photo-size.html",
   "start_url": "./uae-visa-photo-size.html",
   "scope": "./uae-visa-photo-size.html",
   "display": "standalone",

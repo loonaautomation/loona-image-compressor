@@ -2,7 +2,7 @@
   "name": "Loona US Passport Photo Photo Size — 51 × 51 mm",
   "short_name": "US Passport Photo Photo Size — 51 × 51 mm",
   "description": "Make a US Passport Photo at the official size 51×51 mm (600×600 px), plain white background. Free online maker — crop, download and print sheet, no upload.",
-  "id": "/loona-image-compressor/en-us/us-passport-photo-size.html",
+  "id": "/en-us/us-passport-photo-size.html",
   "start_url": "./us-passport-photo-size.html",
   "scope": "./us-passport-photo-size.html",
   "display": "standalone",

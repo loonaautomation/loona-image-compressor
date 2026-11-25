@@ -2,7 +2,7 @@
   "name": "Loona ממיר SVG ל־PNG",
   "short_name": "ממיר SVG ל־PNG",
   "description": "המירו SVG ל־PNG באינטרנט בחינם בכל רוחב — תמונות רסטר חדות מלוגואים וסמלים וקטוריים. ללא הרשמה, ללא העלאה, רץ בדפדפן שלכם.",
-  "id": "/loona-image-compressor/he/svg-to-png.html",
+  "id": "/he/svg-to-png.html",
   "start_url": "./svg-to-png.html",
   "scope": "./svg-to-png.html",
   "display": "standalone",

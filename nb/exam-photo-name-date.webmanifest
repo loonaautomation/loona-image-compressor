@@ -2,7 +2,7 @@
   "name": "Loona Eksamensbilde med navn &amp; dato",
   "short_name": "Eksamensbilde med navn &amp;",
   "description": "Lag et eksamensbilde med navnet og datoen din trykt nederst gratis — styreeksamensformatet som brukes i Pakistan og India. Privat, ingen registrering nødvendig.",
-  "id": "/loona-image-compressor/nb/exam-photo-name-date.html",
+  "id": "/nb/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

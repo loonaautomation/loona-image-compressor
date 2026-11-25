@@ -2,7 +2,7 @@
   "name": "Loona Fransk pas- / ID-foto størrelse",
   "short_name": "Fransk pas- / ID-foto",
   "description": "Lav et Fransk pas- / ID-foto i den officielle størrelse 35×45 mm (413×531 px), ensfarvet lysegrå eller lyseblå baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
-  "id": "/loona-image-compressor/da/france-passport-photo-size.html",
+  "id": "/da/france-passport-photo-size.html",
   "start_url": "./france-passport-photo-size.html",
   "scope": "./france-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Komprimovat obrázek na 30 KB online",
   "short_name": "Komprimovat obrázek na 30 KB",
   "description": "Komprimujte obrázky JPG, PNG a WebP na 30 KB nebo méně, online a zdarma. Automatické hledání kvality a velikosti ve vašem prohlížeči — bez registrace, bez nahrávání.",
-  "id": "/loona-image-compressor/cs/compress-image-to-30kb.html",
+  "id": "/cs/compress-image-to-30kb.html",
   "start_url": "./compress-image-to-30kb.html",
   "scope": "./compress-image-to-30kb.html",
   "display": "standalone",

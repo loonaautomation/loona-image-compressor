@@ -2,7 +2,7 @@
   "name": "Loona Velikosti fotografií a podpisů ke zkouškám",
   "short_name": "Velikosti fotografií a",
   "description": "Velikosti fotografií a podpisů a pásma KB pro 20 velkých indických zkoušek — SSC, IBPS, SBI, UPSC, RRB, JEE, NEET a další, každá s nástrojem pro tvorbu.",
-  "id": "/loona-image-compressor/cs/exam-photo-sizes.html",
+  "id": "/cs/exam-photo-sizes.html",
   "start_url": "./exam-photo-sizes.html",
   "scope": "./exam-photo-sizes.html",
   "display": "standalone",

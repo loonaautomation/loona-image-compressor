@@ -2,7 +2,7 @@
   "name": "Loona ICAO मानक पासपोर्ट फ़ोटो (35×45 mm) साइज़",
   "short_name": "ICAO मानक पासपोर्ट फ़ोटो",
   "description": "आधिकारिक साइज़ 35×45 mm (413×531 px) पर ICAO मानक पासपोर्ट फ़ोटो (35×45 mm) बनाएँ, सादा हल्का बैकग्राउंड बैकग्राउंड. मुफ़्त ऑनलाइन मेकर — क्रॉप, डाउनलोड और प्रिंट शीट, बिना अपलोड.",
-  "id": "/loona-image-compressor/hi/icao-passport-photo-size.html",
+  "id": "/hi/icao-passport-photo-size.html",
   "start_url": "./icao-passport-photo-size.html",
   "scope": "./icao-passport-photo-size.html",
   "display": "standalone",

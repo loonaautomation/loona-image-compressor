@@ -2,7 +2,7 @@
   "name": "Loona AFCATの写真サイズ",
   "short_name": "AFCATの写真サイズ",
   "description": "AFCATの写真を告知サイズ（3.5 × 4.5 cm（300 DPIで約413 × 531 px））と10–50 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
-  "id": "/loona-image-compressor/ja/afcat-photo-size.html",
+  "id": "/ja/afcat-photo-size.html",
   "start_url": "./afcat-photo-size.html",
   "scope": "./afcat-photo-size.html",
   "display": "standalone",

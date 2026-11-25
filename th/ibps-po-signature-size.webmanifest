@@ -2,7 +2,7 @@
   "name": "Loona ขนาดลายเซ็นIBPS PO",
   "short_name": "ขนาดลายเซ็นIBPS PO",
   "description": "ปรับขนาดลายเซ็นIBPS POของคุณให้เป็นขนาดตามประกาศ (140 × 60 px) และช่วง 10–20 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/ibps-po-signature-size.html",
+  "id": "/th/ibps-po-signature-size.html",
   "start_url": "./ibps-po-signature-size.html",
   "scope": "./ibps-po-signature-size.html",
   "display": "standalone",

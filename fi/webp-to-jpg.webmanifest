@@ -2,7 +2,7 @@
   "name": "Loona WebP-JPG-muunnin",
   "short_name": "WebP-JPG-muunnin",
   "description": "Muunna WebP JPG:ksi verkossa ilmaiseksi, jotta kuvasi avautuvat jokaisessa sovelluksessa, lomakkeessa ja vanhemmassa laitteessa. Selainpohjainen — ei rekisteröitymistä, ei latausta palvelimelle, ei vesileimaa.",
-  "id": "/loona-image-compressor/fi/webp-to-jpg.html",
+  "id": "/fi/webp-to-jpg.html",
   "start_url": "./webp-to-jpg.html",
   "scope": "./webp-to-jpg.html",
   "display": "standalone",

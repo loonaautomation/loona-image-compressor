@@ -2,7 +2,7 @@
   "name": "Loona Размер Снимка за виза за Колумбия",
   "short_name": "Размер Снимка за виза за",
   "description": "Направете Снимка за виза за Колумбия в официалния размер 30×40 mm (354×472 px), фон обикновен бял. Безплатен онлайн инструмент — изрязване, изтегляне и лист за печат, без качване.",
-  "id": "/loona-image-compressor/bg/colombia-visa-photo-size.html",
+  "id": "/bg/colombia-visa-photo-size.html",
   "start_url": "./colombia-visa-photo-size.html",
   "scope": "./colombia-visa-photo-size.html",
   "display": "standalone",

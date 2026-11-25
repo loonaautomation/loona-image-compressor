@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία SBI PO",
   "short_name": "Φωτογραφία SBI PO",
   "description": "Αλλάξτε το μέγεθος της φωτογραφία SBI PO στο μέγεθος της προκήρυξης (200 × 230 px) και στη ζώνη 20–50 KB. Δωρεάν, στο πρόγραμμα περιήγησής σας — χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/sbi-po-photo-size.html",
+  "id": "/el/sbi-po-photo-size.html",
   "start_url": "./sbi-po-photo-size.html",
   "scope": "./sbi-po-photo-size.html",
   "display": "standalone",

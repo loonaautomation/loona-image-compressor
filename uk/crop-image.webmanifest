@@ -2,7 +2,7 @@
   "name": "Loona Обрізати зображення онлайн безкоштовно",
   "short_name": "Обрізати зображення онлайн",
   "description": "Обрізайте зображення онлайн безкоштовно з готовими співвідношеннями — 1:1, 4:3, 16:9 і паспортні 35×45 — плюс поворот і віддзеркалення. Завантажуйте точне обрізання в повній роздільній здатності.",
-  "id": "/loona-image-compressor/uk/crop-image.html",
+  "id": "/uk/crop-image.html",
   "start_url": "./crop-image.html",
   "scope": "./crop-image.html",
   "display": "standalone",

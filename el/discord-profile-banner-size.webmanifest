@@ -2,7 +2,7 @@
   "name": "Loona Banner Προφίλ Discord",
   "short_name": "Banner Προφίλ Discord",
   "description": "Δημιουργήστε ένα banner προφίλ Discord σε ακριβώς 600×180 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/discord-profile-banner-size.html",
+  "id": "/el/discord-profile-banner-size.html",
   "start_url": "./discord-profile-banner-size.html",
   "scope": "./discord-profile-banner-size.html",
   "display": "standalone",

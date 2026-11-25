@@ -2,7 +2,7 @@
   "name": "Loona कंट्रास्ट चेकर",
   "short_name": "कंट्रास्ट चेकर",
   "description": "टेक्स्ट और बैकग्राउंड रंगों को WCAG के विरुद्ध जाँचें: सामान्य और बड़े टेक्स्ट के लिए AA और AAA पास/फ़ेल के साथ तुरंत कंट्रास्ट अनुपात, साथ में लाइव प्रीव्यू। मुफ़्त, कोई साइनअप नहीं।",
-  "id": "/loona-image-compressor/hi/contrast-checker.html",
+  "id": "/hi/contrast-checker.html",
   "start_url": "./contrast-checker.html",
   "scope": "./contrast-checker.html",
   "display": "standalone",

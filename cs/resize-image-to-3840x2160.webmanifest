@@ -2,7 +2,7 @@
   "name": "Loona Změnit velikost obrázku na 3840 × 2160 px online",
   "short_name": "Změnit velikost obrázku na",
   "description": "Změňte velikost libovolného obrázku přesně na 3840×2160 px — Tapeta / snímek videa v rozlišení 4K UHD. Zdarma ve vašem prohlížeči s ovládáním ořezu; bez nahrávání a bez registrace.",
-  "id": "/loona-image-compressor/cs/resize-image-to-3840x2160.html",
+  "id": "/cs/resize-image-to-3840x2160.html",
   "start_url": "./resize-image-to-3840x2160.html",
   "scope": "./resize-image-to-3840x2160.html",
   "display": "standalone",

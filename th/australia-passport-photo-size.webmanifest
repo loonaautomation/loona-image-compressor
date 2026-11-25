@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายหนังสือเดินทางออสเตรเลีย",
   "short_name": "ขนาดรูปถ่ายหนังสือเดินทางออสเต",
   "description": "ทำรูปถ่ายหนังสือเดินทางออสเตรเลียที่ขนาดอย่างเป็นทางการ 35×45 mm (413×531 px) พื้นหลังขาวเรียบหรือเทาอ่อน เครื่องทำรูปออนไลน์ฟรี — ครอบตัด ดาวน์โหลด และแผ่นพิมพ์ ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/australia-passport-photo-size.html",
+  "id": "/th/australia-passport-photo-size.html",
   "start_url": "./australia-passport-photo-size.html",
   "scope": "./australia-passport-photo-size.html",
   "display": "standalone",

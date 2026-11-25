@@ -2,7 +2,7 @@
   "name": "Loona Muuta kuvan koko kokoon 200 × 230 px verkossa",
   "short_name": "Muuta kuvan koko kokoon 200 ×",
   "description": "Muuta minkä tahansa kuvan koko tarkalleen kokoon 200×230 px — SSC/IBPS/SBI-koekuvastandardi Intiassa. Ilmaiseksi selaimessasi rajausohjauksella; ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/resize-image-to-200x230.html",
+  "id": "/fi/resize-image-to-200x230.html",
   "start_url": "./resize-image-to-200x230.html",
   "scope": "./resize-image-to-200x230.html",
   "display": "standalone",

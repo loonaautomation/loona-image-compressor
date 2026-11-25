@@ -2,7 +2,7 @@
   "name": "Loona Redimensionează imaginea la 1500 × 500",
   "short_name": "Redimensionează imaginea la",
   "description": "Redimensionează orice imagine la exact 1500 × 500 pixeli (X (Twitter) profile headers and wide banners) gratuit. Acoperă, conține sau întinde, JPG sau PNG, descarcă instantaneu — fără înregistrare, nimic încărcat.",
-  "id": "/loona-image-compressor/ro/resize-image-to-1500x500.html",
+  "id": "/ro/resize-image-to-1500x500.html",
   "start_url": "./resize-image-to-1500x500.html",
   "scope": "./resize-image-to-1500x500.html",
   "display": "standalone",

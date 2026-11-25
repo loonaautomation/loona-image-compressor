@@ -2,7 +2,7 @@
   "name": "Loona Compress WebP to 30 KB",
   "short_name": "Compress WebP to 30 KB",
   "description": "Compress a WebP image to 30 KB or under, free in your browser. Automatic search finds the best quality that fits — no signup, no upload.",
-  "id": "/loona-image-compressor/en-us/compress-webp-to-30kb.html",
+  "id": "/en-us/compress-webp-to-30kb.html",
   "start_url": "./compress-webp-to-30kb.html",
   "scope": "./compress-webp-to-30kb.html",
   "display": "standalone",

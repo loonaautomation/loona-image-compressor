@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Szabványos pin méret",
   "short_name": "Pinterest Szabványos pin méret",
   "description": "Készítsen Pinterest szabványos pin képet pontosan 1000×1500 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/pinterest-pin-size.html",
+  "id": "/hu/pinterest-pin-size.html",
   "start_url": "./pinterest-pin-size.html",
   "scope": "./pinterest-pin-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Komprimér PNG til 30 KB online",
   "short_name": "Komprimér PNG til 30 KB online",
   "description": "Komprimér et PNG-billede til 30 KB eller derunder, gratis i din browser. Automatisk søgning finder den bedste kvalitet, der kan være der — ingen tilmelding, ingen upload.",
-  "id": "/loona-image-compressor/da/compress-png-to-30kb.html",
+  "id": "/da/compress-png-to-30kb.html",
   "start_url": "./compress-png-to-30kb.html",
   "scope": "./compress-png-to-30kb.html",
   "display": "standalone",

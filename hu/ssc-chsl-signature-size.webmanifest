@@ -2,7 +2,7 @@
   "name": "Loona SSC CHSL Aláírás méret",
   "short_name": "SSC CHSL Aláírás méret",
   "description": "Méretezze át a SSC CHSL aláírás fájlját a kiírás szerinti méretre (140 × 60 px) és a 10–20 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/ssc-chsl-signature-size.html",
+  "id": "/hu/ssc-chsl-signature-size.html",
   "start_url": "./ssc-chsl-signature-size.html",
   "scope": "./ssc-chsl-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Изменить размер изображения до 2480 × 3508 px онлайн",
   "short_name": "Изменить размер изображения до 2480 × 3508 px онлайн",
   "description": "Resize any image to exactly 2480×3508 px — A4 at 300 DPI. Free in your browser with crop control; no upload, no signup.",
-  "id": "/loona-image-compressor/resize-image-to-2480x3508.html",
+  "id": "/resize-image-to-2480x3508.html",
   "start_url": "./resize-image-to-2480x3508.html",
   "scope": "./resize-image-to-2480x3508.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας WebP σε JPG",
   "short_name": "Μετατροπέας WebP σε JPG",
   "description": "Μετατρέψτε WebP σε JPG διαδικτυακά δωρεάν ώστε οι εικόνες σας να ανοίγουν σε κάθε εφαρμογή, φόρμα και παλαιότερη συσκευή. Βασισμένο σε πρόγραμμα περιήγησης — χωρίς εγγραφή, χωρίς μεταφόρτωση, χωρίς υδατογράφημα.",
-  "id": "/loona-image-compressor/el/webp-to-jpg.html",
+  "id": "/el/webp-to-jpg.html",
   "start_url": "./webp-to-jpg.html",
   "scope": "./webp-to-jpg.html",
   "display": "standalone",

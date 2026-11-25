@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Ötletpin / történet méret",
   "short_name": "Pinterest Ötletpin / történet",
   "description": "Készítsen Pinterest ötletpin / történet képet pontosan 1080×1920 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/pinterest-idea-pin-size.html",
+  "id": "/hu/pinterest-idea-pin-size.html",
   "start_url": "./pinterest-idea-pin-size.html",
   "scope": "./pinterest-idea-pin-size.html",
   "display": "standalone",

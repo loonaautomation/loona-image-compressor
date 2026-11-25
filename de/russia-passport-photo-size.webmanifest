@@ -2,7 +2,7 @@
   "name": "Loona Russland-Pass-/Visumfoto Größe",
   "short_name": "Russland-Pass-/Visumfoto Größe",
   "description": "Erstellen Sie ein Russland-Pass-/Visumfoto in der offiziellen Größe 35×45 mm (413×531 px), Hintergrund einfarbig weiß oder hell. Kostenloser Online-Ersteller — zuschneiden, herunterladen und Druckbogen, ohne Upload.",
-  "id": "/loona-image-compressor/de/russia-passport-photo-size.html",
+  "id": "/de/russia-passport-photo-size.html",
   "start_url": "./russia-passport-photo-size.html",
   "scope": "./russia-passport-photo-size.html",
   "display": "standalone",

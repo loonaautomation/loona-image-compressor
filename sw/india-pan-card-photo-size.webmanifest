@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Kadi ya PAN ya India",
   "short_name": "Ukubwa wa Picha ya Kadi ya",
   "description": "Tengeneza Picha ya Kadi ya PAN ya India katika ukubwa rasmi wa milimita 25×35 (px 295×413), mandharinyuma ya nyeupe tambarare. Kitengenezaji bure cha mtandaoni — kata, pakua na uchapishe karatasi, bila kupakia.",
-  "id": "/loona-image-compressor/sw/india-pan-card-photo-size.html",
+  "id": "/sw/india-pan-card-photo-size.html",
   "start_url": "./india-pan-card-photo-size.html",
   "scope": "./india-pan-card-photo-size.html",
   "display": "standalone",

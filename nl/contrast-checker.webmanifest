@@ -2,7 +2,7 @@
   "name": "Loona Contrastchecker",
   "short_name": "Contrastchecker",
   "description": "Controleer tekst- en achtergrondkleuren tegen WCAG: directe contrastverhouding met AA- en AAA-slagen/falen voor normale en grote tekst, plus een live voorbeeld. Gratis, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/contrast-checker.html",
+  "id": "/nl/contrast-checker.html",
   "start_url": "./contrast-checker.html",
   "scope": "./contrast-checker.html",
   "display": "standalone",

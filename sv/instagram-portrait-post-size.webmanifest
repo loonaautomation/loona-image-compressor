@@ -2,7 +2,7 @@
   "name": "Loona Instagram Stående inlägg (4",
   "short_name": "Instagram Stående inlägg (4",
   "description": "Skapa en Instagram stående inlägg (4:5) på exakt 1080×1350 px. Gratis storleksändrare/beskärare i din webbläsare med säker-zon-reglerna som stoppar beskuren text och ansikten.",
-  "id": "/loona-image-compressor/sv/instagram-portrait-post-size.html",
+  "id": "/sv/instagram-portrait-post-size.html",
   "start_url": "./instagram-portrait-post-size.html",
   "scope": "./instagram-portrait-post-size.html",
   "display": "standalone",

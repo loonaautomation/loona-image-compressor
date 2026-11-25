@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Memes",
   "short_name": "Gerador de Memes",
   "description": "Transforme qualquer fotografia num meme clássico com texto forte no topo e na base — gerador de memes online gratuito, com pré-visualização ao vivo, opções de fundo liso e transferência em PNG. Sem registo, e a sua imagem nunca sai do dispositivo.",
-  "id": "/loona-image-compressor/pt/meme-generator.html",
+  "id": "/pt/meme-generator.html",
   "start_url": "./meme-generator.html",
   "scope": "./meme-generator.html",
   "display": "standalone",

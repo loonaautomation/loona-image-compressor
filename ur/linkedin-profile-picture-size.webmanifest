@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn پروفائل تصویر کا سائز",
   "short_name": "LinkedIn پروفائل تصویر کا سائز",
   "description": "LinkedIn پروفائل تصویر بالکل 400×400 px پر بنائیں۔ آپ کے براؤزر میں مفت ری سائزر/کراپر، محفوظ زون کے قواعد کے ساتھ جو کراپ شدہ متن اور چہروں کو روکتے ہیں۔",
-  "id": "/loona-image-compressor/ur/linkedin-profile-picture-size.html",
+  "id": "/ur/linkedin-profile-picture-size.html",
   "start_url": "./linkedin-profile-picture-size.html",
   "scope": "./linkedin-profile-picture-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona بھارتی PAN کارڈ تصویر کی تصویر کا سائز",
   "short_name": "بھارتی PAN کارڈ تصویر کی",
   "description": "سرکاری سائز 25×35 mm (295×413 px) پر بھارتی PAN کارڈ تصویر بنائیں، سادہ سفید پس منظر کے ساتھ۔ مفت آن لائن میکر — کراپ، ڈاؤن لوڈ اور پرنٹ شیٹ، بغیر اپ لوڈ۔",
-  "id": "/loona-image-compressor/ur/india-pan-card-photo-size.html",
+  "id": "/ur/india-pan-card-photo-size.html",
   "start_url": "./india-pan-card-photo-size.html",
   "scope": "./india-pan-card-photo-size.html",
   "display": "standalone",

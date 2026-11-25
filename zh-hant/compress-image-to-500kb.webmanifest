@@ -2,7 +2,7 @@
   "name": "Loona 線上將圖片壓縮到 500 KB",
   "short_name": "線上將圖片壓縮到 500 KB",
   "description": "線上免費將 JPG、PNG 和 WebP 圖片壓縮到 500 KB 或更小。在您的瀏覽器中自動搜尋質量和大小 — 無需註冊，無需上傳。",
-  "id": "/loona-image-compressor/zh-hant/compress-image-to-500kb.html",
+  "id": "/zh-hant/compress-image-to-500kb.html",
   "start_url": "./compress-image-to-500kb.html",
   "scope": "./compress-image-to-500kb.html",
   "display": "standalone",

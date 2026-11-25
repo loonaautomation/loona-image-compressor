@@ -2,7 +2,7 @@
   "name": "Loona JPG",
   "short_name": "JPG",
   "description": "Konvertáljon JPG fájlt ICO formátumba online, ingyen, a böngészőjében. Valódi konvertálás a saját eszközén — feltöltés, regisztráció és vízjelek nélkül.",
-  "id": "/loona-image-compressor/hu/jpg-to-ico.html",
+  "id": "/hu/jpg-to-ico.html",
   "start_url": "./jpg-to-ico.html",
   "scope": "./jpg-to-ico.html",
   "display": "standalone",

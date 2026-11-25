@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Avatar ya Mtumiaji wa Discord",
   "short_name": "Ukubwa wa Avatar ya Mtumiaji",
   "description": "Tengeneza avatar ya mtumiaji ya Discord katika px 800×800 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/discord-avatar-size.html",
+  "id": "/sw/discord-avatar-size.html",
   "start_url": "./discord-avatar-size.html",
   "scope": "./discord-avatar-size.html",
   "display": "standalone",

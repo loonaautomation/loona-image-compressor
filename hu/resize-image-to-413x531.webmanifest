@@ -2,7 +2,7 @@
   "name": "Loona Kép átméretezése 413 × 531 px méretre online",
   "short_name": "Kép átméretezése 413 × 531 px",
   "description": "Méretezzen át bármely képet pontosan 413×531 px méretre — 35 × 45 mm 300 DPI mellett — az ICAO/schengeni nyomtatási méret pixelekben. Ingyen, a böngészőjében, vágási vezérléssel; feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/resize-image-to-413x531.html",
+  "id": "/hu/resize-image-to-413x531.html",
   "start_url": "./resize-image-to-413x531.html",
   "scope": "./resize-image-to-413x531.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona RRB NTPC (Railways) Foto størrelse",
   "short_name": "RRB NTPC (Railways) Foto",
   "description": "Tilpas størrelsen på dit RRB NTPC (Railways) foto til meddelelsens størrelse (320 × 240 px) og båndet 30–70 KB. Gratis, i din browser — ingen upload, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/rrb-ntpc-photo-size.html",
+  "id": "/da/rrb-ntpc-photo-size.html",
   "start_url": "./rrb-ntpc-photo-size.html",
   "scope": "./rrb-ntpc-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Afbeelding verkleinen/vergroten naar 295 × 413 px online",
   "short_name": "Afbeelding",
   "description": "Pas elke afbeelding aan naar precies 295×413 px — 25 × 35 mm bij 300 DPI — formaat PAN-kaart India. Gratis in je browser met bijsnijdcontrole; geen upload, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/resize-image-to-295x413.html",
+  "id": "/nl/resize-image-to-295x413.html",
   "start_url": "./resize-image-to-295x413.html",
   "scope": "./resize-image-to-295x413.html",
   "display": "standalone",

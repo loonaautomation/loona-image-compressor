@@ -2,7 +2,7 @@
   "name": "Loona Afbeelding aanpassen naar 1080 × 1350",
   "short_name": "Afbeelding aanpassen naar",
   "description": "Pas elke afbeelding gratis aan tot exact 1080 × 1350 pixels (Instagram portrait posts in the 4:5 ratio). Dekken, behouden of uitrekken, JPG of PNG, direct downloaden — geen aanmelding, niets geüpload.",
-  "id": "/loona-image-compressor/nl/resize-image-to-1080x1350.html",
+  "id": "/nl/resize-image-to-1080x1350.html",
   "start_url": "./resize-image-to-1080x1350.html",
   "scope": "./resize-image-to-1080x1350.html",
   "display": "standalone",

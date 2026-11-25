@@ -2,7 +2,7 @@
   "name": "Loona Rozmiary zdjęć i podpisów egzaminacyjnych",
   "short_name": "Rozmiary zdjęć i podpisów",
   "description": "Rozmiary zdjęć i podpisów oraz przedziały KB dla 20 dużych egzaminów indyjskich — SSC, IBPS, SBI, UPSC, RRB, JEE, NEET i więcej, każdy z narzędziem kreatora.",
-  "id": "/loona-image-compressor/pl/exam-photo-sizes.html",
+  "id": "/pl/exam-photo-sizes.html",
   "start_url": "./exam-photo-sizes.html",
   "scope": "./exam-photo-sizes.html",
   "display": "standalone",

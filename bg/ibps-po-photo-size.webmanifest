@@ -2,7 +2,7 @@
   "name": "Loona Размер на Снимка за IBPS PO",
   "short_name": "Размер на Снимка за IBPS PO",
   "description": "Преоразмерете своя снимка за IBPS PO до размера от уведомлението (200 × 230 px) и диапазона 20–50 KB. Безплатно, във вашия браузър — без качване, без регистрация.",
-  "id": "/loona-image-compressor/bg/ibps-po-photo-size.html",
+  "id": "/bg/ibps-po-photo-size.html",
   "start_url": "./ibps-po-photo-size.html",
   "scope": "./ibps-po-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Fotoformaat Pasfoto Duitsland (biometrisch)",
   "short_name": "Fotoformaat Pasfoto Duitsland",
   "description": "Maak een Pasfoto Duitsland (biometrisch) op het officiële formaat 35×45 mm (413×531 px), achtergrond: lichtgrijs, effen. Gratis online maker — bijsnijden, downloaden en printvel, geen upload.",
-  "id": "/loona-image-compressor/nl/germany-passport-photo-size.html",
+  "id": "/nl/germany-passport-photo-size.html",
   "start_url": "./germany-passport-photo-size.html",
   "scope": "./germany-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Компресиране на JPG до 40 KB онлайн",
   "short_name": "Компресиране на JPG до 40 KB",
   "description": "Компресирайте изображение JPG до 40 KB или по-малко, безплатно във вашия браузър. Автоматичното търсене намира най-доброто качество, което се побира — без регистрация, без качване.",
-  "id": "/loona-image-compressor/bg/compress-jpg-to-40kb.html",
+  "id": "/bg/compress-jpg-to-40kb.html",
   "start_url": "./compress-jpg-to-40kb.html",
   "scope": "./compress-jpg-to-40kb.html",
   "display": "standalone",

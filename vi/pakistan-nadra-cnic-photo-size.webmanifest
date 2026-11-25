@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ảnh CNIC NADRA Pakistan",
   "short_name": "Kích thước Ảnh CNIC NADRA",
   "description": "Tạo Ảnh CNIC NADRA Pakistan ở kích thước chính thức 51×51 mm (600×600 px), nền trắng trơn. Công cụ tạo ảnh trực tuyến miễn phí — cắt, tải xuống và in tờ in, không tải lên.",
-  "id": "/loona-image-compressor/vi/pakistan-nadra-cnic-photo-size.html",
+  "id": "/vi/pakistan-nadra-cnic-photo-size.html",
   "start_url": "./pakistan-nadra-cnic-photo-size.html",
   "scope": "./pakistan-nadra-cnic-photo-size.html",
   "display": "standalone",

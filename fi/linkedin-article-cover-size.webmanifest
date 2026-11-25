@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Artikkelin / uutiskirjeen kansi koko",
   "short_name": "LinkedIn Artikkelin /",
   "description": "Tee LinkedIn artikkelin / uutiskirjeen kansi tarkalleen kokoon 1200×644 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/linkedin-article-cover-size.html",
+  "id": "/fi/linkedin-article-cover-size.html",
   "start_url": "./linkedin-article-cover-size.html",
   "scope": "./linkedin-article-cover-size.html",
   "display": "standalone",

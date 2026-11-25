@@ -2,7 +2,7 @@
   "name": "Loona Εικόνα Ανάρτησης LinkedIn",
   "short_name": "Εικόνα Ανάρτησης LinkedIn",
   "description": "Δημιουργήστε ένα εικόνα ανάρτησης LinkedIn σε ακριβώς 1200×627 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/linkedin-post-image-size.html",
+  "id": "/el/linkedin-post-image-size.html",
   "start_url": "./linkedin-post-image-size.html",
   "scope": "./linkedin-post-image-size.html",
   "display": "standalone",

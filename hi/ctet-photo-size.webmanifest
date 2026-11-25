@@ -2,7 +2,7 @@
   "name": "Loona CTET फ़ोटो साइज़",
   "short_name": "CTET फ़ोटो साइज़",
   "description": "अपनी CTET फ़ोटो को अधिसूचना साइज़ (3.5 × 4.5 cm (300 DPI पर लगभग 413 × 531 px)) और 10–100 KB बैंड में बदलें. मुफ़्त, आपके ब्राउज़र में — न अपलोड, न साइन-अप.",
-  "id": "/loona-image-compressor/hi/ctet-photo-size.html",
+  "id": "/hi/ctet-photo-size.html",
   "start_url": "./ctet-photo-size.html",
   "scope": "./ctet-photo-size.html",
   "display": "standalone",

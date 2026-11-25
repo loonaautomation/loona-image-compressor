@@ -2,7 +2,7 @@
   "name": "Loona Veličina Fotografija za putovnicu Japana",
   "short_name": "Veličina Fotografija za",
   "description": "Izradite Fotografija za putovnicu Japana u službenoj veličini 35×45 mm (413×531 px), pozadina jednobojna bijela ili svijetla, bez uzoraka. Besplatni mrežni izrađivač — izrežite, preuzmite i ispišite list, bez prijenosa.",
-  "id": "/loona-image-compressor/hr/japan-passport-photo-size.html",
+  "id": "/hr/japan-passport-photo-size.html",
   "start_url": "./japan-passport-photo-size.html",
   "scope": "./japan-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do paszportu Iranu",
   "short_name": "Rozmiar Zdjęcie do paszportu",
   "description": "Utwórz Zdjęcie do paszportu Iranu w oficjalnym rozmiarze 30×40 mm (354×472 px), tło: gładkie białe lub jasne. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/iran-passport-photo-size.html",
+  "id": "/pl/iran-passport-photo-size.html",
   "start_url": "./iran-passport-photo-size.html",
   "scope": "./iran-passport-photo-size.html",
   "display": "standalone",

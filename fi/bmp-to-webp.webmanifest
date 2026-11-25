@@ -2,7 +2,7 @@
   "name": "Loona BMP",
   "short_name": "BMP",
   "description": "Muunna BMP muotoon WEBP verkossa, ilmaiseksi, selaimessasi. Aito muunnos laitteellasi — ilman palvelimelle lataamista, ilman rekisteröitymistä ja ilman vesileimoja.",
-  "id": "/loona-image-compressor/fi/bmp-to-webp.html",
+  "id": "/fi/bmp-to-webp.html",
   "start_url": "./bmp-to-webp.html",
   "scope": "./bmp-to-webp.html",
   "display": "standalone",

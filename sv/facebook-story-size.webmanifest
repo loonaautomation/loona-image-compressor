@@ -2,7 +2,7 @@
   "name": "Loona Facebook Story Storlek",
   "short_name": "Facebook Story Storlek",
   "description": "Skapa en Facebook story på exakt 1080×1920 px. Gratis storleksändrare/beskärare i din webbläsare med säker-zon-reglerna som stoppar beskuren text och ansikten.",
-  "id": "/loona-image-compressor/sv/facebook-story-size.html",
+  "id": "/sv/facebook-story-size.html",
   "start_url": "./facebook-story-size.html",
   "scope": "./facebook-story-size.html",
   "display": "standalone",

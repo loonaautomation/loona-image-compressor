@@ -2,7 +2,7 @@
   "name": "Loona SVG에서 PNG로 변환기",
   "short_name": "SVG에서 PNG로 변환기",
   "description": "SVG를 온라인에서 무료로 모든 너비의 PNG로 변환하세요 — 벡터 로고와 아이콘에서 선명한 래스터 이미지. 회원가입 없음, 업로드 없음, 브라우저에서 실행돼요.",
-  "id": "/loona-image-compressor/ko/svg-to-png.html",
+  "id": "/ko/svg-to-png.html",
   "start_url": "./svg-to-png.html",
   "scope": "./svg-to-png.html",
   "display": "standalone",

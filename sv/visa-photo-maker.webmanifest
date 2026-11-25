@@ -2,7 +2,7 @@
   "name": "Loona Visumfotoskapare",
   "short_name": "Visumfotoskapare",
   "description": "Gör visumfoton online gratis: USA 2x2 tum, Storbritannien och Schengen 35x45 mm, Kina 33x48 mm vid 300 DPI. Ingen registrering, ingen vattenstämpel, helt privat verktyg.",
-  "id": "/loona-image-compressor/sv/visa-photo-maker.html",
+  "id": "/sv/visa-photo-maker.html",
   "start_url": "./visa-photo-maker.html",
   "scope": "./visa-photo-maker.html",
   "display": "standalone",

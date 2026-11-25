@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie CTET",
   "short_name": "Dimensiune Fotografie CTET",
   "description": "Redimensionează fotografie pentru CTET la dimensiunea din notificare (3,5 × 4,5 cm (aproximativ 413 × 531 px la 300 DPI)) și intervalul 10–100 KB. Gratuit, în browserul tău — fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/ctet-photo-size.html",
+  "id": "/ro/ctet-photo-size.html",
   "start_url": "./ctet-photo-size.html",
   "scope": "./ctet-photo-size.html",
   "display": "standalone",

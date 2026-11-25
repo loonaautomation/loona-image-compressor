@@ -2,7 +2,7 @@
   "name": "Loona Kanadan viisumikuva (digitaalinen) koko",
   "short_name": "Kanadan viisumikuva",
   "description": "Tee Kanadan viisumikuva (digitaalinen) virallisessa koossa 35×45 mm (420×540 px), taustana tavallinen valkoinen tai vaaleanvärinen. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/canada-visa-photo-size.html",
+  "id": "/fi/canada-visa-photo-size.html",
   "start_url": "./canada-visa-photo-size.html",
   "scope": "./canada-visa-photo-size.html",
   "display": "standalone",

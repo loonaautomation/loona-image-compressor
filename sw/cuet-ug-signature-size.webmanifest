@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Saini wa CUET UG",
   "short_name": "Ukubwa wa Saini wa CUET UG",
   "description": "Badilisha ukubwa wa saini yako ya CUET UG hadi ukubwa wa ilani (kisanduku kilichochanganuliwa, uwiano takriban 7:2) na kiwango cha KB 4–30. Bure, kwenye kivinjari chako — bila kupakia, bila kujisajili.",
-  "id": "/loona-image-compressor/sw/cuet-ug-signature-size.html",
+  "id": "/sw/cuet-ug-signature-size.html",
   "start_url": "./cuet-ug-signature-size.html",
   "scope": "./cuet-ug-signature-size.html",
   "display": "standalone",

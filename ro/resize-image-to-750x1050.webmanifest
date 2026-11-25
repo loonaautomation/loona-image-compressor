@@ -2,7 +2,7 @@
   "name": "Loona Redimensionează imaginea la 750 × 1050 px online",
   "short_name": "Redimensionează imaginea la",
   "description": "Redimensionează orice imagine la exact 750×1050 px — Dimensiune portofel — 2,5 × 3,5 inch la 300 DPI. Gratuit în browserul tău, cu control al decupării; fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/resize-image-to-750x1050.html",
+  "id": "/ro/resize-image-to-750x1050.html",
   "start_url": "./resize-image-to-750x1050.html",
   "scope": "./resize-image-to-750x1050.html",
   "display": "standalone",

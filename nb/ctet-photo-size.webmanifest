@@ -2,7 +2,7 @@
   "name": "Loona CTET Fotografi-størrelse",
   "short_name": "CTET Fotografi-størrelse",
   "description": "Endre størrelsen på CTET bilde til varslingsstørrelsen (3.5 × 4.5 cm (omtrent 413 × 531 px ved 300 DPI)) og båndet på 10–100 KB. Gratis, i nettleseren din — ingen opplasting, ingen registrering.",
-  "id": "/loona-image-compressor/nb/ctet-photo-size.html",
+  "id": "/nb/ctet-photo-size.html",
   "start_url": "./ctet-photo-size.html",
   "scope": "./ctet-photo-size.html",
   "display": "standalone",

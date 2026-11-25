@@ -2,7 +2,7 @@
   "name": "Loona حجم دبوس طويل / إنفوجرافيك Pinterest",
   "short_name": "حجم دبوس طويل / إنفوجرافيك",
   "description": "اصنع دبوس طويل / إنفوجرافيك Pinterest بمقاس 1000×2100 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/pinterest-long-pin-size.html",
+  "id": "/ar/pinterest-long-pin-size.html",
   "start_url": "./pinterest-long-pin-size.html",
   "scope": "./pinterest-long-pin-size.html",
   "display": "standalone",

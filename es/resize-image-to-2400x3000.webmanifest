@@ -2,7 +2,7 @@
   "name": "Loona Redimensionar imagen a 2400 × 3000 px en",
   "short_name": "Redimensionar imagen a 2400 ×",
   "description": "Redimensiona cualquier imagen exactamente a 2400×3000 px: Impresión de 8 × 10 pulgadas a 300 DPI. Gratis en tu navegador, con control de recorte; sin subidas y sin registro.",
-  "id": "/loona-image-compressor/es/resize-image-to-2400x3000.html",
+  "id": "/es/resize-image-to-2400x3000.html",
   "start_url": "./resize-image-to-2400x3000.html",
   "scope": "./resize-image-to-2400x3000.html",
   "display": "standalone",

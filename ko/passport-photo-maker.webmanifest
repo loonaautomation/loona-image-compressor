@@ -2,7 +2,7 @@
   "name": "Loona 여권 크기 사진 제작기",
   "short_name": "여권 크기 사진 제작기",
   "description": "여권 크기 사진을 온라인에서 무료로 만드세요: 모든 사진을 35×45 mm나 2×2인치로 자르세요, 인쇄 준비가 된 300 DPI에서. 회원가입 없음, 워터마크 없음, 완전히 비공개.",
-  "id": "/loona-image-compressor/ko/passport-photo-maker.html",
+  "id": "/ko/passport-photo-maker.html",
   "start_url": "./passport-photo-maker.html",
   "scope": "./passport-photo-maker.html",
   "display": "standalone",

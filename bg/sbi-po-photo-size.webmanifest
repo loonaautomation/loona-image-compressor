@@ -2,7 +2,7 @@
   "name": "Loona Размер на Снимка за SBI PO",
   "short_name": "Размер на Снимка за SBI PO",
   "description": "Преоразмерете своя снимка за SBI PO до размера от уведомлението (200 × 230 px) и диапазона 20–50 KB. Безплатно, във вашия браузър — без качване, без регистрация.",
-  "id": "/loona-image-compressor/bg/sbi-po-photo-size.html",
+  "id": "/bg/sbi-po-photo-size.html",
   "start_url": "./sbi-po-photo-size.html",
   "scope": "./sbi-po-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Indiai PAN-kártya fotó méret",
   "short_name": "Indiai PAN-kártya fotó méret",
   "description": "Készítsen Indiai PAN-kártya fotó fotót a hivatalos 25×35 mm (295×413 px) méretben, sima fehér háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/india-pan-card-photo-size.html",
+  "id": "/hu/india-pan-card-photo-size.html",
   "start_url": "./india-pan-card-photo-size.html",
   "scope": "./india-pan-card-photo-size.html",
   "display": "standalone",

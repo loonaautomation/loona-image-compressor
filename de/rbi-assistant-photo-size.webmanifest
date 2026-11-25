@@ -2,7 +2,7 @@
   "name": "Loona RBI Assistant Foto Größe",
   "short_name": "RBI Assistant Foto Größe",
   "description": "Passen Sie Ihr RBI Assistant-Foto auf die Größe der Bekanntmachung (200 × 230 px) und den Bereich 20–50 KB an. Kostenlos, in Ihrem Browser — ohne Upload, ohne Anmeldung.",
-  "id": "/loona-image-compressor/de/rbi-assistant-photo-size.html",
+  "id": "/de/rbi-assistant-photo-size.html",
   "start_url": "./rbi-assistant-photo-size.html",
   "scope": "./rbi-assistant-photo-size.html",
   "display": "standalone",

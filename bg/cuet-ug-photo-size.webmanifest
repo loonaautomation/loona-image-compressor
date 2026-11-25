@@ -2,7 +2,7 @@
   "name": "Loona Размер на Снимка за CUET UG",
   "short_name": "Размер на Снимка за CUET UG",
   "description": "Преоразмерете своя снимка за CUET UG до размера от уведомлението (3.5 × 4.5 cm (около 413 × 531 px при 300 DPI)) и диапазона 10–200 KB. Безплатно, във вашия браузър — без качване, без регистрация.",
-  "id": "/loona-image-compressor/bg/cuet-ug-photo-size.html",
+  "id": "/bg/cuet-ug-photo-size.html",
   "start_url": "./cuet-ug-photo-size.html",
   "scope": "./cuet-ug-photo-size.html",
   "display": "standalone",

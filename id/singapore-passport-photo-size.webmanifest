@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Paspor Singapura",
   "short_name": "Ukuran Foto Paspor Singapura",
   "description": "Buat Foto Paspor Singapura pada ukuran resmi 35×45 mm (413×531 px), latar belakang putih polos. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/singapore-passport-photo-size.html",
+  "id": "/id/singapore-passport-photo-size.html",
   "start_url": "./singapore-passport-photo-size.html",
   "scope": "./singapore-passport-photo-size.html",
   "display": "standalone",

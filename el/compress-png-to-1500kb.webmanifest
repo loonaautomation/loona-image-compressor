@@ -2,7 +2,7 @@
   "name": "Loona Συμπίεση PNG σε 1500 KB Online",
   "short_name": "Συμπίεση PNG σε 1500 KB Online",
   "description": "Συμπιέστε μια εικόνα PNG σε 1500 KB ή λιγότερο, δωρεάν στο πρόγραμμα περιήγησής σας. Η αυτόματη αναζήτηση βρίσκει την καλύτερη ποιότητα που χωράει — χωρίς εγγραφή, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/compress-png-to-1500kb.html",
+  "id": "/el/compress-png-to-1500kb.html",
   "start_url": "./compress-png-to-1500kb.html",
   "scope": "./compress-png-to-1500kb.html",
   "display": "standalone",

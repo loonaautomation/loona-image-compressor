@@ -2,7 +2,7 @@
   "name": "Loona Afbeeldingsverbeteraar",
   "short_name": "Afbeeldingsverbeteraar",
   "description": "Verbeter een foto gratis online: automatisch verbeteren met één klik, zachte foto's verscherpen, ruis voorzichtig opschonen en 2x of 4x opschalen. Eerlijke resultaten, geen aanmelding, en je foto verlaat je apparaat nooit.",
-  "id": "/loona-image-compressor/nl/image-enhancer.html",
+  "id": "/nl/image-enhancer.html",
   "start_url": "./image-enhancer.html",
   "scope": "./image-enhancer.html",
   "display": "standalone",

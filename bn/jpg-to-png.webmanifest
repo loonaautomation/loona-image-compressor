@@ -2,7 +2,7 @@
   "name": "Loona JPG থেকে PNG রূপান্তরকারী",
   "short_name": "JPG থেকে PNG রূপান্তরকারী",
   "description": "JPG-কে অনলাইনে বিনামূল্যে PNG-তে রূপান্তর করুন — এডিটর, ডিজাইন টুল ও নথির জন্য লসলেস আউটপুট। আপনার ব্রাউজারে চলে, কোনো সাইনআপ নয়, কোনো আপলোড নয়।",
-  "id": "/loona-image-compressor/bn/jpg-to-png.html",
+  "id": "/bn/jpg-to-png.html",
   "start_url": "./jpg-to-png.html",
   "scope": "./jpg-to-png.html",
   "display": "standalone",

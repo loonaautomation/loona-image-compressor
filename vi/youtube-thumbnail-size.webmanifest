@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Hình thu nhỏ video YouTube",
   "short_name": "Kích thước Hình thu nhỏ video",
   "description": "Tạo hình thu nhỏ video YouTube chính xác 1280×720 px. Công cụ thay đổi kích thước/cắt ảnh miễn phí trong trình duyệt của bạn, kèm các quy tắc vùng an toàn giúp văn bản và khuôn mặt không bị cắt mất.",
-  "id": "/loona-image-compressor/vi/youtube-thumbnail-size.html",
+  "id": "/vi/youtube-thumbnail-size.html",
   "start_url": "./youtube-thumbnail-size.html",
   "scope": "./youtube-thumbnail-size.html",
   "display": "standalone",

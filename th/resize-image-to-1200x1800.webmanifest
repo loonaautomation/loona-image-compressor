@@ -2,7 +2,7 @@
   "name": "Loona ปรับขนาดรูปภาพเป็น 1200 × 1800 px ออนไลน์",
   "short_name": "ปรับขนาดรูปภาพเป็น 1200 ×",
   "description": "ปรับขนาดรูปภาพใดก็ได้ให้เป็น 1200×1800 px พอดี — ภาพพิมพ์รูปถ่าย 4 × 6 นิ้วที่ 300 DPI ฟรีในเบราว์เซอร์ของคุณพร้อมการควบคุมการครอบตัด ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/resize-image-to-1200x1800.html",
+  "id": "/th/resize-image-to-1200x1800.html",
   "start_url": "./resize-image-to-1200x1800.html",
   "scope": "./resize-image-to-1200x1800.html",
   "display": "standalone",

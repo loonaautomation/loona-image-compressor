@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač SVG u PNG",
   "short_name": "Pretvarač SVG u PNG",
   "description": "Pretvorite SVG u PNG na mreži besplatno u bilo kojoj širini — oštre rasterske slike iz vektorskih logotipa i ikona. Bez registracije, bez prijenosa, radi u vašem pregledniku.",
-  "id": "/loona-image-compressor/hr/svg-to-png.html",
+  "id": "/hr/svg-to-png.html",
   "start_url": "./svg-to-png.html",
   "scope": "./svg-to-png.html",
   "display": "standalone",

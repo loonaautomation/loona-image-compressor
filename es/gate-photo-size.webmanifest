@@ -2,7 +2,7 @@
   "name": "Loona Tamaño de Fotografía de GATE",
   "short_name": "Tamaño de Fotografía de GATE",
   "description": "Ajusta tu foto de GATE al tamaño de la convocatoria (480 × 640 px) y a la banda de 5–200 KB. Gratis, en tu navegador: sin subidas y sin registro.",
-  "id": "/loona-image-compressor/es/gate-photo-size.html",
+  "id": "/es/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

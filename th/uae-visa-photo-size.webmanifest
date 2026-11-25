@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายวีซ่า UAE / บัตรเอมิเรตส์",
   "short_name": "ขนาดรูปถ่ายวีซ่า UAE /",
   "description": "ทำรูปถ่ายวีซ่า UAE / บัตรเอมิเรตส์ที่ขนาดอย่างเป็นทางการ 40×60 mm (472×709 px) พื้นหลังขาวเรียบ เครื่องทำรูปออนไลน์ฟรี — ครอบตัด ดาวน์โหลด และแผ่นพิมพ์ ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/uae-visa-photo-size.html",
+  "id": "/th/uae-visa-photo-size.html",
   "start_url": "./uae-visa-photo-size.html",
   "scope": "./uae-visa-photo-size.html",
   "display": "standalone",

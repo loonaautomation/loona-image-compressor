@@ -2,7 +2,7 @@
   "name": "Loona Veličina Fotografija za putovnicu Singapura",
   "short_name": "Veličina Fotografija za",
   "description": "Izradite Fotografija za putovnicu Singapura u službenoj veličini 35×45 mm (413×531 px), pozadina jednobojna bijela. Besplatni mrežni izrađivač — izrežite, preuzmite i ispišite list, bez prijenosa.",
-  "id": "/loona-image-compressor/hr/singapore-passport-photo-size.html",
+  "id": "/hr/singapore-passport-photo-size.html",
   "start_url": "./singapore-passport-photo-size.html",
   "scope": "./singapore-passport-photo-size.html",
   "display": "standalone",

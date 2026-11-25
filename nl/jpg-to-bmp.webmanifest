@@ -2,7 +2,7 @@
   "name": "Loona JPG naar BMP Converter",
   "short_name": "JPG naar BMP Converter",
   "description": "Converteer JPG online en gratis naar BMP, in je browser. Echte conversie op je apparaat — geen upload, geen aanmelding, geen watermerken.",
-  "id": "/loona-image-compressor/nl/jpg-to-bmp.html",
+  "id": "/nl/jpg-to-bmp.html",
   "start_url": "./jpg-to-bmp.html",
   "scope": "./jpg-to-bmp.html",
   "display": "standalone",

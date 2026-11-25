@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Jalada la Makala / Jarida wa LinkedIn",
   "short_name": "Ukubwa wa Jalada la Makala /",
   "description": "Tengeneza jalada la makala / jarida ya LinkedIn katika px 1200×644 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/linkedin-article-cover-size.html",
+  "id": "/sw/linkedin-article-cover-size.html",
   "start_url": "./linkedin-article-cover-size.html",
   "scope": "./linkedin-article-cover-size.html",
   "display": "standalone",

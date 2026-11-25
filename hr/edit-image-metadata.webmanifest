@@ -2,7 +2,7 @@
   "name": "Loona EXIF uređivač",
   "short_name": "EXIF uređivač",
   "description": "Uredite EXIF podatke JPG fotografije na mreži besplatno — popravite datum snimanja, dodajte svoje ime kao autora, postavite autorska prava, proizvođača i model kamere ili izradite EXIF na fotografiji koja ga nema. Pikseli se nikada ne kodiraju ponovno i ništa se ne prenosi.",
-  "id": "/loona-image-compressor/hr/edit-image-metadata.html",
+  "id": "/hr/edit-image-metadata.html",
   "start_url": "./edit-image-metadata.html",
   "scope": "./edit-image-metadata.html",
   "display": "standalone",

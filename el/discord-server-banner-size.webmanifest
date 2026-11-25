@@ -2,7 +2,7 @@
   "name": "Loona Banner Διακομιστή Discord",
   "short_name": "Banner Διακομιστή Discord",
   "description": "Δημιουργήστε ένα banner διακομιστή Discord σε ακριβώς 960×540 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/discord-server-banner-size.html",
+  "id": "/el/discord-server-banner-size.html",
   "start_url": "./discord-server-banner-size.html",
   "scope": "./discord-server-banner-size.html",
   "display": "standalone",

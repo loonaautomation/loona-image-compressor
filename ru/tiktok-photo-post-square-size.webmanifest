@@ -2,7 +2,7 @@
   "name": "Loona Размер Фотопубликация (квадратная) для TikTok",
   "short_name": "Размер Фотопубликация (квадратная) для TikTok",
   "description": "Make a TikTok photo post (square) at exactly 1080×1080 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/tiktok-photo-post-square-size.html",
+  "id": "/tiktok-photo-post-square-size.html",
   "start_url": "./tiktok-photo-post-square-size.html",
   "scope": "./tiktok-photo-post-square-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Paspor Malaysia",
   "short_name": "Ukuran Foto Paspor Malaysia",
   "description": "Buat Foto Paspor Malaysia pada ukuran resmi 35×50 mm (413×591 px), latar belakang putih polos. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/malaysia-passport-photo-size.html",
+  "id": "/id/malaysia-passport-photo-size.html",
   "start_url": "./malaysia-passport-photo-size.html",
   "scope": "./malaysia-passport-photo-size.html",
   "display": "standalone",

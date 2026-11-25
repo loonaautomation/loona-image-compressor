@@ -2,7 +2,7 @@
   "name": "Loona Видалити метадані зображення",
   "short_name": "Видалити метадані зображення",
   "description": "Видаляйте метадані EXIF, розташування GPS, XMP і IPTC із фото JPG, PNG і WebP онлайн безкоштовно. Очищення на рівні байтів — пікселі ніколи не перекодуються, тож якість недоторкана. Перевірено повторним скануванням, 100% приватно у вашому браузері.",
-  "id": "/loona-image-compressor/uk/remove-image-metadata.html",
+  "id": "/uk/remove-image-metadata.html",
   "start_url": "./remove-image-metadata.html",
   "scope": "./remove-image-metadata.html",
   "display": "standalone",

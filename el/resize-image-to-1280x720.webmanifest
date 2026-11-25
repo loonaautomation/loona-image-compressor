@@ -2,7 +2,7 @@
   "name": "Loona Αλλαγή Μεγέθους Εικόνας σε 1280 × 720",
   "short_name": "Αλλαγή Μεγέθους Εικόνας σε",
   "description": "Αλλάξτε το μέγεθος οποιασδήποτε εικόνας σε ακριβώς 1280 × 720 pixel (μικρογραφίες YouTube και βίντεο HD) δωρεάν. Κάλυψη, περιέχει ή τέντωμα, JPG ή PNG, λήψη αμέσως — χωρίς εγγραφή, τίποτα δεν μεταφορτώνεται.",
-  "id": "/loona-image-compressor/el/resize-image-to-1280x720.html",
+  "id": "/el/resize-image-to-1280x720.html",
   "start_url": "./resize-image-to-1280x720.html",
   "scope": "./resize-image-to-1280x720.html",
   "display": "standalone",

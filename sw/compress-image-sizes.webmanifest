@@ -2,7 +2,7 @@
   "name": "Loona Bana Picha hadi Ukubwa Wowote wa KB",
   "short_name": "Bana Picha hadi Ukubwa Wowote",
   "description": "Kila zana ya bana-hadi-ukubwa: ukubwa 16 lengwa katika JPG, PNG na WebP, kutoka KB 10 hadi MB 2. Bure, kwenye kivinjari chako.",
-  "id": "/loona-image-compressor/sw/compress-image-sizes.html",
+  "id": "/sw/compress-image-sizes.html",
   "start_url": "./compress-image-sizes.html",
   "scope": "./compress-image-sizes.html",
   "display": "standalone",

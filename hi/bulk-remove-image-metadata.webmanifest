@@ -2,7 +2,7 @@
   "name": "Loona बल्क मेटाडेटा रिमूवर",
   "short_name": "बल्क मेटाडेटा रिमूवर",
   "description": "कई फ़ोटो से EXIF, GPS और XMP मेटाडेटा एक साथ हटाएँ — JPG, PNG और WebP फ़ाइलों का बैच डालें, उन सभी को अपने ब्राउज़र में साफ़ करें और सब कुछ एक ZIP के रूप में डाउनलोड करें। मुफ़्त, निजी, कोई अपलोड नहीं, कोई री-एन्कोडिंग नहीं।",
-  "id": "/loona-image-compressor/hi/bulk-remove-image-metadata.html",
+  "id": "/hi/bulk-remove-image-metadata.html",
   "start_url": "./bulk-remove-image-metadata.html",
   "scope": "./bulk-remove-image-metadata.html",
   "display": "standalone",

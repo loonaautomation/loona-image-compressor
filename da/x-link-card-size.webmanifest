@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) Linkkortbillede størrelse",
   "short_name": "X (Twitter) Linkkortbillede",
   "description": "Lav en X (Twitter) linkkortbillede på præcis 1200×628 px. Gratis størrelses- og beskæringsværktøj i din browser med sikkerhedszonereglerne, der forhindrer beskåret tekst og ansigter.",
-  "id": "/loona-image-compressor/da/x-link-card-size.html",
+  "id": "/da/x-link-card-size.html",
   "start_url": "./x-link-card-size.html",
   "scope": "./x-link-card-size.html",
   "display": "standalone",

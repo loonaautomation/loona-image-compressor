@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do paszportu Indii",
   "short_name": "Rozmiar Zdjęcie do paszportu",
   "description": "Utwórz Zdjęcie do paszportu Indii w oficjalnym rozmiarze 51×51 mm (600×600 px), tło: gładkie białe. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/india-passport-photo-size.html",
+  "id": "/pl/india-passport-photo-size.html",
   "start_url": "./india-passport-photo-size.html",
   "scope": "./india-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Badilisha Ukubwa wa Picha hadi 3840 × 2160 px Mtandaoni",
   "short_name": "Badilisha Ukubwa wa Picha",
   "description": "Badilisha ukubwa wa picha yoyote hadi px 3840×2160 haswa — Mandharinyuma ya 4K UHD / fremu ya video. Bure kwenye kivinjari chako kwa udhibiti wa kukata; bila kupakia, bila kujisajili.",
-  "id": "/loona-image-compressor/sw/resize-image-to-3840x2160.html",
+  "id": "/sw/resize-image-to-3840x2160.html",
   "start_url": "./resize-image-to-3840x2160.html",
   "scope": "./resize-image-to-3840x2160.html",
   "display": "standalone",

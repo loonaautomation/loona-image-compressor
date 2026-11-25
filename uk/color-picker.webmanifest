@@ -2,7 +2,7 @@
   "name": "Loona Вибір кольору",
   "short_name": "Вибір кольору",
   "description": "Виберіть будь-який колір і миттєво скопіюйте його значення HEX, RGB, HSL і HSV. Містить смугу відтінків і тіней — безкоштовно, без реєстрації, працює у вашому браузері.",
-  "id": "/loona-image-compressor/uk/color-picker.html",
+  "id": "/uk/color-picker.html",
   "start_url": "./color-picker.html",
   "scope": "./color-picker.html",
   "display": "standalone",

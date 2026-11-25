@@ -2,7 +2,7 @@
   "name": "Loona Размер фото Фото на паспорт Южной Кореи",
   "short_name": "Размер фото Фото на паспорт Южной Кореи",
   "description": "Make a South Korea Passport Photo at the official size 35×45 mm (413×531 px), plain white background. Free online maker — crop, download and print sheet, no upload.",
-  "id": "/loona-image-compressor/south-korea-passport-photo-size.html",
+  "id": "/south-korea-passport-photo-size.html",
   "start_url": "./south-korea-passport-photo-size.html",
   "scope": "./south-korea-passport-photo-size.html",
   "display": "standalone",

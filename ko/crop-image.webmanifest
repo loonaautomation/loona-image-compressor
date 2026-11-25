@@ -2,7 +2,7 @@
   "name": "Loona 온라인에서 무료로 이미지 자르기",
   "short_name": "온라인에서 무료로 이미지 자르기",
   "description": "준비된 비율로 온라인에서 무료로 이미지를 자르세요 — 1:1, 4:3, 16:9와 여권 35×45 — 회전과 뒤집기도 포함해요. 정확한 자르기를 전체 해상도로 다운로드하세요.",
-  "id": "/loona-image-compressor/ko/crop-image.html",
+  "id": "/ko/crop-image.html",
   "start_url": "./crop-image.html",
   "scope": "./crop-image.html",
   "display": "standalone",

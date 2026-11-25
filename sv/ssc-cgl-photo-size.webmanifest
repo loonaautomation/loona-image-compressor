@@ -2,7 +2,7 @@
   "name": "Loona SSC CGL Foto Storlek",
   "short_name": "SSC CGL Foto Storlek",
   "description": "Ändra storlek på ditt SSC CGL foto till anmälningsstorleken (200 × 230 px) och bandet 20–50 KB. Gratis, i din webbläsare — ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/ssc-cgl-photo-size.html",
+  "id": "/sv/ssc-cgl-photo-size.html",
   "start_url": "./ssc-cgl-photo-size.html",
   "scope": "./ssc-cgl-photo-size.html",
   "display": "standalone",

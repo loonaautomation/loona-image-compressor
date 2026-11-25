@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة جواز السفر الأسترالي",
   "short_name": "حجم صورة جواز السفر الأسترالي",
   "description": "اصنع صورة جواز السفر الأسترالي بالحجم الرسمي 35×45 mm (413×531 px)، خلفية بيضاء سادة أو رمادية فاتحة. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/australia-passport-photo-size.html",
+  "id": "/ar/australia-passport-photo-size.html",
   "start_url": "./australia-passport-photo-size.html",
   "scope": "./australia-passport-photo-size.html",
   "display": "standalone",

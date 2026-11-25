@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת פוסט (16",
   "short_name": "גודל תמונת פוסט (16",
   "description": "צרו תמונת פוסט (16:9) של X (Twitter) בדיוק ב־1600×900 px. משנה גודל/חיתוך בחינם בדפדפן שלכם, עם כללי אזור הבטיחות שמונעים חיתוך של טקסט ופנים.",
-  "id": "/loona-image-compressor/he/x-post-image-size.html",
+  "id": "/he/x-post-image-size.html",
   "start_url": "./x-post-image-size.html",
   "scope": "./x-post-image-size.html",
   "display": "standalone",

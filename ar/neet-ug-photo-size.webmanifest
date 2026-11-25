@@ -2,7 +2,7 @@
   "name": "Loona حجم الصورة الفوتوغرافية NEET UG",
   "short_name": "حجم الصورة الفوتوغرافية NEET",
   "description": "غيّر حجم الصورة الخاص بك لامتحان NEET UG إلى حجم الإشعار (3.5 × 4.5 cm (نحو 413 × 531 px عند 300 DPI)) ونطاق 10–200 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/neet-ug-photo-size.html",
+  "id": "/ar/neet-ug-photo-size.html",
   "start_url": "./neet-ug-photo-size.html",
   "scope": "./neet-ug-photo-size.html",
   "display": "standalone",

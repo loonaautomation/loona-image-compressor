@@ -2,7 +2,7 @@
   "name": "Loona Veličina Facebook Naslovnica događaja",
   "short_name": "Veličina Facebook Naslovnica",
   "description": "Izradite Facebook naslovnica događaja na točno 1920×1005 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/facebook-event-cover-size.html",
+  "id": "/hr/facebook-event-cover-size.html",
   "start_url": "./facebook-event-cover-size.html",
   "scope": "./facebook-event-cover-size.html",
   "display": "standalone",

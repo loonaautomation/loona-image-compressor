@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายวีซ่าสหราชอาณาจักร",
   "short_name": "ขนาดรูปถ่ายวีซ่าสหราชอาณาจักร",
   "description": "ทำรูปถ่ายวีซ่าสหราชอาณาจักรที่ขนาดอย่างเป็นทางการ 35×45 mm (600×750 px) พื้นหลังเทาอ่อนเรียบ เครื่องทำรูปออนไลน์ฟรี — ครอบตัด ดาวน์โหลด และแผ่นพิมพ์ ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/uk-visa-photo-size.html",
+  "id": "/th/uk-visa-photo-size.html",
   "start_url": "./uk-visa-photo-size.html",
   "scope": "./uk-visa-photo-size.html",
   "display": "standalone",

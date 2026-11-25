@@ -2,7 +2,7 @@
   "name": "Loona Thailandsk pas- / visumfoto størrelse",
   "short_name": "Thailandsk pas- / visumfoto",
   "description": "Lav et Thailandsk pas- / visumfoto i den officielle størrelse 35×45 mm (413×531 px), ensfarvet hvid baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
-  "id": "/loona-image-compressor/da/thailand-passport-photo-size.html",
+  "id": "/da/thailand-passport-photo-size.html",
   "start_url": "./thailand-passport-photo-size.html",
   "scope": "./thailand-passport-photo-size.html",
   "display": "standalone",

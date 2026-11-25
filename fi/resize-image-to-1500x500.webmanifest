@@ -2,7 +2,7 @@
   "name": "Loona Muuta kuvan koko kokoon 1500 × 500",
   "short_name": "Muuta kuvan koko kokoon 1500",
   "description": "Muuta minkä tahansa kuvan koko täsmälleen kokoon 1500 × 500 pikseliä (X:n (Twitter) profiiliotsikot ja leveät bannerit) ilmaiseksi. Peitä, sisällä tai venytä, JPG tai PNG, lataa heti — ei rekisteröitymistä, mitään ei ladata palvelimelle.",
-  "id": "/loona-image-compressor/fi/resize-image-to-1500x500.html",
+  "id": "/fi/resize-image-to-1500x500.html",
   "start_url": "./resize-image-to-1500x500.html",
   "scope": "./resize-image-to-1500x500.html",
   "display": "standalone",

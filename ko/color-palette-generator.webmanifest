@@ -2,7 +2,7 @@
   "name": "Loona 색상 팔레트 생성기",
   "short_name": "색상 팔레트 생성기",
   "description": "모든 기본 색상에서 조화로운 색상 팔레트를 생성하세요 — 복사 가능한 HEX 코드와 함께 유사색, 보색, 삼색, 단색 구성. 무료, 회원가입 없음.",
-  "id": "/loona-image-compressor/ko/color-palette-generator.html",
+  "id": "/ko/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",
   "scope": "./color-palette-generator.html",
   "display": "standalone",

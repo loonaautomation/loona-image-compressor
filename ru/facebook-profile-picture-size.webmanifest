@@ -2,7 +2,7 @@
   "name": "Loona Размер Фото профиля для Facebook",
   "short_name": "Размер Фото профиля для Facebook",
   "description": "Make a Facebook profile picture at exactly 720×720 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/facebook-profile-picture-size.html",
+  "id": "/facebook-profile-picture-size.html",
   "start_url": "./facebook-profile-picture-size.html",
   "scope": "./facebook-profile-picture-size.html",
   "display": "standalone",

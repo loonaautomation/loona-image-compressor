@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת פספורט / ויזה ברזיל",
   "short_name": "גודל תמונת פספורט / ויזה ברזיל",
   "description": "צרו תמונת פספורט / ויזה ברזיל בגודל הרשמי 50×70 מ&quot;מ (591×827 px), רקע לבן חלק. כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/brazil-passport-photo-size.html",
+  "id": "/he/brazil-passport-photo-size.html",
   "start_url": "./brazil-passport-photo-size.html",
   "scope": "./brazil-passport-photo-size.html",
   "display": "standalone",

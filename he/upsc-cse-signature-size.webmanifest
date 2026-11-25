@@ -2,7 +2,7 @@
   "name": "Loona גודל חתימה UPSC Civil Services (IAS)",
   "short_name": "גודל חתימה UPSC Civil",
   "description": "שנו את גודל ה־חתימה של UPSC Civil Services (IAS) לגודל ההודעה הרשמית (תיבה סרוקה, יחס של כ־7:2) ולרצועת 20–300 KB. בחינם, בדפדפן שלכם — ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/upsc-cse-signature-size.html",
+  "id": "/he/upsc-cse-signature-size.html",
   "start_url": "./upsc-cse-signature-size.html",
   "scope": "./upsc-cse-signature-size.html",
   "display": "standalone",

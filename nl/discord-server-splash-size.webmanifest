@@ -2,7 +2,7 @@
   "name": "Loona Formaat Discord Uitnodigingssplash",
   "short_name": "Formaat Discord",
   "description": "Maak een Discord uitnodigingssplash op precies 1920×1080 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/discord-server-splash-size.html",
+  "id": "/nl/discord-server-splash-size.html",
   "start_url": "./discord-server-splash-size.html",
   "scope": "./discord-server-splash-size.html",
   "display": "standalone",

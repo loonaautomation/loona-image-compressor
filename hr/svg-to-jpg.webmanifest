@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač SVG u JPG",
   "short_name": "Pretvarač SVG u JPG",
   "description": "Pretvorite SVG u JPG na mreži besplatno — prikazujte vektorske logotipe i ilustracije kao univerzalne JPG-ove u bilo kojoj širini. Bez registracije, bez prijenosa, u vašem pregledniku.",
-  "id": "/loona-image-compressor/hr/svg-to-jpg.html",
+  "id": "/hr/svg-to-jpg.html",
   "start_url": "./svg-to-jpg.html",
   "scope": "./svg-to-jpg.html",
   "display": "standalone",

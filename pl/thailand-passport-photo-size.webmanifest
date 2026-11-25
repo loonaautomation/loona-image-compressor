@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do paszportu / wizy Tajlandii",
   "short_name": "Rozmiar Zdjęcie do paszportu",
   "description": "Utwórz Zdjęcie do paszportu / wizy Tajlandii w oficjalnym rozmiarze 35×45 mm (413×531 px), tło: gładkie białe. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/thailand-passport-photo-size.html",
+  "id": "/pl/thailand-passport-photo-size.html",
   "start_url": "./thailand-passport-photo-size.html",
   "scope": "./thailand-passport-photo-size.html",
   "display": "standalone",

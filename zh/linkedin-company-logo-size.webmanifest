@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn 公司页面徽标 尺寸",
   "short_name": "LinkedIn 公司页面徽标 尺寸",
   "description": "按精确的 300×300 px 制作 LinkedIn 公司页面徽标。在浏览器中免费调整大小/裁剪，附有安全区规则，防止文字和面部被裁掉。",
-  "id": "/loona-image-compressor/zh/linkedin-company-logo-size.html",
+  "id": "/zh/linkedin-company-logo-size.html",
   "start_url": "./linkedin-company-logo-size.html",
   "scope": "./linkedin-company-logo-size.html",
   "display": "standalone",

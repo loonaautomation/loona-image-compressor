@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Postare pătrată (1",
   "short_name": "Dimensiune Postare pătrată (1",
   "description": "Creează un postare pătrată (1:1) Instagram la exact 1080×1080 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/instagram-square-post-size.html",
+  "id": "/ro/instagram-square-post-size.html",
   "start_url": "./instagram-square-post-size.html",
   "scope": "./instagram-square-post-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona AVIF",
   "short_name": "AVIF",
   "description": "Konvertáljon AVIF fájlt WEBP formátumba online, ingyen, a böngészőjében. Valódi konvertálás a saját eszközén — feltöltés, regisztráció és vízjelek nélkül.",
-  "id": "/loona-image-compressor/hu/avif-to-webp.html",
+  "id": "/hu/avif-to-webp.html",
   "start_url": "./avif-to-webp.html",
   "scope": "./avif-to-webp.html",
   "display": "standalone",

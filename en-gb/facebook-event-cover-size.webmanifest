@@ -2,7 +2,7 @@
   "name": "Loona Facebook Event Cover Size — 1920 × 1005 px",
   "short_name": "Facebook Event Cover Size — 1920 × 1005 px",
   "description": "Make a Facebook event cover at exactly 1920×1005 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/en-gb/facebook-event-cover-size.html",
+  "id": "/en-gb/facebook-event-cover-size.html",
   "start_url": "./facebook-event-cover-size.html",
   "scope": "./facebook-event-cover-size.html",
   "display": "standalone",

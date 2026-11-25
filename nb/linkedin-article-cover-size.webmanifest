@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Omslag for artikkel / nyhetsbrev-størrelse",
   "short_name": "LinkedIn Omslag for artikkel",
   "description": "Lag en LinkedIn omslag for artikkel / nyhetsbrev med nøyaktig 1200×644 px. Gratis størrelsesendrer/beskjærer i nettleseren din med reglene for sikre soner som stopper beskåret tekst og ansikter.",
-  "id": "/loona-image-compressor/nb/linkedin-article-cover-size.html",
+  "id": "/nb/linkedin-article-cover-size.html",
   "start_url": "./linkedin-article-cover-size.html",
   "scope": "./linkedin-article-cover-size.html",
   "display": "standalone",

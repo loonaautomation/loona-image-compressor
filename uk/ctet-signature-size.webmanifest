@@ -2,7 +2,7 @@
   "name": "Loona Розмір Підпис CTET",
   "short_name": "Розмір Підпис CTET",
   "description": "Змініть розмір вашого підпис для CTET до розміру з повідомлення (скановане поле, співвідношення приблизно 7:2) і діапазону 3–30 KB. Безкоштовно, у вашому браузері — без передавання, без реєстрації.",
-  "id": "/loona-image-compressor/uk/ctet-signature-size.html",
+  "id": "/uk/ctet-signature-size.html",
   "start_url": "./ctet-signature-size.html",
   "scope": "./ctet-signature-size.html",
   "display": "standalone",

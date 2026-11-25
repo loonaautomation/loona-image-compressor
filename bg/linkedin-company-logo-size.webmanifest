@@ -2,7 +2,7 @@
   "name": "Loona Размер на Лого на фирмена страница за LinkedIn",
   "short_name": "Размер на Лого на фирмена",
   "description": "Направете лого на фирмена страница за LinkedIn на точно 300×300 px. Безплатен инструмент за преоразмеряване/изрязване във вашия браузър с правилата за безопасната зона, които спират изрязване на текст и лица.",
-  "id": "/loona-image-compressor/bg/linkedin-company-logo-size.html",
+  "id": "/bg/linkedin-company-logo-size.html",
   "start_url": "./linkedin-company-logo-size.html",
   "scope": "./linkedin-company-logo-size.html",
   "display": "standalone",

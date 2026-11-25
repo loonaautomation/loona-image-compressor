@@ -2,7 +2,7 @@
   "name": "Loona Afbeeldingsformaatconverter",
   "short_name": "Afbeeldingsformaatconverter",
   "description": "Converteer afbeeldingen gratis online tussen JPG, PNG en WebP, in batches, met kwaliteitscontrole en afvlakking van transparante achtergronden. Geen aanmelding nodig.",
-  "id": "/loona-image-compressor/nl/image-format-converter.html",
+  "id": "/nl/image-format-converter.html",
   "start_url": "./image-format-converter.html",
   "scope": "./image-format-converter.html",
   "display": "standalone",

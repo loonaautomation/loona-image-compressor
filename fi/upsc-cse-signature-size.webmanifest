@@ -2,7 +2,7 @@
   "name": "Loona Kokeen UPSC Civil Services (IAS) Allekirjoitus koko",
   "short_name": "Kokeen UPSC Civil Services",
   "description": "Muuta kokeen UPSC Civil Services (IAS) allekirjoitus ilmoitettuun kokoon (skannattu laatikko, suhde noin 7:2) ja välille 20–300 KB. Ilmaiseksi selaimessasi — ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/upsc-cse-signature-size.html",
+  "id": "/fi/upsc-cse-signature-size.html",
   "start_url": "./upsc-cse-signature-size.html",
   "scope": "./upsc-cse-signature-size.html",
   "display": "standalone",

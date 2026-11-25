@@ -2,7 +2,7 @@
   "name": "Loona Afbeelding verkleinen/vergroten naar 1748 × 2480 px online",
   "short_name": "Afbeelding",
   "description": "Pas elke afbeelding aan naar precies 1748×2480 px — A5 bij 300 DPI. Gratis in je browser met bijsnijdcontrole; geen upload, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/resize-image-to-1748x2480.html",
+  "id": "/nl/resize-image-to-1748x2480.html",
   "start_url": "./resize-image-to-1748x2480.html",
   "scope": "./resize-image-to-1748x2480.html",
   "display": "standalone",

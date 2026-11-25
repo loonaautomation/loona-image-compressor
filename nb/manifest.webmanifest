@@ -2,7 +2,7 @@
   "name": "Loona Image Compressor",
   "short_name": "Loona Image Compressor",
   "description": "Komprimer JPG-, PNG- og WebP-bilder gratis på nett til en nøyaktig størrelse — 50 KB, 100 KB, 200 KB. Batchkomprimering, størrelsesendring, ZIP-nedlasting. Ingen registrering, ingen vannmerke, 100 % privat.",
-  "id": "/loona-image-compressor/nb/",
+  "id": "/nb/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

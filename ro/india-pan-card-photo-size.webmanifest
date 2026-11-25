@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie pentru cardul PAN al Indiei",
   "short_name": "Dimensiune Fotografie pentru",
   "description": "Creează un Fotografie pentru cardul PAN al Indiei la dimensiunea oficială 25×35 mm (295×413 px), fundal alb simplu. Creator online gratuit — decupează, descarcă și imprimă foaia, fără încărcare.",
-  "id": "/loona-image-compressor/ro/india-pan-card-photo-size.html",
+  "id": "/ro/india-pan-card-photo-size.html",
   "start_url": "./india-pan-card-photo-size.html",
   "scope": "./india-pan-card-photo-size.html",
   "display": "standalone",

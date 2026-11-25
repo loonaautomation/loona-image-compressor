@@ -2,7 +2,7 @@
   "name": "Loona Επεξεργαστής EXIF",
   "short_name": "Επεξεργαστής EXIF",
   "description": "Επεξεργαστείτε τα δεδομένα EXIF μιας φωτογραφίας JPG διαδικτυακά δωρεάν — διορθώστε την ημερομηνία λήψης, προσθέστε το όνομά σας ως καλλιτέχνη, ορίστε πνευματικά δικαιώματα, μάρκα και μοντέλο κάμερας, ή δημιουργήστε EXIF σε μια φωτογραφία που δεν έχει κανένα. Τα pixel δεν επανακωδικοποιούνται ποτέ και τίποτα δεν μεταφορτώνεται.",
-  "id": "/loona-image-compressor/el/edit-image-metadata.html",
+  "id": "/el/edit-image-metadata.html",
   "start_url": "./edit-image-metadata.html",
   "scope": "./edit-image-metadata.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona שינוי גודל תמונה ל־1200 × 1800 px באינטרנט",
   "short_name": "שינוי גודל תמונה ל־1200 ×",
   "description": "שנו גודל של כל תמונה בדיוק ל־1200×1800 px — הדפסת תמונה 4 × 6 אינץ&#x27; ב־300 DPI. בחינם בדפדפן שלכם עם בקרת חיתוך; ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/resize-image-to-1200x1800.html",
+  "id": "/he/resize-image-to-1200x1800.html",
   "start_url": "./resize-image-to-1200x1800.html",
   "scope": "./resize-image-to-1200x1800.html",
   "display": "standalone",

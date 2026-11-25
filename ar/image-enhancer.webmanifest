@@ -2,7 +2,7 @@
   "name": "Loona محسّن الصور",
   "short_name": "محسّن الصور",
   "description": "حسّن صورة عبر الإنترنت مجانًا: تحسين تلقائي بنقرة واحدة، اشحذ الصور الناعمة، نظّف الضوضاء بلطف وكبّر 2x أو 4x. نتائج صادقة، بلا تسجيل، وصورتك لا تغادر جهازك أبدًا.",
-  "id": "/loona-image-compressor/ar/image-enhancer.html",
+  "id": "/ar/image-enhancer.html",
   "start_url": "./image-enhancer.html",
   "scope": "./image-enhancer.html",
   "display": "standalone",

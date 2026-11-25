@@ -2,7 +2,7 @@
   "name": "Loona Skupni uklanjač metapodataka",
   "short_name": "Skupni uklanjač metapodataka",
   "description": "Uklonite EXIF, GPS i XMP metapodatke s mnogo fotografija odjednom — ispustite skupinu JPG, PNG i WebP datoteka, uklonite ih sve u svom pregledniku i preuzmite sve kao jedan ZIP. Besplatno, privatno, bez prijenosa, bez ponovnog kodiranja.",
-  "id": "/loona-image-compressor/hr/bulk-remove-image-metadata.html",
+  "id": "/hr/bulk-remove-image-metadata.html",
   "start_url": "./bulk-remove-image-metadata.html",
   "scope": "./bulk-remove-image-metadata.html",
   "display": "standalone",

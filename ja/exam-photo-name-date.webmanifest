@@ -2,7 +2,7 @@
   "name": "Loona 名前と日付入りの試験写真",
   "short_name": "名前と日付入りの試験写真",
   "description": "名前と日付を下部に印刷した試験写真を無料で作成 — パキスタンとインドで使われるボード試験の形式。プライベート、登録不要です。",
-  "id": "/loona-image-compressor/ja/exam-photo-name-date.html",
+  "id": "/ja/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

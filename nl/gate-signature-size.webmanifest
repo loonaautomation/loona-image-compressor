@@ -2,7 +2,7 @@
   "name": "Loona Formaat GATE Handtekening",
   "short_name": "Formaat GATE Handtekening",
   "description": "Pas je GATE-handtekening aan naar het formaat uit de aankondiging (gescand vak, verhouding ongeveer 7:2) en de band van 3–100 KB. Gratis, in je browser — geen upload, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/gate-signature-size.html",
+  "id": "/nl/gate-signature-size.html",
   "start_url": "./gate-signature-size.html",
   "scope": "./gate-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Görüntüyü 3840 × 2160 px Boyutuna Çevrimiçi Getir — Ücretsiz",
   "short_name": "Görüntüyü 3840 × 2160 px Boyutuna Çevrimiçi Getir — Ücretsiz",
   "description": "Herhangi bir görüntüyü tam olarak 3840×2160 px boyutuna getirin — 4K UHD duvar kağıdı / video karesi. Kırpma kontrolüyle tarayıcınızda ücretsiz; yükleme yok, kayıt yok.",
-  "id": "/loona-image-compressor/tr/resize-image-to-3840x2160.html",
+  "id": "/tr/resize-image-to-3840x2160.html",
   "start_url": "./resize-image-to-3840x2160.html",
   "scope": "./resize-image-to-3840x2160.html",
   "display": "standalone",

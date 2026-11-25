@@ -2,7 +2,7 @@
   "name": "Loona Trình xóa siêu dữ liệu hàng loạt",
   "short_name": "Trình xóa siêu dữ liệu hàng",
   "description": "Xóa siêu dữ liệu EXIF, GPS và XMP khỏi nhiều ảnh cùng lúc — thả một loạt tệp JPG, PNG và WebP, loại bỏ tất cả trong trình duyệt của bạn và tải mọi thứ xuống dưới dạng một ZIP. Miễn phí, riêng tư, không tải lên, không mã hóa lại.",
-  "id": "/loona-image-compressor/vi/bulk-remove-image-metadata.html",
+  "id": "/vi/bulk-remove-image-metadata.html",
   "start_url": "./bulk-remove-image-metadata.html",
   "scope": "./bulk-remove-image-metadata.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona حجم دبوس فكرة / قصة Pinterest",
   "short_name": "حجم دبوس فكرة / قصة Pinterest",
   "description": "اصنع دبوس فكرة / قصة Pinterest بمقاس 1080×1920 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/pinterest-idea-pin-size.html",
+  "id": "/ar/pinterest-idea-pin-size.html",
   "start_url": "./pinterest-idea-pin-size.html",
   "scope": "./pinterest-idea-pin-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Video to GIF Converter",
   "short_name": "Video to GIF Converter",
   "description": "Konvertáljon videót GIF-fé online ingyen — alakítson át egy MP4 vagy WebM klipet animált GIF-fé. Böngészőalapú, regisztráció nélkül, feltöltés nélkül, vízjel nélkül.",
-  "id": "/loona-image-compressor/hu/video-to-gif.html",
+  "id": "/hu/video-to-gif.html",
   "start_url": "./video-to-gif.html",
   "scope": "./video-to-gif.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Şirket Sayfası Logosu Boyutu — 300×300 px",
   "short_name": "LinkedIn Şirket Sayfası Logosu Boyutu — 300×300 px",
   "description": "Tam olarak 300×300 px ölçüsünde bir LinkedIn şirket sayfası logosu oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/linkedin-company-logo-size.html",
+  "id": "/tr/linkedin-company-logo-size.html",
   "start_url": "./linkedin-company-logo-size.html",
   "scope": "./linkedin-company-logo-size.html",
   "display": "standalone",

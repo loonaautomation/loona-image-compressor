@@ -2,7 +2,7 @@
   "name": "Loona Změnit velikost obrázku na 512 × 512",
   "short_name": "Změnit velikost obrázku na",
   "description": "Změňte velikost libovolného obrázku přesně na 512 × 512 pixelů (app icons, avatars and favicon masters) zdarma. Pokrytí, přizpůsobení dovnitř nebo roztažení, JPG nebo PNG, okamžité stažení — bez registrace, nic se nenahrává.",
-  "id": "/loona-image-compressor/cs/resize-image-to-512x512.html",
+  "id": "/cs/resize-image-to-512x512.html",
   "start_url": "./resize-image-to-512x512.html",
   "scope": "./resize-image-to-512x512.html",
   "display": "standalone",

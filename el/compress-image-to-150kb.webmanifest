@@ -2,7 +2,7 @@
   "name": "Loona Συμπίεση Εικόνας σε 150 KB Διαδικτυακά",
   "short_name": "Συμπίεση Εικόνας σε 150 KB",
   "description": "Συμπιέστε εικόνες JPG, PNG και WebP σε 150 KB ή κάτω, διαδικτυακά και δωρεάν. Αυτόματη αναζήτηση ποιότητας και μεγέθους στο πρόγραμμα περιήγησής σας — χωρίς εγγραφή, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/compress-image-to-150kb.html",
+  "id": "/el/compress-image-to-150kb.html",
   "start_url": "./compress-image-to-150kb.html",
   "scope": "./compress-image-to-150kb.html",
   "display": "standalone",

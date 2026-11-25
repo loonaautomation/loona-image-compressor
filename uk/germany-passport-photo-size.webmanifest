@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото на паспорт Німеччини (біометричне)",
   "short_name": "Розмір Фото на паспорт",
   "description": "Зробіть Фото на паспорт Німеччини (біометричне) в офіційному розмірі 35×45 мм (413×531 пікс.), тло: світло-сіре, однотонне. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
-  "id": "/loona-image-compressor/uk/germany-passport-photo-size.html",
+  "id": "/uk/germany-passport-photo-size.html",
   "start_url": "./germany-passport-photo-size.html",
   "scope": "./germany-passport-photo-size.html",
   "display": "standalone",

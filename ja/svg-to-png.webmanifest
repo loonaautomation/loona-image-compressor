@@ -2,7 +2,7 @@
   "name": "Loona SVGからPNGへの変換ツール",
   "short_name": "SVGからPNGへの変換ツール",
   "description": "SVGをオンラインで無料で任意の幅でPNGに変換 — ベクターロゴやアイコンから鮮明なラスター画像。登録不要、アップロード不要、ブラウザで動作します。",
-  "id": "/loona-image-compressor/ja/svg-to-png.html",
+  "id": "/ja/svg-to-png.html",
   "start_url": "./svg-to-png.html",
   "scope": "./svg-to-png.html",
   "display": "standalone",

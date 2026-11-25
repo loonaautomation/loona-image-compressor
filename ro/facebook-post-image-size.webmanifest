@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Imagine de postare / link Facebook",
   "short_name": "Dimensiune Imagine de postare",
   "description": "Creează un imagine de postare / link Facebook la exact 1200×630 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/facebook-post-image-size.html",
+  "id": "/ro/facebook-post-image-size.html",
   "start_url": "./facebook-post-image-size.html",
   "scope": "./facebook-post-image-size.html",
   "display": "standalone",

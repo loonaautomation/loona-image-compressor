@@ -2,7 +2,7 @@
   "name": "Loona GIF in PNG Konverter",
   "short_name": "GIF in PNG Konverter",
   "description": "Konvertieren Sie GIF online kostenlos in PNG — ein sauberes, verlustfreies Standbild aus Ihrem GIF. Browserbasiert, ohne Anmeldung, ohne Upload, ohne Wasserzeichen.",
-  "id": "/loona-image-compressor/de/gif-to-png.html",
+  "id": "/de/gif-to-png.html",
   "start_url": "./gif-to-png.html",
   "scope": "./gif-to-png.html",
   "display": "standalone",

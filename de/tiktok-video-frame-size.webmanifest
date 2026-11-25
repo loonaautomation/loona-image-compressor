@@ -2,7 +2,7 @@
   "name": "Loona TikTok Videobild Größe",
   "short_name": "TikTok Videobild Größe",
   "description": "Erstellen Sie ein TikTok-videobild mit exakt 1080×1920 px. Kostenloser Größenänderer/Zuschneider in Ihrem Browser mit den Regeln für die sichere Zone, die abgeschnittenen Text und Gesichter verhindern.",
-  "id": "/loona-image-compressor/de/tiktok-video-frame-size.html",
+  "id": "/de/tiktok-video-frame-size.html",
   "start_url": "./tiktok-video-frame-size.html",
   "scope": "./tiktok-video-frame-size.html",
   "display": "standalone",

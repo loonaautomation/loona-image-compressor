@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn کمپنی صفحہ لوگو کا سائز",
   "short_name": "LinkedIn کمپنی صفحہ لوگو کا",
   "description": "LinkedIn کمپنی صفحہ لوگو بالکل 300×300 px پر بنائیں۔ آپ کے براؤزر میں مفت ری سائزر/کراپر، محفوظ زون کے قواعد کے ساتھ جو کراپ شدہ متن اور چہروں کو روکتے ہیں۔",
-  "id": "/loona-image-compressor/ur/linkedin-company-logo-size.html",
+  "id": "/ur/linkedin-company-logo-size.html",
   "start_url": "./linkedin-company-logo-size.html",
   "scope": "./linkedin-company-logo-size.html",
   "display": "standalone",

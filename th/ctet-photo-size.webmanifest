@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายCTET",
   "short_name": "ขนาดรูปถ่ายCTET",
   "description": "ปรับขนาดรูปถ่ายCTETของคุณให้เป็นขนาดตามประกาศ (3.5 × 4.5 ซม. (ประมาณ 413 × 531 px ที่ 300 DPI)) และช่วง 10–100 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/ctet-photo-size.html",
+  "id": "/th/ctet-photo-size.html",
   "start_url": "./ctet-photo-size.html",
   "scope": "./ctet-photo-size.html",
   "display": "standalone",

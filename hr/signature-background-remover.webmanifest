@@ -2,7 +2,7 @@
   "name": "Loona Uklanjač pozadine potpisa",
   "short_name": "Uklanjač pozadine potpisa",
   "description": "Uklonite papirnatu pozadinu s fotografije potpisa ili pečata i preuzmite prozirni PNG, besplatno na mreži. Alat koji radi samo u pregledniku pomoću platna – bez umjetne inteligencije, bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/signature-background-remover.html",
+  "id": "/hr/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

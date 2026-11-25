@@ -2,7 +2,7 @@
   "name": "Loona BMP-JPG-muunnin",
   "short_name": "BMP-JPG-muunnin",
   "description": "Muunna BMP JPG:ksi verkossa ilmaiseksi ja pienennä valtavat pakkaamattomat bittikartat 90 % tai enemmän. Selaimessasi — ei rekisteröitymistä, ei latausta palvelimelle, ei vesileimaa.",
-  "id": "/loona-image-compressor/fi/bmp-to-jpg.html",
+  "id": "/fi/bmp-to-jpg.html",
   "start_url": "./bmp-to-jpg.html",
   "scope": "./bmp-to-jpg.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona AFCAT Signatur Storlek",
   "short_name": "AFCAT Signatur Storlek",
   "description": "Ändra storlek på ditt AFCAT signatur till anmälningsstorleken (inskannad ruta, förhållande cirka 7:2) och bandet 10–50 KB. Gratis, i din webbläsare — ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/afcat-signature-size.html",
+  "id": "/sv/afcat-signature-size.html",
   "start_url": "./afcat-signature-size.html",
   "scope": "./afcat-signature-size.html",
   "display": "standalone",

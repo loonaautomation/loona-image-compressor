@@ -2,7 +2,7 @@
   "name": "Loona Képvízjel",
   "short_name": "Képvízjel",
   "description": "Adjon hozzá szöveges vízjelet bármely fotóhoz online ingyen — válassza ki a szöveget, a méretet, a színt, az átlátszatlanságot és a pozíciót, vagy ismételje csempézett mintaként. Élő előnézet, regisztráció nélkül, és a képe soha nem hagyja el az eszközét.",
-  "id": "/loona-image-compressor/hu/image-watermark.html",
+  "id": "/hu/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

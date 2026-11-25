@@ -2,7 +2,7 @@
   "name": "Loona CSS گریڈینٹ جنریٹر",
   "short_name": "CSS گریڈینٹ جنریٹر",
   "description": "دو یا تین رنگوں اور کسی بھی زاویے کے ساتھ CSS لکیری گریڈینٹ بنائیں، انہیں لائیو دیکھیں اور تیار CSS کوڈ کاپی کریں۔ مفت، نہ سائن اپ۔",
-  "id": "/loona-image-compressor/ur/gradient-generator.html",
+  "id": "/ur/gradient-generator.html",
   "start_url": "./gradient-generator.html",
   "scope": "./gradient-generator.html",
   "display": "standalone",

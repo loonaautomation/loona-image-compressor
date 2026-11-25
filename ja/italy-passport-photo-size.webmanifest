@@ -2,7 +2,7 @@
   "name": "Loona イタリアパスポート写真のサイズ",
   "short_name": "イタリアパスポート写真のサイズ",
   "description": "公式サイズ35×40 mm（413×472 px）、無地の白または明るい色の背景でイタリアパスポート写真を作成できます。無料のオンライン作成ツール — 切り取り、ダウンロード、印刷シートまで、アップロード不要です。",
-  "id": "/loona-image-compressor/ja/italy-passport-photo-size.html",
+  "id": "/ja/italy-passport-photo-size.html",
   "start_url": "./italy-passport-photo-size.html",
   "scope": "./italy-passport-photo-size.html",
   "display": "standalone",

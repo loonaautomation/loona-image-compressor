@@ -2,7 +2,7 @@
   "name": "Loona Kompres Gambar ke 500 KB Online",
   "short_name": "Kompres Gambar ke 500 KB",
   "description": "Kompres gambar JPG, PNG, dan WebP ke 500 KB atau kurang, online dan gratis. Pencarian kualitas dan ukuran otomatis di browser Anda — tanpa pendaftaran, tanpa unggahan.",
-  "id": "/loona-image-compressor/id/compress-image-to-500kb.html",
+  "id": "/id/compress-image-to-500kb.html",
   "start_url": "./compress-image-to-500kb.html",
   "scope": "./compress-image-to-500kb.html",
   "display": "standalone",

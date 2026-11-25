@@ -2,7 +2,7 @@
   "name": "Loona Změnit velikost obrázku na 2048 × 2048 px online",
   "short_name": "Změnit velikost obrázku na",
   "description": "Změňte velikost libovolného obrázku přesně na 2048×2048 px — Čtverec ve vysokém rozlišení pro tisk a displeje Retina. Zdarma ve vašem prohlížeči s ovládáním ořezu; bez nahrávání a bez registrace.",
-  "id": "/loona-image-compressor/cs/resize-image-to-2048x2048.html",
+  "id": "/cs/resize-image-to-2048x2048.html",
   "start_url": "./resize-image-to-2048x2048.html",
   "scope": "./resize-image-to-2048x2048.html",
   "display": "standalone",

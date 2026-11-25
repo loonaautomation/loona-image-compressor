@@ -2,7 +2,7 @@
   "name": "Loona BMPからJPGへの変換ツール",
   "short_name": "BMPからJPGへの変換ツール",
   "description": "BMPをオンラインで無料でJPGに変換し、巨大な無圧縮ビットマップを90%以上縮小できます。ブラウザで — 登録不要、アップロード不要、透かしなし。",
-  "id": "/loona-image-compressor/ja/bmp-to-jpg.html",
+  "id": "/ja/bmp-to-jpg.html",
   "start_url": "./bmp-to-jpg.html",
   "scope": "./bmp-to-jpg.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Μορφών Εικόνας",
   "short_name": "Μετατροπέας Μορφών Εικόνας",
   "description": "Μετατρέψτε εικόνες μεταξύ JPG, PNG και WebP διαδικτυακά δωρεάν, σε παρτίδες, με έλεγχο ποιότητας και επιπέδωση διαφανούς φόντου. Δεν χρειάζεται εγγραφή.",
-  "id": "/loona-image-compressor/el/image-format-converter.html",
+  "id": "/el/image-format-converter.html",
   "start_url": "./image-format-converter.html",
   "scope": "./image-format-converter.html",
   "display": "standalone",

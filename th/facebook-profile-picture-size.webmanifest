@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปโปรไฟล์ Facebook",
   "short_name": "ขนาดรูปโปรไฟล์ Facebook",
   "description": "ทำรูปโปรไฟล์ Facebook ที่ขนาด 720×720 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/facebook-profile-picture-size.html",
+  "id": "/th/facebook-profile-picture-size.html",
   "start_url": "./facebook-profile-picture-size.html",
   "scope": "./facebook-profile-picture-size.html",
   "display": "standalone",

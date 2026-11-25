@@ -2,7 +2,7 @@
   "name": "Loona SVG থেকে WEBP রূপান্তরকারী",
   "short_name": "SVG থেকে WEBP রূপান্তরকারী",
   "description": "SVG-কে WEBP-তে রূপান্তর করুন অনলাইনে, বিনামূল্যে, আপনার ব্রাউজারে। আপনার ডিভাইসে আসল রূপান্তর — আপলোড নেই, সাইনআপ নেই, ওয়াটারমার্ক নেই।",
-  "id": "/loona-image-compressor/bn/svg-to-webp.html",
+  "id": "/bn/svg-to-webp.html",
   "start_url": "./svg-to-webp.html",
   "scope": "./svg-to-webp.html",
   "display": "standalone",

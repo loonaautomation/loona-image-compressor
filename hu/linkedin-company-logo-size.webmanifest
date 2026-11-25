@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Cégoldal-logó méret",
   "short_name": "LinkedIn Cégoldal-logó méret",
   "description": "Készítsen LinkedIn cégoldal-logó képet pontosan 300×300 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/linkedin-company-logo-size.html",
+  "id": "/hu/linkedin-company-logo-size.html",
   "start_url": "./linkedin-company-logo-size.html",
   "scope": "./linkedin-company-logo-size.html",
   "display": "standalone",

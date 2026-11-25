@@ -2,7 +2,7 @@
   "name": "Loona Formato Visto del Regno Unito",
   "short_name": "Formato Visto del Regno Unito",
   "description": "Crea la foto Visto del Regno Unito nel formato ufficiale di 35×45 mm (600×750 px), sfondo grigio chiaro liso. Strumento online gratuito: ritaglia, scarica e stampa il foglio, senza caricamenti.",
-  "id": "/loona-image-compressor/it/uk-visa-photo-size.html",
+  "id": "/it/uk-visa-photo-size.html",
   "start_url": "./uk-visa-photo-size.html",
   "scope": "./uk-visa-photo-size.html",
   "display": "standalone",

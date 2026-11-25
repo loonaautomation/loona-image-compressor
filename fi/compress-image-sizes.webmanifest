@@ -2,7 +2,7 @@
   "name": "Loona Pakkaa kuva mihin tahansa KB-kokoon",
   "short_name": "Pakkaa kuva mihin tahansa",
   "description": "Jokainen kokoon pakkaava työkalu: 16 tavoitekokoa muodoissa JPG, PNG ja WebP, koosta 10 KB kokoon 2 MB. Ilmaiseksi selaimessasi.",
-  "id": "/loona-image-compressor/fi/compress-image-sizes.html",
+  "id": "/fi/compress-image-sizes.html",
   "start_url": "./compress-image-sizes.html",
   "scope": "./compress-image-sizes.html",
   "display": "standalone",

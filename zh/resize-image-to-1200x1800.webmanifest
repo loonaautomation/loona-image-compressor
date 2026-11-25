@@ -2,7 +2,7 @@
   "name": "Loona 在线将图片调整为 1200 × 1800 px",
   "short_name": "在线将图片调整为 1200 × 1800 px",
   "description": "将任何图片调整为精确的 1200×1800 px — 300 DPI 下的 4 × 6 英寸照片打印。在浏览器中免费使用，带裁剪控制；无需上传，无需注册。",
-  "id": "/loona-image-compressor/zh/resize-image-to-1200x1800.html",
+  "id": "/zh/resize-image-to-1200x1800.html",
   "start_url": "./resize-image-to-1200x1800.html",
   "scope": "./resize-image-to-1200x1800.html",
   "display": "standalone",

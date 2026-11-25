@@ -2,7 +2,7 @@
   "name": "Loona Fifiza Uso",
   "short_name": "Fifiza Uso",
   "description": "Fifiza au pikseli nyuso, namba za magari na maelezo ya faragha katika picha yoyote. Unachagua maeneo mwenyewe, unachagua nguvu, unahakiki na kupakua — bure, bila kujisajili, na picha yako haiondoki kwenye kifaa chako kamwe.",
-  "id": "/loona-image-compressor/sw/face-blur.html",
+  "id": "/sw/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

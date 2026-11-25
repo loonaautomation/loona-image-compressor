@@ -2,7 +2,7 @@
   "name": "Loona BMP تا JPG کنورٹر",
   "short_name": "BMP تا JPG کنورٹر",
   "description": "BMP کو JPG میں آن لائن مفت تبدیل کریں اور بڑی غیر کمپریس شدہ بٹ میپس کو 90% یا اس سے زیادہ سکڑیں۔ آپ کے براؤزر میں — نہ سائن اپ، نہ اپ لوڈ، نہ واٹر مارک۔",
-  "id": "/loona-image-compressor/ur/bmp-to-jpg.html",
+  "id": "/ur/bmp-to-jpg.html",
   "start_url": "./bmp-to-jpg.html",
   "scope": "./bmp-to-jpg.html",
   "display": "standalone",

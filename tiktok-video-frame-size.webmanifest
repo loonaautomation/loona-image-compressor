@@ -2,7 +2,7 @@
   "name": "Loona TikTok Video Frame Size",
   "short_name": "TikTok Video Frame Size",
   "description": "Make a TikTok video frame at exactly 1080×1920 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/tiktok-video-frame-size.html",
+  "id": "/tiktok-video-frame-size.html",
   "start_url": "./tiktok-video-frame-size.html",
   "scope": "./tiktok-video-frame-size.html",
   "display": "standalone",

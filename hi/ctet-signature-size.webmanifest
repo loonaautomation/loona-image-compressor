@@ -2,7 +2,7 @@
   "name": "Loona CTET हस्ताक्षर साइज़",
   "short_name": "CTET हस्ताक्षर साइज़",
   "description": "अपनी CTET हस्ताक्षर को अधिसूचना साइज़ (स्कैन किया गया बॉक्स, अनुपात लगभग 7:2) और 3–30 KB बैंड में बदलें. मुफ़्त, आपके ब्राउज़र में — न अपलोड, न साइन-अप.",
-  "id": "/loona-image-compressor/hi/ctet-signature-size.html",
+  "id": "/hi/ctet-signature-size.html",
   "start_url": "./ctet-signature-size.html",
   "scope": "./ctet-signature-size.html",
   "display": "standalone",

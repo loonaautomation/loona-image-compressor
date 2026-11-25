@@ -2,7 +2,7 @@
   "name": "Loona Размер Снимка за виза за Саудитска Арабия",
   "short_name": "Размер Снимка за виза за",
   "description": "Направете Снимка за виза за Саудитска Арабия в официалния размер 40×60 mm (472×709 px), фон обикновен бял. Безплатен онлайн инструмент — изрязване, изтегляне и лист за печат, без качване.",
-  "id": "/loona-image-compressor/bg/saudi-visa-photo-size.html",
+  "id": "/bg/saudi-visa-photo-size.html",
   "start_url": "./saudi-visa-photo-size.html",
   "scope": "./saudi-visa-photo-size.html",
   "display": "standalone",

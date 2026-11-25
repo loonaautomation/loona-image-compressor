@@ -2,7 +2,7 @@
   "name": "Loona Veľkosť Pasová fotografia Nemecka (biometrická)",
   "short_name": "Veľkosť Pasová fotografia",
   "description": "Vytvorte Pasová fotografia Nemecka (biometrická) v oficiálnej veľkosti 35×45 mm (413×531 px), pozadie: svetlosivé, jednofarebné. Bezplatný online tvorca — orezanie, stiahnutie a tlačový hárok, bez nahrávania.",
-  "id": "/loona-image-compressor/sk/germany-passport-photo-size.html",
+  "id": "/sk/germany-passport-photo-size.html",
   "start_url": "./germany-passport-photo-size.html",
   "scope": "./germany-passport-photo-size.html",
   "display": "standalone",

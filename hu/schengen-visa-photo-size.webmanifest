@@ -2,7 +2,7 @@
   "name": "Loona Schengeni vízumfotó méret",
   "short_name": "Schengeni vízumfotó méret",
   "description": "Készítsen Schengeni vízumfotó fotót a hivatalos 35×45 mm (413×531 px) méretben, világosszürke vagy sima világos háttér háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/schengen-visa-photo-size.html",
+  "id": "/hu/schengen-visa-photo-size.html",
   "start_url": "./schengen-visa-photo-size.html",
   "scope": "./schengen-visa-photo-size.html",
   "display": "standalone",

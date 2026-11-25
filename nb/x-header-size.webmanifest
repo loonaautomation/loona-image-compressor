@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) Topp / Banner-størrelse",
   "short_name": "X (Twitter) Topp /",
   "description": "Lag en X (Twitter) topp / banner med nøyaktig 1500×500 px. Gratis størrelsesendrer/beskjærer i nettleseren din med reglene for sikre soner som stopper beskåret tekst og ansikter.",
-  "id": "/loona-image-compressor/nb/x-header-size.html",
+  "id": "/nb/x-header-size.html",
   "start_url": "./x-header-size.html",
   "scope": "./x-header-size.html",
   "display": "standalone",

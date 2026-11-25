@@ -2,7 +2,7 @@
   "name": "Loona Сжать PNG до 150 KB онлайн",
   "short_name": "Сжать PNG до 150 KB онлайн",
   "description": "Compress a PNG image to 150 KB or under, free in your browser. Automatic search finds the best quality that fits — no signup, no upload.",
-  "id": "/loona-image-compressor/compress-png-to-150kb.html",
+  "id": "/compress-png-to-150kb.html",
   "start_url": "./compress-png-to-150kb.html",
   "scope": "./compress-png-to-150kb.html",
   "display": "standalone",

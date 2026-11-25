@@ -2,7 +2,7 @@
   "name": "Loona Britisk visumfoto størrelse",
   "short_name": "Britisk visumfoto størrelse",
   "description": "Lav et Britisk visumfoto i den officielle størrelse 35×45 mm (600×750 px), ensfarvet lysegrå baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
-  "id": "/loona-image-compressor/da/uk-visa-photo-size.html",
+  "id": "/da/uk-visa-photo-size.html",
   "start_url": "./uk-visa-photo-size.html",
   "scope": "./uk-visa-photo-size.html",
   "display": "standalone",

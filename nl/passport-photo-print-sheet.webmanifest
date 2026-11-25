@@ -2,7 +2,7 @@
   "name": "Loona Printvel pasfoto's",
   "short_name": "Printvel pasfoto's",
   "description": "Zet gratis 4, 6 of 8 pasfoto's op één A4-printvel bij 300 DPI. Print op 100%, knip op de hulplijnen en bespaar studiogeld. Geen aanmelding, volledig privé.",
-  "id": "/loona-image-compressor/nl/passport-photo-print-sheet.html",
+  "id": "/nl/passport-photo-print-sheet.html",
   "start_url": "./passport-photo-print-sheet.html",
   "scope": "./passport-photo-print-sheet.html",
   "display": "standalone",

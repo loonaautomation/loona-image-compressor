@@ -2,7 +2,7 @@
   "name": "Loona Idea Pin / Ιστορία Pinterest",
   "short_name": "Idea Pin / Ιστορία Pinterest",
   "description": "Δημιουργήστε ένα idea pin / ιστορία Pinterest σε ακριβώς 1080×1920 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/pinterest-idea-pin-size.html",
+  "id": "/el/pinterest-idea-pin-size.html",
   "start_url": "./pinterest-idea-pin-size.html",
   "scope": "./pinterest-idea-pin-size.html",
   "display": "standalone",

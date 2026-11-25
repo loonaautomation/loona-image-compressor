@@ -2,7 +2,7 @@
   "name": "Loona Formaat Facebook Post- / linkafbeelding",
   "short_name": "Formaat Facebook Post- /",
   "description": "Maak een Facebook post- / linkafbeelding op precies 1200×630 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/facebook-post-image-size.html",
+  "id": "/nl/facebook-post-image-size.html",
   "start_url": "./facebook-post-image-size.html",
   "scope": "./facebook-post-image-size.html",
   "display": "standalone",

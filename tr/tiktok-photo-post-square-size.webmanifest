@@ -2,7 +2,7 @@
   "name": "Loona TikTok Fotoğraf Gönderisi (Kare) Boyutu — 1080×1080 px",
   "short_name": "TikTok Fotoğraf Gönderisi (Kare) Boyutu — 1080×1080 px",
   "description": "Tam olarak 1080×1080 px ölçüsünde bir TikTok fotoğraf gönderisi (kare) oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/tiktok-photo-post-square-size.html",
+  "id": "/tr/tiktok-photo-post-square-size.html",
   "start_url": "./tiktok-photo-post-square-size.html",
   "scope": "./tiktok-photo-post-square-size.html",
   "display": "standalone",

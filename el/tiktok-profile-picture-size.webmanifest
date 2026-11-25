@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Προφίλ TikTok",
   "short_name": "Φωτογραφία Προφίλ TikTok",
   "description": "Δημιουργήστε ένα φωτογραφία προφίλ TikTok σε ακριβώς 720×720 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/tiktok-profile-picture-size.html",
+  "id": "/el/tiktok-profile-picture-size.html",
   "start_url": "./tiktok-profile-picture-size.html",
   "scope": "./tiktok-profile-picture-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha Paleti ya Rangi",
   "short_name": "Kizalishaji cha Paleti ya",
   "description": "Tengeneza paleti za rangi zinazopatana kutoka rangi yoyote ya msingi — mipango inayolingana, inayokamilishana, ya tatu na ya rangi moja yenye misimbo ya HEX inayoweza kunakiliwa. Bure, bila kujisajili.",
-  "id": "/loona-image-compressor/sw/color-palette-generator.html",
+  "id": "/sw/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",
   "scope": "./color-palette-generator.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Veličina LinkedIn Banner profila / stranice",
   "short_name": "Veličina LinkedIn Banner",
   "description": "Izradite LinkedIn banner profila / stranice na točno 1584×396 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/linkedin-banner-size.html",
+  "id": "/hr/linkedin-banner-size.html",
   "start_url": "./linkedin-banner-size.html",
   "scope": "./linkedin-banner-size.html",
   "display": "standalone",

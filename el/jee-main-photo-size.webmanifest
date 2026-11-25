@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία JEE Main",
   "short_name": "Φωτογραφία JEE Main",
   "description": "Αλλάξτε το μέγεθος της φωτογραφία JEE Main στο μέγεθος της προκήρυξης (3.5 × 4.5 cm (περίπου 413 × 531 px στα 300 DPI)) και στη ζώνη 10–200 KB. Δωρεάν, στο πρόγραμμα περιήγησής σας — χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/jee-main-photo-size.html",
+  "id": "/el/jee-main-photo-size.html",
   "start_url": "./jee-main-photo-size.html",
   "scope": "./jee-main-photo-size.html",
   "display": "standalone",

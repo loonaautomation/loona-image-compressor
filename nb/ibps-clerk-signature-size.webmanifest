@@ -2,7 +2,7 @@
   "name": "Loona IBPS Clerk (CSA) Signatur-størrelse",
   "short_name": "IBPS Clerk (CSA)",
   "description": "Endre størrelsen på IBPS Clerk (CSA) signatur til varslingsstørrelsen (140 × 60 px) og båndet på 10–20 KB. Gratis, i nettleseren din — ingen opplasting, ingen registrering.",
-  "id": "/loona-image-compressor/nb/ibps-clerk-signature-size.html",
+  "id": "/nb/ibps-clerk-signature-size.html",
   "start_url": "./ibps-clerk-signature-size.html",
   "scope": "./ibps-clerk-signature-size.html",
   "display": "standalone",

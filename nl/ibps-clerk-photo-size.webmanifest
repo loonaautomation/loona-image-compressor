@@ -2,7 +2,7 @@
   "name": "Loona Formaat IBPS Clerk (CSA) Foto",
   "short_name": "Formaat IBPS Clerk (CSA) Foto",
   "description": "Pas je IBPS Clerk (CSA)-foto aan naar het formaat uit de aankondiging (200 × 230 px) en de band van 20–50 KB. Gratis, in je browser — geen upload, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/ibps-clerk-photo-size.html",
+  "id": "/nl/ibps-clerk-photo-size.html",
   "start_url": "./ibps-clerk-photo-size.html",
   "scope": "./ibps-clerk-photo-size.html",
   "display": "standalone",

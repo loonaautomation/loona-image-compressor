@@ -2,7 +2,7 @@
   "name": "Loona Fotoformaat Pasfoto VS",
   "short_name": "Fotoformaat Pasfoto VS",
   "description": "Maak een Pasfoto VS op het officiële formaat 51×51 mm (600×600 px), achtergrond: effen wit. Gratis online maker — bijsnijden, downloaden en printvel, geen upload.",
-  "id": "/loona-image-compressor/nl/us-passport-photo-size.html",
+  "id": "/nl/us-passport-photo-size.html",
   "start_url": "./us-passport-photo-size.html",
   "scope": "./us-passport-photo-size.html",
   "display": "standalone",

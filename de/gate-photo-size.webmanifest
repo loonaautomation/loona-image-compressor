@@ -2,7 +2,7 @@
   "name": "Loona GATE Foto Größe",
   "short_name": "GATE Foto Größe",
   "description": "Passen Sie Ihr GATE-Foto auf die Größe der Bekanntmachung (480 × 640 px) und den Bereich 5–200 KB an. Kostenlos, in Ihrem Browser — ohne Upload, ohne Anmeldung.",
-  "id": "/loona-image-compressor/de/gate-photo-size.html",
+  "id": "/de/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

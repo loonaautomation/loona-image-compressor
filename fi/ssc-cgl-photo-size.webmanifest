@@ -2,7 +2,7 @@
   "name": "Loona Kokeen SSC CGL Valokuva koko",
   "short_name": "Kokeen SSC CGL Valokuva koko",
   "description": "Muuta kokeen SSC CGL valokuva ilmoitettuun kokoon (200 × 230 px) ja välille 20–50 KB. Ilmaiseksi selaimessasi — ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/ssc-cgl-photo-size.html",
+  "id": "/fi/ssc-cgl-photo-size.html",
   "start_url": "./ssc-cgl-photo-size.html",
   "scope": "./ssc-cgl-photo-size.html",
   "display": "standalone",

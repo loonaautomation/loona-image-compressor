@@ -2,7 +2,7 @@
   "name": "Loona Desfoque de Rostos",
   "short_name": "Desfoque de Rostos",
   "description": "Desfoque ou pixele rostos, matrículas e pormenores privados em qualquer fotografia. É você que seleciona as áreas, escolhe a intensidade, pré-visualiza e transfere — grátis, sem registo, e a sua fotografia nunca sai do dispositivo.",
-  "id": "/loona-image-compressor/pt/face-blur.html",
+  "id": "/pt/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

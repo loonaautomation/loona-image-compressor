@@ -2,7 +2,7 @@
   "name": "Loona Australian passikuva koko",
   "short_name": "Australian passikuva koko",
   "description": "Tee Australian passikuva virallisessa koossa 35×45 mm (413×531 px), taustana tavallinen valkoinen tai vaaleanharmaa. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/australia-passport-photo-size.html",
+  "id": "/fi/australia-passport-photo-size.html",
   "start_url": "./australia-passport-photo-size.html",
   "scope": "./australia-passport-photo-size.html",
   "display": "standalone",

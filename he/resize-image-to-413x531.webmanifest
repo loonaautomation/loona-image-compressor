@@ -2,7 +2,7 @@
   "name": "Loona שינוי גודל תמונה ל־413 × 531 px באינטרנט",
   "short_name": "שינוי גודל תמונה ל־413 × 531",
   "description": "שנו גודל של כל תמונה בדיוק ל־413×531 px — 35 × 45 מ&quot;מ ב־300 DPI — גודל ההדפסה ICAO/שנגן בפיקסלים. בחינם בדפדפן שלכם עם בקרת חיתוך; ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/resize-image-to-413x531.html",
+  "id": "/he/resize-image-to-413x531.html",
   "start_url": "./resize-image-to-413x531.html",
   "scope": "./resize-image-to-413x531.html",
   "display": "standalone",

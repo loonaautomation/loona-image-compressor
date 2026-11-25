@@ -2,7 +2,7 @@
   "name": "Loona Tamaño de Pasaporte / visa de Brasil",
   "short_name": "Tamaño de Pasaporte / visa de",
   "description": "Crea una Pasaporte / visa de Brasil con el tamaño oficial de 50×70 mm (591×827 px), fondo blanco liso. Creador en línea gratuito: recorta, descarga e imprime la hoja, sin subir archivos.",
-  "id": "/loona-image-compressor/es/brazil-passport-photo-size.html",
+  "id": "/es/brazil-passport-photo-size.html",
   "start_url": "./brazil-passport-photo-size.html",
   "scope": "./brazil-passport-photo-size.html",
   "display": "standalone",

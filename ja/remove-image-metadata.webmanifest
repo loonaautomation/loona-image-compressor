@@ -2,7 +2,7 @@
   "name": "Loona 画像メタデータを削除",
   "short_name": "画像メタデータを削除",
   "description": "JPG、PNG、WebPの写真からEXIF、GPS位置情報、XMP、IPTCメタデータをオンラインで無料で削除できます。バイトレベルの削除 — ピクセルは再エンコードされることは決してないため、画質は無傷です。再スキャンによって検証され、ブラウザで100%プライベート。",
-  "id": "/loona-image-compressor/ja/remove-image-metadata.html",
+  "id": "/ja/remove-image-metadata.html",
   "start_url": "./remove-image-metadata.html",
   "scope": "./remove-image-metadata.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Компресиране на JPG до 1000 KB онлайн",
   "short_name": "Компресиране на JPG до 1000",
   "description": "Компресирайте изображение JPG до 1000 KB или по-малко, безплатно във вашия браузър. Автоматичното търсене намира най-доброто качество, което се побира — без регистрация, без качване.",
-  "id": "/loona-image-compressor/bg/compress-jpg-to-1000kb.html",
+  "id": "/bg/compress-jpg-to-1000kb.html",
   "start_url": "./compress-jpg-to-1000kb.html",
   "scope": "./compress-jpg-to-1000kb.html",
   "display": "standalone",

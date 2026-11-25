@@ -2,7 +2,7 @@
   "name": "Loona Ubah Ukuran Gambar ke 720 × 720 px Online",
   "short_name": "Ubah Ukuran Gambar ke 720 ×",
   "description": "Ubah ukuran gambar apa pun tepat ke 720×720 px — Minimum profil Facebook &amp; ukuran avatar umum. Gratis di browser Anda dengan kontrol potong; tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/resize-image-to-720x720.html",
+  "id": "/id/resize-image-to-720x720.html",
   "start_url": "./resize-image-to-720x720.html",
   "scope": "./resize-image-to-720x720.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Τυπικό Pin Pinterest",
   "short_name": "Τυπικό Pin Pinterest",
   "description": "Δημιουργήστε ένα τυπικό pin Pinterest σε ακριβώς 1000×1500 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/pinterest-pin-size.html",
+  "id": "/el/pinterest-pin-size.html",
   "start_url": "./pinterest-pin-size.html",
   "scope": "./pinterest-pin-size.html",
   "display": "standalone",

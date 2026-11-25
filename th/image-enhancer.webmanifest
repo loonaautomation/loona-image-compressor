@@ -2,7 +2,7 @@
   "name": "Loona ตัวปรับปรุงรูปภาพ",
   "short_name": "ตัวปรับปรุงรูปภาพ",
   "description": "ปรับปรุงรูปถ่ายออนไลน์ฟรี: ปรับปรุงอัตโนมัติคลิกเดียว เพิ่มความคมชัดรูปถ่ายที่นุ่ม ล้างสัญญาณรบกวนอย่างนุ่มนวล และอัปสเกล 2x หรือ 4x ผลลัพธ์ที่ตรงไปตรงมา ไม่ต้องสมัครสมาชิก และรูปถ่ายของคุณไม่เคยออกจากอุปกรณ์ของคุณ",
-  "id": "/loona-image-compressor/th/image-enhancer.html",
+  "id": "/th/image-enhancer.html",
   "start_url": "./image-enhancer.html",
   "scope": "./image-enhancer.html",
   "display": "standalone",

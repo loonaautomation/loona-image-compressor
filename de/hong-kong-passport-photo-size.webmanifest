@@ -2,7 +2,7 @@
   "name": "Loona Hongkong-Passfoto Größe",
   "short_name": "Hongkong-Passfoto Größe",
   "description": "Erstellen Sie ein Hongkong-Passfoto in der offiziellen Größe 40×50 mm (472×591 px), Hintergrund einfarbig weiß. Kostenloser Online-Ersteller — zuschneiden, herunterladen und Druckbogen, ohne Upload.",
-  "id": "/loona-image-compressor/de/hong-kong-passport-photo-size.html",
+  "id": "/de/hong-kong-passport-photo-size.html",
   "start_url": "./hong-kong-passport-photo-size.html",
   "scope": "./hong-kong-passport-photo-size.html",
   "display": "standalone",

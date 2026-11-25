@@ -2,7 +2,7 @@
   "name": "Loona ขนาดปกกิจกรรม Facebook",
   "short_name": "ขนาดปกกิจกรรม Facebook",
   "description": "ทำปกกิจกรรม Facebook ที่ขนาด 1920×1005 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/facebook-event-cover-size.html",
+  "id": "/th/facebook-event-cover-size.html",
   "start_url": "./facebook-event-cover-size.html",
   "scope": "./facebook-event-cover-size.html",
   "display": "standalone",

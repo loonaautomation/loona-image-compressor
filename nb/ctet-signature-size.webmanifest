@@ -2,7 +2,7 @@
   "name": "Loona CTET Signatur-størrelse",
   "short_name": "CTET Signatur-størrelse",
   "description": "Endre størrelsen på CTET signatur til varslingsstørrelsen (skannet boks, forhold omtrent 7:2) og båndet på 3–30 KB. Gratis, i nettleseren din — ingen opplasting, ingen registrering.",
-  "id": "/loona-image-compressor/nb/ctet-signature-size.html",
+  "id": "/nb/ctet-signature-size.html",
   "start_url": "./ctet-signature-size.html",
   "scope": "./ctet-signature-size.html",
   "display": "standalone",

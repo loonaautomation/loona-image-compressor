@@ -2,7 +2,7 @@
   "name": "Loona حجم غلاف / إطار Shorts YouTube",
   "short_name": "حجم غلاف / إطار Shorts YouTube",
   "description": "اصنع غلاف / إطار shorts YouTube بمقاس 1080×1920 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/youtube-shorts-size.html",
+  "id": "/ar/youtube-shorts-size.html",
   "start_url": "./youtube-shorts-size.html",
   "scope": "./youtube-shorts-size.html",
   "display": "standalone",

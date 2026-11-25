@@ -2,7 +2,7 @@
   "name": "Loona Muuta kuvan koko kokoon 1920 × 1080",
   "short_name": "Muuta kuvan koko kokoon 1920",
   "description": "Muuta minkä tahansa kuvan koko täsmälleen kokoon 1920 × 1080 pikseliä (Full HD -näytöt, työpöydän taustakuvat ja YouTuben lopetusnäytöt) ilmaiseksi. Peitä, sisällä tai venytä, JPG tai PNG, lataa heti — ei rekisteröitymistä, mitään ei ladata palvelimelle.",
-  "id": "/loona-image-compressor/fi/resize-image-to-1920x1080.html",
+  "id": "/fi/resize-image-to-1920x1080.html",
   "start_url": "./resize-image-to-1920x1080.html",
   "scope": "./resize-image-to-1920x1080.html",
   "display": "standalone",

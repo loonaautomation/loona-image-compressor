@@ -2,7 +2,7 @@
   "name": "Loona Discord Egyéni emoji méret",
   "short_name": "Discord Egyéni emoji méret",
   "description": "Készítsen Discord egyéni emoji képet pontosan 128×128 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/discord-emoji-size.html",
+  "id": "/hu/discord-emoji-size.html",
   "start_url": "./discord-emoji-size.html",
   "scope": "./discord-emoji-size.html",
   "display": "standalone",

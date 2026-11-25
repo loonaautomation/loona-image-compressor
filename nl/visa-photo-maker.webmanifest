@@ -2,7 +2,7 @@
   "name": "Loona Visumfotomaker",
   "short_name": "Visumfotomaker",
   "description": "Maak gratis online visumfoto's: VS 2x2 inch, VK en Schengen 35x45 mm, China 33x48 mm bij 300 DPI. Geen aanmelding, geen watermerk, volledig privé tool.",
-  "id": "/loona-image-compressor/nl/visa-photo-maker.html",
+  "id": "/nl/visa-photo-maker.html",
   "start_url": "./visa-photo-maker.html",
   "scope": "./visa-photo-maker.html",
   "display": "standalone",

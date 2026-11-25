@@ -2,7 +2,7 @@
   "name": "Loona Ubah Ukuran Gambar ke 354 × 472 px Online",
   "short_name": "Ubah Ukuran Gambar ke 354 ×",
   "description": "Ubah ukuran gambar apa pun tepat ke 354×472 px — 30 × 40 mm pada 300 DPI — ukuran dokumen Iran/Kolombia. Gratis di browser Anda dengan kontrol potong; tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/resize-image-to-354x472.html",
+  "id": "/id/resize-image-to-354x472.html",
   "start_url": "./resize-image-to-354x472.html",
   "scope": "./resize-image-to-354x472.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Redimensionează imaginea la 1080 × 1350",
   "short_name": "Redimensionează imaginea la",
   "description": "Redimensionează orice imagine la exact 1080 × 1350 pixeli (Instagram portrait posts in the 4:5 ratio) gratuit. Acoperă, conține sau întinde, JPG sau PNG, descarcă instantaneu — fără înregistrare, nimic încărcat.",
-  "id": "/loona-image-compressor/ro/resize-image-to-1080x1350.html",
+  "id": "/ro/resize-image-to-1080x1350.html",
   "start_url": "./resize-image-to-1080x1350.html",
   "scope": "./resize-image-to-1080x1350.html",
   "display": "standalone",

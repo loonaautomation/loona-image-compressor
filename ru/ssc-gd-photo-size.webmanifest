@@ -2,7 +2,7 @@
   "name": "Loona Размер Фотография для SSC GD Constable",
   "short_name": "Размер Фотография для SSC GD Constable",
   "description": "Resize your SSC GD Constable photo to the notification size (200 × 230 px) and 20–50 KB band. Free, in your browser — no upload, no signup.",
-  "id": "/loona-image-compressor/ssc-gd-photo-size.html",
+  "id": "/ssc-gd-photo-size.html",
   "start_url": "./ssc-gd-photo-size.html",
   "scope": "./ssc-gd-photo-size.html",
   "display": "standalone",

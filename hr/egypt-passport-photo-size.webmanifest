@@ -2,7 +2,7 @@
   "name": "Loona Veličina Fotografija za putovnicu Egipta",
   "short_name": "Veličina Fotografija za",
   "description": "Izradite Fotografija za putovnicu Egipta u službenoj veličini 40×60 mm (472×709 px), pozadina jednobojna bijela. Besplatni mrežni izrađivač — izrežite, preuzmite i ispišite list, bez prijenosa.",
-  "id": "/loona-image-compressor/hr/egypt-passport-photo-size.html",
+  "id": "/hr/egypt-passport-photo-size.html",
   "start_url": "./egypt-passport-photo-size.html",
   "scope": "./egypt-passport-photo-size.html",
   "display": "standalone",

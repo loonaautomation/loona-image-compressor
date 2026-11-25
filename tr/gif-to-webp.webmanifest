@@ -2,7 +2,7 @@
   "name": "Loona GIF → WEBP Dönüştürücü – Ücretsiz, Yüklemesiz",
   "short_name": "GIF → WEBP Dönüştürücü – Ücretsiz, Yüklemesiz",
   "description": "GIF formatını WEBP formatına çevrimiçi, ücretsiz, tarayıcınızda dönüştürün. Cihazınızda gerçek dönüştürme — yükleme yok, kayıt yok, filigran yok.",
-  "id": "/loona-image-compressor/tr/gif-to-webp.html",
+  "id": "/tr/gif-to-webp.html",
   "start_url": "./gif-to-webp.html",
   "scope": "./gif-to-webp.html",
   "display": "standalone",

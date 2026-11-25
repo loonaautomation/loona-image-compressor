@@ -2,7 +2,7 @@
   "name": "Loona Facebook Bejegyzés- / hivatkozáskép méret",
   "short_name": "Facebook Bejegyzés- /",
   "description": "Készítsen Facebook bejegyzés- / hivatkozáskép képet pontosan 1200×630 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/facebook-post-image-size.html",
+  "id": "/hu/facebook-post-image-size.html",
   "start_url": "./facebook-post-image-size.html",
   "scope": "./facebook-post-image-size.html",
   "display": "standalone",

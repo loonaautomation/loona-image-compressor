@@ -2,7 +2,7 @@
   "name": "Loona Formato Visto della Cina",
   "short_name": "Formato Visto della Cina",
   "description": "Crea la foto Visto della Cina nel formato ufficiale di 33×48 mm (390×567 px), sfondo bianco liso. Strumento online gratuito: ritaglia, scarica e stampa il foglio, senza caricamenti.",
-  "id": "/loona-image-compressor/it/china-visa-photo-size.html",
+  "id": "/it/china-visa-photo-size.html",
   "start_url": "./china-visa-photo-size.html",
   "scope": "./china-visa-photo-size.html",
   "display": "standalone",

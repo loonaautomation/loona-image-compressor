@@ -2,7 +2,7 @@
   "name": "Loona 이미지를 10 KB로 압축하기 온라인",
   "short_name": "이미지를 10 KB로 압축하기 온라인",
   "description": "JPG, PNG, WebP 이미지를 10 KB 이하로 압축하세요. 온라인에서 무료예요. 브라우저에서 품질과 크기를 자동 탐색해요 — 회원가입도, 업로드도 없어요.",
-  "id": "/loona-image-compressor/ko/compress-image-to-10kb.html",
+  "id": "/ko/compress-image-to-10kb.html",
   "start_url": "./compress-image-to-10kb.html",
   "scope": "./compress-image-to-10kb.html",
   "display": "standalone",

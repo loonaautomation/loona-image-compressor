@@ -2,7 +2,7 @@
   "name": "Loona Comprimi WebP a 1000 KB online",
   "short_name": "Comprimi WebP a 1000 KB online",
   "description": "Comprimi un&#x27;immagine WebP a 1000 KB o meno, gratis nel tuo browser. La ricerca automatica trova la migliore qualità possibile: senza registrazione e senza caricamenti.",
-  "id": "/loona-image-compressor/it/compress-webp-to-1000kb.html",
+  "id": "/it/compress-webp-to-1000kb.html",
   "start_url": "./compress-webp-to-1000kb.html",
   "scope": "./compress-webp-to-1000kb.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Zmeniť veľkosť obrázka na 600 × 600 px online",
   "short_name": "Zmeniť veľkosť obrázka na 600",
   "description": "Zmeňte veľkosť akéhokoľvek obrázka presne na 600×600 px — Minimálna digitálna veľkosť pre americký pas/vízum a DV Lottery. Zadarmo vo vašom prehliadači s ovládaním orezania; bez nahrávania a bez registrácie.",
-  "id": "/loona-image-compressor/sk/resize-image-to-600x600.html",
+  "id": "/sk/resize-image-to-600x600.html",
   "start_url": "./resize-image-to-600x600.html",
   "scope": "./resize-image-to-600x600.html",
   "display": "standalone",

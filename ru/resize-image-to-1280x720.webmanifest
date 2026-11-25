@@ -2,7 +2,7 @@
   "name": "Loona Изменить размер изображения до 1280 × 720",
   "short_name": "Изменить размер изображения до 1280 × 720",
   "description": "Resize any image to exactly 1280 × 720 pixels (YouTube thumbnails and HD video) for free. Cover, contain or stretch, JPG or PNG, download instantly — no signup, nothing uploaded.",
-  "id": "/loona-image-compressor/resize-image-to-1280x720.html",
+  "id": "/resize-image-to-1280x720.html",
   "start_url": "./resize-image-to-1280x720.html",
   "scope": "./resize-image-to-1280x720.html",
   "display": "standalone",

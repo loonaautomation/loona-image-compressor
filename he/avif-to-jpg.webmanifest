@@ -2,7 +2,7 @@
   "name": "Loona ממיר AVIF ל־JPG",
   "short_name": "ממיר AVIF ל־JPG",
   "description": "המירו AVIF ל־JPG באינטרנט, בחינם, בדפדפן שלכם. המרה אמיתית במכשיר שלכם — ללא העלאה, ללא הרשמה, ללא סימני מים.",
-  "id": "/loona-image-compressor/he/avif-to-jpg.html",
+  "id": "/he/avif-to-jpg.html",
   "start_url": "./avif-to-jpg.html",
   "scope": "./avif-to-jpg.html",
   "display": "standalone",

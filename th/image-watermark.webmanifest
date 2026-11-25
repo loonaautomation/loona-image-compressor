@@ -2,7 +2,7 @@
   "name": "Loona ลายน้ำรูปภาพ",
   "short_name": "ลายน้ำรูปภาพ",
   "description": "เพิ่มลายน้ำข้อความให้รูปถ่ายใดก็ได้ออนไลน์ฟรี — เลือกข้อความ ขนาด สี ความทึบแสง และตำแหน่ง หรือทำซ้ำมันเป็นลวดลายกระเบื้อง ตัวอย่างแบบเรียลไทม์ ไม่ต้องสมัครสมาชิก และรูปภาพของคุณไม่เคยออกจากอุปกรณ์ของคุณ",
-  "id": "/loona-image-compressor/th/image-watermark.html",
+  "id": "/th/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

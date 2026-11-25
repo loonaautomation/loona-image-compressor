@@ -2,7 +2,7 @@
   "name": "Loona Προβολή Μεταδεδομένων Εικόνας & EXIF",
   "short_name": "Προβολή Μεταδεδομένων Εικόνας",
   "description": "Δείτε τα κρυμμένα μεταδεδομένα σε οποιαδήποτε φωτογραφία JPG, PNG ή WebP διαδικτυακά δωρεάν — μάρκα και μοντέλο κάμερας, ημερομηνία λήψης, έκθεση, ISO, εστιακή απόσταση, τοποθεσία GPS, βασικά IPTC και XMP. Τίποτα δεν μεταφορτώνεται: η φωτογραφία σας δεν φεύγει ποτέ από τη συσκευή σας.",
-  "id": "/loona-image-compressor/el/image-metadata-viewer.html",
+  "id": "/el/image-metadata-viewer.html",
   "start_url": "./image-metadata-viewer.html",
   "scope": "./image-metadata-viewer.html",
   "display": "standalone",

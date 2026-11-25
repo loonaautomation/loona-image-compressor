@@ -2,7 +2,7 @@
   "name": "Loona স্বাক্ষরের পটভূমি সরানোর টুল",
   "short_name": "স্বাক্ষরের পটভূমি সরানোর টুল",
   "description": "স্বাক্ষর বা স্ট্যাম্পের ছবি থেকে কাগজের পটভূমি সরান এবং স্বচ্ছ PNG ডাউনলোড করুন, অনলাইনে বিনামূল্যে। খাঁটি ব্রাউজার ক্যানভাস টুল, কোনো AI নেই, কোনো আপলোড নেই, কোনো সাইনআপ নেই।",
-  "id": "/loona-image-compressor/bn/signature-background-remover.html",
+  "id": "/bn/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

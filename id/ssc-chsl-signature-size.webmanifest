@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Tanda Tangan SSC CHSL",
   "short_name": "Ukuran Tanda Tangan SSC CHSL",
   "description": "Ubah ukuran tanda tangan SSC CHSL Anda ke ukuran pemberitahuan (140 × 60 px) dan rentang 10–20 KB. Gratis, di browser Anda — tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/ssc-chsl-signature-size.html",
+  "id": "/id/ssc-chsl-signature-size.html",
   "start_url": "./ssc-chsl-signature-size.html",
   "scope": "./ssc-chsl-signature-size.html",
   "display": "standalone",

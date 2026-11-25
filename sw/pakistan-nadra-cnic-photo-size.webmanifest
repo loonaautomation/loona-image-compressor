@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya CNIC ya NADRA ya Pakistan",
   "short_name": "Ukubwa wa Picha ya CNIC ya",
   "description": "Tengeneza Picha ya CNIC ya NADRA ya Pakistan katika ukubwa rasmi wa milimita 51×51 (px 600×600), mandharinyuma ya nyeupe tambarare. Kitengenezaji bure cha mtandaoni — kata, pakua na uchapishe karatasi, bila kupakia.",
-  "id": "/loona-image-compressor/sw/pakistan-nadra-cnic-photo-size.html",
+  "id": "/sw/pakistan-nadra-cnic-photo-size.html",
   "start_url": "./pakistan-nadra-cnic-photo-size.html",
   "scope": "./pakistan-nadra-cnic-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona AVIF → JPG Dönüştürücü – Ücretsiz, Yüklemesiz",
   "short_name": "AVIF → JPG Dönüştürücü – Ücretsiz, Yüklemesiz",
   "description": "AVIF formatını JPG formatına çevrimiçi, ücretsiz, tarayıcınızda dönüştürün. Cihazınızda gerçek dönüştürme — yükleme yok, kayıt yok, filigran yok.",
-  "id": "/loona-image-compressor/tr/avif-to-jpg.html",
+  "id": "/tr/avif-to-jpg.html",
   "start_url": "./avif-to-jpg.html",
   "scope": "./avif-to-jpg.html",
   "display": "standalone",

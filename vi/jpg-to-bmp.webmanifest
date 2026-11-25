@@ -2,7 +2,7 @@
   "name": "Loona Trình chuyển đổi JPG sang BMP",
   "short_name": "Trình chuyển đổi JPG sang BMP",
   "description": "Chuyển đổi JPG sang BMP trực tuyến, miễn phí, ngay trong trình duyệt của bạn. Chuyển đổi thật trên thiết bị của bạn — không tải lên, không đăng ký, không hình mờ.",
-  "id": "/loona-image-compressor/vi/jpg-to-bmp.html",
+  "id": "/vi/jpg-to-bmp.html",
   "start_url": "./jpg-to-bmp.html",
   "scope": "./jpg-to-bmp.html",
   "display": "standalone",

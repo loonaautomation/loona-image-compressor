@@ -2,7 +2,7 @@
   "name": "Loona AVIF",
   "short_name": "AVIF",
   "description": "Konvertáljon AVIF fájlt PNG formátumba online, ingyen, a böngészőjében. Valódi konvertálás a saját eszközén — feltöltés, regisztráció és vízjelek nélkül.",
-  "id": "/loona-image-compressor/hu/avif-to-png.html",
+  "id": "/hu/avif-to-png.html",
   "start_url": "./avif-to-png.html",
   "scope": "./avif-to-png.html",
   "display": "standalone",

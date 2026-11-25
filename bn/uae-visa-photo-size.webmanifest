@@ -2,7 +2,7 @@
   "name": "Loona UAE ভিসা / Emirates ID ছবি আকার",
   "short_name": "UAE ভিসা / Emirates ID ছবি",
   "description": "সরকারি আকার 40×60 mm (472×709 px)-এ একটি UAE ভিসা / Emirates ID ছবি তৈরি করুন, সাধারণ সাদা পটভূমিসহ। বিনামূল্যে অনলাইন মেকার — ক্রপ করুন, ডাউনলোড করুন ও শিট প্রিন্ট করুন, আপলোড ছাড়া।",
-  "id": "/loona-image-compressor/bn/uae-visa-photo-size.html",
+  "id": "/bn/uae-visa-photo-size.html",
   "start_url": "./uae-visa-photo-size.html",
   "scope": "./uae-visa-photo-size.html",
   "display": "standalone",

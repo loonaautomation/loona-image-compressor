@@ -2,7 +2,7 @@
   "name": "Loona SBI Clerk (Junior Associates)の署名サイズ",
   "short_name": "SBI Clerk (Junior",
   "description": "SBI Clerk (Junior Associates)の署名を告知サイズ（140 × 60 px）と10–20 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
-  "id": "/loona-image-compressor/ja/sbi-clerk-signature-size.html",
+  "id": "/ja/sbi-clerk-signature-size.html",
   "start_url": "./sbi-clerk-signature-size.html",
   "scope": "./sbi-clerk-signature-size.html",
   "display": "standalone",

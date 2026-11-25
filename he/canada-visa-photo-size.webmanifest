@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת ויזה לקנדה (דיגיטלית)",
   "short_name": "גודל תמונת ויזה לקנדה",
   "description": "צרו תמונת ויזה לקנדה (דיגיטלית) בגודל הרשמי 35×45 מ&quot;מ (420×540 px), רקע לבן חלק או בצבע בהיר. כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/canada-visa-photo-size.html",
+  "id": "/he/canada-visa-photo-size.html",
   "start_url": "./canada-visa-photo-size.html",
   "scope": "./canada-visa-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona حجم الصورة الفوتوغرافية JEE Main",
   "short_name": "حجم الصورة الفوتوغرافية JEE",
   "description": "غيّر حجم الصورة الخاص بك لامتحان JEE Main إلى حجم الإشعار (3.5 × 4.5 cm (نحو 413 × 531 px عند 300 DPI)) ونطاق 10–200 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/jee-main-photo-size.html",
+  "id": "/ar/jee-main-photo-size.html",
   "start_url": "./jee-main-photo-size.html",
   "scope": "./jee-main-photo-size.html",
   "display": "standalone",

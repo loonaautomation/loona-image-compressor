@@ -2,7 +2,7 @@
   "name": "Loona PNGからWebPへの変換ツール",
   "short_name": "PNGからWebPへの変換ツール",
   "description": "PNGをオンラインで無料でWebPに変換 — 透明度を保ちながらはるかに小さなファイル、ウェブサイトに最適。登録不要、アップロード不要、ブラウザで動作します。",
-  "id": "/loona-image-compressor/ja/png-to-webp.html",
+  "id": "/ja/png-to-webp.html",
   "start_url": "./png-to-webp.html",
   "scope": "./png-to-webp.html",
   "display": "standalone",

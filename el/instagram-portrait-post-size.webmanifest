@@ -2,7 +2,7 @@
   "name": "Loona Ανάρτηση Πορτρέτου (4",
   "short_name": "Ανάρτηση Πορτρέτου (4",
   "description": "Δημιουργήστε ένα ανάρτηση πορτρέτου (4:5) Instagram σε ακριβώς 1080×1350 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/instagram-portrait-post-size.html",
+  "id": "/el/instagram-portrait-post-size.html",
   "start_url": "./instagram-portrait-post-size.html",
   "scope": "./instagram-portrait-post-size.html",
   "display": "standalone",

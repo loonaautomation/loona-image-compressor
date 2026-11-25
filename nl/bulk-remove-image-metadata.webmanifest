@@ -2,7 +2,7 @@
   "name": "Loona Bulk-metadata-verwijderaar",
   "short_name": "Bulk-metadata-verwijderaar",
   "description": "Verwijder EXIF-, GPS- en XMP-metadata van veel foto's tegelijk — sleep een batch JPG-, PNG- en WebP-bestanden, strip ze allemaal in je browser en download alles als één ZIP. Gratis, privé, geen uploads, geen hercodering.",
-  "id": "/loona-image-compressor/nl/bulk-remove-image-metadata.html",
+  "id": "/nl/bulk-remove-image-metadata.html",
   "start_url": "./bulk-remove-image-metadata.html",
   "scope": "./bulk-remove-image-metadata.html",
   "display": "standalone",

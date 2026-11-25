@@ -2,7 +2,7 @@
   "name": "Loona JEE Main Foto Storlek",
   "short_name": "JEE Main Foto Storlek",
   "description": "Ändra storlek på ditt JEE Main foto till anmälningsstorleken (3.5 × 4.5 cm (cirka 413 × 531 px vid 300 DPI)) och bandet 10–200 KB. Gratis, i din webbläsare — ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/jee-main-photo-size.html",
+  "id": "/sv/jee-main-photo-size.html",
   "start_url": "./jee-main-photo-size.html",
   "scope": "./jee-main-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Размер на Банер на профил / страница за LinkedIn",
   "short_name": "Размер на Банер на профил /",
   "description": "Направете банер на профил / страница за LinkedIn на точно 1584×396 px. Безплатен инструмент за преоразмеряване/изрязване във вашия браузър с правилата за безопасната зона, които спират изрязване на текст и лица.",
-  "id": "/loona-image-compressor/bg/linkedin-banner-size.html",
+  "id": "/bg/linkedin-banner-size.html",
   "start_url": "./linkedin-banner-size.html",
   "scope": "./linkedin-banner-size.html",
   "display": "standalone",

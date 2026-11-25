@@ -2,7 +2,7 @@
   "name": "Loona Veličina Facebook Profilna slika",
   "short_name": "Veličina Facebook Profilna",
   "description": "Izradite Facebook profilna slika na točno 720×720 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/facebook-profile-picture-size.html",
+  "id": "/hr/facebook-profile-picture-size.html",
   "start_url": "./facebook-profile-picture-size.html",
   "scope": "./facebook-profile-picture-size.html",
   "display": "standalone",

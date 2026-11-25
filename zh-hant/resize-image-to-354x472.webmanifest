@@ -2,7 +2,7 @@
   "name": "Loona 線上將圖片調整為 354 × 472 px",
   "short_name": "線上將圖片調整為 354 × 472 px",
   "description": "將任何圖片調整為精確的 354×472 px — 300 DPI 下的 30 × 40 mm — 伊朗/哥倫比亞證件尺寸。在瀏覽器中免費使用，帶裁剪控制；無需上傳，無需註冊。",
-  "id": "/loona-image-compressor/zh-hant/resize-image-to-354x472.html",
+  "id": "/zh-hant/resize-image-to-354x472.html",
   "start_url": "./resize-image-to-354x472.html",
   "scope": "./resize-image-to-354x472.html",
   "display": "standalone",

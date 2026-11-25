@@ -2,7 +2,7 @@
   "name": "Loona Конвертор от JPG в WebP",
   "short_name": "Конвертор от JPG в WebP",
   "description": "Конвертирайте JPG в WebP онлайн безплатно и свийте изображенията на уебсайтове с 25–40% при същото качество. Във вашия браузър — без регистрация, без качване, без воден знак.",
-  "id": "/loona-image-compressor/bg/jpg-to-webp.html",
+  "id": "/bg/jpg-to-webp.html",
   "start_url": "./jpg-to-webp.html",
   "scope": "./jpg-to-webp.html",
   "display": "standalone",

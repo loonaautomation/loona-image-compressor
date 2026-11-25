@@ -2,7 +2,7 @@
   "name": "Loona Foto Ujian dengan Nama &amp; Tanggal",
   "short_name": "Foto Ujian dengan Nama &amp;",
   "description": "Buat foto ujian dengan nama dan tanggal Anda tercetak di bagian bawah secara gratis — format ujian dewan yang digunakan di Pakistan dan India. Privat, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/exam-photo-name-date.html",
+  "id": "/id/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

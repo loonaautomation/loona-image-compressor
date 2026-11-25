@@ -2,7 +2,7 @@
   "name": "Loona Editor EXIF",
   "short_name": "Editor EXIF",
   "description": "Edit data EXIF foto JPG online gratis — perbaiki tanggal pengambilan, tambahkan nama Anda sebagai artis, atur hak cipta, merek dan model kamera, atau buat EXIF pada foto yang tidak memilikinya. Piksel tidak pernah dikodekan ulang dan tidak ada yang diunggah.",
-  "id": "/loona-image-compressor/id/edit-image-metadata.html",
+  "id": "/id/edit-image-metadata.html",
   "start_url": "./edit-image-metadata.html",
   "scope": "./edit-image-metadata.html",
   "display": "standalone",

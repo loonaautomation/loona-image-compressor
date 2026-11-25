@@ -2,7 +2,7 @@
   "name": "Loona TikTok ویڈیو فریم کا سائز",
   "short_name": "TikTok ویڈیو فریم کا سائز",
   "description": "TikTok ویڈیو فریم بالکل 1080×1920 px پر بنائیں۔ آپ کے براؤزر میں مفت ری سائزر/کراپر، محفوظ زون کے قواعد کے ساتھ جو کراپ شدہ متن اور چہروں کو روکتے ہیں۔",
-  "id": "/loona-image-compressor/ur/tiktok-video-frame-size.html",
+  "id": "/ur/tiktok-video-frame-size.html",
   "start_url": "./tiktok-video-frame-size.html",
   "scope": "./tiktok-video-frame-size.html",
   "display": "standalone",

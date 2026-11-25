@@ -2,7 +2,7 @@
   "name": "Loona JEE Main ছবি আকার",
   "short_name": "JEE Main ছবি আকার",
   "description": "আপনার JEE Main ছবি বিজ্ঞপ্তির আকারে (3.5 × 4.5 cm (300 DPI-তে প্রায় 413 × 531 px)) এবং 10–200 KB ব্যান্ডে রিসাইজ করুন। বিনামূল্যে, আপনার ব্রাউজারে — আপলোড নেই, সাইনআপ নেই।",
-  "id": "/loona-image-compressor/bn/jee-main-photo-size.html",
+  "id": "/bn/jee-main-photo-size.html",
   "start_url": "./jee-main-photo-size.html",
   "scope": "./jee-main-photo-size.html",
   "display": "standalone",

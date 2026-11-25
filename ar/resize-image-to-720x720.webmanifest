@@ -2,7 +2,7 @@
   "name": "Loona تغيير حجم الصورة إلى 720 × 720 px عبر",
   "short_name": "تغيير حجم الصورة إلى 720 ×",
   "description": "غيّر حجم أي صورة إلى 720×720 px بالضبط — الحد الأدنى لملف Facebook وحجم صورة رمزية عام. مجاناً في متصفحك مع تحكم في القص؛ بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/resize-image-to-720x720.html",
+  "id": "/ar/resize-image-to-720x720.html",
   "start_url": "./resize-image-to-720x720.html",
   "scope": "./resize-image-to-720x720.html",
   "display": "standalone",

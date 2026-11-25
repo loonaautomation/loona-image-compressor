@@ -2,7 +2,7 @@
   "name": "Loona Размер на Банер на сървър за Discord",
   "short_name": "Размер на Банер на сървър за",
   "description": "Направете банер на сървър за Discord на точно 960×540 px. Безплатен инструмент за преоразмеряване/изрязване във вашия браузър с правилата за безопасната зона, които спират изрязване на текст и лица.",
-  "id": "/loona-image-compressor/bg/discord-server-banner-size.html",
+  "id": "/bg/discord-server-banner-size.html",
   "start_url": "./discord-server-banner-size.html",
   "scope": "./discord-server-banner-size.html",
   "display": "standalone",

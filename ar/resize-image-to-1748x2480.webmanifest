@@ -2,7 +2,7 @@
   "name": "Loona تغيير حجم الصورة إلى 1748 × 2480 px عبر",
   "short_name": "تغيير حجم الصورة إلى 1748 ×",
   "description": "غيّر حجم أي صورة إلى 1748×2480 px بالضبط — A5 عند 300 DPI. مجاناً في متصفحك مع تحكم في القص؛ بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/resize-image-to-1748x2480.html",
+  "id": "/ar/resize-image-to-1748x2480.html",
   "start_url": "./resize-image-to-1748x2480.html",
   "scope": "./resize-image-to-1748x2480.html",
   "display": "standalone",

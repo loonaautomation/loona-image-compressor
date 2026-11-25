@@ -2,7 +2,7 @@
   "name": "Loona Facebook Kansikuva / sivun kansi koko",
   "short_name": "Facebook Kansikuva / sivun",
   "description": "Tee Facebook kansikuva / sivun kansi tarkalleen kokoon 1640×924 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/facebook-cover-photo-size.html",
+  "id": "/fi/facebook-cover-photo-size.html",
   "start_url": "./facebook-cover-photo-size.html",
   "scope": "./facebook-cover-photo-size.html",
   "display": "standalone",

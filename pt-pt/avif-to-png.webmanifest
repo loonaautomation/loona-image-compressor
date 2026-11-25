@@ -2,7 +2,7 @@
   "name": "Loona Conversor de AVIF para PNG",
   "short_name": "Conversor de AVIF para PNG",
   "description": "Converta AVIF para PNG online, grátis, no seu navegador. Conversão real no seu dispositivo — sem envios, sem registo e sem marcas de água.",
-  "id": "/loona-image-compressor/pt-pt/avif-to-png.html",
+  "id": "/pt-pt/avif-to-png.html",
   "start_url": "./avif-to-png.html",
   "scope": "./avif-to-png.html",
   "display": "standalone",

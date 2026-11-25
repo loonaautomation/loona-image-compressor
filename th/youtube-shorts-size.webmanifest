@@ -2,7 +2,7 @@
   "name": "Loona ขนาดปก / เฟรม Shorts YouTube",
   "short_name": "ขนาดปก / เฟรม Shorts YouTube",
   "description": "ทำปก / เฟรม shorts YouTube ที่ขนาด 1080×1920 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/youtube-shorts-size.html",
+  "id": "/th/youtube-shorts-size.html",
   "start_url": "./youtube-shorts-size.html",
   "scope": "./youtube-shorts-size.html",
   "display": "standalone",

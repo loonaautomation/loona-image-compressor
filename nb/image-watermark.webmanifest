@@ -2,7 +2,7 @@
   "name": "Loona Bildevannmerke",
   "short_name": "Bildevannmerke",
   "description": "Legg til et tekstvannmerke på et hvilket som helst bilde gratis på nett — velg tekst, størrelse, farge, dekkevne og posisjon, eller gjenta det som et flislagt mønster. Direkte forhåndsvisning, ingen registrering, og bildet ditt forlater aldri enheten din.",
-  "id": "/loona-image-compressor/nb/image-watermark.html",
+  "id": "/nb/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

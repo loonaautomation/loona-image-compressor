@@ -2,7 +2,7 @@
   "name": "Loona RRB NTPC (Railways) تصویر کا سائز",
   "short_name": "RRB NTPC (Railways) تصویر کا",
   "description": "اپنی RRB NTPC (Railways) تصویر کو نوٹیفکیشن سائز (320 × 240 px) اور 30–70 KB بینڈ کے مطابق بنائیں۔ مفت، آپ کے براؤزر میں — نہ اپ لوڈ، نہ سائن اپ۔",
-  "id": "/loona-image-compressor/ur/rrb-ntpc-photo-size.html",
+  "id": "/ur/rrb-ntpc-photo-size.html",
   "start_url": "./rrb-ntpc-photo-size.html",
   "scope": "./rrb-ntpc-photo-size.html",
   "display": "standalone",

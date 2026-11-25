@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة جواز سفر هونغ كونغ",
   "short_name": "حجم صورة جواز سفر هونغ كونغ",
   "description": "اصنع صورة جواز سفر هونغ كونغ بالحجم الرسمي 40×50 mm (472×591 px)، خلفية بيضاء سادة. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/hong-kong-passport-photo-size.html",
+  "id": "/ar/hong-kong-passport-photo-size.html",
   "start_url": "./hong-kong-passport-photo-size.html",
   "scope": "./hong-kong-passport-photo-size.html",
   "display": "standalone",

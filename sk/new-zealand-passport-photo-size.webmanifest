@@ -2,7 +2,7 @@
   "name": "Loona Veľkosť Pasová fotografia Nového Zélandu",
   "short_name": "Veľkosť Pasová fotografia",
   "description": "Vytvorte Pasová fotografia Nového Zélandu v oficiálnej veľkosti 35×45 mm (413×531 px), pozadie: jednofarebné, svetlé, neutrálne pozadie (pokyny neodporúčajú čisto biele). Bezplatný online tvorca — orezanie, stiahnutie a tlačový hárok, bez nahrávania.",
-  "id": "/loona-image-compressor/sk/new-zealand-passport-photo-size.html",
+  "id": "/sk/new-zealand-passport-photo-size.html",
   "start_url": "./new-zealand-passport-photo-size.html",
   "scope": "./new-zealand-passport-photo-size.html",
   "display": "standalone",

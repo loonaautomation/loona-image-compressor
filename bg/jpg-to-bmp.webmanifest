@@ -2,7 +2,7 @@
   "name": "Loona Конвертор от JPG в BMP",
   "short_name": "Конвертор от JPG в BMP",
   "description": "Конвертирайте JPG в BMP онлайн, безплатно, във вашия браузър. Истинско конвертиране на устройството ви — без качване, без регистрация, без водни знаци.",
-  "id": "/loona-image-compressor/bg/jpg-to-bmp.html",
+  "id": "/bg/jpg-to-bmp.html",
   "start_url": "./jpg-to-bmp.html",
   "scope": "./jpg-to-bmp.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do wizy Wielkiej Brytanii",
   "short_name": "Rozmiar Zdjęcie do wizy",
   "description": "Utwórz Zdjęcie do wizy Wielkiej Brytanii w oficjalnym rozmiarze 35×45 mm (600×750 px), tło: gładkie jasnoszare. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/uk-visa-photo-size.html",
+  "id": "/pl/uk-visa-photo-size.html",
   "start_url": "./uk-visa-photo-size.html",
   "scope": "./uk-visa-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Comprimi JPG a 25 KB online",
   "short_name": "Comprimi JPG a 25 KB online",
   "description": "Comprimi un&#x27;immagine JPG a 25 KB o meno, gratis nel tuo browser. La ricerca automatica trova la migliore qualità possibile: senza registrazione e senza caricamenti.",
-  "id": "/loona-image-compressor/it/compress-jpg-to-25kb.html",
+  "id": "/it/compress-jpg-to-25kb.html",
   "start_url": "./compress-jpg-to-25kb.html",
   "scope": "./compress-jpg-to-25kb.html",
   "display": "standalone",

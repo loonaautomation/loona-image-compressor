@@ -2,7 +2,7 @@
   "name": "Loona Discord Profilbanner méret",
   "short_name": "Discord Profilbanner méret",
   "description": "Készítsen Discord profilbanner képet pontosan 600×180 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/discord-profile-banner-size.html",
+  "id": "/hu/discord-profile-banner-size.html",
   "start_url": "./discord-profile-banner-size.html",
   "scope": "./discord-profile-banner-size.html",
   "display": "standalone",

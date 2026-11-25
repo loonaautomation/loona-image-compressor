@@ -2,7 +2,7 @@
   "name": "Loona Zmień rozmiar obrazu na 1080 × 1350",
   "short_name": "Zmień rozmiar obrazu na 1080",
   "description": "Zmień rozmiar dowolnego obrazu dokładnie do 1080 × 1350 pikseli (Instagram portrait posts in the 4:5 ratio) za darmo. Wypełnij, dopasuj lub rozciągnij, JPG lub PNG, pobierz od razu — bez rejestracji, nic nie jest przesyłane.",
-  "id": "/loona-image-compressor/pl/resize-image-to-1080x1350.html",
+  "id": "/pl/resize-image-to-1080x1350.html",
   "start_url": "./resize-image-to-1080x1350.html",
   "scope": "./resize-image-to-1080x1350.html",
   "display": "standalone",

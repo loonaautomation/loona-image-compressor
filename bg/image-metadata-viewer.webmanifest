@@ -2,7 +2,7 @@
   "name": "Loona Преглед на метаданни на изображения и EXIF",
   "short_name": "Преглед на метаданни на",
   "description": "Прегледайте скритите метаданни във всяка снимка JPG, PNG или WebP онлайн безплатно — производител и модел на камерата, дата на заснемане, експонация, ISO, фокусно разстояние, GPS местоположение, основи на IPTC и XMP. Нищо не се качва: снимката ви никога не напуска устройството ви.",
-  "id": "/loona-image-compressor/bg/image-metadata-viewer.html",
+  "id": "/bg/image-metadata-viewer.html",
   "start_url": "./image-metadata-viewer.html",
   "scope": "./image-metadata-viewer.html",
   "display": "standalone",

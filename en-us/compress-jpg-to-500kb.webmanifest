@@ -2,7 +2,7 @@
   "name": "Loona Compress JPG to 500 KB",
   "short_name": "Compress JPG to 500 KB",
   "description": "Compress a JPG image to 500 KB or under, free in your browser. Automatic search finds the best quality that fits — no signup, no upload.",
-  "id": "/loona-image-compressor/en-us/compress-jpg-to-500kb.html",
+  "id": "/en-us/compress-jpg-to-500kb.html",
   "start_url": "./compress-jpg-to-500kb.html",
   "scope": "./compress-jpg-to-500kb.html",
   "display": "standalone",

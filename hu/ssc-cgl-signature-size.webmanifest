@@ -2,7 +2,7 @@
   "name": "Loona SSC CGL Aláírás méret",
   "short_name": "SSC CGL Aláírás méret",
   "description": "Méretezze át a SSC CGL aláírás fájlját a kiírás szerinti méretre (140 × 60 px) és a 10–20 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/ssc-cgl-signature-size.html",
+  "id": "/hu/ssc-cgl-signature-size.html",
   "start_url": "./ssc-cgl-signature-size.html",
   "scope": "./ssc-cgl-signature-size.html",
   "display": "standalone",

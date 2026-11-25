@@ -2,7 +2,7 @@
   "name": "Loona Розмір Обкладинка Reels Instagram",
   "short_name": "Розмір Обкладинка Reels",
   "description": "Зробіть обкладинка reels для Instagram рівно 1080×1920 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/instagram-reels-cover-size.html",
+  "id": "/uk/instagram-reels-cover-size.html",
   "start_url": "./instagram-reels-cover-size.html",
   "scope": "./instagram-reels-cover-size.html",
   "display": "standalone",

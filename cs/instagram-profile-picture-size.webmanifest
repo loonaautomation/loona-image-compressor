@@ -2,7 +2,7 @@
   "name": "Loona Velikost Instagram Profilový obrázek",
   "short_name": "Velikost Instagram Profilový",
   "description": "Vytvořte Instagram profilový obrázek přesně 1080×1080 px. Bezplatný nástroj na změnu velikosti/ořez ve vašem prohlížeči s pravidly bezpečné zóny, která zabrání oříznutí textu a obličejů.",
-  "id": "/loona-image-compressor/cs/instagram-profile-picture-size.html",
+  "id": "/cs/instagram-profile-picture-size.html",
   "start_url": "./instagram-profile-picture-size.html",
   "scope": "./instagram-profile-picture-size.html",
   "display": "standalone",

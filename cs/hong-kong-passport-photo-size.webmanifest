@@ -2,7 +2,7 @@
   "name": "Loona Velikost Pasová fotografie Hongkongu",
   "short_name": "Velikost Pasová fotografie",
   "description": "Vytvořte Pasová fotografie Hongkongu v oficiální velikosti 40×50 mm (472×591 px), pozadí: jednobarevné bílé. Bezplatný online tvůrce — oříznutí, stažení a tiskový arch, bez nahrávání.",
-  "id": "/loona-image-compressor/cs/hong-kong-passport-photo-size.html",
+  "id": "/cs/hong-kong-passport-photo-size.html",
   "start_url": "./hong-kong-passport-photo-size.html",
   "scope": "./hong-kong-passport-photo-size.html",
   "display": "standalone",

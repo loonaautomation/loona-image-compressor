@@ -2,7 +2,7 @@
   "name": "Loona GIF",
   "short_name": "GIF",
   "description": "Konvertáljon GIF-et JPG-vé online ingyen — alakítson egy GIF-et kicsi, univerzális JPG állóképpé. A böngészőjében: regisztráció nélkül, feltöltés nélkül, vízjel nélkül.",
-  "id": "/loona-image-compressor/hu/gif-to-jpg.html",
+  "id": "/hu/gif-to-jpg.html",
   "start_url": "./gif-to-jpg.html",
   "scope": "./gif-to-jpg.html",
   "display": "standalone",

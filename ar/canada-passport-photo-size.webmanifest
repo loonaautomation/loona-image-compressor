@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة جواز السفر الكندي",
   "short_name": "حجم صورة جواز السفر الكندي",
   "description": "اصنع صورة جواز السفر الكندي بالحجم الرسمي 50×70 mm (591×827 px)، خلفية بيضاء سادة أو فاتحة اللون. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/canada-passport-photo-size.html",
+  "id": "/ar/canada-passport-photo-size.html",
   "start_url": "./canada-passport-photo-size.html",
   "scope": "./canada-passport-photo-size.html",
   "display": "standalone",

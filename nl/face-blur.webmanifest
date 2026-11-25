@@ -2,7 +2,7 @@
   "name": "Loona Gezicht vervagen",
   "short_name": "Gezicht vervagen",
   "description": "Vervaag of pixeleer gezichten, kentekens en privégegevens op elke foto. Je selecteert de gebieden zelf, kiest de sterkte, bekijkt een voorbeeld en downloadt — gratis, geen aanmelding, en je foto verlaat je apparaat nooit.",
-  "id": "/loona-image-compressor/nl/face-blur.html",
+  "id": "/nl/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

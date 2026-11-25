@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת פספורט דרום אפריקה",
   "short_name": "גודל תמונת פספורט דרום אפריקה",
   "description": "צרו תמונת פספורט דרום אפריקה בגודל הרשמי 35×45 מ&quot;מ (413×531 px), רקע לבן חלק או אפור בהיר. כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/south-africa-passport-photo-size.html",
+  "id": "/he/south-africa-passport-photo-size.html",
   "start_url": "./south-africa-passport-photo-size.html",
   "scope": "./south-africa-passport-photo-size.html",
   "display": "standalone",

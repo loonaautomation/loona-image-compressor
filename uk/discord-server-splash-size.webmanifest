@@ -2,7 +2,7 @@
   "name": "Loona Розмір Заставка запрошення Discord",
   "short_name": "Розмір Заставка запрошення",
   "description": "Зробіть заставка запрошення для Discord рівно 1920×1080 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/discord-server-splash-size.html",
+  "id": "/uk/discord-server-splash-size.html",
   "start_url": "./discord-server-splash-size.html",
   "scope": "./discord-server-splash-size.html",
   "display": "standalone",

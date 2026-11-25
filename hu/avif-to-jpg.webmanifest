@@ -2,7 +2,7 @@
   "name": "Loona AVIF",
   "short_name": "AVIF",
   "description": "Konvertáljon AVIF fájlt JPG formátumba online, ingyen, a böngészőjében. Valódi konvertálás a saját eszközén — feltöltés, regisztráció és vízjelek nélkül.",
-  "id": "/loona-image-compressor/hu/avif-to-jpg.html",
+  "id": "/hu/avif-to-jpg.html",
   "start_url": "./avif-to-jpg.html",
   "scope": "./avif-to-jpg.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Muuta kuvan koko kokoon 1200 × 628",
   "short_name": "Muuta kuvan koko kokoon 1200",
   "description": "Muuta minkä tahansa kuvan koko täsmälleen kokoon 1200 × 628 pikseliä (Facebookin ja LinkedInin linkkijaot ja mainokset) ilmaiseksi. Peitä, sisällä tai venytä, JPG tai PNG, lataa heti — ei rekisteröitymistä, mitään ei ladata palvelimelle.",
-  "id": "/loona-image-compressor/fi/resize-image-to-1200x628.html",
+  "id": "/fi/resize-image-to-1200x628.html",
   "start_url": "./resize-image-to-1200x628.html",
   "scope": "./resize-image-to-1200x628.html",
   "display": "standalone",

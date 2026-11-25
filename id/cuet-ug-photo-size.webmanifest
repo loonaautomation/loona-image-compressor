@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto CUET UG",
   "short_name": "Ukuran Foto CUET UG",
   "description": "Ubah ukuran foto CUET UG Anda ke ukuran pemberitahuan (3,5 × 4,5 cm (sekitar 413 × 531 px pada 300 DPI)) dan rentang 10–200 KB. Gratis, di browser Anda — tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/cuet-ug-photo-size.html",
+  "id": "/id/cuet-ug-photo-size.html",
   "start_url": "./cuet-ug-photo-size.html",
   "scope": "./cuet-ug-photo-size.html",
   "display": "standalone",

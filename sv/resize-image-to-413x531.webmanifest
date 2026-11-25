@@ -2,7 +2,7 @@
   "name": "Loona Ändra bildstorlek till 413 × 531 px online",
   "short_name": "Ändra bildstorlek till 413 ×",
   "description": "Ändra storlek på valfri bild till exakt 413×531 px — 35 × 45 mm vid 300 DPI — ICAO/Schengen-utskriftsstorleken i pixlar. Gratis i din webbläsare med beskärningskontroll; ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/resize-image-to-413x531.html",
+  "id": "/sv/resize-image-to-413x531.html",
   "start_url": "./resize-image-to-413x531.html",
   "scope": "./resize-image-to-413x531.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona حجم لافتة الملف الشخصي Discord",
   "short_name": "حجم لافتة الملف الشخصي Discord",
   "description": "اصنع لافتة الملف الشخصي Discord بمقاس 600×180 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/discord-profile-banner-size.html",
+  "id": "/ar/discord-profile-banner-size.html",
   "start_url": "./discord-profile-banner-size.html",
   "scope": "./discord-profile-banner-size.html",
   "display": "standalone",

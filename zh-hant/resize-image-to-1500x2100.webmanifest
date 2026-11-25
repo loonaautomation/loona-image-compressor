@@ -2,7 +2,7 @@
   "name": "Loona 線上將圖片調整為 1500 × 2100 px",
   "short_name": "線上將圖片調整為 1500 × 2100 px",
   "description": "將任何圖片調整為精確的 1500×2100 px — 300 DPI 下的 5 × 7 英寸照片列印。在瀏覽器中免費使用，帶裁剪控制；無需上傳，無需註冊。",
-  "id": "/loona-image-compressor/zh-hant/resize-image-to-1500x2100.html",
+  "id": "/zh-hant/resize-image-to-1500x2100.html",
   "start_url": "./resize-image-to-1500x2100.html",
   "scope": "./resize-image-to-1500x2100.html",
   "display": "standalone",

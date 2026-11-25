@@ -2,7 +2,7 @@
   "name": "Loona Discord 個人橫幅 尺寸",
   "short_name": "Discord 個人橫幅 尺寸",
   "description": "按精確的 600×180 px 製作 Discord 個人橫幅。在瀏覽器中免費調整大小/裁剪，附有安全區規則，防止文字和麵部被裁掉。",
-  "id": "/loona-image-compressor/zh-hant/discord-profile-banner-size.html",
+  "id": "/zh-hant/discord-profile-banner-size.html",
   "start_url": "./discord-profile-banner-size.html",
   "scope": "./discord-profile-banner-size.html",
   "display": "standalone",

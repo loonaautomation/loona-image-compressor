@@ -2,7 +2,7 @@
   "name": "Loona أداة إزالة خلفية التوقيع",
   "short_name": "أداة إزالة خلفية التوقيع",
   "description": "أزل خلفية الورق من صورة توقيع أو ختم ونزّل PNG شفافًا، مجانًا عبر الإنترنت. أداة متصفح خالصة تعتمد على لوحة الرسم، دون ذكاء اصطناعي ودون رفع ودون تسجيل.",
-  "id": "/loona-image-compressor/ar/signature-background-remover.html",
+  "id": "/ar/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

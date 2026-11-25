@@ -2,7 +2,7 @@
   "name": "Loona Nén JPG xuống 150 KB trực tuyến",
   "short_name": "Nén JPG xuống 150 KB trực",
   "description": "Nén ảnh JPG xuống 150 KB hoặc nhỏ hơn, miễn phí trong trình duyệt của bạn. Tính năng tìm kiếm tự động sẽ chọn chất lượng tốt nhất vừa với giới hạn — không cần đăng ký, không tải lên.",
-  "id": "/loona-image-compressor/vi/compress-jpg-to-150kb.html",
+  "id": "/vi/compress-jpg-to-150kb.html",
   "start_url": "./compress-jpg-to-150kb.html",
   "scope": "./compress-jpg-to-150kb.html",
   "display": "standalone",

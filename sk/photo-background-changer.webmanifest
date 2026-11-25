@@ -2,7 +2,7 @@
   "name": "Loona Menič pozadia fotografií",
   "short_name": "Menič pozadia fotografií",
   "description": "Zmeňte pozadie fotografie na biele, modré, svetlosivé alebo červené zadarmo online. Výplň od okrajov plus nástroje štetca, súkromne vo vašom prehliadači, bez nahrávania do AI.",
-  "id": "/loona-image-compressor/sk/photo-background-changer.html",
+  "id": "/sk/photo-background-changer.html",
   "start_url": "./photo-background-changer.html",
   "scope": "./photo-background-changer.html",
   "display": "standalone",

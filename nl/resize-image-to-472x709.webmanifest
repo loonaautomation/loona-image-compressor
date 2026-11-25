@@ -2,7 +2,7 @@
   "name": "Loona Afbeelding verkleinen/vergroten naar 472 × 709 px online",
   "short_name": "Afbeelding",
   "description": "Pas elke afbeelding aan naar precies 472×709 px — 40 × 60 mm bij 300 DPI — fotoformaat VAE/Saoedi/Egypte/Vietnam. Gratis in je browser met bijsnijdcontrole; geen upload, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/resize-image-to-472x709.html",
+  "id": "/nl/resize-image-to-472x709.html",
   "start_url": "./resize-image-to-472x709.html",
   "scope": "./resize-image-to-472x709.html",
   "display": "standalone",

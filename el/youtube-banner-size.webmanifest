@@ -2,7 +2,7 @@
   "name": "Loona Banner Καναλιού YouTube",
   "short_name": "Banner Καναλιού YouTube",
   "description": "Δημιουργήστε ένα banner καναλιού YouTube σε ακριβώς 2560×1440 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/youtube-banner-size.html",
+  "id": "/el/youtube-banner-size.html",
   "start_url": "./youtube-banner-size.html",
   "scope": "./youtube-banner-size.html",
   "display": "standalone",

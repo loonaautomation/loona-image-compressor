@@ -2,7 +2,7 @@
   "name": "Loona Преоразмеряване на изображение до 512 × 512",
   "short_name": "Преоразмеряване на",
   "description": "Преоразмерете всяко изображение до точно 512 × 512 пиксела (икони на приложения, аватари и оригинали за фавикони) безплатно. Покриване, побиране или разтягане, JPG или PNG, изтеглете незабавно — без регистрация, нищо не се качва.",
-  "id": "/loona-image-compressor/bg/resize-image-to-512x512.html",
+  "id": "/bg/resize-image-to-512x512.html",
   "start_url": "./resize-image-to-512x512.html",
   "scope": "./resize-image-to-512x512.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona تغيير حجم الصورة إلى 1500 × 500",
   "short_name": "تغيير حجم الصورة إلى 1500 ×",
   "description": "غيّر حجم أي صورة إلى 1500 × 500 بكسل بالضبط (ترويسات ملف X (Twitter) واللافتات العريضة) مجانًا. تغطية أو احتواء أو تمدد، JPG أو PNG، تنزيل فوري — بلا تسجيل، لا شيء يُرفع.",
-  "id": "/loona-image-compressor/ar/resize-image-to-1500x500.html",
+  "id": "/ar/resize-image-to-1500x500.html",
   "start_url": "./resize-image-to-1500x500.html",
   "scope": "./resize-image-to-1500x500.html",
   "display": "standalone",

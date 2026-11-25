@@ -2,7 +2,7 @@
   "name": "Loona AFCAT Foto Storlek",
   "short_name": "AFCAT Foto Storlek",
   "description": "Ändra storlek på ditt AFCAT foto till anmälningsstorleken (3.5 × 4.5 cm (cirka 413 × 531 px vid 300 DPI)) och bandet 10–50 KB. Gratis, i din webbläsare — ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/afcat-photo-size.html",
+  "id": "/sv/afcat-photo-size.html",
   "start_url": "./afcat-photo-size.html",
   "scope": "./afcat-photo-size.html",
   "display": "standalone",

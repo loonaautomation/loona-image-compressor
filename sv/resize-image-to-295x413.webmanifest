@@ -2,7 +2,7 @@
   "name": "Loona Ändra bildstorlek till 295 × 413 px online",
   "short_name": "Ändra bildstorlek till 295 ×",
   "description": "Ändra storlek på valfri bild till exakt 295×413 px — 25 × 35 mm vid 300 DPI — Indiens PAN-kortstorlek. Gratis i din webbläsare med beskärningskontroll; ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/resize-image-to-295x413.html",
+  "id": "/sv/resize-image-to-295x413.html",
   "start_url": "./resize-image-to-295x413.html",
   "scope": "./resize-image-to-295x413.html",
   "display": "standalone",

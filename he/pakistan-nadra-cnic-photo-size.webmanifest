@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת NADRA CNIC פקיסטן",
   "short_name": "גודל תמונת NADRA CNIC פקיסטן",
   "description": "צרו תמונת NADRA CNIC פקיסטן בגודל הרשמי 51×51 מ&quot;מ (600×600 px), רקע לבן חלק. כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/pakistan-nadra-cnic-photo-size.html",
+  "id": "/he/pakistan-nadra-cnic-photo-size.html",
   "start_url": "./pakistan-nadra-cnic-photo-size.html",
   "scope": "./pakistan-nadra-cnic-photo-size.html",
   "display": "standalone",

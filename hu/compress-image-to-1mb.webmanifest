@@ -2,7 +2,7 @@
   "name": "Loona Kép tömörítése 1 MB-ra online",
   "short_name": "Kép tömörítése 1 MB-ra online",
   "description": "Tömörítsen JPG, PNG és WebP képeket 1 MB-ra vagy az alá, online és ingyen. Automatikus minőség- és méretkeresés a böngészőjében — regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/compress-image-to-1mb.html",
+  "id": "/hu/compress-image-to-1mb.html",
   "start_url": "./compress-image-to-1mb.html",
   "scope": "./compress-image-to-1mb.html",
   "display": "standalone",

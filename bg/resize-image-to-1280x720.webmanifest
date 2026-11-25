@@ -2,7 +2,7 @@
   "name": "Loona Преоразмеряване на изображение до 1280 × 720",
   "short_name": "Преоразмеряване на",
   "description": "Преоразмерете всяко изображение до точно 1280 × 720 пиксела (миниатюри в YouTube и HD видео) безплатно. Покриване, побиране или разтягане, JPG или PNG, изтеглете незабавно — без регистрация, нищо не се качва.",
-  "id": "/loona-image-compressor/bg/resize-image-to-1280x720.html",
+  "id": "/bg/resize-image-to-1280x720.html",
   "start_url": "./resize-image-to-1280x720.html",
   "scope": "./resize-image-to-1280x720.html",
   "display": "standalone",

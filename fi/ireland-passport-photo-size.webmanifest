@@ -2,7 +2,7 @@
   "name": "Loona Irlannin passikuva koko",
   "short_name": "Irlannin passikuva koko",
   "description": "Tee Irlannin passikuva virallisessa koossa 35×45 mm (413×531 px), taustana tavallinen valkoinen tai vaaleanharmaa. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/ireland-passport-photo-size.html",
+  "id": "/fi/ireland-passport-photo-size.html",
   "start_url": "./ireland-passport-photo-size.html",
   "scope": "./ireland-passport-photo-size.html",
   "display": "standalone",

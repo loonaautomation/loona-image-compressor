@@ -2,7 +2,7 @@
   "name": "Loona CUET UG Aláírás méret",
   "short_name": "CUET UG Aláírás méret",
   "description": "Méretezze át a CUET UG aláírás fájlját a kiírás szerinti méretre (szkennelt mező, kb. 7:2 arány) és a 4–30 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/cuet-ug-signature-size.html",
+  "id": "/hu/cuet-ug-signature-size.html",
   "start_url": "./cuet-ug-signature-size.html",
   "scope": "./cuet-ug-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Pasipoti / Visa ya Brazil",
   "short_name": "Ukubwa wa Picha ya Pasipoti /",
   "description": "Tengeneza Picha ya Pasipoti / Visa ya Brazil katika ukubwa rasmi wa milimita 50×70 (px 591×827), mandharinyuma ya nyeupe tambarare. Kitengenezaji bure cha mtandaoni — kata, pakua na uchapishe karatasi, bila kupakia.",
-  "id": "/loona-image-compressor/sw/brazil-passport-photo-size.html",
+  "id": "/sw/brazil-passport-photo-size.html",
   "start_url": "./brazil-passport-photo-size.html",
   "scope": "./brazil-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง SVG เป็น JPG",
   "short_name": "ตัวแปลง SVG เป็น JPG",
   "description": "แปลง SVG เป็น JPG ออนไลน์ฟรี — เรนเดอร์โลโก้และภาพประกอบเวกเตอร์เป็น JPG สากลที่ทุกความกว้าง ไม่ต้องสมัครสมาชิก ไม่ต้องอัปโหลด ในเบราว์เซอร์ของคุณ",
-  "id": "/loona-image-compressor/th/svg-to-jpg.html",
+  "id": "/th/svg-to-jpg.html",
   "start_url": "./svg-to-jpg.html",
   "scope": "./svg-to-jpg.html",
   "display": "standalone",

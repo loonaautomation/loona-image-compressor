@@ -2,7 +2,7 @@
   "name": "Loona ছবি ফিল্টার ও ফিক্স",
   "short_name": "ছবি ফিল্টার ও ফিক্স",
   "description": "অনলাইনে বিনামূল্যে ছবি ঠিক করুন: উজ্জ্বলতা, বৈপরীত্য ও স্যাচুরেশন সামঞ্জস্য করুন, এক ক্লিকে শার্পেন করুন এবং Passport Fix ও Vivid-এর মতো প্রস্তুত প্রিসেট ব্যবহার করুন।",
-  "id": "/loona-image-compressor/bn/photo-filters-editor.html",
+  "id": "/bn/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

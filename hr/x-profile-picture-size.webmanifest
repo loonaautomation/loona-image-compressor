@@ -2,7 +2,7 @@
   "name": "Loona Veličina X (Twitter) Profilna slika",
   "short_name": "Veličina X (Twitter) Profilna",
   "description": "Izradite X (Twitter) profilna slika na točno 400×400 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/x-profile-picture-size.html",
+  "id": "/hr/x-profile-picture-size.html",
   "start_url": "./x-profile-picture-size.html",
   "scope": "./x-profile-picture-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto &amp; Tanda Tangan Ujian",
   "short_name": "Ukuran Foto &amp; Tanda",
   "description": "Ukuran foto dan tanda tangan serta rentang KB untuk 20 ujian besar India — SSC, IBPS, SBI, UPSC, RRB, JEE, NEET, dan lainnya, masing-masing dengan alat pembuat.",
-  "id": "/loona-image-compressor/id/exam-photo-sizes.html",
+  "id": "/id/exam-photo-sizes.html",
   "start_url": "./exam-photo-sizes.html",
   "scope": "./exam-photo-sizes.html",
   "display": "standalone",

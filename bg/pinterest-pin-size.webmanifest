@@ -2,7 +2,7 @@
   "name": "Loona Размер на Стандартен пин за Pinterest",
   "short_name": "Размер на Стандартен пин за",
   "description": "Направете стандартен пин за Pinterest на точно 1000×1500 px. Безплатен инструмент за преоразмеряване/изрязване във вашия браузър с правилата за безопасната зона, които спират изрязване на текст и лица.",
-  "id": "/loona-image-compressor/bg/pinterest-pin-size.html",
+  "id": "/bg/pinterest-pin-size.html",
   "start_url": "./pinterest-pin-size.html",
   "scope": "./pinterest-pin-size.html",
   "display": "standalone",

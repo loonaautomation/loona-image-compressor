@@ -2,7 +2,7 @@
   "name": "Loona Размер на Подпис за SBI Clerk (Junior Associates)",
   "short_name": "Размер на Подпис за SBI Clerk",
   "description": "Преоразмерете своя подпис за SBI Clerk (Junior Associates) до размера от уведомлението (140 × 60 px) и диапазона 10–20 KB. Безплатно, във вашия браузър — без качване, без регистрация.",
-  "id": "/loona-image-compressor/bg/sbi-clerk-signature-size.html",
+  "id": "/bg/sbi-clerk-signature-size.html",
   "start_url": "./sbi-clerk-signature-size.html",
   "scope": "./sbi-clerk-signature-size.html",
   "display": "standalone",

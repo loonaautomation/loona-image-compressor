@@ -2,7 +2,7 @@
   "name": "Loona Memegenerator",
   "short_name": "Memegenerator",
   "description": "Verander elke foto in een klassieke meme met vette tekst boven- en onderaan — gratis online memegenerator met live voorbeeld, opties voor effen achtergronden en PNG-download. Geen aanmelding, en je afbeelding verlaat je apparaat nooit.",
-  "id": "/loona-image-compressor/nl/meme-generator.html",
+  "id": "/nl/meme-generator.html",
   "start_url": "./meme-generator.html",
   "scope": "./meme-generator.html",
   "display": "standalone",

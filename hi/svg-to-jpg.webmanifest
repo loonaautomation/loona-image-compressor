@@ -2,7 +2,7 @@
   "name": "Loona SVG से JPG कन्वर्टर",
   "short_name": "SVG से JPG कन्वर्टर",
   "description": "SVG को JPG में मुफ़्त ऑनलाइन बदलें — वेक्टर लोगो और इलस्ट्रेशन को किसी भी चौड़ाई पर हर जगह चलने वाली JPG के रूप में रेंडर करें। कोई साइनअप नहीं, कोई अपलोड नहीं, आपके ब्राउज़र में।",
-  "id": "/loona-image-compressor/hi/svg-to-jpg.html",
+  "id": "/hi/svg-to-jpg.html",
   "start_url": "./svg-to-jpg.html",
   "scope": "./svg-to-jpg.html",
   "display": "standalone",

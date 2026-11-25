@@ -2,7 +2,7 @@
   "name": "Loona Ülkeye Göre Pasaport ve Vize Fotoğraf Boyutları — Tümü 40",
   "short_name": "Ülkeye Göre Pasaport ve Vize Fotoğraf Boyutları — Tümü 40",
   "description": "40 ülke ve belge için resmi pasaport, vize ve kimlik fotoğrafı boyutları; her biri tam milimetre ve piksel boyutunda bir oluşturucu araçla.",
-  "id": "/loona-image-compressor/tr/passport-photo-sizes.html",
+  "id": "/tr/passport-photo-sizes.html",
   "start_url": "./passport-photo-sizes.html",
   "scope": "./passport-photo-sizes.html",
   "display": "standalone",

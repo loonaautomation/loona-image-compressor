@@ -2,7 +2,7 @@
   "name": "Loona Egyptin passikuva koko",
   "short_name": "Egyptin passikuva koko",
   "description": "Tee Egyptin passikuva virallisessa koossa 40×60 mm (472×709 px), taustana tavallinen valkoinen. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/egypt-passport-photo-size.html",
+  "id": "/fi/egypt-passport-photo-size.html",
   "start_url": "./egypt-passport-photo-size.html",
   "scope": "./egypt-passport-photo-size.html",
   "display": "standalone",

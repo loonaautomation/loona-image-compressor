@@ -2,7 +2,7 @@
   "name": "Loona גדלי תמונות פספורט וויזה לפי מדינה",
   "short_name": "גדלי תמונות פספורט וויזה לפי",
   "description": "גדלי תמונות רשמיים לפספורט, ויזה ותעודת זהות ל־40 מדינות ומסמכים, כל אחד עם כלי יצירה בגודל המילימטרים והפיקסלים המדויק.",
-  "id": "/loona-image-compressor/he/passport-photo-sizes.html",
+  "id": "/he/passport-photo-sizes.html",
   "start_url": "./passport-photo-sizes.html",
   "scope": "./passport-photo-sizes.html",
   "display": "standalone",

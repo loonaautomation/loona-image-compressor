@@ -2,7 +2,7 @@
   "name": "Loona JPG naar WebP Converter",
   "short_name": "JPG naar WebP Converter",
   "description": "Converteer JPG gratis online naar WebP en verklein websiteafbeeldingen met 25–40% bij dezelfde kwaliteit. In je browser — geen aanmelding, geen upload, geen watermerk.",
-  "id": "/loona-image-compressor/nl/jpg-to-webp.html",
+  "id": "/nl/jpg-to-webp.html",
   "start_url": "./jpg-to-webp.html",
   "scope": "./jpg-to-webp.html",
   "display": "standalone",

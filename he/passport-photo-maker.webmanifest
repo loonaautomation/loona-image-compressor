@@ -2,7 +2,7 @@
   "name": "Loona יוצר תמונות בגודל פספורט",
   "short_name": "יוצר תמונות בגודל פספורט",
   "description": "צרו תמונת פספורט באינטרנט בחינם: חתכו כל תמונה ל־35×45 מ",
-  "id": "/loona-image-compressor/he/passport-photo-maker.html",
+  "id": "/he/passport-photo-maker.html",
   "start_url": "./passport-photo-maker.html",
   "scope": "./passport-photo-maker.html",
   "display": "standalone",

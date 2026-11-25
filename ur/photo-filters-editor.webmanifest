@@ -2,7 +2,7 @@
   "name": "Loona فوٹو فلٹرز اور درست",
   "short_name": "فوٹو فلٹرز اور درست",
   "description": "تصاویر آن لائن مفت درست کریں: روشنائی، تضاد اور رنگت ایڈجسٹ کریں، ایک کلک سے تیز کریں اور Passport Fix اور Vivid جیسے تیار پری سیٹس استعمال کریں۔",
-  "id": "/loona-image-compressor/ur/photo-filters-editor.html",
+  "id": "/ur/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

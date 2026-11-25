@@ -2,7 +2,7 @@
   "name": "Loona Kokeen IBPS RRB (Gramin Bank) Valokuva koko",
   "short_name": "Kokeen IBPS RRB (Gramin Bank)",
   "description": "Muuta kokeen IBPS RRB (Gramin Bank) valokuva ilmoitettuun kokoon (200 × 230 px) ja välille 20–50 KB. Ilmaiseksi selaimessasi — ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/ibps-rrb-photo-size.html",
+  "id": "/fi/ibps-rrb-photo-size.html",
   "start_url": "./ibps-rrb-photo-size.html",
   "scope": "./ibps-rrb-photo-size.html",
   "display": "standalone",

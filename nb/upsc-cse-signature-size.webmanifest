@@ -2,7 +2,7 @@
   "name": "Loona UPSC Civil Services (IAS) Signatur-størrelse",
   "short_name": "UPSC Civil Services (IAS)",
   "description": "Endre størrelsen på UPSC Civil Services (IAS) signatur til varslingsstørrelsen (skannet boks, forhold omtrent 7:2) og båndet på 20–300 KB. Gratis, i nettleseren din — ingen opplasting, ingen registrering.",
-  "id": "/loona-image-compressor/nb/upsc-cse-signature-size.html",
+  "id": "/nb/upsc-cse-signature-size.html",
   "start_url": "./upsc-cse-signature-size.html",
   "scope": "./upsc-cse-signature-size.html",
   "display": "standalone",

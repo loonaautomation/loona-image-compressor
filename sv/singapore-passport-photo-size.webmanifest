@@ -2,7 +2,7 @@
   "name": "Loona Singaporeanskt passfoto storlek",
   "short_name": "Singaporeanskt passfoto",
   "description": "Skapa ett Singaporeanskt passfoto i den officiella storleken 35×45 mm (413×531 px), helvit bakgrund. Gratis onlineskapare — beskär, ladda ner och skriv ut ark, ingen uppladdning.",
-  "id": "/loona-image-compressor/sv/singapore-passport-photo-size.html",
+  "id": "/sv/singapore-passport-photo-size.html",
   "start_url": "./singapore-passport-photo-size.html",
   "scope": "./singapore-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας PNG σε JPG",
   "short_name": "Μετατροπέας PNG σε JPG",
   "description": "Μετατρέψτε PNG σε JPG διαδικτυακά δωρεάν. Μικρότερα αρχεία για φόρμες, email και ιστοσελίδες, απευθείας στο πρόγραμμα περιήγησής σας — χωρίς εγγραφή, χωρίς μεταφόρτωση, χωρίς υδατογράφημα.",
-  "id": "/loona-image-compressor/el/png-to-jpg.html",
+  "id": "/el/png-to-jpg.html",
   "start_url": "./png-to-jpg.html",
   "scope": "./png-to-jpg.html",
   "display": "standalone",

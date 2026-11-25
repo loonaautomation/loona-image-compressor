@@ -2,7 +2,7 @@
   "name": "Loona Passi- ja viisumikuvien koot maittain",
   "short_name": "Passi- ja viisumikuvien koot",
   "description": "Viralliset passi-, viisumi- ja henkilökorttikuvien koot 40 maalle ja asiakirjalle, jokaisella tekijätyökalu tarkassa millimetri- ja pikselikoossa.",
-  "id": "/loona-image-compressor/fi/passport-photo-sizes.html",
+  "id": "/fi/passport-photo-sizes.html",
   "start_url": "./passport-photo-sizes.html",
   "scope": "./passport-photo-sizes.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Velikost GATE Podpis",
   "short_name": "Velikost GATE Podpis",
   "description": "Změňte velikost souboru GATE podpis na velikost podle oznámení (naskenované pole, poměr asi 7:2) a pásmo 3–100 KB. Zdarma, ve vašem prohlížeči — bez nahrávání a bez registrace.",
-  "id": "/loona-image-compressor/cs/gate-signature-size.html",
+  "id": "/cs/gate-signature-size.html",
   "start_url": "./gate-signature-size.html",
   "scope": "./gate-signature-size.html",
   "display": "standalone",

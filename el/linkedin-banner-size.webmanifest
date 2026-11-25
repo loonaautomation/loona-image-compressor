@@ -2,7 +2,7 @@
   "name": "Loona Banner Προφίλ / Σελίδας LinkedIn",
   "short_name": "Banner Προφίλ / Σελίδας",
   "description": "Δημιουργήστε ένα banner προφίλ / σελίδας LinkedIn σε ακριβώς 1584×396 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/linkedin-banner-size.html",
+  "id": "/el/linkedin-banner-size.html",
   "start_url": "./linkedin-banner-size.html",
   "scope": "./linkedin-banner-size.html",
   "display": "standalone",

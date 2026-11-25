@@ -2,7 +2,7 @@
   "name": "Loona JEE Main Foto størrelse",
   "short_name": "JEE Main Foto størrelse",
   "description": "Tilpas størrelsen på dit JEE Main foto til meddelelsens størrelse (3.5 × 4.5 cm (cirka 413 × 531 px ved 300 DPI)) og båndet 10–200 KB. Gratis, i din browser — ingen upload, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/jee-main-photo-size.html",
+  "id": "/da/jee-main-photo-size.html",
   "start_url": "./jee-main-photo-size.html",
   "scope": "./jee-main-photo-size.html",
   "display": "standalone",

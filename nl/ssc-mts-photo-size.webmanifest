@@ -2,7 +2,7 @@
   "name": "Loona Formaat SSC MTS Foto",
   "short_name": "Formaat SSC MTS Foto",
   "description": "Pas je SSC MTS-foto aan naar het formaat uit de aankondiging (200 × 230 px) en de band van 20–50 KB. Gratis, in je browser — geen upload, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/ssc-mts-photo-size.html",
+  "id": "/nl/ssc-mts-photo-size.html",
   "start_url": "./ssc-mts-photo-size.html",
   "scope": "./ssc-mts-photo-size.html",
   "display": "standalone",

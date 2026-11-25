@@ -2,7 +2,7 @@
   "name": "Loona Размер Снимка за паспорт / DNI на Аржентина",
   "short_name": "Размер Снимка за паспорт /",
   "description": "Направете Снимка за паспорт / DNI на Аржентина в официалния размер 40×40 mm (472×472 px), фон обикновен бял или светлосин. Безплатен онлайн инструмент — изрязване, изтегляне и лист за печат, без качване.",
-  "id": "/loona-image-compressor/bg/argentina-passport-photo-size.html",
+  "id": "/bg/argentina-passport-photo-size.html",
   "start_url": "./argentina-passport-photo-size.html",
   "scope": "./argentina-passport-photo-size.html",
   "display": "standalone",

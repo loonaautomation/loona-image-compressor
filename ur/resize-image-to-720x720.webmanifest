@@ -2,7 +2,7 @@
   "name": "Loona تصویر کو 720 × 720 px پر آن لائن ری سائز کریں",
   "short_name": "تصویر کو 720 × 720 px پر آن",
   "description": "کسی بھی تصویر کو بالکل 720×720 px پر ری سائز کریں — Facebook پروفائل کم از کم اور عام اوتار سائز۔ آپ کے براؤزر میں کراپ کنٹرول کے ساتھ مفت؛ نہ اپ لوڈ، نہ سائن اپ۔",
-  "id": "/loona-image-compressor/ur/resize-image-to-720x720.html",
+  "id": "/ur/resize-image-to-720x720.html",
   "start_url": "./resize-image-to-720x720.html",
   "scope": "./resize-image-to-720x720.html",
   "display": "standalone",

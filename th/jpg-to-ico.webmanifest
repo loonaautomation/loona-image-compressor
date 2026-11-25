@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง JPG เป็น ICO",
   "short_name": "ตัวแปลง JPG เป็น ICO",
   "description": "แปลง JPG เป็น ICO ออนไลน์ ฟรี ในเบราว์เซอร์ของคุณ การแปลงจริงบนอุปกรณ์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ",
-  "id": "/loona-image-compressor/th/jpg-to-ico.html",
+  "id": "/th/jpg-to-ico.html",
   "start_url": "./jpg-to-ico.html",
   "scope": "./jpg-to-ico.html",
   "display": "standalone",

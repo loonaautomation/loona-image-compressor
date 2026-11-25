@@ -2,7 +2,7 @@
   "name": "Loona Afbeelding verkleinen/vergroten naar 1500 × 2100 px online",
   "short_name": "Afbeelding",
   "description": "Pas elke afbeelding aan naar precies 1500×2100 px — Fotoprint van 5 × 7 inch bij 300 DPI. Gratis in je browser met bijsnijdcontrole; geen upload, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/resize-image-to-1500x2100.html",
+  "id": "/nl/resize-image-to-1500x2100.html",
   "start_url": "./resize-image-to-1500x2100.html",
   "scope": "./resize-image-to-1500x2100.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Розмір Банер профілю / сторінки LinkedIn",
   "short_name": "Розмір Банер профілю /",
   "description": "Зробіть банер профілю / сторінки для LinkedIn рівно 1584×396 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/linkedin-banner-size.html",
+  "id": "/uk/linkedin-banner-size.html",
   "start_url": "./linkedin-banner-size.html",
   "scope": "./linkedin-banner-size.html",
   "display": "standalone",

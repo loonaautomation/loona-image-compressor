@@ -2,7 +2,7 @@
   "name": "Loona Αλλαγή Μεγέθους Εικόνας",
   "short_name": "Αλλαγή Μεγέθους Εικόνας",
   "description": "Αλλάξτε το μέγεθος οποιασδήποτε εικόνας κατά pixel, cm ή ίντσες με ρύθμιση DPI δωρεάν. Κρατήστε την αναλογία, επιλέξτε JPG, PNG ή WebP και κατεβάστε αμέσως — δεν χρειάζεται εγγραφή.",
-  "id": "/loona-image-compressor/el/resize-image.html",
+  "id": "/el/resize-image.html",
   "start_url": "./resize-image.html",
   "scope": "./resize-image.html",
   "display": "standalone",

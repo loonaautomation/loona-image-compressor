@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Nembo ya Ukurasa wa Kampuni wa LinkedIn",
   "short_name": "Ukubwa wa Nembo ya Ukurasa wa",
   "description": "Tengeneza nembo ya ukurasa wa kampuni ya LinkedIn katika px 300×300 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/linkedin-company-logo-size.html",
+  "id": "/sw/linkedin-company-logo-size.html",
   "start_url": "./linkedin-company-logo-size.html",
   "scope": "./linkedin-company-logo-size.html",
   "display": "standalone",

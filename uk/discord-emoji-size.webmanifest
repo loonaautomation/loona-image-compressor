@@ -2,7 +2,7 @@
   "name": "Loona Розмір Власний емодзі Discord",
   "short_name": "Розмір Власний емодзі Discord",
   "description": "Зробіть власний емодзі для Discord рівно 128×128 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/discord-emoji-size.html",
+  "id": "/uk/discord-emoji-size.html",
   "start_url": "./discord-emoji-size.html",
   "scope": "./discord-emoji-size.html",
   "display": "standalone",

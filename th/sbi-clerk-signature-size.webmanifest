@@ -2,7 +2,7 @@
   "name": "Loona ขนาดลายเซ็นSBI Clerk (Junior Associates)",
   "short_name": "ขนาดลายเซ็นSBI Clerk (Junior",
   "description": "ปรับขนาดลายเซ็นSBI Clerk (Junior Associates)ของคุณให้เป็นขนาดตามประกาศ (140 × 60 px) และช่วง 10–20 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/sbi-clerk-signature-size.html",
+  "id": "/th/sbi-clerk-signature-size.html",
   "start_url": "./sbi-clerk-signature-size.html",
   "scope": "./sbi-clerk-signature-size.html",
   "display": "standalone",

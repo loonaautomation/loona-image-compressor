@@ -2,7 +2,7 @@
   "name": "Loona SBI Clerk (Junior Associates) Fénykép méret",
   "short_name": "SBI Clerk (Junior Associates)",
   "description": "Méretezze át a SBI Clerk (Junior Associates) fotó fájlját a kiírás szerinti méretre (200 × 230 px) és a 20–50 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/sbi-clerk-photo-size.html",
+  "id": "/hu/sbi-clerk-photo-size.html",
   "start_url": "./sbi-clerk-photo-size.html",
   "scope": "./sbi-clerk-photo-size.html",
   "display": "standalone",

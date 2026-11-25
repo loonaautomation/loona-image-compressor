@@ -2,7 +2,7 @@
   "name": "Loona 写真からPDFへのコンバーター",
   "short_name": "写真からPDFへのコンバーター",
   "description": "写真をオンラインで無料でPDFに変換: JPG、PNG、WebP画像を追加し、A4、Letter、または画像に合わせたページを選び、一つの整ったPDFをダウンロードしてください。アップロードなし。",
-  "id": "/loona-image-compressor/ja/photo-to-pdf.html",
+  "id": "/ja/photo-to-pdf.html",
   "start_url": "./photo-to-pdf.html",
   "scope": "./photo-to-pdf.html",
   "display": "standalone",

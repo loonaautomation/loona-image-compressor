@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto SSC CHSL",
   "short_name": "Ukuran Foto SSC CHSL",
   "description": "Ubah ukuran foto SSC CHSL Anda ke ukuran pemberitahuan (200 × 230 px) dan rentang 20–50 KB. Gratis, di browser Anda — tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/ssc-chsl-photo-size.html",
+  "id": "/id/ssc-chsl-photo-size.html",
   "start_url": "./ssc-chsl-photo-size.html",
   "scope": "./ssc-chsl-photo-size.html",
   "display": "standalone",

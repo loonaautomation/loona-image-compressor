@@ -2,7 +2,7 @@
   "name": "Loona AFCAT Fénykép méret",
   "short_name": "AFCAT Fénykép méret",
   "description": "Méretezze át a AFCAT fotó fájlját a kiírás szerinti méretre (3.5 × 4.5 cm (kb. 413 × 531 px 300 DPI mellett)) és a 10–50 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/afcat-photo-size.html",
+  "id": "/hu/afcat-photo-size.html",
   "start_url": "./afcat-photo-size.html",
   "scope": "./afcat-photo-size.html",
   "display": "standalone",

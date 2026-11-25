@@ -2,7 +2,7 @@
   "name": "Loona Změnit velikost obrázku na 1500 × 500",
   "short_name": "Změnit velikost obrázku na",
   "description": "Změňte velikost libovolného obrázku přesně na 1500 × 500 pixelů (X (Twitter) profile headers and wide banners) zdarma. Pokrytí, přizpůsobení dovnitř nebo roztažení, JPG nebo PNG, okamžité stažení — bez registrace, nic se nenahrává.",
-  "id": "/loona-image-compressor/cs/resize-image-to-1500x500.html",
+  "id": "/cs/resize-image-to-1500x500.html",
   "start_url": "./resize-image-to-1500x500.html",
   "scope": "./resize-image-to-1500x500.html",
   "display": "standalone",

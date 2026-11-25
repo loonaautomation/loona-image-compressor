@@ -2,7 +2,7 @@
   "name": "Loona Instagram Portrettinnlegg (4",
   "short_name": "Instagram Portrettinnlegg (4",
   "description": "Lag en Instagram portrettinnlegg (4:5) med nøyaktig 1080×1350 px. Gratis størrelsesendrer/beskjærer i nettleseren din med reglene for sikre soner som stopper beskåret tekst og ansikter.",
-  "id": "/loona-image-compressor/nb/instagram-portrait-post-size.html",
+  "id": "/nb/instagram-portrait-post-size.html",
   "start_url": "./instagram-portrait-post-size.html",
   "scope": "./instagram-portrait-post-size.html",
   "display": "standalone",

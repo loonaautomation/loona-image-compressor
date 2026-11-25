@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Paspor Indonesia",
   "short_name": "Ukuran Foto Paspor Indonesia",
   "description": "Buat Foto Paspor Indonesia pada ukuran resmi 40×60 mm (472×709 px), latar belakang merah (untuk paspor) — putih untuk banyak ID lainnya. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/indonesia-passport-photo-size.html",
+  "id": "/id/indonesia-passport-photo-size.html",
   "start_url": "./indonesia-passport-photo-size.html",
   "scope": "./indonesia-passport-photo-size.html",
   "display": "standalone",

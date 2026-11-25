@@ -2,7 +2,7 @@
   "name": "Loona Video to GIF Converter",
   "short_name": "Video to GIF Converter",
   "description": "免费在线将视频转换为 GIF — 将 MP4 或 WebM 片段变成动画 GIF。基于浏览器，无需注册，无需上传，无水印。",
-  "id": "/loona-image-compressor/zh/video-to-gif.html",
+  "id": "/zh/video-to-gif.html",
   "start_url": "./video-to-gif.html",
   "scope": "./video-to-gif.html",
   "display": "standalone",

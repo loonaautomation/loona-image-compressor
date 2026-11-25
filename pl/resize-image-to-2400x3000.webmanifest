@@ -2,7 +2,7 @@
   "name": "Loona Zmień rozmiar obrazu do 2400 × 3000 px online",
   "short_name": "Zmień rozmiar obrazu do 2400",
   "description": "Zmień rozmiar dowolnego obrazu dokładnie do 2400×3000 px — Wydruk 8 × 10 cali przy 300 DPI. Za darmo w przeglądarce z kontrolą przycinania; bez przesyłania, bez rejestracji.",
-  "id": "/loona-image-compressor/pl/resize-image-to-2400x3000.html",
+  "id": "/pl/resize-image-to-2400x3000.html",
   "start_url": "./resize-image-to-2400x3000.html",
   "scope": "./resize-image-to-2400x3000.html",
   "display": "standalone",

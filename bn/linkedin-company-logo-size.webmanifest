@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn কোম্পানি পৃষ্ঠার লোগো আকার",
   "short_name": "LinkedIn কোম্পানি পৃষ্ঠার",
   "description": "ঠিক 300×300 px-এ একটি LinkedIn কোম্পানি পৃষ্ঠার লোগো তৈরি করুন। আপনার ব্রাউজারে বিনামূল্যে রিসাইজার/ক্রপার, ক্রপ করা লেখা ও মুখ আটকায় এমন নিরাপদ-অঞ্চলের নিয়মসহ।",
-  "id": "/loona-image-compressor/bn/linkedin-company-logo-size.html",
+  "id": "/bn/linkedin-company-logo-size.html",
   "start_url": "./linkedin-company-logo-size.html",
   "scope": "./linkedin-company-logo-size.html",
   "display": "standalone",

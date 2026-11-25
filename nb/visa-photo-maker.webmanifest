@@ -2,7 +2,7 @@
   "name": "Loona Visumbildeverktøy",
   "short_name": "Visumbildeverktøy",
   "description": "Lag visumbilder gratis på nett: USA 2x2 tommer, Storbritannia og Schengen 35x45 mm, Kina 33x48 mm ved 300 DPI. Ingen registrering, ingen vannmerke, helt privat verktøy.",
-  "id": "/loona-image-compressor/nb/visa-photo-maker.html",
+  "id": "/nb/visa-photo-maker.html",
   "start_url": "./visa-photo-maker.html",
   "scope": "./visa-photo-maker.html",
   "display": "standalone",

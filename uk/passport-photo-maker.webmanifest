@@ -2,7 +2,7 @@
   "name": "Loona Конструктор фото паспортного розміру",
   "short_name": "Конструктор фото паспортного",
   "description": "Створіть фото паспортного розміру онлайн безкоштовно: обріжте будь-яке фото до 35×45 mm або 2×2 дюймів із готовністю до друку при 300 DPI. Без реєстрації, без водяного знака, цілком приватно.",
-  "id": "/loona-image-compressor/uk/passport-photo-maker.html",
+  "id": "/uk/passport-photo-maker.html",
   "start_url": "./passport-photo-maker.html",
   "scope": "./passport-photo-maker.html",
   "display": "standalone",

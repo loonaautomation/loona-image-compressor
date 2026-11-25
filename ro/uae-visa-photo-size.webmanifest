@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie pentru viza EAU / actul de identitate Emirates",
   "short_name": "Dimensiune Fotografie pentru",
   "description": "Creează un Fotografie pentru viza EAU / actul de identitate Emirates la dimensiunea oficială 40×60 mm (472×709 px), fundal alb simplu. Creator online gratuit — decupează, descarcă și imprimă foaia, fără încărcare.",
-  "id": "/loona-image-compressor/ro/uae-visa-photo-size.html",
+  "id": "/ro/uae-visa-photo-size.html",
   "start_url": "./uae-visa-photo-size.html",
   "scope": "./uae-visa-photo-size.html",
   "display": "standalone",

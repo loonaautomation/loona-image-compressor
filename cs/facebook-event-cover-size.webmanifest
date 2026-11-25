@@ -2,7 +2,7 @@
   "name": "Loona Velikost Facebook Obálka události",
   "short_name": "Velikost Facebook Obálka",
   "description": "Vytvořte Facebook obálka události přesně 1920×1005 px. Bezplatný nástroj na změnu velikosti/ořez ve vašem prohlížeči s pravidly bezpečné zóny, která zabrání oříznutí textu a obličejů.",
-  "id": "/loona-image-compressor/cs/facebook-event-cover-size.html",
+  "id": "/cs/facebook-event-cover-size.html",
   "start_url": "./facebook-event-cover-size.html",
   "scope": "./facebook-event-cover-size.html",
   "display": "standalone",

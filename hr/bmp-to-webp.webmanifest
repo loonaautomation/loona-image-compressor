@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač BMP u WEBP",
   "short_name": "Pretvarač BMP u WEBP",
   "description": "Pretvorite BMP u WEBP na mreži, besplatno, u svom pregledniku. Pravo pretvaranje na vašem uređaju — bez prijenosa, bez registracije, bez vodenih žigova.",
-  "id": "/loona-image-compressor/hr/bmp-to-webp.html",
+  "id": "/hr/bmp-to-webp.html",
   "start_url": "./bmp-to-webp.html",
   "scope": "./bmp-to-webp.html",
   "display": "standalone",

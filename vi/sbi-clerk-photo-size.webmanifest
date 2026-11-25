@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ảnh SBI Clerk (Junior Associates)",
   "short_name": "Kích thước Ảnh SBI Clerk",
   "description": "Thay đổi kích thước ảnh SBI Clerk (Junior Associates) của bạn theo kích thước trong thông báo (200 × 230 px) và dải 20–50 KB. Miễn phí, ngay trong trình duyệt của bạn — không tải lên, không đăng ký.",
-  "id": "/loona-image-compressor/vi/sbi-clerk-photo-size.html",
+  "id": "/vi/sbi-clerk-photo-size.html",
   "start_url": "./sbi-clerk-photo-size.html",
   "scope": "./sbi-clerk-photo-size.html",
   "display": "standalone",

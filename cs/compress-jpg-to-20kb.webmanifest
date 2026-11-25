@@ -2,7 +2,7 @@
   "name": "Loona Komprimovat JPG na 20 KB online",
   "short_name": "Komprimovat JPG na 20 KB",
   "description": "Komprimujte obrázek JPG na 20 KB nebo méně, zdarma ve svém prohlížeči. Automatické hledání najde nejlepší kvalitu, která se do limitu vejde — bez registrace a bez nahrávání.",
-  "id": "/loona-image-compressor/cs/compress-jpg-to-20kb.html",
+  "id": "/cs/compress-jpg-to-20kb.html",
   "start_url": "./compress-jpg-to-20kb.html",
   "scope": "./compress-jpg-to-20kb.html",
   "display": "standalone",

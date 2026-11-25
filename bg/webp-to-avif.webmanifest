@@ -2,7 +2,7 @@
   "name": "Loona Конвертор от WEBP в AVIF",
   "short_name": "Конвертор от WEBP в AVIF",
   "description": "Конвертирайте WEBP в AVIF онлайн, безплатно, във вашия браузър. Истинско конвертиране на устройството ви — без качване, без регистрация, без водни знаци.",
-  "id": "/loona-image-compressor/bg/webp-to-avif.html",
+  "id": "/bg/webp-to-avif.html",
   "start_url": "./webp-to-avif.html",
   "scope": "./webp-to-avif.html",
   "display": "standalone",

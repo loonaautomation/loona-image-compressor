@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn পোস্ট ছবি আকার",
   "short_name": "LinkedIn পোস্ট ছবি আকার",
   "description": "ঠিক 1200×627 px-এ একটি LinkedIn পোস্ট ছবি তৈরি করুন। আপনার ব্রাউজারে বিনামূল্যে রিসাইজার/ক্রপার, ক্রপ করা লেখা ও মুখ আটকায় এমন নিরাপদ-অঞ্চলের নিয়মসহ।",
-  "id": "/loona-image-compressor/bn/linkedin-post-image-size.html",
+  "id": "/bn/linkedin-post-image-size.html",
   "start_url": "./linkedin-post-image-size.html",
   "scope": "./linkedin-post-image-size.html",
   "display": "standalone",

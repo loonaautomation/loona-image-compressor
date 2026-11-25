@@ -2,7 +2,7 @@
   "name": "Loona AFCATの署名サイズ",
   "short_name": "AFCATの署名サイズ",
   "description": "AFCATの署名を告知サイズ（スキャンしたボックス、比率は約7:2）と10–50 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
-  "id": "/loona-image-compressor/ja/afcat-signature-size.html",
+  "id": "/ja/afcat-signature-size.html",
   "start_url": "./afcat-signature-size.html",
   "scope": "./afcat-signature-size.html",
   "display": "standalone",

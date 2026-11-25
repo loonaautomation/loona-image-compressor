@@ -2,7 +2,7 @@
   "name": "Loona Kihariri cha EXIF",
   "short_name": "Kihariri cha EXIF",
   "description": "Hariri data ya EXIF ya picha ya JPG mtandaoni bure — rekebisha tarehe ya kuchukuliwa, ongeza jina lako kama msanii, weka hakimiliki, chapa na modeli ya kamera, au tengeneza EXIF kwenye picha ambayo haina. Pikseli haziandikwi upya kamwe na hakuna kinachopakiwa.",
-  "id": "/loona-image-compressor/sw/edit-image-metadata.html",
+  "id": "/sw/edit-image-metadata.html",
   "start_url": "./edit-image-metadata.html",
   "scope": "./edit-image-metadata.html",
   "display": "standalone",

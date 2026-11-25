@@ -2,7 +2,7 @@
   "name": "Loona 圖片格式轉換器",
   "short_name": "圖片格式轉換器",
   "description": "免費線上在 JPG、PNG 和 WebP 之間批次轉換圖片，帶質量控制和透明背景平鋪。無需註冊。",
-  "id": "/loona-image-compressor/zh-hant/image-format-converter.html",
+  "id": "/zh-hant/image-format-converter.html",
   "start_url": "./image-format-converter.html",
   "scope": "./image-format-converter.html",
   "display": "standalone",

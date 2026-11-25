@@ -2,7 +2,7 @@
   "name": "Loona AVIFからWEBPへの変換ツール",
   "short_name": "AVIFからWEBPへの変換ツール",
   "description": "AVIFをWEBPにオンラインで変換できます。無料で、ブラウザ内で処理されます。お使いのデバイス上での実際の変換です — アップロード不要、登録不要、透かしなし。",
-  "id": "/loona-image-compressor/ja/avif-to-webp.html",
+  "id": "/ja/avif-to-webp.html",
   "start_url": "./avif-to-webp.html",
   "scope": "./avif-to-webp.html",
   "display": "standalone",

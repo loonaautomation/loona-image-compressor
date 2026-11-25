@@ -2,7 +2,7 @@
   "name": "Loona Thay đổi kích thước ảnh thành 140 × 60 px trực tuyến",
   "short_name": "Thay đổi kích thước ảnh thành",
   "description": "Thay đổi kích thước mọi hình ảnh thành chính xác 140×60 px — Tiêu chuẩn chữ ký thi cử của Ấn Độ (SSC, IBPS, SBI). Miễn phí trong trình duyệt của bạn với điều khiển cắt ảnh; không tải lên, không đăng ký.",
-  "id": "/loona-image-compressor/vi/resize-image-to-140x60.html",
+  "id": "/vi/resize-image-to-140x60.html",
   "start_url": "./resize-image-to-140x60.html",
   "scope": "./resize-image-to-140x60.html",
   "display": "standalone",

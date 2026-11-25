@@ -2,7 +2,7 @@
   "name": "Loona Fotoformaat Pasfoto / DNI-foto Argentinië",
   "short_name": "Fotoformaat Pasfoto /",
   "description": "Maak een Pasfoto / DNI-foto Argentinië op het officiële formaat 40×40 mm (472×472 px), achtergrond: effen wit of lichtblauw. Gratis online maker — bijsnijden, downloaden en printvel, geen upload.",
-  "id": "/loona-image-compressor/nl/argentina-passport-photo-size.html",
+  "id": "/nl/argentina-passport-photo-size.html",
   "start_url": "./argentina-passport-photo-size.html",
   "scope": "./argentina-passport-photo-size.html",
   "display": "standalone",

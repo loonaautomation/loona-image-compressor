@@ -2,7 +2,7 @@
   "name": "Loona ขนาดพินยาว / อินโฟกราฟิก Pinterest",
   "short_name": "ขนาดพินยาว / อินโฟกราฟิก",
   "description": "ทำพินยาว / อินโฟกราฟิก Pinterest ที่ขนาด 1000×2100 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/pinterest-long-pin-size.html",
+  "id": "/th/pinterest-long-pin-size.html",
   "start_url": "./pinterest-long-pin-size.html",
   "scope": "./pinterest-long-pin-size.html",
   "display": "standalone",

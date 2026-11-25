@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Jalada / Jalada la Ukurasa wa Facebook",
   "short_name": "Ukubwa wa Picha ya Jalada /",
   "description": "Tengeneza picha ya jalada / jalada la ukurasa ya Facebook katika px 1640×924 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/facebook-cover-photo-size.html",
+  "id": "/sw/facebook-cover-photo-size.html",
   "start_url": "./facebook-cover-photo-size.html",
   "scope": "./facebook-cover-photo-size.html",
   "display": "standalone",

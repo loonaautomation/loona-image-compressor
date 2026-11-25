@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da JPG a ICO",
   "short_name": "Convertitore da JPG a ICO",
   "description": "Converti JPG in ICO online, gratis, nel tuo browser. Conversione reale sul tuo dispositivo: senza caricamenti, senza registrazione, senza filigrane.",
-  "id": "/loona-image-compressor/it/jpg-to-ico.html",
+  "id": "/it/jpg-to-ico.html",
   "start_url": "./jpg-to-ico.html",
   "scope": "./jpg-to-ico.html",
   "display": "standalone",

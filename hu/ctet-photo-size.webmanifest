@@ -2,7 +2,7 @@
   "name": "Loona CTET Fénykép méret",
   "short_name": "CTET Fénykép méret",
   "description": "Méretezze át a CTET fotó fájlját a kiírás szerinti méretre (3.5 × 4.5 cm (kb. 413 × 531 px 300 DPI mellett)) és a 10–100 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/ctet-photo-size.html",
+  "id": "/hu/ctet-photo-size.html",
   "start_url": "./ctet-photo-size.html",
   "scope": "./ctet-photo-size.html",
   "display": "standalone",

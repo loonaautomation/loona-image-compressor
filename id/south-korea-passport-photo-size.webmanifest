@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Paspor Korea Selatan",
   "short_name": "Ukuran Foto Paspor Korea",
   "description": "Buat Foto Paspor Korea Selatan pada ukuran resmi 35×45 mm (413×531 px), latar belakang putih polos. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/south-korea-passport-photo-size.html",
+  "id": "/id/south-korea-passport-photo-size.html",
   "start_url": "./south-korea-passport-photo-size.html",
   "scope": "./south-korea-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona حجم لافتة الخادم Discord",
   "short_name": "حجم لافتة الخادم Discord",
   "description": "اصنع لافتة الخادم Discord بمقاس 960×540 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/discord-server-banner-size.html",
+  "id": "/ar/discord-server-banner-size.html",
   "start_url": "./discord-server-banner-size.html",
   "scope": "./discord-server-banner-size.html",
   "display": "standalone",

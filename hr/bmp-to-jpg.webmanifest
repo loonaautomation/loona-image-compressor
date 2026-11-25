@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač BMP u JPG",
   "short_name": "Pretvarač BMP u JPG",
   "description": "Pretvorite BMP u JPG na mreži besplatno i smanjite goleme nekomprimirane bitmape za 90% ili više. U vašem pregledniku — bez registracije, bez prijenosa, bez vodenog žiga.",
-  "id": "/loona-image-compressor/hr/bmp-to-jpg.html",
+  "id": "/hr/bmp-to-jpg.html",
   "start_url": "./bmp-to-jpg.html",
   "scope": "./bmp-to-jpg.html",
   "display": "standalone",

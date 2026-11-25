@@ -2,7 +2,7 @@
   "name": "Loona Velikost YouTube Obálka / záběr Shorts",
   "short_name": "Velikost YouTube Obálka /",
   "description": "Vytvořte YouTube obálka / záběr shorts přesně 1080×1920 px. Bezplatný nástroj na změnu velikosti/ořez ve vašem prohlížeči s pravidly bezpečné zóny, která zabrání oříznutí textu a obličejů.",
-  "id": "/loona-image-compressor/cs/youtube-shorts-size.html",
+  "id": "/cs/youtube-shorts-size.html",
   "start_url": "./youtube-shorts-size.html",
   "scope": "./youtube-shorts-size.html",
   "display": "standalone",

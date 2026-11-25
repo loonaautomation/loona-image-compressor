@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת פספורט ארה&quot;ב",
   "short_name": "גודל תמונת פספורט ארה&quot;ב",
   "description": "צרו תמונת פספורט ארה&quot;ב בגודל הרשמי 51×51 מ&quot;מ (600×600 px), רקע לבן חלק. כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/us-passport-photo-size.html",
+  "id": "/he/us-passport-photo-size.html",
   "start_url": "./us-passport-photo-size.html",
   "scope": "./us-passport-photo-size.html",
   "display": "standalone",

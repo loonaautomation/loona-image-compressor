@@ -2,7 +2,7 @@
   "name": "Loona SSC CGLの写真サイズ",
   "short_name": "SSC CGLの写真サイズ",
   "description": "SSC CGLの写真を告知サイズ（200 × 230 px）と20–50 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
-  "id": "/loona-image-compressor/ja/ssc-cgl-photo-size.html",
+  "id": "/ja/ssc-cgl-photo-size.html",
   "start_url": "./ssc-cgl-photo-size.html",
   "scope": "./ssc-cgl-photo-size.html",
   "display": "standalone",

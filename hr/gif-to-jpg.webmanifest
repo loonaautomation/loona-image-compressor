@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač GIF u JPG",
   "short_name": "Pretvarač GIF u JPG",
   "description": "Pretvorite GIF u JPG na mreži besplatno — pretvorite GIF u malu, univerzalnu JPG nepokretnu sliku. U vašem pregledniku: bez registracije, bez prijenosa, bez vodenog žiga.",
-  "id": "/loona-image-compressor/hr/gif-to-jpg.html",
+  "id": "/hr/gif-to-jpg.html",
   "start_url": "./gif-to-jpg.html",
   "scope": "./gif-to-jpg.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Trình cải thiện ảnh",
   "short_name": "Trình cải thiện ảnh",
   "description": "Cải thiện ảnh trực tuyến miễn phí: tự động cải thiện bằng một cú nhấp, làm nét ảnh mềm, khử nhiễu nhẹ nhàng và phóng to 2x hoặc 4x. Kết quả trung thực, không cần đăng ký, và ảnh của bạn không bao giờ rời khỏi thiết bị.",
-  "id": "/loona-image-compressor/vi/image-enhancer.html",
+  "id": "/vi/image-enhancer.html",
   "start_url": "./image-enhancer.html",
   "scope": "./image-enhancer.html",
   "display": "standalone",

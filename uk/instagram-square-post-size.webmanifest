@@ -2,7 +2,7 @@
   "name": "Loona Розмір Квадратний допис (1",
   "short_name": "Розмір Квадратний допис (1",
   "description": "Зробіть квадратний допис (1:1) для Instagram рівно 1080×1080 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/instagram-square-post-size.html",
+  "id": "/uk/instagram-square-post-size.html",
   "start_url": "./instagram-square-post-size.html",
   "scope": "./instagram-square-post-size.html",
   "display": "standalone",

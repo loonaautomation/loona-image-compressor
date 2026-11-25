@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото на візу ОАЕ / посвідчення Emirates ID",
   "short_name": "Розмір Фото на візу ОАЕ /",
   "description": "Зробіть Фото на візу ОАЕ / посвідчення Emirates ID в офіційному розмірі 40×60 мм (472×709 пікс.), тло: однотонне біле. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
-  "id": "/loona-image-compressor/uk/uae-visa-photo-size.html",
+  "id": "/uk/uae-visa-photo-size.html",
   "start_url": "./uae-visa-photo-size.html",
   "scope": "./uae-visa-photo-size.html",
   "display": "standalone",

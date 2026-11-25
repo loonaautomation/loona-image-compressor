@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha Mchanganyiko wa CSS",
   "short_name": "Kizalishaji cha Mchanganyiko",
   "description": "Jenga michanganyiko ya mstari ya CSS kwa rangi mbili au tatu na pembe yoyote, ihakiki moja kwa moja na unakili msimbo wa CSS ulio tayari. Bure, bila kujisajili.",
-  "id": "/loona-image-compressor/sw/gradient-generator.html",
+  "id": "/sw/gradient-generator.html",
   "start_url": "./gradient-generator.html",
   "scope": "./gradient-generator.html",
   "display": "standalone",

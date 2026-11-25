@@ -2,7 +2,7 @@
   "name": "Loona Veličina Facebook Naslovna fotografija / naslovnica stranice",
   "short_name": "Veličina Facebook Naslovna",
   "description": "Izradite Facebook naslovna fotografija / naslovnica stranice na točno 1640×924 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/facebook-cover-photo-size.html",
+  "id": "/hr/facebook-cover-photo-size.html",
   "start_url": "./facebook-cover-photo-size.html",
   "scope": "./facebook-cover-photo-size.html",
   "display": "standalone",

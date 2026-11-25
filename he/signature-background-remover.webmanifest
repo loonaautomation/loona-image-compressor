@@ -2,7 +2,7 @@
   "name": "Loona מסיר רקע חתימה",
   "short_name": "מסיר רקע חתימה",
   "description": "הסירו את רקע הנייר מתמונת חתימה או חותמת והורידו PNG שקוף, חינם אונליין. כלי קנבס טהור בדפדפן, ללא בינה מלאכותית, ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/signature-background-remover.html",
+  "id": "/he/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

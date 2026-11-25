@@ -2,7 +2,7 @@
   "name": "Loona Afbeelding verkleinen/vergroten naar 140 × 60 px online",
   "short_name": "Afbeelding",
   "description": "Pas elke afbeelding aan naar precies 140×60 px — De Indiase norm voor examenhandtekeningen (SSC, IBPS, SBI). Gratis in je browser met bijsnijdcontrole; geen upload, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/resize-image-to-140x60.html",
+  "id": "/nl/resize-image-to-140x60.html",
   "start_url": "./resize-image-to-140x60.html",
   "scope": "./resize-image-to-140x60.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kokeen SBI Clerk (Junior Associates) Valokuva koko",
   "short_name": "Kokeen SBI Clerk (Junior",
   "description": "Muuta kokeen SBI Clerk (Junior Associates) valokuva ilmoitettuun kokoon (200 × 230 px) ja välille 20–50 KB. Ilmaiseksi selaimessasi — ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/sbi-clerk-photo-size.html",
+  "id": "/fi/sbi-clerk-photo-size.html",
   "start_url": "./sbi-clerk-photo-size.html",
   "scope": "./sbi-clerk-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generator memów",
   "short_name": "Generator memów",
   "description": "Zamień dowolne zdjęcie w klasycznego mema z pogrubionym tekstem na górze i dole — darmowy generator memów online z podglądem na żywo, opcjami gładkiego tła i pobieraniem PNG. Bez rejestracji, a Twój obraz nigdy nie opuszcza urządzenia.",
-  "id": "/loona-image-compressor/pl/meme-generator.html",
+  "id": "/pl/meme-generator.html",
   "start_url": "./meme-generator.html",
   "scope": "./meme-generator.html",
   "display": "standalone",

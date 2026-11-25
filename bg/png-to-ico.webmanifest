@@ -2,7 +2,7 @@
   "name": "Loona Конвертор от PNG в ICO",
   "short_name": "Конвертор от PNG в ICO",
   "description": "Конвертирайте PNG в ICO онлайн, безплатно, във вашия браузър. Истинско конвертиране на устройството ви — без качване, без регистрация, без водни знаци.",
-  "id": "/loona-image-compressor/bg/png-to-ico.html",
+  "id": "/bg/png-to-ico.html",
   "start_url": "./png-to-ico.html",
   "scope": "./png-to-ico.html",
   "display": "standalone",

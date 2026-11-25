@@ -2,7 +2,7 @@
   "name": "Loona Narzędzie do poprawy obrazów",
   "short_name": "Narzędzie do poprawy obrazów",
   "description": "Ulepsz zdjęcie online za darmo: automatyczne ulepszanie jednym kliknięciem, wyostrzanie miękkich zdjęć, delikatne czyszczenie szumu i powiększanie 2x lub 4x. Uczciwe wyniki, bez rejestracji, a Twoje zdjęcie nigdy nie opuszcza urządzenia.",
-  "id": "/loona-image-compressor/pl/image-enhancer.html",
+  "id": "/pl/image-enhancer.html",
   "start_url": "./image-enhancer.html",
   "scope": "./image-enhancer.html",
   "display": "standalone",

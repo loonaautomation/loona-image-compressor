@@ -2,7 +2,7 @@
   "name": "Loona Convertor de formate de imagine",
   "short_name": "Convertor de formate de",
   "description": "Convertește imagini între JPG, PNG și WebP online gratuit, în loturi, cu control al calității și aplatizarea fundalului transparent. Nu este necesară înregistrarea.",
-  "id": "/loona-image-compressor/ro/image-format-converter.html",
+  "id": "/ro/image-format-converter.html",
   "start_url": "./image-format-converter.html",
   "scope": "./image-format-converter.html",
   "display": "standalone",

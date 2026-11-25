@@ -2,7 +2,7 @@
   "name": "Loona JPG تا AVIF کنورٹر",
   "short_name": "JPG تا AVIF کنورٹر",
   "description": "JPG کو AVIF میں آن لائن، مفت، اپنے براؤزر میں تبدیل کریں۔ آپ کے ڈیوائس پر اصل تبدیلی — نہ اپ لوڈ، نہ سائن اپ، نہ واٹر مارک۔",
-  "id": "/loona-image-compressor/ur/jpg-to-avif.html",
+  "id": "/ur/jpg-to-avif.html",
   "start_url": "./jpg-to-avif.html",
   "scope": "./jpg-to-avif.html",
   "display": "standalone",

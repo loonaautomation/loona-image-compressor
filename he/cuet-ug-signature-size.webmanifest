@@ -2,7 +2,7 @@
   "name": "Loona גודל חתימה CUET UG",
   "short_name": "גודל חתימה CUET UG",
   "description": "שנו את גודל ה־חתימה של CUET UG לגודל ההודעה הרשמית (תיבה סרוקה, יחס של כ־7:2) ולרצועת 4–30 KB. בחינם, בדפדפן שלכם — ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/cuet-ug-signature-size.html",
+  "id": "/he/cuet-ug-signature-size.html",
   "start_url": "./cuet-ug-signature-size.html",
   "scope": "./cuet-ug-signature-size.html",
   "display": "standalone",

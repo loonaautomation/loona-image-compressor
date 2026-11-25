@@ -2,7 +2,7 @@
   "name": "Loona Instagram ریلز کور کا سائز",
   "short_name": "Instagram ریلز کور کا سائز",
   "description": "Instagram ریلز کور بالکل 1080×1920 px پر بنائیں۔ آپ کے براؤزر میں مفت ری سائزر/کراپر، محفوظ زون کے قواعد کے ساتھ جو کراپ شدہ متن اور چہروں کو روکتے ہیں۔",
-  "id": "/loona-image-compressor/ur/instagram-reels-cover-size.html",
+  "id": "/ur/instagram-reels-cover-size.html",
   "start_url": "./instagram-reels-cover-size.html",
   "scope": "./instagram-reels-cover-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Trình tạo bảng màu",
   "short_name": "Trình tạo bảng màu",
   "description": "Tạo các bảng màu hài hòa từ bất kỳ màu cơ sở nào — các phối tương tự, bổ túc, bộ ba và đơn sắc với mã HEX có thể sao chép. Miễn phí, không cần đăng ký.",
-  "id": "/loona-image-compressor/vi/color-palette-generator.html",
+  "id": "/vi/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",
   "scope": "./color-palette-generator.html",
   "display": "standalone",

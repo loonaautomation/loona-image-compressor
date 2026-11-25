@@ -2,7 +2,7 @@
   "name": "Loona Formaat Facebook Story",
   "short_name": "Formaat Facebook Story",
   "description": "Maak een Facebook story op precies 1080×1920 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/facebook-story-size.html",
+  "id": "/nl/facebook-story-size.html",
   "start_url": "./facebook-story-size.html",
   "scope": "./facebook-story-size.html",
   "display": "standalone",

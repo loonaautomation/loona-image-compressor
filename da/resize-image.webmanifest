@@ -2,7 +2,7 @@
   "name": "Loona Tilpas billede",
   "short_name": "Tilpas billede",
   "description": "Tilpas ethvert billede efter pixels, cm eller tommer med en DPI-indstilling gratis. Bevar billedforhold, vælg JPG, PNG eller WebP, og download med det samme — ingen tilmelding nødvendig.",
-  "id": "/loona-image-compressor/da/resize-image.html",
+  "id": "/da/resize-image.html",
   "start_url": "./resize-image.html",
   "scope": "./resize-image.html",
   "display": "standalone",

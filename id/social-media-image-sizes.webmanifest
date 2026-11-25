@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Gambar Media Sosial 2026",
   "short_name": "Ukuran Gambar Media Sosial",
   "description": "Ukuran gambar yang tepat untuk Instagram, Facebook, YouTube, X, LinkedIn, Pinterest, TikTok, dan Discord — dengan alat pembuat dan panduan zona aman untuk setiap slot.",
-  "id": "/loona-image-compressor/id/social-media-image-sizes.html",
+  "id": "/id/social-media-image-sizes.html",
   "start_url": "./social-media-image-sizes.html",
   "scope": "./social-media-image-sizes.html",
   "display": "standalone",

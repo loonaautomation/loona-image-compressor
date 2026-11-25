@@ -2,7 +2,7 @@
   "name": "Loona TikTok Videoramme-størrelse",
   "short_name": "TikTok Videoramme-størrelse",
   "description": "Lag en TikTok videoramme med nøyaktig 1080×1920 px. Gratis størrelsesendrer/beskjærer i nettleseren din med reglene for sikre soner som stopper beskåret tekst og ansikter.",
-  "id": "/loona-image-compressor/nb/tiktok-video-frame-size.html",
+  "id": "/nb/tiktok-video-frame-size.html",
   "start_url": "./tiktok-video-frame-size.html",
   "scope": "./tiktok-video-frame-size.html",
   "display": "standalone",

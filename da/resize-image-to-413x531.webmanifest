@@ -2,7 +2,7 @@
   "name": "Loona Tilpas billedstørrelse til 413 × 531 px online",
   "short_name": "Tilpas billedstørrelse til",
   "description": "Tilpas ethvert billede til præcis 413×531 px — 35 × 45 mm ved 300 DPI — ICAO/Schengen-udskriftsstørrelsen i pixels. Gratis i din browser med beskæringskontrol; ingen upload, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/resize-image-to-413x531.html",
+  "id": "/da/resize-image-to-413x531.html",
   "start_url": "./resize-image-to-413x531.html",
   "scope": "./resize-image-to-413x531.html",
   "display": "standalone",

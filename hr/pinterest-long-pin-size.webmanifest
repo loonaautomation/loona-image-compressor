@@ -2,7 +2,7 @@
   "name": "Loona Veličina Pinterest Duga / infografska pribadača",
   "short_name": "Veličina Pinterest Duga /",
   "description": "Izradite Pinterest duga / infografska pribadača na točno 1000×2100 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/pinterest-long-pin-size.html",
+  "id": "/hr/pinterest-long-pin-size.html",
   "start_url": "./pinterest-long-pin-size.html",
   "scope": "./pinterest-long-pin-size.html",
   "display": "standalone",

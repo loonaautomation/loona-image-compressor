@@ -2,7 +2,7 @@
   "name": "Loona WebP",
   "short_name": "WebP",
   "description": "Konvertáljon WebP-t PNG-vé online ingyen — veszteségmentes PNG átlátszósággal szerkesztőknek és tervezőeszközöknek. A böngészőjében fut, regisztráció nélkül, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/webp-to-png.html",
+  "id": "/hu/webp-to-png.html",
   "start_url": "./webp-to-png.html",
   "scope": "./webp-to-png.html",
   "display": "standalone",

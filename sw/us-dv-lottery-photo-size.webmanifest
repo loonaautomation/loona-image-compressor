@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Visa ya Uanuwai ya Marekani (Lotari ya Green Card)",
   "short_name": "Ukubwa wa Picha ya Visa ya",
   "description": "Tengeneza Picha ya Visa ya Uanuwai ya Marekani (Lotari ya Green Card) katika ukubwa rasmi wa milimita 51×51 (px 600×600), mandharinyuma ya nyeupe tambarare au nyeupe-kidogo. Kitengenezaji bure cha mtandaoni — kata, pakua na uchapishe karatasi, bila kupakia.",
-  "id": "/loona-image-compressor/sw/us-dv-lottery-photo-size.html",
+  "id": "/sw/us-dv-lottery-photo-size.html",
   "start_url": "./us-dv-lottery-photo-size.html",
   "scope": "./us-dv-lottery-photo-size.html",
   "display": "standalone",

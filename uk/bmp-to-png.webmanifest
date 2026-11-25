@@ -2,7 +2,7 @@
   "name": "Loona Конвертер BMP у PNG",
   "short_name": "Конвертер BMP у PNG",
   "description": "Конвертуйте BMP у PNG онлайн безкоштовно — без втрат, набагато менше за BMP і підтримується скрізь. Працює у вашому браузері, без реєстрації, без завантаження на сервер.",
-  "id": "/loona-image-compressor/uk/bmp-to-png.html",
+  "id": "/uk/bmp-to-png.html",
   "start_url": "./bmp-to-png.html",
   "scope": "./bmp-to-png.html",
   "display": "standalone",

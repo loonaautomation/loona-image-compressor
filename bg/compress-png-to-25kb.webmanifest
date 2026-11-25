@@ -2,7 +2,7 @@
   "name": "Loona Компресиране на PNG до 25 KB онлайн",
   "short_name": "Компресиране на PNG до 25 KB",
   "description": "Компресирайте изображение PNG до 25 KB или по-малко, безплатно във вашия браузър. Автоматичното търсене намира най-доброто качество, което се побира — без регистрация, без качване.",
-  "id": "/loona-image-compressor/bg/compress-png-to-25kb.html",
+  "id": "/bg/compress-png-to-25kb.html",
   "start_url": "./compress-png-to-25kb.html",
   "scope": "./compress-png-to-25kb.html",
   "display": "standalone",

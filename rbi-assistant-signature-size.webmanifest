@@ -2,7 +2,7 @@
   "name": "Loona RBI Assistant Signature Size",
   "short_name": "RBI Assistant Signature Size",
   "description": "Resize your RBI Assistant signature to the notification size (140 × 60 px) and 10–20 KB band. Free, in your browser — no upload, no signup.",
-  "id": "/loona-image-compressor/rbi-assistant-signature-size.html",
+  "id": "/rbi-assistant-signature-size.html",
   "start_url": "./rbi-assistant-signature-size.html",
   "scope": "./rbi-assistant-signature-size.html",
   "display": "standalone",

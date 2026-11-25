@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Pasipoti / Visa ya Urusi",
   "short_name": "Ukubwa wa Picha ya Pasipoti /",
   "description": "Tengeneza Picha ya Pasipoti / Visa ya Urusi katika ukubwa rasmi wa milimita 35×45 (px 413×531), mandharinyuma ya nyeupe tambarare au nyepesi. Kitengenezaji bure cha mtandaoni — kata, pakua na uchapishe karatasi, bila kupakia.",
-  "id": "/loona-image-compressor/sw/russia-passport-photo-size.html",
+  "id": "/sw/russia-passport-photo-size.html",
   "start_url": "./russia-passport-photo-size.html",
   "scope": "./russia-passport-photo-size.html",
   "display": "standalone",

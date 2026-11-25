@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) Profilbild Storlek",
   "short_name": "X (Twitter) Profilbild Storlek",
   "description": "Skapa en X (Twitter) profilbild på exakt 400×400 px. Gratis storleksändrare/beskärare i din webbläsare med säker-zon-reglerna som stoppar beskuren text och ansikten.",
-  "id": "/loona-image-compressor/sv/x-profile-picture-size.html",
+  "id": "/sv/x-profile-picture-size.html",
   "start_url": "./x-profile-picture-size.html",
   "scope": "./x-profile-picture-size.html",
   "display": "standalone",

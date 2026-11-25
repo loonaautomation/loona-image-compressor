@@ -2,7 +2,7 @@
   "name": "Loona Görüntüyü 2048 × 2048 px Boyutuna Çevrimiçi Getir — Ücretsiz",
   "short_name": "Görüntüyü 2048 × 2048 px Boyutuna Çevrimiçi Getir — Ücretsiz",
   "description": "Herhangi bir görüntüyü tam olarak 2048×2048 px boyutuna getirin — Baskı ve retina ekranlar için yüksek çözünürlüklü kare. Kırpma kontrolüyle tarayıcınızda ücretsiz; yükleme yok, kayıt yok.",
-  "id": "/loona-image-compressor/tr/resize-image-to-2048x2048.html",
+  "id": "/tr/resize-image-to-2048x2048.html",
   "start_url": "./resize-image-to-2048x2048.html",
   "scope": "./resize-image-to-2048x2048.html",
   "display": "standalone",

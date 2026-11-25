@@ -2,7 +2,7 @@
   "name": "Loona Ιστορία Instagram",
   "short_name": "Ιστορία Instagram",
   "description": "Δημιουργήστε ένα ιστορία Instagram σε ακριβώς 1080×1920 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/instagram-story-size.html",
+  "id": "/el/instagram-story-size.html",
   "start_url": "./instagram-story-size.html",
   "scope": "./instagram-story-size.html",
   "display": "standalone",

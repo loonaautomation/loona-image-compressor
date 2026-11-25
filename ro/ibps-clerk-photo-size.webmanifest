@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie IBPS Clerk (CSA)",
   "short_name": "Dimensiune Fotografie IBPS",
   "description": "Redimensionează fotografie pentru IBPS Clerk (CSA) la dimensiunea din notificare (200 × 230 px) și intervalul 20–50 KB. Gratuit, în browserul tău — fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/ibps-clerk-photo-size.html",
+  "id": "/ro/ibps-clerk-photo-size.html",
   "start_url": "./ibps-clerk-photo-size.html",
   "scope": "./ibps-clerk-photo-size.html",
   "display": "standalone",

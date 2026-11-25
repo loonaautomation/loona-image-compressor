@@ -2,7 +2,7 @@
   "name": "Loona Pinterest আইডিয়া পিন / স্টোরি আকার",
   "short_name": "Pinterest আইডিয়া পিন /",
   "description": "ঠিক 1080×1920 px-এ একটি Pinterest আইডিয়া পিন / স্টোরি তৈরি করুন। আপনার ব্রাউজারে বিনামূল্যে রিসাইজার/ক্রপার, ক্রপ করা লেখা ও মুখ আটকায় এমন নিরাপদ-অঞ্চলের নিয়মসহ।",
-  "id": "/loona-image-compressor/bn/pinterest-idea-pin-size.html",
+  "id": "/bn/pinterest-idea-pin-size.html",
   "start_url": "./pinterest-idea-pin-size.html",
   "scope": "./pinterest-idea-pin-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Διαβατηρίου / DNI Αργεντινής",
   "short_name": "Φωτογραφία Διαβατηρίου / DNI",
   "description": "Δημιουργήστε Φωτογραφία Διαβατηρίου / DNI Αργεντινής στο επίσημο μέγεθος 40×40 mm (472×472 px), φόντο απλό λευκό ή γαλάζιο. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/argentina-passport-photo-size.html",
+  "id": "/el/argentina-passport-photo-size.html",
   "start_url": "./argentina-passport-photo-size.html",
   "scope": "./argentina-passport-photo-size.html",
   "display": "standalone",

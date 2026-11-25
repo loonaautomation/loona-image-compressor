@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do paszportu USA",
   "short_name": "Rozmiar Zdjęcie do paszportu",
   "description": "Utwórz Zdjęcie do paszportu USA w oficjalnym rozmiarze 51×51 mm (600×600 px), tło: gładkie białe. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/us-passport-photo-size.html",
+  "id": "/pl/us-passport-photo-size.html",
   "start_url": "./us-passport-photo-size.html",
   "scope": "./us-passport-photo-size.html",
   "display": "standalone",

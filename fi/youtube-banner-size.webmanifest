@@ -2,7 +2,7 @@
   "name": "Loona YouTube Kanavan banneri koko",
   "short_name": "YouTube Kanavan banneri koko",
   "description": "Tee YouTube kanavan banneri tarkalleen kokoon 2560×1440 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/youtube-banner-size.html",
+  "id": "/fi/youtube-banner-size.html",
   "start_url": "./youtube-banner-size.html",
   "scope": "./youtube-banner-size.html",
   "display": "standalone",

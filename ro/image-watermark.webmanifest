@@ -2,7 +2,7 @@
   "name": "Loona Filigran de imagine",
   "short_name": "Filigran de imagine",
   "description": "Adaugă un filigran text pe orice fotografie online, gratuit — alege textul, dimensiunea, culoarea, opacitatea și poziția sau repetă-l ca model de plăci. Previzualizare live, fără înregistrare, iar imaginea ta nu părăsește niciodată dispozitivul.",
-  "id": "/loona-image-compressor/ro/image-watermark.html",
+  "id": "/ro/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Formaat X (Twitter) Header / banner",
   "short_name": "Formaat X (Twitter) Header /",
   "description": "Maak een X (Twitter) header / banner op precies 1500×500 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/x-header-size.html",
+  "id": "/nl/x-header-size.html",
   "start_url": "./x-header-size.html",
   "scope": "./x-header-size.html",
   "display": "standalone",

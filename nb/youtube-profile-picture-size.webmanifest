@@ -2,7 +2,7 @@
   "name": "Loona YouTube Kanalprofilbilde-størrelse",
   "short_name": "YouTube",
   "description": "Lag en YouTube kanalprofilbilde med nøyaktig 800×800 px. Gratis størrelsesendrer/beskjærer i nettleseren din med reglene for sikre soner som stopper beskåret tekst og ansikter.",
-  "id": "/loona-image-compressor/nb/youtube-profile-picture-size.html",
+  "id": "/nb/youtube-profile-picture-size.html",
   "start_url": "./youtube-profile-picture-size.html",
   "scope": "./youtube-profile-picture-size.html",
   "display": "standalone",

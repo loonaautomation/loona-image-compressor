@@ -2,7 +2,7 @@
   "name": "Loona Převodník PNG na ICO",
   "short_name": "Převodník PNG na ICO",
   "description": "Převeďte PNG na ICO online, zdarma, ve svém prohlížeči. Skutečný převod ve vašem zařízení — bez nahrávání, bez registrace, bez vodoznaků.",
-  "id": "/loona-image-compressor/cs/png-to-ico.html",
+  "id": "/cs/png-to-ico.html",
   "start_url": "./png-to-ico.html",
   "scope": "./png-to-ico.html",
   "display": "standalone",

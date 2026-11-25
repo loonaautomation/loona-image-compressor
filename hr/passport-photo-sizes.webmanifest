@@ -2,7 +2,7 @@
   "name": "Loona Veličine fotografija za putovnicu i vizu po zemljama",
   "short_name": "Veličine fotografija za",
   "description": "Službene veličine fotografija za putovnicu, vizu i dokumente za 40 zemalja i dokumenata, svaka s alatom izrađivača u točnoj veličini u milimetrima i pikselima.",
-  "id": "/loona-image-compressor/hr/passport-photo-sizes.html",
+  "id": "/hr/passport-photo-sizes.html",
   "start_url": "./passport-photo-sizes.html",
   "scope": "./passport-photo-sizes.html",
   "display": "standalone",

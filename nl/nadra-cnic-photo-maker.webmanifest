@@ -2,7 +2,7 @@
   "name": "Loona NADRA / CNIC-fotomaker",
   "short_name": "NADRA / CNIC-fotomaker",
   "description": "Maak gratis online een NADRA CNIC-foto: exact 350×467 px voor Pak-ID-upload en printformaat 35×45 mm. Witte achtergrond, geen aanmelding, volledig privé.",
-  "id": "/loona-image-compressor/nl/nadra-cnic-photo-maker.html",
+  "id": "/nl/nadra-cnic-photo-maker.html",
   "start_url": "./nadra-cnic-photo-maker.html",
   "scope": "./nadra-cnic-photo-maker.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona AVIF تا WEBP کنورٹر",
   "short_name": "AVIF تا WEBP کنورٹر",
   "description": "AVIF کو WEBP میں آن لائن، مفت، اپنے براؤزر میں تبدیل کریں۔ آپ کے ڈیوائس پر اصل تبدیلی — نہ اپ لوڈ، نہ سائن اپ، نہ واٹر مارک۔",
-  "id": "/loona-image-compressor/ur/avif-to-webp.html",
+  "id": "/ur/avif-to-webp.html",
   "start_url": "./avif-to-webp.html",
   "scope": "./avif-to-webp.html",
   "display": "standalone",

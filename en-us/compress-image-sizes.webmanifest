@@ -2,7 +2,7 @@
   "name": "Loona Compress Image to Any Size (KB)",
   "short_name": "Compress Image to Any Size (KB)",
   "description": "Every compress-to-size tool: 16 target sizes in JPG, PNG and WebP, from 10 KB to 2 MB. Free, in your browser.",
-  "id": "/loona-image-compressor/en-us/compress-image-sizes.html",
+  "id": "/en-us/compress-image-sizes.html",
   "start_url": "./compress-image-sizes.html",
   "scope": "./compress-image-sizes.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona EXIF-editori",
   "short_name": "EXIF-editori",
   "description": "Muokkaa JPG-kuvan EXIF-tietoja verkossa ilmaiseksi — korjaa ottamispäivä, lisää nimesi tekijäksi, aseta tekijänoikeus, kameran valmistaja ja malli, tai luo EXIF-tiedot kuvaan, jossa niitä ei ole. Pikseleitä ei koskaan koodata uudelleen eikä mitään ladata palvelimelle.",
-  "id": "/loona-image-compressor/fi/edit-image-metadata.html",
+  "id": "/fi/edit-image-metadata.html",
   "start_url": "./edit-image-metadata.html",
   "scope": "./edit-image-metadata.html",
   "display": "standalone",

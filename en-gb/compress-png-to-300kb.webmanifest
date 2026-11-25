@@ -2,7 +2,7 @@
   "name": "Loona Compress PNG to 300 KB",
   "short_name": "Compress PNG to 300 KB",
   "description": "Compress a PNG image to 300 KB or under, free in your browser. Automatic search finds the best quality that fits — no signup, no upload.",
-  "id": "/loona-image-compressor/en-gb/compress-png-to-300kb.html",
+  "id": "/en-gb/compress-png-to-300kb.html",
   "start_url": "./compress-png-to-300kb.html",
   "scope": "./compress-png-to-300kb.html",
   "display": "standalone",

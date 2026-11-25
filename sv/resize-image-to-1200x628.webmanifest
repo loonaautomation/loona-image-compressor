@@ -2,7 +2,7 @@
   "name": "Loona Ändra bildstorlek till 1200 × 628",
   "short_name": "Ändra bildstorlek till 1200 ×",
   "description": "Ändra storlek på valfri bild till exakt 1200 × 628 pixlar (Facebooks och LinkedIns länkdelningar och annonser) gratis. Cover, contain eller stretch, JPG eller PNG, ladda ner direkt — ingen registrering, ingenting uppladdat.",
-  "id": "/loona-image-compressor/sv/resize-image-to-1200x628.html",
+  "id": "/sv/resize-image-to-1200x628.html",
   "start_url": "./resize-image-to-1200x628.html",
   "scope": "./resize-image-to-1200x628.html",
   "display": "standalone",

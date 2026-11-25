@@ -2,7 +2,7 @@
   "name": "Loona HEIC–JPG konvertáló",
   "short_name": "HEIC–JPG konvertáló",
   "description": "Konvertáljon HEIC-et JPG-vé online, ingyen, a böngészőjében. Alakítsa az iPhone HEIC-fotóit mindenhol megnyitható JPG-vé — feltöltés, regisztráció és vízjelek nélkül.",
-  "id": "/loona-image-compressor/hu/heic-to-jpg-converter.html",
+  "id": "/hu/heic-to-jpg-converter.html",
   "start_url": "./heic-to-jpg-converter.html",
   "scope": "./heic-to-jpg-converter.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona RBI Assistant স্বাক্ষর আকার",
   "short_name": "RBI Assistant স্বাক্ষর আকার",
   "description": "আপনার RBI Assistant স্বাক্ষর বিজ্ঞপ্তির আকারে (140 × 60 px) এবং 10–20 KB ব্যান্ডে রিসাইজ করুন। বিনামূল্যে, আপনার ব্রাউজারে — আপলোড নেই, সাইনআপ নেই।",
-  "id": "/loona-image-compressor/bn/rbi-assistant-signature-size.html",
+  "id": "/bn/rbi-assistant-signature-size.html",
   "start_url": "./rbi-assistant-signature-size.html",
   "scope": "./rbi-assistant-signature-size.html",
   "display": "standalone",

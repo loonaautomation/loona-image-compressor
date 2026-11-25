@@ -2,7 +2,7 @@
   "name": "Loona שינוי גודל תמונה ל־1080 × 1080",
   "short_name": "שינוי גודל תמונה ל־1080 × 1080",
   "description": "שנו גודל של כל תמונה בדיוק ל־1080 × 1080 פיקסלים (פוסטים מרובעים ותמונות פרופיל ב־Instagram) בחינם. כיסוי, הכלה או מתיחה, JPG או PNG, הורדה מיידית — ללא הרשמה, שום דבר לא מועלה.",
-  "id": "/loona-image-compressor/he/resize-image-to-1080x1080.html",
+  "id": "/he/resize-image-to-1080x1080.html",
   "start_url": "./resize-image-to-1080x1080.html",
   "scope": "./resize-image-to-1080x1080.html",
   "display": "standalone",

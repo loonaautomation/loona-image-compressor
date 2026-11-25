@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Innleggsbilde-størrelse",
   "short_name": "LinkedIn",
   "description": "Lag en LinkedIn innleggsbilde med nøyaktig 1200×627 px. Gratis størrelsesendrer/beskjærer i nettleseren din med reglene for sikre soner som stopper beskåret tekst og ansikter.",
-  "id": "/loona-image-compressor/nb/linkedin-post-image-size.html",
+  "id": "/nb/linkedin-post-image-size.html",
   "start_url": "./linkedin-post-image-size.html",
   "scope": "./linkedin-post-image-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orosz útlevél- / vízumfotó méret",
   "short_name": "Orosz útlevél- / vízumfotó",
   "description": "Készítsen Orosz útlevél- / vízumfotó fotót a hivatalos 35×45 mm (413×531 px) méretben, sima fehér vagy világos háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/russia-passport-photo-size.html",
+  "id": "/hu/russia-passport-photo-size.html",
   "start_url": "./russia-passport-photo-size.html",
   "scope": "./russia-passport-photo-size.html",
   "display": "standalone",

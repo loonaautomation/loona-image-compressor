@@ -2,7 +2,7 @@
   "name": "Loona TikTok Video Karesi Boyutu — 1080×1920 px",
   "short_name": "TikTok Video Karesi Boyutu — 1080×1920 px",
   "description": "Tam olarak 1080×1920 px ölçüsünde bir TikTok video karesi oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/tiktok-video-frame-size.html",
+  "id": "/tr/tiktok-video-frame-size.html",
   "start_url": "./tiktok-video-frame-size.html",
   "scope": "./tiktok-video-frame-size.html",
   "display": "standalone",

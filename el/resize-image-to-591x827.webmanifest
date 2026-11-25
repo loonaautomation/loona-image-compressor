@@ -2,7 +2,7 @@
   "name": "Loona Αλλαγή Μεγέθους Εικόνας σε 591 × 827 px Online",
   "short_name": "Αλλαγή Μεγέθους Εικόνας σε",
   "description": "Αλλάξτε το μέγεθος οποιασδήποτε εικόνας σε ακριβώς 591×827 px — 50 × 70 mm στα 300 DPI — μέγεθος διαβατηρίου Καναδά/Βραζιλίας. Δωρεάν στο πρόγραμμα περιήγησής σας με έλεγχο περικοπής· χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/resize-image-to-591x827.html",
+  "id": "/el/resize-image-to-591x827.html",
   "start_url": "./resize-image-to-591x827.html",
   "scope": "./resize-image-to-591x827.html",
   "display": "standalone",

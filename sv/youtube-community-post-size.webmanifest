@@ -2,7 +2,7 @@
   "name": "Loona YouTube Community-inläggsbild Storlek",
   "short_name": "YouTube Community-inläggsbild",
   "description": "Skapa en YouTube community-inläggsbild på exakt 1080×1080 px. Gratis storleksändrare/beskärare i din webbläsare med säker-zon-reglerna som stoppar beskuren text och ansikten.",
-  "id": "/loona-image-compressor/sv/youtube-community-post-size.html",
+  "id": "/sv/youtube-community-post-size.html",
   "start_url": "./youtube-community-post-size.html",
   "scope": "./youtube-community-post-size.html",
   "display": "standalone",

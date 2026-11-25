@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do wizy Kanady (cyfrowe)",
   "short_name": "Rozmiar Zdjęcie do wizy",
   "description": "Utwórz Zdjęcie do wizy Kanady (cyfrowe) w oficjalnym rozmiarze 35×45 mm (420×540 px), tło: gładkie białe lub jasne. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/canada-visa-photo-size.html",
+  "id": "/pl/canada-visa-photo-size.html",
   "start_url": "./canada-visa-photo-size.html",
   "scope": "./canada-visa-photo-size.html",
   "display": "standalone",

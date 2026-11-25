@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ảnh thị thực Trung Quốc",
   "short_name": "Kích thước Ảnh thị thực Trung",
   "description": "Tạo Ảnh thị thực Trung Quốc ở kích thước chính thức 33×48 mm (390×567 px), nền trắng trơn. Công cụ tạo ảnh trực tuyến miễn phí — cắt, tải xuống và in tờ in, không tải lên.",
-  "id": "/loona-image-compressor/vi/china-visa-photo-size.html",
+  "id": "/vi/china-visa-photo-size.html",
   "start_url": "./china-visa-photo-size.html",
   "scope": "./china-visa-photo-size.html",
   "display": "standalone",

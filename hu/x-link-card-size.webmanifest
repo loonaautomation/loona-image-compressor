@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) Hivatkozáskártya képe méret",
   "short_name": "X (Twitter) Hivatkozáskártya",
   "description": "Készítsen X (Twitter) hivatkozáskártya képe képet pontosan 1200×628 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/x-link-card-size.html",
+  "id": "/hu/x-link-card-size.html",
   "start_url": "./x-link-card-size.html",
   "scope": "./x-link-card-size.html",
   "display": "standalone",

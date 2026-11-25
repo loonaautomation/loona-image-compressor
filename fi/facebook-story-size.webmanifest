@@ -2,7 +2,7 @@
   "name": "Loona Facebook Tarina koko",
   "short_name": "Facebook Tarina koko",
   "description": "Tee Facebook tarina tarkalleen kokoon 1080×1920 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/facebook-story-size.html",
+  "id": "/fi/facebook-story-size.html",
   "start_url": "./facebook-story-size.html",
   "scope": "./facebook-story-size.html",
   "display": "standalone",

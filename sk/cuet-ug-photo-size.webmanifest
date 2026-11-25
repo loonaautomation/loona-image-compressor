@@ -2,7 +2,7 @@
   "name": "Loona Veľkosť CUET UG Fotografia",
   "short_name": "Veľkosť CUET UG Fotografia",
   "description": "Zmeňte veľkosť súboru CUET UG fotografia na veľkosť podľa oznámenia (3,5 × 4,5 cm (asi 413 × 531 px pri 300 DPI)) a pásmo 10–200 KB. Zadarmo, vo vašom prehliadači — bez nahrávania a bez registrácie.",
-  "id": "/loona-image-compressor/sk/cuet-ug-photo-size.html",
+  "id": "/sk/cuet-ug-photo-size.html",
   "start_url": "./cuet-ug-photo-size.html",
   "scope": "./cuet-ug-photo-size.html",
   "display": "standalone",

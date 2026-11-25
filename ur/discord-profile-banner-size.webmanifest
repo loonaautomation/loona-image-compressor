@@ -2,7 +2,7 @@
   "name": "Loona Discord پروفائل بینر کا سائز",
   "short_name": "Discord پروفائل بینر کا سائز",
   "description": "Discord پروفائل بینر بالکل 600×180 px پر بنائیں۔ آپ کے براؤزر میں مفت ری سائزر/کراپر، محفوظ زون کے قواعد کے ساتھ جو کراپ شدہ متن اور چہروں کو روکتے ہیں۔",
-  "id": "/loona-image-compressor/ur/discord-profile-banner-size.html",
+  "id": "/ur/discord-profile-banner-size.html",
   "start_url": "./discord-profile-banner-size.html",
   "scope": "./discord-profile-banner-size.html",
   "display": "standalone",

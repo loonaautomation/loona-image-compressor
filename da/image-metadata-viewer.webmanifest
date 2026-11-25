@@ -2,7 +2,7 @@
   "name": "Loona Billedmetadata & EXIF-fremviser",
   "short_name": "Billedmetadata &",
   "description": "Se de skjulte metadata i ethvert JPG-, PNG- eller WebP-foto online gratis — kameramærke og -model, dato taget, eksponering, ISO, brændvidde, GPS-placering, IPTC- og XMP-basics. Intet uploades: dit foto forlader aldrig din enhed.",
-  "id": "/loona-image-compressor/da/image-metadata-viewer.html",
+  "id": "/da/image-metadata-viewer.html",
   "start_url": "./image-metadata-viewer.html",
   "scope": "./image-metadata-viewer.html",
   "display": "standalone",

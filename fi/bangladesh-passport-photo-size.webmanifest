@@ -2,7 +2,7 @@
   "name": "Loona Bangladeshin passikuva koko",
   "short_name": "Bangladeshin passikuva koko",
   "description": "Tee Bangladeshin passikuva virallisessa koossa 40×50 mm (472×591 px), taustana tavallinen valkoinen. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/bangladesh-passport-photo-size.html",
+  "id": "/fi/bangladesh-passport-photo-size.html",
   "start_url": "./bangladesh-passport-photo-size.html",
   "scope": "./bangladesh-passport-photo-size.html",
   "display": "standalone",

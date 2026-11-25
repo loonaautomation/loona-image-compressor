@@ -2,7 +2,7 @@
   "name": "Loona CTET 签名尺寸",
   "short_name": "CTET 签名尺寸",
   "description": "将您的 CTET 签名调整为通知规定的尺寸（扫描框，比例约 7:2）和 3–30 KB 范围。免费，在您的浏览器中完成 — 无需上传，无需注册。",
-  "id": "/loona-image-compressor/zh/ctet-signature-size.html",
+  "id": "/zh/ctet-signature-size.html",
   "start_url": "./ctet-signature-size.html",
   "scope": "./ctet-signature-size.html",
   "display": "standalone",

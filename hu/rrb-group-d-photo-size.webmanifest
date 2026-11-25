@@ -2,7 +2,7 @@
   "name": "Loona RRB Group D (Railways) Fénykép méret",
   "short_name": "RRB Group D (Railways)",
   "description": "Méretezze át a RRB Group D (Railways) fotó fájlját a kiírás szerinti méretre (320 × 240 px) és a 30–70 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/rrb-group-d-photo-size.html",
+  "id": "/hu/rrb-group-d-photo-size.html",
   "start_url": "./rrb-group-d-photo-size.html",
   "scope": "./rrb-group-d-photo-size.html",
   "display": "standalone",

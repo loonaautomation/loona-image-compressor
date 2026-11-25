@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Chữ ký IBPS Clerk (CSA)",
   "short_name": "Kích thước Chữ ký IBPS Clerk",
   "description": "Thay đổi kích thước chữ ký IBPS Clerk (CSA) của bạn theo kích thước trong thông báo (140 × 60 px) và dải 10–20 KB. Miễn phí, ngay trong trình duyệt của bạn — không tải lên, không đăng ký.",
-  "id": "/loona-image-compressor/vi/ibps-clerk-signature-size.html",
+  "id": "/vi/ibps-clerk-signature-size.html",
   "start_url": "./ibps-clerk-signature-size.html",
   "scope": "./ibps-clerk-signature-size.html",
   "display": "standalone",

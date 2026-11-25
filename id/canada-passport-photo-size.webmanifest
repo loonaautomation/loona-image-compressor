@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Paspor Kanada",
   "short_name": "Ukuran Foto Paspor Kanada",
   "description": "Buat Foto Paspor Kanada pada ukuran resmi 50×70 mm (591×827 px), latar belakang putih polos atau berwarna terang. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/canada-passport-photo-size.html",
+  "id": "/id/canada-passport-photo-size.html",
   "start_url": "./canada-passport-photo-size.html",
   "scope": "./canada-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kokeen UPSC Civil Services (IAS) Valokuva koko",
   "short_name": "Kokeen UPSC Civil Services",
   "description": "Muuta kokeen UPSC Civil Services (IAS) valokuva ilmoitettuun kokoon (350 × 350 px) ja välille 20–300 KB. Ilmaiseksi selaimessasi — ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/upsc-cse-photo-size.html",
+  "id": "/fi/upsc-cse-photo-size.html",
   "start_url": "./upsc-cse-photo-size.html",
   "scope": "./upsc-cse-photo-size.html",
   "display": "standalone",

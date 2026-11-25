@@ -2,7 +2,7 @@
   "name": "Loona Екзаменаційне фото з ім’ям і датою",
   "short_name": "Екзаменаційне фото з ім’ям і",
   "description": "Створіть екзаменаційне фото з вашим ім’ям і датою, надрукованими внизу, безкоштовно — формат для вступних іспитів, що використовується в Пакистані та Індії. Приватно, реєстрація не потрібна.",
-  "id": "/loona-image-compressor/uk/exam-photo-name-date.html",
+  "id": "/uk/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

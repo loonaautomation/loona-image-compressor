@@ -2,7 +2,7 @@
   "name": "Loona Zmień rozmiar obrazu na 1920 × 1080",
   "short_name": "Zmień rozmiar obrazu na 1920",
   "description": "Zmień rozmiar dowolnego obrazu dokładnie do 1920 × 1080 pikseli (Full HD screens, desktop wallpapers and YouTube end screens) za darmo. Wypełnij, dopasuj lub rozciągnij, JPG lub PNG, pobierz od razu — bez rejestracji, nic nie jest przesyłane.",
-  "id": "/loona-image-compressor/pl/resize-image-to-1920x1080.html",
+  "id": "/pl/resize-image-to-1920x1080.html",
   "start_url": "./resize-image-to-1920x1080.html",
   "scope": "./resize-image-to-1920x1080.html",
   "display": "standalone",

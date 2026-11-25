@@ -2,7 +2,7 @@
   "name": "Loona Redimensionează imaginea la 600 × 600 px online",
   "short_name": "Redimensionează imaginea la",
   "description": "Redimensionează orice imagine la exact 600×600 px — Dimensiunea digitală minimă pentru pașaportul/viza SUA și Loteria DV. Gratuit în browserul tău, cu control al decupării; fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/resize-image-to-600x600.html",
+  "id": "/ro/resize-image-to-600x600.html",
   "start_url": "./resize-image-to-600x600.html",
   "scope": "./resize-image-to-600x600.html",
   "display": "standalone",

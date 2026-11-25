@@ -2,7 +2,7 @@
   "name": "Loona IBPS PO 서명 크기",
   "short_name": "IBPS PO 서명 크기",
   "description": "IBPS PO 서명을 공고 크기(140 × 60 px)와 10–20 KB 범위에 맞게 조정하세요. 브라우저에서 무료로 — 업로드도, 회원가입도 없어요.",
-  "id": "/loona-image-compressor/ko/ibps-po-signature-size.html",
+  "id": "/ko/ibps-po-signature-size.html",
   "start_url": "./ibps-po-signature-size.html",
   "scope": "./ibps-po-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เครื่องสร้างการไล่ระดับ CSS",
   "short_name": "เครื่องสร้างการไล่ระดับ CSS",
   "description": "สร้างการไล่ระดับเชิงเส้น CSS ด้วยสองหรือสามสีและทุกมุม ดูตัวอย่างแบบเรียลไทม์และคัดลอกโค้ด CSS พร้อม ฟรี ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/gradient-generator.html",
+  "id": "/th/gradient-generator.html",
   "start_url": "./gradient-generator.html",
   "scope": "./gradient-generator.html",
   "display": "standalone",

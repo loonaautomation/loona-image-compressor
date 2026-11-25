@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة تأشيرة كندا (الرقمية)",
   "short_name": "حجم صورة تأشيرة كندا (الرقمية)",
   "description": "اصنع صورة تأشيرة كندا (الرقمية) بالحجم الرسمي 35×45 mm (420×540 px)، خلفية بيضاء سادة أو فاتحة اللون. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/canada-visa-photo-size.html",
+  "id": "/ar/canada-visa-photo-size.html",
   "start_url": "./canada-visa-photo-size.html",
   "scope": "./canada-visa-photo-size.html",
   "display": "standalone",

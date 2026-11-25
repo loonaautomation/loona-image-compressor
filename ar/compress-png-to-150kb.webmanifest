@@ -2,7 +2,7 @@
   "name": "Loona ضغط PNG إلى 150 KB عبر الإنترنت",
   "short_name": "ضغط PNG إلى 150 KB عبر",
   "description": "اضغط صورة PNG إلى 150 KB أو أقل، مجاناً في متصفحك. بحث تلقائي يجد أفضل جودة مناسبة — بلا تسجيل، بلا رفع.",
-  "id": "/loona-image-compressor/ar/compress-png-to-150kb.html",
+  "id": "/ar/compress-png-to-150kb.html",
   "start_url": "./compress-png-to-150kb.html",
   "scope": "./compress-png-to-150kb.html",
   "display": "standalone",

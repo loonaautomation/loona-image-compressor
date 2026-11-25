@@ -2,7 +2,7 @@
   "name": "Loona Ändra bildstorlek till 1024 × 1024 px online",
   "short_name": "Ändra bildstorlek till 1024 ×",
   "description": "Ändra storlek på valfri bild till exakt 1024×1024 px — Standardkvadrat för appikoner och AI-bilder. Gratis i din webbläsare med beskärningskontroll; ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/resize-image-to-1024x1024.html",
+  "id": "/sv/resize-image-to-1024x1024.html",
   "start_url": "./resize-image-to-1024x1024.html",
   "scope": "./resize-image-to-1024x1024.html",
   "display": "standalone",

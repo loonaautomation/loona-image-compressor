@@ -2,7 +2,7 @@
   "name": "Loona ছবি উন্নতকারী",
   "short_name": "ছবি উন্নতকারী",
   "description": "একটি ছবি অনলাইনে বিনামূল্যে উন্নত করুন: এক-ক্লিক স্বয়ংক্রিয় উন্নত, নরম ছবি শার্পেন করুন, মৃদুভাবে নয়েজ পরিষ্কার করুন এবং 2x বা 4x আপস্কেল করুন। সৎ ফলাফল, কোনো সাইনআপ নয়, এবং আপনার ছবি কখনো আপনার ডিভাইস ছেড়ে যায় না।",
-  "id": "/loona-image-compressor/bn/image-enhancer.html",
+  "id": "/bn/image-enhancer.html",
   "start_url": "./image-enhancer.html",
   "scope": "./image-enhancer.html",
   "display": "standalone",

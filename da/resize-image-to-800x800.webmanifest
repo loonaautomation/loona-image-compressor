@@ -2,7 +2,7 @@
   "name": "Loona Tilpas billede til 800 × 800",
   "short_name": "Tilpas billede til 800 × 800",
   "description": "Tilpas ethvert billede til præcis 800 × 800 pixels (markedsplads- og produktlistefotos) gratis. Dæk, indehold eller stræk, JPG eller PNG, download med det samme — ingen tilmelding, intet uploadet.",
-  "id": "/loona-image-compressor/da/resize-image-to-800x800.html",
+  "id": "/da/resize-image-to-800x800.html",
   "start_url": "./resize-image-to-800x800.html",
   "scope": "./resize-image-to-800x800.html",
   "display": "standalone",

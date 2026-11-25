@@ -2,7 +2,7 @@
   "name": "Loona ลบเมทาดาทารูปภาพ",
   "short_name": "ลบเมทาดาทารูปภาพ",
   "description": "ลบเมทาดาทา EXIF, ตำแหน่ง GPS, XMP และ IPTC จากรูปถ่าย JPG, PNG และ WebP ออนไลน์ฟรี การลบระดับไบต์ — พิกเซลไม่เคยถูกเข้ารหัสใหม่ คุณภาพจึงไม่ถูกแตะ ตรวจสอบโดยการสแกนซ้ำ เป็นส่วนตัว 100% ในเบราว์เซอร์ของคุณ",
-  "id": "/loona-image-compressor/th/remove-image-metadata.html",
+  "id": "/th/remove-image-metadata.html",
   "start_url": "./remove-image-metadata.html",
   "scope": "./remove-image-metadata.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปโปรไฟล์ X (Twitter)",
   "short_name": "ขนาดรูปโปรไฟล์ X (Twitter)",
   "description": "ทำรูปโปรไฟล์ X (Twitter) ที่ขนาด 400×400 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/x-profile-picture-size.html",
+  "id": "/th/x-profile-picture-size.html",
   "start_url": "./x-profile-picture-size.html",
   "scope": "./x-profile-picture-size.html",
   "display": "standalone",

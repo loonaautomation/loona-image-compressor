@@ -2,7 +2,7 @@
   "name": "Loona چہرہ دھندلائیں",
   "short_name": "چہرہ دھندلائیں",
   "description": "کسی بھی تصویر میں چہرے، نمبر پلیٹس اور نجی تفصیلات دھندلائیں یا پکسل بنائیں۔ آپ خود حصے منتخب کرتے ہیں، طاقت منتخب کرتے ہیں، پیش نظارہ دیکھتے ہیں اور ڈاؤن لوڈ کرتے ہیں — مفت، نہ سائن اپ، اور آپ کی تصویر کبھی آپ کے ڈیوائس سے باہر نہیں جاتی۔",
-  "id": "/loona-image-compressor/ur/face-blur.html",
+  "id": "/ur/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

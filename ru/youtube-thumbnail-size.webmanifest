@@ -2,7 +2,7 @@
   "name": "Loona Размер Миниатюра видео для YouTube",
   "short_name": "Размер Миниатюра видео для YouTube",
   "description": "Make a YouTube video thumbnail at exactly 1280×720 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/youtube-thumbnail-size.html",
+  "id": "/youtube-thumbnail-size.html",
   "start_url": "./youtube-thumbnail-size.html",
   "scope": "./youtube-thumbnail-size.html",
   "display": "standalone",

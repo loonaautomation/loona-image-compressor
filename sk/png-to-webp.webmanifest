@@ -2,7 +2,7 @@
   "name": "Loona Prevodník PNG na WebP",
   "short_name": "Prevodník PNG na WebP",
   "description": "Preveďte PNG na WebP online zadarmo — oveľa menšie súbory, ktoré zachovajú priehľadnosť, ideálne pre weby. Bez registrácie, bez nahrávania, beží vo vašom prehliadači.",
-  "id": "/loona-image-compressor/sk/png-to-webp.html",
+  "id": "/sk/png-to-webp.html",
   "start_url": "./png-to-webp.html",
   "scope": "./png-to-webp.html",
   "display": "standalone",

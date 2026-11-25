@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Idea Pin / Hikaye Boyutu — 1080×1920 px",
   "short_name": "Pinterest Idea Pin / Hikaye Boyutu — 1080×1920 px",
   "description": "Tam olarak 1080×1920 px ölçüsünde bir Pinterest idea pin / hikaye oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/pinterest-idea-pin-size.html",
+  "id": "/tr/pinterest-idea-pin-size.html",
   "start_url": "./pinterest-idea-pin-size.html",
   "scope": "./pinterest-idea-pin-size.html",
   "display": "standalone",

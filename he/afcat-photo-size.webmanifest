@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונה AFCAT",
   "short_name": "גודל תמונה AFCAT",
   "description": "שנו את גודל ה־תמונה של AFCAT לגודל ההודעה הרשמית (3.5 × 4.5 ס&quot;מ (כ־413 × 531 px ב־300 DPI)) ולרצועת 10–50 KB. בחינם, בדפדפן שלכם — ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/afcat-photo-size.html",
+  "id": "/he/afcat-photo-size.html",
   "start_url": "./afcat-photo-size.html",
   "scope": "./afcat-photo-size.html",
   "display": "standalone",

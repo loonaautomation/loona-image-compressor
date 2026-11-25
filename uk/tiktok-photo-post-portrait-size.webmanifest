@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фотодопис (портрет) TikTok",
   "short_name": "Розмір Фотодопис (портрет)",
   "description": "Зробіть фотодопис (портрет) для TikTok рівно 1080×1350 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/tiktok-photo-post-portrait-size.html",
+  "id": "/uk/tiktok-photo-post-portrait-size.html",
   "start_url": "./tiktok-photo-post-portrait-size.html",
   "scope": "./tiktok-photo-post-portrait-size.html",
   "display": "standalone",

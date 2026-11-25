@@ -2,7 +2,7 @@
   "name": "Loona WebP کو 75 KB تک آن لائن کمپریس کریں",
   "short_name": "WebP کو 75 KB تک آن لائن",
   "description": "کسی WebP تصویر کو اپنے براؤزر میں مفت 75 KB یا اس سے کم تک کمپریس کریں۔ خودکار تلاش وہ بہترین کوالٹی ڈھونڈتی ہے جو اس حد میں سمائے — نہ سائن اپ، نہ اپ لوڈ۔",
-  "id": "/loona-image-compressor/ur/compress-webp-to-75kb.html",
+  "id": "/ur/compress-webp-to-75kb.html",
   "start_url": "./compress-webp-to-75kb.html",
   "scope": "./compress-webp-to-75kb.html",
   "display": "standalone",

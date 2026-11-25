@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Wasifu wa Facebook",
   "short_name": "Ukubwa wa Picha ya Wasifu wa",
   "description": "Tengeneza picha ya wasifu ya Facebook katika px 720×720 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/facebook-profile-picture-size.html",
+  "id": "/sw/facebook-profile-picture-size.html",
   "start_url": "./facebook-profile-picture-size.html",
   "scope": "./facebook-profile-picture-size.html",
   "display": "standalone",

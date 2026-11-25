@@ -2,7 +2,7 @@
   "name": "Loona Преоразмеряване на изображение до 1920 × 1080",
   "short_name": "Преоразмеряване на",
   "description": "Преоразмерете всяко изображение до точно 1920 × 1080 пиксела (екрани Full HD, тапети за работния плот и крайни екрани в YouTube) безплатно. Покриване, побиране или разтягане, JPG или PNG, изтеглете незабавно — без регистрация, нищо не се качва.",
-  "id": "/loona-image-compressor/bg/resize-image-to-1920x1080.html",
+  "id": "/bg/resize-image-to-1920x1080.html",
   "start_url": "./resize-image-to-1920x1080.html",
   "scope": "./resize-image-to-1920x1080.html",
   "display": "standalone",

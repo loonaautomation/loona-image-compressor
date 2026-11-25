@@ -2,7 +2,7 @@
   "name": "Loona 將圖片調整為 800 × 800",
   "short_name": "將圖片調整為 800 × 800",
   "description": "免費將任何圖片調整為精確的 800 × 800 畫素（市場和產品列表照片）。Cover、contain 或 stretch，JPG 或 PNG，即時下載 — 無需註冊，什麼都不上傳。",
-  "id": "/loona-image-compressor/zh-hant/resize-image-to-800x800.html",
+  "id": "/zh-hant/resize-image-to-800x800.html",
   "start_url": "./resize-image-to-800x800.html",
   "scope": "./resize-image-to-800x800.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Arkusz druku zdjęć paszportowych",
   "short_name": "Arkusz druku zdjęć",
   "description": "Umieść 4, 6 lub 8 zdjęć paszportowych na jednym arkuszu druku A4 za darmo przy 300 DPI. Drukuj w 100%, tnij po liniach i oszczędzaj pieniądze na studio. Bez rejestracji, w pełni prywatnie.",
-  "id": "/loona-image-compressor/pl/passport-photo-print-sheet.html",
+  "id": "/pl/passport-photo-print-sheet.html",
   "start_url": "./passport-photo-print-sheet.html",
   "scope": "./passport-photo-print-sheet.html",
   "display": "standalone",

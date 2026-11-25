@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ảnh hộ chiếu Đức (Sinh trắc học)",
   "short_name": "Kích thước Ảnh hộ chiếu Đức",
   "description": "Tạo Ảnh hộ chiếu Đức (Sinh trắc học) ở kích thước chính thức 35×45 mm (413×531 px), nền xám nhạt, trơn. Công cụ tạo ảnh trực tuyến miễn phí — cắt, tải xuống và in tờ in, không tải lên.",
-  "id": "/loona-image-compressor/vi/germany-passport-photo-size.html",
+  "id": "/vi/germany-passport-photo-size.html",
   "start_url": "./germany-passport-photo-size.html",
   "scope": "./germany-passport-photo-size.html",
   "display": "standalone",

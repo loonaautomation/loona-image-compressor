@@ -2,7 +2,7 @@
   "name": "Loona Resize Image",
   "short_name": "Resize Image",
   "description": "Resize any image by pixels, cm or inches with a DPI setting for free. Keep aspect ratio, pick JPG, PNG or WebP and download instantly — no signup needed.",
-  "id": "/loona-image-compressor/resize-image.html",
+  "id": "/resize-image.html",
   "start_url": "./resize-image.html",
   "scope": "./resize-image.html",
   "display": "standalone",

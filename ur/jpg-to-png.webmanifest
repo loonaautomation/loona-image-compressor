@@ -2,7 +2,7 @@
   "name": "Loona JPG تا PNG کنورٹر",
   "short_name": "JPG تا PNG کنورٹر",
   "description": "JPG کو PNG میں آن لائن مفت تبدیل کریں — ایڈیٹرز، ڈیزائن ٹولز اور دستاویزات کے لیے لاس لیس برآمد۔ آپ کے براؤزر میں چلتا ہے، نہ سائن اپ، نہ اپ لوڈ۔",
-  "id": "/loona-image-compressor/ur/jpg-to-png.html",
+  "id": "/ur/jpg-to-png.html",
   "start_url": "./jpg-to-png.html",
   "scope": "./jpg-to-png.html",
   "display": "standalone",

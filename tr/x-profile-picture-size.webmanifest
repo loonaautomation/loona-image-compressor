@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) Profil Resmi Boyutu — 400×400 px",
   "short_name": "X (Twitter) Profil Resmi Boyutu — 400×400 px",
   "description": "Tam olarak 400×400 px ölçüsünde bir X (Twitter) profil resmi oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/x-profile-picture-size.html",
+  "id": "/tr/x-profile-picture-size.html",
   "start_url": "./x-profile-picture-size.html",
   "scope": "./x-profile-picture-size.html",
   "display": "standalone",

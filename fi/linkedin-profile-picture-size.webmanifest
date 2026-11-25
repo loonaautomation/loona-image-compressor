@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Profiilivalokuva koko",
   "short_name": "LinkedIn Profiilivalokuva koko",
   "description": "Tee LinkedIn profiilivalokuva tarkalleen kokoon 400×400 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/linkedin-profile-picture-size.html",
+  "id": "/fi/linkedin-profile-picture-size.html",
   "start_url": "./linkedin-profile-picture-size.html",
   "scope": "./linkedin-profile-picture-size.html",
   "display": "standalone",

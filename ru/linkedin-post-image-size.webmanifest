@@ -2,7 +2,7 @@
   "name": "Loona Размер Изображение публикации для LinkedIn",
   "short_name": "Размер Изображение публикации для LinkedIn",
   "description": "Make a LinkedIn post image at exactly 1200×627 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/linkedin-post-image-size.html",
+  "id": "/linkedin-post-image-size.html",
   "start_url": "./linkedin-post-image-size.html",
   "scope": "./linkedin-post-image-size.html",
   "display": "standalone",

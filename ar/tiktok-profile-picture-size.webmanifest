@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة الملف الشخصي TikTok",
   "short_name": "حجم صورة الملف الشخصي TikTok",
   "description": "اصنع صورة الملف الشخصي TikTok بمقاس 720×720 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/tiktok-profile-picture-size.html",
+  "id": "/ar/tiktok-profile-picture-size.html",
   "start_url": "./tiktok-profile-picture-size.html",
   "scope": "./tiktok-profile-picture-size.html",
   "display": "standalone",

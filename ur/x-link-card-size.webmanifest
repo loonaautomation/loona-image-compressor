@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) لنک کارڈ تصویر کا سائز",
   "short_name": "X (Twitter) لنک کارڈ تصویر کا",
   "description": "X (Twitter) لنک کارڈ تصویر بالکل 1200×628 px پر بنائیں۔ آپ کے براؤزر میں مفت ری سائزر/کراپر، محفوظ زون کے قواعد کے ساتھ جو کراپ شدہ متن اور چہروں کو روکتے ہیں۔",
-  "id": "/loona-image-compressor/ur/x-link-card-size.html",
+  "id": "/ur/x-link-card-size.html",
   "start_url": "./x-link-card-size.html",
   "scope": "./x-link-card-size.html",
   "display": "standalone",

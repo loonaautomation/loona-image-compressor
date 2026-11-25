@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة الملف الشخصي X (Twitter)",
   "short_name": "حجم صورة الملف الشخصي X",
   "description": "اصنع صورة الملف الشخصي X (Twitter) بمقاس 400×400 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/x-profile-picture-size.html",
+  "id": "/ar/x-profile-picture-size.html",
   "start_url": "./x-profile-picture-size.html",
   "scope": "./x-profile-picture-size.html",
   "display": "standalone",

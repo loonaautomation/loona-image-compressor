@@ -2,7 +2,7 @@
   "name": "Loona GATE Foto Storlek",
   "short_name": "GATE Foto Storlek",
   "description": "Ändra storlek på ditt GATE foto till anmälningsstorleken (480 × 640 px) och bandet 5–200 KB. Gratis, i din webbläsare — ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/gate-photo-size.html",
+  "id": "/sv/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

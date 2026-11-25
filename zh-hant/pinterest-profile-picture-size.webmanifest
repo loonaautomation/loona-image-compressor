@@ -2,7 +2,7 @@
   "name": "Loona Pinterest 個人頭像 尺寸",
   "short_name": "Pinterest 個人頭像 尺寸",
   "description": "按精確的 800×800 px 製作 Pinterest 個人頭像。在瀏覽器中免費調整大小/裁剪，附有安全區規則，防止文字和麵部被裁掉。",
-  "id": "/loona-image-compressor/zh-hant/pinterest-profile-picture-size.html",
+  "id": "/zh-hant/pinterest-profile-picture-size.html",
   "start_url": "./pinterest-profile-picture-size.html",
   "scope": "./pinterest-profile-picture-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona SBI PO تصویر کا سائز",
   "short_name": "SBI PO تصویر کا سائز",
   "description": "اپنی SBI PO تصویر کو نوٹیفکیشن سائز (200 × 230 px) اور 20–50 KB بینڈ کے مطابق بنائیں۔ مفت، آپ کے براؤزر میں — نہ اپ لوڈ، نہ سائن اپ۔",
-  "id": "/loona-image-compressor/ur/sbi-po-photo-size.html",
+  "id": "/ur/sbi-po-photo-size.html",
   "start_url": "./sbi-po-photo-size.html",
   "scope": "./sbi-po-photo-size.html",
   "display": "standalone",

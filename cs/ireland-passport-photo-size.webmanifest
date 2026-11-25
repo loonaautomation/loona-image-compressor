@@ -2,7 +2,7 @@
   "name": "Loona Velikost Pasová fotografie Irska",
   "short_name": "Velikost Pasová fotografie",
   "description": "Vytvořte Pasová fotografie Irska v oficiální velikosti 35×45 mm (413×531 px), pozadí: jednobarevné bílé nebo světle šedé. Bezplatný online tvůrce — oříznutí, stažení a tiskový arch, bez nahrávání.",
-  "id": "/loona-image-compressor/cs/ireland-passport-photo-size.html",
+  "id": "/cs/ireland-passport-photo-size.html",
   "start_url": "./ireland-passport-photo-size.html",
   "scope": "./ireland-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona تغيير حجم الصورة إلى 140 × 60 px عبر",
   "short_name": "تغيير حجم الصورة إلى 140 × 60",
   "description": "غيّر حجم أي صورة إلى 140×60 px بالضبط — معيار توقيع الامتحانات الهندي (SSC وIBPS وSBI). مجاناً في متصفحك مع تحكم في القص؛ بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/resize-image-to-140x60.html",
+  "id": "/ar/resize-image-to-140x60.html",
   "start_url": "./resize-image-to-140x60.html",
   "scope": "./resize-image-to-140x60.html",
   "display": "standalone",

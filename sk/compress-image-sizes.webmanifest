@@ -2,7 +2,7 @@
   "name": "Loona Komprimovať obrázok na ľubovoľnú veľkosť v KB",
   "short_name": "Komprimovať obrázok na",
   "description": "Každý nástroj pre kompresiu na veľkosť: 16 cieľových veľkostí vo formátoch JPG, PNG a WebP, od 10 KB do 2 MB. Zadarmo, vo vašom prehliadači.",
-  "id": "/loona-image-compressor/sk/compress-image-sizes.html",
+  "id": "/sk/compress-image-sizes.html",
   "start_url": "./compress-image-sizes.html",
   "scope": "./compress-image-sizes.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Visa Keanekaragaman AS (Lotre Green Card)",
   "short_name": "Ukuran Foto Visa",
   "description": "Buat Foto Visa Keanekaragaman AS (Lotre Green Card) pada ukuran resmi 51×51 mm (600×600 px), latar belakang putih polos atau putih pudar. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/us-dv-lottery-photo-size.html",
+  "id": "/id/us-dv-lottery-photo-size.html",
   "start_url": "./us-dv-lottery-photo-size.html",
   "scope": "./us-dv-lottery-photo-size.html",
   "display": "standalone",

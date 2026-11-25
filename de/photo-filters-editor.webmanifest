@@ -2,7 +2,7 @@
   "name": "Loona Fotofilter & Korrektur",
   "short_name": "Fotofilter & Korrektur",
   "description": "Korrigieren Sie Fotos online kostenlos: Passen Sie Helligkeit, Kontrast und Sättigung an, schärfen Sie mit einem Klick und verwenden Sie fertige Voreinstellungen wie Pass-Korrektur und Lebendig.",
-  "id": "/loona-image-compressor/de/photo-filters-editor.html",
+  "id": "/de/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

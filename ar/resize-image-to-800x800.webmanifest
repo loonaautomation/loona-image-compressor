@@ -2,7 +2,7 @@
   "name": "Loona تغيير حجم الصورة إلى 800 × 800",
   "short_name": "تغيير حجم الصورة إلى 800 × 800",
   "description": "غيّر حجم أي صورة إلى 800 × 800 بكسل بالضبط (صور قوائم الأسواق والمنتجات) مجانًا. تغطية أو احتواء أو تمدد، JPG أو PNG، تنزيل فوري — بلا تسجيل، لا شيء يُرفع.",
-  "id": "/loona-image-compressor/ar/resize-image-to-800x800.html",
+  "id": "/ar/resize-image-to-800x800.html",
   "start_url": "./resize-image-to-800x800.html",
   "scope": "./resize-image-to-800x800.html",
   "display": "standalone",

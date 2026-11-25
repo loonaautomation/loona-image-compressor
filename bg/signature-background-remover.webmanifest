@@ -2,7 +2,7 @@
   "name": "Loona Премахване на фона на подпис",
   "short_name": "Премахване на фона на подпис",
   "description": "Премахнете хартиения фон от снимка на подпис или печат и изтеглете прозрачен PNG безплатно онлайн. Чисто браузърен инструмент с платно — без изкуствен интелект, без качване, без регистрация.",
-  "id": "/loona-image-compressor/bg/signature-background-remover.html",
+  "id": "/bg/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

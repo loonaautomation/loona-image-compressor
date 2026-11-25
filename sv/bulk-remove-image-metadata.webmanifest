@@ -2,7 +2,7 @@
   "name": "Loona Massborttagare av metadata",
   "short_name": "Massborttagare av metadata",
   "description": "Ta bort EXIF-, GPS- och XMP-metadata från många foton samtidigt — släpp en batch JPG-, PNG- och WebP-filer, rensa dem alla i din webbläsare och ladda ner allt som en ZIP. Gratis, privat, inga uppladdningar, ingen omkodning.",
-  "id": "/loona-image-compressor/sv/bulk-remove-image-metadata.html",
+  "id": "/sv/bulk-remove-image-metadata.html",
   "start_url": "./bulk-remove-image-metadata.html",
   "scope": "./bulk-remove-image-metadata.html",
   "display": "standalone",

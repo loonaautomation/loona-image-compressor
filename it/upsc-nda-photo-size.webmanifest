@@ -2,7 +2,7 @@
   "name": "Loona Formato Fotografia UPSC NDA",
   "short_name": "Formato Fotografia UPSC NDA",
   "description": "Ridimensiona la tua foto UPSC NDA al formato previsto dal bando (350 × 350 px) e all&#x27;intervallo 20–300 KB. Gratis, nel tuo browser: senza caricamenti e senza registrazione.",
-  "id": "/loona-image-compressor/it/upsc-nda-photo-size.html",
+  "id": "/it/upsc-nda-photo-size.html",
   "start_url": "./upsc-nda-photo-size.html",
   "scope": "./upsc-nda-photo-size.html",
   "display": "standalone",

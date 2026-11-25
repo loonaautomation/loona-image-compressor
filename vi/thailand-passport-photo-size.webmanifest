@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ảnh hộ chiếu / thị thực Thái Lan",
   "short_name": "Kích thước Ảnh hộ chiếu / thị",
   "description": "Tạo Ảnh hộ chiếu / thị thực Thái Lan ở kích thước chính thức 35×45 mm (413×531 px), nền trắng trơn. Công cụ tạo ảnh trực tuyến miễn phí — cắt, tải xuống và in tờ in, không tải lên.",
-  "id": "/loona-image-compressor/vi/thailand-passport-photo-size.html",
+  "id": "/vi/thailand-passport-photo-size.html",
   "start_url": "./thailand-passport-photo-size.html",
   "scope": "./thailand-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona aláírás-háttéreltávolító",
   "short_name": "Aláírás-háttéreltávolító",
   "description": "Távolítsd el a papírhátteret egy aláírás- vagy bélyegzőfotóról, és tölts le átlátszó PNG-t ingyen online. Tiszta böngészős canvas eszköz — nincs MI, nincs feltöltés, nincs regisztráció.",
-  "id": "/loona-image-compressor/hu/signature-background-remover.html",
+  "id": "/hu/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונה SBI PO",
   "short_name": "גודל תמונה SBI PO",
   "description": "שנו את גודל ה־תמונה של SBI PO לגודל ההודעה הרשמית (200 × 230 px) ולרצועת 20–50 KB. בחינם, בדפדפן שלכם — ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/sbi-po-photo-size.html",
+  "id": "/he/sbi-po-photo-size.html",
   "start_url": "./sbi-po-photo-size.html",
   "scope": "./sbi-po-photo-size.html",
   "display": "standalone",

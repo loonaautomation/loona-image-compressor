@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Article / Newsletter Cover Size — 1200 × 644 px",
   "short_name": "LinkedIn Article / Newsletter Cover Size — 1200 × 644 px",
   "description": "Make a LinkedIn article / newsletter cover at exactly 1200×644 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/en-gb/linkedin-article-cover-size.html",
+  "id": "/en-gb/linkedin-article-cover-size.html",
   "start_url": "./linkedin-article-cover-size.html",
   "scope": "./linkedin-article-cover-size.html",
   "display": "standalone",

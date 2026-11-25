@@ -2,7 +2,7 @@
   "name": "Loona Kuvanparantaja",
   "short_name": "Kuvanparantaja",
   "description": "Paranna kuvaa verkossa ilmaiseksi: yhden napsautuksen automaattinen parannus, terävöitä pehmeät kuvat, puhdista kohina hellävaraisesti ja suurenna 2x tai 4x. Rehelliset tulokset, ei rekisteröitymistä, eikä kuvasi koskaan poistu laitteeltasi.",
-  "id": "/loona-image-compressor/fi/image-enhancer.html",
+  "id": "/fi/image-enhancer.html",
   "start_url": "./image-enhancer.html",
   "scope": "./image-enhancer.html",
   "display": "standalone",

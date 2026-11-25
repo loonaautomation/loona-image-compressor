@@ -2,7 +2,7 @@
   "name": "Loona Конструктор фото на візу",
   "short_name": "Конструктор фото на візу",
   "description": "Створюйте фото на візу онлайн безкоштовно: США 2x2 дюйми, Велика Британія та Шенген 35x45 mm, Китай 33x48 mm при 300 DPI. Без реєстрації, без водяного знака, цілком приватний інструмент.",
-  "id": "/loona-image-compressor/uk/visa-photo-maker.html",
+  "id": "/uk/visa-photo-maker.html",
   "start_url": "./visa-photo-maker.html",
   "scope": "./visa-photo-maker.html",
   "display": "standalone",

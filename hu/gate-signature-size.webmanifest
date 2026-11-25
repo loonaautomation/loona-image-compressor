@@ -2,7 +2,7 @@
   "name": "Loona GATE Aláírás méret",
   "short_name": "GATE Aláírás méret",
   "description": "Méretezze át a GATE aláírás fájlját a kiírás szerinti méretre (szkennelt mező, kb. 7:2 arány) és a 3–100 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/gate-signature-size.html",
+  "id": "/hu/gate-signature-size.html",
   "start_url": "./gate-signature-size.html",
   "scope": "./gate-signature-size.html",
   "display": "standalone",

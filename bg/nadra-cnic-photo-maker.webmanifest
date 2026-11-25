@@ -2,7 +2,7 @@
   "name": "Loona Инструмент за снимки NADRA / CNIC",
   "short_name": "Инструмент за снимки NADRA /",
   "description": "Направете снимка за NADRA CNIC онлайн безплатно: точни 350×467 px за качване в Pak-ID и размер за печат 35×45 mm. Бял фон, без регистрация, напълно лично.",
-  "id": "/loona-image-compressor/bg/nadra-cnic-photo-maker.html",
+  "id": "/bg/nadra-cnic-photo-maker.html",
   "start_url": "./nadra-cnic-photo-maker.html",
   "scope": "./nadra-cnic-photo-maker.html",
   "display": "standalone",

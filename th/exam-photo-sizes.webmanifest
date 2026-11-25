@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปและลายเซ็นสำหรับสอบ",
   "short_name": "ขนาดรูปและลายเซ็นสำหรับสอบ",
   "description": "ขนาดรูปและลายเซ็นพร้อมช่วง KB สำหรับการสอบสำคัญของอินเดีย 20 รายการ — SSC, IBPS, SBI, UPSC, RRB, JEE, NEET และอื่น ๆ แต่ละรายการมีเครื่องมือทำรูป",
-  "id": "/loona-image-compressor/th/exam-photo-sizes.html",
+  "id": "/th/exam-photo-sizes.html",
   "start_url": "./exam-photo-sizes.html",
   "scope": "./exam-photo-sizes.html",
   "display": "standalone",

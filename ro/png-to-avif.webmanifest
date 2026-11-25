@@ -2,7 +2,7 @@
   "name": "Loona Convertor PNG în AVIF",
   "short_name": "Convertor PNG în AVIF",
   "description": "Convertește PNG în AVIF online, gratuit, în browserul tău. Conversie reală pe dispozitivul tău — fără încărcare, fără înregistrare, fără filigrane.",
-  "id": "/loona-image-compressor/ro/png-to-avif.html",
+  "id": "/ro/png-to-avif.html",
   "start_url": "./png-to-avif.html",
   "scope": "./png-to-avif.html",
   "display": "standalone",

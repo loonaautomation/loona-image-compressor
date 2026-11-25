@@ -2,7 +2,7 @@
   "name": "Loona حجم شاشة الدعوة Discord",
   "short_name": "حجم شاشة الدعوة Discord",
   "description": "اصنع شاشة الدعوة Discord بمقاس 1920×1080 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/discord-server-splash-size.html",
+  "id": "/ar/discord-server-splash-size.html",
   "start_url": "./discord-server-splash-size.html",
   "scope": "./discord-server-splash-size.html",
   "display": "standalone",

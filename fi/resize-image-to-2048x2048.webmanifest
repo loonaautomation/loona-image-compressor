@@ -2,7 +2,7 @@
   "name": "Loona Muuta kuvan koko kokoon 2048 × 2048 px verkossa",
   "short_name": "Muuta kuvan koko kokoon 2048",
   "description": "Muuta minkä tahansa kuvan koko tarkalleen kokoon 2048×2048 px — Korkean tarkkuuden neliö tulostukseen ja retina-näytöille. Ilmaiseksi selaimessasi rajausohjauksella; ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/resize-image-to-2048x2048.html",
+  "id": "/fi/resize-image-to-2048x2048.html",
   "start_url": "./resize-image-to-2048x2048.html",
   "scope": "./resize-image-to-2048x2048.html",
   "display": "standalone",

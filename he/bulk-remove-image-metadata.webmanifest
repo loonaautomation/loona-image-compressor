@@ -2,7 +2,7 @@
   "name": "Loona מסיר מטא־נתונים בכמות",
   "short_name": "מסיר מטא־נתונים בכמות",
   "description": "הסירו מטא־נתוני EXIF, GPS ו־XMP מתמונות רבות בבת אחת — שחררו אצווה של קבצי JPG, PNG ו־WebP, הסירו את כולם בדפדפן שלכם והורידו הכול כ־ZIP אחד. בחינם, פרטי, ללא העלאות, ללא קידוד מחדש.",
-  "id": "/loona-image-compressor/he/bulk-remove-image-metadata.html",
+  "id": "/he/bulk-remove-image-metadata.html",
   "start_url": "./bulk-remove-image-metadata.html",
   "scope": "./bulk-remove-image-metadata.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เครื่องเปลี่ยนพื้นหลังรูปถ่าย",
   "short_name": "เครื่องเปลี่ยนพื้นหลังรูปถ่าย",
   "description": "เปลี่ยนพื้นหลังรูปถ่ายเป็นสีขาว น้ำเงิน เทาอ่อน หรือแดงออนไลน์ฟรี การเติมท่วมบวกเครื่องมือแปรง เป็นส่วนตัวในเบราว์เซอร์ของคุณ ไม่มีการอัปโหลด AI",
-  "id": "/loona-image-compressor/th/photo-background-changer.html",
+  "id": "/th/photo-background-changer.html",
   "start_url": "./photo-background-changer.html",
   "scope": "./photo-background-changer.html",
   "display": "standalone",

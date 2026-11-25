@@ -2,7 +2,7 @@
   "name": "Loona Thay đổi kích thước ảnh thành 1920 × 1080",
   "short_name": "Thay đổi kích thước ảnh thành",
   "description": "Thay đổi kích thước mọi hình ảnh thành đúng 1920 × 1080 pixel (màn hình Full HD, hình nền máy tính và màn hình kết thúc YouTube) miễn phí. Phủ kín, thu vào trong hoặc kéo giãn, JPG hoặc PNG, tải xuống ngay lập tức — không cần đăng ký, không tải lên gì cả.",
-  "id": "/loona-image-compressor/vi/resize-image-to-1920x1080.html",
+  "id": "/vi/resize-image-to-1920x1080.html",
   "start_url": "./resize-image-to-1920x1080.html",
   "scope": "./resize-image-to-1920x1080.html",
   "display": "standalone",

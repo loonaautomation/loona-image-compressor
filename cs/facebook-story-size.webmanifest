@@ -2,7 +2,7 @@
   "name": "Loona Velikost Facebook Story",
   "short_name": "Velikost Facebook Story",
   "description": "Vytvořte Facebook story přesně 1080×1920 px. Bezplatný nástroj na změnu velikosti/ořez ve vašem prohlížeči s pravidly bezpečné zóny, která zabrání oříznutí textu a obličejů.",
-  "id": "/loona-image-compressor/cs/facebook-story-size.html",
+  "id": "/cs/facebook-story-size.html",
   "start_url": "./facebook-story-size.html",
   "scope": "./facebook-story-size.html",
   "display": "standalone",

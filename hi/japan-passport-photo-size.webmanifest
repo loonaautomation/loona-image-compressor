@@ -2,7 +2,7 @@
   "name": "Loona जापान पासपोर्ट फ़ोटो साइज़",
   "short_name": "जापान पासपोर्ट फ़ोटो साइज़",
   "description": "आधिकारिक साइज़ 35×45 mm (413×531 px) पर जापान पासपोर्ट फ़ोटो बनाएँ, सादा सफ़ेद या हल्का, बिना पैटर्न बैकग्राउंड. मुफ़्त ऑनलाइन मेकर — क्रॉप, डाउनलोड और प्रिंट शीट, बिना अपलोड.",
-  "id": "/loona-image-compressor/hi/japan-passport-photo-size.html",
+  "id": "/hi/japan-passport-photo-size.html",
   "start_url": "./japan-passport-photo-size.html",
   "scope": "./japan-passport-photo-size.html",
   "display": "standalone",

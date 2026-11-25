@@ -2,7 +2,7 @@
   "name": "Loona Passikuvien tulostusarkki",
   "short_name": "Passikuvien tulostusarkki",
   "description": "Laita 4, 6 tai 8 passikuvaa yhdelle A4-tulostusarkille ilmaiseksi tarkkuudella 300 DPI. Tulosta 100 %:lla, leikkaa ohjaimia pitkin ja säästä studiorahaa. Ei rekisteröitymistä, täysin yksityinen.",
-  "id": "/loona-image-compressor/fi/passport-photo-print-sheet.html",
+  "id": "/fi/passport-photo-print-sheet.html",
   "start_url": "./passport-photo-print-sheet.html",
   "scope": "./passport-photo-print-sheet.html",
   "display": "standalone",

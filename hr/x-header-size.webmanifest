@@ -2,7 +2,7 @@
   "name": "Loona Veličina X (Twitter) Zaglavlje / banner",
   "short_name": "Veličina X (Twitter)",
   "description": "Izradite X (Twitter) zaglavlje / banner na točno 1500×500 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/x-header-size.html",
+  "id": "/hr/x-header-size.html",
   "start_url": "./x-header-size.html",
   "scope": "./x-header-size.html",
   "display": "standalone",

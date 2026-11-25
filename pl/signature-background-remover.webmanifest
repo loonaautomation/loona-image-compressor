@@ -2,7 +2,7 @@
   "name": "Loona Program do usuwania tła podpisu",
   "short_name": "Program do usuwania tła podpisu",
   "description": "Usuń papierowe tło ze zdjęcia podpisu lub pieczątki i pobierz przezroczysty plik PNG za darmo online. Narzędzie działające wyłącznie w przeglądarce na płótnie – bez sztucznej inteligencji, bez przesyłania, bez rejestracji.",
-  "id": "/loona-image-compressor/pl/signature-background-remover.html",
+  "id": "/pl/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pinterest بورڈ کور کا سائز",
   "short_name": "Pinterest بورڈ کور کا سائز",
   "description": "Pinterest بورڈ کور بالکل 800×450 px پر بنائیں۔ آپ کے براؤزر میں مفت ری سائزر/کراپر، محفوظ زون کے قواعد کے ساتھ جو کراپ شدہ متن اور چہروں کو روکتے ہیں۔",
-  "id": "/loona-image-compressor/ur/pinterest-board-cover-size.html",
+  "id": "/ur/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",
   "scope": "./pinterest-board-cover-size.html",
   "display": "standalone",

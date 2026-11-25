@@ -2,7 +2,7 @@
   "name": "Loona Συμπίεση Εικόνας σε 2 MB Διαδικτυακά",
   "short_name": "Συμπίεση Εικόνας σε 2 MB",
   "description": "Συμπιέστε εικόνες JPG, PNG και WebP σε 2 MB ή κάτω, διαδικτυακά και δωρεάν. Αυτόματη αναζήτηση ποιότητας και μεγέθους στο πρόγραμμα περιήγησής σας — χωρίς εγγραφή, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/compress-image-to-2mb.html",
+  "id": "/el/compress-image-to-2mb.html",
   "start_url": "./compress-image-to-2mb.html",
   "scope": "./compress-image-to-2mb.html",
   "display": "standalone",

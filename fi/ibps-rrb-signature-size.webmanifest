@@ -2,7 +2,7 @@
   "name": "Loona Kokeen IBPS RRB (Gramin Bank) Allekirjoitus koko",
   "short_name": "Kokeen IBPS RRB (Gramin Bank)",
   "description": "Muuta kokeen IBPS RRB (Gramin Bank) allekirjoitus ilmoitettuun kokoon (140 × 60 px) ja välille 10–20 KB. Ilmaiseksi selaimessasi — ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/ibps-rrb-signature-size.html",
+  "id": "/fi/ibps-rrb-signature-size.html",
   "start_url": "./ibps-rrb-signature-size.html",
   "scope": "./ibps-rrb-signature-size.html",
   "display": "standalone",

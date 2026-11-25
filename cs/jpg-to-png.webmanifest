@@ -2,7 +2,7 @@
   "name": "Loona Převodník JPG na PNG",
   "short_name": "Převodník JPG na PNG",
   "description": "Převeďte JPG na PNG online zdarma — bezztrátový výstup pro editory, návrhářské nástroje a dokumenty. Běží ve vašem prohlížeči, bez registrace, bez nahrávání.",
-  "id": "/loona-image-compressor/cs/jpg-to-png.html",
+  "id": "/cs/jpg-to-png.html",
   "start_url": "./jpg-to-png.html",
   "scope": "./jpg-to-png.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona France Passport / ID Photo-størrelse",
   "short_name": "France Passport / ID",
   "description": "Lag et France Passport / ID Photo i den offisielle størrelsen 35×45 mm (413×531 px), ensfarget lys grå eller lys blå bakgrunn. Gratis verktøy på nett — beskjær, last ned og skriv ut ark, ingen opplasting.",
-  "id": "/loona-image-compressor/nb/france-passport-photo-size.html",
+  "id": "/nb/france-passport-photo-size.html",
   "start_url": "./france-passport-photo-size.html",
   "scope": "./france-passport-photo-size.html",
   "display": "standalone",

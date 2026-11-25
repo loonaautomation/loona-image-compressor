@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת כרטיס PAN הודו",
   "short_name": "גודל תמונת כרטיס PAN הודו",
   "description": "צרו תמונת כרטיס PAN הודו בגודל הרשמי 25×35 מ&quot;מ (295×413 px), רקע לבן חלק. כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/india-pan-card-photo-size.html",
+  "id": "/he/india-pan-card-photo-size.html",
   "start_url": "./india-pan-card-photo-size.html",
   "scope": "./india-pan-card-photo-size.html",
   "display": "standalone",

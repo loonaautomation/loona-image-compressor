@@ -2,7 +2,7 @@
   "name": "Loona फ़ेस ब्लर",
   "short_name": "फ़ेस ब्लर",
   "description": "किसी भी फ़ोटो में चेहरे, नंबर प्लेट और निजी विवरण ब्लर या पिक्सेलेट करें। आप खुद हिस्से चुनते हैं, मज़बूती चुनते हैं, प्रीव्यू और डाउनलोड करते हैं — मुफ़्त, कोई साइनअप नहीं, और आपकी फ़ोटो कभी आपके डिवाइस से बाहर नहीं जाती।",
-  "id": "/loona-image-compressor/hi/face-blur.html",
+  "id": "/hi/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

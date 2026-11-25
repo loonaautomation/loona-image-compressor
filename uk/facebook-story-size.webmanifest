@@ -2,7 +2,7 @@
   "name": "Loona Розмір Історія Facebook",
   "short_name": "Розмір Історія Facebook",
   "description": "Зробіть історія для Facebook рівно 1080×1920 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/facebook-story-size.html",
+  "id": "/uk/facebook-story-size.html",
   "start_url": "./facebook-story-size.html",
   "scope": "./facebook-story-size.html",
   "display": "standalone",

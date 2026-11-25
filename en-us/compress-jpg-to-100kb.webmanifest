@@ -2,7 +2,7 @@
   "name": "Loona Compress JPG to 100 KB",
   "short_name": "Compress JPG to 100 KB",
   "description": "Compress a JPG image to 100 KB or under, free in your browser. Automatic search finds the best quality that fits — no signup, no upload.",
-  "id": "/loona-image-compressor/en-us/compress-jpg-to-100kb.html",
+  "id": "/en-us/compress-jpg-to-100kb.html",
   "start_url": "./compress-jpg-to-100kb.html",
   "scope": "./compress-jpg-to-100kb.html",
   "display": "standalone",

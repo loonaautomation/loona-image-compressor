@@ -2,7 +2,7 @@
   "name": "Loona ขนาดแบนเนอร์โปรไฟล์ / เพจ LinkedIn",
   "short_name": "ขนาดแบนเนอร์โปรไฟล์ / เพจ",
   "description": "ทำแบนเนอร์โปรไฟล์ / เพจ LinkedIn ที่ขนาด 1584×396 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/linkedin-banner-size.html",
+  "id": "/th/linkedin-banner-size.html",
   "start_url": "./linkedin-banner-size.html",
   "scope": "./linkedin-banner-size.html",
   "display": "standalone",

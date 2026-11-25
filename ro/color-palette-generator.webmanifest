@@ -2,7 +2,7 @@
   "name": "Loona Generator de palete de culori",
   "short_name": "Generator de palete de culori",
   "description": "Generează palete armonioase de culori din orice culoare de bază — scheme analoge, complementare, triadice și monocromatice, cu coduri HEX copiabile. Gratuit, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/color-palette-generator.html",
+  "id": "/ro/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",
   "scope": "./color-palette-generator.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Veličina TikTok Fotografija objava (kvadrat)",
   "short_name": "Veličina TikTok Fotografija",
   "description": "Izradite TikTok fotografija objava (kvadrat) na točno 1080×1080 px. Besplatni alat za mijenjanje veličine/izrezivanje u vašem pregledniku s pravilima sigurne zone koja sprječavaju izrezivanje teksta i lica.",
-  "id": "/loona-image-compressor/hr/tiktok-photo-post-square-size.html",
+  "id": "/hr/tiktok-photo-post-square-size.html",
   "start_url": "./tiktok-photo-post-square-size.html",
   "scope": "./tiktok-photo-post-square-size.html",
   "display": "standalone",

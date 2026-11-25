@@ -2,7 +2,7 @@
   "name": "Loona حجم التوقيع IBPS PO",
   "short_name": "حجم التوقيع IBPS PO",
   "description": "غيّر حجم التوقيع الخاص بك لامتحان IBPS PO إلى حجم الإشعار (140 × 60 px) ونطاق 10–20 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/ibps-po-signature-size.html",
+  "id": "/ar/ibps-po-signature-size.html",
   "start_url": "./ibps-po-signature-size.html",
   "scope": "./ibps-po-signature-size.html",
   "display": "standalone",

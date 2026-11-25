@@ -2,7 +2,7 @@
   "name": "Loona Trình chuyển đổi HEIC sang JPG",
   "short_name": "Trình chuyển đổi HEIC sang JPG",
   "description": "Chuyển đổi HEIC sang JPG trực tuyến, miễn phí, ngay trong trình duyệt của bạn. Biến ảnh HEIC trên iPhone thành JPG mở được ở mọi nơi — không tải lên, không đăng ký, không hình mờ.",
-  "id": "/loona-image-compressor/vi/heic-to-jpg-converter.html",
+  "id": "/vi/heic-to-jpg-converter.html",
   "start_url": "./heic-to-jpg-converter.html",
   "scope": "./heic-to-jpg-converter.html",
   "display": "standalone",

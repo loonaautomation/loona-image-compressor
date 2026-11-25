@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do paszportu / DNI Argentyny",
   "short_name": "Rozmiar Zdjęcie do paszportu",
   "description": "Utwórz Zdjęcie do paszportu / DNI Argentyny w oficjalnym rozmiarze 40×40 mm (472×472 px), tło: gładkie białe lub jasnobłękitne. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/argentina-passport-photo-size.html",
+  "id": "/pl/argentina-passport-photo-size.html",
   "start_url": "./argentina-passport-photo-size.html",
   "scope": "./argentina-passport-photo-size.html",
   "display": "standalone",

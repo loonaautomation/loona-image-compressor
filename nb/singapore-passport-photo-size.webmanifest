@@ -2,7 +2,7 @@
   "name": "Loona Singapore Passport Photo-størrelse",
   "short_name": "Singapore Passport",
   "description": "Lag et Singapore Passport Photo i den offisielle størrelsen 35×45 mm (413×531 px), ensfarget hvit bakgrunn. Gratis verktøy på nett — beskjær, last ned og skriv ut ark, ingen opplasting.",
-  "id": "/loona-image-compressor/nb/singapore-passport-photo-size.html",
+  "id": "/nb/singapore-passport-photo-size.html",
   "start_url": "./singapore-passport-photo-size.html",
   "scope": "./singapore-passport-photo-size.html",
   "display": "standalone",

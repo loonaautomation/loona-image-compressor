@@ -2,7 +2,7 @@
   "name": "Loona 線上將 JPG 壓縮到 25 KB",
   "short_name": "線上將 JPG 壓縮到 25 KB",
   "description": "在瀏覽器中免費將 JPG 圖片壓縮到 25 KB 或更小。自動搜尋可在限制內達到的最佳質量 — 無需註冊，無需上傳。",
-  "id": "/loona-image-compressor/zh-hant/compress-jpg-to-25kb.html",
+  "id": "/zh-hant/compress-jpg-to-25kb.html",
   "start_url": "./compress-jpg-to-25kb.html",
   "scope": "./compress-jpg-to-25kb.html",
   "display": "standalone",

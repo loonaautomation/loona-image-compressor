@@ -2,7 +2,7 @@
   "name": "Loona Fotoformaat Pasfoto Italië",
   "short_name": "Fotoformaat Pasfoto Italië",
   "description": "Maak een Pasfoto Italië op het officiële formaat 35×40 mm (413×472 px), achtergrond: effen wit of licht. Gratis online maker — bijsnijden, downloaden en printvel, geen upload.",
-  "id": "/loona-image-compressor/nl/italy-passport-photo-size.html",
+  "id": "/nl/italy-passport-photo-size.html",
   "start_url": "./italy-passport-photo-size.html",
   "scope": "./italy-passport-photo-size.html",
   "display": "standalone",

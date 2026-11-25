@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da PNG a ICO",
   "short_name": "Convertitore da PNG a ICO",
   "description": "Converti PNG in ICO online, gratis, nel tuo browser. Conversione reale sul tuo dispositivo: senza caricamenti, senza registrazione, senza filigrane.",
-  "id": "/loona-image-compressor/it/png-to-ico.html",
+  "id": "/it/png-to-ico.html",
   "start_url": "./png-to-ico.html",
   "scope": "./png-to-ico.html",
   "display": "standalone",

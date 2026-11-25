@@ -2,7 +2,7 @@
   "name": "Loona تصویر واٹر مارک",
   "short_name": "تصویر واٹر مارک",
   "description": "متنی واٹر مارک کسی بھی تصویر پر آن لائن مفت شامل کریں — متن، سائز، رنگ، غیر شفافیت اور مقام منتخب کریں، یا اسے ٹائل نمونے کے طور پر دہرائیں۔ لائیو پیش نظارہ، نہ سائن اپ، اور آپ کی تصویر کبھی آپ کے ڈیوائس سے باہر نہیں جاتی۔",
-  "id": "/loona-image-compressor/ur/image-watermark.html",
+  "id": "/ur/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Komprimirajte sliku na bilo koju veličinu u KB",
   "short_name": "Komprimirajte sliku na bilo",
   "description": "Svaki alat za komprimiranje na veličinu: 16 ciljnih veličina u JPG, PNG i WebP, od 10 KB do 2 MB. Besplatno, u vašem pregledniku.",
-  "id": "/loona-image-compressor/hr/compress-image-sizes.html",
+  "id": "/hr/compress-image-sizes.html",
   "start_url": "./compress-image-sizes.html",
   "scope": "./compress-image-sizes.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona حجم الصورة الفوتوغرافية IBPS PO",
   "short_name": "حجم الصورة الفوتوغرافية IBPS",
   "description": "غيّر حجم الصورة الخاص بك لامتحان IBPS PO إلى حجم الإشعار (200 × 230 px) ونطاق 20–50 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/ibps-po-photo-size.html",
+  "id": "/ar/ibps-po-photo-size.html",
   "start_url": "./ibps-po-photo-size.html",
   "scope": "./ibps-po-photo-size.html",
   "display": "standalone",

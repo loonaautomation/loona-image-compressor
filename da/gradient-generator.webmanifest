@@ -2,7 +2,7 @@
   "name": "Loona CSS-forløbsgenerator",
   "short_name": "CSS-forløbsgenerator",
   "description": "Byg CSS lineære farveforløb med to eller tre farver og enhver vinkel, forhåndsvis dem live, og kopiér den færdige CSS-kode. Gratis, ingen tilmelding.",
-  "id": "/loona-image-compressor/da/gradient-generator.html",
+  "id": "/da/gradient-generator.html",
   "start_url": "./gradient-generator.html",
   "scope": "./gradient-generator.html",
   "display": "standalone",

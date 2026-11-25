@@ -2,7 +2,7 @@
   "name": "Loona ICAO Standart Pasaport Fotoğrafı (35×45 mm) Boyutu — 35×45mm (413×531px) Oluşturucu",
   "short_name": "ICAO Standart Pasaport Fotoğrafı (35×45 mm) Boyutu — 35×45mm (413×531px) Oluşturucu",
   "description": "Resmi boyut olan 35×45 mm (413×531 px) ölçüsünde, düz açık renk arka plan arka planlı bir ICAO Standart Pasaport Fotoğrafı (35×45 mm) oluşturun. Ücretsiz çevrimiçi oluşturucu — kırpın, indirin ve baskı sayfası alın, yükleme yok.",
-  "id": "/loona-image-compressor/tr/icao-passport-photo-size.html",
+  "id": "/tr/icao-passport-photo-size.html",
   "start_url": "./icao-passport-photo-size.html",
   "scope": "./icao-passport-photo-size.html",
   "display": "standalone",

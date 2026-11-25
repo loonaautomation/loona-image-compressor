@@ -2,7 +2,7 @@
   "name": "Loona יוצר תמונות NADRA / CNIC",
   "short_name": "יוצר תמונות NADRA / CNIC",
   "description": "צרו תמונת NADRA CNIC באינטרנט בחינם: בדיוק 350×467 px להעלאת Pak-ID וגודל הדפסה 35×45 מ",
-  "id": "/loona-image-compressor/he/nadra-cnic-photo-maker.html",
+  "id": "/he/nadra-cnic-photo-maker.html",
   "start_url": "./nadra-cnic-photo-maker.html",
   "scope": "./nadra-cnic-photo-maker.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Instagramのリールカバーサイズ",
   "short_name": "Instagramのリールカバーサイズ",
   "description": "Instagramのリールカバーを正確に1080×1920 pxで作成できます。ブラウザで使える無料のリサイズ・切り取りツールで、切り取られた文字や顔を防ぐセーフゾーンのルールも備えています。",
-  "id": "/loona-image-compressor/ja/instagram-reels-cover-size.html",
+  "id": "/ja/instagram-reels-cover-size.html",
   "start_url": "./instagram-reels-cover-size.html",
   "scope": "./instagram-reels-cover-size.html",
   "display": "standalone",

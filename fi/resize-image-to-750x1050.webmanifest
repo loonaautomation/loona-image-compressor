@@ -2,7 +2,7 @@
   "name": "Loona Muuta kuvan koko kokoon 750 × 1050 px verkossa",
   "short_name": "Muuta kuvan koko kokoon 750 ×",
   "description": "Muuta minkä tahansa kuvan koko tarkalleen kokoon 750×1050 px — Lompakkokoko — 2.5 × 3.5 tuumaa tarkkuudella 300 DPI. Ilmaiseksi selaimessasi rajausohjauksella; ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/resize-image-to-750x1050.html",
+  "id": "/fi/resize-image-to-750x1050.html",
   "start_url": "./resize-image-to-750x1050.html",
   "scope": "./resize-image-to-750x1050.html",
   "display": "standalone",

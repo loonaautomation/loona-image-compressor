@@ -2,7 +2,7 @@
   "name": "Loona Muuta kuvan kokoa",
   "short_name": "Muuta kuvan kokoa",
   "description": "Muuta minkä tahansa kuvan kokoa pikseleinä, cm:inä tai tuumina DPI-asetuksella ilmaiseksi. Säilytä kuvasuhde, valitse JPG, PNG tai WebP ja lataa heti — rekisteröitymistä ei tarvita.",
-  "id": "/loona-image-compressor/fi/resize-image.html",
+  "id": "/fi/resize-image.html",
   "start_url": "./resize-image.html",
   "scope": "./resize-image.html",
   "display": "standalone",

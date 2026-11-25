@@ -2,7 +2,7 @@
   "name": "Loona ایران پاسپورٹ تصویر کی تصویر کا سائز",
   "short_name": "ایران پاسپورٹ تصویر کی تصویر",
   "description": "سرکاری سائز 30×40 mm (354×472 px) پر ایران پاسپورٹ تصویر بنائیں، سادہ سفید یا ہلکا پس منظر کے ساتھ۔ مفت آن لائن میکر — کراپ، ڈاؤن لوڈ اور پرنٹ شیٹ، بغیر اپ لوڈ۔",
-  "id": "/loona-image-compressor/ur/iran-passport-photo-size.html",
+  "id": "/ur/iran-passport-photo-size.html",
   "start_url": "./iran-passport-photo-size.html",
   "scope": "./iran-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JPG → ICO Dönüştürücü – Ücretsiz, Yüklemesiz",
   "short_name": "JPG → ICO Dönüştürücü – Ücretsiz, Yüklemesiz",
   "description": "JPG formatını ICO formatına çevrimiçi, ücretsiz, tarayıcınızda dönüştürün. Cihazınızda gerçek dönüştürme — yükleme yok, kayıt yok, filigran yok.",
-  "id": "/loona-image-compressor/tr/jpg-to-ico.html",
+  "id": "/tr/jpg-to-ico.html",
   "start_url": "./jpg-to-ico.html",
   "scope": "./jpg-to-ico.html",
   "display": "standalone",

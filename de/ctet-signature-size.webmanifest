@@ -2,7 +2,7 @@
   "name": "Loona CTET Unterschrift Größe",
   "short_name": "CTET Unterschrift Größe",
   "description": "Passen Sie Ihr CTET-Unterschrift auf die Größe der Bekanntmachung (gescanntes Feld, Verhältnis etwa 7:2) und den Bereich 3–30 KB an. Kostenlos, in Ihrem Browser — ohne Upload, ohne Anmeldung.",
-  "id": "/loona-image-compressor/de/ctet-signature-size.html",
+  "id": "/de/ctet-signature-size.html",
   "start_url": "./ctet-signature-size.html",
   "scope": "./ctet-signature-size.html",
   "display": "standalone",

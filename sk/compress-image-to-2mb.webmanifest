@@ -2,7 +2,7 @@
   "name": "Loona Komprimovať obrázok na 2 MB online",
   "short_name": "Komprimovať obrázok na 2 MB",
   "description": "Komprimujte obrázky JPG, PNG a WebP na 2 MB alebo menej, online a zadarmo. Automatické vyhľadávanie kvality a veľkosti vo vašom prehliadači — bez registrácie, bez nahrávania.",
-  "id": "/loona-image-compressor/sk/compress-image-to-2mb.html",
+  "id": "/sk/compress-image-to-2mb.html",
   "start_url": "./compress-image-to-2mb.html",
   "scope": "./compress-image-to-2mb.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prohlížeč metadat obrázků a EXIF",
   "short_name": "Prohlížeč metadat obrázků a",
   "description": "Prohlédněte si skrytá metadata v libovolné fotografii JPG, PNG nebo WebP online zdarma — značku a model fotoaparátu, datum pořízení, expozici, ISO, ohniskovou vzdálenost, polohu GPS, základy IPTC a XMP. Nic se nenahrává: vaše fotografie nikdy neopustí vaše zařízení.",
-  "id": "/loona-image-compressor/cs/image-metadata-viewer.html",
+  "id": "/cs/image-metadata-viewer.html",
   "start_url": "./image-metadata-viewer.html",
   "scope": "./image-metadata-viewer.html",
   "display": "standalone",

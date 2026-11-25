@@ -2,7 +2,7 @@
   "name": "Loona Размер Подпись для SSC MTS",
   "short_name": "Размер Подпись для SSC MTS",
   "description": "Resize your SSC MTS signature to the notification size (140 × 60 px) and 10–20 KB band. Free, in your browser — no upload, no signup.",
-  "id": "/loona-image-compressor/ssc-mts-signature-size.html",
+  "id": "/ssc-mts-signature-size.html",
   "start_url": "./ssc-mts-signature-size.html",
   "scope": "./ssc-mts-signature-size.html",
   "display": "standalone",

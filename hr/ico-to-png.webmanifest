@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač ICO u PNG",
   "short_name": "Pretvarač ICO u PNG",
   "description": "Pretvorite ICO u PNG na mreži, besplatno, u svom pregledniku. Pravo pretvaranje na vašem uređaju — bez prijenosa, bez registracije, bez vodenih žigova.",
-  "id": "/loona-image-compressor/hr/ico-to-png.html",
+  "id": "/hr/ico-to-png.html",
   "start_url": "./ico-to-png.html",
   "scope": "./ico-to-png.html",
   "display": "standalone",

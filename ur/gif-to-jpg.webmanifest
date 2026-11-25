@@ -2,7 +2,7 @@
   "name": "Loona GIF تا JPG کنورٹر",
   "short_name": "GIF تا JPG کنورٹر",
   "description": "GIF کو JPG میں آن لائن مفت تبدیل کریں — GIF کو چھوٹی، ہمہ گیر JPG اسٹل میں بدلیں۔ آپ کے براؤزر میں: نہ سائن اپ، نہ اپ لوڈ، نہ واٹر مارک۔",
-  "id": "/loona-image-compressor/ur/gif-to-jpg.html",
+  "id": "/ur/gif-to-jpg.html",
   "start_url": "./gif-to-jpg.html",
   "scope": "./gif-to-jpg.html",
   "display": "standalone",

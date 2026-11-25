@@ -2,7 +2,7 @@
   "name": "Loona ממיר GIF ל־PNG",
   "short_name": "ממיר GIF ל־PNG",
   "description": "המירו GIF ל־PNG באינטרנט בחינם — תמונת סטילס נקייה וללא אובדן מה־GIF שלכם. מבוסס דפדפן, ללא הרשמה, ללא העלאה, ללא סימן מים.",
-  "id": "/loona-image-compressor/he/gif-to-png.html",
+  "id": "/he/gif-to-png.html",
   "start_url": "./gif-to-png.html",
   "scope": "./gif-to-png.html",
   "display": "standalone",

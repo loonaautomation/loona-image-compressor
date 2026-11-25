@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Poveste Instagram",
   "short_name": "Dimensiune Poveste Instagram",
   "description": "Creează un poveste Instagram la exact 1080×1920 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/instagram-story-size.html",
+  "id": "/ro/instagram-story-size.html",
   "start_url": "./instagram-story-size.html",
   "scope": "./instagram-story-size.html",
   "display": "standalone",

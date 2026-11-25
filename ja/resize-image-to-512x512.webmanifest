@@ -2,7 +2,7 @@
   "name": "Loona 画像を512 × 512にリサイズ",
   "short_name": "画像を512 × 512にリサイズ",
   "description": "あらゆる画像を正確に512 × 512ピクセル（アプリアイコン、アバター、ファビコンのマスター）に無料でリサイズできます。Cover、contain、stretch、JPGまたはPNG、即座にダウンロード — 登録不要、何もアップロードされません。",
-  "id": "/loona-image-compressor/ja/resize-image-to-512x512.html",
+  "id": "/ja/resize-image-to-512x512.html",
   "start_url": "./resize-image-to-512x512.html",
   "scope": "./resize-image-to-512x512.html",
   "display": "standalone",

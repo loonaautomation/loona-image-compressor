@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha Meme",
   "short_name": "Kizalishaji cha Meme",
   "description": "Badilisha picha yoyote kuwa meme ya kawaida yenye maandishi nene ya juu na chini — kizalishaji cha meme bure cha mtandaoni chenye hakiki ya moja kwa moja, chaguo za mandharinyuma tambarare na upakuaji wa PNG. Bila kujisajili, na picha yako haiondoki kwenye kifaa chako kamwe.",
-  "id": "/loona-image-compressor/sw/meme-generator.html",
+  "id": "/sw/meme-generator.html",
   "start_url": "./meme-generator.html",
   "scope": "./meme-generator.html",
   "display": "standalone",

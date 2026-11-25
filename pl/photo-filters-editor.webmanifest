@@ -2,7 +2,7 @@
   "name": "Loona Filtry i korekta zdjęć",
   "short_name": "Filtry i korekta zdjęć",
   "description": "Poprawiaj zdjęcia online za darmo: dostosuj jasność, kontrast i nasycenie, wyostrzaj jednym kliknięciem i korzystaj z gotowych ustawień, takich jak Poprawka paszportowa i Żywe.",
-  "id": "/loona-image-compressor/pl/photo-filters-editor.html",
+  "id": "/pl/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona UPSC NDA تصویر کا سائز",
   "short_name": "UPSC NDA تصویر کا سائز",
   "description": "اپنی UPSC NDA تصویر کو نوٹیفکیشن سائز (350 × 350 px) اور 20–300 KB بینڈ کے مطابق بنائیں۔ مفت، آپ کے براؤزر میں — نہ اپ لوڈ، نہ سائن اپ۔",
-  "id": "/loona-image-compressor/ur/upsc-nda-photo-size.html",
+  "id": "/ur/upsc-nda-photo-size.html",
   "start_url": "./upsc-nda-photo-size.html",
   "scope": "./upsc-nda-photo-size.html",
   "display": "standalone",

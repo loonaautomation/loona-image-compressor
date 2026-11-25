@@ -2,7 +2,7 @@
   "name": "Loona Αλλαγή Μεγέθους Εικόνας σε 1240 × 1754 px Online",
   "short_name": "Αλλαγή Μεγέθους Εικόνας σε",
   "description": "Αλλάξτε το μέγεθος οποιασδήποτε εικόνας σε ακριβώς 1240×1754 px — A4 στα 150 DPI. Δωρεάν στο πρόγραμμα περιήγησής σας με έλεγχο περικοπής· χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/resize-image-to-1240x1754.html",
+  "id": "/el/resize-image-to-1240x1754.html",
   "start_url": "./resize-image-to-1240x1754.html",
   "scope": "./resize-image-to-1240x1754.html",
   "display": "standalone",

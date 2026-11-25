@@ -2,7 +2,7 @@
   "name": "Loona ממיר BMP ל־PNG",
   "short_name": "ממיר BMP ל־PNG",
   "description": "המירו BMP ל־PNG באינטרנט בחינם — ללא אובדן, קטן בהרבה מ־BMP, ונתמך בכל מקום. רץ בדפדפן שלכם, ללא הרשמה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/bmp-to-png.html",
+  "id": "/he/bmp-to-png.html",
   "start_url": "./bmp-to-png.html",
   "scope": "./bmp-to-png.html",
   "display": "standalone",

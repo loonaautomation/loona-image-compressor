@@ -2,7 +2,7 @@
   "name": "Loona इमेज वॉटरमार्क",
   "short_name": "इमेज वॉटरमार्क",
   "description": "किसी भी फ़ोटो पर मुफ़्त ऑनलाइन टेक्स्ट वॉटरमार्क जोड़ें — टेक्स्ट, साइज़, रंग, ओपेसिटी और स्थिति चुनें, या इसे टाइल पैटर्न के रूप में दोहराएँ। लाइव प्रीव्यू, कोई साइनअप नहीं, और आपकी इमेज कभी आपके डिवाइस से बाहर नहीं जाती।",
-  "id": "/loona-image-compressor/hi/image-watermark.html",
+  "id": "/hi/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

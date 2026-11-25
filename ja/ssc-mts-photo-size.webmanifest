@@ -2,7 +2,7 @@
   "name": "Loona SSC MTSの写真サイズ",
   "short_name": "SSC MTSの写真サイズ",
   "description": "SSC MTSの写真を告知サイズ（200 × 230 px）と20–50 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
-  "id": "/loona-image-compressor/ja/ssc-mts-photo-size.html",
+  "id": "/ja/ssc-mts-photo-size.html",
   "start_url": "./ssc-mts-photo-size.html",
   "scope": "./ssc-mts-photo-size.html",
   "display": "standalone",

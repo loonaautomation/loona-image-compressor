@@ -2,7 +2,7 @@
   "name": "Loona Verificador de Contraste",
   "short_name": "Verificador de Contraste",
   "description": "Verifique as cores de texto e de fundo face às WCAG: rácio de contraste instantâneo com aprovação/reprovação AA e AAA para texto normal e grande, mais uma pré-visualização ao vivo. Gratuito, sem registo.",
-  "id": "/loona-image-compressor/pt/contrast-checker.html",
+  "id": "/pt/contrast-checker.html",
   "start_url": "./contrast-checker.html",
   "scope": "./contrast-checker.html",
   "display": "standalone",

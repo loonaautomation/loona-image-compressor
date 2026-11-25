@@ -2,7 +2,7 @@
   "name": "Loona TikTok Profil Resmi Boyutu — 720×720 px",
   "short_name": "TikTok Profil Resmi Boyutu — 720×720 px",
   "description": "Tam olarak 720×720 px ölçüsünde bir TikTok profil resmi oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/tiktok-profile-picture-size.html",
+  "id": "/tr/tiktok-profile-picture-size.html",
   "start_url": "./tiktok-profile-picture-size.html",
   "scope": "./tiktok-profile-picture-size.html",
   "display": "standalone",

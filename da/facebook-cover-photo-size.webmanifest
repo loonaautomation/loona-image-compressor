@@ -2,7 +2,7 @@
   "name": "Loona Facebook Omslagsfoto / sideomslag størrelse",
   "short_name": "Facebook Omslagsfoto /",
   "description": "Lav en Facebook omslagsfoto / sideomslag på præcis 1640×924 px. Gratis størrelses- og beskæringsværktøj i din browser med sikkerhedszonereglerne, der forhindrer beskåret tekst og ansigter.",
-  "id": "/loona-image-compressor/da/facebook-cover-photo-size.html",
+  "id": "/da/facebook-cover-photo-size.html",
   "start_url": "./facebook-cover-photo-size.html",
   "scope": "./facebook-cover-photo-size.html",
   "display": "standalone",

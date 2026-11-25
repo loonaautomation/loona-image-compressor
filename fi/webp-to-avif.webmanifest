@@ -2,7 +2,7 @@
   "name": "Loona WEBP",
   "short_name": "WEBP",
   "description": "Muunna WEBP muotoon AVIF verkossa, ilmaiseksi, selaimessasi. Aito muunnos laitteellasi — ilman palvelimelle lataamista, ilman rekisteröitymistä ja ilman vesileimoja.",
-  "id": "/loona-image-compressor/fi/webp-to-avif.html",
+  "id": "/fi/webp-to-avif.html",
   "start_url": "./webp-to-avif.html",
   "scope": "./webp-to-avif.html",
   "display": "standalone",

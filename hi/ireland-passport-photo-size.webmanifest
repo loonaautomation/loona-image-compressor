@@ -2,7 +2,7 @@
   "name": "Loona आयरलैंड पासपोर्ट फ़ोटो साइज़",
   "short_name": "आयरलैंड पासपोर्ट फ़ोटो साइज़",
   "description": "आधिकारिक साइज़ 35×45 mm (413×531 px) पर आयरलैंड पासपोर्ट फ़ोटो बनाएँ, सादा सफ़ेद या हल्का धूसर बैकग्राउंड. मुफ़्त ऑनलाइन मेकर — क्रॉप, डाउनलोड और प्रिंट शीट, बिना अपलोड.",
-  "id": "/loona-image-compressor/hi/ireland-passport-photo-size.html",
+  "id": "/hi/ireland-passport-photo-size.html",
   "start_url": "./ireland-passport-photo-size.html",
   "scope": "./ireland-passport-photo-size.html",
   "display": "standalone",

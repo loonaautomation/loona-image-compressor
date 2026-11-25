@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת שער / שער דף Facebook",
   "short_name": "גודל תמונת שער / שער דף",
   "description": "צרו תמונת שער / שער דף של Facebook בדיוק ב־1640×924 px. משנה גודל/חיתוך בחינם בדפדפן שלכם, עם כללי אזור הבטיחות שמונעים חיתוך של טקסט ופנים.",
-  "id": "/loona-image-compressor/he/facebook-cover-photo-size.html",
+  "id": "/he/facebook-cover-photo-size.html",
   "start_url": "./facebook-cover-photo-size.html",
   "scope": "./facebook-cover-photo-size.html",
   "display": "standalone",

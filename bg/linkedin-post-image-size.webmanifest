@@ -2,7 +2,7 @@
   "name": "Loona Размер на Изображение за публикация за LinkedIn",
   "short_name": "Размер на Изображение за",
   "description": "Направете изображение за публикация за LinkedIn на точно 1200×627 px. Безплатен инструмент за преоразмеряване/изрязване във вашия браузър с правилата за безопасната зона, които спират изрязване на текст и лица.",
-  "id": "/loona-image-compressor/bg/linkedin-post-image-size.html",
+  "id": "/bg/linkedin-post-image-size.html",
   "start_url": "./linkedin-post-image-size.html",
   "scope": "./linkedin-post-image-size.html",
   "display": "standalone",

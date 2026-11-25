@@ -2,7 +2,7 @@
   "name": "Loona Fotóháttér-cserélő",
   "short_name": "Fotóháttér-cserélő",
   "description": "Változtassa meg egy fotó hátterét fehérre, kékre, világosszürkére vagy pirosra ingyen online. Árasztásos kitöltés és ecseteszközök, privátan a böngészőjében, AI-feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/photo-background-changer.html",
+  "id": "/hu/photo-background-changer.html",
   "start_url": "./photo-background-changer.html",
   "scope": "./photo-background-changer.html",
   "display": "standalone",

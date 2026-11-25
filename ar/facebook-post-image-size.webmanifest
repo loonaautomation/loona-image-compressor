@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة المنشور / الرابط Facebook",
   "short_name": "حجم صورة المنشور / الرابط",
   "description": "اصنع صورة المنشور / الرابط Facebook بمقاس 1200×630 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/facebook-post-image-size.html",
+  "id": "/ar/facebook-post-image-size.html",
   "start_url": "./facebook-post-image-size.html",
   "scope": "./facebook-post-image-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha wa AFCAT",
   "short_name": "Ukubwa wa Picha wa AFCAT",
   "description": "Badilisha ukubwa wa picha yako ya AFCAT hadi ukubwa wa ilani (sentimita 3.5 × 4.5 (takriban px 413 × 531 katika DPI 300)) na kiwango cha KB 10–50. Bure, kwenye kivinjari chako — bila kupakia, bila kujisajili.",
-  "id": "/loona-image-compressor/sw/afcat-photo-size.html",
+  "id": "/sw/afcat-photo-size.html",
   "start_url": "./afcat-photo-size.html",
   "scope": "./afcat-photo-size.html",
   "display": "standalone",

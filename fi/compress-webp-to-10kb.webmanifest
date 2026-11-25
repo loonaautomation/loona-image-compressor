@@ -2,7 +2,7 @@
   "name": "Loona Pakkaa WebP kokoon 10 KB verkossa",
   "short_name": "Pakkaa WebP kokoon 10 KB",
   "description": "Pakkaa WebP-kuva kokoon 10 KB tai alle, ilmaiseksi selaimessasi. Automaattinen haku löytää parhaan mahtuvan laadun — ilman rekisteröitymistä ja ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/compress-webp-to-10kb.html",
+  "id": "/fi/compress-webp-to-10kb.html",
   "start_url": "./compress-webp-to-10kb.html",
   "scope": "./compress-webp-to-10kb.html",
   "display": "standalone",

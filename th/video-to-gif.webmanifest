@@ -2,7 +2,7 @@
   "name": "Loona Video to GIF Converter",
   "short_name": "Video to GIF Converter",
   "description": "แปลงวิดีโอเป็น GIF ออนไลน์ฟรี — เปลี่ยนคลิป MP4 หรือ WebM ให้เป็น GIF แบบเคลื่อนไหว ทำงานบนเบราว์เซอร์ ไม่ต้องสมัคร ไม่ต้องอัปโหลด ไม่มีลายน้ำ",
-  "id": "/loona-image-compressor/th/video-to-gif.html",
+  "id": "/th/video-to-gif.html",
   "start_url": "./video-to-gif.html",
   "scope": "./video-to-gif.html",
   "display": "standalone",

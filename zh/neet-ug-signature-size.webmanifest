@@ -2,7 +2,7 @@
   "name": "Loona NEET UG 签名尺寸",
   "short_name": "NEET UG 签名尺寸",
   "description": "将您的 NEET UG 签名调整为通知规定的尺寸（扫描框，比例约 7:2）和 4–30 KB 范围。免费，在您的浏览器中完成 — 无需上传，无需注册。",
-  "id": "/loona-image-compressor/zh/neet-ug-signature-size.html",
+  "id": "/zh/neet-ug-signature-size.html",
   "start_url": "./neet-ug-signature-size.html",
   "scope": "./neet-ug-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Remove GPS Location from a Photo",
   "short_name": "Remove GPS Location from a Photo",
   "description": "Remove only the GPS location from a JPG, PNG or WebP photo and keep the camera, date and exposure data. Byte-for-byte, no re-encoding, verified by a re-scan — 100% in your browser, nothing uploaded.",
-  "id": "/loona-image-compressor/en-us/remove-gps-from-photo.html",
+  "id": "/en-us/remove-gps-from-photo.html",
   "start_url": "./remove-gps-from-photo.html",
   "scope": "./remove-gps-from-photo.html",
   "display": "standalone",

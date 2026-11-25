@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Chữ ký UPSC Civil Services (IAS)",
   "short_name": "Kích thước Chữ ký UPSC Civil",
   "description": "Thay đổi kích thước chữ ký UPSC Civil Services (IAS) của bạn theo kích thước trong thông báo (khung quét, tỷ lệ khoảng 7:2) và dải 20–300 KB. Miễn phí, ngay trong trình duyệt của bạn — không tải lên, không đăng ký.",
-  "id": "/loona-image-compressor/vi/upsc-cse-signature-size.html",
+  "id": "/vi/upsc-cse-signature-size.html",
   "start_url": "./upsc-cse-signature-size.html",
   "scope": "./upsc-cse-signature-size.html",
   "display": "standalone",

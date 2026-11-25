@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Taulun kansi koko",
   "short_name": "Pinterest Taulun kansi koko",
   "description": "Tee Pinterest taulun kansi tarkalleen kokoon 800×450 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/pinterest-board-cover-size.html",
+  "id": "/fi/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",
   "scope": "./pinterest-board-cover-size.html",
   "display": "standalone",

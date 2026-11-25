@@ -2,7 +2,7 @@
   "name": "Loona ขนาดปกบอร์ด Pinterest",
   "short_name": "ขนาดปกบอร์ด Pinterest",
   "description": "ทำปกบอร์ด Pinterest ที่ขนาด 800×450 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/pinterest-board-cover-size.html",
+  "id": "/th/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",
   "scope": "./pinterest-board-cover-size.html",
   "display": "standalone",

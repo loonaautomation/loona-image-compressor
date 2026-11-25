@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Semnătură GATE",
   "short_name": "Dimensiune Semnătură GATE",
   "description": "Redimensionează semnătură pentru GATE la dimensiunea din notificare (casetă scanată, raport aproximativ 7:2) și intervalul 3–100 KB. Gratuit, în browserul tău — fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/gate-signature-size.html",
+  "id": "/ro/gate-signature-size.html",
   "start_url": "./gate-signature-size.html",
   "scope": "./gate-signature-size.html",
   "display": "standalone",

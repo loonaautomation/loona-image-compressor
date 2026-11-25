@@ -2,7 +2,7 @@
   "name": "Loona GATE ছবি আকার",
   "short_name": "GATE ছবি আকার",
   "description": "আপনার GATE ছবি বিজ্ঞপ্তির আকারে (480 × 640 px) এবং 5–200 KB ব্যান্ডে রিসাইজ করুন। বিনামূল্যে, আপনার ব্রাউজারে — আপলোড নেই, সাইনআপ নেই।",
-  "id": "/loona-image-compressor/bn/gate-photo-size.html",
+  "id": "/bn/gate-photo-size.html",
   "start_url": "./gate-photo-size.html",
   "scope": "./gate-photo-size.html",
   "display": "standalone",

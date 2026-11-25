@@ -2,7 +2,7 @@
   "name": "Loona Kokeen JEE Main Valokuva koko",
   "short_name": "Kokeen JEE Main Valokuva koko",
   "description": "Muuta kokeen JEE Main valokuva ilmoitettuun kokoon (3.5 × 4.5 cm (noin 413 × 531 px tarkkuudella 300 DPI)) ja välille 10–200 KB. Ilmaiseksi selaimessasi — ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/jee-main-photo-size.html",
+  "id": "/fi/jee-main-photo-size.html",
   "start_url": "./jee-main-photo-size.html",
   "scope": "./jee-main-photo-size.html",
   "display": "standalone",

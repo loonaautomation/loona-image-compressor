@@ -2,7 +2,7 @@
   "name": "Loona גודל חתימה SSC MTS",
   "short_name": "גודל חתימה SSC MTS",
   "description": "שנו את גודל ה־חתימה של SSC MTS לגודל ההודעה הרשמית (140 × 60 px) ולרצועת 10–20 KB. בחינם, בדפדפן שלכם — ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/ssc-mts-signature-size.html",
+  "id": "/he/ssc-mts-signature-size.html",
   "start_url": "./ssc-mts-signature-size.html",
   "scope": "./ssc-mts-signature-size.html",
   "display": "standalone",

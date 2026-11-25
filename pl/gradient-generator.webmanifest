@@ -2,7 +2,7 @@
   "name": "Loona Generator gradientów CSS",
   "short_name": "Generator gradientów CSS",
   "description": "Buduj gradienty liniowe CSS z dwóch lub trzech kolorów i dowolnego kąta, podglądaj je na żywo i kopiuj gotowy kod CSS. Za darmo, bez rejestracji.",
-  "id": "/loona-image-compressor/pl/gradient-generator.html",
+  "id": "/pl/gradient-generator.html",
   "start_url": "./gradient-generator.html",
   "scope": "./gradient-generator.html",
   "display": "standalone",

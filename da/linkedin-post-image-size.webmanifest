@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Opslagsbillede størrelse",
   "short_name": "LinkedIn Opslagsbillede",
   "description": "Lav en LinkedIn opslagsbillede på præcis 1200×627 px. Gratis størrelses- og beskæringsværktøj i din browser med sikkerhedszonereglerne, der forhindrer beskåret tekst og ansigter.",
-  "id": "/loona-image-compressor/da/linkedin-post-image-size.html",
+  "id": "/da/linkedin-post-image-size.html",
   "start_url": "./linkedin-post-image-size.html",
   "scope": "./linkedin-post-image-size.html",
   "display": "standalone",

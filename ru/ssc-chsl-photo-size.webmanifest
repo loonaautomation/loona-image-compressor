@@ -2,7 +2,7 @@
   "name": "Loona Размер Фотография для SSC CHSL",
   "short_name": "Размер Фотография для SSC CHSL",
   "description": "Resize your SSC CHSL photo to the notification size (200 × 230 px) and 20–50 KB band. Free, in your browser — no upload, no signup.",
-  "id": "/loona-image-compressor/ssc-chsl-photo-size.html",
+  "id": "/ssc-chsl-photo-size.html",
   "start_url": "./ssc-chsl-photo-size.html",
   "scope": "./ssc-chsl-photo-size.html",
   "display": "standalone",

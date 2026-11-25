@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة الملف الشخصي LinkedIn",
   "short_name": "حجم صورة الملف الشخصي LinkedIn",
   "description": "اصنع صورة الملف الشخصي LinkedIn بمقاس 400×400 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/linkedin-profile-picture-size.html",
+  "id": "/ar/linkedin-profile-picture-size.html",
   "start_url": "./linkedin-profile-picture-size.html",
   "scope": "./linkedin-profile-picture-size.html",
   "display": "standalone",

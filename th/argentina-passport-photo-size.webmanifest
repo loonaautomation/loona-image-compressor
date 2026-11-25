@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายหนังสือเดินทาง / DNI อาร์เจนตินา",
   "short_name": "ขนาดรูปถ่ายหนังสือเดินทาง /",
   "description": "ทำรูปถ่ายหนังสือเดินทาง / DNI อาร์เจนตินาที่ขนาดอย่างเป็นทางการ 40×40 mm (472×472 px) พื้นหลังขาวเรียบหรือฟ้าอ่อน เครื่องทำรูปออนไลน์ฟรี — ครอบตัด ดาวน์โหลด และแผ่นพิมพ์ ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/argentina-passport-photo-size.html",
+  "id": "/th/argentina-passport-photo-size.html",
   "start_url": "./argentina-passport-photo-size.html",
   "scope": "./argentina-passport-photo-size.html",
   "display": "standalone",

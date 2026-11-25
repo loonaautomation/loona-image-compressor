@@ -2,7 +2,7 @@
   "name": "Loona Kanadai útlevélfotó méret",
   "short_name": "Kanadai útlevélfotó méret",
   "description": "Készítsen Kanadai útlevélfotó fotót a hivatalos 50×70 mm (591×827 px) méretben, sima fehér vagy világos színű háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/canada-passport-photo-size.html",
+  "id": "/hu/canada-passport-photo-size.html",
   "start_url": "./canada-passport-photo-size.html",
   "scope": "./canada-passport-photo-size.html",
   "display": "standalone",

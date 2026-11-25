@@ -2,7 +2,7 @@
   "name": "Loona GIF تا PNG کنورٹر",
   "short_name": "GIF تا PNG کنورٹر",
   "description": "GIF کو PNG میں آن لائن مفت تبدیل کریں — اپنے GIF سے صاف، لاس لیس اسٹل تصویر۔ براؤزر پر مبنی، نہ سائن اپ، نہ اپ لوڈ، نہ واٹر مارک۔",
-  "id": "/loona-image-compressor/ur/gif-to-png.html",
+  "id": "/ur/gif-to-png.html",
   "start_url": "./gif-to-png.html",
   "scope": "./gif-to-png.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة تأشيرة الصين",
   "short_name": "حجم صورة تأشيرة الصين",
   "description": "اصنع صورة تأشيرة الصين بالحجم الرسمي 33×48 mm (390×567 px)، خلفية بيضاء سادة. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/china-visa-photo-size.html",
+  "id": "/ar/china-visa-photo-size.html",
   "start_url": "./china-visa-photo-size.html",
   "scope": "./china-visa-photo-size.html",
   "display": "standalone",

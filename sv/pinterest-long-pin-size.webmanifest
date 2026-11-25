@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Lång / Infografikpin Storlek",
   "short_name": "Pinterest Lång /",
   "description": "Skapa en Pinterest lång / infografikpin på exakt 1000×2100 px. Gratis storleksändrare/beskärare i din webbläsare med säker-zon-reglerna som stoppar beskuren text och ansikten.",
-  "id": "/loona-image-compressor/sv/pinterest-long-pin-size.html",
+  "id": "/sv/pinterest-long-pin-size.html",
   "start_url": "./pinterest-long-pin-size.html",
   "scope": "./pinterest-long-pin-size.html",
   "display": "standalone",

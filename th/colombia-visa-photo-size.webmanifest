@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายวีซ่าโคลอมเบีย",
   "short_name": "ขนาดรูปถ่ายวีซ่าโคลอมเบีย",
   "description": "ทำรูปถ่ายวีซ่าโคลอมเบียที่ขนาดอย่างเป็นทางการ 30×40 mm (354×472 px) พื้นหลังขาวเรียบ เครื่องทำรูปออนไลน์ฟรี — ครอบตัด ดาวน์โหลด และแผ่นพิมพ์ ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/colombia-visa-photo-size.html",
+  "id": "/th/colombia-visa-photo-size.html",
   "start_url": "./colombia-visa-photo-size.html",
   "scope": "./colombia-visa-photo-size.html",
   "display": "standalone",

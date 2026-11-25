@@ -2,7 +2,7 @@
   "name": "Loona Egyptisk pasfoto størrelse",
   "short_name": "Egyptisk pasfoto størrelse",
   "description": "Lav et Egyptisk pasfoto i den officielle størrelse 40×60 mm (472×709 px), ensfarvet hvid baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
-  "id": "/loona-image-compressor/da/egypt-passport-photo-size.html",
+  "id": "/da/egypt-passport-photo-size.html",
   "start_url": "./egypt-passport-photo-size.html",
   "scope": "./egypt-passport-photo-size.html",
   "display": "standalone",

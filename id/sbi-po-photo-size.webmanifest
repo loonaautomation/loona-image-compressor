@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto SBI PO",
   "short_name": "Ukuran Foto SBI PO",
   "description": "Ubah ukuran foto SBI PO Anda ke ukuran pemberitahuan (200 × 230 px) dan rentang 20–50 KB. Gratis, di browser Anda — tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/sbi-po-photo-size.html",
+  "id": "/id/sbi-po-photo-size.html",
   "start_url": "./sbi-po-photo-size.html",
   "scope": "./sbi-po-photo-size.html",
   "display": "standalone",

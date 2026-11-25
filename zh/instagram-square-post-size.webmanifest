@@ -2,7 +2,7 @@
   "name": "Loona Instagram 方形帖子（1:1） 尺寸",
   "short_name": "Instagram 方形帖子（1:1） 尺寸",
   "description": "按精确的 1080×1080 px 制作 Instagram 方形帖子（1:1）。在浏览器中免费调整大小/裁剪，附有安全区规则，防止文字和面部被裁掉。",
-  "id": "/loona-image-compressor/zh/instagram-square-post-size.html",
+  "id": "/zh/instagram-square-post-size.html",
   "start_url": "./instagram-square-post-size.html",
   "scope": "./instagram-square-post-size.html",
   "display": "standalone",

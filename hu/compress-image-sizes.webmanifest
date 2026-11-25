@@ -2,7 +2,7 @@
   "name": "Loona Kép tömörítése bármely KB-méretre",
   "short_name": "Kép tömörítése bármely",
   "description": "Minden méretre tömörítő eszköz: 16 célméret JPG, PNG és WebP formátumban, 10 KB-tól 2 MB-ig. Ingyen, a böngészőjében.",
-  "id": "/loona-image-compressor/hu/compress-image-sizes.html",
+  "id": "/hu/compress-image-sizes.html",
   "start_url": "./compress-image-sizes.html",
   "scope": "./compress-image-sizes.html",
   "display": "standalone",

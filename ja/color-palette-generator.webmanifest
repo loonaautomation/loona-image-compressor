@@ -2,7 +2,7 @@
   "name": "Loona カラーパレットジェネレーター",
   "short_name": "カラーパレットジェネレーター",
   "description": "任意の基本色から調和の取れたカラーパレットを生成 — 類似、補色、三色調和、単色のスキームと、コピー可能なHEXコード。無料、登録不要です。",
-  "id": "/loona-image-compressor/ja/color-palette-generator.html",
+  "id": "/ja/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",
   "scope": "./color-palette-generator.html",
   "display": "standalone",

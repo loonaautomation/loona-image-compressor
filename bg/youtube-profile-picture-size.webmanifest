@@ -2,7 +2,7 @@
   "name": "Loona Размер на Профилна снимка на канал за YouTube",
   "short_name": "Размер на Профилна снимка на",
   "description": "Направете профилна снимка на канал за YouTube на точно 800×800 px. Безплатен инструмент за преоразмеряване/изрязване във вашия браузър с правилата за безопасната зона, които спират изрязване на текст и лица.",
-  "id": "/loona-image-compressor/bg/youtube-profile-picture-size.html",
+  "id": "/bg/youtube-profile-picture-size.html",
   "start_url": "./youtube-profile-picture-size.html",
   "scope": "./youtube-profile-picture-size.html",
   "display": "standalone",

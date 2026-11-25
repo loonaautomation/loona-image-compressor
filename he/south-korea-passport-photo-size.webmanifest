@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת פספורט דרום קוריאה",
   "short_name": "גודל תמונת פספורט דרום קוריאה",
   "description": "צרו תמונת פספורט דרום קוריאה בגודל הרשמי 35×45 מ&quot;מ (413×531 px), רקע לבן חלק. כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/south-korea-passport-photo-size.html",
+  "id": "/he/south-korea-passport-photo-size.html",
   "start_url": "./south-korea-passport-photo-size.html",
   "scope": "./south-korea-passport-photo-size.html",
   "display": "standalone",

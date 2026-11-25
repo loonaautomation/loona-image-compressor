@@ -2,7 +2,7 @@
   "name": "Loona YouTube Channel Banner Size — 2560 × 1440 px",
   "short_name": "YouTube Channel Banner Size — 2560 × 1440 px",
   "description": "Make a YouTube channel banner at exactly 2560×1440 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/en-gb/youtube-banner-size.html",
+  "id": "/en-gb/youtube-banner-size.html",
   "start_url": "./youtube-banner-size.html",
   "scope": "./youtube-banner-size.html",
   "display": "standalone",

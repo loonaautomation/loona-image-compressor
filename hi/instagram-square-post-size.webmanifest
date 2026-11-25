@@ -2,7 +2,7 @@
   "name": "Loona Instagram वर्ग पोस्ट (1",
   "short_name": "Instagram वर्ग पोस्ट (1",
   "description": "Instagram वर्ग पोस्ट (1:1) ठीक 1080×1080 px पर बनाएँ. आपके ब्राउज़र में मुफ़्त रीसाइज़र/क्रॉपर, उन सेफ़-ज़ोन नियमों के साथ जो क्रॉप हुए टेक्स्ट और चेहरों को रोकते हैं.",
-  "id": "/loona-image-compressor/hi/instagram-square-post-size.html",
+  "id": "/hi/instagram-square-post-size.html",
   "start_url": "./instagram-square-post-size.html",
   "scope": "./instagram-square-post-size.html",
   "display": "standalone",

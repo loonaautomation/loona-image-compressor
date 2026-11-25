@@ -2,7 +2,7 @@
   "name": "Loona 带姓名和日期的考试照片",
   "short_name": "带姓名和日期的考试照片",
   "description": "免费创建一张在底部打印有您的姓名和日期的考试照片 — 巴基斯坦和印度使用的委员会考试格式。私密，无需注册。",
-  "id": "/loona-image-compressor/zh/exam-photo-name-date.html",
+  "id": "/zh/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona YouTube Kanavan profiilikuva koko",
   "short_name": "YouTube Kanavan profiilikuva",
   "description": "Tee YouTube kanavan profiilikuva tarkalleen kokoon 800×800 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/youtube-profile-picture-size.html",
+  "id": "/fi/youtube-profile-picture-size.html",
   "start_url": "./youtube-profile-picture-size.html",
   "scope": "./youtube-profile-picture-size.html",
   "display": "standalone",

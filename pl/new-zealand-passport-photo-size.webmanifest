@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do paszportu Nowej Zelandii",
   "short_name": "Rozmiar Zdjęcie do paszportu",
   "description": "Utwórz Zdjęcie do paszportu Nowej Zelandii w oficjalnym rozmiarze 35×45 mm (413×531 px), tło: gładkie, jasne, neutralne tło (wskazówka: nie czysto białe). Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/new-zealand-passport-photo-size.html",
+  "id": "/pl/new-zealand-passport-photo-size.html",
   "start_url": "./new-zealand-passport-photo-size.html",
   "scope": "./new-zealand-passport-photo-size.html",
   "display": "standalone",

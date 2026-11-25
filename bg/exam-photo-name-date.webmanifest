@@ -2,7 +2,7 @@
   "name": "Loona Снимка за изпит с име &amp; дата",
   "short_name": "Снимка за изпит с име &amp;",
   "description": "Създайте снимка за изпит с вашето име и дата, отпечатани отдолу, безплатно — формата за конкурсни изпити, използван в Пакистан и Индия. Лично, без необходима регистрация.",
-  "id": "/loona-image-compressor/bg/exam-photo-name-date.html",
+  "id": "/bg/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Аркуш для друку фото на паспорт",
   "short_name": "Аркуш для друку фото на",
   "description": "Розмістіть 4, 6 або 8 фото на паспорт на одному друкованому аркуші A4 безкоштовно з роздільною здатністю 300 DPI. Друкуйте на 100%, ріжте за напрямними й заощаджуйте гроші на студії. Без реєстрації, повністю приватно.",
-  "id": "/loona-image-compressor/uk/passport-photo-print-sheet.html",
+  "id": "/uk/passport-photo-print-sheet.html",
   "start_url": "./passport-photo-print-sheet.html",
   "scope": "./passport-photo-print-sheet.html",
   "display": "standalone",

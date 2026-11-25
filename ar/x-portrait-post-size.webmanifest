@@ -2,7 +2,7 @@
   "name": "Loona حجم منشور عمودي (4",
   "short_name": "حجم منشور عمودي (4",
   "description": "اصنع منشور عمودي (4:5) X (Twitter) بمقاس 1080×1350 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/x-portrait-post-size.html",
+  "id": "/ar/x-portrait-post-size.html",
   "start_url": "./x-portrait-post-size.html",
   "scope": "./x-portrait-post-size.html",
   "display": "standalone",

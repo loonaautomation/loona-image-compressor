@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Copertă de panou Pinterest",
   "short_name": "Dimensiune Copertă de panou",
   "description": "Creează un copertă de panou Pinterest la exact 800×450 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/pinterest-board-cover-size.html",
+  "id": "/ro/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",
   "scope": "./pinterest-board-cover-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Discord Profile Banner Size",
   "short_name": "Discord Profile Banner Size",
   "description": "Make a Discord profile banner at exactly 600×180 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/discord-profile-banner-size.html",
+  "id": "/discord-profile-banner-size.html",
   "start_url": "./discord-profile-banner-size.html",
   "scope": "./discord-profile-banner-size.html",
   "display": "standalone",

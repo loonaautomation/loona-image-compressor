@@ -2,7 +2,7 @@
   "name": "Loona IBPS Clerk (CSA) 签名尺寸",
   "short_name": "IBPS Clerk (CSA) 签名尺寸",
   "description": "将您的 IBPS Clerk (CSA) 签名调整为通知规定的尺寸（140 × 60 px）和 10–20 KB 范围。免费，在您的浏览器中完成 — 无需上传，无需注册。",
-  "id": "/loona-image-compressor/zh/ibps-clerk-signature-size.html",
+  "id": "/zh/ibps-clerk-signature-size.html",
   "start_url": "./ibps-clerk-signature-size.html",
   "scope": "./ibps-clerk-signature-size.html",
   "display": "standalone",

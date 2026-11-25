@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha HEIC kuwa JPG",
   "short_name": "Kibadilishaji cha HEIC kuwa JPG",
   "description": "Badilisha HEIC kuwa JPG mtandaoni, bure, kwenye kivinjari chako. Geuza picha za HEIC za iPhone kuwa JPG zinazofunguka popote — bila kupakia, bila kujisajili, bila alama za maji.",
-  "id": "/loona-image-compressor/sw/heic-to-jpg-converter.html",
+  "id": "/sw/heic-to-jpg-converter.html",
   "start_url": "./heic-to-jpg-converter.html",
   "scope": "./heic-to-jpg-converter.html",
   "display": "standalone",

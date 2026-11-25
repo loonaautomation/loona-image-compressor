@@ -2,7 +2,7 @@
   "name": "Loona Discord Inbjudningsbakgrund Storlek",
   "short_name": "Discord Inbjudningsbakgrund",
   "description": "Skapa en Discord inbjudningsbakgrund på exakt 1920×1080 px. Gratis storleksändrare/beskärare i din webbläsare med säker-zon-reglerna som stoppar beskuren text och ansikten.",
-  "id": "/loona-image-compressor/sv/discord-server-splash-size.html",
+  "id": "/sv/discord-server-splash-size.html",
   "start_url": "./discord-server-splash-size.html",
   "scope": "./discord-server-splash-size.html",
   "display": "standalone",

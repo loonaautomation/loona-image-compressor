@@ -2,7 +2,7 @@
   "name": "Loona Филтри &amp; поправки за снимки",
   "short_name": "Филтри &amp; поправки за",
   "description": "Поправяйте снимки онлайн безплатно: настройвайте яркост, контраст и наситеност, изостряйте с едно щракване и използвайте готови предварителни настройки като Passport Fix и Vivid.",
-  "id": "/loona-image-compressor/bg/photo-filters-editor.html",
+  "id": "/bg/photo-filters-editor.html",
   "start_url": "./photo-filters-editor.html",
   "scope": "./photo-filters-editor.html",
   "display": "standalone",

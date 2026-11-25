@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn آرٹیکل / نیوز لیٹر کور کا سائز",
   "short_name": "LinkedIn آرٹیکل / نیوز لیٹر",
   "description": "LinkedIn آرٹیکل / نیوز لیٹر کور بالکل 1200×644 px پر بنائیں۔ آپ کے براؤزر میں مفت ری سائزر/کراپر، محفوظ زون کے قواعد کے ساتھ جو کراپ شدہ متن اور چہروں کو روکتے ہیں۔",
-  "id": "/loona-image-compressor/ur/linkedin-article-cover-size.html",
+  "id": "/ur/linkedin-article-cover-size.html",
   "start_url": "./linkedin-article-cover-size.html",
   "scope": "./linkedin-article-cover-size.html",
   "display": "standalone",

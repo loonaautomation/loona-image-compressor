@@ -2,7 +2,7 @@
   "name": "Loona 在线将图片调整为 1748 × 2480 px",
   "short_name": "在线将图片调整为 1748 × 2480 px",
   "description": "将任何图片调整为精确的 1748×2480 px — 300 DPI 下的 A5。在浏览器中免费使用，带裁剪控制；无需上传，无需注册。",
-  "id": "/loona-image-compressor/zh/resize-image-to-1748x2480.html",
+  "id": "/zh/resize-image-to-1748x2480.html",
   "start_url": "./resize-image-to-1748x2480.html",
   "scope": "./resize-image-to-1748x2480.html",
   "display": "standalone",

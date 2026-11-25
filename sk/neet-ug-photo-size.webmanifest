@@ -2,7 +2,7 @@
   "name": "Loona Veľkosť NEET UG Fotografia",
   "short_name": "Veľkosť NEET UG Fotografia",
   "description": "Zmeňte veľkosť súboru NEET UG fotografia na veľkosť podľa oznámenia (3,5 × 4,5 cm (asi 413 × 531 px pri 300 DPI)) a pásmo 10–200 KB. Zadarmo, vo vašom prehliadači — bez nahrávania a bez registrácie.",
-  "id": "/loona-image-compressor/sk/neet-ug-photo-size.html",
+  "id": "/sk/neet-ug-photo-size.html",
   "start_url": "./neet-ug-photo-size.html",
   "scope": "./neet-ug-photo-size.html",
   "display": "standalone",

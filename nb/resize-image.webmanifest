@@ -2,7 +2,7 @@
   "name": "Loona Endre bildestørrelse",
   "short_name": "Endre bildestørrelse",
   "description": "Endre størrelsen på et hvilket som helst bilde med piksler, cm eller tommer med en DPI-innstilling gratis. Behold sideforholdet, velg JPG, PNG eller WebP og last ned umiddelbart — ingen registrering nødvendig.",
-  "id": "/loona-image-compressor/nb/resize-image.html",
+  "id": "/nb/resize-image.html",
   "start_url": "./resize-image.html",
   "scope": "./resize-image.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Formaat Facebook Evenementomslag",
   "short_name": "Formaat Facebook",
   "description": "Maak een Facebook evenementomslag op precies 1920×1005 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/facebook-event-cover-size.html",
+  "id": "/nl/facebook-event-cover-size.html",
   "start_url": "./facebook-event-cover-size.html",
   "scope": "./facebook-event-cover-size.html",
   "display": "standalone",

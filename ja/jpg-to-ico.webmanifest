@@ -2,7 +2,7 @@
   "name": "Loona JPGからICOへの変換ツール",
   "short_name": "JPGからICOへの変換ツール",
   "description": "JPGをICOにオンラインで変換できます。無料で、ブラウザ内で処理されます。お使いのデバイス上での実際の変換です — アップロード不要、登録不要、透かしなし。",
-  "id": "/loona-image-compressor/ja/jpg-to-ico.html",
+  "id": "/ja/jpg-to-ico.html",
   "start_url": "./jpg-to-ico.html",
   "scope": "./jpg-to-ico.html",
   "display": "standalone",

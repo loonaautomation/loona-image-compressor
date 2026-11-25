@@ -2,7 +2,7 @@
   "name": "Loona WebP से JPG कन्वर्टर",
   "short_name": "WebP से JPG कन्वर्टर",
   "description": "WebP को JPG में मुफ़्त ऑनलाइन बदलें ताकि आपकी इमेज हर ऐप, फ़ॉर्म और पुराने डिवाइस में खुलें। ब्राउज़र-आधारित — कोई साइनअप नहीं, कोई अपलोड नहीं, कोई वॉटरमार्क नहीं।",
-  "id": "/loona-image-compressor/hi/webp-to-jpg.html",
+  "id": "/hi/webp-to-jpg.html",
   "start_url": "./webp-to-jpg.html",
   "scope": "./webp-to-jpg.html",
   "display": "standalone",

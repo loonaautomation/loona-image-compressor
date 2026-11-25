@@ -2,7 +2,7 @@
   "name": "Loona Crea foto NADRA / CNIC",
   "short_name": "Crea foto NADRA / CNIC",
   "description": "Crea una foto CNIC NADRA online gratis: esattamente 350×467 px per il caricamento Pak-ID e formato di stampa 35×45 mm. Sfondo bianco, senza registrazione, completamente privato.",
-  "id": "/loona-image-compressor/it/nadra-cnic-photo-maker.html",
+  "id": "/it/nadra-cnic-photo-maker.html",
   "start_url": "./nadra-cnic-photo-maker.html",
   "scope": "./nadra-cnic-photo-maker.html",
   "display": "standalone",

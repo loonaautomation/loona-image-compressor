@@ -2,7 +2,7 @@
   "name": "Loona PNG تا JPG کنورٹر",
   "short_name": "PNG تا JPG کنورٹر",
   "description": "PNG کو JPG میں آن لائن مفت تبدیل کریں۔ فارموں، ای میل اور ویب سائٹس کے لیے چھوٹی فائلیں، سیدھے آپ کے براؤزر میں — نہ سائن اپ، نہ اپ لوڈ، نہ واٹر مارک۔",
-  "id": "/loona-image-compressor/ur/png-to-jpg.html",
+  "id": "/ur/png-to-jpg.html",
   "start_url": "./png-to-jpg.html",
   "scope": "./png-to-jpg.html",
   "display": "standalone",

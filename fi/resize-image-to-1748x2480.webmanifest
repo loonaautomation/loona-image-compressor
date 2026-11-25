@@ -2,7 +2,7 @@
   "name": "Loona Muuta kuvan koko kokoon 1748 × 2480 px verkossa",
   "short_name": "Muuta kuvan koko kokoon 1748",
   "description": "Muuta minkä tahansa kuvan koko tarkalleen kokoon 1748×2480 px — A5 tarkkuudella 300 DPI. Ilmaiseksi selaimessasi rajausohjauksella; ilman palvelimelle lataamista ja ilman rekisteröitymistä.",
-  "id": "/loona-image-compressor/fi/resize-image-to-1748x2480.html",
+  "id": "/fi/resize-image-to-1748x2480.html",
   "start_url": "./resize-image-to-1748x2480.html",
   "scope": "./resize-image-to-1748x2480.html",
   "display": "standalone",

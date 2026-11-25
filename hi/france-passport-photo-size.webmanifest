@@ -2,7 +2,7 @@
   "name": "Loona फ़्रांस पासपोर्ट / ID फ़ोटो साइज़",
   "short_name": "फ़्रांस पासपोर्ट / ID फ़ोटो",
   "description": "आधिकारिक साइज़ 35×45 mm (413×531 px) पर फ़्रांस पासपोर्ट / ID फ़ोटो बनाएँ, सादा हल्का धूसर या हल्का नीला बैकग्राउंड. मुफ़्त ऑनलाइन मेकर — क्रॉप, डाउनलोड और प्रिंट शीट, बिना अपलोड.",
-  "id": "/loona-image-compressor/hi/france-passport-photo-size.html",
+  "id": "/hi/france-passport-photo-size.html",
   "start_url": "./france-passport-photo-size.html",
   "scope": "./france-passport-photo-size.html",
   "display": "standalone",

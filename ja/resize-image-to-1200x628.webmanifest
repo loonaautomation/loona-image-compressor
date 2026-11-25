@@ -2,7 +2,7 @@
   "name": "Loona 画像を1200 × 628にリサイズ",
   "short_name": "画像を1200 × 628にリサイズ",
   "description": "あらゆる画像を正確に1200 × 628ピクセル（FacebookとLinkedInのリンク共有と広告）に無料でリサイズできます。Cover、contain、stretch、JPGまたはPNG、即座にダウンロード — 登録不要、何もアップロードされません。",
-  "id": "/loona-image-compressor/ja/resize-image-to-1200x628.html",
+  "id": "/ja/resize-image-to-1200x628.html",
   "start_url": "./resize-image-to-1200x628.html",
   "scope": "./resize-image-to-1200x628.html",
   "display": "standalone",

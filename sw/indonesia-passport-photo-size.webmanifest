@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Pasipoti ya Indonesia",
   "short_name": "Ukubwa wa Picha ya Pasipoti",
   "description": "Tengeneza Picha ya Pasipoti ya Indonesia katika ukubwa rasmi wa milimita 40×60 (px 472×709), mandharinyuma ya nyekundu (kwa pasipoti) — nyeupe kwa vitambulisho vingine vingi. Kitengenezaji bure cha mtandaoni — kata, pakua na uchapishe karatasi, bila kupakia.",
-  "id": "/loona-image-compressor/sw/indonesia-passport-photo-size.html",
+  "id": "/sw/indonesia-passport-photo-size.html",
   "start_url": "./indonesia-passport-photo-size.html",
   "scope": "./indonesia-passport-photo-size.html",
   "display": "standalone",

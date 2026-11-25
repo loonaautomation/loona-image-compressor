@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto NEET UG",
   "short_name": "Ukuran Foto NEET UG",
   "description": "Ubah ukuran foto NEET UG Anda ke ukuran pemberitahuan (3,5 × 4,5 cm (sekitar 413 × 531 px pada 300 DPI)) dan rentang 10–200 KB. Gratis, di browser Anda — tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/neet-ug-photo-size.html",
+  "id": "/id/neet-ug-photo-size.html",
   "start_url": "./neet-ug-photo-size.html",
   "scope": "./neet-ug-photo-size.html",
   "display": "standalone",

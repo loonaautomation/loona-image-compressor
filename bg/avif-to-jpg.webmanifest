@@ -2,7 +2,7 @@
   "name": "Loona Конвертор от AVIF в JPG",
   "short_name": "Конвертор от AVIF в JPG",
   "description": "Конвертирайте AVIF в JPG онлайн, безплатно, във вашия браузър. Истинско конвертиране на устройството ви — без качване, без регистрация, без водни знаци.",
-  "id": "/loona-image-compressor/bg/avif-to-jpg.html",
+  "id": "/bg/avif-to-jpg.html",
   "start_url": "./avif-to-jpg.html",
   "scope": "./avif-to-jpg.html",
   "display": "standalone",

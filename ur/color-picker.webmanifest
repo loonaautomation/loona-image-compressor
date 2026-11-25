@@ -2,7 +2,7 @@
   "name": "Loona رنگ منتخب کار",
   "short_name": "رنگ منتخب کار",
   "description": "کوئی بھی رنگ منتخب کریں اور اس کی HEX، RGB، HSL اور HSV قدریں فوراً کاپی کریں۔ ٹنٹ اور شیڈز پٹی شامل ہے — مفت، نہ سائن اپ، آپ کے براؤزر میں کام کرتا ہے۔",
-  "id": "/loona-image-compressor/ur/color-picker.html",
+  "id": "/ur/color-picker.html",
   "start_url": "./color-picker.html",
   "scope": "./color-picker.html",
   "display": "standalone",

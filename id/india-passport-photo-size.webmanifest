@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Paspor India",
   "short_name": "Ukuran Foto Paspor India",
   "description": "Buat Foto Paspor India pada ukuran resmi 51×51 mm (600×600 px), latar belakang putih polos. Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/india-passport-photo-size.html",
+  "id": "/id/india-passport-photo-size.html",
   "start_url": "./india-passport-photo-size.html",
   "scope": "./india-passport-photo-size.html",
   "display": "standalone",

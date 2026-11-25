@@ -2,7 +2,7 @@
   "name": "Loona A PNG tömörítése 1500 KB-ra online",
   "short_name": "A PNG tömörítése 1500 KB-ra",
   "description": "Tömörítsen egy PNG képet 1500 KB-ra vagy az alá, ingyen, a böngészőjében. Az automatikus keresés megtalálja a legjobb beleférő minőséget — regisztráció és feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/compress-png-to-1500kb.html",
+  "id": "/hu/compress-png-to-1500kb.html",
   "start_url": "./compress-png-to-1500kb.html",
   "scope": "./compress-png-to-1500kb.html",
   "display": "standalone",

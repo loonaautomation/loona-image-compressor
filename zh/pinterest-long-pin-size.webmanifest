@@ -2,7 +2,7 @@
   "name": "Loona Pinterest 长图钉 / 信息图图钉 尺寸",
   "short_name": "Pinterest 长图钉 / 信息图图钉 尺寸",
   "description": "按精确的 1000×2100 px 制作 Pinterest 长图钉 / 信息图图钉。在浏览器中免费调整大小/裁剪，附有安全区规则，防止文字和面部被裁掉。",
-  "id": "/loona-image-compressor/zh/pinterest-long-pin-size.html",
+  "id": "/zh/pinterest-long-pin-size.html",
   "start_url": "./pinterest-long-pin-size.html",
   "scope": "./pinterest-long-pin-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona บีบอัดรูปภาพให้เหลือ 150 KB ออนไลน์",
   "short_name": "บีบอัดรูปภาพให้เหลือ 150 KB",
   "description": "บีบอัดรูปภาพ JPG, PNG และ WebP ให้เหลือ 150 KB หรือต่ำกว่า ออนไลน์และฟรี การค้นหาคุณภาพและขนาดอัตโนมัติในเบราว์เซอร์ของคุณ — ไม่ต้องสมัครสมาชิก ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/compress-image-to-150kb.html",
+  "id": "/th/compress-image-to-150kb.html",
   "start_url": "./compress-image-to-150kb.html",
   "scope": "./compress-image-to-150kb.html",
   "display": "standalone",

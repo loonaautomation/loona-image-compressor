@@ -2,7 +2,7 @@
   "name": "Loona Görüntüyü 2 MB'ye Çevrimiçi Sıkıştır – Ücretsiz, Yüklemesiz",
   "short_name": "Görüntüyü 2 MB'ye Çevrimiçi Sıkıştır – Ücretsiz, Yüklemesiz",
   "description": "JPG, PNG ve WebP görüntülerini 2 MB veya altına, çevrimiçi ve ücretsiz sıkıştırın. Tarayıcınızda otomatik kalite ve boyut araması — kayıt yok, yükleme yok.",
-  "id": "/loona-image-compressor/tr/compress-image-to-2mb.html",
+  "id": "/tr/compress-image-to-2mb.html",
   "start_url": "./compress-image-to-2mb.html",
   "scope": "./compress-image-to-2mb.html",
   "display": "standalone",

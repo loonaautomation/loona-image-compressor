@@ -2,7 +2,7 @@
   "name": "Loona Discord Mukautettu emoji koko",
   "short_name": "Discord Mukautettu emoji koko",
   "description": "Tee Discord mukautettu emoji tarkalleen kokoon 128×128 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/discord-emoji-size.html",
+  "id": "/fi/discord-emoji-size.html",
   "start_url": "./discord-emoji-size.html",
   "scope": "./discord-emoji-size.html",
   "display": "standalone",

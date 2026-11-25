@@ -2,7 +2,7 @@
   "name": "Loona UK Visa Photo-størrelse",
   "short_name": "UK Visa Photo-størrelse",
   "description": "Lag et UK Visa Photo i den offisielle størrelsen 35×45 mm (600×750 px), ensfarget lys grå bakgrunn. Gratis verktøy på nett — beskjær, last ned og skriv ut ark, ingen opplasting.",
-  "id": "/loona-image-compressor/nb/uk-visa-photo-size.html",
+  "id": "/nb/uk-visa-photo-size.html",
   "start_url": "./uk-visa-photo-size.html",
   "scope": "./uk-visa-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Προσαρμοσμένο Emoji Discord",
   "short_name": "Προσαρμοσμένο Emoji Discord",
   "description": "Δημιουργήστε ένα προσαρμοσμένο emoji Discord σε ακριβώς 128×128 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/discord-emoji-size.html",
+  "id": "/el/discord-emoji-size.html",
   "start_url": "./discord-emoji-size.html",
   "scope": "./discord-emoji-size.html",
   "display": "standalone",

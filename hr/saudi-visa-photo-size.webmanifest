@@ -2,7 +2,7 @@
   "name": "Loona Veličina Fotografija za vizu Saudijske Arabije",
   "short_name": "Veličina Fotografija za vizu",
   "description": "Izradite Fotografija za vizu Saudijske Arabije u službenoj veličini 40×60 mm (472×709 px), pozadina jednobojna bijela. Besplatni mrežni izrađivač — izrežite, preuzmite i ispišite list, bez prijenosa.",
-  "id": "/loona-image-compressor/hr/saudi-visa-photo-size.html",
+  "id": "/hr/saudi-visa-photo-size.html",
   "start_url": "./saudi-visa-photo-size.html",
   "scope": "./saudi-visa-photo-size.html",
   "display": "standalone",

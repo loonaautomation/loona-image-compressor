@@ -2,7 +2,7 @@
   "name": "Loona Prevodník formátov obrázkov",
   "short_name": "Prevodník formátov obrázkov",
   "description": "Prevádajte obrázky medzi JPG, PNG a WebP online zadarmo, v dávkach, s kontrolou kvality a zlúčením priehľadného pozadia. Registrácia nie je potrebná.",
-  "id": "/loona-image-compressor/sk/image-format-converter.html",
+  "id": "/sk/image-format-converter.html",
   "start_url": "./image-format-converter.html",
   "scope": "./image-format-converter.html",
   "display": "standalone",

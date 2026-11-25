@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายหนังสือเดินทางมาตรฐาน ICAO (35×45 mm)",
   "short_name": "ขนาดรูปถ่ายหนังสือเดินทางมาตรฐ",
   "description": "ทำรูปถ่ายหนังสือเดินทางมาตรฐาน ICAO (35×45 mm)ที่ขนาดอย่างเป็นทางการ 35×45 mm (413×531 px) พื้นหลังพื้นหลังสีอ่อนเรียบ เครื่องทำรูปออนไลน์ฟรี — ครอบตัด ดาวน์โหลด และแผ่นพิมพ์ ไม่มีการอัปโหลด",
-  "id": "/loona-image-compressor/th/icao-passport-photo-size.html",
+  "id": "/th/icao-passport-photo-size.html",
   "start_url": "./icao-passport-photo-size.html",
   "scope": "./icao-passport-photo-size.html",
   "display": "standalone",

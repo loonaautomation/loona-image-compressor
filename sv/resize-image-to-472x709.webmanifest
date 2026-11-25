@@ -2,7 +2,7 @@
   "name": "Loona Ändra bildstorlek till 472 × 709 px online",
   "short_name": "Ändra bildstorlek till 472 ×",
   "description": "Ändra storlek på valfri bild till exakt 472×709 px — 40 × 60 mm vid 300 DPI — UAE/Saudi/Egypten/Vietnams fotostorlek. Gratis i din webbläsare med beskärningskontroll; ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/resize-image-to-472x709.html",
+  "id": "/sv/resize-image-to-472x709.html",
   "start_url": "./resize-image-to-472x709.html",
   "scope": "./resize-image-to-472x709.html",
   "display": "standalone",

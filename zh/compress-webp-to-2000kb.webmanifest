@@ -2,7 +2,7 @@
   "name": "Loona 在线将 WebP 压缩到 2000 KB",
   "short_name": "在线将 WebP 压缩到 2000 KB",
   "description": "在浏览器中免费将 WebP 图片压缩到 2000 KB 或更小。自动搜索可在限制内达到的最佳质量 — 无需注册，无需上传。",
-  "id": "/loona-image-compressor/zh/compress-webp-to-2000kb.html",
+  "id": "/zh/compress-webp-to-2000kb.html",
   "start_url": "./compress-webp-to-2000kb.html",
   "scope": "./compress-webp-to-2000kb.html",
   "display": "standalone",

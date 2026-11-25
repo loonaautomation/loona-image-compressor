@@ -2,7 +2,7 @@
   "name": "Loona TikTok پروفائل تصویر کا سائز",
   "short_name": "TikTok پروفائل تصویر کا سائز",
   "description": "TikTok پروفائل تصویر بالکل 720×720 px پر بنائیں۔ آپ کے براؤزر میں مفت ری سائزر/کراپر، محفوظ زون کے قواعد کے ساتھ جو کراپ شدہ متن اور چہروں کو روکتے ہیں۔",
-  "id": "/loona-image-compressor/ur/tiktok-profile-picture-size.html",
+  "id": "/ur/tiktok-profile-picture-size.html",
   "start_url": "./tiktok-profile-picture-size.html",
   "scope": "./tiktok-profile-picture-size.html",
   "display": "standalone",

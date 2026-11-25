@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Picha kuwa PDF",
   "short_name": "Kibadilishaji cha Picha kuwa",
   "description": "Badilisha picha kuwa PDF mtandaoni bure: ongeza picha za JPG, PNG au WebP, chagua kurasa za A4, Letter au patanisha-na-picha na upakue PDF moja nadhifu. Hakuna upakiaji.",
-  "id": "/loona-image-compressor/sw/photo-to-pdf.html",
+  "id": "/sw/photo-to-pdf.html",
   "start_url": "./photo-to-pdf.html",
   "scope": "./photo-to-pdf.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Discord Profilbanner Storlek",
   "short_name": "Discord Profilbanner Storlek",
   "description": "Skapa en Discord profilbanner på exakt 600×180 px. Gratis storleksändrare/beskärare i din webbläsare med säker-zon-reglerna som stoppar beskuren text och ansikten.",
-  "id": "/loona-image-compressor/sv/discord-profile-banner-size.html",
+  "id": "/sv/discord-profile-banner-size.html",
   "start_url": "./discord-profile-banner-size.html",
   "scope": "./discord-profile-banner-size.html",
   "display": "standalone",

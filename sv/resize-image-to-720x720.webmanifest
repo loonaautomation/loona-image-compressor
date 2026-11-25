@@ -2,7 +2,7 @@
   "name": "Loona Ändra bildstorlek till 720 × 720 px online",
   "short_name": "Ändra bildstorlek till 720 ×",
   "description": "Ändra storlek på valfri bild till exakt 720×720 px — Facebook-profilminimum &amp; allmän avatarstorlek. Gratis i din webbläsare med beskärningskontroll; ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/resize-image-to-720x720.html",
+  "id": "/sv/resize-image-to-720x720.html",
   "start_url": "./resize-image-to-720x720.html",
   "scope": "./resize-image-to-720x720.html",
   "display": "standalone",

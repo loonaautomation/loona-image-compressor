@@ -2,7 +2,7 @@
   "name": "Loona Rozmycie twarzy",
   "short_name": "Rozmycie twarzy",
   "description": "Rozmyj lub pikselizuj twarze, tablice rejestracyjne i prywatne szczegóły na dowolnym zdjęciu. Sam zaznaczasz obszary, wybierasz siłę, podglądasz i pobierasz — za darmo, bez rejestracji, a Twoje zdjęcie nigdy nie opuszcza urządzenia.",
-  "id": "/loona-image-compressor/pl/face-blur.html",
+  "id": "/pl/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

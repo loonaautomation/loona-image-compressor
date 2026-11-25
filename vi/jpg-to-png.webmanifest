@@ -2,7 +2,7 @@
   "name": "Loona Trình chuyển đổi JPG sang PNG",
   "short_name": "Trình chuyển đổi JPG sang PNG",
   "description": "Chuyển đổi JPG sang PNG trực tuyến miễn phí — đầu ra không mất dữ liệu cho trình chỉnh sửa, công cụ thiết kế và tài liệu. Chạy trong trình duyệt của bạn, không cần đăng ký, không tải lên.",
-  "id": "/loona-image-compressor/vi/jpg-to-png.html",
+  "id": "/vi/jpg-to-png.html",
   "start_url": "./jpg-to-png.html",
   "scope": "./jpg-to-png.html",
   "display": "standalone",

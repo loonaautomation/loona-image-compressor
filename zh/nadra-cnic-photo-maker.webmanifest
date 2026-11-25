@@ -2,7 +2,7 @@
   "name": "Loona NADRA / CNIC 照片制作工具",
   "short_name": "NADRA / CNIC 照片制作工具",
   "description": "免费在线制作 NADRA CNIC 照片：用于 Pak-ID 上传的精确 350×467 px 和 35×45 mm 打印尺寸。白色背景，无需注册，完全私密。",
-  "id": "/loona-image-compressor/zh/nadra-cnic-photo-maker.html",
+  "id": "/zh/nadra-cnic-photo-maker.html",
   "start_url": "./nadra-cnic-photo-maker.html",
   "scope": "./nadra-cnic-photo-maker.html",
   "display": "standalone",

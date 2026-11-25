@@ -2,7 +2,7 @@
   "name": "Loona ממיר HEIC ל־JPG",
   "short_name": "ממיר HEIC ל־JPG",
   "description": "המירו HEIC ל־JPG באינטרנט, בחינם, בדפדפן שלכם. הפכו תמונות HEIC מ־iPhone ל־JPG שנפתח בכל מקום — ללא העלאה, ללא הרשמה, ללא סימני מים.",
-  "id": "/loona-image-compressor/he/heic-to-jpg-converter.html",
+  "id": "/he/heic-to-jpg-converter.html",
   "start_url": "./heic-to-jpg-converter.html",
   "scope": "./heic-to-jpg-converter.html",
   "display": "standalone",

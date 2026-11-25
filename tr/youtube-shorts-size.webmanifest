@@ -2,7 +2,7 @@
   "name": "Loona YouTube Shorts Kapağı / Karesi Boyutu — 1080×1920 px",
   "short_name": "YouTube Shorts Kapağı / Karesi Boyutu — 1080×1920 px",
   "description": "Tam olarak 1080×1920 px ölçüsünde bir YouTube shorts kapağı / karesi oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/youtube-shorts-size.html",
+  "id": "/tr/youtube-shorts-size.html",
   "start_url": "./youtube-shorts-size.html",
   "scope": "./youtube-shorts-size.html",
   "display": "standalone",

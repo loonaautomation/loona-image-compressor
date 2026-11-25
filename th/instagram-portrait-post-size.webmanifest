@@ -2,7 +2,7 @@
   "name": "Loona ขนาดโพสต์แนวตั้ง (4",
   "short_name": "ขนาดโพสต์แนวตั้ง (4",
   "description": "ทำโพสต์แนวตั้ง (4:5) Instagram ที่ขนาด 1080×1350 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/instagram-portrait-post-size.html",
+  "id": "/th/instagram-portrait-post-size.html",
   "start_url": "./instagram-portrait-post-size.html",
   "scope": "./instagram-portrait-post-size.html",
   "display": "standalone",

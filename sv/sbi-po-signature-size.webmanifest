@@ -2,7 +2,7 @@
   "name": "Loona SBI PO Signatur Storlek",
   "short_name": "SBI PO Signatur Storlek",
   "description": "Ändra storlek på ditt SBI PO signatur till anmälningsstorleken (140 × 60 px) och bandet 10–20 KB. Gratis, i din webbläsare — ingen uppladdning, ingen registrering.",
-  "id": "/loona-image-compressor/sv/sbi-po-signature-size.html",
+  "id": "/sv/sbi-po-signature-size.html",
   "start_url": "./sbi-po-signature-size.html",
   "scope": "./sbi-po-signature-size.html",
   "display": "standalone",

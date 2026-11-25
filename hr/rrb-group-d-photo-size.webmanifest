@@ -2,7 +2,7 @@
   "name": "Loona Veličina RRB Group D (Railways) Fotografija",
   "short_name": "Veličina RRB Group D",
   "description": "Promijenite veličinu svoje RRB Group D (Railways) fotografiju na veličinu iz obavijesti (320 × 240 px) i pojas 30–70 KB. Besplatno, u vašem pregledniku — bez prijenosa, bez registracije.",
-  "id": "/loona-image-compressor/hr/rrb-group-d-photo-size.html",
+  "id": "/hr/rrb-group-d-photo-size.html",
   "start_url": "./rrb-group-d-photo-size.html",
   "scope": "./rrb-group-d-photo-size.html",
   "display": "standalone",

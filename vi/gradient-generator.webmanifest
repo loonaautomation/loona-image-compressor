@@ -2,7 +2,7 @@
   "name": "Loona Trình tạo dải chuyển màu CSS",
   "short_name": "Trình tạo dải chuyển màu CSS",
   "description": "Tạo dải chuyển màu tuyến tính CSS với hai hoặc ba màu và mọi góc độ, xem trước trực tiếp và sao chép mã CSS sẵn sàng. Miễn phí, không cần đăng ký.",
-  "id": "/loona-image-compressor/vi/gradient-generator.html",
+  "id": "/vi/gradient-generator.html",
   "start_url": "./gradient-generator.html",
   "scope": "./gradient-generator.html",
   "display": "standalone",

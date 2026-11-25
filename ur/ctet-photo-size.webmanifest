@@ -2,7 +2,7 @@
   "name": "Loona CTET تصویر کا سائز",
   "short_name": "CTET تصویر کا سائز",
   "description": "اپنی CTET تصویر کو نوٹیفکیشن سائز (3.5 × 4.5 cm (تقریباً 413 × 531 px، 300 DPI پر)) اور 10–100 KB بینڈ کے مطابق بنائیں۔ مفت، آپ کے براؤزر میں — نہ اپ لوڈ، نہ سائن اپ۔",
-  "id": "/loona-image-compressor/ur/ctet-photo-size.html",
+  "id": "/ur/ctet-photo-size.html",
   "start_url": "./ctet-photo-size.html",
   "scope": "./ctet-photo-size.html",
   "display": "standalone",

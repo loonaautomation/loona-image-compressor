@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Profil- / Sidbanner Storlek",
   "short_name": "LinkedIn Profil- / Sidbanner",
   "description": "Skapa en LinkedIn profil- / sidbanner på exakt 1584×396 px. Gratis storleksändrare/beskärare i din webbläsare med säker-zon-reglerna som stoppar beskuren text och ansikten.",
-  "id": "/loona-image-compressor/sv/linkedin-banner-size.html",
+  "id": "/sv/linkedin-banner-size.html",
   "start_url": "./linkedin-banner-size.html",
   "scope": "./linkedin-banner-size.html",
   "display": "standalone",

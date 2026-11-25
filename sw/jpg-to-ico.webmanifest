@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha JPG kuwa ICO",
   "short_name": "Kibadilishaji cha JPG kuwa ICO",
   "description": "Badilisha JPG kuwa ICO mtandaoni, bure, kwenye kivinjari chako. Ubadilishaji halisi kwenye kifaa chako — bila kupakia, bila kujisajili, bila alama za maji.",
-  "id": "/loona-image-compressor/sw/jpg-to-ico.html",
+  "id": "/sw/jpg-to-ico.html",
   "start_url": "./jpg-to-ico.html",
   "scope": "./jpg-to-ico.html",
   "display": "standalone",

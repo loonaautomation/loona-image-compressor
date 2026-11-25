@@ -2,7 +2,7 @@
   "name": "Loona Размер на Снимка за RRB Group D (Railways)",
   "short_name": "Размер на Снимка за RRB Group",
   "description": "Преоразмерете своя снимка за RRB Group D (Railways) до размера от уведомлението (320 × 240 px) и диапазона 30–70 KB. Безплатно, във вашия браузър — без качване, без регистрация.",
-  "id": "/loona-image-compressor/bg/rrb-group-d-photo-size.html",
+  "id": "/bg/rrb-group-d-photo-size.html",
   "start_url": "./rrb-group-d-photo-size.html",
   "scope": "./rrb-group-d-photo-size.html",
   "display": "standalone",

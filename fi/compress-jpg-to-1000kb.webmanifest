@@ -2,7 +2,7 @@
   "name": "Loona Pakkaa JPG kokoon 1000 KB verkossa",
   "short_name": "Pakkaa JPG kokoon 1000 KB",
   "description": "Pakkaa JPG-kuva kokoon 1000 KB tai alle, ilmaiseksi selaimessasi. Automaattinen haku löytää parhaan mahtuvan laadun — ilman rekisteröitymistä ja ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/compress-jpg-to-1000kb.html",
+  "id": "/fi/compress-jpg-to-1000kb.html",
   "start_url": "./compress-jpg-to-1000kb.html",
   "scope": "./compress-jpg-to-1000kb.html",
   "display": "standalone",

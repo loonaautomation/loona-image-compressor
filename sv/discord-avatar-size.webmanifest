@@ -2,7 +2,7 @@
   "name": "Loona Discord Användaravatar Storlek",
   "short_name": "Discord Användaravatar Storlek",
   "description": "Skapa en Discord användaravatar på exakt 800×800 px. Gratis storleksändrare/beskärare i din webbläsare med säker-zon-reglerna som stoppar beskuren text och ansikten.",
-  "id": "/loona-image-compressor/sv/discord-avatar-size.html",
+  "id": "/sv/discord-avatar-size.html",
   "start_url": "./discord-avatar-size.html",
   "scope": "./discord-avatar-size.html",
   "display": "standalone",

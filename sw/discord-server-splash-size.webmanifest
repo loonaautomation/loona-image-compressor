@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Mwaliko wa Splash wa Discord",
   "short_name": "Ukubwa wa Mwaliko wa Splash",
   "description": "Tengeneza mwaliko wa splash ya Discord katika px 1920×1080 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/discord-server-splash-size.html",
+  "id": "/sw/discord-server-splash-size.html",
   "start_url": "./discord-server-splash-size.html",
   "scope": "./discord-server-splash-size.html",
   "display": "standalone",

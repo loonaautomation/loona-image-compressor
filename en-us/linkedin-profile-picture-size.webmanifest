@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Profile Photo Size — 400 × 400 px",
   "short_name": "LinkedIn Profile Photo Size — 400 × 400 px",
   "description": "Make a LinkedIn profile photo at exactly 400×400 px. Free resizer/cropper in your browser with the safe-zone rules that stop cropped text and faces.",
-  "id": "/loona-image-compressor/en-us/linkedin-profile-picture-size.html",
+  "id": "/en-us/linkedin-profile-picture-size.html",
   "start_url": "./linkedin-profile-picture-size.html",
   "scope": "./linkedin-profile-picture-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona גודל תמונת פספורט הונג קונג",
   "short_name": "גודל תמונת פספורט הונג קונג",
   "description": "צרו תמונת פספורט הונג קונג בגודל הרשמי 40×50 מ&quot;מ (472×591 px), רקע לבן חלק. כלי יצירה מקוון בחינם — חיתוך, הורדה וגיליון הדפסה, ללא העלאה.",
-  "id": "/loona-image-compressor/he/hong-kong-passport-photo-size.html",
+  "id": "/he/hong-kong-passport-photo-size.html",
   "start_url": "./hong-kong-passport-photo-size.html",
   "scope": "./hong-kong-passport-photo-size.html",
   "display": "standalone",

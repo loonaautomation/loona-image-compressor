@@ -2,7 +2,7 @@
   "name": "Loona Kép átméretezése 472 × 709 px méretre online",
   "short_name": "Kép átméretezése 472 × 709 px",
   "description": "Méretezzen át bármely képet pontosan 472×709 px méretre — 40 × 60 mm 300 DPI mellett — EAE/Szaúd-Arábia/Egyiptom/Vietnám fotómérete. Ingyen, a böngészőjében, vágási vezérléssel; feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/resize-image-to-472x709.html",
+  "id": "/hu/resize-image-to-472x709.html",
   "start_url": "./resize-image-to-472x709.html",
   "scope": "./resize-image-to-472x709.html",
   "display": "standalone",

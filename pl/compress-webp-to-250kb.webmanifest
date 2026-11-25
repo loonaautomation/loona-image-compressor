@@ -2,7 +2,7 @@
   "name": "Loona Kompresuj WebP do 250 KB online",
   "short_name": "Kompresuj WebP do 250 KB",
   "description": "Kompresuj obraz WebP do 250 KB lub mniej, za darmo w przeglądarce. Automatyczne wyszukiwanie znajduje najlepszą jakość, która się mieści — bez rejestracji, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/compress-webp-to-250kb.html",
+  "id": "/pl/compress-webp-to-250kb.html",
   "start_url": "./compress-webp-to-250kb.html",
   "scope": "./compress-webp-to-250kb.html",
   "display": "standalone",

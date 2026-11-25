@@ -2,7 +2,7 @@
   "name": "Loona Veľkosť Fotografia pre schengenské vízum",
   "short_name": "Veľkosť Fotografia pre",
   "description": "Vytvorte Fotografia pre schengenské vízum v oficiálnej veľkosti 35×45 mm (413×531 px), pozadie: svetlosivé alebo jednofarebné svetlé pozadie. Bezplatný online tvorca — orezanie, stiahnutie a tlačový hárok, bez nahrávania.",
-  "id": "/loona-image-compressor/sk/schengen-visa-photo-size.html",
+  "id": "/sk/schengen-visa-photo-size.html",
   "start_url": "./schengen-visa-photo-size.html",
   "scope": "./schengen-visa-photo-size.html",
   "display": "standalone",

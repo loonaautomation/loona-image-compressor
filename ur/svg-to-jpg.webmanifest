@@ -2,7 +2,7 @@
   "name": "Loona SVG تا JPG کنورٹر",
   "short_name": "SVG تا JPG کنورٹر",
   "description": "SVG کو JPG میں آن لائن مفت تبدیل کریں — ویکٹر لوگو اور تصویروں کو کسی بھی چوڑائی پر ہمہ گیر JPGs کے طور پر پیش کریں۔ نہ سائن اپ، نہ اپ لوڈ، آپ کے براؤزر میں۔",
-  "id": "/loona-image-compressor/ur/svg-to-jpg.html",
+  "id": "/ur/svg-to-jpg.html",
   "start_url": "./svg-to-jpg.html",
   "scope": "./svg-to-jpg.html",
   "display": "standalone",

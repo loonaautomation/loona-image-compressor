@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Tin Facebook",
   "short_name": "Kích thước Tin Facebook",
   "description": "Tạo tin Facebook chính xác 1080×1920 px. Công cụ thay đổi kích thước/cắt ảnh miễn phí trong trình duyệt của bạn, kèm các quy tắc vùng an toàn giúp văn bản và khuôn mặt không bị cắt mất.",
-  "id": "/loona-image-compressor/vi/facebook-story-size.html",
+  "id": "/vi/facebook-story-size.html",
   "start_url": "./facebook-story-size.html",
   "scope": "./facebook-story-size.html",
   "display": "standalone",

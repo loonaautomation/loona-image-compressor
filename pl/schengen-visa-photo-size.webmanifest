@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do wizy Schengen",
   "short_name": "Rozmiar Zdjęcie do wizy",
   "description": "Utwórz Zdjęcie do wizy Schengen w oficjalnym rozmiarze 35×45 mm (413×531 px), tło: jasnoszare lub gładkie jasne tło. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/schengen-visa-photo-size.html",
+  "id": "/pl/schengen-visa-photo-size.html",
   "start_url": "./schengen-visa-photo-size.html",
   "scope": "./schengen-visa-photo-size.html",
   "display": "standalone",

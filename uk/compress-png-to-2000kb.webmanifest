@@ -2,7 +2,7 @@
   "name": "Loona Стиснути PNG до 2000 KB онлайн",
   "short_name": "Стиснути PNG до 2000 KB онлайн",
   "description": "Стисніть зображення PNG до 2000 KB або менше, безкоштовно у вашому браузері. Автоматичний пошук знаходить найкращу якість, що вміщується, — без реєстрації, без передавання.",
-  "id": "/loona-image-compressor/uk/compress-png-to-2000kb.html",
+  "id": "/uk/compress-png-to-2000kb.html",
   "start_url": "./compress-png-to-2000kb.html",
   "scope": "./compress-png-to-2000kb.html",
   "display": "standalone",

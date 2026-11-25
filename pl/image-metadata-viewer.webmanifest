@@ -2,7 +2,7 @@
   "name": "Loona Przeglądarka metadanych obrazów i EXIF",
   "short_name": "Przeglądarka metadanych",
   "description": "Zobacz ukryte metadane w dowolnym zdjęciu JPG, PNG lub WebP online za darmo — markę i model aparatu, datę wykonania, ekspozycję, ISO, ogniskową, lokalizację GPS, podstawy IPTC i XMP. Nic nie jest przesyłane: Twoje zdjęcie nigdy nie opuszcza urządzenia.",
-  "id": "/loona-image-compressor/pl/image-metadata-viewer.html",
+  "id": "/pl/image-metadata-viewer.html",
   "start_url": "./image-metadata-viewer.html",
   "scope": "./image-metadata-viewer.html",
   "display": "standalone",

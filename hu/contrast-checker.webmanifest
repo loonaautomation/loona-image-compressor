@@ -2,7 +2,7 @@
   "name": "Loona Kontrasztellenőrző",
   "short_name": "Kontrasztellenőrző",
   "description": "Ellenőrizze a szöveg- és háttérszíneket a WCAG alapján: azonnali kontrasztarány AA és AAA megfeleléssel normál és nagy szöveghez, plusz élő előnézet. Ingyen, regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/contrast-checker.html",
+  "id": "/hu/contrast-checker.html",
   "start_url": "./contrast-checker.html",
   "scope": "./contrast-checker.html",
   "display": "standalone",

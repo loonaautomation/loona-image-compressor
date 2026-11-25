@@ -2,7 +2,7 @@
   "name": "Loona Visumfotoværktøj",
   "short_name": "Visumfotoværktøj",
   "description": "Lav visumfotos online gratis: US 2x2 tommer, UK og Schengen 35x45 mm, Kina 33x48 mm ved 300 DPI. Ingen tilmelding, intet vandmærke, fuldt privat værktøj.",
-  "id": "/loona-image-compressor/da/visa-photo-maker.html",
+  "id": "/da/visa-photo-maker.html",
   "start_url": "./visa-photo-maker.html",
   "scope": "./visa-photo-maker.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Розмір Підпис AFCAT",
   "short_name": "Розмір Підпис AFCAT",
   "description": "Змініть розмір вашого підпис для AFCAT до розміру з повідомлення (скановане поле, співвідношення приблизно 7:2) і діапазону 10–50 KB. Безкоштовно, у вашому браузері — без передавання, без реєстрації.",
-  "id": "/loona-image-compressor/uk/afcat-signature-size.html",
+  "id": "/uk/afcat-signature-size.html",
   "start_url": "./afcat-signature-size.html",
   "scope": "./afcat-signature-size.html",
   "display": "standalone",

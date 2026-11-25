@@ -2,7 +2,7 @@
   "name": "Loona Tamanho de Fotografia de Perfil do Canal",
   "short_name": "Tamanho de Fotografia de",
   "description": "Crie um elemento fotografia de perfil do canal de YouTube com exatamente 800×800 px. Redimensionador/recortador gratuito no seu navegador, com as regras de zona segura que evitam textos e rostos cortados.",
-  "id": "/loona-image-compressor/pt-br/youtube-profile-picture-size.html",
+  "id": "/pt-br/youtube-profile-picture-size.html",
   "start_url": "./youtube-profile-picture-size.html",
   "scope": "./youtube-profile-picture-size.html",
   "display": "standalone",

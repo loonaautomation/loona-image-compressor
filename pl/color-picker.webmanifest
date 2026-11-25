@@ -2,7 +2,7 @@
   "name": "Loona Próbnik kolorów",
   "short_name": "Próbnik kolorów",
   "description": "Wybierz dowolny kolor i natychmiast skopiuj jego wartości HEX, RGB, HSL i HSV. Zawiera pasek odcieni jasnych i ciemnych — za darmo, bez rejestracji, działa w Twojej przeglądarce.",
-  "id": "/loona-image-compressor/pl/color-picker.html",
+  "id": "/pl/color-picker.html",
   "start_url": "./color-picker.html",
   "scope": "./color-picker.html",
   "display": "standalone",

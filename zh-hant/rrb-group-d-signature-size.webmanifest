@@ -2,7 +2,7 @@
   "name": "Loona RRB Group D (Railways) 簽名尺寸",
   "short_name": "RRB Group D (Railways) 簽名尺寸",
   "description": "將您的 RRB Group D (Railways) 簽名調整為通知規定的尺寸（140 × 60 px）和 10–40 KB 範圍。免費，在您的瀏覽器中完成 — 無需上傳，無需註冊。",
-  "id": "/loona-image-compressor/zh-hant/rrb-group-d-signature-size.html",
+  "id": "/zh-hant/rrb-group-d-signature-size.html",
   "start_url": "./rrb-group-d-signature-size.html",
   "scope": "./rrb-group-d-signature-size.html",
   "display": "standalone",

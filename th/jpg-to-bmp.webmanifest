@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง JPG เป็น BMP",
   "short_name": "ตัวแปลง JPG เป็น BMP",
   "description": "แปลง JPG เป็น BMP ออนไลน์ ฟรี ในเบราว์เซอร์ของคุณ การแปลงจริงบนอุปกรณ์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก ไม่มีลายน้ำ",
-  "id": "/loona-image-compressor/th/jpg-to-bmp.html",
+  "id": "/th/jpg-to-bmp.html",
   "start_url": "./jpg-to-bmp.html",
   "scope": "./jpg-to-bmp.html",
   "display": "standalone",

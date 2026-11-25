@@ -2,7 +2,7 @@
   "name": "Loona نام اور تاریخ والی امتحان تصویر",
   "short_name": "نام اور تاریخ والی امتحان",
   "description": "اپنی امتحان تصویر نام اور تاریخ کے ساتھ نیچے چھپی مفت بنائیں — پاکستان اور ہندوستان میں استعمال ہونے والا بورڈ امتحان فارمیٹ۔ نجی، نہ سائن اپ درکار۔",
-  "id": "/loona-image-compressor/ur/exam-photo-name-date.html",
+  "id": "/ur/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

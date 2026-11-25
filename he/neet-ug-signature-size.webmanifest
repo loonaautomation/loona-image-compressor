@@ -2,7 +2,7 @@
   "name": "Loona גודל חתימה NEET UG",
   "short_name": "גודל חתימה NEET UG",
   "description": "שנו את גודל ה־חתימה של NEET UG לגודל ההודעה הרשמית (תיבה סרוקה, יחס של כ־7:2) ולרצועת 4–30 KB. בחינם, בדפדפן שלכם — ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/neet-ug-signature-size.html",
+  "id": "/he/neet-ug-signature-size.html",
   "start_url": "./neet-ug-signature-size.html",
   "scope": "./neet-ug-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Розмір Кадр відео TikTok",
   "short_name": "Розмір Кадр відео TikTok",
   "description": "Зробіть кадр відео для TikTok рівно 1080×1920 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/tiktok-video-frame-size.html",
+  "id": "/uk/tiktok-video-frame-size.html",
   "start_url": "./tiktok-video-frame-size.html",
   "scope": "./tiktok-video-frame-size.html",
   "display": "standalone",

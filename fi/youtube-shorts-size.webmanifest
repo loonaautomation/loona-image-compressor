@@ -2,7 +2,7 @@
   "name": "Loona YouTube Shorts-kansi / -kehys koko",
   "short_name": "YouTube Shorts-kansi / -kehys",
   "description": "Tee YouTube shorts-kansi / -kehys tarkalleen kokoon 1080×1920 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/youtube-shorts-size.html",
+  "id": "/fi/youtube-shorts-size.html",
   "start_url": "./youtube-shorts-size.html",
   "scope": "./youtube-shorts-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง GIF เป็น PNG",
   "short_name": "ตัวแปลง GIF เป็น PNG",
   "description": "แปลง GIF เป็น PNG ออนไลน์ฟรี — ภาพนิ่งที่สะอาดและไม่สูญเสียจาก GIF ของคุณ อิงเบราว์เซอร์ ไม่ต้องสมัครสมาชิก ไม่ต้องอัปโหลด ไม่มีลายน้ำ",
-  "id": "/loona-image-compressor/th/gif-to-png.html",
+  "id": "/th/gif-to-png.html",
   "start_url": "./gif-to-png.html",
   "scope": "./gif-to-png.html",
   "display": "standalone",

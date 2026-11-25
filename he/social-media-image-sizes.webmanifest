@@ -2,7 +2,7 @@
   "name": "Loona גדלי תמונות לרשתות חברתיות 2026",
   "short_name": "גדלי תמונות לרשתות חברתיות",
   "description": "גדלי תמונות מדויקים לאינסטגרם, פייסבוק, יוטיוב, X, לינקדאין, פינטרסט, טיקטוק ודיסקורד — עם כלי יצירה ומדריך אזור בטיחות לכל משבצת.",
-  "id": "/loona-image-compressor/he/social-media-image-sizes.html",
+  "id": "/he/social-media-image-sizes.html",
   "start_url": "./social-media-image-sizes.html",
   "scope": "./social-media-image-sizes.html",
   "display": "standalone",

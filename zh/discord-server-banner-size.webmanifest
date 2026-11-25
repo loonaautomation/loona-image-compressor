@@ -2,7 +2,7 @@
   "name": "Loona Discord 服务器横幅 尺寸",
   "short_name": "Discord 服务器横幅 尺寸",
   "description": "按精确的 960×540 px 制作 Discord 服务器横幅。在浏览器中免费调整大小/裁剪，附有安全区规则，防止文字和面部被裁掉。",
-  "id": "/loona-image-compressor/zh/discord-server-banner-size.html",
+  "id": "/zh/discord-server-banner-size.html",
   "start_url": "./discord-server-banner-size.html",
   "scope": "./discord-server-banner-size.html",
   "display": "standalone",

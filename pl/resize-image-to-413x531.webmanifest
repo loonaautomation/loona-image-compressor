@@ -2,7 +2,7 @@
   "name": "Loona Zmień rozmiar obrazu do 413 × 531 px online",
   "short_name": "Zmień rozmiar obrazu do 413 ×",
   "description": "Zmień rozmiar dowolnego obrazu dokładnie do 413×531 px — 35 × 45 mm przy 300 DPI — rozmiar druku ICAO/Schengen w pikselach. Za darmo w przeglądarce z kontrolą przycinania; bez przesyłania, bez rejestracji.",
-  "id": "/loona-image-compressor/pl/resize-image-to-413x531.html",
+  "id": "/pl/resize-image-to-413x531.html",
   "start_url": "./resize-image-to-413x531.html",
   "scope": "./resize-image-to-413x531.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pretvarač GIF u PNG",
   "short_name": "Pretvarač GIF u PNG",
   "description": "Pretvorite GIF u PNG na mreži besplatno — čista nepokretna slika bez gubitaka iz vašeg GIF-a. Temeljeno na pregledniku, bez registracije, bez prijenosa, bez vodenog žiga.",
-  "id": "/loona-image-compressor/hr/gif-to-png.html",
+  "id": "/hr/gif-to-png.html",
   "start_url": "./gif-to-png.html",
   "scope": "./gif-to-png.html",
   "display": "standalone",

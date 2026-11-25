@@ -2,7 +2,7 @@
   "name": "Loona Κάλυμμα Εκδήλωσης Facebook",
   "short_name": "Κάλυμμα Εκδήλωσης Facebook",
   "description": "Δημιουργήστε ένα κάλυμμα εκδήλωσης Facebook σε ακριβώς 1920×1005 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/facebook-event-cover-size.html",
+  "id": "/el/facebook-event-cover-size.html",
   "start_url": "./facebook-event-cover-size.html",
   "scope": "./facebook-event-cover-size.html",
   "display": "standalone",

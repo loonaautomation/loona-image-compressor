@@ -2,7 +2,7 @@
   "name": "Loona Размер на Подпис за NEET UG",
   "short_name": "Размер на Подпис за NEET UG",
   "description": "Преоразмерете своя подпис за NEET UG до размера от уведомлението (сканирано поле, съотношение около 7:2) и диапазона 4–30 KB. Безплатно, във вашия браузър — без качване, без регистрация.",
-  "id": "/loona-image-compressor/bg/neet-ug-signature-size.html",
+  "id": "/bg/neet-ug-signature-size.html",
   "start_url": "./neet-ug-signature-size.html",
   "scope": "./neet-ug-signature-size.html",
   "display": "standalone",

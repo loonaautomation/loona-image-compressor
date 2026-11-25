@@ -2,7 +2,7 @@
   "name": "Loona SBI PO हस्ताक्षर साइज़",
   "short_name": "SBI PO हस्ताक्षर साइज़",
   "description": "अपनी SBI PO हस्ताक्षर को अधिसूचना साइज़ (140 × 60 px) और 10–20 KB बैंड में बदलें. मुफ़्त, आपके ब्राउज़र में — न अपलोड, न साइन-अप.",
-  "id": "/loona-image-compressor/hi/sbi-po-signature-size.html",
+  "id": "/hi/sbi-po-signature-size.html",
   "start_url": "./sbi-po-signature-size.html",
   "scope": "./sbi-po-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวตรวจสอบความเปรียบต่าง",
   "short_name": "ตัวตรวจสอบความเปรียบต่าง",
   "description": "ตรวจสอบสีข้อความและพื้นหลังกับ WCAG: อัตราส่วนความเปรียบต่างทันทีพร้อมผ่าน/ไม่ผ่าน AA และ AAA สำหรับข้อความปกติและข้อความใหญ่ บวกตัวอย่างแบบเรียลไทม์ ฟรี ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/contrast-checker.html",
+  "id": "/th/contrast-checker.html",
   "start_url": "./contrast-checker.html",
   "scope": "./contrast-checker.html",
   "display": "standalone",

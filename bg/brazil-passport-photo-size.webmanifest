@@ -2,7 +2,7 @@
   "name": "Loona Размер Снимка за паспорт / виза на Бразилия",
   "short_name": "Размер Снимка за паспорт /",
   "description": "Направете Снимка за паспорт / виза на Бразилия в официалния размер 50×70 mm (591×827 px), фон обикновен бял. Безплатен онлайн инструмент — изрязване, изтегляне и лист за печат, без качване.",
-  "id": "/loona-image-compressor/bg/brazil-passport-photo-size.html",
+  "id": "/bg/brazil-passport-photo-size.html",
   "start_url": "./brazil-passport-photo-size.html",
   "scope": "./brazil-passport-photo-size.html",
   "display": "standalone",

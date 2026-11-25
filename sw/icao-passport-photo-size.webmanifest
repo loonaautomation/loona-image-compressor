@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Kawaida ya Pasipoti ya ICAO (milimita 35×45)",
   "short_name": "Ukubwa wa Picha ya Kawaida ya",
   "description": "Tengeneza Picha ya Kawaida ya Pasipoti ya ICAO (milimita 35×45) katika ukubwa rasmi wa milimita 35×45 (px 413×531), mandharinyuma ya mandharinyuma mepesi tambarare. Kitengenezaji bure cha mtandaoni — kata, pakua na uchapishe karatasi, bila kupakia.",
-  "id": "/loona-image-compressor/sw/icao-passport-photo-size.html",
+  "id": "/sw/icao-passport-photo-size.html",
   "start_url": "./icao-passport-photo-size.html",
   "scope": "./icao-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Logo trang công ty LinkedIn",
   "short_name": "Kích thước Logo trang công ty",
   "description": "Tạo logo trang công ty LinkedIn chính xác 300×300 px. Công cụ thay đổi kích thước/cắt ảnh miễn phí trong trình duyệt của bạn, kèm các quy tắc vùng an toàn giúp văn bản và khuôn mặt không bị cắt mất.",
-  "id": "/loona-image-compressor/vi/linkedin-company-logo-size.html",
+  "id": "/vi/linkedin-company-logo-size.html",
   "start_url": "./linkedin-company-logo-size.html",
   "scope": "./linkedin-company-logo-size.html",
   "display": "standalone",

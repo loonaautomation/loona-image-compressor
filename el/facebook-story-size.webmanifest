@@ -2,7 +2,7 @@
   "name": "Loona Ιστορία Facebook",
   "short_name": "Ιστορία Facebook",
   "description": "Δημιουργήστε ένα ιστορία Facebook σε ακριβώς 1080×1920 px. Δωρεάν εργαλείο αλλαγής μεγέθους/περικοπής στο πρόγραμμα περιήγησής σας, με τους κανόνες ασφαλούς ζώνης που εμποδίζουν το κόψιμο κειμένου και προσώπων.",
-  "id": "/loona-image-compressor/el/facebook-story-size.html",
+  "id": "/el/facebook-story-size.html",
   "start_url": "./facebook-story-size.html",
   "scope": "./facebook-story-size.html",
   "display": "standalone",

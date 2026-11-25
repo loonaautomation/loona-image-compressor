@@ -2,7 +2,7 @@
   "name": "Loona TikTok Bildeinnlegg (kvadrat)-størrelse",
   "short_name": "TikTok Bildeinnlegg",
   "description": "Lag en TikTok bildeinnlegg (kvadrat) med nøyaktig 1080×1080 px. Gratis størrelsesendrer/beskjærer i nettleseren din med reglene for sikre soner som stopper beskåret tekst og ansikter.",
-  "id": "/loona-image-compressor/nb/tiktok-photo-post-square-size.html",
+  "id": "/nb/tiktok-photo-post-square-size.html",
   "start_url": "./tiktok-photo-post-square-size.html",
   "scope": "./tiktok-photo-post-square-size.html",
   "display": "standalone",

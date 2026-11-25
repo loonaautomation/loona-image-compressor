@@ -2,7 +2,7 @@
   "name": "Loona Italiensk pasfoto størrelse",
   "short_name": "Italiensk pasfoto størrelse",
   "description": "Lav et Italiensk pasfoto i den officielle størrelse 35×40 mm (413×472 px), ensfarvet hvid eller lys baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
-  "id": "/loona-image-compressor/da/italy-passport-photo-size.html",
+  "id": "/da/italy-passport-photo-size.html",
   "start_url": "./italy-passport-photo-size.html",
   "scope": "./italy-passport-photo-size.html",
   "display": "standalone",

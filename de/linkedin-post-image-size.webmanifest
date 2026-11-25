@@ -2,7 +2,7 @@
   "name": "Loona LinkedIn Beitragsbild Größe",
   "short_name": "LinkedIn Beitragsbild Größe",
   "description": "Erstellen Sie ein LinkedIn-beitragsbild mit exakt 1200×627 px. Kostenloser Größenänderer/Zuschneider in Ihrem Browser mit den Regeln für die sichere Zone, die abgeschnittenen Text und Gesichter verhindern.",
-  "id": "/loona-image-compressor/de/linkedin-post-image-size.html",
+  "id": "/de/linkedin-post-image-size.html",
   "start_url": "./linkedin-post-image-size.html",
   "scope": "./linkedin-post-image-size.html",
   "display": "standalone",

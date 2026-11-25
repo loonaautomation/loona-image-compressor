@@ -2,7 +2,7 @@
   "name": "Loona Розмір Обкладинка події Facebook",
   "short_name": "Розмір Обкладинка події",
   "description": "Зробіть обкладинка події для Facebook рівно 1920×1005 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/facebook-event-cover-size.html",
+  "id": "/uk/facebook-event-cover-size.html",
   "start_url": "./facebook-event-cover-size.html",
   "scope": "./facebook-event-cover-size.html",
   "display": "standalone",

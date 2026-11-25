@@ -2,7 +2,7 @@
   "name": "Loona Socialmedia-afbeeldingsformaten 2026",
   "short_name": "Socialmedia-afbeeldingsformate",
   "description": "Exacte afbeeldingsformaten voor Instagram, Facebook, YouTube, X, LinkedIn, Pinterest, TikTok en Discord — met een maker-tool en gids voor de veilige zone voor elke positie.",
-  "id": "/loona-image-compressor/nl/social-media-image-sizes.html",
+  "id": "/nl/social-media-image-sizes.html",
   "start_url": "./social-media-image-sizes.html",
   "scope": "./social-media-image-sizes.html",
   "display": "standalone",

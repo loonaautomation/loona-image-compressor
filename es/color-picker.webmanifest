@@ -2,7 +2,7 @@
   "name": "Loona Selector de color",
   "short_name": "Selector de color",
   "description": "Elige cualquier color y copia al instante sus valores HEX, RGB, HSL y HSV. Incluye una franja de tintes y sombras: gratis, sin registro, funciona en tu navegador.",
-  "id": "/loona-image-compressor/es/color-picker.html",
+  "id": "/es/color-picker.html",
   "start_url": "./color-picker.html",
   "scope": "./color-picker.html",
   "display": "standalone",

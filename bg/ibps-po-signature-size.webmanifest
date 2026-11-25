@@ -2,7 +2,7 @@
   "name": "Loona Размер на Подпис за IBPS PO",
   "short_name": "Размер на Подпис за IBPS PO",
   "description": "Преоразмерете своя подпис за IBPS PO до размера от уведомлението (140 × 60 px) и диапазона 10–20 KB. Безплатно, във вашия браузър — без качване, без регистрация.",
-  "id": "/loona-image-compressor/bg/ibps-po-signature-size.html",
+  "id": "/bg/ibps-po-signature-size.html",
   "start_url": "./ibps-po-signature-size.html",
   "scope": "./ibps-po-signature-size.html",
   "display": "standalone",

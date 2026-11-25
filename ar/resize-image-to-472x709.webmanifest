@@ -2,7 +2,7 @@
   "name": "Loona تغيير حجم الصورة إلى 472 × 709 px عبر",
   "short_name": "تغيير حجم الصورة إلى 472 ×",
   "description": "غيّر حجم أي صورة إلى 472×709 px بالضبط — 40 × 60 mm عند 300 DPI — حجم صور الإمارات/السعودية/مصر/فيتنام. مجاناً في متصفحك مع تحكم في القص؛ بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/resize-image-to-472x709.html",
+  "id": "/ar/resize-image-to-472x709.html",
   "start_url": "./resize-image-to-472x709.html",
   "scope": "./resize-image-to-472x709.html",
   "display": "standalone",

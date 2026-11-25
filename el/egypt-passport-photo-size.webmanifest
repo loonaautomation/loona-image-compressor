@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Διαβατηρίου Αιγύπτου",
   "short_name": "Φωτογραφία Διαβατηρίου",
   "description": "Δημιουργήστε Φωτογραφία Διαβατηρίου Αιγύπτου στο επίσημο μέγεθος 40×60 mm (472×709 px), φόντο απλό λευκό. Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/egypt-passport-photo-size.html",
+  "id": "/el/egypt-passport-photo-size.html",
   "start_url": "./egypt-passport-photo-size.html",
   "scope": "./egypt-passport-photo-size.html",
   "display": "standalone",

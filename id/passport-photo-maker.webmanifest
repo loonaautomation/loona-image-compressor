@@ -2,7 +2,7 @@
   "name": "Loona Pembuat Foto Ukuran Paspor",
   "short_name": "Pembuat Foto Ukuran Paspor",
   "description": "Buat foto ukuran paspor online gratis: potong foto mana pun ke 35×45 mm atau 2×2 inci pada 300 DPI siap cetak. Tanpa pendaftaran, tanpa tanda air, sepenuhnya privat.",
-  "id": "/loona-image-compressor/id/passport-photo-maker.html",
+  "id": "/id/passport-photo-maker.html",
   "start_url": "./passport-photo-maker.html",
   "scope": "./passport-photo-maker.html",
   "display": "standalone",

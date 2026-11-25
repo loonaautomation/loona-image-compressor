@@ -2,7 +2,7 @@
   "name": "Loona JPG",
   "short_name": "JPG",
   "description": "Konvertáljon JPG-t WebP-vé online ingyen, és zsugorítsa a weboldal képeit 25–40%-kal azonos minőségben. A böngészőjében — regisztráció nélkül, feltöltés nélkül, vízjel nélkül.",
-  "id": "/loona-image-compressor/hu/jpg-to-webp.html",
+  "id": "/hu/jpg-to-webp.html",
   "start_url": "./jpg-to-webp.html",
   "scope": "./jpg-to-webp.html",
   "display": "standalone",

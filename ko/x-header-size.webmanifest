@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) 헤더 / 배너 크기",
   "short_name": "X (Twitter) 헤더 / 배너 크기",
   "description": "X (Twitter) 헤더 / 배너을 정확히 1500×500 px로 만드세요. 잘린 텍스트와 얼굴을 막는 안전 영역 규칙과 함께, 브라우저에서 무료로 크기를 조정하고 자를 수 있어요.",
-  "id": "/loona-image-compressor/ko/x-header-size.html",
+  "id": "/ko/x-header-size.html",
   "start_url": "./x-header-size.html",
   "scope": "./x-header-size.html",
   "display": "standalone",

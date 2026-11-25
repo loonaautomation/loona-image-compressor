@@ -2,7 +2,7 @@
   "name": "Loona Kikagua Utofautishaji",
   "short_name": "Kikagua Utofautishaji",
   "description": "Kagua rangi za maandishi na mandharinyuma dhidi ya WCAG: uwiano wa utofautishaji wa papo hapo na kupita/kushindwa kwa AA na AAA kwa maandishi ya kawaida na makubwa, pamoja na hakiki ya moja kwa moja. Bure, bila kujisajili.",
-  "id": "/loona-image-compressor/sw/contrast-checker.html",
+  "id": "/sw/contrast-checker.html",
   "start_url": "./contrast-checker.html",
   "scope": "./contrast-checker.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha BMP kuwa WEBP",
   "short_name": "Kibadilishaji cha BMP kuwa",
   "description": "Badilisha BMP kuwa WEBP mtandaoni, bure, kwenye kivinjari chako. Ubadilishaji halisi kwenye kifaa chako — bila kupakia, bila kujisajili, bila alama za maji.",
-  "id": "/loona-image-compressor/sw/bmp-to-webp.html",
+  "id": "/sw/bmp-to-webp.html",
   "start_url": "./bmp-to-webp.html",
   "scope": "./bmp-to-webp.html",
   "display": "standalone",

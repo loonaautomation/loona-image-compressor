@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Copertă de articol / newsletter LinkedIn",
   "short_name": "Dimensiune Copertă de articol",
   "description": "Creează un copertă de articol / newsletter LinkedIn la exact 1200×644 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/linkedin-article-cover-size.html",
+  "id": "/ro/linkedin-article-cover-size.html",
   "start_url": "./linkedin-article-cover-size.html",
   "scope": "./linkedin-article-cover-size.html",
   "display": "standalone",

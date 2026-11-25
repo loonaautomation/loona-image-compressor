@@ -2,7 +2,7 @@
   "name": "Loona Veličina Fotografija za vizu SAD (DS-160)",
   "short_name": "Veličina Fotografija za vizu",
   "description": "Izradite Fotografija za vizu SAD (DS-160) u službenoj veličini 51×51 mm (600×600 px), pozadina jednobojna bijela. Besplatni mrežni izrađivač — izrežite, preuzmite i ispišite list, bez prijenosa.",
-  "id": "/loona-image-compressor/hr/us-visa-photo-size.html",
+  "id": "/hr/us-visa-photo-size.html",
   "start_url": "./us-visa-photo-size.html",
   "scope": "./us-visa-photo-size.html",
   "display": "standalone",

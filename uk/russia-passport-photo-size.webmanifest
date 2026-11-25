@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото на паспорт / візу Росії",
   "short_name": "Розмір Фото на паспорт / візу",
   "description": "Зробіть Фото на паспорт / візу Росії в офіційному розмірі 35×45 мм (413×531 пікс.), тло: однотонне біле або світле. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
-  "id": "/loona-image-compressor/uk/russia-passport-photo-size.html",
+  "id": "/uk/russia-passport-photo-size.html",
   "start_url": "./russia-passport-photo-size.html",
   "scope": "./russia-passport-photo-size.html",
   "display": "standalone",

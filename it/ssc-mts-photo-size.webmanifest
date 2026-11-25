@@ -2,7 +2,7 @@
   "name": "Loona Formato Fotografia SSC MTS",
   "short_name": "Formato Fotografia SSC MTS",
   "description": "Ridimensiona la tua foto SSC MTS al formato previsto dal bando (200 × 230 px) e all&#x27;intervallo 20–50 KB. Gratis, nel tuo browser: senza caricamenti e senza registrazione.",
-  "id": "/loona-image-compressor/it/ssc-mts-photo-size.html",
+  "id": "/it/ssc-mts-photo-size.html",
   "start_url": "./ssc-mts-photo-size.html",
   "scope": "./ssc-mts-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Formaat LinkedIn Profiel- / paginabanner",
   "short_name": "Formaat LinkedIn Profiel- /",
   "description": "Maak een LinkedIn profiel- / paginabanner op precies 1584×396 px. Gratis formaat aanpassen/bijsnijden in je browser, met de regels voor de veilige zone die voorkomen dat tekst en gezichten worden afgesneden.",
-  "id": "/loona-image-compressor/nl/linkedin-banner-size.html",
+  "id": "/nl/linkedin-banner-size.html",
   "start_url": "./linkedin-banner-size.html",
   "scope": "./linkedin-banner-size.html",
   "display": "standalone",

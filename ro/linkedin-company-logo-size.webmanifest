@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Logo-ul paginii companiei LinkedIn",
   "short_name": "Dimensiune Logo-ul paginii",
   "description": "Creează un logo-ul paginii companiei LinkedIn la exact 300×300 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/linkedin-company-logo-size.html",
+  "id": "/ro/linkedin-company-logo-size.html",
   "start_url": "./linkedin-company-logo-size.html",
   "scope": "./linkedin-company-logo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Pini Ndefu / ya Infografia wa Pinterest",
   "short_name": "Ukubwa wa Pini Ndefu / ya",
   "description": "Tengeneza pini ndefu / ya infografia ya Pinterest katika px 1000×2100 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/pinterest-long-pin-size.html",
+  "id": "/sw/pinterest-long-pin-size.html",
   "start_url": "./pinterest-long-pin-size.html",
   "scope": "./pinterest-long-pin-size.html",
   "display": "standalone",

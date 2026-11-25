@@ -2,7 +2,7 @@
   "name": "Loona 哥伦比亚签证照片 尺寸",
   "short_name": "哥伦比亚签证照片 尺寸",
   "description": "按官方尺寸 30×40 mm（354×472 px）制作 哥伦比亚签证照片，纯白色背景。免费在线制作工具 — 裁剪、下载并打印照片页，无需上传。",
-  "id": "/loona-image-compressor/zh/colombia-visa-photo-size.html",
+  "id": "/zh/colombia-visa-photo-size.html",
   "start_url": "./colombia-visa-photo-size.html",
   "scope": "./colombia-visa-photo-size.html",
   "display": "standalone",

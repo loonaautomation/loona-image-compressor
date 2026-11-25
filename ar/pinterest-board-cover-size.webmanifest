@@ -2,7 +2,7 @@
   "name": "Loona حجم غلاف اللوحة Pinterest",
   "short_name": "حجم غلاف اللوحة Pinterest",
   "description": "اصنع غلاف اللوحة Pinterest بمقاس 800×450 px بالضبط. أداة تغيير حجم/قص مجانية في متصفحك مع قواعد المنطقة الآمنة التي تمنع قص النصوص والوجوه.",
-  "id": "/loona-image-compressor/ar/pinterest-board-cover-size.html",
+  "id": "/ar/pinterest-board-cover-size.html",
   "start_url": "./pinterest-board-cover-size.html",
   "scope": "./pinterest-board-cover-size.html",
   "display": "standalone",

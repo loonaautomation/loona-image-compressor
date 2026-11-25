@@ -2,7 +2,7 @@
   "name": "Loona UPSC NDA Fénykép méret",
   "short_name": "UPSC NDA Fénykép méret",
   "description": "Méretezze át a UPSC NDA fotó fájlját a kiírás szerinti méretre (350 × 350 px) és a 20–300 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/upsc-nda-photo-size.html",
+  "id": "/hu/upsc-nda-photo-size.html",
   "start_url": "./upsc-nda-photo-size.html",
   "scope": "./upsc-nda-photo-size.html",
   "display": "standalone",

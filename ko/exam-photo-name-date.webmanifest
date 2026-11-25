@@ -2,7 +2,7 @@
   "name": "Loona 이름과 날짜가 있는 시험 사진",
   "short_name": "이름과 날짜가 있는 시험 사진",
   "description": "이름과 날짜가 아래쪽에 인쇄된 시험 사진을 무료로 만드세요 — 파키스탄과 인도에서 사용하는 기판 시험 형식이에요. 비공개, 회원가입이 필요 없어요.",
-  "id": "/loona-image-compressor/ko/exam-photo-name-date.html",
+  "id": "/ko/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

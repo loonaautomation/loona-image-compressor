@@ -2,7 +2,7 @@
   "name": "Loona Provjera kontrasta",
   "short_name": "Provjera kontrasta",
   "description": "Provjerite boje teksta i pozadine prema WCAG-u: trenutni omjer kontrasta s prolaz/pad AA i AAA za običan i veliki tekst, plus pregled uživo. Besplatno, bez registracije.",
-  "id": "/loona-image-compressor/hr/contrast-checker.html",
+  "id": "/hr/contrast-checker.html",
   "start_url": "./contrast-checker.html",
   "scope": "./contrast-checker.html",
   "display": "standalone",

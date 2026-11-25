@@ -2,7 +2,7 @@
   "name": "Loona SVG → WEBP Dönüştürücü – Ücretsiz, Yüklemesiz",
   "short_name": "SVG → WEBP Dönüştürücü – Ücretsiz, Yüklemesiz",
   "description": "SVG formatını WEBP formatına çevrimiçi, ücretsiz, tarayıcınızda dönüştürün. Cihazınızda gerçek dönüştürme — yükleme yok, kayıt yok, filigran yok.",
-  "id": "/loona-image-compressor/tr/svg-to-webp.html",
+  "id": "/tr/svg-to-webp.html",
   "start_url": "./svg-to-webp.html",
   "scope": "./svg-to-webp.html",
   "display": "standalone",

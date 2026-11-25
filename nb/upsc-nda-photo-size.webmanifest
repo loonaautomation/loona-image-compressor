@@ -2,7 +2,7 @@
   "name": "Loona UPSC NDA Fotografi-størrelse",
   "short_name": "UPSC NDA Fotografi-størrelse",
   "description": "Endre størrelsen på UPSC NDA bilde til varslingsstørrelsen (350 × 350 px) og båndet på 20–300 KB. Gratis, i nettleseren din — ingen opplasting, ingen registrering.",
-  "id": "/loona-image-compressor/nb/upsc-nda-photo-size.html",
+  "id": "/nb/upsc-nda-photo-size.html",
   "start_url": "./upsc-nda-photo-size.html",
   "scope": "./upsc-nda-photo-size.html",
   "display": "standalone",

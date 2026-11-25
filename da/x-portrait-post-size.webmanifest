@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) Portrætopslag (4",
   "short_name": "X (Twitter) Portrætopslag (4",
   "description": "Lav en X (Twitter) portrætopslag (4:5) på præcis 1080×1350 px. Gratis størrelses- og beskæringsværktøj i din browser med sikkerhedszonereglerne, der forhindrer beskåret tekst og ansigter.",
-  "id": "/loona-image-compressor/da/x-portrait-post-size.html",
+  "id": "/da/x-portrait-post-size.html",
   "start_url": "./x-portrait-post-size.html",
   "scope": "./x-portrait-post-size.html",
   "display": "standalone",

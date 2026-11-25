@@ -2,7 +2,7 @@
   "name": "Loona Izrezivanje slike na mreži besplatno",
   "short_name": "Izrezivanje slike na mreži",
   "description": "Izrezujte slike na mreži besplatno s gotovim omjerima — 1:1, 4:3, 16:9 i putovnica 35×45 — plus rotiranje i zrcaljenje. Preuzmite točan izrezak u punoj razlučivosti.",
-  "id": "/loona-image-compressor/hr/crop-image.html",
+  "id": "/hr/crop-image.html",
   "start_url": "./crop-image.html",
   "scope": "./crop-image.html",
   "display": "standalone",

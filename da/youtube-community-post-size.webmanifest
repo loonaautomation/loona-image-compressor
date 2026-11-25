@@ -2,7 +2,7 @@
   "name": "Loona YouTube Fællesskabsopslagsbillede størrelse",
   "short_name": "YouTube",
   "description": "Lav en YouTube fællesskabsopslagsbillede på præcis 1080×1080 px. Gratis størrelses- og beskæringsværktøj i din browser med sikkerhedszonereglerne, der forhindrer beskåret tekst og ansigter.",
-  "id": "/loona-image-compressor/da/youtube-community-post-size.html",
+  "id": "/da/youtube-community-post-size.html",
   "start_url": "./youtube-community-post-size.html",
   "scope": "./youtube-community-post-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Instagram Reels-omslag størrelse",
   "short_name": "Instagram Reels-omslag",
   "description": "Lav en Instagram reels-omslag på præcis 1080×1920 px. Gratis størrelses- og beskæringsværktøj i din browser med sikkerhedszonereglerne, der forhindrer beskåret tekst og ansigter.",
-  "id": "/loona-image-compressor/da/instagram-reels-cover-size.html",
+  "id": "/da/instagram-reels-cover-size.html",
   "start_url": "./instagram-reels-cover-size.html",
   "scope": "./instagram-reels-cover-size.html",
   "display": "standalone",

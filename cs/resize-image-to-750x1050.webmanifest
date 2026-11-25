@@ -2,7 +2,7 @@
   "name": "Loona Změnit velikost obrázku na 750 × 1050 px online",
   "short_name": "Změnit velikost obrázku na",
   "description": "Změňte velikost libovolného obrázku přesně na 750×1050 px — Velikost do peněženky — 2,5 × 3,5 palce při 300 DPI. Zdarma ve vašem prohlížeči s ovládáním ořezu; bez nahrávání a bez registrace.",
-  "id": "/loona-image-compressor/cs/resize-image-to-750x1050.html",
+  "id": "/cs/resize-image-to-750x1050.html",
   "start_url": "./resize-image-to-750x1050.html",
   "scope": "./resize-image-to-750x1050.html",
   "display": "standalone",

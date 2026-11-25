@@ -2,7 +2,7 @@
   "name": "Loona Воден знак на изображения",
   "short_name": "Воден знак на изображения",
   "description": "Добавете текстов воден знак към всяка снимка онлайн безплатно — изберете текста, размера, цвета, непрозрачността и позицията или го повторете като плочковиден модел. Преглед на живо, без регистрация, а изображението ви никога не напуска устройството ви.",
-  "id": "/loona-image-compressor/bg/image-watermark.html",
+  "id": "/bg/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

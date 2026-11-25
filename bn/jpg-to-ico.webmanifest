@@ -2,7 +2,7 @@
   "name": "Loona JPG থেকে ICO রূপান্তরকারী",
   "short_name": "JPG থেকে ICO রূপান্তরকারী",
   "description": "JPG-কে ICO-তে রূপান্তর করুন অনলাইনে, বিনামূল্যে, আপনার ব্রাউজারে। আপনার ডিভাইসে আসল রূপান্তর — আপলোড নেই, সাইনআপ নেই, ওয়াটারমার্ক নেই।",
-  "id": "/loona-image-compressor/bn/jpg-to-ico.html",
+  "id": "/bn/jpg-to-ico.html",
   "start_url": "./jpg-to-ico.html",
   "scope": "./jpg-to-ico.html",
   "display": "standalone",

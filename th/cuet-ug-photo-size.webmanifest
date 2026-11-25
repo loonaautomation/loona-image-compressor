@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปถ่ายCUET UG",
   "short_name": "ขนาดรูปถ่ายCUET UG",
   "description": "ปรับขนาดรูปถ่ายCUET UGของคุณให้เป็นขนาดตามประกาศ (3.5 × 4.5 ซม. (ประมาณ 413 × 531 px ที่ 300 DPI)) และช่วง 10–200 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/cuet-ug-photo-size.html",
+  "id": "/th/cuet-ug-photo-size.html",
   "start_url": "./cuet-ug-photo-size.html",
   "scope": "./cuet-ug-photo-size.html",
   "display": "standalone",

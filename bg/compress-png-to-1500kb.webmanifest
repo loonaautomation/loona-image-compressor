@@ -2,7 +2,7 @@
   "name": "Loona Компресиране на PNG до 1500 KB онлайн",
   "short_name": "Компресиране на PNG до 1500",
   "description": "Компресирайте изображение PNG до 1500 KB или по-малко, безплатно във вашия браузър. Автоматичното търсене намира най-доброто качество, което се побира — без регистрация, без качване.",
-  "id": "/loona-image-compressor/bg/compress-png-to-1500kb.html",
+  "id": "/bg/compress-png-to-1500kb.html",
   "start_url": "./compress-png-to-1500kb.html",
   "scope": "./compress-png-to-1500kb.html",
   "display": "standalone",

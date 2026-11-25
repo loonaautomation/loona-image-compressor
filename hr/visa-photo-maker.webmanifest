@@ -2,7 +2,7 @@
   "name": "Loona Izrađivač fotografija za vizu",
   "short_name": "Izrađivač fotografija za vizu",
   "description": "Izrađujte fotografije za vizu na mreži besplatno: SAD 2x2 inča, UK i Schengen 35x45 mm, Kina 33x48 mm pri 300 DPI. Bez registracije, bez vodenog žiga, potpuno privatan alat.",
-  "id": "/loona-image-compressor/hr/visa-photo-maker.html",
+  "id": "/hr/visa-photo-maker.html",
   "start_url": "./visa-photo-maker.html",
   "scope": "./visa-photo-maker.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Chapisho la Picha (Wima) wa TikTok",
   "short_name": "Ukubwa wa Chapisho la Picha",
   "description": "Tengeneza chapisho la picha (wima) ya TikTok katika px 1080×1350 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/tiktok-photo-post-portrait-size.html",
+  "id": "/sw/tiktok-photo-post-portrait-size.html",
   "start_url": "./tiktok-photo-post-portrait-size.html",
   "scope": "./tiktok-photo-post-portrait-size.html",
   "display": "standalone",

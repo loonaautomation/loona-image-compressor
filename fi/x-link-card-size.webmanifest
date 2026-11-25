@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) Linkkikortin kuva koko",
   "short_name": "X (Twitter) Linkkikortin kuva",
   "description": "Tee X (Twitter) linkkikortin kuva tarkalleen kokoon 1200×628 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/x-link-card-size.html",
+  "id": "/fi/x-link-card-size.html",
   "start_url": "./x-link-card-size.html",
   "scope": "./x-link-card-size.html",
   "display": "standalone",

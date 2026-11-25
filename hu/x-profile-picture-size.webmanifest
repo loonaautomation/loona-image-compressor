@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) Profilkép méret",
   "short_name": "X (Twitter) Profilkép méret",
   "description": "Készítsen X (Twitter) profilkép képet pontosan 400×400 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/x-profile-picture-size.html",
+  "id": "/hu/x-profile-picture-size.html",
   "start_url": "./x-profile-picture-size.html",
   "scope": "./x-profile-picture-size.html",
   "display": "standalone",

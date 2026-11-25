@@ -2,7 +2,7 @@
   "name": "Loona دستخط کا پس منظر ہٹانے والا ٹول",
   "short_name": "دستخط کا پس منظر ہٹانے والا ٹول",
   "description": "دستخط یا مہر کی تصویر سے کاغذ کا پس منظر ہٹائیں اور شفاف PNG ڈاؤن لوڈ کریں، آن لائن مفت۔ خالص براؤزر کینوس ٹول، نہ AI، نہ اپ لوڈ، نہ سائن اپ۔",
-  "id": "/loona-image-compressor/ur/signature-background-remover.html",
+  "id": "/ur/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

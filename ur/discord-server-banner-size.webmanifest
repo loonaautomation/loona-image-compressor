@@ -2,7 +2,7 @@
   "name": "Loona Discord سرور بینر کا سائز",
   "short_name": "Discord سرور بینر کا سائز",
   "description": "Discord سرور بینر بالکل 960×540 px پر بنائیں۔ آپ کے براؤزر میں مفت ری سائزر/کراپر، محفوظ زون کے قواعد کے ساتھ جو کراپ شدہ متن اور چہروں کو روکتے ہیں۔",
-  "id": "/loona-image-compressor/ur/discord-server-banner-size.html",
+  "id": "/ur/discord-server-banner-size.html",
   "start_url": "./discord-server-banner-size.html",
   "scope": "./discord-server-banner-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) হেডার / ব্যানার আকার",
   "short_name": "X (Twitter) হেডার / ব্যানার",
   "description": "ঠিক 1500×500 px-এ একটি X (Twitter) হেডার / ব্যানার তৈরি করুন। আপনার ব্রাউজারে বিনামূল্যে রিসাইজার/ক্রপার, ক্রপ করা লেখা ও মুখ আটকায় এমন নিরাপদ-অঞ্চলের নিয়মসহ।",
-  "id": "/loona-image-compressor/bn/x-header-size.html",
+  "id": "/bn/x-header-size.html",
   "start_url": "./x-header-size.html",
   "scope": "./x-header-size.html",
   "display": "standalone",

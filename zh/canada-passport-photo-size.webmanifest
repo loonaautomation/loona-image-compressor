@@ -2,7 +2,7 @@
   "name": "Loona 加拿大护照照片 尺寸",
   "short_name": "加拿大护照照片 尺寸",
   "description": "按官方尺寸 50×70 mm（591×827 px）制作 加拿大护照照片，纯白色或浅色背景。免费在线制作工具 — 裁剪、下载并打印照片页，无需上传。",
-  "id": "/loona-image-compressor/zh/canada-passport-photo-size.html",
+  "id": "/zh/canada-passport-photo-size.html",
   "start_url": "./canada-passport-photo-size.html",
   "scope": "./canada-passport-photo-size.html",
   "display": "standalone",

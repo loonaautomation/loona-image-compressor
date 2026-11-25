@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Bango la Seva wa Discord",
   "short_name": "Ukubwa wa Bango la Seva wa",
   "description": "Tengeneza bango la seva ya Discord katika px 960×540 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/discord-server-banner-size.html",
+  "id": "/sw/discord-server-banner-size.html",
   "start_url": "./discord-server-banner-size.html",
   "scope": "./discord-server-banner-size.html",
   "display": "standalone",

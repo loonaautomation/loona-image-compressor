@@ -2,7 +2,7 @@
   "name": "Loona Conversor de BMP para JPG",
   "short_name": "Conversor de BMP para JPG",
   "description": "Converta BMP para JPG online gratuitamente e encolha mapas de bits enormes sem compressão em 90% ou mais. No seu navegador — sem registo, sem envios e sem marca de água.",
-  "id": "/loona-image-compressor/pt/bmp-to-jpg.html",
+  "id": "/pt/bmp-to-jpg.html",
   "start_url": "./bmp-to-jpg.html",
   "scope": "./bmp-to-jpg.html",
   "display": "standalone",

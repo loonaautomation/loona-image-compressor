@@ -2,7 +2,7 @@
   "name": "Loona YouTube Videominiatyr-størrelse",
   "short_name": "YouTube",
   "description": "Lag en YouTube videominiatyr med nøyaktig 1280×720 px. Gratis størrelsesendrer/beskjærer i nettleseren din med reglene for sikre soner som stopper beskåret tekst og ansikter.",
-  "id": "/loona-image-compressor/nb/youtube-thumbnail-size.html",
+  "id": "/nb/youtube-thumbnail-size.html",
   "start_url": "./youtube-thumbnail-size.html",
   "scope": "./youtube-thumbnail-size.html",
   "display": "standalone",

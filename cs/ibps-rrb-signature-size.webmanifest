@@ -2,7 +2,7 @@
   "name": "Loona Velikost IBPS RRB (Gramin Bank) Podpis",
   "short_name": "Velikost IBPS RRB (Gramin",
   "description": "Změňte velikost souboru IBPS RRB (Gramin Bank) podpis na velikost podle oznámení (140 × 60 px) a pásmo 10–20 KB. Zdarma, ve vašem prohlížeči — bez nahrávání a bez registrace.",
-  "id": "/loona-image-compressor/cs/ibps-rrb-signature-size.html",
+  "id": "/cs/ibps-rrb-signature-size.html",
   "start_url": "./ibps-rrb-signature-size.html",
   "scope": "./ibps-rrb-signature-size.html",
   "display": "standalone",

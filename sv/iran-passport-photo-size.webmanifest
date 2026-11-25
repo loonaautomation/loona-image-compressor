@@ -2,7 +2,7 @@
   "name": "Loona Iranskt passfoto storlek",
   "short_name": "Iranskt passfoto storlek",
   "description": "Skapa ett Iranskt passfoto i den officiella storleken 30×40 mm (354×472 px), helvit eller ljus bakgrund. Gratis onlineskapare — beskär, ladda ner och skriv ut ark, ingen uppladdning.",
-  "id": "/loona-image-compressor/sv/iran-passport-photo-size.html",
+  "id": "/sv/iran-passport-photo-size.html",
   "start_url": "./iran-passport-photo-size.html",
   "scope": "./iran-passport-photo-size.html",
   "display": "standalone",

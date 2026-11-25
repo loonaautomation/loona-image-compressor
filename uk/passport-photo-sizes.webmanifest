@@ -2,7 +2,7 @@
   "name": "Loona Розміри фото на паспорт і візу за країнами",
   "short_name": "Розміри фото на паспорт і",
   "description": "Офіційні розміри фото на паспорт, візу й посвідчення для 40 країн і документів, кожен із конструктором у точному розмірі в міліметрах і пікселях.",
-  "id": "/loona-image-compressor/uk/passport-photo-sizes.html",
+  "id": "/uk/passport-photo-sizes.html",
   "start_url": "./passport-photo-sizes.html",
   "scope": "./passport-photo-sizes.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Japán útlevélfotó méret",
   "short_name": "Japán útlevélfotó méret",
   "description": "Készítsen Japán útlevélfotó fotót a hivatalos 35×45 mm (413×531 px) méretben, sima fehér vagy világos, minták nélkül háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/japan-passport-photo-size.html",
+  "id": "/hu/japan-passport-photo-size.html",
   "start_url": "./japan-passport-photo-size.html",
   "scope": "./japan-passport-photo-size.html",
   "display": "standalone",

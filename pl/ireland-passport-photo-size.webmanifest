@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do paszportu Irlandii",
   "short_name": "Rozmiar Zdjęcie do paszportu",
   "description": "Utwórz Zdjęcie do paszportu Irlandii w oficjalnym rozmiarze 35×45 mm (413×531 px), tło: gładkie białe lub jasnoszare. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/ireland-passport-photo-size.html",
+  "id": "/pl/ireland-passport-photo-size.html",
   "start_url": "./ireland-passport-photo-size.html",
   "scope": "./ireland-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Размер на Подпис за UPSC Civil Services (IAS)",
   "short_name": "Размер на Подпис за UPSC",
   "description": "Преоразмерете своя подпис за UPSC Civil Services (IAS) до размера от уведомлението (сканирано поле, съотношение около 7:2) и диапазона 20–300 KB. Безплатно, във вашия браузър — без качване, без регистрация.",
-  "id": "/loona-image-compressor/bg/upsc-cse-signature-size.html",
+  "id": "/bg/upsc-cse-signature-size.html",
   "start_url": "./upsc-cse-signature-size.html",
   "scope": "./upsc-cse-signature-size.html",
   "display": "standalone",

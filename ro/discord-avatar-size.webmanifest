@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Avatar de utilizator Discord",
   "short_name": "Dimensiune Avatar de",
   "description": "Creează un avatar de utilizator Discord la exact 800×800 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/discord-avatar-size.html",
+  "id": "/ro/discord-avatar-size.html",
   "start_url": "./discord-avatar-size.html",
   "scope": "./discord-avatar-size.html",
   "display": "standalone",

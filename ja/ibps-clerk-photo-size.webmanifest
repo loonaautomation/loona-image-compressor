@@ -2,7 +2,7 @@
   "name": "Loona IBPS Clerk (CSA)の写真サイズ",
   "short_name": "IBPS Clerk (CSA)の写真サイズ",
   "description": "IBPS Clerk (CSA)の写真を告知サイズ（200 × 230 px）と20–50 KBの帯域にリサイズできます。無料で、ブラウザ内で処理され、アップロードも登録も不要です。",
-  "id": "/loona-image-compressor/ja/ibps-clerk-photo-size.html",
+  "id": "/ja/ibps-clerk-photo-size.html",
   "start_url": "./ibps-clerk-photo-size.html",
   "scope": "./ibps-clerk-photo-size.html",
   "display": "standalone",

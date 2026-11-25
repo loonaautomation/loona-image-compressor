@@ -2,7 +2,7 @@
   "name": "Loona Instagram Profiilikuva koko",
   "short_name": "Instagram Profiilikuva koko",
   "description": "Tee Instagram profiilikuva tarkalleen kokoon 1080×1080 px. Ilmainen koonmuuttaja/rajaaja selaimessasi turva-alueen säännöillä, jotka estävät tekstin ja kasvojen rajautumisen pois.",
-  "id": "/loona-image-compressor/fi/instagram-profile-picture-size.html",
+  "id": "/fi/instagram-profile-picture-size.html",
   "start_url": "./instagram-profile-picture-size.html",
   "scope": "./instagram-profile-picture-size.html",
   "display": "standalone",

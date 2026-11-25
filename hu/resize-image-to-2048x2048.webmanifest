@@ -2,7 +2,7 @@
   "name": "Loona Kép átméretezése 2048 × 2048 px méretre online",
   "short_name": "Kép átméretezése 2048 × 2048",
   "description": "Méretezzen át bármely képet pontosan 2048×2048 px méretre — Nagy felbontású négyzet nyomtatáshoz és retina kijelzőkhöz. Ingyen, a böngészőjében, vágási vezérléssel; feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/resize-image-to-2048x2048.html",
+  "id": "/hu/resize-image-to-2048x2048.html",
   "start_url": "./resize-image-to-2048x2048.html",
   "scope": "./resize-image-to-2048x2048.html",
   "display": "standalone",

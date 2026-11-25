@@ -2,7 +2,7 @@
   "name": "Loona 美國護照照片 尺寸",
   "short_name": "美國護照照片 尺寸",
   "description": "按官方尺寸 51×51 mm（600×600 px）製作 美國護照照片，純白色背景。免費線上製作工具 — 裁剪、下載並列印照片頁，無需上傳。",
-  "id": "/loona-image-compressor/zh-hant/us-passport-photo-size.html",
+  "id": "/zh-hant/us-passport-photo-size.html",
   "start_url": "./us-passport-photo-size.html",
   "scope": "./us-passport-photo-size.html",
   "display": "standalone",

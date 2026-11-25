@@ -2,7 +2,7 @@
   "name": "Loona ブラジルパスポート／ビザ写真のサイズ",
   "short_name": "ブラジルパスポート／ビザ写真のサイズ",
   "description": "公式サイズ50×70 mm（591×827 px）、無地の白の背景でブラジルパスポート／ビザ写真を作成できます。無料のオンライン作成ツール — 切り取り、ダウンロード、印刷シートまで、アップロード不要です。",
-  "id": "/loona-image-compressor/ja/brazil-passport-photo-size.html",
+  "id": "/ja/brazil-passport-photo-size.html",
   "start_url": "./brazil-passport-photo-size.html",
   "scope": "./brazil-passport-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία Διαβατηρίου Νέας Ζηλανδίας",
   "short_name": "Φωτογραφία Διαβατηρίου Νέας",
   "description": "Δημιουργήστε Φωτογραφία Διαβατηρίου Νέας Ζηλανδίας στο επίσημο μέγεθος 35×45 mm (413×531 px), φόντο απλό, ανοιχτό, ουδέτερο φόντο (όχι καθοδήγηση καθαρού λευκού). Δωρεάν online δημιουργός — περικοπή, λήψη και φύλλο εκτύπωσης, χωρίς μεταφόρτωση.",
-  "id": "/loona-image-compressor/el/new-zealand-passport-photo-size.html",
+  "id": "/el/new-zealand-passport-photo-size.html",
   "start_url": "./new-zealand-passport-photo-size.html",
   "scope": "./new-zealand-passport-photo-size.html",
   "display": "standalone",

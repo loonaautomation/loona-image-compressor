@@ -2,7 +2,7 @@
   "name": "Loona שינוי גודל תמונה ל־390 × 567 px באינטרנט",
   "short_name": "שינוי גודל תמונה ל־390 × 567",
   "description": "שנו גודל של כל תמונה בדיוק ל־390×567 px — 33 × 48 מ&quot;מ ב־300 DPI — גודל ויזה לסין. בחינם בדפדפן שלכם עם בקרת חיתוך; ללא העלאה, ללא הרשמה.",
-  "id": "/loona-image-compressor/he/resize-image-to-390x567.html",
+  "id": "/he/resize-image-to-390x567.html",
   "start_url": "./resize-image-to-390x567.html",
   "scope": "./resize-image-to-390x567.html",
   "display": "standalone",

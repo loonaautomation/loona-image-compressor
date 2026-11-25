@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Foto Paspor Selandia Baru",
   "short_name": "Ukuran Foto Paspor Selandia",
   "description": "Buat Foto Paspor Selandia Baru pada ukuran resmi 35×45 mm (413×531 px), latar belakang latar belakang polos, terang, netral (panduan bukan putih murni). Pembuat online gratis — potong, unduh, dan cetak lembar, tanpa unggah.",
-  "id": "/loona-image-compressor/id/new-zealand-passport-photo-size.html",
+  "id": "/id/new-zealand-passport-photo-size.html",
   "start_url": "./new-zealand-passport-photo-size.html",
   "scope": "./new-zealand-passport-photo-size.html",
   "display": "standalone",

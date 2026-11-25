@@ -2,7 +2,7 @@
   "name": "Loona Kích thước ảnh hộ chiếu &amp; thị thực theo quốc gia",
   "short_name": "Kích thước ảnh hộ chiếu &amp;",
   "description": "Kích thước ảnh hộ chiếu, thị thực và giấy tờ tùy thân chính thức cho 40 quốc gia và tài liệu, mỗi loại kèm một công cụ tạo ảnh ở kích thước milimet và pixel chính xác.",
-  "id": "/loona-image-compressor/vi/passport-photo-sizes.html",
+  "id": "/vi/passport-photo-sizes.html",
   "start_url": "./passport-photo-sizes.html",
   "scope": "./passport-photo-sizes.html",
   "display": "standalone",

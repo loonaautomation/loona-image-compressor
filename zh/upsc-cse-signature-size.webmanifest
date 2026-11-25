@@ -2,7 +2,7 @@
   "name": "Loona UPSC Civil Services (IAS) 签名尺寸",
   "short_name": "UPSC Civil Services (IAS) 签名尺寸",
   "description": "将您的 UPSC Civil Services (IAS) 签名调整为通知规定的尺寸（扫描框，比例约 7:2）和 20–300 KB 范围。免费，在您的浏览器中完成 — 无需上传，无需注册。",
-  "id": "/loona-image-compressor/zh/upsc-cse-signature-size.html",
+  "id": "/zh/upsc-cse-signature-size.html",
   "start_url": "./upsc-cse-signature-size.html",
   "scope": "./upsc-cse-signature-size.html",
   "display": "standalone",

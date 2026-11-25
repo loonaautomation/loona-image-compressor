@@ -2,7 +2,7 @@
   "name": "Loona Розмір Фото на паспорт Ірану",
   "short_name": "Розмір Фото на паспорт Ірану",
   "description": "Зробіть Фото на паспорт Ірану в офіційному розмірі 30×40 мм (354×472 пікс.), тло: однотонне біле або світле. Безкоштовний онлайн-конструктор — обрізати, завантажити й аркуш для друку, без передавання.",
-  "id": "/loona-image-compressor/uk/iran-passport-photo-size.html",
+  "id": "/uk/iran-passport-photo-size.html",
   "start_url": "./iran-passport-photo-size.html",
   "scope": "./iran-passport-photo-size.html",
   "display": "standalone",

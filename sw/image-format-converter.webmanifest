@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji Umbizo la Picha",
   "short_name": "Kibadilishaji Umbizo la Picha",
   "description": "Badilisha picha kati ya JPG, PNG na WebP mtandaoni bure, kwa makundi, kwa udhibiti wa ubora na ubanaji wa mandharinyuma yenye uwazi. Hakuna kujisajili kunakohitajika.",
-  "id": "/loona-image-compressor/sw/image-format-converter.html",
+  "id": "/sw/image-format-converter.html",
   "start_url": "./image-format-converter.html",
   "scope": "./image-format-converter.html",
   "display": "standalone",

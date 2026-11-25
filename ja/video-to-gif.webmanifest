@@ -2,7 +2,7 @@
   "name": "Loona Video to GIF Converter",
   "short_name": "Video to GIF Converter",
   "description": "動画を GIF に無料でオンライン変換 — MP4 または WebM クリップをアニメーション GIF に。ブラウザベース、登録不要、アップロード不要、透かしなし。",
-  "id": "/loona-image-compressor/ja/video-to-gif.html",
+  "id": "/ja/video-to-gif.html",
   "start_url": "./video-to-gif.html",
   "scope": "./video-to-gif.html",
   "display": "standalone",

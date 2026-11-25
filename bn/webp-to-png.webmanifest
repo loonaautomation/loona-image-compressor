@@ -2,7 +2,7 @@
   "name": "Loona WebP থেকে PNG রূপান্তরকারী",
   "short_name": "WebP থেকে PNG রূপান্তরকারী",
   "description": "WebP-কে অনলাইনে বিনামূল্যে PNG-তে রূপান্তর করুন — এডিটর ও ডিজাইন টুলের জন্য স্বচ্ছতাসহ লসলেস PNG। আপনার ব্রাউজারে চলে, কোনো সাইনআপ নয়, কোনো আপলোড নয়।",
-  "id": "/loona-image-compressor/bn/webp-to-png.html",
+  "id": "/bn/webp-to-png.html",
   "start_url": "./webp-to-png.html",
   "scope": "./webp-to-png.html",
   "display": "standalone",

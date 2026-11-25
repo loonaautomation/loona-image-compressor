@@ -2,7 +2,7 @@
   "name": "Loona Vodoznak obrázka",
   "short_name": "Vodoznak obrázka",
   "description": "Pridajte textový vodoznak na akúkoľvek fotografiu online zadarmo — zvoľte text, veľkosť, farbu, krytie a pozíciu, alebo ho opakujte ako dláždený vzor. Živý náhľad, bez registrácie a váš obrázok nikdy neopustí vaše zariadenie.",
-  "id": "/loona-image-compressor/sk/image-watermark.html",
+  "id": "/sk/image-watermark.html",
   "start_url": "./image-watermark.html",
   "scope": "./image-watermark.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona حجم الصورة الفوتوغرافية CTET",
   "short_name": "حجم الصورة الفوتوغرافية CTET",
   "description": "غيّر حجم الصورة الخاص بك لامتحان CTET إلى حجم الإشعار (3.5 × 4.5 cm (نحو 413 × 531 px عند 300 DPI)) ونطاق 10–100 KB. مجاناً، في متصفحك — بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/ctet-photo-size.html",
+  "id": "/ar/ctet-photo-size.html",
   "start_url": "./ctet-photo-size.html",
   "scope": "./ctet-photo-size.html",
   "display": "standalone",

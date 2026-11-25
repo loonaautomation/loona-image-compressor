@@ -2,7 +2,7 @@
   "name": "Loona 画像をリサイズ",
   "short_name": "画像をリサイズ",
   "description": "ピクセル、cm、インチで任意の画像を無料でリサイズできます。アスペクト比を保持し、JPG、PNG、WebPを選び、即座にダウンロード — 登録は不要です。",
-  "id": "/loona-image-compressor/ja/resize-image.html",
+  "id": "/ja/resize-image.html",
   "start_url": "./resize-image.html",
   "scope": "./resize-image.html",
   "display": "standalone",

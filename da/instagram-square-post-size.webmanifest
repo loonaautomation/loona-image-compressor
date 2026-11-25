@@ -2,7 +2,7 @@
   "name": "Loona Instagram Kvadratisk opslag (1",
   "short_name": "Instagram Kvadratisk opslag (1",
   "description": "Lav en Instagram kvadratisk opslag (1:1) på præcis 1080×1080 px. Gratis størrelses- og beskæringsværktøj i din browser med sikkerhedszonereglerne, der forhindrer beskåret tekst og ansigter.",
-  "id": "/loona-image-compressor/da/instagram-square-post-size.html",
+  "id": "/da/instagram-square-post-size.html",
   "start_url": "./instagram-square-post-size.html",
   "scope": "./instagram-square-post-size.html",
   "display": "standalone",

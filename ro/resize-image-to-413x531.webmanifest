@@ -2,7 +2,7 @@
   "name": "Loona Redimensionează imaginea la 413 × 531 px online",
   "short_name": "Redimensionează imaginea la",
   "description": "Redimensionează orice imagine la exact 413×531 px — 35 × 45 mm la 300 DPI — dimensiunea de imprimare ICAO/Schengen în pixeli. Gratuit în browserul tău, cu control al decupării; fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/resize-image-to-413x531.html",
+  "id": "/ro/resize-image-to-413x531.html",
   "start_url": "./resize-image-to-413x531.html",
   "scope": "./resize-image-to-413x531.html",
   "display": "standalone",

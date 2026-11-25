@@ -2,7 +2,7 @@
   "name": "Loona CUET UG Signature Size",
   "short_name": "CUET UG Signature Size",
   "description": "Resize your CUET UG signature to the notification size (scanned box, ratio about 7:2) and 4–30 KB band. Free, in your browser — no upload, no signup.",
-  "id": "/loona-image-compressor/en-us/cuet-ug-signature-size.html",
+  "id": "/en-us/cuet-ug-signature-size.html",
   "start_url": "./cuet-ug-signature-size.html",
   "scope": "./cuet-ug-signature-size.html",
   "display": "standalone",

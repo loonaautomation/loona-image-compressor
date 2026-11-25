@@ -2,7 +2,7 @@
   "name": "Loona Zdjęcie egzaminacyjne z imieniem i datą",
   "short_name": "Zdjęcie egzaminacyjne z",
   "description": "Utwórz zdjęcie egzaminacyjne z imieniem i datą wydrukowanymi na dole za darmo — format egzaminów komisji używany w Pakistanie i Indiach. Prywatnie, rejestracja nie jest potrzebna.",
-  "id": "/loona-image-compressor/pl/exam-photo-name-date.html",
+  "id": "/pl/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

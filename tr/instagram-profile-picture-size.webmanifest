@@ -2,7 +2,7 @@
   "name": "Loona Instagram Profil Resmi Boyutu — 1080×1080 px",
   "short_name": "Instagram Profil Resmi Boyutu — 1080×1080 px",
   "description": "Tam olarak 1080×1080 px ölçüsünde bir Instagram profil resmi oluşturun. Kırpılan metin ve yüzleri engelleyen güvenli bölge kurallarıyla tarayıcınızda ücretsiz boyutlandırıcı/kırpıcı.",
-  "id": "/loona-image-compressor/tr/instagram-profile-picture-size.html",
+  "id": "/tr/instagram-profile-picture-size.html",
   "start_url": "./instagram-profile-picture-size.html",
   "scope": "./instagram-profile-picture-size.html",
   "display": "standalone",

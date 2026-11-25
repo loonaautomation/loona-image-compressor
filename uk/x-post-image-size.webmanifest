@@ -2,7 +2,7 @@
   "name": "Loona Розмір Зображення допису (16",
   "short_name": "Розмір Зображення допису (16",
   "description": "Зробіть зображення допису (16:9) для X (Twitter) рівно 1600×900 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/x-post-image-size.html",
+  "id": "/uk/x-post-image-size.html",
   "start_url": "./x-post-image-size.html",
   "scope": "./x-post-image-size.html",
   "display": "standalone",

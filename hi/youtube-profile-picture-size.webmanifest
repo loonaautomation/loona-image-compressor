@@ -2,7 +2,7 @@
   "name": "Loona YouTube चैनल प्रोफ़ाइल तस्वीर साइज़",
   "short_name": "YouTube चैनल प्रोफ़ाइल तस्वीर",
   "description": "YouTube चैनल प्रोफ़ाइल तस्वीर ठीक 800×800 px पर बनाएँ. आपके ब्राउज़र में मुफ़्त रीसाइज़र/क्रॉपर, उन सेफ़-ज़ोन नियमों के साथ जो क्रॉप हुए टेक्स्ट और चेहरों को रोकते हैं.",
-  "id": "/loona-image-compressor/hi/youtube-profile-picture-size.html",
+  "id": "/hi/youtube-profile-picture-size.html",
   "start_url": "./youtube-profile-picture-size.html",
   "scope": "./youtube-profile-picture-size.html",
   "display": "standalone",

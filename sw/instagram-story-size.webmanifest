@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Hadithi wa Instagram",
   "short_name": "Ukubwa wa Hadithi wa Instagram",
   "description": "Tengeneza hadithi ya Instagram katika px 1080×1920 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/instagram-story-size.html",
+  "id": "/sw/instagram-story-size.html",
   "start_url": "./instagram-story-size.html",
   "scope": "./instagram-story-size.html",
   "display": "standalone",

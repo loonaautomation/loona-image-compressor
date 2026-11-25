@@ -2,7 +2,7 @@
   "name": "Loona Pengubah Latar Belakang Foto",
   "short_name": "Pengubah Latar Belakang Foto",
   "description": "Ubah latar belakang foto menjadi putih, biru, abu-abu muda, atau merah secara gratis online. Isian banjir ditambah alat kuas, privat di browser Anda, tanpa unggahan AI.",
-  "id": "/loona-image-compressor/id/photo-background-changer.html",
+  "id": "/id/photo-background-changer.html",
   "start_url": "./photo-background-changer.html",
   "scope": "./photo-background-changer.html",
   "display": "standalone",

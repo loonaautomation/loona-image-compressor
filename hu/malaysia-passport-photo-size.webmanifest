@@ -2,7 +2,7 @@
   "name": "Loona Malajziai útlevélfotó méret",
   "short_name": "Malajziai útlevélfotó méret",
   "description": "Készítsen Malajziai útlevélfotó fotót a hivatalos 35×50 mm (413×591 px) méretben, sima fehér háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/malaysia-passport-photo-size.html",
+  "id": "/hu/malaysia-passport-photo-size.html",
   "start_url": "./malaysia-passport-photo-size.html",
   "scope": "./malaysia-passport-photo-size.html",
   "display": "standalone",

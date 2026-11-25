@@ -2,7 +2,7 @@
   "name": "Loona PNG → AVIF Dönüştürücü – Ücretsiz, Yüklemesiz",
   "short_name": "PNG → AVIF Dönüştürücü – Ücretsiz, Yüklemesiz",
   "description": "PNG formatını AVIF formatına çevrimiçi, ücretsiz, tarayıcınızda dönüştürün. Cihazınızda gerçek dönüştürme — yükleme yok, kayıt yok, filigran yok.",
-  "id": "/loona-image-compressor/tr/png-to-avif.html",
+  "id": "/tr/png-to-avif.html",
   "start_url": "./png-to-avif.html",
   "scope": "./png-to-avif.html",
   "display": "standalone",

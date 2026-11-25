@@ -2,7 +2,7 @@
   "name": "Loona Afbeelding bijsnijden online gratis",
   "short_name": "Afbeelding bijsnijden online",
   "description": "Snijd afbeeldingen gratis online bij met kant-en-klare verhoudingen — 1:1, 4:3, 16:9 en paspoort 35×45 — plus draaien en spiegelen. Download de exacte uitsnede op volledige resolutie.",
-  "id": "/loona-image-compressor/nl/crop-image.html",
+  "id": "/nl/crop-image.html",
   "start_url": "./crop-image.html",
   "scope": "./crop-image.html",
   "display": "standalone",

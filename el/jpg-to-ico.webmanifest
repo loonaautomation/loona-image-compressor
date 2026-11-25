@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας JPG σε ICO",
   "short_name": "Μετατροπέας JPG σε ICO",
   "description": "Μετατρέψτε JPG σε ICO online, δωρεάν, στο πρόγραμμα περιήγησής σας. Πραγματική μετατροπή στη συσκευή σας — χωρίς μεταφόρτωση, χωρίς εγγραφή, χωρίς υδατογραφήματα.",
-  "id": "/loona-image-compressor/el/jpg-to-ico.html",
+  "id": "/el/jpg-to-ico.html",
   "start_url": "./jpg-to-ico.html",
   "scope": "./jpg-to-ico.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Φωτογραφία NEET UG",
   "short_name": "Φωτογραφία NEET UG",
   "description": "Αλλάξτε το μέγεθος της φωτογραφία NEET UG στο μέγεθος της προκήρυξης (3.5 × 4.5 cm (περίπου 413 × 531 px στα 300 DPI)) και στη ζώνη 10–200 KB. Δωρεάν, στο πρόγραμμα περιήγησής σας — χωρίς μεταφόρτωση, χωρίς εγγραφή.",
-  "id": "/loona-image-compressor/el/neet-ug-photo-size.html",
+  "id": "/el/neet-ug-photo-size.html",
   "start_url": "./neet-ug-photo-size.html",
   "scope": "./neet-ug-photo-size.html",
   "display": "standalone",

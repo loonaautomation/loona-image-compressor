@@ -2,7 +2,7 @@
   "name": "Loona Indiskt passfoto storlek",
   "short_name": "Indiskt passfoto storlek",
   "description": "Skapa ett Indiskt passfoto i den officiella storleken 51×51 mm (600×600 px), helvit bakgrund. Gratis onlineskapare — beskär, ladda ner och skriv ut ark, ingen uppladdning.",
-  "id": "/loona-image-compressor/sv/india-passport-photo-size.html",
+  "id": "/sv/india-passport-photo-size.html",
   "start_url": "./india-passport-photo-size.html",
   "scope": "./india-passport-photo-size.html",
   "display": "standalone",

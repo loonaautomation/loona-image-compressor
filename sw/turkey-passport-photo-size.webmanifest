@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Pasipoti / Visa ya Uturuki (Biometriska)",
   "short_name": "Ukubwa wa Picha ya Pasipoti /",
   "description": "Tengeneza Picha ya Pasipoti / Visa ya Uturuki (Biometriska) katika ukubwa rasmi wa milimita 50×60 (px 591×709), mandharinyuma ya nyeupe tambarare. Kitengenezaji bure cha mtandaoni — kata, pakua na uchapishe karatasi, bila kupakia.",
-  "id": "/loona-image-compressor/sw/turkey-passport-photo-size.html",
+  "id": "/sw/turkey-passport-photo-size.html",
   "start_url": "./turkey-passport-photo-size.html",
   "scope": "./turkey-passport-photo-size.html",
   "display": "standalone",

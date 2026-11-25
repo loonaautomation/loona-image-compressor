@@ -2,7 +2,7 @@
   "name": "Loona ขนาดรูปโพสต์ชุมชน YouTube",
   "short_name": "ขนาดรูปโพสต์ชุมชน YouTube",
   "description": "ทำรูปโพสต์ชุมชน YouTube ที่ขนาด 1080×1080 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/youtube-community-post-size.html",
+  "id": "/th/youtube-community-post-size.html",
   "start_url": "./youtube-community-post-size.html",
   "scope": "./youtube-community-post-size.html",
   "display": "standalone",

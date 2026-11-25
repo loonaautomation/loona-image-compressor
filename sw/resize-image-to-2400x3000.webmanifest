@@ -2,7 +2,7 @@
   "name": "Loona Badilisha Ukubwa wa Picha hadi 2400 × 3000 px Mtandaoni",
   "short_name": "Badilisha Ukubwa wa Picha",
   "description": "Badilisha ukubwa wa picha yoyote hadi px 2400×3000 haswa — Uchapishaji wa inchi 8 × 10 katika DPI 300. Bure kwenye kivinjari chako kwa udhibiti wa kukata; bila kupakia, bila kujisajili.",
-  "id": "/loona-image-compressor/sw/resize-image-to-2400x3000.html",
+  "id": "/sw/resize-image-to-2400x3000.html",
   "start_url": "./resize-image-to-2400x3000.html",
   "scope": "./resize-image-to-2400x3000.html",
   "display": "standalone",

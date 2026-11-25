@@ -2,7 +2,7 @@
   "name": "Loona محوّل صيغ الصور",
   "short_name": "محوّل صيغ الصور",
   "description": "حوّل الصور بين JPG وPNG وWebP عبر الإنترنت مجانًا، على دفعات، مع تحكم في الجودة وتسطيح خلفية شفافة. لا تسجيل مطلوب.",
-  "id": "/loona-image-compressor/ar/image-format-converter.html",
+  "id": "/ar/image-format-converter.html",
   "start_url": "./image-format-converter.html",
   "scope": "./image-format-converter.html",
   "display": "standalone",

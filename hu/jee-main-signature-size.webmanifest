@@ -2,7 +2,7 @@
   "name": "Loona JEE Main Aláírás méret",
   "short_name": "JEE Main Aláírás méret",
   "description": "Méretezze át a JEE Main aláírás fájlját a kiírás szerinti méretre (szkennelt mező, kb. 7:2 arány) és a 4–30 KB-os tartományba. Ingyen, a böngészőjében — feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/jee-main-signature-size.html",
+  "id": "/hu/jee-main-signature-size.html",
   "start_url": "./jee-main-signature-size.html",
   "scope": "./jee-main-signature-size.html",
   "display": "standalone",

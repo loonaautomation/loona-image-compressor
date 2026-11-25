@@ -2,7 +2,7 @@
   "name": "Loona Tilpas billede til 1200 × 628",
   "short_name": "Tilpas billede til 1200 × 628",
   "description": "Tilpas ethvert billede til præcis 1200 × 628 pixels (Facebook- og LinkedIn-linkdelinger og -annoncer) gratis. Dæk, indehold eller stræk, JPG eller PNG, download med det samme — ingen tilmelding, intet uploadet.",
-  "id": "/loona-image-compressor/da/resize-image-to-1200x628.html",
+  "id": "/da/resize-image-to-1200x628.html",
   "start_url": "./resize-image-to-1200x628.html",
   "scope": "./resize-image-to-1200x628.html",
   "display": "standalone",

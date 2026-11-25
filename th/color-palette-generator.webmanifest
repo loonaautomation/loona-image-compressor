@@ -2,7 +2,7 @@
   "name": "Loona เครื่องสร้างพาเลตสี",
   "short_name": "เครื่องสร้างพาเลตสี",
   "description": "สร้างพาเลตสีที่กลมกลืนจากสีฐานใดก็ได้ — โครงการแบบคล้ายกัน แบบตรงข้าม แบบตรีสาม และแบบสีเดียวพร้อมโค้ด HEX ที่คัดลอกได้ ฟรี ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/color-palette-generator.html",
+  "id": "/th/color-palette-generator.html",
   "start_url": "./color-palette-generator.html",
   "scope": "./color-palette-generator.html",
   "display": "standalone",

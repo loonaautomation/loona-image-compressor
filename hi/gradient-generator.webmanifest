@@ -2,7 +2,7 @@
   "name": "Loona CSS ग्रेडिएंट जनरेटर",
   "short_name": "CSS ग्रेडिएंट जनरेटर",
   "description": "दो या तीन रंगों और किसी भी कोण के साथ CSS लीनियर ग्रेडिएंट बनाएँ, उन्हें लाइव प्रीव्यू करें और तैयार CSS कोड कॉपी करें। मुफ़्त, कोई साइनअप नहीं।",
-  "id": "/loona-image-compressor/hi/gradient-generator.html",
+  "id": "/hi/gradient-generator.html",
   "start_url": "./gradient-generator.html",
   "scope": "./gradient-generator.html",
   "display": "standalone",

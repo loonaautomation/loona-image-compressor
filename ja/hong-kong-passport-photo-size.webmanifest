@@ -2,7 +2,7 @@
   "name": "Loona 香港パスポート写真のサイズ",
   "short_name": "香港パスポート写真のサイズ",
   "description": "公式サイズ40×50 mm（472×591 px）、無地の白の背景で香港パスポート写真を作成できます。無料のオンライン作成ツール — 切り取り、ダウンロード、印刷シートまで、アップロード不要です。",
-  "id": "/loona-image-compressor/ja/hong-kong-passport-photo-size.html",
+  "id": "/ja/hong-kong-passport-photo-size.html",
   "start_url": "./hong-kong-passport-photo-size.html",
   "scope": "./hong-kong-passport-photo-size.html",
   "display": "standalone",

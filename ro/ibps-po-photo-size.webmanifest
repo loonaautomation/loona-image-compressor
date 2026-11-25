@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie IBPS PO",
   "short_name": "Dimensiune Fotografie IBPS PO",
   "description": "Redimensionează fotografie pentru IBPS PO la dimensiunea din notificare (200 × 230 px) și intervalul 20–50 KB. Gratuit, în browserul tău — fără încărcare, fără înregistrare.",
-  "id": "/loona-image-compressor/ro/ibps-po-photo-size.html",
+  "id": "/ro/ibps-po-photo-size.html",
   "start_url": "./ibps-po-photo-size.html",
   "scope": "./ibps-po-photo-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 照片转 PDF 转换器",
   "short_name": "照片转 PDF 转换器",
   "description": "免费在线将照片变成 PDF：添加 JPG、PNG 或 WebP 图片，选择 A4、Letter 或适配图片页面，并下载一个整洁的 PDF。无上传。",
-  "id": "/loona-image-compressor/zh/photo-to-pdf.html",
+  "id": "/zh/photo-to-pdf.html",
   "start_url": "./photo-to-pdf.html",
   "scope": "./photo-to-pdf.html",
   "display": "standalone",

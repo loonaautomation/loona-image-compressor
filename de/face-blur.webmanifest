@@ -2,7 +2,7 @@
   "name": "Loona Gesichtsunschärfe",
   "short_name": "Gesichtsunschärfe",
   "description": "Machen Sie Gesichter, Kennzeichen und private Details auf jedem Foto unscharf oder verpixeln Sie sie. Sie wählen die Bereiche selbst aus, wählen die Stärke, sehen eine Vorschau und laden herunter — kostenlos, ohne Anmeldung, und Ihr Foto verlässt Ihr Gerät nie.",
-  "id": "/loona-image-compressor/de/face-blur.html",
+  "id": "/de/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

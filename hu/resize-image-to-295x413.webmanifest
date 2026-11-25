@@ -2,7 +2,7 @@
   "name": "Loona Kép átméretezése 295 × 413 px méretre online",
   "short_name": "Kép átméretezése 295 × 413 px",
   "description": "Méretezzen át bármely képet pontosan 295×413 px méretre — 25 × 35 mm 300 DPI mellett — India PAN-kártya mérete. Ingyen, a böngészőjében, vágási vezérléssel; feltöltés és regisztráció nélkül.",
-  "id": "/loona-image-compressor/hu/resize-image-to-295x413.html",
+  "id": "/hu/resize-image-to-295x413.html",
   "start_url": "./resize-image-to-295x413.html",
   "scope": "./resize-image-to-295x413.html",
   "display": "standalone",

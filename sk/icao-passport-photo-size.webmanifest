@@ -2,7 +2,7 @@
   "name": "Loona Veľkosť Štandardná pasová fotografia ICAO (35×45 mm)",
   "short_name": "Veľkosť Štandardná pasová",
   "description": "Vytvorte Štandardná pasová fotografia ICAO (35×45 mm) v oficiálnej veľkosti 35×45 mm (413×531 px), pozadie: jednofarebné svetlé pozadie. Bezplatný online tvorca — orezanie, stiahnutie a tlačový hárok, bez nahrávania.",
-  "id": "/loona-image-compressor/sk/icao-passport-photo-size.html",
+  "id": "/sk/icao-passport-photo-size.html",
   "start_url": "./icao-passport-photo-size.html",
   "scope": "./icao-passport-photo-size.html",
   "display": "standalone",

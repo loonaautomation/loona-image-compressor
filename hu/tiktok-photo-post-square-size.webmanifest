@@ -2,7 +2,7 @@
   "name": "Loona TikTok Fotóbejegyzés (négyzetes) méret",
   "short_name": "TikTok Fotóbejegyzés",
   "description": "Készítsen TikTok fotóbejegyzés (négyzetes) képet pontosan 1080×1080 px méretben. Ingyenes átméretezés és vágás a böngészőjében, a biztonságos zóna szabályaival, hogy a szöveg és az arcok ne vágódjanak le.",
-  "id": "/loona-image-compressor/hu/tiktok-photo-post-square-size.html",
+  "id": "/hu/tiktok-photo-post-square-size.html",
   "start_url": "./tiktok-photo-post-square-size.html",
   "scope": "./tiktok-photo-post-square-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Розмір Банер каналу YouTube",
   "short_name": "Розмір Банер каналу YouTube",
   "description": "Зробіть банер каналу для YouTube рівно 2560×1440 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/youtube-banner-size.html",
+  "id": "/uk/youtube-banner-size.html",
   "start_url": "./youtube-banner-size.html",
   "scope": "./youtube-banner-size.html",
   "display": "standalone",

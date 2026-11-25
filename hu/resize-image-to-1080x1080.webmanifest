@@ -2,7 +2,7 @@
   "name": "Loona Kép átméretezése 1080 × 1080 méretre",
   "short_name": "Kép átméretezése 1080 × 1080",
   "description": "Méretezzen át bármilyen képet pontosan 1080 × 1080 pixelre (Instagram négyzetes bejegyzések és profilképek) ingyen. Befedés, befoglalás vagy nyújtás, JPG vagy PNG, azonnali letöltés — regisztráció nélkül, semmi feltöltve.",
-  "id": "/loona-image-compressor/hu/resize-image-to-1080x1080.html",
+  "id": "/hu/resize-image-to-1080x1080.html",
   "start_url": "./resize-image-to-1080x1080.html",
   "scope": "./resize-image-to-1080x1080.html",
   "display": "standalone",

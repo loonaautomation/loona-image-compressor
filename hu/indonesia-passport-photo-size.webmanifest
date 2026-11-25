@@ -2,7 +2,7 @@
   "name": "Loona Indonéz útlevélfotó méret",
   "short_name": "Indonéz útlevélfotó méret",
   "description": "Készítsen Indonéz útlevélfotó fotót a hivatalos 40×60 mm (472×709 px) méretben, piros (útlevelekhez) — fehér sok más igazolványhoz háttérrel. Ingyenes online készítő — vágás, letöltés és nyomtatási ív, feltöltés nélkül.",
-  "id": "/loona-image-compressor/hu/indonesia-passport-photo-size.html",
+  "id": "/hu/indonesia-passport-photo-size.html",
   "start_url": "./indonesia-passport-photo-size.html",
   "scope": "./indonesia-passport-photo-size.html",
   "display": "standalone",

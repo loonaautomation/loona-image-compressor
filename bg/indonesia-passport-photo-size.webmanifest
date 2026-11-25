@@ -2,7 +2,7 @@
   "name": "Loona Размер Снимка за паспорт на Индонезия",
   "short_name": "Размер Снимка за паспорт на",
   "description": "Направете Снимка за паспорт на Индонезия в официалния размер 40×60 mm (472×709 px), фон червен (за паспорти) — бял за много други лични документи. Безплатен онлайн инструмент — изрязване, изтегляне и лист за печат, без качване.",
-  "id": "/loona-image-compressor/bg/indonesia-passport-photo-size.html",
+  "id": "/bg/indonesia-passport-photo-size.html",
   "start_url": "./indonesia-passport-photo-size.html",
   "scope": "./indonesia-passport-photo-size.html",
   "display": "standalone",

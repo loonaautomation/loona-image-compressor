@@ -2,7 +2,7 @@
   "name": "Loona ขนาดสตอรี Instagram",
   "short_name": "ขนาดสตอรี Instagram",
   "description": "ทำสตอรี Instagram ที่ขนาด 1080×1920 px พอดี ตัวปรับขนาด/ครอบตัดฟรีในเบราว์เซอร์ของคุณ พร้อมกฎโซนปลอดภัยที่ช่วยไม่ให้ข้อความและใบหน้าถูกครอบตัด",
-  "id": "/loona-image-compressor/th/instagram-story-size.html",
+  "id": "/th/instagram-story-size.html",
   "start_url": "./instagram-story-size.html",
   "scope": "./instagram-story-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Resize Image to 1200 × 628",
   "short_name": "Resize Image to 1200 × 628",
   "description": "Resize any image to exactly 1200 × 628 pixels (Facebook and LinkedIn link shares and ads) for free. Cover, contain or stretch, JPG or PNG, download instantly — no signup, nothing uploaded.",
-  "id": "/loona-image-compressor/en-gb/resize-image-to-1200x628.html",
+  "id": "/en-gb/resize-image-to-1200x628.html",
   "start_url": "./resize-image-to-1200x628.html",
   "scope": "./resize-image-to-1200x628.html",
   "display": "standalone",

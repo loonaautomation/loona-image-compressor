@@ -2,7 +2,7 @@
   "name": "Loona GIF-PNG-muunnin",
   "short_name": "GIF-PNG-muunnin",
   "description": "Muunna GIF PNG:ksi verkossa ilmaiseksi — puhdas, häviötön pysäytyskuva GIF:stäsi. Selainpohjainen, ei rekisteröitymistä, ei latausta palvelimelle, ei vesileimaa.",
-  "id": "/loona-image-compressor/fi/gif-to-png.html",
+  "id": "/fi/gif-to-png.html",
   "start_url": "./gif-to-png.html",
   "scope": "./gif-to-png.html",
   "display": "standalone",

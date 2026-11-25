@@ -2,7 +2,7 @@
   "name": "Loona Pinterest Idépin / Story Storlek",
   "short_name": "Pinterest Idépin / Story",
   "description": "Skapa en Pinterest idépin / story på exakt 1080×1920 px. Gratis storleksändrare/beskärare i din webbläsare med säker-zon-reglerna som stoppar beskuren text och ansikten.",
-  "id": "/loona-image-compressor/sv/pinterest-idea-pin-size.html",
+  "id": "/sv/pinterest-idea-pin-size.html",
   "start_url": "./pinterest-idea-pin-size.html",
   "scope": "./pinterest-idea-pin-size.html",
   "display": "standalone",

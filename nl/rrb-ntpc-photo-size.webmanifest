@@ -2,7 +2,7 @@
   "name": "Loona Formaat RRB NTPC (Railways) Foto",
   "short_name": "Formaat RRB NTPC (Railways)",
   "description": "Pas je RRB NTPC (Railways)-foto aan naar het formaat uit de aankondiging (320 × 240 px) en de band van 30–70 KB. Gratis, in je browser — geen upload, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/rrb-ntpc-photo-size.html",
+  "id": "/nl/rrb-ntpc-photo-size.html",
   "start_url": "./rrb-ntpc-photo-size.html",
   "scope": "./rrb-ntpc-photo-size.html",
   "display": "standalone",

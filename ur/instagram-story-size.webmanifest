@@ -2,7 +2,7 @@
   "name": "Loona Instagram اسٹوری کا سائز",
   "short_name": "Instagram اسٹوری کا سائز",
   "description": "Instagram اسٹوری بالکل 1080×1920 px پر بنائیں۔ آپ کے براؤزر میں مفت ری سائزر/کراپر، محفوظ زون کے قواعد کے ساتھ جو کراپ شدہ متن اور چہروں کو روکتے ہیں۔",
-  "id": "/loona-image-compressor/ur/instagram-story-size.html",
+  "id": "/ur/instagram-story-size.html",
   "start_url": "./instagram-story-size.html",
   "scope": "./instagram-story-size.html",
   "display": "standalone",

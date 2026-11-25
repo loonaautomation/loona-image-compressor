@@ -2,7 +2,7 @@
   "name": "Loona TikTok Videoomslag størrelse",
   "short_name": "TikTok Videoomslag størrelse",
   "description": "Lav en TikTok videoomslag på præcis 1080×1920 px. Gratis størrelses- og beskæringsværktøj i din browser med sikkerhedszonereglerne, der forhindrer beskåret tekst og ansigter.",
-  "id": "/loona-image-compressor/da/tiktok-cover-size.html",
+  "id": "/da/tiktok-cover-size.html",
   "start_url": "./tiktok-cover-size.html",
   "scope": "./tiktok-cover-size.html",
   "display": "standalone",

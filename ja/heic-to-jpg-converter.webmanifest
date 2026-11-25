@@ -2,7 +2,7 @@
   "name": "Loona HEICからJPGへの変換ツール",
   "short_name": "HEICからJPGへの変換ツール",
   "description": "HEICをJPGにオンラインで変換できます。無料で、ブラウザ内で処理されます。iPhoneのHEIC写真を、どこでも開けるJPGに変換 — アップロード不要、登録不要、透かしなし。",
-  "id": "/loona-image-compressor/ja/heic-to-jpg-converter.html",
+  "id": "/ja/heic-to-jpg-converter.html",
   "start_url": "./heic-to-jpg-converter.html",
   "scope": "./heic-to-jpg-converter.html",
   "display": "standalone",

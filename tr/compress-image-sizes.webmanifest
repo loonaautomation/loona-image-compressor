@@ -2,7 +2,7 @@
   "name": "Loona Görüntüyü Herhangi Bir KB Boyutuna Sıkıştır — Tüm Hedefler ve Formatlar",
   "short_name": "Görüntüyü Herhangi Bir KB Boyutuna Sıkıştır — Tüm Hedefler ve Formatlar",
   "description": "Boyuta sıkıştıran her araç: JPG, PNG ve WebP&#x27;de 16 hedef boyut, 10 KB&#x27;den 2 MB&#x27;ye. Ücretsiz, tarayıcınızda.",
-  "id": "/loona-image-compressor/tr/compress-image-sizes.html",
+  "id": "/tr/compress-image-sizes.html",
   "start_url": "./compress-image-sizes.html",
   "scope": "./compress-image-sizes.html",
   "display": "standalone",

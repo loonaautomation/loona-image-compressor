@@ -2,7 +2,7 @@
   "name": "Loona X (Twitter) প্রতিকৃতি পোস্ট (4",
   "short_name": "X (Twitter) প্রতিকৃতি পোস্ট (4",
   "description": "ঠিক 1080×1350 px-এ একটি X (Twitter) প্রতিকৃতি পোস্ট (4:5) তৈরি করুন। আপনার ব্রাউজারে বিনামূল্যে রিসাইজার/ক্রপার, ক্রপ করা লেখা ও মুখ আটকায় এমন নিরাপদ-অঞ্চলের নিয়মসহ।",
-  "id": "/loona-image-compressor/bn/x-portrait-post-size.html",
+  "id": "/bn/x-portrait-post-size.html",
   "start_url": "./x-portrait-post-size.html",
   "scope": "./x-portrait-post-size.html",
   "display": "standalone",

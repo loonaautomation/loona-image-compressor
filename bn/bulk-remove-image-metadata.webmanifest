@@ -2,7 +2,7 @@
   "name": "Loona বাল্ক মেটাডেটা অপসারণকারী",
   "short_name": "বাল্ক মেটাডেটা অপসারণকারী",
   "description": "একসাথে অনেক ছবি থেকে EXIF, GPS ও XMP মেটাডেটা সরান — JPG, PNG ও WebP ফাইলের একটি ব্যাচ ফেলুন, আপনার ব্রাউজারে সবগুলো পরিষ্কার করুন এবং সবকিছু একটি ZIP হিসাবে ডাউনলোড করুন। বিনামূল্যে, গোপনীয়, কোনো আপলোড নয়, কোনো পুনরায় এনকোডিং নয়।",
-  "id": "/loona-image-compressor/bn/bulk-remove-image-metadata.html",
+  "id": "/bn/bulk-remove-image-metadata.html",
   "start_url": "./bulk-remove-image-metadata.html",
   "scope": "./bulk-remove-image-metadata.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Irsk pasfoto størrelse",
   "short_name": "Irsk pasfoto størrelse",
   "description": "Lav et Irsk pasfoto i den officielle størrelse 35×45 mm (413×531 px), ensfarvet hvid eller lysegrå baggrund. Gratis online værktøj — beskær, download og udskriv ark, ingen upload.",
-  "id": "/loona-image-compressor/da/ireland-passport-photo-size.html",
+  "id": "/da/ireland-passport-photo-size.html",
   "start_url": "./ireland-passport-photo-size.html",
   "scope": "./ireland-passport-photo-size.html",
   "display": "standalone",

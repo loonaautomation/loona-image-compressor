@@ -2,7 +2,7 @@
   "name": "Loona تغيير حجم الصورة إلى 1500 × 2100 px عبر",
   "short_name": "تغيير حجم الصورة إلى 1500 ×",
   "description": "غيّر حجم أي صورة إلى 1500×2100 px بالضبط — طبعة صورة 5 × 7 بوصة عند 300 DPI. مجاناً في متصفحك مع تحكم في القص؛ بلا رفع، بلا تسجيل.",
-  "id": "/loona-image-compressor/ar/resize-image-to-1500x2100.html",
+  "id": "/ar/resize-image-to-1500x2100.html",
   "start_url": "./resize-image-to-1500x2100.html",
   "scope": "./resize-image-to-1500x2100.html",
   "display": "standalone",

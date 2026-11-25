@@ -2,7 +2,7 @@
   "name": "Loona WebP 이미지를 250 KB로 압축하기 온라인",
   "short_name": "WebP 이미지를 250 KB로 압축하기 온라인",
   "description": "WebP 이미지를 250 KB 이하로 압축하세요. 브라우저에서 무료로 이용할 수 있어요. 자동 탐색으로 제한 안에 드는 최상의 품질을 찾아요 — 회원가입도, 업로드도 없어요.",
-  "id": "/loona-image-compressor/ko/compress-webp-to-250kb.html",
+  "id": "/ko/compress-webp-to-250kb.html",
   "start_url": "./compress-webp-to-250kb.html",
   "scope": "./compress-webp-to-250kb.html",
   "display": "standalone",

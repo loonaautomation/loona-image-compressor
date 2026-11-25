@@ -2,7 +2,7 @@
   "name": "Loona Komprimovať WebP na 25 KB online",
   "short_name": "Komprimovať WebP na 25 KB",
   "description": "Komprimujte obrázok WebP na 25 KB alebo menej, zadarmo vo svojom prehliadači. Automatické vyhľadávanie nájde najlepšiu kvalitu, ktorá sa do limitu zmestí — bez registrácie a bez nahrávania.",
-  "id": "/loona-image-compressor/sk/compress-webp-to-25kb.html",
+  "id": "/sk/compress-webp-to-25kb.html",
   "start_url": "./compress-webp-to-25kb.html",
   "scope": "./compress-webp-to-25kb.html",
   "display": "standalone",

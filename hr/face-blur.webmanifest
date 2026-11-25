@@ -2,7 +2,7 @@
   "name": "Loona Zamućenje lica",
   "short_name": "Zamućenje lica",
   "description": "Zamutite ili pikselizirajte lica, registarske tablice i privatne detalje na bilo kojoj fotografiji. Sami odabirete područja, birate jačinu, pregledavate i preuzimate — besplatno, bez registracije, a vaša fotografija nikada ne napušta vaš uređaj.",
-  "id": "/loona-image-compressor/hr/face-blur.html",
+  "id": "/hr/face-blur.html",
   "start_url": "./face-blur.html",
   "scope": "./face-blur.html",
   "display": "standalone",

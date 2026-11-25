@@ -2,7 +2,7 @@
   "name": "Loona Birač boje",
   "short_name": "Birač boje",
   "description": "Odaberite bilo koju boju i odmah kopirajte njezine HEX, RGB, HSL i HSV vrijednosti. Uključuje traku nijansi i tonova — besplatno, bez registracije, radi u vašem pregledniku.",
-  "id": "/loona-image-compressor/hr/color-picker.html",
+  "id": "/hr/color-picker.html",
   "start_url": "./color-picker.html",
   "scope": "./color-picker.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Australiskt passfoto storlek",
   "short_name": "Australiskt passfoto storlek",
   "description": "Skapa ett Australiskt passfoto i den officiella storleken 35×45 mm (413×531 px), helvit eller ljusgrå bakgrund. Gratis onlineskapare — beskär, ladda ner och skriv ut ark, ingen uppladdning.",
-  "id": "/loona-image-compressor/sv/australia-passport-photo-size.html",
+  "id": "/sv/australia-passport-photo-size.html",
   "start_url": "./australia-passport-photo-size.html",
   "scope": "./australia-passport-photo-size.html",
   "display": "standalone",

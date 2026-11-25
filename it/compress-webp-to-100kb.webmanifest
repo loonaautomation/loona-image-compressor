@@ -2,7 +2,7 @@
   "name": "Loona Comprimi WebP a 100 KB online",
   "short_name": "Comprimi WebP a 100 KB online",
   "description": "Comprimi un&#x27;immagine WebP a 100 KB o meno, gratis nel tuo browser. La ricerca automatica trova la migliore qualità possibile: senza registrazione e senza caricamenti.",
-  "id": "/loona-image-compressor/it/compress-webp-to-100kb.html",
+  "id": "/it/compress-webp-to-100kb.html",
   "start_url": "./compress-webp-to-100kb.html",
   "scope": "./compress-webp-to-100kb.html",
   "display": "standalone",

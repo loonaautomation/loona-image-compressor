@@ -2,7 +2,7 @@
   "name": "Loona حجم صورة جواز السفر الماليزي",
   "short_name": "حجم صورة جواز السفر الماليزي",
   "description": "اصنع صورة جواز السفر الماليزي بالحجم الرسمي 35×50 mm (413×591 px)، خلفية بيضاء سادة. صانع مجاني عبر الإنترنت — قص وتنزيل وورقة طباعة، بلا رفع.",
-  "id": "/loona-image-compressor/ar/malaysia-passport-photo-size.html",
+  "id": "/ar/malaysia-passport-photo-size.html",
   "start_url": "./malaysia-passport-photo-size.html",
   "scope": "./malaysia-passport-photo-size.html",
   "display": "standalone",

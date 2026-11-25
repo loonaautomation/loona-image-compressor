@@ -2,7 +2,7 @@
   "name": "Loona SVG-PNG-muunnin",
   "short_name": "SVG-PNG-muunnin",
   "description": "Muunna SVG PNG:ksi verkossa ilmaiseksi millä tahansa leveydellä — terävät rasterikuvat vektorilogoista ja kuvakkeista. Ei rekisteröitymistä, ei latausta palvelimelle, toimii selaimessasi.",
-  "id": "/loona-image-compressor/fi/svg-to-png.html",
+  "id": "/fi/svg-to-png.html",
   "start_url": "./svg-to-png.html",
   "scope": "./svg-to-png.html",
   "display": "standalone",

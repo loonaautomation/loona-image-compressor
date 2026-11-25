@@ -2,7 +2,7 @@
   "name": "Loona Yhdysvaltain passikuva koko",
   "short_name": "Yhdysvaltain passikuva koko",
   "description": "Tee Yhdysvaltain passikuva virallisessa koossa 51×51 mm (600×600 px), taustana tavallinen valkoinen. Ilmainen verkkotekijä — rajaa, lataa ja tulosta arkki, ilman palvelimelle lataamista.",
-  "id": "/loona-image-compressor/fi/us-passport-photo-size.html",
+  "id": "/fi/us-passport-photo-size.html",
   "start_url": "./us-passport-photo-size.html",
   "scope": "./us-passport-photo-size.html",
   "display": "standalone",

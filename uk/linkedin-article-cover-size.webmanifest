@@ -2,7 +2,7 @@
   "name": "Loona Розмір Обкладинка статті / розсилки LinkedIn",
   "short_name": "Розмір Обкладинка статті /",
   "description": "Зробіть обкладинка статті / розсилки для LinkedIn рівно 1200×644 пікс. Безкоштовний змінювач розміру/обрізувач у вашому браузері з правилами безпечної зони, що зупиняють обрізаний текст і обличчя.",
-  "id": "/loona-image-compressor/uk/linkedin-article-cover-size.html",
+  "id": "/uk/linkedin-article-cover-size.html",
   "start_url": "./linkedin-article-cover-size.html",
   "scope": "./linkedin-article-cover-size.html",
   "display": "standalone",

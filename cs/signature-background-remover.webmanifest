@@ -2,7 +2,7 @@
   "name": "Loona Odstraňovač pozadí podpisu",
   "short_name": "Odstraňovač pozadí podpisu",
   "description": "Odstraňte papírové pozadí z fotografie podpisu nebo razítka a stáhněte si průhledné PNG zdarma online. Čistě prohlížečový nástroj s plátnem – žádná umělá inteligence, žádné nahrávání, žádná registrace.",
-  "id": "/loona-image-compressor/cs/signature-background-remover.html",
+  "id": "/cs/signature-background-remover.html",
   "start_url": "./signature-background-remover.html",
   "scope": "./signature-background-remover.html",
   "display": "standalone",

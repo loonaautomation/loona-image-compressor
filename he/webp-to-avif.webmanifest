@@ -2,7 +2,7 @@
   "name": "Loona ממיר WEBP ל־AVIF",
   "short_name": "ממיר WEBP ל־AVIF",
   "description": "המירו WEBP ל־AVIF באינטרנט, בחינם, בדפדפן שלכם. המרה אמיתית במכשיר שלכם — ללא העלאה, ללא הרשמה, ללא סימני מים.",
-  "id": "/loona-image-compressor/he/webp-to-avif.html",
+  "id": "/he/webp-to-avif.html",
   "start_url": "./webp-to-avif.html",
   "scope": "./webp-to-avif.html",
   "display": "standalone",

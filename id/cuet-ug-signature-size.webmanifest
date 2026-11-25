@@ -2,7 +2,7 @@
   "name": "Loona Ukuran Tanda Tangan CUET UG",
   "short_name": "Ukuran Tanda Tangan CUET UG",
   "description": "Ubah ukuran tanda tangan CUET UG Anda ke ukuran pemberitahuan (kotak pindaian, rasio sekitar 7:2) dan rentang 4–30 KB. Gratis, di browser Anda — tanpa unggah, tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/cuet-ug-signature-size.html",
+  "id": "/id/cuet-ug-signature-size.html",
   "start_url": "./cuet-ug-signature-size.html",
   "scope": "./cuet-ug-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ขนาดลายเซ็นAFCAT",
   "short_name": "ขนาดลายเซ็นAFCAT",
   "description": "ปรับขนาดลายเซ็นAFCATของคุณให้เป็นขนาดตามประกาศ (กล่องที่สแกน อัตราส่วนประมาณ 7:2) และช่วง 10–50 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/afcat-signature-size.html",
+  "id": "/th/afcat-signature-size.html",
   "start_url": "./afcat-signature-size.html",
   "scope": "./afcat-signature-size.html",
   "display": "standalone",

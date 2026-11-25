@@ -2,7 +2,7 @@
   "name": "Loona Formaat UPSC NDA Foto",
   "short_name": "Formaat UPSC NDA Foto",
   "description": "Pas je UPSC NDA-foto aan naar het formaat uit de aankondiging (350 × 350 px) en de band van 20–300 KB. Gratis, in je browser — geen upload, geen aanmelding.",
-  "id": "/loona-image-compressor/nl/upsc-nda-photo-size.html",
+  "id": "/nl/upsc-nda-photo-size.html",
   "start_url": "./upsc-nda-photo-size.html",
   "scope": "./upsc-nda-photo-size.html",
   "display": "standalone",

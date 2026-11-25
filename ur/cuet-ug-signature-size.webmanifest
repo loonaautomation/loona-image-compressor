@@ -2,7 +2,7 @@
   "name": "Loona CUET UG دستخط کا سائز",
   "short_name": "CUET UG دستخط کا سائز",
   "description": "اپنی CUET UG دستخط کو نوٹیفکیشن سائز (اسکین شدہ ڈبہ، تناسب تقریباً 7:2) اور 4–30 KB بینڈ کے مطابق بنائیں۔ مفت، آپ کے براؤزر میں — نہ اپ لوڈ، نہ سائن اپ۔",
-  "id": "/loona-image-compressor/ur/cuet-ug-signature-size.html",
+  "id": "/ur/cuet-ug-signature-size.html",
   "start_url": "./cuet-ug-signature-size.html",
   "scope": "./cuet-ug-signature-size.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Velikost TikTok Záběr videa",
   "short_name": "Velikost TikTok Záběr videa",
   "description": "Vytvořte TikTok záběr videa přesně 1080×1920 px. Bezplatný nástroj na změnu velikosti/ořez ve vašem prohlížeči s pravidly bezpečné zóny, která zabrání oříznutí textu a obličejů.",
-  "id": "/loona-image-compressor/cs/tiktok-video-frame-size.html",
+  "id": "/cs/tiktok-video-frame-size.html",
   "start_url": "./tiktok-video-frame-size.html",
   "scope": "./tiktok-video-frame-size.html",
   "display": "standalone",

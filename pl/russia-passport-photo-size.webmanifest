@@ -2,7 +2,7 @@
   "name": "Loona Rozmiar Zdjęcie do paszportu / wizy Rosji",
   "short_name": "Rozmiar Zdjęcie do paszportu",
   "description": "Utwórz Zdjęcie do paszportu / wizy Rosji w oficjalnym rozmiarze 35×45 mm (413×531 px), tło: gładkie białe lub jasne. Darmowy kreator online — przytnij, pobierz i wydrukuj arkusz, bez przesyłania.",
-  "id": "/loona-image-compressor/pl/russia-passport-photo-size.html",
+  "id": "/pl/russia-passport-photo-size.html",
   "start_url": "./russia-passport-photo-size.html",
   "scope": "./russia-passport-photo-size.html",
   "display": "standalone",

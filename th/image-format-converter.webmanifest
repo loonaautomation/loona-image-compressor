@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงรูปแบบรูปภาพ",
   "short_name": "ตัวแปลงรูปแบบรูปภาพ",
   "description": "แปลงรูปภาพระหว่าง JPG, PNG และ WebP ออนไลน์ฟรี เป็นชุด พร้อมการควบคุมคุณภาพและการทำให้พื้นหลังโปร่งใสแบน ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/image-format-converter.html",
+  "id": "/th/image-format-converter.html",
   "start_url": "./image-format-converter.html",
   "scope": "./image-format-converter.html",
   "display": "standalone",

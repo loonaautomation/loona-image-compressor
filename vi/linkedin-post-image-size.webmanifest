@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ảnh bài đăng LinkedIn",
   "short_name": "Kích thước Ảnh bài đăng",
   "description": "Tạo ảnh bài đăng LinkedIn chính xác 1200×627 px. Công cụ thay đổi kích thước/cắt ảnh miễn phí trong trình duyệt của bạn, kèm các quy tắc vùng an toàn giúp văn bản và khuôn mặt không bị cắt mất.",
-  "id": "/loona-image-compressor/vi/linkedin-post-image-size.html",
+  "id": "/vi/linkedin-post-image-size.html",
   "start_url": "./linkedin-post-image-size.html",
   "scope": "./linkedin-post-image-size.html",
   "display": "standalone",

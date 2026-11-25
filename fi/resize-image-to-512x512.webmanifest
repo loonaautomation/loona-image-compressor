@@ -2,7 +2,7 @@
   "name": "Loona Muuta kuvan koko kokoon 512 × 512",
   "short_name": "Muuta kuvan koko kokoon 512 ×",
   "description": "Muuta minkä tahansa kuvan koko täsmälleen kokoon 512 × 512 pikseliä (sovelluskuvakkeet, avatarit ja favicon-pääkuvat) ilmaiseksi. Peitä, sisällä tai venytä, JPG tai PNG, lataa heti — ei rekisteröitymistä, mitään ei ladata palvelimelle.",
-  "id": "/loona-image-compressor/fi/resize-image-to-512x512.html",
+  "id": "/fi/resize-image-to-512x512.html",
   "start_url": "./resize-image-to-512x512.html",
   "scope": "./resize-image-to-512x512.html",
   "display": "standalone",

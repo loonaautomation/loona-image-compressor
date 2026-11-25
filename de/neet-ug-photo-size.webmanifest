@@ -2,7 +2,7 @@
   "name": "Loona NEET UG Foto Größe",
   "short_name": "NEET UG Foto Größe",
   "description": "Passen Sie Ihr NEET UG-Foto auf die Größe der Bekanntmachung (3,5 × 4,5 cm (etwa 413 × 531 px bei 300 DPI)) und den Bereich 10–200 KB an. Kostenlos, in Ihrem Browser — ohne Upload, ohne Anmeldung.",
-  "id": "/loona-image-compressor/de/neet-ug-photo-size.html",
+  "id": "/de/neet-ug-photo-size.html",
   "start_url": "./neet-ug-photo-size.html",
   "scope": "./neet-ug-photo-size.html",
   "display": "standalone",

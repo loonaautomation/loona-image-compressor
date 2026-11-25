@@ -2,7 +2,7 @@
   "name": "Loona ขนาดลายเซ็นSSC MTS",
   "short_name": "ขนาดลายเซ็นSSC MTS",
   "description": "ปรับขนาดลายเซ็นSSC MTSของคุณให้เป็นขนาดตามประกาศ (140 × 60 px) และช่วง 10–20 KB ฟรี ในเบราว์เซอร์ของคุณ — ไม่มีการอัปโหลด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-image-compressor/th/ssc-mts-signature-size.html",
+  "id": "/th/ssc-mts-signature-size.html",
   "start_url": "./ssc-mts-signature-size.html",
   "scope": "./ssc-mts-signature-size.html",
   "display": "standalone",

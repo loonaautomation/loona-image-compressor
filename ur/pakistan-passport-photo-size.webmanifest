@@ -2,7 +2,7 @@
   "name": "Loona پاکستان پاسپورٹ تصویر کی تصویر کا سائز",
   "short_name": "پاکستان پاسپورٹ تصویر کی",
   "description": "سرکاری سائز 51×51 mm (600×600 px) پر پاکستان پاسپورٹ تصویر بنائیں، سادہ سفید پس منظر کے ساتھ۔ مفت آن لائن میکر — کراپ، ڈاؤن لوڈ اور پرنٹ شیٹ، بغیر اپ لوڈ۔",
-  "id": "/loona-image-compressor/ur/pakistan-passport-photo-size.html",
+  "id": "/ur/pakistan-passport-photo-size.html",
   "start_url": "./pakistan-passport-photo-size.html",
   "scope": "./pakistan-passport-photo-size.html",
   "display": "standalone",

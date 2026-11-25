@@ -2,7 +2,7 @@
   "name": "Loona Picha ya Mtihani yenye Jina na Tarehe",
   "short_name": "Picha ya Mtihani yenye Jina",
   "description": "Tengeneza picha ya mtihani yenye jina lako na tarehe vilivyochapishwa chini bure — umbizo la mtihani wa bodi linalotumika Pakistan na India. Faragha, hakuna kujisajili kunakohitajika.",
-  "id": "/loona-image-compressor/sw/exam-photo-name-date.html",
+  "id": "/sw/exam-photo-name-date.html",
   "start_url": "./exam-photo-name-date.html",
   "scope": "./exam-photo-name-date.html",
   "display": "standalone",

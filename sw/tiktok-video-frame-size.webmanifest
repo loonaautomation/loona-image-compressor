@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Fremu ya Video wa TikTok",
   "short_name": "Ukubwa wa Fremu ya Video wa",
   "description": "Tengeneza fremu ya video ya TikTok katika px 1080×1920 haswa. Kibadilishaji/kikataji bure kwenye kivinjari chako na sheria za eneo salama zinazozuia maandishi na nyuso zilizokatwa.",
-  "id": "/loona-image-compressor/sw/tiktok-video-frame-size.html",
+  "id": "/sw/tiktok-video-frame-size.html",
   "start_url": "./tiktok-video-frame-size.html",
   "scope": "./tiktok-video-frame-size.html",
   "display": "standalone",

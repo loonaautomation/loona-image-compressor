@@ -2,7 +2,7 @@
   "name": "Loona Kích thước Ảnh thị thực Ả Rập Xê Út",
   "short_name": "Kích thước Ảnh thị thực Ả Rập",
   "description": "Tạo Ảnh thị thực Ả Rập Xê Út ở kích thước chính thức 40×60 mm (472×709 px), nền trắng trơn. Công cụ tạo ảnh trực tuyến miễn phí — cắt, tải xuống và in tờ in, không tải lên.",
-  "id": "/loona-image-compressor/vi/saudi-visa-photo-size.html",
+  "id": "/vi/saudi-visa-photo-size.html",
   "start_url": "./saudi-visa-photo-size.html",
   "scope": "./saudi-visa-photo-size.html",
   "display": "standalone",

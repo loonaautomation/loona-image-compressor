@@ -2,7 +2,7 @@
   "name": "Loona Ukubwa wa Picha ya Pasipoti / Visa ya Thailand",
   "short_name": "Ukubwa wa Picha ya Pasipoti /",
   "description": "Tengeneza Picha ya Pasipoti / Visa ya Thailand katika ukubwa rasmi wa milimita 35×45 (px 413×531), mandharinyuma ya nyeupe tambarare. Kitengenezaji bure cha mtandaoni — kata, pakua na uchapishe karatasi, bila kupakia.",
-  "id": "/loona-image-compressor/sw/thailand-passport-photo-size.html",
+  "id": "/sw/thailand-passport-photo-size.html",
   "start_url": "./thailand-passport-photo-size.html",
   "scope": "./thailand-passport-photo-size.html",
   "display": "standalone",

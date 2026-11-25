@@ -2,7 +2,7 @@
   "name": "Loona Konverter Format Gambar",
   "short_name": "Konverter Format Gambar",
   "description": "Konversi gambar antara JPG, PNG, dan WebP online gratis, dalam batch, dengan kontrol kualitas dan perataan latar belakang transparan. Tanpa pendaftaran.",
-  "id": "/loona-image-compressor/id/image-format-converter.html",
+  "id": "/id/image-format-converter.html",
   "start_url": "./image-format-converter.html",
   "scope": "./image-format-converter.html",
   "display": "standalone",

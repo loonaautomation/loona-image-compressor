@@ -2,7 +2,7 @@
   "name": "Loona Převodník AVIF na PNG",
   "short_name": "Převodník AVIF na PNG",
   "description": "Převeďte AVIF na PNG online, zdarma, ve svém prohlížeči. Skutečný převod ve vašem zařízení — bez nahrávání, bez registrace, bez vodoznaků.",
-  "id": "/loona-image-compressor/cs/avif-to-png.html",
+  "id": "/cs/avif-to-png.html",
   "start_url": "./avif-to-png.html",
   "scope": "./avif-to-png.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Fotografie pentru pașaportul / actul de identitate al Franței",
   "short_name": "Dimensiune Fotografie pentru",
   "description": "Creează un Fotografie pentru pașaportul / actul de identitate al Franței la dimensiunea oficială 35×45 mm (413×531 px), fundal gri deschis simplu sau albastru deschis. Creator online gratuit — decupează, descarcă și imprimă foaia, fără încărcare.",
-  "id": "/loona-image-compressor/ro/france-passport-photo-size.html",
+  "id": "/ro/france-passport-photo-size.html",
   "start_url": "./france-passport-photo-size.html",
   "scope": "./france-passport-photo-size.html",
   "display": "standalone",

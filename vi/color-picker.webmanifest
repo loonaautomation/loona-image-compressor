@@ -2,7 +2,7 @@
   "name": "Loona Bộ chọn màu",
   "short_name": "Bộ chọn màu",
   "description": "Chọn bất kỳ màu nào và sao chép ngay lập tức các giá trị HEX, RGB, HSL và HSV của nó. Bao gồm một dải sắc thái sáng và tối — miễn phí, không cần đăng ký, hoạt động trong trình duyệt của bạn.",
-  "id": "/loona-image-compressor/vi/color-picker.html",
+  "id": "/vi/color-picker.html",
   "start_url": "./color-picker.html",
   "scope": "./color-picker.html",
   "display": "standalone",

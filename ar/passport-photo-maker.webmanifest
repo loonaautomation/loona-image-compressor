@@ -2,7 +2,7 @@
   "name": "Loona صانع صور جواز السفر بحجمها",
   "short_name": "صانع صور جواز السفر بحجمها",
   "description": "اصنع صورة بحجم جواز السفر عبر الإنترنت مجانًا: اقص أي صورة إلى 35×45 mm أو 2×2 بوصة عند 300 DPI الجاهز للطباعة. بلا تسجيل، بلا علامة مائية، خصوصية كاملة.",
-  "id": "/loona-image-compressor/ar/passport-photo-maker.html",
+  "id": "/ar/passport-photo-maker.html",
   "start_url": "./passport-photo-maker.html",
   "scope": "./passport-photo-maker.html",
   "display": "standalone",

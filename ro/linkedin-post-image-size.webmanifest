@@ -2,7 +2,7 @@
   "name": "Loona Dimensiune Imagine de postare LinkedIn",
   "short_name": "Dimensiune Imagine de postare",
   "description": "Creează un imagine de postare LinkedIn la exact 1200×627 px. Redimensionator/decupator gratuit în browserul tău, cu regulile zonei sigure care împiedică tăierea textului și a fețelor.",
-  "id": "/loona-image-compressor/ro/linkedin-post-image-size.html",
+  "id": "/ro/linkedin-post-image-size.html",
   "start_url": "./linkedin-post-image-size.html",
   "scope": "./linkedin-post-image-size.html",
   "display": "standalone",

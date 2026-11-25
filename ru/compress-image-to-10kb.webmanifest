@@ -2,7 +2,7 @@
   "name": "Loona Сжать изображение до 10 KB онлайн",
   "short_name": "Сжать изображение до 10 KB онлайн",
   "description": "Compress JPG, PNG and WebP images to 10 KB or under, online and free. Automatic quality and size search in your browser — no signup, no upload.",
-  "id": "/loona-image-compressor/compress-image-to-10kb.html",
+  "id": "/compress-image-to-10kb.html",
   "start_url": "./compress-image-to-10kb.html",
   "scope": "./compress-image-to-10kb.html",
   "display": "standalone",
