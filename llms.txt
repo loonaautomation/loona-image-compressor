@@ -49,4 +49,4 @@
 
 - All tools are free, need no sign-up, and process images only on the visitor's device — nothing is uploaded.
 - The compressor hits an exact target size (for example 50 KB, 100 KB or 200 KB) and supports batch compression with a single ZIP download.
-- Contact: loonaautomation@gmail.com. Publisher: Loona Automation (https://loonaautomation.github.io/).
+- Contact: loonaautomation@gmail.com. Publisher: Loona Automation (https://loonaautomation.com/).
