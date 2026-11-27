@@ -112,39 +112,46 @@ img.preview{max-width:100%;border:1px solid var(--line);border-radius:8px;backgr
 
 <section class="content">
 <h2>Como comprimir uma imagem para 10 KB em 3 passos</h2>
-<ol><li><strong>Adicionar a sua imagem</strong> — largue um JPG, PNG ou WebP acima ou clique para procurar. Nada é enviado; a imagem fica no seu dispositivo.</li>
-<li><strong>Pressione «Comprimir para 10 KB»</strong> — a ferramenta procura automaticamente a qualidade JPG mais alta cujo arquivo caiba em 10 KB, e só reduz as dimensões se a qualidade por si só não conseguir lá chegar.</li>
-<li><strong>Transferir o resultado</strong> — vê o tamanho original, o tamanho final e as dimensões finais antes de transferir, incluindo uma nota honesta se as dimensões tiveram de ser reduzidas.</li></ol>
+<ol><li><strong>Comece pela imagem certa</strong> — 10 KB é o tamanho ideal para uma assinatura digitalizada, uma pequena fotografia tipo documento ou um gráfico simples. Corte primeiro as margens em branco: cada borda vazia que retirar é orçamento que os traços da caneta ou o rosto podem usar.</li><li><strong>Pressione «Comprimir para 10 KB»</strong> — a ferramenta experimenta primeiro a qualidade JPG (92%, depois uma procura até 5%) e, como 10240 bytes é um limite muito apertado para uma fotografia, normalmente também reduz as dimensões 15% de cada vez até o arquivo caber.</li><li><strong>Verifique a linha de resultado antes de transferir</strong> — ela indica o tamanho final em píxeis (uma digitalização de assinatura de 1,2 MB costuma ficar perto de 700 × 300 px). Amplie uma vez: os traços da assinatura devem estar contínuos, mesmo que o resultado seja mais pequeno do que o original.</li></ol>
 <h2>Quem precisa de uma imagem com menos de 10 KB?</h2>
 <p>Esta página existe para os limites de envio mais rigorosos da web — na maioria das vezes, uma assinatura digitalizada num formulário de emprego, exame ou governamental, ou um limite de fotografia minúsculo num portal antigo. Em vez de adivinhar com um cursor de qualidade e voltar salvando cinco vezes, indica o limite uma vez e a ferramenta procura por si: primeiro a qualidade em tamanho completo e depois — só se necessário — dimensões mais pequenas, até o arquivo caber com 10 KB ou menos.</p>
 <p>Dez quilobytes é muito pouco para uma fotografia. Espere um amaciamento visível numa fotografia detalhada com este tamanho; adequa-se melhor a assinaturas, pequenas imagens de estilo documento e gráficos simples.</p>
-<h2>Como funciona</h2>
-<p>A imagem é descodificada localmente no seu navegador e desenhada num canvas. É primeiro codificada como JPG com 92% de qualidade. Se isso já couber em 10 KB, está feito. Se não, uma procura binária entre 5% e 92% de qualidade encontra a qualidade mais alta que cabe, mantendo as dimensões completas. Só quando mesmo a qualidade mais baixa continua demasiado grande é que a ferramenta reduz as dimensões 15% de cada vez (recodificando com 70% de qualidade) até o arquivo caber — e quando isso acontece, a linha de resultado diz isso mesmo e indica as dimensões finais. A saída é sempre um JPG com 10 KB ou menos (10240 bytes) e, como tudo acontece no seu dispositivo, a sua imagem nunca é enviada.</p>
+<h2>Como funciona</h2><p>Dez KB é o objetivo mais apertado deste site, por isso esta página se explica de outra forma: começa pelo destino do arquivo. Um limite de 10 KB significa quase sempre uma assinatura digitalizada ou uma fotografia de formulário muito pequena, e a procura foi feita exatamente para isso. O seu navegador descodifica a imagem num canvas e experimenta primeiro um JPG com 92% de qualidade — para uma digitalização simples de assinatura, isso pode ocasionalmente bastar. Quando não basta, uma procura binária entre 5% e 92% de qualidade procura a melhor qualidade que caiba em 10240 bytes no tamanho completo. Numa digitalização de assinatura de 1,2 MB, a qualidade sozinha continua a não chegar, por isso a ferramenta reduz então as dimensões 15% de cada vez, recodificando com 70% de qualidade, até o arquivo caber — nesse exemplo, a cerca de 700 × 300 px, ainda perfeitamente legível como assinatura. A linha de resultado indica sempre as dimensões finais quando estas mudam. O resultado é um JPG com 10 KB ou menos, produzido inteiramente no seu dispositivo.</p>
 <h3>Exemplo prático</h3>
-<p>Uma assinatura digitalizada salva como um JPG de 1,2 MB tem de caber num formulário que só permite 10 KB. A qualidade por si só não consegue lá chegar, pelo que a ferramenta reduz as dimensões da digitalização passo a passo (neste exemplo, para cerca de 700 × 300 px, ainda perfeitamente legível para uma assinatura) e termina em <strong>mesmo abaixo de 10 KB</strong> — e a linha de resultado diz-lhe claramente que as dimensões foram reduzidas, e até quanto.</p>
+<p>Uma assinatura digitalizada guardada como JPG de 1,2 MB tem de caber num formulário que só permite 10 KB. A qualidade sozinha não chega lá, por isso a ferramenta reduz as dimensões da digitalização passo a passo (neste exemplo, para cerca de 700 × 300 px, ainda perfeitamente legível para uma assinatura) e fica em <strong>pouco menos de 10 KB</strong> — e a linha de resultado diz-lhe claramente que as dimensões foram reduzidas, e para quanto.</p>
 <h3>Perguntas frequentes</h3>
-<h4>A minha imagem comprimida vai ficar exatamente com 10 KB?</h4>
-<p>Não — ficará com 10 KB ou menos, nunca preenchida até ao limite. A ferramenta procura a qualidade mais alta que caiba dentro do limite, pelo que o resultado fica normalmente apenas alguns KB abaixo dele. «Abaixo do limite» é o que os formulários de envio exigem de fato.</p>
-<h4>Porque é que as dimensões da minha imagem mudaram?</h4>
-<p>Apenas quando não houve outra forma: a qualidade JPG tem um piso, e uma fotografia detalhada em tamanho completo nem sempre consegue chegar a 10 KB só com qualidade. Nesse caso, a ferramenta reduz as dimensões passo a passo e indica-lhe o tamanho final em píxeis na linha de resultado.</p>
-<h4>Porque é que a saída é sempre JPG?</h4>
-<p>O JPG produz o arquivo mais pequeno para fotografias e é aceite por todos os formulários e portais. O PNG não tem controlo de qualidade, pelo que acertar num tamanho exato com PNG não é fiável — é por isso que esta página, tal como o modo de destino do compressor principal da Loona, produz JPG.</p>
-<h4>O que significa KB aqui — 1000 ou 1024 bytes?</h4>
-<p>Esta ferramenta conta 1 KB como 1024 bytes, pelo que o objetivo é 10240 bytes. Alguns portais contam 1000 bytes por KB; se o seu o fizer, o seu arquivo com 10 KB ou menos (base 1024) continua dentro de uma pequena porcentagem — para os portais mais rigorosos, escolha o tamanho imediatamente abaixo para jogar pelo seguro.</p>
-<h4>A minha imagem é enviada para um servidor?</h4>
-<p>Não. A compressão acontece 100% no seu navegador, através da API Canvas. As suas imagens nunca saem do dispositivo.</p>
-<h4>Este compressor de 10 KB é gratuito?</h4>
-<p>Sim — completamente gratuito, sem registro, sem marca de água e sem limite ao número de imagens.</p>
-<h2 id="all-tools">Mais ferramentas de fotografia gratuitas</h2>
+<h4>O meu arquivo vai ter exatamente 10 KB?</h4>
+<p>Não. Fica com 10240 bytes ou menos — a qualidade mais alta que couber, nunca enchido até ao número. Os formulários pedem um máximo, e «pouco menos» é exatamente o que passa.</p>
+<h4>Porque é que a minha fotografia saiu mais pequena em píxeis?</h4>
+<p>Com 10 KB, uma fotografia detalhada em tamanho completo não cabe só com a qualidade — a qualidade JPG chega primeiro ao limite mínimo. Por isso, a ferramenta reduz as dimensões por passos e imprime o tamanho final na linha de resultado; para uma assinatura ou um gráfico simples, o tamanho mais pequeno continua perfeitamente legível.</p>
+<h4>A minha assinatura ficou esbatida depois da compressão — o que ajuda?</h4>
+<p>Parta de uma digitalização mais escura e com mais contraste e corte bem junto à assinatura. Linhas sobre branco limpo comprimem muito melhor do que uma fotografia cinzenta e com sombras de papel.</p>
+<h4>Porquê JPG e não PNG?</h4>
+<p>O PNG não tem controlo de qualidade, por isso um objetivo exato em bytes é quase impossível de atingir com ele. É o controlo de qualidade do JPG que permite à procura parar precisamente abaixo dos 10240 bytes, e todos os formulários aceitam JPG.</p>
+<h4>Os 10 KB aqui significam 10000 bytes?</h4>
+<p>Não — esta ferramenta conta 1 KB como 1024 bytes, por isso o limite é 10240 bytes. Um portal que conte 1000 bytes por KB pode ler um resultado mesmo abaixo do nosso limite como ligeiramente acima do seu; se o seu portal for assim tão rigoroso, corte mais junto ou parta de uma digitalização mais pequena para o resultado ficar bem abaixo do limite.</p>
+<h4>Alguma coisa é enviada?</h4>
+<p>Nada. O trabalho no canvas acontece no seu navegador, no seu dispositivo — uma assinatura, de todas as imagens, nunca deveria estar no servidor de um desconhecido, e aqui não está.</p>
+<h4>É mesmo grátis para uso repetido?</h4>
+<p>Sim: grátis, sem conta, sem marca de água e sem limite por imagem — compressione tantas assinaturas e fotografias de formulário quantas o dia exigir.</p><h2 id="all-tools">Mais ferramentas de fotografia gratuitas</h2>
 <div class="grid">
 <div class="tool-card"><a href="./">Compressor de Imagens</a><p>Comprima fotografias para qualquer tamanho exato em KB com a ferramenta completa.</p></div>
 <div class="tool-card"><a href="image-format-converter.html">Conversor de Formatos de Imagem</a><p>Converta JPG, PNG e WebP nos dois sentidos, com controlo de qualidade.</p></div>
 <div class="tool-card"><a href="compress-image-to-20kb.html">Comprimir Imagem para 20 KB</a><p>Comprima qualquer imagem para 20 KB ou menos, automaticamente.</p></div>
+<div class="tool-card"><a href="compress-image-to-25kb.html">Comprimir Imagem para 25 KB</a><p>Compressione qualquer imagem para 25 KB ou menos, automaticamente.</p></div>
 <div class="tool-card"><a href="compress-image-to-30kb.html">Comprimir Imagem para 30 KB</a><p>Comprima qualquer imagem para 30 KB ou menos, automaticamente.</p></div>
 <div class="tool-card"><a href="compress-image-to-40kb.html">Comprimir Imagem para 40 KB</a><p>Comprima qualquer imagem para 40 KB ou menos, automaticamente.</p></div>
+<div class="tool-card"><a href="compress-image-to-50kb.html">Comprimir Imagem para 50 KB</a><p>Compressione qualquer imagem para 50 KB ou menos, automaticamente.</p></div>
+<div class="tool-card"><a href="compress-image-to-75kb.html">Comprimir Imagem para 75 KB</a><p>Compressione qualquer imagem para 75 KB ou menos, automaticamente.</p></div>
+<div class="tool-card"><a href="compress-image-to-100kb.html">Comprimir Imagem para 100 KB</a><p>Compressione qualquer imagem para 100 KB ou menos, automaticamente.</p></div>
 <div class="tool-card"><a href="compress-image-to-150kb.html">Comprimir Imagem para 150 KB</a><p>Comprima qualquer imagem para 150 KB ou menos, automaticamente.</p></div>
+<div class="tool-card"><a href="compress-image-to-200kb.html">Comprimir Imagem para 200 KB</a><p>Compressione qualquer imagem para 200 KB ou menos, automaticamente.</p></div>
+<div class="tool-card"><a href="compress-image-to-250kb.html">Comprimir Imagem para 250 KB</a><p>Compressione qualquer imagem para 250 KB ou menos, automaticamente.</p></div>
 <div class="tool-card"><a href="compress-image-to-300kb.html">Comprimir Imagem para 300 KB</a><p>Comprima qualquer imagem para 300 KB ou menos, automaticamente.</p></div>
 <div class="tool-card"><a href="compress-image-to-500kb.html">Comprimir Imagem para 500 KB</a><p>Comprima qualquer imagem para 500 KB ou menos, automaticamente.</p></div>
+<div class="tool-card"><a href="compress-image-to-1000kb.html">Comprimir Imagem para 1000 KB</a><p>Compressione qualquer imagem para 1000 KB ou menos, automaticamente.</p></div>
+<div class="tool-card"><a href="compress-image-to-1500kb.html">Comprimir Imagem para 1500 KB</a><p>Compressione qualquer imagem para 1500 KB ou menos, automaticamente.</p></div>
+<div class="tool-card"><a href="compress-image-to-2000kb.html">Comprimir Imagem para 2000 KB</a><p>Compressione qualquer imagem para 2000 KB ou menos, automaticamente.</p></div>
 <div class="tool-card"><a href="compress-image-to-1mb.html">Comprimir Imagem para 1 MB</a><p>Comprima qualquer imagem para 1 MB ou menos, automaticamente.</p></div>
 <div class="tool-card"><a href="compress-image-to-2mb.html">Comprimir Imagem para 2 MB</a><p>Comprima qualquer imagem para 2 MB ou menos, automaticamente.</p></div>
 <div class="tool-card"><a href="resize-image.html">Redimensionar Imagem</a><p>Redimensione por píxeis, cm ou polegadas, com definição de DPI de impressão.</p></div>

@@ -112,39 +112,44 @@ img.preview{max-width:100%;border:1px solid var(--line);border-radius:8px;backgr
 
 <section class="content">
 <h2>Como comprimir uma imagem para 40 KB em 3 passos</h2>
-<ol><li><strong>Adicionar a sua imagem</strong> — largue um JPG, PNG ou WebP acima ou clique para procurar. Nada é enviado; a imagem fica no seu dispositivo.</li>
-<li><strong>Pressione «Comprimir para 40 KB»</strong> — a ferramenta procura automaticamente a qualidade JPG mais alta cujo arquivo caiba em 40 KB, e só reduz as dimensões se a qualidade por si só não conseguir lá chegar.</li>
-<li><strong>Transferir o resultado</strong> — vê o tamanho original, o tamanho final e as dimensões finais antes de transferir, incluindo uma nota honesta se as dimensões tiveram de ser reduzidas.</li></ol>
+<ol><li><strong>Adicione a sua imagem</strong> — 40 KB é um limite comum para fotografias de candidatura e tipo documento que ainda têm de se parecer consigo. Parta da fotografia original, não de uma captura de ecrã dela: as capturas de ecrã desperdiçam bytes em píxeis do ecrã.</li><li><strong>Pressione «Comprimir para 40 KB»</strong> — neste tamanho, a procura de qualidade faz a maior parte do trabalho; uma fotografia típica mantém a maioria ou a totalidade das suas dimensões, como mostra o exemplo prático, com os passos de dimensão guardados como reserva.</li><li><strong>Compare as dimensões finais na linha de resultado com o requisito do seu formulário e depois transfira</strong> — se o formulário também exigir dimensões exatas em píxeis, combine esta página com o redimensionador a seguir.</li></ol>
 <h2>Quem precisa de uma imagem com menos de 40 KB?</h2>
 <p>Esta página existe para limites de fotografias de formulários e portais na ordem dos 40 KB e miniaturas de carregamento rápido para anúncios e perfis. Em vez de adivinhar com um cursor de qualidade e voltar salvando cinco vezes, indica o limite uma vez e a ferramenta procura por si: primeiro a qualidade em tamanho completo e depois — só se necessário — dimensões mais pequenas, até o arquivo caber igual ou abaixo de 40 KB.</p>
 <p>Quarenta quilobytes é um tamanho confortável para uma fotografia de documento ou de perfil no tela: suficientemente pequeno para qualquer formulário, suficientemente grande para continuar reconhecível e limpo.</p>
-<h2>Como funciona</h2>
-<p>A imagem é descodificada localmente no seu navegador e desenhada num canvas. É primeiro codificada como JPG com 92% de qualidade. Se isso já couber em 40 KB, está feito. Se não, uma procura binária entre 5% e 92% de qualidade encontra a qualidade mais alta que cabe, mantendo as dimensões completas. Só quando mesmo a qualidade mais baixa continua demasiado grande é que a ferramenta reduz as dimensões 15% de cada vez (recodificando com 70% de qualidade) até o arquivo caber — e quando isso acontece, a linha de resultado diz isso mesmo e indica as dimensões finais. A saída é sempre um JPG com 40 KB ou menos (40960 bytes) e, como tudo acontece no seu dispositivo, a sua imagem nunca é enviada.</p>
+<h2>Como funciona</h2><p>Quarenta KB (40960 bytes) fica dentro da conhecida faixa de exames de 20–50 KB, e a procura nesta página está ordenada para gastar esse orçamento primeiro em qualidade, antes do tamanho. Tudo decorre localmente: o navegador descodifica a sua imagem num canvas e codifica um JPG com 92% de qualidade. Se isso couber, está feito. Se não, uma procura binária entre 5% e 92% de qualidade escolhe a qualidade mais alta que caiba nas dimensões originais. No exemplo prático abaixo, um JPG de 1,8 MB termina mesmo abaixo de 40 KB mantendo a maioria das suas dimensões — a procura de qualidade faz quase todo o trabalho, com no máximo um pequeno passo de dimensão de 15% (com 70% de qualidade) para uma fotografia invulgarmente detalhada. Se as dimensões alguma vez mudarem, a linha de resultado indica o tamanho final em píxeis. A transferência é um JPG com 40 KB ou menos, e a sua imagem nunca é enviada para lado nenhum.</p>
 <h3>Exemplo prático</h3>
-<p>Um JPG de 1,8 MB comprimido para 40 KB conserva a maioria das suas dimensões neste exemplo e termina em <strong>mesmo abaixo de 40 KB</strong> — a procura de qualidade faz a maior parte do trabalho, com apenas um pequeno passo de dimensões se a sua fotografia for invulgarmente detalhada.</p>
+<p>Um JPG de 1,8 MB comprimido para 40 KB mantém a maioria das suas dimensões neste exemplo e termina em <strong>pouco menos de 40 KB</strong> — a procura de qualidade faz a maior parte do trabalho, com apenas um pequeno passo de dimensão se a sua fotografia for invulgarmente detalhada.</p>
 <h3>Perguntas frequentes</h3>
-<h4>A minha imagem comprimida vai ficar exatamente com 40 KB?</h4>
-<p>Não — ficará com 40 KB ou menos, nunca preenchida até ao limite. A ferramenta procura a qualidade mais alta que caiba dentro do limite, pelo que o resultado fica normalmente apenas alguns KB abaixo dele. «Abaixo do limite» é o que os formulários de envio exigem de fato.</p>
-<h4>Porque é que as dimensões da minha imagem mudaram?</h4>
-<p>Apenas quando não houve outra forma: a qualidade JPG tem um piso, e uma fotografia detalhada em tamanho completo nem sempre consegue chegar a 40 KB só com qualidade. Nesse caso, a ferramenta reduz as dimensões passo a passo e indica-lhe o tamanho final em píxeis na linha de resultado.</p>
-<h4>Porque é que a saída é sempre JPG?</h4>
-<p>O JPG produz o arquivo mais pequeno para fotografias e é aceite por todos os formulários e portais. O PNG não tem controlo de qualidade, pelo que acertar num tamanho exato com PNG não é fiável — é por isso que esta página, tal como o modo de destino do compressor principal da Loona, produz JPG.</p>
-<h4>O que significa KB aqui — 1000 ou 1024 bytes?</h4>
-<p>Esta ferramenta conta 1 KB como 1024 bytes, pelo que o objetivo é 40960 bytes. Alguns portais contam 1000 bytes por KB; se o seu o fizer, o seu arquivo com 40 KB ou menos (base 1024) continua dentro de uma pequena porcentagem — para os portais mais rigorosos, escolha o tamanho imediatamente abaixo para jogar pelo seguro.</p>
-<h4>A minha imagem é enviada para um servidor?</h4>
-<p>Não. A compressão acontece 100% no seu navegador, através da API Canvas. As suas imagens nunca saem do dispositivo.</p>
-<h4>Este compressor de 40 KB é gratuito?</h4>
-<p>Sim — completamente gratuito, sem registro, sem marca de água e sem limite ao número de imagens.</p>
-<h2 id="all-tools">Mais ferramentas de fotografia gratuitas</h2>
+<h4>Exatamente 40 KB, ou menos?</h4>
+<p>Menos — 40960 bytes ou abaixo, com a melhor qualidade que couber. A ferramenta nunca infla um arquivo para atingir o número.</p>
+<h4>As minhas dimensões vão sobreviver com 40 KB?</h4>
+<p>Normalmente, na sua maioria. No exemplo prático, uma fotografia de 1,8 MB manteve a maioria das suas dimensões porque a procura de qualidade fez o trabalho pesado. Só uma fotografia que continue a falhar com a qualidade mais baixa é reduzida por passos, e a linha de resultado diz isso.</p>
+<h4>Porque é que o resultado é um JPG?</h4>
+<p>A compressão de tamanho exato precisa do controlo de qualidade do JPG; o PNG não pode ser afinado para um objetivo em bytes. O JPG também é aceite por todos os portais e formulários em que este tamanho é usado.</p>
+<h4>Como é contado o KB nesta página?</h4>
+<p>1 KB = 1024 bytes, por isso o limite é 40960 bytes. Num portal que conte 1000 bytes por KB, o mesmo arquivo é lido como cerca de 41 KB — vale a pena saber se um verificador rigoroso o rejeitar; a página de 30 KB deixa margem.</p>
+<h4>A compressão acontece num servidor?</h4>
+<p>Não. Tudo decorre no seu navegador através da API Canvas; a sua fotografia nunca sai do seu dispositivo.</p>
+<h4>O compressor de 40 KB é grátis?</h4>
+<p>Completamente — sem registro, sem marca de água, sem limite de imagens.</p><h2 id="all-tools">Mais ferramentas de fotografia gratuitas</h2>
 <div class="grid">
 <div class="tool-card"><a href="./">Compressor de Imagens</a><p>Comprima fotografias para qualquer tamanho exato em KB com a ferramenta completa.</p></div>
 <div class="tool-card"><a href="image-format-converter.html">Conversor de Formatos de Imagem</a><p>Converta JPG, PNG e WebP nos dois sentidos, com controlo de qualidade.</p></div>
 <div class="tool-card"><a href="compress-image-to-10kb.html">Comprimir Imagem para 10 KB</a><p>Comprima qualquer imagem para 10 KB ou menos, automaticamente.</p></div>
 <div class="tool-card"><a href="compress-image-to-20kb.html">Comprimir Imagem para 20 KB</a><p>Comprima qualquer imagem para 20 KB ou menos, automaticamente.</p></div>
+<div class="tool-card"><a href="compress-image-to-25kb.html">Comprimir Imagem para 25 KB</a><p>Compressione qualquer imagem para 25 KB ou menos, automaticamente.</p></div>
 <div class="tool-card"><a href="compress-image-to-30kb.html">Comprimir Imagem para 30 KB</a><p>Comprima qualquer imagem para 30 KB ou menos, automaticamente.</p></div>
+<div class="tool-card"><a href="compress-image-to-50kb.html">Comprimir Imagem para 50 KB</a><p>Compressione qualquer imagem para 50 KB ou menos, automaticamente.</p></div>
+<div class="tool-card"><a href="compress-image-to-75kb.html">Comprimir Imagem para 75 KB</a><p>Compressione qualquer imagem para 75 KB ou menos, automaticamente.</p></div>
+<div class="tool-card"><a href="compress-image-to-100kb.html">Comprimir Imagem para 100 KB</a><p>Compressione qualquer imagem para 100 KB ou menos, automaticamente.</p></div>
 <div class="tool-card"><a href="compress-image-to-150kb.html">Comprimir Imagem para 150 KB</a><p>Comprima qualquer imagem para 150 KB ou menos, automaticamente.</p></div>
+<div class="tool-card"><a href="compress-image-to-200kb.html">Comprimir Imagem para 200 KB</a><p>Compressione qualquer imagem para 200 KB ou menos, automaticamente.</p></div>
+<div class="tool-card"><a href="compress-image-to-250kb.html">Comprimir Imagem para 250 KB</a><p>Compressione qualquer imagem para 250 KB ou menos, automaticamente.</p></div>
 <div class="tool-card"><a href="compress-image-to-300kb.html">Comprimir Imagem para 300 KB</a><p>Comprima qualquer imagem para 300 KB ou menos, automaticamente.</p></div>
 <div class="tool-card"><a href="compress-image-to-500kb.html">Comprimir Imagem para 500 KB</a><p>Comprima qualquer imagem para 500 KB ou menos, automaticamente.</p></div>
+<div class="tool-card"><a href="compress-image-to-1000kb.html">Comprimir Imagem para 1000 KB</a><p>Compressione qualquer imagem para 1000 KB ou menos, automaticamente.</p></div>
+<div class="tool-card"><a href="compress-image-to-1500kb.html">Comprimir Imagem para 1500 KB</a><p>Compressione qualquer imagem para 1500 KB ou menos, automaticamente.</p></div>
+<div class="tool-card"><a href="compress-image-to-2000kb.html">Comprimir Imagem para 2000 KB</a><p>Compressione qualquer imagem para 2000 KB ou menos, automaticamente.</p></div>
 <div class="tool-card"><a href="compress-image-to-1mb.html">Comprimir Imagem para 1 MB</a><p>Comprima qualquer imagem para 1 MB ou menos, automaticamente.</p></div>
 <div class="tool-card"><a href="compress-image-to-2mb.html">Comprimir Imagem para 2 MB</a><p>Comprima qualquer imagem para 2 MB ou menos, automaticamente.</p></div>
 <div class="tool-card"><a href="resize-image.html">Redimensionar Imagem</a><p>Redimensione por píxeis, cm ou polegadas, com definição de DPI de impressão.</p></div>
