@@ -111,39 +111,32 @@ img.preview{max-width:100%;border:1px solid var(--line);border-radius:8px;backgr
 
 <section class="content">
 <h2>3 adımda bir görüntü 40 KB'ye nasıl sıkıştırılır</h2>
-<ol><li><strong>Görüntünüzü ekleyin</strong> — yukarıya bir JPG, PNG veya WebP bırakın veya göz atmak için tıklayın. Hiçbir şey yüklenmez; görüntü cihazınızda kalır.</li>
-<li><strong>“40 KB'ye Sıkıştır”a basın</strong> — dosyası 40 KB'ye sığan en yüksek JPG kalitesini araç otomatik olarak arar ve boyutları yalnızca kalite tek başına oraya ulaşamazsa azaltır.</li>
-<li><strong>Sonucu indirin</strong> — indirmeden önce orijinal boyutu, son boyutu ve son boyutları görürsünüz; boyutların azaltılması gerektiyse dürüst bir not dahil.</li></ol>
+<ol><li><strong>Görüntünüzü ekleyin</strong> — 40 KB, hâlâ size benzemesi gereken başvuru ve kimlik tarzı fotoğraflar için yaygın bir tavandır. Ekran görüntüsünden değil, orijinal fotoğraftan başlayın: ekran görüntüleri baytları ekran piksellerine harcar.</li><li><strong>“40 KB'ye Sıkıştır”a basın</strong> — bu boyutta kalite araması işin çoğunu yapar; tipik bir fotoğraf boyutlarının çoğunu veya tamamını korur, çalışılmış örneğin gösterdiği gibi, boyut adımları yedekte tutulur.</li><li><strong>Sonuç satırındaki son boyutları formunuzun gereksinimiyle karşılaştırın, sonra indirin</strong> — form ayrıca tam piksel boyutları istiyorsa, bu sayfayı daha sonra yeniden boyutlandırıcıyla eşleştirin.</li></ol>
 <h2>Kimin 40 KB altında bir görüntüye ihtiyacı var?</h2>
 <p>Bu sayfa, 40 KB aralığındaki form ve portal fotoğrafı sınırları ve listelemeler ve profiller için hızlı yüklenen küçük resimler için vardır. Bir kalite kaydırıcısıyla tahmin edip beş kez yeniden kaydetmek yerine, sınırı bir kez belirtirsiniz ve araç sizin için arar: önce tam boyutta kalite, sonra — yalnızca gerekirse — daha küçük boyutlar, dosya 40 KB veya altına sığana kadar.</p>
 <p>Kırk kilobayt, ekran üzerindeki bir kimlik veya profil fotoğrafı için rahat bir boyuttur: herhangi bir form için yeterince küçük, tanınabilir ve temiz kalmak için yeterince büyük.</p>
-<h2>Nasıl çalışır</h2>
-<p>Görüntü, tarayıcınızda yerel olarak çözülür ve bir tuvale çizilir. Önce %92 kalitede JPG olarak kodlanır. Bu zaten 40 KB'ye sığarsa, bitirdiniz. Sığmazsa, %5 ile %92 kalite arasındaki bir ikili arama, tam boyutları koruyarak sığan en yüksek kaliteyi bulur. Yalnızca en düşük kalite bile hâlâ çok büyük olduğunda, araç, dosya sığana kadar boyutları her seferinde %15 azaltır (küçültürken %70 kalitede yeniden kodlayarak) — ve bu olduğunda, sonuç satırı bunu söyler ve son boyutları verir. Çıktı her zaman 40 KB veya altında bir JPG'dir (40960 bayt) ve her şey cihazınızda gerçekleştiği için, görüntünüz asla yüklenmez.</p>
+<h2>Nasıl çalışır</h2><p>Kırk KB (40960 bayt), tanıdık 20–50 KB sınav bandının içinde yer alır ve bu sayfadaki arama, bu bütçeyi boyuttan önce kaliteye harcamak üzere sıralanmıştır. Her şey yerel olarak çalışır: tarayıcı görüntünüzü bir tuval üzerinde çözer ve %92 kalitede bir JPG kodlar. Bu sığarsa, bitirdiniz. Sığmazsa, %5 ile %92 kalite arasındaki bir ikili arama, orijinal boyutlarda sığan en yüksek kaliteyi seçer. Aşağıdaki çalışılmış örnekte, 1.8 MB'lik bir JPG, boyutlarının çoğunu koruyarak 40 KB'nin hemen altında bitirir — kalite araması neredeyse tüm işi yapar, alışılmadık derecede ayrıntılı bir fotoğraf için en fazla küçük bir %15'lik boyut adımıyla (%70 kalitede). Boyutlar hiç değişirse, sonuç satırı son piksel boyutunu raporlar. İndirme, 40 KB veya altında bir JPG'dir ve görüntünüz asla hiçbir yere yüklenmez.</p>
 <h3>Çalışılmış örnek</h3>
-<p>40 KB'ye sıkıştırılan 1.8 MB'lik bir JPG, bu örnekte boyutlarının çoğunu korur ve şurada biter: <strong>40 KB'nin hemen altında</strong> — kalite araması işin çoğunu yapar; fotoğrafınız alışılmadık şekilde ayrıntılıysa yalnızca küçük bir boyut adımı ile.</p>
-<h3>Sıkça sorulan sorular</h3>
-<h4>Sıkıştırılmış görüntüm tam olarak 40 KB olacak mı?</h4>
-<p>Hayır — 40 KB veya altında olacak, asla ona kadar doldurulmaz. Araç, sınıra sığan en yüksek kaliteyi arar, bu yüzden sonuç genellikle onun birkaç KB altındadır. “Sınırın altında”, yükleme formlarının gerçekten gerektirdiği şeydir.</p>
-<h4>Görüntümün boyutları neden değişti?</h4>
-<p>Yalnızca başka yolu olmadığında: JPG kalitesinin bir tabanı vardır ve ayrıntılı bir tam boy fotoğraf, yalnızca kaliteyle her zaman 40 KB'ye ulaşamaz. O durumda araç, boyutları adım adım azaltır ve sonuç satırında size son piksel boyutunu söyler.</p>
-<h4>Çıktı neden her zaman JPG?</h4>
-<p>JPG, fotoğraflar için en küçük dosyayı verir ve her form ve portal tarafından kabul edilir. PNG'nin kalite kontrolü yoktur, bu yüzden PNG ile tam bir boyutu tutturmak güvenilmezdir — bu sayfanın, ana Loona sıkıştırıcısının hedef modu gibi, JPG çıktısı vermesinin nedeni budur.</p>
-<h4>Burada KB ne anlama gelir — 1000 veya 1024 bayt?</h4>
-<p>Bu araç, 1 KB'yi 1024 bayt olarak sayar, bu yüzden hedef 40960 bayttır. Bazı portallar KB başına 1000 bayt sayar; sizinki sayarsa, 40 KB veya altındaki (1024 tabanlı) dosyanız yine de birkaç yüzde içinde kalır — en katı portallar için, güvende olmak için bir sonraki boyutu seçin.</p>
-<h4>Görüntüm bir sunucuya yükleniyor mu?</h4>
-<p>Hayır. Sıkıştırma, Canvas API kullanılarak %100 tarayıcınızda gerçekleşir. Görüntüleriniz cihazınızdan asla ayrılmaz.</p>
-<h4>Bu 40 KB sıkıştırıcı ücretsiz mi?</h4>
-<p>Evet — tamamen ücretsiz, kayıt olmadan, filigran olmadan ve görüntü sayısı konusunda sınır olmadan.</p>
-<h2 id="all-tools">Daha fazla ücretsiz fotoğraf aracı</h2>
+<p>1.8 MB'lik bir JPG, 40 KB'ye sıkıştırıldığında, bu örnekte boyutlarının çoğunu korur ve <strong>40 KB'nin hemen altında</strong> bitirir — kalite araması işin çoğunu yapar, fotoğrafınız alışılmadık derecede ayrıntılıysa yalnızca küçük bir boyut adımıyla.</p>
+<h3>Sıkça sorulan sorular</h3> <h4>Tam olarak 40 KB mi, yoksa altında mı?</h4> <p>Altında — 40960 bayt veya altında, sığan en iyi kalitede. Araç bir dosyayı sayıya ulaşmak için asla şişirmez.</p> <h4>Boyutlarım 40 KB'de hayatta kalacak mı?</h4> <p>Genellikle, çoğunlukla. Çalışılmış örnekte 1.8 MB'lik bir fotoğraf boyutlarının çoğunu korudu çünkü kalite araması ağır işi yaptı. Yalnızca en düşük kalitede hâlâ ıskalayan bir fotoğraf azaltılır ve sonuç satırı bunu söyler.</p> <h4>Çıktı neden bir JPG?</h4> <p>Tam boyut sıkıştırması JPG'nin kalite kontrolüne ihtiyaç duyar; PNG bir bayt hedefine ayarlanamaz. JPG ayrıca bu boyutun kullanıldığı her portal ve form tarafından kabul edilir.</p> <h4>Bu sayfada KB nasıl sayılır?</h4> <p>1 KB = 1024 bayt, bu yüzden tavan 40960 bayttır. KB başına 1000 bayt sayan bir portalda aynı dosya kabaca 41 KB olarak okunur — katı bir denetleyici onu reddederse bilmeye değer; 30 KB sayfası pay bırakır.</p> <h4>Sıkıştırma bir sunucuda mı gerçekleşir?</h4> <p>Hayır. Her şey Canvas API aracılığıyla tarayıcınızda çalışır; fotoğrafınız asla cihazınızdan ayrılmaz.</p> <h4>40 KB sıkıştırıcı ücretsiz mi?</h4> <p>Tamamen — kayıt yok, filigran yok, görüntü sınırı yok.</p><h2 id="all-tools">Daha fazla ücretsiz fotoğraf aracı</h2>
 <div class="grid">
 <div class="tool-card"><a href="./">Görüntü Sıkıştırıcı</a><p>Fotoğrafları tam araçla herhangi bir tam KB boyutuna sıkıştırın.</p></div>
 <div class="tool-card"><a href="image-format-converter.html">Görüntü Formatı Dönüştürücü</a><p>JPG, PNG ve WebP'yi her iki yönde, kalite kontrolüyle dönüştürün.</p></div>
 <div class="tool-card"><a href="compress-image-to-10kb.html">Görüntüyü 10 KB'ye Sıkıştır</a><p>Herhangi bir görüntüyü otomatik olarak 10 KB veya altına sıkıştırın.</p></div>
 <div class="tool-card"><a href="compress-image-to-20kb.html">Görüntüyü 20 KB'ye Sıkıştır</a><p>Herhangi bir görüntüyü otomatik olarak 20 KB veya altına sıkıştırın.</p></div>
+<div class="tool-card"><a href="compress-image-to-25kb.html">Görüntüyü 25 KB'ye Sıkıştır</a><p>Herhangi bir görüntüyü otomatik olarak 25 KB veya altına sıkıştırın.</p></div>
 <div class="tool-card"><a href="compress-image-to-30kb.html">Görüntüyü 30 KB'ye Sıkıştır</a><p>Herhangi bir görüntüyü otomatik olarak 30 KB veya altına sıkıştırın.</p></div>
+<div class="tool-card"><a href="compress-image-to-50kb.html">Görüntüyü 50 KB'ye Sıkıştır</a><p>Herhangi bir görüntüyü otomatik olarak 50 KB veya altına sıkıştırın.</p></div>
+<div class="tool-card"><a href="compress-image-to-75kb.html">Görüntüyü 75 KB'ye Sıkıştır</a><p>Herhangi bir görüntüyü otomatik olarak 75 KB veya altına sıkıştırın.</p></div>
+<div class="tool-card"><a href="compress-image-to-100kb.html">Görüntüyü 100 KB'ye Sıkıştır</a><p>Herhangi bir görüntüyü otomatik olarak 100 KB veya altına sıkıştırın.</p></div>
 <div class="tool-card"><a href="compress-image-to-150kb.html">Görüntüyü 150 KB'ye Sıkıştır</a><p>Herhangi bir görüntüyü otomatik olarak 150 KB veya altına sıkıştırın.</p></div>
+<div class="tool-card"><a href="compress-image-to-200kb.html">Görüntüyü 200 KB'ye Sıkıştır</a><p>Herhangi bir görüntüyü otomatik olarak 200 KB veya altına sıkıştırın.</p></div>
+<div class="tool-card"><a href="compress-image-to-250kb.html">Görüntüyü 250 KB'ye Sıkıştır</a><p>Herhangi bir görüntüyü otomatik olarak 250 KB veya altına sıkıştırın.</p></div>
 <div class="tool-card"><a href="compress-image-to-300kb.html">Görüntüyü 300 KB'ye Sıkıştır</a><p>Herhangi bir görüntüyü otomatik olarak 300 KB veya altına sıkıştırın.</p></div>
 <div class="tool-card"><a href="compress-image-to-500kb.html">Görüntüyü 500 KB'ye Sıkıştır</a><p>Herhangi bir görüntüyü otomatik olarak 500 KB veya altına sıkıştırın.</p></div>
+<div class="tool-card"><a href="compress-image-to-1000kb.html">Görüntüyü 1000 KB'ye Sıkıştır</a><p>Herhangi bir görüntüyü otomatik olarak 1000 KB veya altına sıkıştırın.</p></div>
+<div class="tool-card"><a href="compress-image-to-1500kb.html">Görüntüyü 1500 KB'ye Sıkıştır</a><p>Herhangi bir görüntüyü otomatik olarak 1500 KB veya altına sıkıştırın.</p></div>
+<div class="tool-card"><a href="compress-image-to-2000kb.html">Görüntüyü 2000 KB'ye Sıkıştır</a><p>Herhangi bir görüntüyü otomatik olarak 2000 KB veya altına sıkıştırın.</p></div>
 <div class="tool-card"><a href="compress-image-to-1mb.html">Görüntüyü 1 MB'ye Sıkıştır</a><p>Herhangi bir görüntüyü otomatik olarak 1 MB veya altına sıkıştırın.</p></div>
 <div class="tool-card"><a href="compress-image-to-2mb.html">Görüntüyü 2 MB'ye Sıkıştır</a><p>Herhangi bir görüntüyü otomatik olarak 2 MB veya altına sıkıştırın.</p></div>
 <div class="tool-card"><a href="resize-image.html">Görüntüyü Yeniden Boyutlandır</a><p>Piksel, cm veya inç ile, bir baskı DPI ayarıyla yeniden boyutlandırın.</p></div>

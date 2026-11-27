@@ -1,0 +1,29 @@
+{
+  "name": "Loona Стиснути зображення до 100 KB онлайн",
+  "short_name": "Стиснути зображення до 100 KB онлайн",
+  "description": "Стискайте зображення JPG, PNG і WebP до 100 KB або менше, онлайн і безкоштовно. Автоматичний пошук якості й розміру у вашому браузері — без реєстрації, без завантаження на сервер.",
+  "id": "/uk/compress-image-to-100kb.html",
+  "start_url": "./compress-image-to-100kb.html",
+  "scope": "./compress-image-to-100kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "compress-image-to-100kb-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "compress-image-to-100kb-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "compress-image-to-100kb-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
