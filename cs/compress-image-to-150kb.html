@@ -111,39 +111,33 @@ img.preview{max-width:100%;border:1px solid var(--line);border-radius:8px;backgr
 
 <section class="content">
 <h2>Jak komprimovat obrázek na 150 KB ve 3 krocích</h2>
-<ol><li><strong>Přidejte svůj obrázek</strong> — přetáhněte JPG, PNG nebo WebP výše, nebo klikněte a vyberte soubor. Nic se nenahrává; obrázek zůstává ve vašem zařízení.</li>
-<li><strong>Stiskněte „Komprimovat na 150 KB“</strong> — nástroj automaticky hledá nejvyšší kvalitu JPG, jejíž soubor se vejde do 150 KB, a rozměry zmenší jen tehdy, když to kvalitou samotnou nejde.</li>
-<li><strong>Stáhnout výsledek</strong> — před stažením vidíte původní velikost, konečnou velikost a konečné rozměry, včetně poctivé poznámky, pokud se rozměry musely zmenšit.</li></ol>
+<ol><li><strong>Přidejte svou fotografii</strong> — 150 KB je velikost pro sdílení: dost velká na plnou fotografii z telefonu, dost malá na poslání e-mailem nebo zprávou, aniž by zaplnila schránku. Originál můžete přidat přímo z galerie fotoaparátu.</li><li><strong>Stiskněte „Komprimovat na 150 KB“</strong> — u většiny fotografií samotné hledání kvality skončí pod 153 600 bajty v plných rozměrech; příklad s 3,9 MB výše zachoval každý pixel. Kroky zmenšení rozměrů jsou poslední možnost, kterou při této velikosti uvidíte jen zřídka.</li><li><strong>Stáhněte a sdílejte</strong> — výsledný řádek potvrdí konečnou velikost a že rozměry jsou nezměněné. Fotografie, která měla 3,9 MB, nyní cestuje nalehko a stále se otevírá na celou obrazovku.</li></ol>
 <h2>Kdo potřebuje obrázek pod 150 KB?</h2>
 <p>Tato stránka existuje pro application and admission photos with generous limits, profile pictures, and WhatsApp or social shares that should stay sharp but send fast. Místo hádání s posuvníkem kvality a pětinásobného ukládání zadáte limit jednou a nástroj hledá za vás: nejprve kvalitu v plné velikosti, poté — jen v případě potřeby — menší rozměry, dokud se soubor nevejde na 150 KB nebo méně.</p>
 <p>Při 150 KB většina fotografií nepotřebuje vůbec žádné zmenšení: binární vyhledávání najde kvalitu, která se vejde v plné velikosti, takže to, co stáhnete, je tatáž fotografie, jen účinně zakódovaná.</p>
 <h2>Jak to funguje</h2>
-<p>Obrázek se dekóduje lokálně ve vašem prohlížeči a vykreslí se na plátno. Nejprve se kóduje jako JPG v kvalitě 92 %. Pokud už se vejde do 150 KB, máte hotovo. Pokud ne, binární vyhledávání mezi 5 % a 92 % kvality najde nejvyšší kvalitu, která se vejde, při zachování plných rozměrů. Teprve když je i nejnižší kvalita stále příliš velká, nástroj zmenšuje rozměry po 15 % (opětovné kódování v kvalitě 70 %), dokud se soubor nevejde — a když k tomu dojde, výsledný řádek to uvede a sdělí konečné rozměry. Výstupem je vždy JPG o velikosti 150 KB nebo méně (153600 bajtů), a protože vše probíhá ve vašem zařízení, váš obrázek se nikdy nenahrává.</p>
+<p>Cíl 150 KB (153 600 bajtů) je dost velkorysý na to, aby se rozměry téměř nikdy nemusely hýbat, a mechanika na této stránce to odráží. Váš prohlížeč dekóduje obrázek na plátno — nic se neposílá na server — a kóduje ho jako JPG v kvalitě 92 %. Když je toto první kódování stále nad limitem, binární vyhledávání mezi kvalitou 5 % a 92 % najde nejvyšší kvalitu, která se vejde, a rozměry v pixelech zachová přesně tak, jak byly. Praktický příklad níže je obvyklý příběh: fotografie z telefonu o velikosti 3,9 MB a rozměrech 4032 × 3024 px dosáhne těsně pod 150 KB jen kvalitou, bez viditelného rozdílu na obrazovce telefonu nebo notebooku. Kroky zmenšení rozměrů po 15 % v kvalitě 70 % zůstávají jen jako záloha pro výjimečně detailní soubory a výsledný řádek by vám řekl, kdyby byly použity. To, co si stáhnete, je JPG o velikosti 150 KB nebo méně.</p>
 <h3>Praktický příklad</h3>
-<p>Fotografie z telefonu o velikosti 3,9 MB (4032 × 3024 px) zkomprimovaná na 150 KB si zachová své <strong>plné rozměry</strong> — sníží se pouze kvalita JPG a výsledek je <strong>těsně pod 150 KB</strong> bez viditelného rozdílu na obrazovce telefonu nebo notebooku.</p>
-<h3>Časté dotazy</h3>
-<h4>Bude můj komprimovaný obrázek přesně 150 KB?</h4>
-<p>Ne — bude mít 150 KB nebo méně, nikdy se nedoplní na přesnou hodnotu. Nástroj hledá nejvyšší kvalitu, která se do limitu vejde, takže výsledek je obvykle jen pár KB pod ním. „Pod limitem“ je to, co nahrávací formuláře skutečně požadují.</p>
-<h4>Proč se změnily rozměry mého obrázku?</h4>
-<p>Pouze když nebyla jiná možnost: kvalita JPG má své dno a detailní fotografie v plné velikosti nemůže vždy dosáhnout 150 KB jen kvalitou. V tom případě nástroj postupně zmenšuje rozměry a ve výsledném řádku vám sdělí konečnou velikost v pixelech.</p>
-<h4>Proč je výstup vždy JPG?</h4>
-<p>JPG dává nejmenší soubor pro fotografie a přijímá ho každý formulář a portál. PNG nemá kontrolu kvality, takže trefit přesnou velikost s PNG je nespolehlivé — proto tato stránka, stejně jako cílový režim hlavního kompresoru Loona, vydává JPG.</p>
-<h4>Co tu KB znamená — 1000, nebo 1024 bajtů?</h4>
-<p>Tento nástroj počítá 1 KB jako 1024 bajtů, takže cíl je 153600 bajtů. Některé portály počítají 1000 bajtů na KB; pokud ten váš ano, váš soubor o velikosti 150 KB nebo méně (na základě 1024) je stále v rozmezí několika procent — u nejpřísnějších portálů pro jistotu zvolte o jednu velikost menší.</p>
-<h4>Nahrává se můj obrázek na server?</h4>
-<p>Ne. Komprese probíhá 100 % ve vašem prohlížeči pomocí Canvas API. Vaše obrázky nikdy neopustí vaše zařízení.</p>
-<h4>Je tento kompresor na 150 KB zdarma?</h4>
-<p>Ano — zcela zdarma, bez registrace, bez vodoznaku a bez limitu na počet obrázků.</p>
-<h2 id="all-tools">Další bezplatné fotografické nástroje</h2>
+<p>Fotografie z telefonu o velikosti 3,9 MB (4032 × 3024 px) komprimovaná na 150 KB si zachová své <strong>plné rozměry</strong> — sníží se jen kvalita JPG a výsledek je <strong>těsně pod 150 KB</strong> bez viditelného rozdílu na obrazovce telefonu nebo notebooku.</p>
+<h3>Časté dotazy</h3> <h4>Bude to přesně 150 KB?</h4> <p>Těsně pod — hledání se zastaví na nejvyšší kvalitě, která se vejde do 153 600 bajtů, a soubor nikdy nedoplní. Pro e-mail a nahrávání je požadavkem „pod limitem“.</p> <h4>Přijdu při 150 KB o rozměry své fotografie?</h4> <p>Téměř nikdy. Fotografie z telefonu se při této velikosti obvykle vejdou jen kvalitou a zachovají plné rozměry; pouze neobvykle detailní obrázek, který se nevejde ani při minimální kvalitě, se zmenší a výsledný řádek to oznámí.</p> <h4>Proč výstup JPG?</h4> <p>U fotografií JPG dosáhne cílové velikosti s nejmenší viditelnou ztrátou a přijímá ho každá poštovní aplikace, messenger i web. PNG zůstává lepší volbou pro grafiku — tyto nástroje jsou na tomto webu jinde.</p> <h4>Je zde 150 KB 150 000 bajtů?</h4> <p>Je to 153 600 bajtů — tento nástroj počítá 1 KB jako 1 024 bajtů. Rozdíl je zhruba 2,4 %, což záleží jen vůči neobvykle přísné kontrole.</p> <h4>Nahrávají se moje fotografie?</h4> <p>Ne. Váš prohlížeč dekóduje a kóduje lokálně; nic se nikam neposílá.</p> <h4>Kolik stojí komprese několika fotografií?</h4> <p>Nic — zdarma, bez účtu, bez vodoznaku a bez limitu, kolik obrázků zpracujete.</p> <h2 id="all-tools">Další bezplatné fotografické nástroje</h2>
 <div class="grid">
 <div class="tool-card"><a href="./">Kompresor obrázků</a><p>Komprimujte fotografie na libovolnou přesnou velikost v KB plným nástrojem.</p></div>
 <div class="tool-card"><a href="image-format-converter.html">Převodník formátů obrázků</a><p>Převádějte JPG, PNG a WebP oběma směry, s kontrolou kvality.</p></div>
 <div class="tool-card"><a href="compress-image-to-10kb.html">Komprimovat obrázek na 10 KB</a><p>Jakýkoli obrázek automaticky komprimujte na 10 KB nebo méně.</p></div>
 <div class="tool-card"><a href="compress-image-to-20kb.html">Komprimovat obrázek na 20 KB</a><p>Jakýkoli obrázek automaticky komprimujte na 20 KB nebo méně.</p></div>
+<div class="tool-card"><a href="compress-image-to-25kb.html">Komprimovat obrázek na 25 KB</a><p>Jakýkoli obrázek automaticky komprimujte na 25 KB nebo méně.</p></div>
 <div class="tool-card"><a href="compress-image-to-30kb.html">Komprimovat obrázek na 30 KB</a><p>Jakýkoli obrázek automaticky komprimujte na 30 KB nebo méně.</p></div>
 <div class="tool-card"><a href="compress-image-to-40kb.html">Komprimovat obrázek na 40 KB</a><p>Jakýkoli obrázek automaticky komprimujte na 40 KB nebo méně.</p></div>
+<div class="tool-card"><a href="compress-image-to-50kb.html">Komprimovat obrázek na 50 KB</a><p>Jakýkoli obrázek automaticky komprimujte na 50 KB nebo méně.</p></div>
+<div class="tool-card"><a href="compress-image-to-75kb.html">Komprimovat obrázek na 75 KB</a><p>Jakýkoli obrázek automaticky komprimujte na 75 KB nebo méně.</p></div>
+<div class="tool-card"><a href="compress-image-to-100kb.html">Komprimovat obrázek na 100 KB</a><p>Jakýkoli obrázek automaticky komprimujte na 100 KB nebo méně.</p></div>
+<div class="tool-card"><a href="compress-image-to-200kb.html">Komprimovat obrázek na 200 KB</a><p>Jakýkoli obrázek automaticky komprimujte na 200 KB nebo méně.</p></div>
+<div class="tool-card"><a href="compress-image-to-250kb.html">Komprimovat obrázek na 250 KB</a><p>Jakýkoli obrázek automaticky komprimujte na 250 KB nebo méně.</p></div>
 <div class="tool-card"><a href="compress-image-to-300kb.html">Komprimovat obrázek na 300 KB</a><p>Jakýkoli obrázek automaticky komprimujte na 300 KB nebo méně.</p></div>
 <div class="tool-card"><a href="compress-image-to-500kb.html">Komprimovat obrázek na 500 KB</a><p>Jakýkoli obrázek automaticky komprimujte na 500 KB nebo méně.</p></div>
+<div class="tool-card"><a href="compress-image-to-1000kb.html">Komprimovat obrázek na 1000 KB</a><p>Jakýkoli obrázek automaticky komprimujte na 1000 KB nebo méně.</p></div>
+<div class="tool-card"><a href="compress-image-to-1500kb.html">Komprimovat obrázek na 1500 KB</a><p>Jakýkoli obrázek automaticky komprimujte na 1500 KB nebo méně.</p></div>
+<div class="tool-card"><a href="compress-image-to-2000kb.html">Komprimovat obrázek na 2000 KB</a><p>Jakýkoli obrázek automaticky komprimujte na 2000 KB nebo méně.</p></div>
 <div class="tool-card"><a href="compress-image-to-1mb.html">Komprimovat obrázek na 1 MB</a><p>Jakýkoli obrázek automaticky komprimujte na 1 MB nebo méně.</p></div>
 <div class="tool-card"><a href="compress-image-to-2mb.html">Komprimovat obrázek na 2 MB</a><p>Jakýkoli obrázek automaticky komprimujte na 2 MB nebo méně.</p></div>
 <div class="tool-card"><a href="resize-image.html">Změnit velikost obrázku</a><p>Změna velikosti podle pixelů, cm nebo palců, s nastavením DPI pro tisk.</p></div>
