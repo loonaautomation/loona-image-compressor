@@ -111,39 +111,35 @@ img.preview{max-width:100%;border:1px solid var(--line);border-radius:8px;backgr
 
 <section class="content">
 <h2>Cách nén ảnh xuống 40 KB trong 3 bước</h2>
-<ol><li><strong>Thêm hình ảnh của bạn</strong> — thả một tệp JPG, PNG hoặc WebP ở trên hoặc nhấp để chọn tệp. Không có gì bị tải lên; hình ảnh ở lại trên thiết bị của bạn.</li>
-<li><strong>Nhấn “Nén xuống 40 KB”</strong> — công cụ tự động tìm chất lượng JPG cao nhất mà tệp của nó vừa trong 40 KB, và chỉ giảm kích thước nếu chỉ riêng chất lượng không thể đạt được mức đó.</li>
-<li><strong>Tải xuống kết quả</strong> — bạn thấy kích thước gốc, kích thước cuối cùng và kích thước cuối cùng trước khi tải xuống, bao gồm một ghi chú trung thực nếu kích thước phải bị giảm.</li></ol>
+<ol><li><strong>Thêm hình ảnh của bạn</strong> — 40 KB là mức trần phổ biến cho ảnh ứng tuyển và ảnh kiểu thẻ mà vẫn cần trông giống bạn. Hãy bắt đầu từ ảnh gốc, không phải ảnh chụp màn hình của nó: ảnh chụp màn hình lãng phí byte vào pixel màn hình.</li><li><strong>Nhấn “Nén xuống 40 KB”</strong> — ở kích thước này, tìm kiếm chất lượng làm phần lớn công việc; một bức ảnh điển hình giữ phần lớn hoặc toàn bộ kích thước của nó, như ví dụ minh họa cho thấy, với các bước giảm kích thước được giữ làm dự phòng.</li><li><strong>So sánh kích thước cuối cùng trong dòng kết quả với yêu cầu của biểu mẫu, rồi tải xuống</strong> — nếu biểu mẫu cũng đòi hỏi kích thước pixel chính xác, hãy kết hợp trang này với công cụ thay đổi kích thước sau đó.</li></ol>
 <h2>Ai cần hình ảnh dưới 40 KB?</h2>
 <p>Trang này tồn tại dành cho giới hạn ảnh của biểu mẫu và cổng thông tin trong khoảng 40 KB, và hình thu nhỏ tải nhanh cho danh sách niêm yết và hồ sơ. Thay vì đoán mò bằng thanh trượt chất lượng và lưu lại năm lần, bạn chỉ cần nêu giới hạn một lần và công cụ sẽ tìm giúp bạn: trước tiên là chất lượng ở kích thước đầy đủ, rồi — chỉ khi cần — kích thước nhỏ hơn, cho đến khi tệp vừa ở mức 40 KB hoặc nhỏ hơn.</p>
 <p>Bốn mươi kilobyte là kích thước thoải mái cho ảnh thẻ hoặc ảnh hồ sơ trên màn hình: đủ nhỏ cho mọi biểu mẫu, đủ lớn để vẫn nhận diện được và sạch sẽ.</p>
 <h2>Cách hoạt động</h2>
-<p>Hình ảnh được giải mã cục bộ trong trình duyệt của bạn và vẽ lên canvas. Trước tiên, nó được mã hóa thành JPG ở chất lượng 92%. Nếu mức đó đã vừa trong 40 KB, bạn đã xong. Nếu chưa, tìm kiếm nhị phân trong khoảng chất lượng từ 5% đến 92% sẽ tìm ra chất lượng cao nhất vừa với giới hạn, giữ nguyên kích thước đầy đủ. Chỉ khi ngay cả chất lượng thấp nhất vẫn còn quá lớn, công cụ mới giảm kích thước xuống 15% mỗi lần (mã hóa lại ở chất lượng 70%) cho đến khi tệp vừa — và khi điều đó xảy ra, dòng kết quả sẽ nói rõ và cho biết kích thước cuối cùng. Đầu ra luôn là tệp JPG bằng hoặc nhỏ hơn 40 KB (40960 byte), và vì mọi thứ diễn ra trên thiết bị của bạn, hình ảnh của bạn không bao giờ bị tải lên.</p>
+
+<p>Bốn mươi KB (40,960 byte) nằm trong dải thi cử quen thuộc 20–50 KB, và việc tìm kiếm trên trang này được sắp xếp để chi ngân sách đó cho chất lượng trước kích thước. Mọi thứ chạy cục bộ: trình duyệt giải mã hình ảnh của bạn lên canvas và mã hóa thành JPG ở chất lượng 92%. Nếu mức đó vừa, bạn đã xong. Nếu chưa, tìm kiếm nhị phân trong khoảng chất lượng từ 5% đến 92% sẽ chọn chất lượng cao nhất vừa ở kích thước gốc. Trong ví dụ minh họa dưới đây, một tệp JPG 1.8 MB kết thúc ngay dưới 40 KB trong khi giữ phần lớn kích thước của nó — tìm kiếm chất lượng làm gần như toàn bộ công việc, với tối đa một bước giảm kích thước nhỏ 15% (ở chất lượng 70%) cho một bức ảnh đặc biệt nhiều chi tiết. Nếu kích thước có thay đổi, dòng kết quả sẽ báo cáo kích thước pixel cuối cùng. Tệp tải xuống là JPG bằng hoặc dưới 40 KB, và hình ảnh của bạn không bao giờ được tải lên bất cứ đâu.</p>
 <h3>Ví dụ minh họa</h3>
-<p>Một tệp JPG 1.8 MB nén xuống 40 KB giữ được hầu hết kích thước trong ví dụ này và kết thúc ở <strong>ngay dưới 40 KB</strong> — việc tìm kiếm chất lượng làm hầu hết công việc, với chỉ một bước giảm kích thước nhỏ nếu ảnh của bạn chi tiết bất thường.</p>
-<h3>Các câu hỏi thường gặp</h3>
-<h4>Ảnh đã nén của tôi có đúng 40 KB không?</h4>
-<p>Không — tệp sẽ bằng hoặc nhỏ hơn 40 KB, không bao giờ bị chèn thêm cho đủ mức đó. Công cụ tìm chất lượng cao nhất vừa trong giới hạn, nên kết quả thường chỉ nhỏ hơn giới hạn vài KB. “Dưới giới hạn” mới là điều các biểu mẫu tải lên thực sự yêu cầu.</p>
-<h4>Vì sao kích thước hình ảnh của tôi thay đổi?</h4>
-<p>Chỉ khi không còn cách nào khác: chất lượng JPG có mức sàn, và một bức ảnh đầy đủ kích thước nhiều chi tiết không phải lúc nào cũng đạt được 40 KB chỉ bằng chất lượng. Trong trường hợp đó, công cụ sẽ giảm kích thước theo từng bước và cho bạn biết kích thước pixel cuối cùng trong dòng kết quả.</p>
-<h4>Vì sao đầu ra luôn là JPG?</h4>
-<p>JPG cho tệp nhỏ nhất cho ảnh chụp và được mọi biểu mẫu và cổng thông tin chấp nhận. PNG không có kiểm soát chất lượng, nên việc đạt đúng kích thước với PNG là không đáng tin cậy — đó là lý do trang này, giống như chế độ mục tiêu của trình nén Loona chính, xuất ra JPG.</p>
-<h4>KB ở đây có nghĩa là gì — 1000 hay 1024 byte?</h4>
-<p>Công cụ này tính 1 KB bằng 1024 byte, nên mục tiêu là 40960 byte. Một số cổng thông tin tính 1000 byte mỗi KB; nếu cổng của bạn như vậy, tệp của bạn ở mức 40 KB hoặc nhỏ hơn (theo cơ số 1024) vẫn chỉ chênh trong vài phần trăm — với các cổng nghiêm ngặt nhất, hãy chọn kích thước nhỏ hơn tiếp theo cho an toàn.</p>
-<h4>Hình ảnh của tôi có bị tải lên máy chủ không?</h4>
-<p>Không. Việc nén diễn ra 100% trong trình duyệt của bạn bằng Canvas API. Hình ảnh của bạn không bao giờ rời khỏi thiết bị.</p>
-<h4>Trình nén 40 KB này có miễn phí không?</h4>
-<p>Có — hoàn toàn miễn phí, không cần đăng ký, không hình mờ và không giới hạn số lượng hình ảnh.</p>
+<p>Một tệp JPG 1.8 MB được nén xuống 40 KB giữ phần lớn kích thước của nó trong ví dụ này và kết thúc ở mức <strong>ngay dưới 40 KB</strong> — tìm kiếm chất lượng làm phần lớn công việc, với chỉ một bước giảm kích thước nhỏ nếu ảnh của bạn đặc biệt nhiều chi tiết.</p>
+<h3>Các câu hỏi thường gặp</h3> <h4>Đúng 40 KB, hay dưới mức đó?</h4> <p>Dưới — bằng hoặc dưới 40,960 byte, ở chất lượng tốt nhất vừa trong giới hạn. Công cụ không bao giờ phồng một tệp lên để đạt mức đó.</p> <h4>Kích thước của tôi có giữ được ở mức 40 KB không?</h4> <p>Thường là có, phần lớn. Trong ví dụ minh họa, một bức ảnh 1.8 MB giữ phần lớn kích thước của nó vì tìm kiếm chất lượng đã làm phần việc nặng. Chỉ một bức ảnh vẫn không đạt ở chất lượng thấp nhất mới bị giảm xuống, và dòng kết quả sẽ nói rõ điều đó.</p> <h4>Vì sao đầu ra là JPG?</h4> <p>Nén đúng kích thước cần khả năng kiểm soát chất lượng của JPG; PNG không thể được tinh chỉnh theo mục tiêu byte. JPG cũng được mọi cổng thông tin và biểu mẫu sử dụng kích thước này chấp nhận.</p> <h4>KB được tính như thế nào trên trang này?</h4> <p>1 KB = 1,024 byte, nên mức trần là 40,960 byte. Trên một cổng thông tin tính 1,000 byte mỗi KB, cùng tệp đó đọc thành khoảng 41 KB — điều đáng biết nếu một trình kiểm tra nghiêm ngặt từ chối nó; trang 30 KB để lại khoảng trống.</p> <h4>Việc nén có diễn ra trên máy chủ không?</h4> <p>Không. Mọi thứ chạy trong trình duyệt của bạn qua Canvas API; ảnh của bạn không bao giờ rời khỏi thiết bị.</p> <h4>Trình nén 40 KB có miễn phí không?</h4> <p>Hoàn toàn — không cần đăng ký, không hình mờ, không giới hạn số lượng hình ảnh.</p> 
 <h2 id="all-tools">Thêm công cụ ảnh miễn phí</h2>
 <div class="grid">
 <div class="tool-card"><a href="./">Trình nén ảnh</a><p>Nén ảnh xuống bất kỳ kích thước KB chính xác nào bằng công cụ đầy đủ.</p></div>
 <div class="tool-card"><a href="image-format-converter.html">Trình chuyển đổi định dạng hình ảnh</a><p>Chuyển đổi JPG, PNG và WebP theo cả hai chiều, có kiểm soát chất lượng.</p></div>
 <div class="tool-card"><a href="compress-image-to-10kb.html">Nén ảnh xuống 10 KB</a><p>Tự động nén mọi hình ảnh xuống 10 KB hoặc nhỏ hơn.</p></div>
 <div class="tool-card"><a href="compress-image-to-20kb.html">Nén ảnh xuống 20 KB</a><p>Tự động nén mọi hình ảnh xuống 20 KB hoặc nhỏ hơn.</p></div>
+<div class="tool-card"><a href="compress-image-to-25kb.html">Nén ảnh xuống 25 KB</a><p>Nén bất kỳ hình ảnh nào xuống 25 KB hoặc nhỏ hơn, tự động.</p></div>
 <div class="tool-card"><a href="compress-image-to-30kb.html">Nén ảnh xuống 30 KB</a><p>Tự động nén mọi hình ảnh xuống 30 KB hoặc nhỏ hơn.</p></div>
+<div class="tool-card"><a href="compress-image-to-50kb.html">Nén ảnh xuống 50 KB</a><p>Nén bất kỳ hình ảnh nào xuống 50 KB hoặc nhỏ hơn, tự động.</p></div>
+<div class="tool-card"><a href="compress-image-to-75kb.html">Nén ảnh xuống 75 KB</a><p>Nén bất kỳ hình ảnh nào xuống 75 KB hoặc nhỏ hơn, tự động.</p></div>
+<div class="tool-card"><a href="compress-image-to-100kb.html">Nén ảnh xuống 100 KB</a><p>Nén bất kỳ hình ảnh nào xuống 100 KB hoặc nhỏ hơn, tự động.</p></div>
 <div class="tool-card"><a href="compress-image-to-150kb.html">Nén ảnh xuống 150 KB</a><p>Tự động nén mọi hình ảnh xuống 150 KB hoặc nhỏ hơn.</p></div>
+<div class="tool-card"><a href="compress-image-to-200kb.html">Nén ảnh xuống 200 KB</a><p>Nén bất kỳ hình ảnh nào xuống 200 KB hoặc nhỏ hơn, tự động.</p></div>
+<div class="tool-card"><a href="compress-image-to-250kb.html">Nén ảnh xuống 250 KB</a><p>Nén bất kỳ hình ảnh nào xuống 250 KB hoặc nhỏ hơn, tự động.</p></div>
 <div class="tool-card"><a href="compress-image-to-300kb.html">Nén ảnh xuống 300 KB</a><p>Tự động nén mọi hình ảnh xuống 300 KB hoặc nhỏ hơn.</p></div>
 <div class="tool-card"><a href="compress-image-to-500kb.html">Nén ảnh xuống 500 KB</a><p>Tự động nén mọi hình ảnh xuống 500 KB hoặc nhỏ hơn.</p></div>
+<div class="tool-card"><a href="compress-image-to-1000kb.html">Nén ảnh xuống 1000 KB</a><p>Nén bất kỳ hình ảnh nào xuống 1000 KB hoặc nhỏ hơn, tự động.</p></div>
+<div class="tool-card"><a href="compress-image-to-1500kb.html">Nén ảnh xuống 1500 KB</a><p>Nén bất kỳ hình ảnh nào xuống 1500 KB hoặc nhỏ hơn, tự động.</p></div>
+<div class="tool-card"><a href="compress-image-to-2000kb.html">Nén ảnh xuống 2000 KB</a><p>Nén bất kỳ hình ảnh nào xuống 2000 KB hoặc nhỏ hơn, tự động.</p></div>
 <div class="tool-card"><a href="compress-image-to-1mb.html">Nén ảnh xuống 1 MB</a><p>Tự động nén mọi hình ảnh xuống 1 MB hoặc nhỏ hơn.</p></div>
 <div class="tool-card"><a href="compress-image-to-2mb.html">Nén ảnh xuống 2 MB</a><p>Tự động nén mọi hình ảnh xuống 2 MB hoặc nhỏ hơn.</p></div>
 <div class="tool-card"><a href="resize-image.html">Thay đổi kích thước ảnh</a><p>Thay đổi kích thước theo pixel, cm hoặc inch, với cài đặt DPI in.</p></div>
