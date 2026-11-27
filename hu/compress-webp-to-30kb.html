@@ -166,7 +166,7 @@ $("goBtn").addEventListener("click",async function(){
 <h2>Hogyan tömörítsünk egy WebP képet 30 KB-ra</h2>
 <ol>
 <li><strong>Adja hozzá a képet</strong> — húzza a mezőre, vagy kattintson a tallózáshoz. A böngészője által megnyitható JPG, PNG, WebP és a legtöbb egyéb kép elfogadott.</li>
-<li><strong>Nyomja meg a „Tömörítés 30 KB-ra” gombot</strong> — az eszköz automatikusan keres: WebP esetén először a minőségi szinteket próbálja, majd a méreteket, amíg a fájl 30 KB vagy annál kisebb nem lesz.</li>
+<li><strong>Nyomja meg a „Tömörítés 30 KB-ra” gombot</strong> — nincs csúszkatalálgatás: először a WebP minőségi szintjeit teszteli magastól alacsonyig, és csak akkor vágja a dimenziókat, ha a minőség önmagában nem tudja beilleszteni a fájlt, és a keresés megáll, amint a fájl 30 KB-on vagy az alatt belefér. Miért létezik ez a méret: a harminc KB felvételi űrlapokban, gyakorlati portálokon és régebbi e-kormányzati oldalakon fordul elő, amelyeknek a feltöltési korlátait akkor állították be, amikor a sávszélesség szűkös volt.</li>
 <li><strong>Letöltés</strong> — az eredménysor mentés előtt megmutatja az elért méretet és a végső méreteket.</li>
 </ol>
 <h2>Kinek van szüksége 30 KB-nál kisebb WebP képre?</h2>
@@ -190,11 +190,20 @@ $("goBtn").addEventListener("click",async function(){
 <div class="tool-card"><a href="./">Képtömörítő</a><p>Tömörítsen fotókat bármilyen pontos KB-méretre a teljes eszközzel.</p></div>
 <div class="tool-card"><a href="image-format-converter.html">Képformátum-konvertáló</a><p>Konvertálja át a JPG-t, PNG-t és WebP-t mindkét irányba, minőségvezérléssel.</p></div>
 <div class="tool-card"><a href="compress-image-to-10kb.html">Kép tömörítése 10 KB-ra</a><p>Tömörítsen bármilyen képet 10 KB-ra vagy az alá, automatikusan.</p></div>
+<div class="tool-card"><a href="compress-image-to-25kb.html">Kép tömörítése 25 KB-ra</a><p>Tömörítsen bármilyen képet 25 KB-ra vagy az alá, automatikusan.</p></div>
 <div class="tool-card"><a href="compress-image-to-30kb.html">Kép tömörítése 30 KB-ra</a><p>Tömörítsen bármilyen képet 30 KB-ra vagy az alá, automatikusan.</p></div>
 <div class="tool-card"><a href="compress-image-to-40kb.html">Kép tömörítése 40 KB-ra</a><p>Tömörítsen bármilyen képet 40 KB-ra vagy az alá, automatikusan.</p></div>
+<div class="tool-card"><a href="compress-image-to-50kb.html">Kép tömörítése 50 KB-ra</a><p>Tömörítsen bármilyen képet 50 KB-ra vagy az alá, automatikusan.</p></div>
+<div class="tool-card"><a href="compress-image-to-75kb.html">Kép tömörítése 75 KB-ra</a><p>Tömörítsen bármilyen képet 75 KB-ra vagy az alá, automatikusan.</p></div>
+<div class="tool-card"><a href="compress-image-to-100kb.html">Kép tömörítése 100 KB-ra</a><p>Tömörítsen bármilyen képet 100 KB-ra vagy az alá, automatikusan.</p></div>
 <div class="tool-card"><a href="compress-image-to-150kb.html">Kép tömörítése 150 KB-ra</a><p>Tömörítsen bármilyen képet 150 KB-ra vagy az alá, automatikusan.</p></div>
+<div class="tool-card"><a href="compress-image-to-200kb.html">Kép tömörítése 200 KB-ra</a><p>Tömörítsen bármilyen képet 200 KB-ra vagy az alá, automatikusan.</p></div>
+<div class="tool-card"><a href="compress-image-to-250kb.html">Kép tömörítése 250 KB-ra</a><p>Tömörítsen bármilyen képet 250 KB-ra vagy az alá, automatikusan.</p></div>
 <div class="tool-card"><a href="compress-image-to-300kb.html">Kép tömörítése 300 KB-ra</a><p>Tömörítsen bármilyen képet 300 KB-ra vagy az alá, automatikusan.</p></div>
 <div class="tool-card"><a href="compress-image-to-500kb.html">Kép tömörítése 500 KB-ra</a><p>Tömörítsen bármilyen képet 500 KB-ra vagy az alá, automatikusan.</p></div>
+<div class="tool-card"><a href="compress-image-to-1000kb.html">Kép tömörítése 1000 KB-ra</a><p>Tömörítsen bármilyen képet 1000 KB-ra vagy az alá, automatikusan.</p></div>
+<div class="tool-card"><a href="compress-image-to-1500kb.html">Kép tömörítése 1500 KB-ra</a><p>Tömörítsen bármilyen képet 1500 KB-ra vagy az alá, automatikusan.</p></div>
+<div class="tool-card"><a href="compress-image-to-2000kb.html">Kép tömörítése 2000 KB-ra</a><p>Tömörítsen bármilyen képet 2000 KB-ra vagy az alá, automatikusan.</p></div>
 <div class="tool-card"><a href="compress-image-to-1mb.html">Kép tömörítése 1 MB-ra</a><p>Tömörítsen bármilyen képet 1 MB-ra vagy az alá, automatikusan.</p></div>
 <div class="tool-card"><a href="compress-image-to-2mb.html">Kép tömörítése 2 MB-ra</a><p>Tömörítsen bármilyen képet 2 MB-ra vagy az alá, automatikusan.</p></div>
 <div class="tool-card"><a href="resize-image.html">Kép átméretezése</a><p>Átméretezés pixelek, cm vagy hüvelyk szerint, nyomtatási DPI-beállítással.</p></div>
