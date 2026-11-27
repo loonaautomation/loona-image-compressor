@@ -1,0 +1,29 @@
+{
+  "name": "Loona Comprimă imaginea la 50 KB online",
+  "short_name": "Comprimă imaginea la 50 KB online",
+  "description": "Comprimă imagini JPG, PNG și WebP la 50 KB sau mai puțin, online și gratuit. Căutare automată a calității și dimensiunii în browserul tău — fără înregistrare, fără încărcare.",
+  "id": "/ro/compress-image-to-50kb.html",
+  "start_url": "./compress-image-to-50kb.html",
+  "scope": "./compress-image-to-50kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "compress-image-to-50kb-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "compress-image-to-50kb-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "compress-image-to-50kb-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
