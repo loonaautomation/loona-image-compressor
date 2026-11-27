@@ -1,0 +1,29 @@
+{
+  "name": "Loona Görüntüyü 200 KB'ye Çevrimiçi Sıkıştır",
+  "short_name": "Görüntüyü 200 KB'ye Çevrimiçi Sıkıştır",
+  "description": "JPG, PNG ve WebP görüntülerini 200 KB veya altına, çevrimiçi ve ücretsiz sıkıştırın. Tarayıcınızda otomatik kalite ve boyut araması — kayıt yok, yükleme yok.",
+  "id": "/tr/compress-image-to-200kb.html",
+  "start_url": "./compress-image-to-200kb.html",
+  "scope": "./compress-image-to-200kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "compress-image-to-200kb-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "compress-image-to-200kb-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "compress-image-to-200kb-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
