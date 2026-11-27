@@ -166,7 +166,7 @@ $("goBtn").addEventListener("click",async function(){
 <h2>Så komprimerar du en WebP till 25 KB</h2>
 <ol>
 <li><strong>Lägg till din bild</strong> — dra den till rutan eller klicka för att bläddra. JPG, PNG, WebP och de flesta andra bilder som din webbläsare kan öppna accepteras.</li>
-<li><strong>Tryck på ”Komprimera till 25 KB”</strong> — verktyget söker automatiskt: för WebP prövar det först kvalitetsnivåer och sedan mått tills filen ryms på 25 KB eller mindre.</li>
+<li><strong>Tryck på ”Komprimera till 25 KB”</strong> — automatiskt, i denna ordning: den testar WebP-kvalitetsnivåer från hög till låg först, och trimmar bara måtten om kvalitet ensam inte kan få filen att rymmas. Filen accepteras som klar först när den ryms vid eller under 25 KB. Efterfrågan på denna exakta storlek: Vissa statliga jobbportaler, universitetsantagningsformulär och stipendieansökningar sätter fotogränser vid 25 KB — en besvärlig storlek som generiska kompressorer med ”liten/mellan/stor” aldrig erbjuder, vilket är exakt varför denna förinställning finns.</li>
 <li><strong>Ladda ner</strong> — resultatraden visar den uppnådda storleken och de slutliga måtten innan du sparar.</li>
 </ol>
 <h2>Vem behöver en WebP under 25 KB?</h2>
@@ -190,11 +190,20 @@ $("goBtn").addEventListener("click",async function(){
 <div class="tool-card"><a href="./">Bildkompressor</a><p>Komprimera foton till valfri exakt KB-storlek med det fullständiga verktyget.</p></div>
 <div class="tool-card"><a href="image-format-converter.html">Bildformatkonverterare</a><p>Konvertera JPG, PNG och WebP åt båda hållen, med kvalitetskontroll.</p></div>
 <div class="tool-card"><a href="compress-image-to-10kb.html">Komprimera bild till 10 KB</a><p>Komprimera valfri bild till 10 KB eller mindre, automatiskt.</p></div>
+<div class="tool-card"><a href="compress-image-to-25kb.html">Komprimera bild till 25 KB</a><p>Komprimera valfri bild till 25 KB eller mindre, automatiskt.</p></div>
 <div class="tool-card"><a href="compress-image-to-30kb.html">Komprimera bild till 30 KB</a><p>Komprimera valfri bild till 30 KB eller mindre, automatiskt.</p></div>
 <div class="tool-card"><a href="compress-image-to-40kb.html">Komprimera bild till 40 KB</a><p>Komprimera valfri bild till 40 KB eller mindre, automatiskt.</p></div>
+<div class="tool-card"><a href="compress-image-to-50kb.html">Komprimera bild till 50 KB</a><p>Komprimera valfri bild till 50 KB eller mindre, automatiskt.</p></div>
+<div class="tool-card"><a href="compress-image-to-75kb.html">Komprimera bild till 75 KB</a><p>Komprimera valfri bild till 75 KB eller mindre, automatiskt.</p></div>
+<div class="tool-card"><a href="compress-image-to-100kb.html">Komprimera bild till 100 KB</a><p>Komprimera valfri bild till 100 KB eller mindre, automatiskt.</p></div>
 <div class="tool-card"><a href="compress-image-to-150kb.html">Komprimera bild till 150 KB</a><p>Komprimera valfri bild till 150 KB eller mindre, automatiskt.</p></div>
+<div class="tool-card"><a href="compress-image-to-200kb.html">Komprimera bild till 200 KB</a><p>Komprimera valfri bild till 200 KB eller mindre, automatiskt.</p></div>
+<div class="tool-card"><a href="compress-image-to-250kb.html">Komprimera bild till 250 KB</a><p>Komprimera valfri bild till 250 KB eller mindre, automatiskt.</p></div>
 <div class="tool-card"><a href="compress-image-to-300kb.html">Komprimera bild till 300 KB</a><p>Komprimera valfri bild till 300 KB eller mindre, automatiskt.</p></div>
 <div class="tool-card"><a href="compress-image-to-500kb.html">Komprimera bild till 500 KB</a><p>Komprimera valfri bild till 500 KB eller mindre, automatiskt.</p></div>
+<div class="tool-card"><a href="compress-image-to-1000kb.html">Komprimera bild till 1000 KB</a><p>Komprimera valfri bild till 1000 KB eller mindre, automatiskt.</p></div>
+<div class="tool-card"><a href="compress-image-to-1500kb.html">Komprimera bild till 1500 KB</a><p>Komprimera valfri bild till 1500 KB eller mindre, automatiskt.</p></div>
+<div class="tool-card"><a href="compress-image-to-2000kb.html">Komprimera bild till 2000 KB</a><p>Komprimera valfri bild till 2000 KB eller mindre, automatiskt.</p></div>
 <div class="tool-card"><a href="compress-image-to-1mb.html">Komprimera bild till 1 MB</a><p>Komprimera valfri bild till 1 MB eller mindre, automatiskt.</p></div>
 <div class="tool-card"><a href="compress-image-to-2mb.html">Komprimera bild till 2 MB</a><p>Komprimera valfri bild till 2 MB eller mindre, automatiskt.</p></div>
 <div class="tool-card"><a href="resize-image.html">Ändra bildstorlek</a><p>Ändra storlek efter pixlar, cm eller tum, med en DPI-inställning för utskrift.</p></div>
