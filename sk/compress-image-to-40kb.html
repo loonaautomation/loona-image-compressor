@@ -111,39 +111,33 @@ img.preview{max-width:100%;border:1px solid var(--line);border-radius:8px;backgr
 
 <section class="content">
 <h2>Ako komprimovať obrázok na 40 KB v 3 krokoch</h2>
-<ol><li><strong>Pridajte svoj obrázok</strong> — pretiahnite JPG, PNG alebo WebP vyššie, alebo kliknite a vyberte súbor. Nič sa nenahráva; obrázok zostáva vo vašom zariadení.</li>
-<li><strong>Stlačte „Komprimovať na 40 KB“</strong> — nástroj automaticky hľadá najvyššiu kvalitu JPG, ktorej súbor sa zmestí do 40 KB, a rozmery zmenší len vtedy, keď to kvalitou samotnou nejde.</li>
-<li><strong>Stiahnuť výsledok</strong> — pred stiahnutím vidíte pôvodnú veľkosť, konečnú veľkosť a konečné rozmery, vrátane poctivej poznámky, ak sa rozmery museli zmenšiť.</li></ol>
+<ol><li><strong>Pridajte svoj obrázok</strong> — 40 KB je bežný strop pre fotografie žiadostí a v štýle preukazu, ktoré stále musia vyzerať ako vy. Začnite s pôvodnou fotografiou, nie jej snímkou obrazovky: snímky obrazovky míňajú bajty na pixely obrazovky.</li><li><strong>Stlačte „Komprimovať na 40 KB“</strong> — pri tejto veľkosti urobí väčšinu práce vyhľadávanie kvality; typická fotografia si zachová väčšinu alebo všetky svoje rozmery, ako ukazuje praktický príklad, pričom kroky rozmerov sú držané v zálohe.</li><li><strong>Porovnajte konečné rozmery vo výslednom riadku s požiadavkou vášho formulára, potom stiahnite</strong> — ak formulár požaduje aj presné rozmery v pixeloch, skombinujte túto stránku potom s nástrojom na zmenu veľkosti.</li></ol>
 <h2>Kto potrebuje obrázok pod 40 KB?</h2>
 <p>Táto stránka existuje pre form and portal photo limits in the 40 KB range, and fast-loading thumbnails for listings and profiles. Namiesto hádania s posuvníkom kvality a päťnásobného ukladania zadáte limit raz a nástroj hľadá za vás: najprv kvalitu v plnej veľkosti, potom — len v prípade potreby — menšie rozmery, kým sa súbor nezmestí na 40 KB alebo menej.</p>
 <p>Štyridsať kilobajtov je pohodlná veľkosť pre preukazovú alebo profilovú fotografiu na obrazovke: dosť malá pre každý formulár, dosť veľká, aby zostala rozpoznateľná a čistá.</p>
 <h2>Ako to funguje</h2>
-<p>Obrázok sa dekóduje lokálne vo vašom prehliadači a vykreslí sa na plátno. Najprv sa kóduje ako JPG v kvalite 92 %. Ak už sa zmestí do 40 KB, máte hotovo. Ak nie, binárne vyhľadávanie medzi 5 % a 92 % kvality nájde najvyššiu kvalitu, ktorá sa zmestí, pri zachovaní plných rozmerov. Až keď je aj najnižšia kvalita stále príliš veľká, nástroj zmenšuje rozmery po 15 % (opätovné kódovanie v kvalite 70 %), kým sa súbor nezmestí — a keď k tomu dôjde, výsledný riadok to uvedie a oznámi konečné rozmery. Výstupom je vždy JPG s veľkosťou 40 KB alebo menej (40960 bajtov), a pretože všetko prebieha vo vašom zariadení, váš obrázok sa nikdy nenahráva.</p>
+<p>Štyridsať KB (40960 bajtov) sedí vnútri známeho skúšobného pásma 20–50 KB a vyhľadávanie na tejto stránke je zoradené tak, aby tento rozpočet minulo na kvalitu pred veľkosťou. Všetko beží lokálne: prehliadač dekóduje váš obrázok na plátno a kóduje JPG v kvalite 92 %. Ak sa zmestí, máte hotovo. Ak nie, binárne vyhľadávanie medzi 5 % a 92 % kvality vyberie najvyššiu kvalitu, ktorá sa zmestí v pôvodných rozmeroch. V praktickom príklade nižšie JPG s veľkosťou 1,8 MB skončí tesne pod 40 KB pri zachovaní väčšiny svojich rozmerov — vyhľadávanie kvality urobí takmer všetku prácu, s nanajvýš malým krokom rozmerov o 15 % (v kvalite 70 %) pri nezvyčajne detailnej fotografii. Ak sa rozmery niekedy zmenia, výsledný riadok oznámi konečnú veľkosť v pixeloch. Stiahnutie je JPG s veľkosťou 40 KB alebo menej a váš obrázok sa nikdy nikam nenahráva.</p>
 <h3>Praktický príklad</h3>
-<p>JPG s veľkosťou 1,8 MB komprimovaný na 40 KB si v tomto príklade zachová väčšinu svojich rozmerov a skončí na <strong>tesne pod 40 KB</strong> — vyhľadávanie kvality odvedie väčšinu práce, len s malým krokom rozmerov, ak je vaša fotografia nezvyčajne detailná.</p>
-<h3>Časté otázky</h3>
-<h4>Bude môj komprimovaný obrázok presne 40 KB?</h4>
-<p>Nie — bude mať 40 KB alebo menej, nikdy sa nedoplní na presnú hodnotu. Nástroj hľadá najvyššiu kvalitu, ktorá sa do limitu zmestí, takže výsledok je zvyčajne len pár KB pod ním. „Pod limitom“ je to, čo nahrávacie formuláre skutočne požadujú.</p>
-<h4>Prečo sa zmenili rozmery môjho obrázka?</h4>
-<p>Len keď nebola iná možnosť: kvalita JPG má svoje dno a detailná fotografia v plnej veľkosti nemôže vždy dosiahnuť 40 KB len kvalitou. V tom prípade nástroj postupne zmenšuje rozmery a vo výslednom riadku vám oznámi konečnú veľkosť v pixeloch.</p>
-<h4>Prečo je výstup vždy JPG?</h4>
-<p>JPG dáva najmenší súbor pre fotografie a prijíma ho každý formulár a portál. PNG nemá kontrolu kvality, takže trafiť presnú veľkosť s PNG je nespoľahlivé — preto táto stránka, rovnako ako cieľový režim hlavného kompresora Loona, vydáva JPG.</p>
-<h4>Čo tu KB znamená — 1000, alebo 1024 bajtov?</h4>
-<p>Tento nástroj počíta 1 KB ako 1024 bajtov, takže cieľ je 40960 bajtov. Niektoré portály počítajú 1000 bajtov na KB; ak ten váš áno, váš súbor s veľkosťou 40 KB alebo menej (na základe 1024) je stále v rozmedzí niekoľkých percent — pri najprísnejších portáloch si pre istotu zvoľte o jednu veľkosť menšiu.</p>
-<h4>Nahráva sa môj obrázok na server?</h4>
-<p>Nie. Kompresia prebieha 100 % vo vašom prehliadači pomocou Canvas API. Vaše obrázky nikdy neopustia vaše zariadenie.</p>
-<h4>Je tento kompresor na 40 KB zadarmo?</h4>
-<p>Áno — úplne zadarmo, bez registrácie, bez vodoznaku a bez limitu na počet obrázkov.</p>
-<h2 id="all-tools">Ďalšie bezplatné fotografické nástroje</h2>
+<p>JPG s veľkosťou 1,8 MB komprimovaný na 40 KB si v tomto príklade zachová väčšinu svojich rozmerov a skončí na <strong>tesne pod 40 KB</strong> — vyhľadávanie kvality urobí väčšinu práce, len s malým krokom rozmerov, ak je vaša fotografia nezvyčajne detailná.</p>
+<h3>Časté otázky</h3> <h4>Presne 40 KB, alebo pod?</h4> <p>Pod — na 40960 bajtoch alebo pod nimi, v najlepšej kvalite, ktorá sa zmestí. Nástroj nikdy súbor nenafúkne, aby dosiahol presnú hodnotu.</p> <h4>Prežijú moje rozmery pri 40 KB?</h4> <p>Zvyčajne väčšinou áno. V praktickom príklade si fotografia s veľkosťou 1,8 MB zachovala väčšinu svojich rozmerov, pretože vyhľadávanie kvality urobilo ťažkú prácu. Len fotografia, ktorá aj pri najnižšej kvalite stále míňa, sa postupne zmenší, a výsledný riadok to povie.</p> <h4>Prečo je výstup JPG?</h4> <p>Kompresia na presnú veľkosť potrebuje ovládanie kvality JPG; PNG sa nedá naladiť na cieľ v bajtoch. JPG tiež prijíma každý portál a formulár, na ktorých sa táto veľkosť používa.</p> <h4>Ako sa tu počíta KB?</h4> <p>1 KB = 1024 bajtov, takže strop je 40960 bajtov. Na portáli, ktorý počíta 1000 bajtov na KB, sa ten istý súbor prečíta ako zhruba 41 KB — dobré vedieť, ak ho prísny kontrolór odmietne; stránka 30 KB necháva rezervu.</p> <h4>Prebieha kompresia na serveri?</h4> <p>Nie. Všetko beží vo vašom prehliadači cez Canvas API; vaša fotografia nikdy neopustí vaše zariadenie.</p> <h4>Je kompresor na 40 KB zadarmo?</h4> <p>Úplne — bez registrácie, bez vodoznaku, bez limitu obrázkov.</p> <h2 id="all-tools">Ďalšie bezplatné fotografické nástroje</h2>
 <div class="grid">
 <div class="tool-card"><a href="./">Kompresor obrázkov</a><p>Komprimujte fotografie na akúkoľvek presnú veľkosť v KB plným nástrojom.</p></div>
 <div class="tool-card"><a href="image-format-converter.html">Prevodník formátov obrázkov</a><p>Prevádajte JPG, PNG a WebP oboma smermi, s kontrolou kvality.</p></div>
 <div class="tool-card"><a href="compress-image-to-10kb.html">Komprimovať obrázok na 10 KB</a><p>Akýkoľvek obrázok automaticky komprimujte na 10 KB alebo menej.</p></div>
 <div class="tool-card"><a href="compress-image-to-20kb.html">Komprimovať obrázok na 20 KB</a><p>Akýkoľvek obrázok automaticky komprimujte na 20 KB alebo menej.</p></div>
+<div class="tool-card"><a href="compress-image-to-25kb.html">Komprimovať obrázok na 25 KB</a><p>Akýkoľvek obrázok automaticky komprimujte na 25 KB alebo menej.</p></div>
 <div class="tool-card"><a href="compress-image-to-30kb.html">Komprimovať obrázok na 30 KB</a><p>Akýkoľvek obrázok automaticky komprimujte na 30 KB alebo menej.</p></div>
+<div class="tool-card"><a href="compress-image-to-50kb.html">Komprimovať obrázok na 50 KB</a><p>Akýkoľvek obrázok automaticky komprimujte na 50 KB alebo menej.</p></div>
+<div class="tool-card"><a href="compress-image-to-75kb.html">Komprimovať obrázok na 75 KB</a><p>Akýkoľvek obrázok automaticky komprimujte na 75 KB alebo menej.</p></div>
+<div class="tool-card"><a href="compress-image-to-100kb.html">Komprimovať obrázok na 100 KB</a><p>Akýkoľvek obrázok automaticky komprimujte na 100 KB alebo menej.</p></div>
 <div class="tool-card"><a href="compress-image-to-150kb.html">Komprimovať obrázok na 150 KB</a><p>Akýkoľvek obrázok automaticky komprimujte na 150 KB alebo menej.</p></div>
+<div class="tool-card"><a href="compress-image-to-200kb.html">Komprimovať obrázok na 200 KB</a><p>Akýkoľvek obrázok automaticky komprimujte na 200 KB alebo menej.</p></div>
+<div class="tool-card"><a href="compress-image-to-250kb.html">Komprimovať obrázok na 250 KB</a><p>Akýkoľvek obrázok automaticky komprimujte na 250 KB alebo menej.</p></div>
 <div class="tool-card"><a href="compress-image-to-300kb.html">Komprimovať obrázok na 300 KB</a><p>Akýkoľvek obrázok automaticky komprimujte na 300 KB alebo menej.</p></div>
 <div class="tool-card"><a href="compress-image-to-500kb.html">Komprimovať obrázok na 500 KB</a><p>Akýkoľvek obrázok automaticky komprimujte na 500 KB alebo menej.</p></div>
+<div class="tool-card"><a href="compress-image-to-1000kb.html">Komprimovať obrázok na 1000 KB</a><p>Akýkoľvek obrázok automaticky komprimujte na 1000 KB alebo menej.</p></div>
+<div class="tool-card"><a href="compress-image-to-1500kb.html">Komprimovať obrázok na 1500 KB</a><p>Akýkoľvek obrázok automaticky komprimujte na 1500 KB alebo menej.</p></div>
+<div class="tool-card"><a href="compress-image-to-2000kb.html">Komprimovať obrázok na 2000 KB</a><p>Akýkoľvek obrázok automaticky komprimujte na 2000 KB alebo menej.</p></div>
 <div class="tool-card"><a href="compress-image-to-1mb.html">Komprimovať obrázok na 1 MB</a><p>Akýkoľvek obrázok automaticky komprimujte na 1 MB alebo menej.</p></div>
 <div class="tool-card"><a href="compress-image-to-2mb.html">Komprimovať obrázok na 2 MB</a><p>Akýkoľvek obrázok automaticky komprimujte na 2 MB alebo menej.</p></div>
 <div class="tool-card"><a href="resize-image.html">Zmeniť veľkosť obrázka</a><p>Zmena veľkosti podľa pixelov, cm alebo palcov, s nastavením DPI pre tlač.</p></div>
