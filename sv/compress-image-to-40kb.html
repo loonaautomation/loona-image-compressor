@@ -111,39 +111,33 @@ img.preview{max-width:100%;border:1px solid var(--line);border-radius:8px;backgr
 
 <section class="content">
 <h2>Så komprimerar du en bild till 40 KB i 3 steg</h2>
-<ol><li><strong>Lägg till din bild</strong> — släpp en JPG, PNG eller WebP ovan eller klicka för att bläddra. Ingenting laddas upp; bilden stannar på din enhet.</li>
-<li><strong>Tryck på ”Komprimera till 40 KB”</strong> — verktyget söker automatiskt efter den högsta JPG-kvalitet vars fil ryms inom 40 KB, och minskar bara måtten om kvalitet ensam inte kan nå dit.</li>
-<li><strong>Ladda ner resultatet</strong> — du ser originalstorleken, den slutliga storleken och de slutliga måtten innan du laddar ner, inklusive en ärlig notis om måtten var tvungna att minskas.</li></ol>
+<ol><li><strong>Lägg till din bild</strong> — 40 KB är ett vanligt tak för ansöknings- och ID-stilsfoton som fortfarande behöver se ut som du. Börja från originalfotot, inte en skärmdump av det: skärmdumpar slösar byte på skärmpixlar.</li><li><strong>Tryck på ”Komprimera till 40 KB”</strong> — i denna storlek gör kvalitetssökningen det mesta av arbetet; ett typiskt foto behåller de flesta eller alla sina mått, som det genomräknade exemplet visar, med måttstegen hållna i reserv.</li><li><strong>Jämför de slutliga måtten i resultatraden med ditt formulärs krav, ladda sedan ner</strong> — om formuläret också kräver exakta pixelmått, para denna sida med storleksändraren efteråt.</li></ol>
 <h2>Vem behöver en bild under 40 KB?</h2>
 <p>Denna sida finns för formulär- och portalfotogränser i 40 KB-intervallet, och snabbladdande miniatyrer för listningar och profiler. I stället för att gissa med ett kvalitetsreglage och spara om fem gånger anger du gränsen en gång och verktyget söker åt dig: först kvalitet i full storlek, sedan — bara om det behövs — mindre mått, tills filen ryms vid eller under 40 KB.</p>
 <p>Fyrtio kilobyte är en bekväm storlek för ett ID- eller profilfoto på skärmen: litet nog för vilket formulär som helst, stort nog att förbli igenkännbart och rent.</p>
 <h2>Så fungerar det</h2>
-<p>Bilden avkodas lokalt i din webbläsare och ritas på en canvas. Den kodas först som JPG med 92 % kvalitet. Om det redan ryms inom 40 KB är du klar. Om inte, hittar en binärsökning mellan 5 % och 92 % kvalitet den högsta kvalitet som ryms, med de fulla måtten bevarade. Först när även den lägsta kvaliteten fortfarande är för stor stegar verktyget ner måtten med 15 % i taget (omkodning med 70 % kvalitet) tills filen ryms — och när det händer säger resultatraden det och ger de slutliga måtten. Utdatan är alltid en JPG vid eller under 40 KB (40960 byte), och eftersom allt sker på din enhet laddas din bild aldrig upp.</p>
+<p>Fyrtio KB (40960 byte) ligger inom det bekanta provbandet 20–50 KB, och sökningen på denna sida är ordnad att spendera den budgeten på kvalitet före storlek. Allt körs lokalt: webbläsaren avkodar din bild på en canvas och kodar en JPG med 92 % kvalitet. Om det ryms är du klar. Om inte väljer en binärsökning mellan 5 % och 92 % kvalitet den högsta kvalitet som ryms i de ursprungliga måtten. I det genomräknade exemplet nedan slutar en JPG på 1.8 MB strax under 40 KB och behåller de flesta av sina mått — kvalitetssökningen gör nästan allt arbete, med högst ett litet måttsteg om 15 % (vid 70 % kvalitet) för ett ovanligt detaljerat foto. Om måtten någonsin ändras rapporterar resultatraden den slutliga pixelstorleken. Nedladdningen är en JPG vid eller under 40 KB, och din bild laddas aldrig upp någonstans.</p>
 <h3>Genomräknat exempel</h3>
-<p>En 1.8 MB JPG komprimerad till 40 KB behåller de flesta av sina mått i detta exempel och slutar på <strong>strax under 40 KB</strong> — kvalitetssökningen gör det mesta av arbetet, med bara ett litet måttsteg om ditt foto är ovanligt detaljerat.</p>
-<h3>Vanliga frågor</h3>
-<h4>Kommer min komprimerade bild att bli exakt 40 KB?</h4>
-<p>Nej — den blir 40 KB eller mindre, aldrig uppblåst till det. Verktyget söker efter den högsta kvalitet som ryms inom gränsen, så resultatet är vanligtvis bara några få KB under den. ”Under gränsen” är vad uppladdningsformulär faktiskt kräver.</p>
-<h4>Varför ändrades måtten på min bild?</h4>
-<p>Endast när det inte fanns någon annan väg: JPG-kvalitet har ett golv, och ett detaljerat foto i full storlek kan inte alltid nå 40 KB med kvalitet ensam. I så fall minskar verktyget måtten steg för steg och berättar den slutliga pixelstorleken i resultatraden.</p>
-<h4>Varför är utdatan alltid JPG?</h4>
-<p>JPG ger den minsta filen för fotografier och accepteras av varje formulär och portal. PNG har ingen kvalitetskontroll, så att träffa en exakt storlek med PNG är opålitligt — det är därför denna sida, liksom huvudkompressorns målläge i Loona, matar ut JPG.</p>
-<h4>Vad betyder KB här — 1000 eller 1024 byte?</h4>
-<p>Detta verktyg räknar 1 KB som 1024 byte, så målet är 40960 byte. Vissa portaler räknar 1000 byte per KB; om din gör det är din fil vid eller under 40 KB (1024-baserad) ändå inom några procent — för de strängaste portalerna, välj nästa storlek ner för att vara säker.</p>
-<h4>Laddas min bild upp till en server?</h4>
-<p>Nej. Komprimering sker 100 % i din webbläsare med Canvas API. Dina bilder lämnar aldrig din enhet.</p>
-<h4>Är denna 40 KB-kompressor gratis?</h4>
-<p>Ja — helt gratis, utan registrering, ingen vattenstämpel och ingen gräns för antalet bilder.</p>
-<h2 id="all-tools">Fler gratis fotoverktyg</h2>
+<p>En JPG på 1.8 MB komprimerad till 40 KB behåller de flesta av sina mått i detta exempel och slutar på <strong>strax under 40 KB</strong> — kvalitetssökningen gör det mesta av arbetet, med bara ett litet måttsteg om ditt foto är ovanligt detaljerat.</p>
+<h3>Vanliga frågor</h3> <h4>Exakt 40 KB, eller under?</h4> <p>Under — vid eller under 40960 byte, i den bästa kvalitet som ryms. Verktyget blåser aldrig upp en fil för att nå talet.</p> <h4>Kommer mina mått att överleva vid 40 KB?</h4> <p>Vanligtvis, mestadels. I det genomräknade exemplet behöll ett foto på 1.8 MB de flesta av sina mått eftersom kvalitetssökningen gjorde det tunga lyftet. Endast ett foto som fortfarande missar vid den lägsta kvaliteten stegs ner, och resultatraden säger det.</p> <h4>Varför är utdatan en JPG?</h4> <p>Komprimering till exakt storlek behöver JPG:s kvalitetskontroll; PNG kan inte ställas in mot ett bytemål. JPG accepteras också av varje portal och formulär som denna storlek används på.</p> <h4>Hur räknas KB på denna sida?</h4> <p>1 KB = 1024 byte, så taket är 40960 byte. På en portal som räknar 1000 byte per KB läses samma fil som ungefär 41 KB — värt att veta om en strikt kontroll avvisar den; 30 KB-sidan lämnar marginal.</p> <h4>Sker komprimeringen på en server?</h4> <p>Nej. Allt körs i din webbläsare via Canvas API; ditt foto lämnar aldrig din enhet.</p> <h4>Är 40 KB-kompressorn gratis?</h4> <p>Helt — ingen registrering, ingen vattenstämpel, ingen bildgräns.</p> <h2 id="all-tools">Fler gratis fotoverktyg</h2>
 <div class="grid">
 <div class="tool-card"><a href="./">Bildkompressor</a><p>Komprimera foton till valfri exakt KB-storlek med det fullständiga verktyget.</p></div>
 <div class="tool-card"><a href="image-format-converter.html">Bildformatkonverterare</a><p>Konvertera JPG, PNG och WebP åt båda hållen, med kvalitetskontroll.</p></div>
 <div class="tool-card"><a href="compress-image-to-10kb.html">Komprimera bild till 10 KB</a><p>Komprimera valfri bild till 10 KB eller mindre, automatiskt.</p></div>
 <div class="tool-card"><a href="compress-image-to-20kb.html">Komprimera bild till 20 KB</a><p>Komprimera valfri bild till 20 KB eller mindre, automatiskt.</p></div>
+<div class="tool-card"><a href="compress-image-to-25kb.html">Komprimera bild till 25 KB</a><p>Komprimera valfri bild till 25 KB eller mindre, automatiskt.</p></div>
 <div class="tool-card"><a href="compress-image-to-30kb.html">Komprimera bild till 30 KB</a><p>Komprimera valfri bild till 30 KB eller mindre, automatiskt.</p></div>
+<div class="tool-card"><a href="compress-image-to-50kb.html">Komprimera bild till 50 KB</a><p>Komprimera valfri bild till 50 KB eller mindre, automatiskt.</p></div>
+<div class="tool-card"><a href="compress-image-to-75kb.html">Komprimera bild till 75 KB</a><p>Komprimera valfri bild till 75 KB eller mindre, automatiskt.</p></div>
+<div class="tool-card"><a href="compress-image-to-100kb.html">Komprimera bild till 100 KB</a><p>Komprimera valfri bild till 100 KB eller mindre, automatiskt.</p></div>
 <div class="tool-card"><a href="compress-image-to-150kb.html">Komprimera bild till 150 KB</a><p>Komprimera valfri bild till 150 KB eller mindre, automatiskt.</p></div>
+<div class="tool-card"><a href="compress-image-to-200kb.html">Komprimera bild till 200 KB</a><p>Komprimera valfri bild till 200 KB eller mindre, automatiskt.</p></div>
+<div class="tool-card"><a href="compress-image-to-250kb.html">Komprimera bild till 250 KB</a><p>Komprimera valfri bild till 250 KB eller mindre, automatiskt.</p></div>
 <div class="tool-card"><a href="compress-image-to-300kb.html">Komprimera bild till 300 KB</a><p>Komprimera valfri bild till 300 KB eller mindre, automatiskt.</p></div>
 <div class="tool-card"><a href="compress-image-to-500kb.html">Komprimera bild till 500 KB</a><p>Komprimera valfri bild till 500 KB eller mindre, automatiskt.</p></div>
+<div class="tool-card"><a href="compress-image-to-1000kb.html">Komprimera bild till 1000 KB</a><p>Komprimera valfri bild till 1000 KB eller mindre, automatiskt.</p></div>
+<div class="tool-card"><a href="compress-image-to-1500kb.html">Komprimera bild till 1500 KB</a><p>Komprimera valfri bild till 1500 KB eller mindre, automatiskt.</p></div>
+<div class="tool-card"><a href="compress-image-to-2000kb.html">Komprimera bild till 2000 KB</a><p>Komprimera valfri bild till 2000 KB eller mindre, automatiskt.</p></div>
 <div class="tool-card"><a href="compress-image-to-1mb.html">Komprimera bild till 1 MB</a><p>Komprimera valfri bild till 1 MB eller mindre, automatiskt.</p></div>
 <div class="tool-card"><a href="compress-image-to-2mb.html">Komprimera bild till 2 MB</a><p>Komprimera valfri bild till 2 MB eller mindre, automatiskt.</p></div>
 <div class="tool-card"><a href="resize-image.html">Ändra bildstorlek</a><p>Ändra storlek efter pixlar, cm eller tum, med en DPI-inställning för utskrift.</p></div>

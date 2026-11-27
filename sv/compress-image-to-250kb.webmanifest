@@ -1,0 +1,29 @@
+{
+  "name": "Loona Komprimera bild till 250 KB online",
+  "short_name": "Komprimera bild till 250 KB online",
+  "description": "Komprimera JPG-, PNG- och WebP-bilder till 250 KB eller mindre, online och gratis. Automatisk kvalitets- och storlekssökning i din webbläsare — ingen registrering, ingen uppladdning.",
+  "id": "/sv/compress-image-to-250kb.html",
+  "start_url": "./compress-image-to-250kb.html",
+  "scope": "./compress-image-to-250kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "compress-image-to-250kb-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "compress-image-to-250kb-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "compress-image-to-250kb-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
