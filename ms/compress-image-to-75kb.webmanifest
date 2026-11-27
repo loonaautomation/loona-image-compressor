@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mampatkan Imej kepada 75 KB Dalam Talian",
+  "short_name": "Mampatkan Imej kepada 75 KB Dalam Talian",
+  "description": "Mampatkan imej JPG, PNG dan WebP kepada 75 KB atau kurang, dalam talian dan percuma. Carian kualiti dan saiz automatik dalam pelayar anda — tiada pendaftaran, tiada muat naik.",
+  "id": "/ms/compress-image-to-75kb.html",
+  "start_url": "./compress-image-to-75kb.html",
+  "scope": "./compress-image-to-75kb.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "compress-image-to-75kb-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "compress-image-to-75kb-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "compress-image-to-75kb-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
