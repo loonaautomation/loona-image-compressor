@@ -111,39 +111,33 @@ img.preview{max-width:100%;border:1px solid var(--line);border-radius:8px;backgr
 
 <section class="content">
 <h2>Miten pakkaat kuvan kokoon 40 KB 3 vaiheessa</h2>
-<ol><li><strong>Lisää kuvasi</strong> — pudota JPG, PNG tai WebP yllä tai selaa napsauttamalla. Mitään ei lähetetä; kuva pysyy laitteellasi.</li>
-<li><strong>Paina “Pakkaa kokoon 40 KB”</strong> — työkalu etsii automaattisesti korkeimman JPG-laadun, jonka tiedosto mahtuu 40 KB kokoon, ja pienentää mittoja vain, jos laatu yksin ei riitä sinne pääsemiseen.</li>
-<li><strong>Lataa tulos</strong> — näet alkuperäisen koon, lopullisen koon ja lopulliset mitat ennen lataamista, rehellisen huomautuksen kera, jos mittoja piti pienentää.</li></ol>
+<ol><li><strong>Lisää kuvasi</strong> — 40 KB on yleinen katto haku- ja henkilöllisyystyylisille kuville, joiden täytyy edelleen näyttää sinulta. Aloita alkuperäisestä kuvasta, älä sen kuvakaappauksesta: kuvakaappaukset tuhlaavat tavuja ruudun pikseleihin.</li><li><strong>Paina “Pakkaa kokoon 40 KB”</strong> — tässä koossa laatuhaku tekee suurimman osan työstä; tyypillinen kuva säilyttää useimmat tai kaikki mittansa, kuten laskuesimerkki näyttää, mittavaiheiden ollessa varalla.</li><li><strong>Vertaa tulosrivin lopullisia mittoja lomakkeesi vaatimukseen ja lataa sitten</strong> — jos lomake vaatii myös tarkat pikselimitat, yhdistä tämä sivu koonmuuttajaan jälkikäteen.</li></ol>
 <h2>Kuka tarvitsee alle 40 KB:n kuvan?</h2>
 <p>Tämä sivu on lomake- ja portaali-kuvarajoja varten 40 KB:n alueella sekä nopeasti latautuvia pikkukuvia varten listauksille ja profiileille. Sen sijaan, että arvaisit laatusäätimellä ja tallentaisit viisi kertaa uudelleen, ilmoitat rajan kerran ja työkalu hakee puolestasi: ensin laadun täydessä koossa, sitten — vain tarvittaessa — pienemmät mitat, kunnes tiedosto mahtuu kokoon 40 KB tai alle.</p>
 <p>Neljäkymmentä kilotavua on mukava koko näytöllä näytettävälle henkilöllisyys- tai profiilikuvalle: tarpeeksi pieni mille tahansa lomakkeelle, tarpeeksi suuri pysyäkseen tunnistettavana ja siistinä.</p>
 <h2>Miten se toimii</h2>
-<p>Kuva puretaan paikallisesti selaimessasi ja piirretään kankaalle. Se koodataan ensin JPG:ksi 92 %:n laadulla. Jos se jo mahtuu kokoon 40 KB, olet valmis. Jos ei, binäärihaku välillä 5 % ja 92 % löytää korkeimman sopivan laadun säilyttäen täydet mitat. Vain kun alhaisinkin laatu on edelleen liian suuri, työkalu pienentää mittoja 15 % kerrallaan (koodaten uudelleen 70 %:n laadulla), kunnes tiedosto mahtuu — ja kun niin tapahtuu, tulosrivi sanoo niin ja antaa lopulliset mitat. Tuloste on aina JPG koossa 40 KB tai alle (40960 tavua), ja koska kaikki tapahtuu laitteellasi, kuvaasi ei koskaan ladata palvelimelle.</p>
+<p>Neljäkymmentä KB (40960 tavua) sijoittuu tutun 20–50 KB:n koekaistan sisään, ja tämän sivun haku on järjestetty kuluttamaan tuo budjetti laatuun ennen kokoa. Kaikki toimii paikallisesti: selain purkaa kuvasi kankaalle ja koodaa JPG:n 92 %:n laadulla. Jos se mahtuu, olet valmis. Jos ei, binäärihaku laadun 5 % ja 92 % välillä valitsee korkeimman laadun, joka mahtuu alkuperäisillä mitoilla. Alla olevassa laskuesimerkissä 1.8 MB:n JPG päättyy juuri alle 40 KB:n säilyttäen useimmat mittansa — laatuhaku tekee lähes kaiken työn, korkeintaan pienellä 15 %:n mittavaiheella (70 %:n laadulla) epätavallisen yksityiskohtaiselle kuvalle. Jos mitat koskaan muuttuvat, tulosrivi raportoi lopullisen pikselikoon. Lataus on JPG koossa 40 KB tai alle, eikä kuvaasi koskaan ladata minnekään.</p>
 <h3>Laskuesimerkki</h3>
-<p>1.8 MB:n JPG, joka on pakattu kokoon 40 KB, säilyttää tässä esimerkissä useimmat mittansa ja päätyy kokoon <strong>juuri alle 40 KB</strong> — laadun haku tekee suurimman osan työstä, vain pienellä mitta-askeleella, jos kuvasi on poikkeuksellisen yksityiskohtainen.</p>
-<h3>Usein kysytyt kysymykset</h3>
-<h4>Onko pakattu kuvani täsmälleen 40 KB?</h4>
-<p>Ei — se on koossa 40 KB tai alle, sitä ei koskaan täytetä siihen asti. Työkalu etsii korkeimman laadun, joka mahtuu rajan sisään, joten tulos on yleensä vain muutaman KB:n sen alla. “Rajan alla” on se, mitä latauslomakkeet todella vaativat.</p>
-<h4>Miksi kuvani mitat muuttuivat?</h4>
-<p>Vain kun muuta keinoa ei ollut: JPG-laadulla on alaraja, eikä yksityiskohtainen täysikokoinen kuva aina yllä kokoon 40 KB pelkällä laadulla. Siinä tapauksessa työkalu pienentää mittoja askel kerrallaan ja kertoo lopullisen pikselikoon tulosrivillä.</p>
-<h4>Miksi tuloste on aina JPG?</h4>
-<p>JPG antaa pienimmän tiedoston valokuville ja se hyväksytään jokaisessa lomakkeessa ja portaalissa. PNG:ssä ei ole laadun hallintaa, joten tarkkaan kokoon osuminen PNG:llä on epäluotettavaa — siksi tämä sivu tuottaa JPG:tä, kuten Loona-pääpakkaajan kohdetilakin.</p>
-<h4>Mitä KB tarkoittaa täällä — 1000 vai 1024 tavua?</h4>
-<p>Tämä työkalu laskee 1 KB:n olevan 1024 tavua, joten kohde on 40960 tavua. Jotkin portaalit laskevat 1000 tavua per KB; jos sinun portaalisi tekee niin, tiedostosi koossa 40 KB tai alle (1024-pohjainen) on edelleen muutaman prosentin sisällä — tiukimmille portaaleille valitse seuraava koko alaspäin ollaksesi turvassa.</p>
-<h4>Ladataanko kuvani palvelimelle?</h4>
-<p>Ei. Pakkaus tapahtuu 100 % selaimessasi Canvas API:a käyttäen. Kuvasi eivät koskaan poistu laitteeltasi.</p>
-<h4>Onko tämä 40 KB:n pakkaaja ilmainen?</h4>
-<p>Kyllä — täysin ilmainen, ilman rekisteröitymistä, ilman vesileimaa eikä rajoitusta kuvien määrälle.</p>
-<h2 id="all-tools">Lisää ilmaisia kuvatyökaluja</h2>
+<p>1.8 MB:n JPG pakattuna kokoon 40 KB säilyttää useimmat mittansa tässä esimerkissä ja päättyy kokoon <strong>juuri alle 40 KB</strong> — laatuhaku tekee suurimman osan työstä, vain pienellä mittavaiheella, jos kuvasi on epätavallisen yksityiskohtainen.</p>
+<h3>Usein kysytyt kysymykset</h3> <h4>Täsmälleen 40 KB vai alle?</h4> <p>Alle — koossa 40960 tavua tai sen alla, parhaalla sopivalla laadulla. Työkalu ei koskaan paisuta tiedostoa lukuun päästäkseen.</p> <h4>Säilyvätkö mittani koossa 40 KB?</h4> <p>Yleensä, enimmäkseen. Laskuesimerkissä 1.8 MB:n kuva säilytti useimmat mittansa, koska laatuhaku teki raskaan työn. Vain kuva, joka edelleen jää vajaaksi alhaisimmalla laadulla, pienennetään vaiheittain, ja tulosrivi sanoo niin.</p> <h4>Miksi tuloste on JPG?</h4> <p>Tarkan koon pakkaus tarvitsee JPG:n laadun hallinnan; PNG:tä ei voi virittää tavutavoitteeseen. JPG hyväksytään myös jokaisessa portaalissa ja lomakkeella, joissa tätä kokoa käytetään.</p> <h4>Miten KB lasketaan tällä sivulla?</h4> <p>1 KB = 1024 tavua, joten katto on 40960 tavua. Portaalissa, joka laskee 1000 tavua per KB, sama tiedosto lukee noin kokona 41 KB — hyvä tietää, jos tiukka tarkistaja hylkää sen; 30 KB:n sivu jättää marginaalin.</p> <h4>Tapahtuuko pakkaus palvelimella?</h4> <p>Ei. Kaikki toimii selaimessasi Canvas-rajapinnan kautta; kuvasi ei koskaan poistu laitteeltasi.</p> <h4>Onko 40 KB:n pakkaaja ilmainen?</h4> <p>Täysin — ei rekisteröitymistä, ei vesileimaa, ei kuvarajaa.</p> <h2 id="all-tools">Lisää ilmaisia kuvatyökaluja</h2>
 <div class="grid">
 <div class="tool-card"><a href="./">Kuvanpakkaaja</a><p>Pakkaa kuvia mihin tahansa tarkkaan KB-kokoon täydellä työkalulla.</p></div>
 <div class="tool-card"><a href="image-format-converter.html">Kuvamuotomuunnin</a><p>Muunna JPG, PNG ja WebP molempiin suuntiin, laadun hallinnalla.</p></div>
 <div class="tool-card"><a href="compress-image-to-10kb.html">Pakkaa kuva kokoon 10 KB</a><p>Pakkaa mikä tahansa kuva kokoon 10 KB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="compress-image-to-20kb.html">Pakkaa kuva kokoon 20 KB</a><p>Pakkaa mikä tahansa kuva kokoon 20 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-25kb.html">Pakkaa kuva kokoon 25 KB</a><p>Pakkaa mikä tahansa kuva kokoon 25 KB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="compress-image-to-30kb.html">Pakkaa kuva kokoon 30 KB</a><p>Pakkaa mikä tahansa kuva kokoon 30 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-50kb.html">Pakkaa kuva kokoon 50 KB</a><p>Pakkaa mikä tahansa kuva kokoon 50 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-75kb.html">Pakkaa kuva kokoon 75 KB</a><p>Pakkaa mikä tahansa kuva kokoon 75 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-100kb.html">Pakkaa kuva kokoon 100 KB</a><p>Pakkaa mikä tahansa kuva kokoon 100 KB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="compress-image-to-150kb.html">Pakkaa kuva kokoon 150 KB</a><p>Pakkaa mikä tahansa kuva kokoon 150 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-200kb.html">Pakkaa kuva kokoon 200 KB</a><p>Pakkaa mikä tahansa kuva kokoon 200 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-250kb.html">Pakkaa kuva kokoon 250 KB</a><p>Pakkaa mikä tahansa kuva kokoon 250 KB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="compress-image-to-300kb.html">Pakkaa kuva kokoon 300 KB</a><p>Pakkaa mikä tahansa kuva kokoon 300 KB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="compress-image-to-500kb.html">Pakkaa kuva kokoon 500 KB</a><p>Pakkaa mikä tahansa kuva kokoon 500 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-1000kb.html">Pakkaa kuva kokoon 1000 KB</a><p>Pakkaa mikä tahansa kuva kokoon 1000 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-1500kb.html">Pakkaa kuva kokoon 1500 KB</a><p>Pakkaa mikä tahansa kuva kokoon 1500 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-2000kb.html">Pakkaa kuva kokoon 2000 KB</a><p>Pakkaa mikä tahansa kuva kokoon 2000 KB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="compress-image-to-1mb.html">Pakkaa kuva kokoon 1 MB</a><p>Pakkaa mikä tahansa kuva kokoon 1 MB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="compress-image-to-2mb.html">Pakkaa kuva kokoon 2 MB</a><p>Pakkaa mikä tahansa kuva kokoon 2 MB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="resize-image.html">Muuta kuvan kokoa</a><p>Muuta kokoa pikseleinä, cm:inä tai tuumina, tulostus-DPI-asetuksella.</p></div>

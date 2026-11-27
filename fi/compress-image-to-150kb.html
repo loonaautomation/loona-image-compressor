@@ -111,39 +111,33 @@ img.preview{max-width:100%;border:1px solid var(--line);border-radius:8px;backgr
 
 <section class="content">
 <h2>Miten pakkaat kuvan kokoon 150 KB 3 vaiheessa</h2>
-<ol><li><strong>Lisää kuvasi</strong> — pudota JPG, PNG tai WebP yllä tai selaa napsauttamalla. Mitään ei lähetetä; kuva pysyy laitteellasi.</li>
-<li><strong>Paina “Pakkaa kokoon 150 KB”</strong> — työkalu etsii automaattisesti korkeimman JPG-laadun, jonka tiedosto mahtuu 150 KB kokoon, ja pienentää mittoja vain, jos laatu yksin ei riitä sinne pääsemiseen.</li>
-<li><strong>Lataa tulos</strong> — näet alkuperäisen koon, lopullisen koon ja lopulliset mitat ennen lataamista, rehellisen huomautuksen kera, jos mittoja piti pienentää.</li></ol>
+<ol><li><strong>Lisää kuvasi</strong> — 150 KB on jakamiskoko: tarpeeksi suuri täydelle puhelinkuvalle, tarpeeksi pieni sähköpostiin tai viestiin tukkimatta saapuneita. Voit lisätä alkuperäisen suoraan kamerarullastasi.</li><li><strong>Paina “Pakkaa kokoon 150 KB”</strong> — useimmilla kuvilla pelkkä laatuhaku päätyy alle 153600 tavun täysillä mitoilla; yllä oleva 3.9 MB:n esimerkki säilytti jokaisen pikselin. Mittavaiheet ovat viimeinen keino, jota tässä koossa näet harvoin.</li><li><strong>Lataa ja jaa</strong> — tulosrivi vahvistaa lopullisen koon ja sen, että mitat ovat muuttumattomat. Kuva, joka oli 3.9 MB, kulkee nyt kevyesti ja avautuu edelleen koko ruudulle.</li></ol>
 <h2>Kuka tarvitsee alle 150 KB:n kuvan?</h2>
 <p>Tämä sivu on hakemus- ja pääsykuvia varten, joilla on väljät rajat, profiilikuvia varten sekä WhatsApp- ja sosiaalisia jakoja varten, joiden tulee pysyä terävinä mutta lähetettävä nopeasti. Sen sijaan, että arvaisit laatusäätimellä ja tallentaisit viisi kertaa uudelleen, ilmoitat rajan kerran ja työkalu hakee puolestasi: ensin laadun täydessä koossa, sitten — vain tarvittaessa — pienemmät mitat, kunnes tiedosto mahtuu kokoon 150 KB tai alle.</p>
 <p>Koossa 150 KB useimmat kuvat eivät tarvitse pienennystä lainkaan: binäärihaku löytää laadun, joka mahtuu täydessä koossa, joten lataamasi tiedosto on sama kuva, vain tehokkaasti koodattuna.</p>
 <h2>Miten se toimii</h2>
-<p>Kuva puretaan paikallisesti selaimessasi ja piirretään kankaalle. Se koodataan ensin JPG:ksi 92 %:n laadulla. Jos se jo mahtuu kokoon 150 KB, olet valmis. Jos ei, binäärihaku välillä 5 % ja 92 % löytää korkeimman sopivan laadun säilyttäen täydet mitat. Vain kun alhaisinkin laatu on edelleen liian suuri, työkalu pienentää mittoja 15 % kerrallaan (koodaten uudelleen 70 %:n laadulla), kunnes tiedosto mahtuu — ja kun niin tapahtuu, tulosrivi sanoo niin ja antaa lopulliset mitat. Tuloste on aina JPG koossa 150 KB tai alle (153600 tavua), ja koska kaikki tapahtuu laitteellasi, kuvaasi ei koskaan ladata palvelimelle.</p>
+<p>150 KB:n tavoite (153600 tavua) on tarpeeksi antelias, ettei mittojen lähes koskaan tarvitse liikkua, ja tämän sivun mekaniikka heijastaa sitä. Selaimesi purkaa kuvan kankaalle — mitään ei lähetetä palvelimelle — ja koodaa sen JPG:ksi 92 %:n laadulla. Kun tuo ensimmäinen koodaus on edelleen rajan yli, binäärihaku laadun 5 % ja 92 % välillä löytää korkeimman sopivan laadun pitäen pikselimitat täsmälleen ennallaan. Alla oleva laskuesimerkki on tavallinen tarina: 3.9 MB:n puhelinkuva koossa 4032 × 3024 px yltää juuri alle 150 KB:n pelkällä laadulla, ilman näkyvää eroa puhelimen tai kannettavan ruudulla. 15 %:n mittavaiheet 70 %:n laadulla pidetään vain varalla poikkeuksellisen yksityiskohtaisille tiedostoille, ja tulosrivi kertoisi, jos niitä käytettiin. Lataamasi tiedosto on JPG koossa 150 KB tai alle.</p>
 <h3>Laskuesimerkki</h3>
-<p>3.9 MB:n puhelinkuva (4032 × 3024 px), joka on pakattu kokoon 150 KB, säilyttää <strong>täydet mitat</strong> — vain JPG-laatua lasketaan, ja tulos on <strong>juuri alle 150 KB</strong> ilman näkyvää eroa puhelimen tai kannettavan tietokoneen näytöllä.</p>
-<h3>Usein kysytyt kysymykset</h3>
-<h4>Onko pakattu kuvani täsmälleen 150 KB?</h4>
-<p>Ei — se on koossa 150 KB tai alle, sitä ei koskaan täytetä siihen asti. Työkalu etsii korkeimman laadun, joka mahtuu rajan sisään, joten tulos on yleensä vain muutaman KB:n sen alla. “Rajan alla” on se, mitä latauslomakkeet todella vaativat.</p>
-<h4>Miksi kuvani mitat muuttuivat?</h4>
-<p>Vain kun muuta keinoa ei ollut: JPG-laadulla on alaraja, eikä yksityiskohtainen täysikokoinen kuva aina yllä kokoon 150 KB pelkällä laadulla. Siinä tapauksessa työkalu pienentää mittoja askel kerrallaan ja kertoo lopullisen pikselikoon tulosrivillä.</p>
-<h4>Miksi tuloste on aina JPG?</h4>
-<p>JPG antaa pienimmän tiedoston valokuville ja se hyväksytään jokaisessa lomakkeessa ja portaalissa. PNG:ssä ei ole laadun hallintaa, joten tarkkaan kokoon osuminen PNG:llä on epäluotettavaa — siksi tämä sivu tuottaa JPG:tä, kuten Loona-pääpakkaajan kohdetilakin.</p>
-<h4>Mitä KB tarkoittaa täällä — 1000 vai 1024 tavua?</h4>
-<p>Tämä työkalu laskee 1 KB:n olevan 1024 tavua, joten kohde on 153600 tavua. Jotkin portaalit laskevat 1000 tavua per KB; jos sinun portaalisi tekee niin, tiedostosi koossa 150 KB tai alle (1024-pohjainen) on edelleen muutaman prosentin sisällä — tiukimmille portaaleille valitse seuraava koko alaspäin ollaksesi turvassa.</p>
-<h4>Ladataanko kuvani palvelimelle?</h4>
-<p>Ei. Pakkaus tapahtuu 100 % selaimessasi Canvas API:a käyttäen. Kuvasi eivät koskaan poistu laitteeltasi.</p>
-<h4>Onko tämä 150 KB:n pakkaaja ilmainen?</h4>
-<p>Kyllä — täysin ilmainen, ilman rekisteröitymistä, ilman vesileimaa eikä rajoitusta kuvien määrälle.</p>
-<h2 id="all-tools">Lisää ilmaisia kuvatyökaluja</h2>
+<p>3.9 MB:n puhelinkuva (4032 × 3024 px) pakattuna kokoon 150 KB säilyttää <strong>täydet mittansa</strong> — vain JPG-laatua lasketaan, ja tulos on <strong>juuri alle 150 KB</strong> ilman näkyvää eroa puhelimen tai kannettavan ruudulla.</p>
+<h3>Usein kysytyt kysymykset</h3> <h4>Onko se täsmälleen 150 KB?</h4> <p>Juuri alle — haku pysähtyy korkeimpaan laatuun, joka mahtuu 153600 tavun sisään, eikä koskaan täytä tiedostoa ylöspäin. Sähköpostille ja latauksille vaatimus on “rajan alla”.</p> <h4>Menetänkö kuvani mitat koossa 150 KB?</h4> <p>Lähes koskaan. Puhelinkuvat mahtuvat tässä koossa normaalisti pelkällä laadulla säilyttäen täydet mitat; vain epätavallisen yksityiskohtainen kuva, joka jää vajaaksi minimilaadulla, pienennetään vaiheittain, ja tulosrivi raportoi sen.</p> <h4>Miksi JPG-tuloste?</h4> <p>Valokuville JPG saavuttaa tavoitekoon pienimmällä näkyvällä häviöllä, ja jokainen sähköpostisovellus, viestisovellus ja verkkosivusto hyväksyy sen. PNG pysyy parempana valintana grafiikalle — ne työkalut ovat muualla tällä sivustolla.</p> <h4>Onko 150 KB täällä 150000 tavua?</h4> <p>Se on 153600 tavua — tämä työkalu laskee 1 KB:n olevan 1024 tavua. Ero on noin 2.4 %, mikä merkitsee vain epätavallisen tiukkaa tarkistajaa vastaan.</p> <h4>Ladataanko kuviani palvelimelle?</h4> <p>Ei. Selaimesi tekee purkamisen ja koodauksen paikallisesti; mitään ei lähetetä minnekään.</p> <h4>Mitä useiden kuvien pakkaaminen maksaa?</h4> <p>Ei mitään — ilmaista, ei tiliä, ei vesileimaa eikä kattoa sille, montako kuvaa käsittelet.</p> <h2 id="all-tools">Lisää ilmaisia kuvatyökaluja</h2>
 <div class="grid">
 <div class="tool-card"><a href="./">Kuvanpakkaaja</a><p>Pakkaa kuvia mihin tahansa tarkkaan KB-kokoon täydellä työkalulla.</p></div>
 <div class="tool-card"><a href="image-format-converter.html">Kuvamuotomuunnin</a><p>Muunna JPG, PNG ja WebP molempiin suuntiin, laadun hallinnalla.</p></div>
 <div class="tool-card"><a href="compress-image-to-10kb.html">Pakkaa kuva kokoon 10 KB</a><p>Pakkaa mikä tahansa kuva kokoon 10 KB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="compress-image-to-20kb.html">Pakkaa kuva kokoon 20 KB</a><p>Pakkaa mikä tahansa kuva kokoon 20 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-25kb.html">Pakkaa kuva kokoon 25 KB</a><p>Pakkaa mikä tahansa kuva kokoon 25 KB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="compress-image-to-30kb.html">Pakkaa kuva kokoon 30 KB</a><p>Pakkaa mikä tahansa kuva kokoon 30 KB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="compress-image-to-40kb.html">Pakkaa kuva kokoon 40 KB</a><p>Pakkaa mikä tahansa kuva kokoon 40 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-50kb.html">Pakkaa kuva kokoon 50 KB</a><p>Pakkaa mikä tahansa kuva kokoon 50 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-75kb.html">Pakkaa kuva kokoon 75 KB</a><p>Pakkaa mikä tahansa kuva kokoon 75 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-100kb.html">Pakkaa kuva kokoon 100 KB</a><p>Pakkaa mikä tahansa kuva kokoon 100 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-200kb.html">Pakkaa kuva kokoon 200 KB</a><p>Pakkaa mikä tahansa kuva kokoon 200 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-250kb.html">Pakkaa kuva kokoon 250 KB</a><p>Pakkaa mikä tahansa kuva kokoon 250 KB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="compress-image-to-300kb.html">Pakkaa kuva kokoon 300 KB</a><p>Pakkaa mikä tahansa kuva kokoon 300 KB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="compress-image-to-500kb.html">Pakkaa kuva kokoon 500 KB</a><p>Pakkaa mikä tahansa kuva kokoon 500 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-1000kb.html">Pakkaa kuva kokoon 1000 KB</a><p>Pakkaa mikä tahansa kuva kokoon 1000 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-1500kb.html">Pakkaa kuva kokoon 1500 KB</a><p>Pakkaa mikä tahansa kuva kokoon 1500 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-2000kb.html">Pakkaa kuva kokoon 2000 KB</a><p>Pakkaa mikä tahansa kuva kokoon 2000 KB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="compress-image-to-1mb.html">Pakkaa kuva kokoon 1 MB</a><p>Pakkaa mikä tahansa kuva kokoon 1 MB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="compress-image-to-2mb.html">Pakkaa kuva kokoon 2 MB</a><p>Pakkaa mikä tahansa kuva kokoon 2 MB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="resize-image.html">Muuta kuvan kokoa</a><p>Muuta kokoa pikseleinä, cm:inä tai tuumina, tulostus-DPI-asetuksella.</p></div>
