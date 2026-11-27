@@ -165,9 +165,9 @@ $("goBtn").addEventListener("click",async function(){
 
 <h2>Näin pakkaat PNG-kuvan kokoon 25 KB</h2>
 <ol>
-<li><strong>Lisää kuvasi</strong> — vedä se laatikkoon tai napsauta ja selaa. JPG, PNG, WebP ja useimmat muut kuvat, jotka selaimesi osaa avata, käyvät.</li>
-<li><strong>Paina ”Pakkaa kokoon 25 KB”</strong> — työkalu hakee automaattisesti: muodolla PNG se pienentää mittoja, koska PNG:ssä ei ole laatuasetusta, kunnes tiedosto on enintään 25 KB.</li>
-<li><strong>Lataa</strong> — tulosrivi näyttää saavutetun koon ja lopulliset mitat ennen tallennusta.</li>
+<li><strong>Lisää kuvasi</strong> — vedä se laatikkoon tai napsauta selataksesi. JPG, PNG, WebP ja useimmat muut kuvat, jotka selaimesi voi avata, hyväksytään.</li>
+<li><strong>Paina “Pakkaa kokoon 25 KB”</strong> — ei liukusäätimen arvailua: PNG:ssä ei ole laadun säädintä, joten se pienentää pikselimittoja askel kerrallaan, koodaten uudelleen jokaisen askeleen jälkeen, kunnes tiedosto mahtuu, ja haku pysähtyy heti, kun tiedosto mahtuu kokoon 25 KB tai alle. Miksi tämä koko on olemassa: jotkin osavaltioiden työportaalit, yliopistojen hakulomakkeet ja stipendihakemukset asettavat kuvarajat kokoon 25 KB — hankala koko, jota yleiset ‘pieni/keskikokoinen/suuri’ -pakkaajat eivät koskaan tarjoa, mikä on täsmälleen syy, miksi tämä esiasetus on olemassa.</li>
+<li><strong>Lataa</strong> — tulosrivi näyttää saavutetun koon ja lopulliset mitat ennen tallentamista.</li>
 </ol>
 <h2>Kuka tarvitsee PNG-kuvan alle 25 KB:n?</h2>
 <p>Jotkin osavaltioiden työportaalit, yliopistojen hakulomakkeet ja apurahahakemukset asettavat kuvarajaksi 25 KB — hankala koko, jota yleiset ”pieni/keskisuuri/suuri” -pakkaajat eivät koskaan tarjoa, ja juuri siksi tämä esiasetus on olemassa.</p>
@@ -190,11 +190,20 @@ $("goBtn").addEventListener("click",async function(){
 <div class="tool-card"><a href="./">Kuvanpakkaaja</a><p>Pakkaa kuvia mihin tahansa tarkkaan KB-kokoon täydellä työkalulla.</p></div>
 <div class="tool-card"><a href="image-format-converter.html">Kuvamuotomuunnin</a><p>Muunna JPG, PNG ja WebP molempiin suuntiin, laadun hallinnalla.</p></div>
 <div class="tool-card"><a href="compress-image-to-10kb.html">Pakkaa kuva kokoon 10 KB</a><p>Pakkaa mikä tahansa kuva kokoon 10 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-25kb.html">Pakkaa kuva kokoon 25 KB</a><p>Pakkaa mikä tahansa kuva kokoon 25 KB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="compress-image-to-30kb.html">Pakkaa kuva kokoon 30 KB</a><p>Pakkaa mikä tahansa kuva kokoon 30 KB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="compress-image-to-40kb.html">Pakkaa kuva kokoon 40 KB</a><p>Pakkaa mikä tahansa kuva kokoon 40 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-50kb.html">Pakkaa kuva kokoon 50 KB</a><p>Pakkaa mikä tahansa kuva kokoon 50 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-75kb.html">Pakkaa kuva kokoon 75 KB</a><p>Pakkaa mikä tahansa kuva kokoon 75 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-100kb.html">Pakkaa kuva kokoon 100 KB</a><p>Pakkaa mikä tahansa kuva kokoon 100 KB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="compress-image-to-150kb.html">Pakkaa kuva kokoon 150 KB</a><p>Pakkaa mikä tahansa kuva kokoon 150 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-200kb.html">Pakkaa kuva kokoon 200 KB</a><p>Pakkaa mikä tahansa kuva kokoon 200 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-250kb.html">Pakkaa kuva kokoon 250 KB</a><p>Pakkaa mikä tahansa kuva kokoon 250 KB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="compress-image-to-300kb.html">Pakkaa kuva kokoon 300 KB</a><p>Pakkaa mikä tahansa kuva kokoon 300 KB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="compress-image-to-500kb.html">Pakkaa kuva kokoon 500 KB</a><p>Pakkaa mikä tahansa kuva kokoon 500 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-1000kb.html">Pakkaa kuva kokoon 1000 KB</a><p>Pakkaa mikä tahansa kuva kokoon 1000 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-1500kb.html">Pakkaa kuva kokoon 1500 KB</a><p>Pakkaa mikä tahansa kuva kokoon 1500 KB tai alle, automaattisesti.</p></div>
+<div class="tool-card"><a href="compress-image-to-2000kb.html">Pakkaa kuva kokoon 2000 KB</a><p>Pakkaa mikä tahansa kuva kokoon 2000 KB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="compress-image-to-1mb.html">Pakkaa kuva kokoon 1 MB</a><p>Pakkaa mikä tahansa kuva kokoon 1 MB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="compress-image-to-2mb.html">Pakkaa kuva kokoon 2 MB</a><p>Pakkaa mikä tahansa kuva kokoon 2 MB tai alle, automaattisesti.</p></div>
 <div class="tool-card"><a href="resize-image.html">Muuta kuvan kokoa</a><p>Muuta kokoa pikseleinä, cm:inä tai tuumina, tulostus-DPI-asetuksella.</p></div>
